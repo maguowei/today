@@ -15,6 +15,12 @@ class Weibo:
         return data
 
     @classmethod
+    def get_latest_hot_data(cls, filename):
+        with open(filename) as f:
+            data = json.load(f)
+            return data
+
+    @classmethod
     def export_hots(cls):
         today = datetime.date.today()
         data = cls.get_weibo_hots()
@@ -22,8 +28,24 @@ class Weibo:
         raw_filename = f'data/raw/{today}.json'
         md_filename = f'data/md/{today}.md'
 
+        old_data = cls.get_latest_hot_data(raw_filename)
+
+        data = cls.merge_hots(old_data, data)
+
         cls.dump_hots_json(raw_filename, data)
         cls.dump_hots_md(md_filename, data)
+
+    @classmethod
+    def merge_hots(cls, old_data, new_data):
+        titles = [hot['title'] for hot in old_data]
+        new_count = 0
+        for hot in new_data:
+            if hot['title'] not in titles:
+                old_data.append(hot)
+                new_count += 1
+
+        print(f'热搜总计: {len(old_data)}, 新增: {new_count}')
+        return old_data
 
     @classmethod
     def dump_hots_json(cls, filename, data):
