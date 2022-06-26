@@ -11,7 +11,7 @@
 - [ ] [Hacker News](https://news.ycombinator.com/news)
 - [ ] [GitHub Trending](https://github.com/trending)
 - [ ] [V2ex Hot](https://www.v2ex.com/?tab=hot)
-- [ ] [36kr快讯](https://www.36kr.com/newsflashes)
+- [x] [36kr快讯](https://www.36kr.com/newsflashes)
 - [ ] [Readhub](https://readhub.cn)
 
 ## 参考
