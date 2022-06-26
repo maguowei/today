@@ -1,6 +1,6 @@
 import json
-import datetime
 from pathlib import Path
+from datetime import datetime, timedelta, timezone
 from abc import ABC, abstractmethod
 
 
@@ -22,8 +22,15 @@ class Today(ABC):
         except FileNotFoundError:
             return []
 
+    @classmethod
+    def get_bj_time_now(self):
+        utc_time = datetime.utcnow().replace(tzinfo=timezone.utc)
+        # 转换为北京时间
+        bj_time = utc_time.astimezone(timezone(timedelta(hours=8)))
+        return bj_time
+
     def get_filename_by_ext(self, ext):
-        today = datetime.date.today().strftime('%Y-%m-%d')
+        today = self.get_bj_time_now().today().strftime('%Y-%m-%d')
         filename = f'data/{self.name}/{ext}/{today}.{ext}'
         return filename
 
@@ -56,7 +63,7 @@ class Today(ABC):
             json.dump(self.latest_data, f, ensure_ascii=False, indent=2)
 
     def dump_md(self):
-        time = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+        time = self.get_bj_time_now().strftime('%Y-%m-%d %H:%M:%S')
         filename = self.get_filename_by_ext('md')
         file = Path(filename)
         file.parent.mkdir(exist_ok=True, parents=True)
