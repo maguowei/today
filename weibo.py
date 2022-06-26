@@ -21,4 +21,4 @@ class WeiboHot(Today):
 
 
 if __name__ == '__main__':
-    WeiboHot(WeiboHot.name, WeiboHot.desc).export()
+    WeiboHot(WeiboHot.name, WeiboHot.desc, WeiboHot.icon).export()
