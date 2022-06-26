@@ -16,9 +16,12 @@ class Weibo:
 
     @classmethod
     def get_latest_hot_data(cls, filename):
-        with open(filename) as f:
-            data = json.load(f)
-            return data
+        try:
+            with open(filename) as f:
+                data = json.load(f)
+                return data
+        except FileNotFoundError:
+            return []
 
     @classmethod
     def export_hots(cls):
