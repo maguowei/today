@@ -23,7 +23,7 @@ class Today(ABC):
             return []
 
     @classmethod
-    def get_bj_time_now(self):
+    def get_bj_time_now(cls):
         utc_time = datetime.utcnow().replace(tzinfo=timezone.utc)
         # 转换为北京时间
         bj_time = utc_time.astimezone(timezone(timedelta(hours=8)))
