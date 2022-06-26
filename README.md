@@ -1,5 +1,9 @@
 # Today
 
+[![today](https://github.com/maguowei/today/actions/workflows/schedule.yml/badge.svg)](https://github.com/maguowei/today/actions/workflows/schedule.yml)
+
+---
+
 ## TODO
 
 - [x] 微博热搜
