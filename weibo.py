@@ -6,6 +6,7 @@ from today import Today, DEFAULT_HEADERS
 class WeiboHot(Today):
     name = 'weibo_hot'
     desc = '微博热搜'
+    icon = 'https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png'
     url = 'https://m.weibo.cn/api/container/getIndex?containerid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Drealtimehot&title=%E5%BE%AE%E5%8D%9A%E7%83%AD%E6%90%9C&extparam=filter_type%3Drealtimehot'
 
     def crawler(self):

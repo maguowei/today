@@ -1,0 +1,12 @@
+{
+  "weibo_hot": {
+    "name": "weibo_hot",
+    "desc": "微博热搜",
+    "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+  },
+  "zhihu_hot": {
+    "name": "zhihu_hot",
+    "desc": "知乎热榜",
+    "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+  }
+}
