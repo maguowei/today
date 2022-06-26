@@ -11,7 +11,6 @@ class Today(ABC):
     def __init__(self, name, desc):
         self.name = name
         self.desc = desc
-        self.date = datetime.date.today()
         self.latest_data = self.get_latest_data()
 
     def get_latest_data(self):
@@ -24,7 +23,8 @@ class Today(ABC):
             return []
 
     def get_filename_by_ext(self, ext):
-        filename = f'data/{self.name}/{ext}/{self.date}.{ext}'
+        today = datetime.date.today().strftime('%Y-%m-%d')
+        filename = f'data/{self.name}/{ext}/{today}.{ext}'
         return filename
 
     @abstractmethod
@@ -56,12 +56,13 @@ class Today(ABC):
             json.dump(self.latest_data, f, ensure_ascii=False, indent=2)
 
     def dump_md(self):
+        time = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
         filename = self.get_filename_by_ext('md')
         file = Path(filename)
         file.parent.mkdir(exist_ok=True, parents=True)
         with file.open('w+') as f:
             f.writelines(f'# {self.desc}\n\n')
-            f.writelines(f'{self.date}\n\n')
+            f.writelines(f'最近更新时间: {time}\n\n')
             f.writelines(f'--- \n')
             mds = [f"{i + 1}. [{hot['title']}]({hot['url']})\n" for i, hot in enumerate(self.latest_data)]
             f.writelines(mds)
