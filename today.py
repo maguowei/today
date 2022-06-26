@@ -9,10 +9,14 @@ DEFAULT_HEADERS = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7
 
 
 class Today(ABC):
-    def __init__(self, name, desc, icon):
-        self.name = name
-        self.desc = desc
-        self.icon = icon
+    name = None
+    desc = None
+    icon = None
+
+    def __init__(self):
+        fields = [self.name, self.desc, self.icon]
+        if not all(f is not None for f in fields):
+            raise TypeError(f"init error: fields has None value")
         self.latest_data = self.get_latest_data()
 
     def get_latest_data(self):

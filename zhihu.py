@@ -17,4 +17,4 @@ class ZhihuHot(Today):
 
 
 if __name__ == '__main__':
-    ZhihuHot(ZhihuHot.name, ZhihuHot.desc, ZhihuHot.icon).export()
+    ZhihuHot().export()
