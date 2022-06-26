@@ -1,7 +1,7 @@
 # This workflow will install Python dependencies, run tests and lint with a single version of Python
 # For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
 
-name: weibo hot
+name: today
 
 on:
   workflow_dispatch:
@@ -27,11 +27,19 @@ jobs:
         python -m pip install --upgrade pip
         pip install poetry
         poetry install
-    - name: run
+    - name: weibo
       run: |
         python3 weibo.py
         git config user.name 'github-actions[bot]'
         git config user.email 'github-actions[bot]@users.noreply.github.com'
         git add .
-        git commit -am 'update web hot'
+        git commit -am 'update weibo'
+        git push origin master
+    - name: zhihu
+      run: |
+        python3 zhihu.py
+        git config user.name 'github-actions[bot]'
+        git config user.email 'github-actions[bot]@users.noreply.github.com'
+        git add .
+        git commit -am 'update zhihu'
         git push origin master
