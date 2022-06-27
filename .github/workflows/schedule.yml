@@ -41,7 +41,7 @@ jobs:
         git add .
         git diff-index --quiet HEAD || git commit -am 'update zhihu'
         git push origin master
-    - name: 36kr
+    - name: rss
       run: |
         poetry run python3 rss.py
         git config user.name 'github-actions[bot]'
