@@ -51,7 +51,7 @@ class Today(ABC):
         if self.add_data:
             self.dump_json()
             self.dump_md()
-        print(f'export data, count: {len(self.latest_data)}, new: {len(self.add_data)}')
+        print(f'export data, name: {self.name}, desc: {self.desc}, count: {len(self.latest_data)}, new: {len(self.add_data)}')
 
     def merge_data(self, data):
         titles = [item['title'] for item in self.latest_data]

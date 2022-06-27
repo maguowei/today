@@ -3,13 +3,27 @@ sources:
     desc: 36kr快讯
     icon: https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png
     url: https://rsshub.app/36kr/newsflashes
+  - name: wangyin
+    desc: 王垠的博客
+    icon: https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png
+    url: https://rsshub.app/blogs/wangyin
+  - name: ruanyifeng
+    desc: 阮一峰的网络日志
+    icon: https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png
+    url: http://www.ruanyifeng.com/blog/atom.xml
+  - name: infoq_recommend
+    desc: InfoQ推荐
+    icon: https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png
+    url: https://rsshub.app/infoq/recommend
+  - name: hackernews_best
+    desc: Hacker News Best
+    icon: https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png
+    url: https://rsshub.app/hackernews/best
+  - name: pmthinking
+    desc: 产品沉思录
+    icon: https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png
+    url: https://rsshub.app/pmthinking
 
-#  - url: https://rsshub.app/hackernews/best
-#  - url: https://rsshub.app/36kr/newsflashes
+
 #  - href: https://rsshub.app/readhub/category/topic
-#  - href: https://rsshub.app/infoq/recommend
-#  - href: https://rsshub.app/guokr/scientific
 #  - href: https://draveness.me/feed.xml
-#  - href: https://rsshub.app/blogs/wangyin
-#  - href: http://www.ruanyifeng.com/blog/atom.xml
-#  - href: https://rsshub.app/meituan/tech/home
