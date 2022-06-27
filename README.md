@@ -1,5 +1,6 @@
 # Today
 
+[![ci](https://github.com/maguowei/today/actions/workflows/ci.yml/badge.svg)](https://github.com/maguowei/today/actions/workflows/ci.yml)
 [![today](https://github.com/maguowei/today/actions/workflows/schedule.yml/badge.svg)](https://github.com/maguowei/today/actions/workflows/schedule.yml)
 
 ---
