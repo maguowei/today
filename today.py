@@ -18,6 +18,7 @@ class Today(ABC):
         if not all(f is not None for f in fields):
             raise TypeError(f"init error: fields has None value")
         self.latest_data = self.get_latest_data()
+        self.add_data = []
 
     def get_latest_data(self):
         filename = self.get_filename_by_ext('json')
@@ -36,7 +37,7 @@ class Today(ABC):
         return bj_time
 
     def get_filename_by_ext(self, ext):
-        today = self.get_bj_time_now().today().strftime('%Y-%m-%d')
+        today = self.get_bj_time_now().strftime('%Y-%m-%d')
         filename = f'data/{self.name}/{ext}/{today}.{ext}'
         return filename
 
@@ -47,23 +48,23 @@ class Today(ABC):
     def export(self):
         data = self.crawler()
         self.merge_data(data)
-        self.dump_json()
-        self.dump_md()
+        if self.add_data:
+            self.dump_json()
+            self.dump_md()
+        print(f'export data, count: {len(self.latest_data)}, new: {len(self.add_data)}')
 
     def merge_data(self, data):
         titles = [item['title'] for item in self.latest_data]
-        new_count = 0
         for item in data:
             if item['title'] not in titles:
                 self.latest_data.append(item)
-                new_count += 1
-
-        print(f'merge data, count: {len(self.latest_data)}, new: {new_count}')
+                self.add_data.append(item)
         return self.latest_data
 
     def dump_json(self):
         filename = self.get_filename_by_ext('json')
         json_dump(filename, self.latest_data)
+        print(f'dump_json: {filename}')
 
     def dump_md(self):
         time = self.get_bj_time_now().strftime('%Y-%m-%d %H:%M:%S')
@@ -76,6 +77,7 @@ class Today(ABC):
             f.writelines(f'--- \n')
             mds = [f"{i + 1}. [{hot['title']}]({hot['url']})\n" for i, hot in enumerate(self.latest_data)]
             f.writelines(mds)
+        print(f'dump_md: {filename}')
 
     @property
     def source_meta_info(self):

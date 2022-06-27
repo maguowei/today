@@ -5,15 +5,18 @@ name: today
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 * * * *"
+  push:
+    branches:
+      - master
+      - dev
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
     - uses: actions/checkout@v3
     - name: Set up Python 3.10
@@ -28,24 +31,9 @@ jobs:
     - name: weibo
       run: |
         poetry run python3 weibo.py
-        git config user.name 'github-actions[bot]'
-        git config user.email 'github-actions[bot]@users.noreply.github.com'
-        git add .
-        git diff-index --quiet HEAD || git commit -am 'update weibo'
-        git push origin master
     - name: zhihu
       run: |
         poetry run python3 zhihu.py
-        git config user.name 'github-actions[bot]'
-        git config user.email 'github-actions[bot]@users.noreply.github.com'
-        git add .
-        git diff-index --quiet HEAD || git commit -am 'update zhihu'
-        git push origin master
     - name: 36kr
       run: |
         poetry run python3 36kr.py
-        git config user.name 'github-actions[bot]'
-        git config user.email 'github-actions[bot]@users.noreply.github.com'
-        git add .
-        git diff-index --quiet HEAD || git commit -am 'update 36kr'
-        git push origin master
