@@ -53,6 +53,7 @@ class Today(ABC):
             if item['title'] not in titles:
                 self.latest_source_data.append(item)
                 self.add_source_data.append(item)
+        self.latest_feeds_data.extend(self.get_feeds(self.add_source_data))
         return self.latest_source_data
 
     def dump_json(self, module):
@@ -60,9 +61,7 @@ class Today(ABC):
         if module == 'sources':
             json_dump(filename, self.latest_source_data)
         else:
-            data = self.latest_feeds_data
-            data.extend(self.get_feeds(self.add_source_data))
-            json_dump(filename, data)
+            json_dump(filename, self.latest_feeds_data)
         print(f'dump_json: {filename}')
 
     def dump_md(self, module):
@@ -77,7 +76,6 @@ class Today(ABC):
         else:
             title = 'Today'
             data = self.latest_feeds_data
-            data.extend(self.get_feeds(self.add_source_data))
 
         with file.open('w+') as f:
             f.writelines(f'# {title}\n\n')
