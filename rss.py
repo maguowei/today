@@ -1,16 +1,19 @@
 from datetime import datetime, timezone, timedelta
 from time import mktime
+import yaml
 import feedparser
 import requests
 
 from today import Today, DEFAULT_HEADERS
 
 
-class Kr36(Today):
-    name = '36kr'
-    desc = '36kr快讯'
-    icon = 'https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png'
-    url = 'https://rsshub.app/36kr/newsflashes'
+class RSS(Today):
+    def __init__(self, name, desc, icon, url):
+        self.name = name
+        self.desc = desc
+        self.icon = icon
+        self.url = url
+        super().__init__()
 
     def crawler(self):
         r = requests.get(self.url, headers=DEFAULT_HEADERS)
@@ -29,4 +32,7 @@ class Kr36(Today):
 
 
 if __name__ == '__main__':
-    Kr36().export()
+    with open('rss.yml') as f:
+        data = yaml.safe_load(f)
+        for source in data['sources']:
+            RSS(**source).export()
