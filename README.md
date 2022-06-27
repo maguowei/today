@@ -8,11 +8,12 @@
 
 - [x] [微博热搜](https://s.weibo.com/top/summary?cate=realtimehot)
 - [x] [知乎热榜](https://www.zhihu.com/hot)
+- [x] [RSS](rss.yml)
 - [ ] [Hacker News](https://news.ycombinator.com/news)
 - [ ] [GitHub Trending](https://github.com/trending)
 - [ ] [V2ex Hot](https://www.v2ex.com/?tab=hot)
-- [x] [36kr快讯](https://www.36kr.com/newsflashes)
 - [ ] [Readhub](https://readhub.cn)
+
 
 ## 参考
 
