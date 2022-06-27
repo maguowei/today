@@ -1700,5 +1700,25 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "张雨绮说快乐时清醒难过时糊涂",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E8%AF%B4%E5%BF%AB%E4%B9%90%E6%97%B6%E6%B8%85%E9%86%92%E9%9A%BE%E8%BF%87%E6%97%B6%E7%B3%8A%E6%B6%82%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Finley (YC W21) is hiring its first sales team member",
+    "url": "https://news.ycombinator.com/item?id=31900737",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=31900737\">Comments</a>",
+    "publish_time": "2022-06-28 05:01:07",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
