@@ -7,7 +7,7 @@
 
 ## TODO
 - [ ] RSSHub as GitHub Actions service containers
-  - > 演示地址为 rsshub.app (opens new window), 缓存时间 120 分钟
+  - > 演示地址为 rsshub.app, 缓存时间 120 分钟
   - [GitHub Actions: About service containers](https://docs.github.com/en/github-ae@latest/actions/using-containerized-services/about-service-containers)
   - [RSSHub Docker 部署](https://docs.rsshub.app/install/#docker-bu-shu)
 - [ ] [google/python-fire](https://github.com/google/python-fire)
