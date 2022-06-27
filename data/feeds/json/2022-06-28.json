@@ -1607,5 +1607,98 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "夏天不闷脸的底妆",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%8F%E5%A4%A9%E4%B8%8D%E9%97%B7%E8%84%B8%E7%9A%84%E5%BA%95%E5%A6%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "山东济宁出现特大暴雨",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E6%B5%8E%E5%AE%81%E5%87%BA%E7%8E%B0%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "经济学家警告称「『罗伊诉韦德案』判决的推翻将让美国在经济上付出惨重代价」，如何解读这一观点？",
+    "url": "https://www.zhihu.com/question/539999552",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "The Last Thing Rust Needs (2019)",
+    "url": "https://h2co3.github.io/rust2019/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=31900027\">Comments</a>",
+    "publish_time": "2022-06-28 04:03:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Trolley.co.uk is shutting down – pricing data is apparently owned by a company",
+    "url": "https://www.trolley.co.uk/save-trolley/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=31900312\">Comments</a>",
+    "publish_time": "2022-06-28 04:26:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN:  [NSFW] Diffusion models for porn generation",
+    "url": "http://orchid.gistnoesis.net/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=31900095\">Comments</a>",
+    "publish_time": "2022-06-28 04:08:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Wear leveling in SSDs considered harmful",
+    "url": "https://dl.acm.org/doi/10.1145/3538643.3539750",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=31900482\">Comments</a>",
+    "publish_time": "2022-06-28 04:39:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "My Body, My Data Act Tackles Online Privacy in Wake of Roe vs. Wade Decision",
+    "url": "https://www.itprotoday.com/data-privacy/my-body-my-data-act-tackles-online-privacy-wake-roe-v-wade-decision",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=31901217\">Comments</a>",
+    "publish_time": "2022-06-28 05:41:12",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "tolower() in bulk at speed",
+    "url": "https://dotat.at/@/2022-06-27-tolower-swar.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=31900872\">Comments</a>",
+    "publish_time": "2022-06-28 05:12:16",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
