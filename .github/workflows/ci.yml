@@ -36,4 +36,4 @@ jobs:
         poetry run python3 zhihu.py
     - name: 36kr
       run: |
-        poetry run python3 36kr.py
+        poetry run python3 rss.py
