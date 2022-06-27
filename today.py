@@ -81,7 +81,7 @@ class Today(ABC):
             f.writelines(f'# {title}\n\n')
             f.writelines(f'最近更新时间: {time}\n\n')
             f.writelines(f'--- \n')
-            mds = [f"{i + 1}. [{hot['title']}]({hot['url']})\n" for i, hot in enumerate(data)]
+            mds = [f"{i + 1}. [{item['title']}]({item['url']}) {item['source']['desc'] if module == 'feeds' else ''}\n" for i, item in enumerate(data)]
             f.writelines(mds)
         print(f'dump_md: {filename}')
 
