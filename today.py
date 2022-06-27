@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 from abc import ABC, abstractmethod
-from utils.dump import json_dump, json_append_dump
+from utils.dump import json_dump
 from utils.time import get_beijing_time
 
 
