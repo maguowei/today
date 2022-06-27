@@ -12,9 +12,10 @@ class Today(ABC):
     name = None
     desc = None
     icon = None
+    url = None
 
     def __init__(self):
-        fields = [self.name, self.desc, self.icon]
+        fields = [self.name, self.desc, self.icon, self.url]
         if not all(f is not None for f in fields):
             raise TypeError(f"init error: fields has None value")
         self.latest_data = self.get_latest_data()
@@ -38,7 +39,7 @@ class Today(ABC):
 
     def get_filename_by_ext(self, ext):
         today = self.get_bj_time_now().strftime('%Y-%m-%d')
-        filename = f'data/{self.name}/{ext}/{today}.{ext}'
+        filename = f'data/sources/{self.name}/{ext}/{today}.{ext}'
         return filename
 
     @abstractmethod
@@ -85,4 +86,5 @@ class Today(ABC):
             'name': self.name,
             'desc': self.desc,
             'icon': self.icon,
+            'url': self.url,
         }
