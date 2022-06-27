@@ -37,12 +37,15 @@ jobs:
       run: |
         poetry install
     - name: weibo
+      continue-on-error: true
       run: |
         poetry run python3 weibo.py
     - name: zhihu
+      continue-on-error: true
       run: |
         poetry run python3 zhihu.py
     - name: rss
+      continue-on-error: true
       run: |
         poetry run python3 rss.py
     - name: push

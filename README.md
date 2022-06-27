@@ -11,9 +11,9 @@
 - [x] [RSS](rss.yml)
   - [RSSHub](https://docs.rsshub.app/)
   - [feeddd/feeds](https://github.com/feeddd/feeds)  微信公众号RSS源
-- [ ] [Hacker News](https://news.ycombinator.com/news)
+- [x] [Hacker News](https://news.ycombinator.com/news)
 - [ ] [GitHub Trending](https://github.com/trending)
-- [ ] [V2ex Hot](https://www.v2ex.com/?tab=hot)
+- [x] [V2ex Hot](https://rsshub.app/v2ex/topics/hot)
 - [ ] [Readhub](https://readhub.cn)
 
 
