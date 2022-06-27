@@ -64,5 +64,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "小米电视 kodi 无法流畅播放 nas 里的 4k 电影！",
+    "url": "https://www.v2ex.com/t/862484",
+    "summary": "FstarKing: <p>最近黑群晖弄起来了，但是在电视上看 NAS 里的 4k 蓝光原盘电影的时候特别卡，完全看不了</p>\n<p>我测试的片源是一部 4k 蓝光原盘电影，大概 75G 左右</p>\n<p>电视是红米 x75 2022 款，安装了 kodi ，无论是连接 wifi 还是连接有线，都无法流畅播放</p>\n<p>然后我外接硬盘盒，2.5 寸机械硬盘，使用小米自带的播放器，是可以流畅播放的</p>\n<p>NAS 的千兆网口是正常驱动的，测速可以跑满</p>\n<p>我用笔记本装了 kodi ，笔记本无论是有线还是无线，都能流畅播放 nas 里的原盘电影</p>\n<p>也就是说，小米自带的播放器，还有小米上安装的 kodi ，都有流畅播放这部 4k 影片的能力，问题就出现在网络传输上</p>\n<p>电视是百兆网口，百兆网口的带宽无法满足流畅原盘播放？</p>\n<p>电视的 wifi 也很弱，我用小米电视自带的网速测试工具，和有线差不多</p>\n<p>虽然我的 NAS 已经通过 jellyfin 硬解，可以在网页流畅的看这部影片了</p>\n<p>但是这台电视，是不是就根本没办法流畅的直接播放 NAS 里的原盘电影？</p>",
+    "publish_time": "2022-06-27 14:54:02",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
