@@ -5945,5 +5945,453 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "QQ密码",
+    "url": "https://s.weibo.com/weibo?q=%23QQ%E5%AF%86%E7%A0%81%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "外媒曝中国有意申办2030年世界杯",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E6%9B%9D%E4%B8%AD%E5%9B%BD%E6%9C%89%E6%84%8F%E7%94%B3%E5%8A%9E2030%E5%B9%B4%E4%B8%96%E7%95%8C%E6%9D%AF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "吉林省高考",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%90%89%E6%9E%97%E7%9C%81%E9%AB%98%E8%80%83%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "龙头",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%BE%99%E5%A4%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "足协开出59万元巨额罚单",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B6%B3%E5%8D%8F%E5%BC%80%E5%87%BA59%E4%B8%87%E5%85%83%E5%B7%A8%E9%A2%9D%E7%BD%9A%E5%8D%95%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "臭鳜鱼在安徽人心里的地位有多高",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%87%AD%E9%B3%9C%E9%B1%BC%E5%9C%A8%E5%AE%89%E5%BE%BD%E4%BA%BA%E5%BF%83%E9%87%8C%E7%9A%84%E5%9C%B0%E4%BD%8D%E6%9C%89%E5%A4%9A%E9%AB%98%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "俄宣布制裁拜登妻子和女儿",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E5%AE%A3%E5%B8%83%E5%88%B6%E8%A3%81%E6%8B%9C%E7%99%BB%E5%A6%BB%E5%AD%90%E5%92%8C%E5%A5%B3%E5%84%BF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "HTC首款元宇宙手机",
+    "url": "https://s.weibo.com/weibo?q=%23HTC%E9%A6%96%E6%AC%BE%E5%85%83%E5%AE%87%E5%AE%99%E6%89%8B%E6%9C%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "兰普兰快乐减肥法",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%B0%E6%99%AE%E5%85%B0%E5%BF%AB%E4%B9%90%E5%87%8F%E8%82%A5%E6%B3%95%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "温网2022",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B8%A9%E7%BD%912022%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "南京特师毕业典礼",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E7%89%B9%E5%B8%88%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "毕业典礼上的互动好有爱",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E4%B8%8A%E7%9A%84%E4%BA%92%E5%8A%A8%E5%A5%BD%E6%9C%89%E7%88%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "2022年科学引文索引（SCI）期刊影响因子正式发布，有哪些亮点和槽点？你关注的期刊走势如何？",
+    "url": "https://www.zhihu.com/question/540332440",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么宋朝的点茶现在很少见到了？",
+    "url": "https://www.zhihu.com/question/536990892",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "乌军方称「海马斯」火箭炮系统已投入使用，该火箭炮对俄军是否拥有足够的伤害力？",
+    "url": "https://www.zhihu.com/question/539880997",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为何机器学习不被二级市场玩家重用？",
+    "url": "https://www.zhihu.com/question/424147928",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "高考结束了，想报考军校，我该如何选择？",
+    "url": "https://www.zhihu.com/question/30882143",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何写工作总结?",
+    "url": "https://www.zhihu.com/question/334233083",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "去哪儿：第九版新冠肺炎防控方案发布一小时后国际机票搜索量翻倍",
+    "url": "https://36kr.com/newsflashes/1804534438511617",
+    "summary": "36氪获悉，去哪儿平台显示，6月28日自《新型冠状病毒肺炎防控方案（第九版）》发布一小时后，国际机票瞬时搜索量翻倍，达到近两年以来该平台国际机票搜索量最高峰。同时，去哪儿平台透露，一小时国际机票预订量环比上周同时段增长近六成。",
+    "publish_time": "2022-06-28 18:48:56",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "百邦科技：控股股东拟减持不超2.04%股份",
+    "url": "http://disc.static.szse.cn/disc/disk03/finalpage/2022-06-28/d2f0c244-8c30-48dd-9cd4-c08d642cd956.PDF",
+    "summary": "36氪获悉，百邦科技公告称，公司控股股东达安世纪、悦华众城计划通过集中竞价方式减持公司股份数量合计不超过257.66万股，即不超过公司总股本的2.0406%。",
+    "publish_time": "2022-06-28 18:54:26",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "主力资金近三日在买特斯拉等概念股",
+    "url": "https://www.yicai.com/brief/101458160.html",
+    "summary": "近三日上证指数上涨2.68%，A股近三日成交金额较前三日增加14.34%，主力资金近三日大量净流入的概念共有105类，其中主力资金净流入前列的概念是特斯拉、苹果概念、集成电路概念，分别净流入53.73亿元、49.09亿元、44.18亿元。（第一财经）",
+    "publish_time": "2022-06-28 19:00:26",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "国家药监局成立中药管理战略决策专家咨询委员会",
+    "url": "http://www.egsea.com/news/detail?id=1209557",
+    "summary": "为进一步构建完善符合中药特点的审评审批体系，保障和促进中药监管工作重大决策的科学性、权威性，依据《药品注册管理办法》有关规定，国家药监局决定成立由两院院士、国医大师、资深专家组成的中药管理战略决策专家咨询委员会。专委会主任委员为孙咸泽，副主任委员为张伯礼、黄璐琦、王辰，秘书处设在国家药监局药品注册管理司。主任委员、副主任委员、委员任期3年。（证券时报）",
+    "publish_time": "2022-06-28 19:03:07",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "万华化学：7月份纯MDI挂牌价上调1000元/吨",
+    "url": "http://www.sse.com.cn//disclosure/listedinfo/announcement/c/new/2022-06-29/600309_20220629_2_57iVBd4a.pdf",
+    "summary": "36氪获悉，万华化学公告称，自2022年7月份开始，中国地区聚合MDI挂牌价19800元/吨（同6月份相比没有变动）；纯MDI挂牌价23800元/吨（比6月份价格上调1000元/吨）。公司同日公告，持股8.90%股东合成国际将根据市场价格情况，自减持计划公告之日起15个交易日之后的3个月内通过集中竞价方式减持不超过公司总股本1%的股份。",
+    "publish_time": "2022-06-28 19:04:32",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "东风科技：拟配股募资不超14亿元",
+    "url": "http://www.sse.com.cn//disclosure/listedinfo/announcement/c/new/2022-06-29/600081_20220629_5_Abore8tq.pdf",
+    "summary": "36氪获悉，东风科技公告称，公司拟按每10股配售不超过3股的比例向全体A股股东配售，募资不超过14亿元，用于公司“新能源-3in1和5in1压铸件技术改造项目”、“新能源动力总成及核心部件制造能力提升项目”和补充流动资金。",
+    "publish_time": "2022-06-28 19:07:38",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "主力资金连续5日净流出380股",
+    "url": "https://www.yicai.com/brief/101458159.html",
+    "summary": "截至6月28日收盘，沪深两市共380只个股连续5日或5日以上主力资金净流出。从净流出持续时间来看，*ST全新连续22日主力资金净流出，排名第一；普丽盛等连续18日主力资金净流出，位列第二。从主力资金净流出总规模来看，北方稀土主力资金净流出金额最大，连续7天累计净流出47.98亿元，中银证券紧随其后，10天累计净流出9.67亿元。从主力资金净流出占成交额的比率来看，ST中珠占比排名居首，该股近5日跌3.57%。（第一财经）",
+    "publish_time": "2022-06-28 19:13:34",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "雪天盐业：上半年净利同比预增152%-200%，主要产品量价齐增",
+    "url": "http://www.sse.com.cn//disclosure/listedinfo/announcement/c/new/2022-06-29/600929_20220629_1_xLTG6utH.pdf",
+    "summary": "36氪获悉，雪天盐业披露业绩预告，预计上半年净利润4.08亿元-4.85亿元，比上年同期（经重述后）增加2.46亿元-3.23亿元，同比增长152%-200%。报告期内产销两旺，主要产品量价齐增。",
+    "publish_time": "2022-06-28 19:16:45",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "景嘉微：JM9系列第二款图形处理芯片已完成初步测试工作",
+    "url": "http://static.cninfo.com.cn/finalpage/2022-06-28/1213854206.PDF",
+    "summary": "36氪获悉，景嘉微公告称，公司JM9系列第二款图形处理芯片已完成流片、封装阶段工作及初步测试工作。根据公司测试结果，该图形处理芯片满足地理信息系统、媒体处理、CAD辅助设计、游戏、虚拟化等高性能显示需求和人工智能计算需求。",
+    "publish_time": "2022-06-28 19:20:20",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "腾讯控股：今日回购83万股，耗资约3亿港元",
+    "url": "https://stockn.xueqiu.com/00700/20220628687715.pdf",
+    "summary": "36氪获悉，腾讯控股在港交所公告，于2022年6月28日回购83万股，回购价格为358港元-368港元，共耗资约3亿港元。",
+    "publish_time": "2022-06-28 19:25:16",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "​纳微科技：股东拟减持不超3%股份",
+    "url": "http://www.sse.com.cn//disclosure/listedinfo/announcement/c/new/2022-06-29/688690_20220629_1_0RmKD2dz.pdf",
+    "summary": "36氪获悉，纳微科技公告称，持股5.58%的股东华杰（天津）医疗投资合伙企业（有限合伙）计划通过集中竞价、大宗交易方式合计减持不超过3%公司股份。",
+    "publish_time": "2022-06-28 19:31:11",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "复星医药：子公司与Palleon签订合作与许可协议",
+    "url": "http://www.sse.com.cn//disclosure/listedinfo/announcement/c/new/2022-06-29/600196_20220629_1_G92IUHii.pdf",
+    "summary": "36氪获悉，复星医药公告称，控股子公司复宏汉霖与Palleon签订《合作与许可协议》，双方将就（1）Palleon在研产品双功能HER2-唾液酸酶融合蛋白、及（2）待双方合作开发的另一个肿瘤相关靶点唾液酸酶双功能融合蛋白在领域内（即用于人类疾病治疗）的开发、生产及商业化开展合作；另外，控股子公司获氟尿嘧啶注射液药品注册申请受理。",
+    "publish_time": "2022-06-28 19:35:19",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "罗牛山：子公司大东海遭证监会立案",
+    "url": "http://static.cninfo.com.cn/finalpage/2022-06-29/1213854934.PDF",
+    "summary": "36氪获悉，罗牛山公告称，公司的子公司海南大东海旅游中心股份有限公司（证券代码：000613、200613，证券简称：东海A退、东海B退）于6月28日收到中国证监会《立案告知书》。因子公司大东海涉嫌构成信息披露违法违规行为，根据《中华人民共和国证券法》《中华人民共和国行政处罚法》等法律法规，6月15日，中国证监会决定对其立案。",
+    "publish_time": "2022-06-28 19:41:22",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "闻泰科技：目前生产经营活动正常，不存在应披露而未披露的重大事项",
+    "url": "http://www.sse.com.cn/disclosure/listedinfo/announcement/c/new/2022-06-29/600745_20220629_1_oxtYni0E.pdf",
+    "summary": "36氪获悉，闻泰科技发布股票交易异常波动公告，经公司自查，公司目前生产经营活动正常。市场环境、行业政策未发生重大调整，内部生产经营秩序正常。并经控股股东及实际控制人书面确认，截至本公告披露日，公司不存在应披露而未披露的重大事项，公司控股股东及实际控制人不存在涉及公司的应披露而未披露的重大事项。",
+    "publish_time": "2022-06-28 19:46:33",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "中国证监会、香港证监会：互联互通下的ETF交易将于2022年7月4日开始",
+    "url": "http://www.csrc.gov.cn/csrc/c100028/c3988656/content.shtml",
+    "summary": "36氪获悉，中国证监会、香港证监会发布联合公告：决定批准两地交易所正式将符合条件的交易型开放式基金（交易所买卖基金）纳入内地与香港股票市场交易互联互通机制。互联互通下的ETF交易将于2022年7月4日开始。",
+    "publish_time": "2022-06-28 19:51:36",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "中信证券：天津海鹏拟4.9亿美元转让华夏基金10%股权，公司拟放弃优先购买权",
+    "url": "http://www.sse.com.cn//disclosure/listedinfo/announcement/c/new/2022-06-29/600030_20220629_1_cDyYA8RF.pdf",
+    "summary": "36氪获悉，中信证券公告称，公司收到天津海鹏的来函，拟协议转让其所持有华夏基金10%股权，拟交易对价为4.9亿美元。经公司董事会审议，决定放弃标的股权的优先购买权。",
+    "publish_time": "2022-06-28 19:53:51",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "科创板上市委：有研硅首发获通过",
+    "url": "http://www.egsea.com//news/detail/1209566.html",
+    "summary": "科创板上市委公告，有研半导体硅材料股份公司首发获通过。（证券时报）",
+    "publish_time": "2022-06-28 20:00:28",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "TCL中环：拟向子公司共计增资10亿元，加速实施G12高效叠瓦电池组件项目扩产计划",
+    "url": "http://static.cninfo.com.cn/finalpage/2022-06-29/1213855231.PDF",
+    "summary": "36氪获悉，TCL中环公告称，为加速实施G12高效叠瓦电池组件项目扩产计划，公司向环晟新能源（江苏）增资3.25亿元，公司全资子公司中环香港向环晟新能源（江苏）增资6.75亿元（增资额为不低于1亿美元所对应人民币）。",
+    "publish_time": "2022-06-28 20:01:08",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "李克强：推动经济运行尽快回归正常轨道，以发展促就业、以就业保民生",
+    "url": "https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=17033365416954343660&t=1656415315073&toc_style_id=video_default&share_to=wechat&track_id=d79c0352-5cfe-414c-bda4-f33f69e27021",
+    "summary": "中共中央政治局常委、国务院总理李克强到民政部、人力资源社会保障部考察，并主持召开座谈会。李克强听取了就业形势和工作汇报。他说，民生在勤，勤就得能就业，依靠劳动创造财富。就业稳是经济运行在合理区间的重要标志。当前稳经济一揽子政策措施正加快落地见效，经济总体有所恢复，但基础还不稳固，稳就业任务依然繁重。发展是解决我国一切问题的基础和关键。稳经济大盘政策很重要的是以保市场主体来稳就业。要继续落实各项政策，推动经济运行尽快回归正常轨道，以发展促就业、以就业保民生，尽快把失业率降下来、控制住。用改革的办法拓展市场化社会化就业渠道、增加就业岗位，实现可持续。（央视新闻）",
+    "publish_time": "2022-06-28 20:03:45",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "天赐材料：六氟磷酸锂价格下行对公司业绩影响较小",
+    "url": "https://36kr.com/newsflashes/1804609735558403",
+    "summary": "36氪获悉，天赐材料在互动平台表示，目前来看，由于部分长协的执行，六氟磷酸锂价格下行对公司业绩影响较小。",
+    "publish_time": "2022-06-28 20:05:46",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "一个清晰的企业数据战略应该是什么样的？",
+    "url": "https://www.infoq.cn/article/Q9fTNdz2RM37iukLvjl5",
+    "summary": "<p></p><p>数据，是数字经济时代的生产要素，但如何利用好数据对每个企业来说都是难解之题。</p><p></p><p>Forrester调研数据显示，仅有28%的企业认为自己在数据驱动运营以及数据驱动创新的角度达到了成熟或者领先的水平。因此，在如何解决数据应用、数据价值释放等问题上，大数据基础设施提供商爱数认为，企业需要制定更清晰的数据战略，以从容地加速数据驱动。</p><p></p><p>那什么是数据战略？“在我看来，数据战略是一个组织如何运用数据来实现业务可持续化发展的战略，是用来提升整个组织生产力的战略，并将数据驱动作为组织的战略动力。”在6月28日举办的<a href=\"https://smart2022.aishu.cn/pc/245?channel=main\">爱数 SMART 2022 大会</a>\"上，爱数总裁贺鸿富如此阐述道。</p><p></p><p>贺鸿富进一步表示，一个清晰的数据战略，首先需要以能力为底座，包括拥抱多云、提供弹性的数字化能力，围绕全场景、全类别、全生命周期的全域数据能力，应对不确定性环境的敏捷能力以及安全治理能力。</p><p></p><p>其次，要想让能力底座支撑业务的发展和生产力的提升，还需要两大支柱：组织内部需要建设和沉淀数据驱动文化，组织外部需要采用生态思维，实现共赢共创的生态关系。通过能力底座、文化支柱、创新表现以及卓越领导力的数字化人才，构建“数据战略屋”，从容实现数据驱动，沉淀更多的数据资产，提供更多的数据产品，实现数据货币化，以数据驱动创新，以数据重塑生产力。</p><p></p><p>数据战略是组织层面的战略动力，数据驱动型组织则是组织目标。因此，除了数据战略，爱数还提出了建设数据驱动型组织的方法论，该方法论由数字伙伴、Your-Data架构、中台方案、领域认知智能、TPA最佳实践五个部分构成，是爱数落地数据战略、建设数据驱动型组织的框架。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/7b/7b11a03fdfb4ead38d4f46512e336d59.png\" /></p><p></p><p>爱数认为，数据驱动型组织有三个特点，拥有这三个特点后，数据驱动就会源源不断地成为组织发展的动力，就像修了一条“高速公路”一样：</p><p></p><p>要具备高效、整合和治理数据的能力，实现数据资产化，从容地消除、整合数据孤岛，最大化限度的保证数据的安全和质量等等；要让这些数据资产能够满足于各种各样的业务域场景的需求，驱动整个业务的运营，从而实现数据的服务化；将数据知识化，通过认知智能等创新技术的应用，进一步释放数据的价值，驱动整个业务的创新、服务的创新、商业模式的创新。</p><p></p><p>会上，爱数还宣布推出开源计划。据了解，爱数将陆续对旗下三款产品开放源代码，包括AnyDATA Framework，AnyRobot Eyes，以及新产品AnyFabric。至于具体的开源路线图，将在不久的将来公布。</p>",
+    "publish_time": "2022-06-28 18:07:19",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "Detecting unauthorized physical access with beans, lentils and colored rice (2021)",
+    "url": "https://dys2p.com/en/2021-12-tamper-evident-protection.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=31897530\">Comments on Hacker News</a> | <a href=\"https://dys2p.com/en/2021-12-tamper-evident-protection.html\">Source</a>",
+    "publish_time": "2022-06-28 01:10:25",
+    "source": {
+      "name": "hackernews_best",
+      "desc": "Hacker News Best",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: I stripped DALL·E Mini to its bare essentials and converted it to Torch",
+    "url": "https://github.com/kuprel/min-dalle",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=31903076\">Comments on Hacker News</a> | <a href=\"https://github.com/kuprel/min-dalle\">Source</a>",
+    "publish_time": "2022-06-28 09:27:52",
+    "source": {
+      "name": "hackernews_best",
+      "desc": "Hacker News Best",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Hetzner Cloud offers IPv6-only or no public IP at all",
+    "url": "https://www.hetzner.com/news/06-22-flexibles-networking/?country=ot",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=31905870\">Comments</a>",
+    "publish_time": "2022-06-28 17:44:55",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "PolicyFly (YC W22) Is Hiring a Director of Engineering (Remote, US)",
+    "url": "https://www.ycombinator.com/companies/policyfly/jobs/PpoJWAq-director-of-engineering",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=31906602\">Comments</a>",
+    "publish_time": "2022-06-28 20:01:03",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Detecting unauthorized physical access with beans, lentils and colored rice (2021)",
+    "url": "https://dys2p.com/en/2021-12-tamper-evident-protection.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=31897530\">Comments</a>",
+    "publish_time": "2022-06-28 01:10:25",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
