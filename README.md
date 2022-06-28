@@ -29,4 +29,5 @@
 
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
 - [justjavac/weibo-trending-hot-search](https://github.com/justjavac/weibo-trending-hot-search)
+- [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed)
 - [feeddd/feeds](https://github.com/feeddd/feeds)
