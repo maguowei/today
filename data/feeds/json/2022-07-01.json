@@ -1190,5 +1190,83 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "两周年庆玩个锤子",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%91%A8%E5%B9%B4%E5%BA%86%E7%8E%A9%E4%B8%AA%E9%94%A4%E5%AD%90%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "花月宴yyds",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%9C%88%E5%AE%B4yyds%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "我一直挂念着香港",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E4%B8%80%E7%9B%B4%E6%8C%82%E5%BF%B5%E7%9D%80%E9%A6%99%E6%B8%AF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "比利时首相称「不该像对待俄罗斯那样对中国，他们（中国）是一个重要的贸易伙伴」，这透露了哪些信息？",
+    "url": "https://www.zhihu.com/question/540290827",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "你可以任意选择超能力，但只要被别人猜到就会死亡，你会选择什么超能力？",
+    "url": "https://www.zhihu.com/question/535360737",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "FTX closes in on a deal to buy embattled crypto lender BlockFi for $25 million",
+    "url": "https://www.cnbc.com/2022/06/30/ftx-closes-in-on-a-deal-to-buy-embattled-crypto-lender-blockfi-for-25-million-in-a-fire-sale.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=31935844\">Comments</a>",
+    "publish_time": "2022-07-01 01:38:45",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Rust 1.62.0",
+    "url": "https://blog.rust-lang.org/2022/06/30/Rust-1.62.0.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=31935116\">Comments</a>",
+    "publish_time": "2022-07-01 00:42:20",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "What do Starlink’s latest Ookla results mean for its $886M RDOF winnings?",
+    "url": "https://www.fiercetelecom.com/broadband/what-do-starlinks-latest-ookla-results-mean-its-886m-rdof-winnings",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=31935630\">Comments</a>",
+    "publish_time": "2022-07-01 01:22:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
