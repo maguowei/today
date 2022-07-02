@@ -7,6 +7,7 @@ sources:
     desc: 36kr快讯
     icon: https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png
     url: https://rsshub.app/36kr/newsflashes.atom
+    proxy: true
   - name: wangyin
     desc: 王垠的博客
     icon: https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/wangyin.png

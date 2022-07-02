@@ -10,24 +10,30 @@ from utils.time import get_beijing_time
 
 
 RSSHUB_DEFAULT_ADDR = 'https://rsshub.app'
-RSSHUB_CUSTOM_ADDR = os.getenv('RSSHUB_CUSTOM_ADDR')
+RSSHUB_CUSTOM_ADDR = os.getenv('RSSHUB_CUSTOM_ADDR', 'http://82.157.186.108:1200')
 
 
 class RSS(Today):
-    def __init__(self, name, desc, icon, url):
+    def __init__(self, name, desc, icon, url, **kwargs):
         self.name = name
         self.desc = desc
         self.icon = icon
         self.url = url
+        self.kwargs = kwargs
         super().__init__()
 
-    def _proxy_check(self):
-        if RSSHUB_CUSTOM_ADDR:
-            self.url.replace(RSSHUB_DEFAULT_ADDR, RSSHUB_CUSTOM_ADDR)
+    def _get_proxy_url(self):
+        source_need_proxy = self.kwargs.get('proxy', None)
+        if source_need_proxy and RSSHUB_CUSTOM_ADDR:
+            url = self.url.replace(RSSHUB_DEFAULT_ADDR, RSSHUB_CUSTOM_ADDR)
+            print(f'use rsshub proxy addr: {url}')
+            return url
+        else:
+            return self.url
 
     def crawler(self):
-        self._proxy_check()
-        r = requests.get(self.url, headers=DEFAULT_HEADERS)
+        url = self._get_proxy_url()
+        r = requests.get(url, headers=DEFAULT_HEADERS)
         news = feedparser.parse(r.content).entries
 
         data = []
