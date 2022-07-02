@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Trivago从PHP+Melody迁移到Next.js+TypeScript",
+    "url": "https://www.infoq.cn/article/ISNBNtLItFG2zGxixKYA",
+    "summary": "<p>Trivago的平台是使用PHP和他们自主研发的Melody框架构建的。Melodys是由Trivago的一小部分工程师负责维护的，这存在连续性风险。由于人手不够，Melody的文档和示例不可能像期望的那样丰富，这使得其他工程师更难参与并提供支持。后来，Trivago决定使用Next.js在TypeScript上<a href=\"https://tech.trivago.com/post/2022-05-16-warp-a-web-application-rewrite-project/\">重写</a>\"平台。</p><p>&nbsp;</p><p>为了降低开发像Melody这样的自有框架所带来的风险，Trivago工程部门必须在给Melody分配更多资源和放弃它之间做出选择。最终，他们决定停止使用Melody。</p><p>&nbsp;</p><p>对企业来说，这样的平台替换可能会有影响收入，因为在重写期间无法引入新功能。2020年，项目在此类风险降低的情况下开始。</p><p>&nbsp;</p><p>另一项风险是，在现有功能移植完成之后，新功能仍被搁置的话，开发团队的积极性就会丧失。因此，一旦新平台足够稳定，团队就需要开始构建新的功能，避免降低团队积极性。</p><p>&nbsp;</p><p>开发体验、黑客马拉松成果和市场渗透率是选择新技术栈的决定性因素，团队最终决定采用：<a href=\"https://nextjs.org/\">Next.js</a>\"和使用TypeScript的<a href=\"https://preactjs.com/\">Preact</a>\"。采用应用广泛、有大量社区支持的库，开发人员将受益于更整洁的代码库。</p><p>&nbsp;</p><p>在使用新技术设计新平台时，必须做许多架构决策。必须及时、务实地达成协议，以确保项目成功。Trivago的工程师们使用了一种架构决策记录的形式。按照<a href=\"https://twitter.com/twbartel\">Tom Bartel</a>\"的描述，这个过程基于以下几点：</p><p></p><p></p><blockquote>决策文件将所有相关的事实和观点收集和组织起来。&nbsp;决策负责人负责策划决策文件，准备决策会议，并负责达成决策。&nbsp;决策会议上交流和讨论观点，并在最后做出决定。</blockquote><p></p><p></p><p>从这个项目中得出的最重要的一条经验是，团队不应该发展得太快。作者指出，当少数几名工程师一起工作时，试验和处理方法都很容易更改；只有当所有关键决策都做完了，基础稳固了，才能将团队的规模扩大到5人以上。这样做可以防止沟通开销、挫败感和精力浪费。</p><p>&nbsp;</p><p>既然是重写，新系统就需要实现与现有平台相同的功能。团队通过以A/B方式运行两个平台并比较一些指标，如用户互动、创收和搜索类型，以验证正确性。</p><p>&nbsp;</p><p>作者补充说，重写还给终端用户带来了好处，新平台加快了应用程序的加载时间。</p><p></p><p>作者简介</p><p>Vasco Veloso从事软件开发和设计已经有二十多年了。从汇编到C、C++和Prolog，再到Java、Scala和Kotlin，在大型和小型机上，从软盘到SSD，在企业内部和云端，他都经历过，做过，也用过。他把团队团结在一起，开发出精心设计的软件。他还喜欢通过教学来分享知识，并继续设计软件和联网设备。在业余时间，他会探索阿姆斯特丹这座城市。他喜欢摄影，并对航空业非常感兴趣。他曾驾驶过超轻型飞机。他相信，只要保持必要的关注，他就可以继续飞行、到达目的地并享受沿途的风景。</p><p>&nbsp;</p><p>&nbsp;</p><p>原文链接</p><p><a href=\"https://www.infoq.com/news/2022/06/trivago-php-nextjs-typescript/\">Trivago’s Journey From PHP+Melody to Next.js and Typescript</a>\"</p>",
+    "publish_time": "2022-07-02 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
