@@ -7,6 +7,7 @@ import requests
 
 from today import Today, DEFAULT_HEADERS
 from utils.time import get_beijing_time
+from utils.logger import logger
 
 
 RSSHUB_DEFAULT_ADDR = 'https://rsshub.app'
@@ -26,7 +27,7 @@ class RSS(Today):
         source_need_proxy = self.kwargs.get('proxy', None)
         if source_need_proxy and RSSHUB_CUSTOM_ADDR:
             url = self.url.replace(RSSHUB_DEFAULT_ADDR, RSSHUB_CUSTOM_ADDR)
-            print(f'use rsshub proxy addr: {url}')
+            logger.info(f'use rsshub proxy addr: {url}')
             return url
         else:
             return self.url

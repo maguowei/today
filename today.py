@@ -3,6 +3,7 @@ from pathlib import Path
 from abc import ABC, abstractmethod
 from utils.dump import json_dump
 from utils.time import get_beijing_time
+from utils.logger import logger
 
 
 DEFAULT_HEADERS = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36"}
@@ -62,7 +63,7 @@ class Today(ABC):
             json_dump(filename, self.latest_source_data)
         else:
             json_dump(filename, self.latest_feeds_data)
-        print(f'dump_json: {filename}')
+        logger.info(f'dump_json: {filename}')
 
     def dump_md(self, module):
         time = get_beijing_time().strftime('%Y-%m-%d %H:%M:%S')
@@ -83,7 +84,7 @@ class Today(ABC):
             f.writelines(f'--- \n')
             mds = [f"{i + 1}. [{item['title']}]({item['url']}) {item['source']['desc'] if module == 'feeds' else ''}\n" for i, item in enumerate(data)]
             f.writelines(mds)
-        print(f'dump_md: {filename}')
+        logger.info(f'dump_md: {filename}')
 
     @property
     def source_meta_info(self):
@@ -101,7 +102,7 @@ class Today(ABC):
             self.dump_md('sources')
             self.dump_json('feeds')
             self.dump_md('feeds')
-        print(f'export data, name: {self.name}, desc: {self.desc}, count: {len(self.latest_source_data)}, new: {len(self.add_source_data)}')
+        logger.info(f'export data, name: {self.name}, desc: {self.desc}, count: {len(self.latest_source_data)}, new: {len(self.add_source_data)}')
 
     def get_feeds(self, data):
         feeds = []
