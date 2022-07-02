@@ -6,7 +6,7 @@ name: today
 on:
   workflow_dispatch:
   schedule:
-    - cron: "5/15 * * * *"
+    - cron: "0 * * * *"
 
 permissions:
   contents: write
