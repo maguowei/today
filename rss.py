@@ -1,3 +1,4 @@
+import os
 from datetime import datetime, timezone, timedelta
 from time import mktime
 import yaml
@@ -8,6 +9,10 @@ from today import Today, DEFAULT_HEADERS
 from utils.time import get_beijing_time
 
 
+RSSHUB_DEFAULT_ADDR = 'https://rsshub.app'
+RSSHUB_CUSTOM_ADDR = os.getenv('RSSHUB_CUSTOM_ADDR')
+
+
 class RSS(Today):
     def __init__(self, name, desc, icon, url):
         self.name = name
@@ -16,7 +21,12 @@ class RSS(Today):
         self.url = url
         super().__init__()
 
+    def _proxy_check(self):
+        if RSSHUB_CUSTOM_ADDR:
+            self.url.replace(RSSHUB_DEFAULT_ADDR, RSSHUB_CUSTOM_ADDR)
+
     def crawler(self):
+        self._proxy_check()
         r = requests.get(self.url, headers=DEFAULT_HEADERS)
         news = feedparser.parse(r.content).entries
 
