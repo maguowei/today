@@ -42,5 +42,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "如何回应理发店频繁推销，让其秒放弃？",
+    "url": "https://www.v2ex.com/t/863606",
+    "summary": "CNN: <p>随机找了个距离较近的理发店</p>\n<ul>\n<li>洗头时：小伙子说我发质硬，我们店里的洗发水比较适合你，我说不需要谢谢。</li>\n<li>理发时：理发师刚剪分钟，说我头顶、两侧、后面有红点，特别是头顶较多，我们店里的洗发水可以治疗这种现象，我说可能是因为养猫咪夏天掉毛严重过敏（其实我从未发现有红点疙瘩或疼痛），然后理发师还在一直推销，搞的我很来气。</li>\n</ul>\n<p>理发后我让家人看下我头皮，没任何红点一切正常，这种理发店的行为真的恶心，顾客没有的事情他却说皮肤有问题。</p>",
+    "publish_time": "2022-07-02 13:47:41",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "开源了一款用于知识管理的 Docusaurus 博客主题",
+    "url": "https://www.v2ex.com/t/863618",
+    "summary": "lichnow: <p><strong>本来打算卖的，自我感觉挺良好的，既然大家都说不好看或一般，那就开源吧，要的同学自己下载</strong></p>\n<blockquote>\n<p>声明一下，这个账户是我朋友的，我自己的账户还无法发帖，后面会陆续发布一些开源系统都在此账号下，但与账户所有者无关</p>\n</blockquote>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://pic.pincman.com/media/202206301202195.png?imageMogr2/format/webp\" /></p>\n<blockquote>\n<p>[Rowfish][rowfish]是一套用于构建个人文档库，作品展示和博客系统的 docusaurus 主题，<strong>主题基于<a href=\"https://opensource.org/licenses/MIT\" rel=\"nofollow\">MIT license</a>协议完全开源</strong>，专为计算机从业者提升个人求职竞争力或于宁自媒体等而打造！ 🐳</p>\n</blockquote>\n<h2>🚀缘起</h2>\n<blockquote>\n<p>演示站点请看我的<a href=\"https://pincman.com/\" rel=\"nofollow\">博客</a></p>\n</blockquote>\n<p>过去我一直打算做一个博客，也可以自己写写文章啥的。因为很多年前用过 typecho ，一直感觉还不错，但是最近因为一直在用 vscode 以及[obsidian][obsidian]写文章，而 vscode 和 obsidian 是可以直接打开一个工作空间来管理文档的，<a href=\"http://xn--onq9nv2hk6k2tfrxdt3cu89cnnd5w0a8n5b1rt.md/\" rel=\"nofollow\">所以使用静态博客直接编辑.md</a> 文件发布显然更适合。找了一下静态博客程序，发觉 hexo ，hugo ，vuepress ，docusaurus]都还挺不错的，但是 hexo ，hugo 没有自带文档系统，显然不符合我需要长期写文档的要求，这两首先排除。由于我个人对 vue3 不大熟悉，工作中长期使用 react ，所以自然而然的选择了基于 react 的 docusaurus 。</p>\n<p>默认的 docusaurus 不大符合中文站点的审美，也不像 vuepress 那样拥有大量好看的开源主题，于是干脆自己动手设计开发了一款。</p>\n<p>源码地址:<a href=\"https://github.com/rowfishjs/rowfish%5D\" rel=\"nofollow\">https://github.com/rowfishjs/rowfish</a>，喜欢的朋友给个星，谢谢！</p>\n<h2>🍃介绍</h2>\n<p>其实没啥好介绍的，docusaurus 该有的都有，唯一不同的是主题目前只支持中文站点(后续如果有需求再加上多语言支持)。</p>\n<p>rowfish 主要<strong>增加了一些页面和数据以及以<code>rf-</code>开头字段</strong>。然后添加了<strong>博客首页轮播</strong>，<strong>本地站内搜索</strong>，<strong>作品展示页</strong>，<strong>课程展示页</strong>以及使用[waline][waline]的<strong>评论功能</strong>，具体看使用文档。后续打算在性能上再做一些优化，就酱紫。</p>\n<blockquote>\n<p>目前完美匹配移动端，且暗黑模式下效果更佳</p>\n</blockquote>\n<p>效果可以查看<a href=\"https://pincman.com/\" rel=\"nofollow\">演示站点</a></p>\n<p>给张图，如下\n<img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://pic.pincman.com/media/202207012135423.png\" /></p>\n<h2>🌴后续</h2>\n<p>在[Docusaurus][docusaurus]发布正式版前,本主题锁定在[beta21]版本,等正式版发布直接一次性升级.</p>\n<h2>🔭 支持</h2>\n<ul>\n<li>🍓 [求助][discussions]</li>\n<li>🛠️ [bug 修复][issue]</li>\n</ul>\n<p>🍉 秋秋群</p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://pic.pincman.com/media/202207011929335.png\" /></p>",
+    "publish_time": "2022-07-02 15:07:42",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
