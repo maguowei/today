@@ -1176,5 +1176,67 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "2022国际泳联世锦赛",
+    "url": "https://s.weibo.com/weibo?q=%232022%E5%9B%BD%E9%99%85%E6%B3%B3%E8%81%94%E4%B8%96%E9%94%A6%E8%B5%9B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "只有读书才是唯一的出路吗？",
+    "url": "https://www.zhihu.com/question/539503444",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "The Bullshit Web",
+    "url": "https://pxlnv.com/blog/bullshit-web/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=31961239\">Comments</a>",
+    "publish_time": "2022-07-03 02:33:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Bureaucratic processes typically involve a person new to the process",
+    "url": "https://graphthinking.blogspot.com/2022/07/bureaucratic-processes-typically.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=31961216\">Comments</a>",
+    "publish_time": "2022-07-03 02:31:26",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Software Engineering Salaries in the Netherlands and Europe",
+    "url": "https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=31960814\">Comments</a>",
+    "publish_time": "2022-07-03 01:27:28",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Games Done Quick Ocarina of Time beta showcase standing ovation",
+    "url": "https://theclick.gg/gaming/news/games-done-quick-2022-ocarina-of-time-beta-showcase-receives-a-standing-ovation-after-this-happened/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=31960676\">Comments</a>",
+    "publish_time": "2022-07-03 01:05:55",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
