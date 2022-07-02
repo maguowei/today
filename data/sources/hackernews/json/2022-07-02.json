@@ -471,5 +471,27 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Atlanta Fed GDPNow",
+    "url": "https://www.atlantafed.org/cqer/research/gdpnow",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=31955946\">Comments</a>",
+    "publish_time": "2022-07-02 11:32:27",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Notes on structured concurrency, or: Go statement considered harmful",
+    "url": "https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/#what-is-a-goto-statement-anyway",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=31955334\">Comments</a>",
+    "publish_time": "2022-07-02 09:55:19",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
