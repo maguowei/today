@@ -10,7 +10,7 @@ from utils.time import get_beijing_time
 
 
 RSSHUB_DEFAULT_ADDR = 'https://rsshub.app'
-RSSHUB_CUSTOM_ADDR = os.getenv('RSSHUB_CUSTOM_ADDR', 'http://82.157.186.108:1200')
+RSSHUB_CUSTOM_ADDR = os.getenv('RSSHUB_CUSTOM_ADDR')
 
 
 class RSS(Today):
