@@ -5624,5 +5624,550 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "沿着总书记的足迹",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B2%BF%E7%9D%80%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E8%B6%B3%E8%BF%B9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "美团崩了",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%A2%E5%B4%A9%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "难听",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%90%AC%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "科学家发现刺激头发生长分子",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%8F%91%E7%8E%B0%E5%88%BA%E6%BF%80%E5%A4%B4%E5%8F%91%E7%94%9F%E9%95%BF%E5%88%86%E5%AD%90%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "孟子义工作室声明",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%A3%B0%E6%98%8E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "中国军舰进入钓鱼岛海域",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%9B%E8%88%B0%E8%BF%9B%E5%85%A5%E9%92%93%E9%B1%BC%E5%B2%9B%E6%B5%B7%E5%9F%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "警方回应男孩被多人殴打并拍视频",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%A4%9A%E4%BA%BA%E6%AE%B4%E6%89%93%E5%B9%B6%E6%8B%8D%E8%A7%86%E9%A2%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "光大银行原副行长张华宇被开除党籍",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%89%E5%A4%A7%E9%93%B6%E8%A1%8C%E5%8E%9F%E5%89%AF%E8%A1%8C%E9%95%BF%E5%BC%A0%E5%8D%8E%E5%AE%87%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "中国男篮 三分",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE+%E4%B8%89%E5%88%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "警方回应漯河一医院门口多人被撞",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E6%BC%AF%E6%B2%B3%E4%B8%80%E5%8C%BB%E9%99%A2%E9%97%A8%E5%8F%A3%E5%A4%9A%E4%BA%BA%E8%A2%AB%E6%92%9E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Angelababy二次生长悠游三亚大片",
+    "url": "https://s.weibo.com/weibo?q=%23Angelababy%E4%BA%8C%E6%AC%A1%E7%94%9F%E9%95%BF%E6%82%A0%E6%B8%B8%E4%B8%89%E4%BA%9A%E5%A4%A7%E7%89%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "华为nova10价格",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAnova10%E4%BB%B7%E6%A0%BC%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "猫条也哄不回猫咪受伤的心",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8C%AB%E6%9D%A1%E4%B9%9F%E5%93%84%E4%B8%8D%E5%9B%9E%E7%8C%AB%E5%92%AA%E5%8F%97%E4%BC%A4%E7%9A%84%E5%BF%83%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "本周做好被热哭准备",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9C%AC%E5%91%A8%E5%81%9A%E5%A5%BD%E8%A2%AB%E7%83%AD%E5%93%AD%E5%87%86%E5%A4%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "是时候告别雪糕刺客了",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%98%AF%E6%97%B6%E5%80%99%E5%91%8A%E5%88%AB%E9%9B%AA%E7%B3%95%E5%88%BA%E5%AE%A2%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "25省份2021年平均工资出炉",
+    "url": "https://s.weibo.com/weibo?q=%2325%E7%9C%81%E4%BB%BD2021%E5%B9%B4%E5%B9%B3%E5%9D%87%E5%B7%A5%E8%B5%84%E5%87%BA%E7%82%89%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "大众点评崩了",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%BC%97%E7%82%B9%E8%AF%84%E5%B4%A9%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "硬糖少女最后一首新歌",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%A1%AC%E7%B3%96%E5%B0%91%E5%A5%B3%E6%9C%80%E5%90%8E%E4%B8%80%E9%A6%96%E6%96%B0%E6%AD%8C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "TT对战BLG",
+    "url": "https://s.weibo.com/weibo?q=%23TT%E5%AF%B9%E6%88%98BLG%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "男朋友被气哭时有多好笑",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E6%9C%8B%E5%8F%8B%E8%A2%AB%E6%B0%94%E5%93%AD%E6%97%B6%E6%9C%89%E5%A4%9A%E5%A5%BD%E7%AC%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "学生高考后体验送外卖",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E9%AB%98%E8%80%83%E5%90%8E%E4%BD%93%E9%AA%8C%E9%80%81%E5%A4%96%E5%8D%96%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "中国男篮半场领先29分",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%8D%8A%E5%9C%BA%E9%A2%86%E5%85%8829%E5%88%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "enhypen新歌",
+    "url": "https://s.weibo.com/weibo?q=%23enhypen%E6%96%B0%E6%AD%8C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "红色衣服防晒效果最好",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BA%A2%E8%89%B2%E8%A1%A3%E6%9C%8D%E9%98%B2%E6%99%92%E6%95%88%E6%9E%9C%E6%9C%80%E5%A5%BD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何评价华为新一代全屋智能",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%8D%8E%E4%B8%BA%E6%96%B0%E4%B8%80%E4%BB%A3%E5%85%A8%E5%B1%8B%E6%99%BA%E8%83%BD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "没想到被一只青蛙激励到了",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E8%A2%AB%E4%B8%80%E5%8F%AA%E9%9D%92%E8%9B%99%E6%BF%80%E5%8A%B1%E5%88%B0%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何看待四川凉山治理「高价彩礼」「蹲地用餐」等习俗，倡议青年自觉抵制 ？移风易俗过程还需注意哪些问题？",
+    "url": "https://www.zhihu.com/question/541411259",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "刘备为什么要在白帝城而不回成都就托孤诸葛亮？",
+    "url": "https://www.zhihu.com/question/383072480",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "男子将猥亵女儿者打至轻伤二级，检察院最终决定对男子不起诉，如何从法律角度进行解读？",
+    "url": "https://www.zhihu.com/question/541466391",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价 7 月新番动画《莉可丽丝（Lycoris Recoil）》第一集？",
+    "url": "https://www.zhihu.com/question/540936383",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "23岁的你，月薪多少？",
+    "url": "https://www.zhihu.com/question/373767360",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "费心费力操办一场婚礼的意义是什么？",
+    "url": "https://www.zhihu.com/question/537071966",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "有哪些奶茶「好喝又好看」，适合夏天外出拍照？",
+    "url": "https://www.zhihu.com/question/540938313",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何才能有效的放下手机安心学习？",
+    "url": "https://www.zhihu.com/question/28215502",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何写出高质量的文献综述?",
+    "url": "https://www.zhihu.com/question/514417821",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "乌克兰总统泽连斯基确认乌军撤出，此前俄军宣布占领并控制利西昌斯克市，该地区对俄乌各有何战略意义？",
+    "url": "https://www.zhihu.com/question/541292509",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "央行与香港金融管理局签署常备互换协议并扩大规模，将产生哪些影响？",
+    "url": "https://www.zhihu.com/question/541418280",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何看待昆明一小学论文答辩包含「秦始皇对中国历史的影响」等题目？小学采取毕业论文答辩这种方式有必要吗？",
+    "url": "https://www.zhihu.com/question/541453030",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "董卿丈夫密春雷被强制执行超 7 亿元，此前已失联数月，具体情况如何？如何从法律角度进行解读？",
+    "url": "https://www.zhihu.com/question/541447329",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "7 月 4 日延庆区筛查出一例核酸阳性人员，目前阳性人员情况如何？",
+    "url": "https://www.zhihu.com/question/541461099",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "情侣谈恋爱为什么都喜欢一起去图书馆？",
+    "url": "https://www.zhihu.com/question/537796298",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "华为正式发布问界M7",
+    "url": "https://36kr.com/newsflashes/1812921995544194",
+    "summary": "36氪获悉，7月4日，华为发布SUV新品AITO M7，售价31.98万起。据介绍，M7电机功率达到330kw，增程器为赛力斯1.5T四缸增程器，搭载HUAWEI DriveONE纯电驱增程平台，油电转化率为3.13kwh/L。M7四驱版本百公里加速4.8s，后驱版本WLTC模式下纯电里程195km。",
+    "publish_time": "2022-07-04 16:39:37",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "通威股份：预计上半年净利润120亿元-125亿元，同比增长304.62%-321.48%",
+    "url": "http://www.sse.com.cn//disclosure/listedinfo/announcement/c/new/2022-07-05/600438_20220705_1_itrROgyJ.pdf",
+    "summary": "36氪获悉，通威股份公告，预计上半年净利润120亿元-125亿元，同比增长304.62%-321.48%。上半年，高纯晶硅业务受益于下游需求的增长，叠加新产能的顺利释放，实现量利大幅增长；电池片业务满产满销，出货量同比增长，大尺寸产品占比提升，盈利能力同比显著修复。",
+    "publish_time": "2022-07-04 17:02:41",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "德国联邦反垄断局允许大众、博世合作开发自动驾驶解决方案",
+    "url": "https://www.jiemian.com/article/7691583.html",
+    "summary": "德国联邦反垄断局7月4日发布声明，不会对博世和大众汽车为进一步开发自动驾驶而计划的合作提起诉讼。这两家公司之间的合作旨在开发一个半自动驾驶领域的联合软件解决方案。这两家公司计划开发一个所谓的360°视频感知软件，整合来自众多摄像机、雷达和传感器的信号和数据，并利用人工智能处理。该软件将特别用于大众集团的车辆，但也将提供给其他汽车制造商。（界面）",
+    "publish_time": "2022-07-04 17:10:52",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "通威股份：员工持股计划资产管理产品已累计买入46.99亿元公司股份",
+    "url": "http://www.sse.com.cn/disclosure/listedinfo/announcement/c/new/2022-07-05/600438_20220705_2_Xs1gPwS5.pdf",
+    "summary": "36氪获悉，通威股份公告，公司作为本次员工持股计划的委托人代表与受托人中国人寿资产管理有限公司陆续签署了相关资产管理产品总规模合计56亿元全部成立。截至公告日，公司本次员工持股计划资产管理产品已通过上海证券交易所集中竞价交易系统累计买入公司股票8746.26万股，占公司总股本比例为1.94%，成交总金额46.99亿元，成交均价为53.73元/股。",
+    "publish_time": "2022-07-04 17:14:12",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "媒体：预计秋季发布的AirPods Pro 2不会搭载心率和体温传感器",
+    "url": "http://www.techweb.com.cn/world/2022-07-04/2896805.shtml",
+    "summary": "据报道，此前一直有传言称第二代AirPods Pro将内置心率和体温传感器，不过苹果知名分析师Mark Gurman却表示，这种功能不太可能很快出现。Gurman表示，苹果将重点在音频质量，噪音消除和添加空间音频方面发力。除此之外，还有传言称AirPods Pro 2将配备USB-C、更新H1芯片和Find My功能。苹果手表Series 8的一个重大升级将是配备一个新体温传感器。（TechWeb）",
+    "publish_time": "2022-07-04 17:29:01",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "钴价继续下跌，锂电材料价格多数企稳",
+    "url": "https://news.cnstock.com/news,bwkx-202207-4913436.htm",
+    "summary": "钴价连续下跌长达三个月，仍在延续跌势。上海钢联7月4日发布的数据显示，电解钴价格下跌1.05万元/吨至36.25万元/吨。碳酸钴、钴粉等钴氧化物价格均不断下跌。大多数锂电材料价格维持稳定。据上海有色网监测，受国内电子产品消费低迷影响，钴需求整体增幅不大，钴价持续回调，现货采购滞缓。上海钢联数据显示，近一个月，电池级碳酸锂价格保持在47万元/吨左右，基本维持稳定。（上证报）",
+    "publish_time": "2022-07-04 17:39:11",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "媒体：半导体设备制造商销售额预计将在未来几年下滑",
+    "url": "http://www.techweb.com.cn/world/2022-07-04/2896807.shtml",
+    "summary": "据报道，由于全球经济疲软，多家晶圆代工企业正考虑推迟或取消产能扩张计划，半导体设备制造商未来几年的销售额预计将下滑。今年6月22日，市场研究机构集邦咨询表示，半导体设备再次面临交货期延长至18-30个月的困境。而在疫情前，半导体设备的交货期为3-6个月。该机构表示，由于受到半导体设备再次面临交货期延长的拖累，2023年晶圆代工产能年增长率将收窄至8%。（TechWeb）",
+    "publish_time": "2022-07-04 17:49:48",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "DoorDash送餐业务放缓，仍继续全球化扩张",
+    "url": "https://finance.sina.com.cn/7x24/2022-07-04/doc-imizirav1877467.shtml",
+    "summary": "DoorDash共同创办人兼科技总监Andy Fang在接受采访时表示，近期动用35亿美元资金，收购芬兰送餐集团Wolt，交易有助DoorDash推动全球化发展。Fang相信，疫情放缓下，送餐业务增长呈下降，集团业务全球化及盈利增长依然可以同步推进。Fang承认，高昂的能源成本以及监管规则可能有变，是集团当前面对的不利因素，但相信良好的沟通有助解决问题。（新浪财经）",
+    "publish_time": "2022-07-04 17:59:34",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "市场消息：特斯拉加大在新加坡的招聘力度",
+    "url": "https://finance.sina.com.cn/7x24/2022-07-04/doc-imizirav1877525.shtml",
+    "summary": "市场消息：特斯拉加大在新加坡的招聘力度。（新浪财经）",
+    "publish_time": "2022-07-04 18:09:29",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "安琪酵母：子公司筹划至北京证券交易所上市",
+    "url": "http://www.sse.com.cn//disclosure/listedinfo/announcement/c/new/2022-07-05/600298_20220705_6_LJRVtp5B.pdf",
+    "summary": "36氪获悉，安琪酵母公告，所属子公司湖北宏裕新型包材股份有限公司筹划至北京证券交易所上市。本次分拆完成后，安琪酵母股权结构不会发生变化，且仍将维持对宏裕包材的控制权。",
+    "publish_time": "2022-07-04 18:11:13",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "首个冲刺科创板的国产数据库：78岁老教授打磨四十年，每一行代码都自主研发",
+    "url": "https://www.infoq.cn/article/KaIIi6FxILSFeQAT430Q",
+    "summary": "<p></p><p>整理 | 褚杏娟、Tina</p><p></p><p>2022 年 6 月 29 日，科创板受理武汉<a href=\"https://www.dameng.com/\">达梦数据库</a>\"股份有限公司上市申请。</p><p></p><p>根据招股书，本次发行股份全部为新股，原股东不公开发售股份。本次拟公开发行股票数量不超过 1,900.00 万股，且不低于发行后公司总股本的 25%。发行后总股本不超过 7,600.00 万股。其中，招商证券为其保荐机构，华英证券为联席主承销商。</p><p></p><p>据招股书显示，达梦本次募资主要用于集群数据库管理系统升级项目、高性能分布式关系数据库管理系统升级项目、新一代云数据库产品建设项目、达梦中国数据库产业基地和达梦研究院建设项目 。</p><p></p><p>达梦数据库实际控制人为冯裕才，其通过实际控制的梦裕科技、曙天云、得特贝斯、数聚云、惠梦源、数安科技、梦达惠佳、数聚通等合伙企业，拥有发行人 28.0847% 的表决权，但达梦不存在控股股东。发行前后的股本结构变化如下：</p><p></p><p><img src=\"https://static001.geekbang.org/wechat/images/d0/d0deb15753976b1acce31e17f2171b1a.png\" /></p><p></p><p></p><h2>党政、能源、金融等，撑起营收高速增长</h2><p></p><p></p><p></p><h4>主营业务收入的年化复合增长率达到 57.07%</h4><p></p><p></p><p>招股书显示，达梦数据库近三年营收分别为 7.43 亿、4.5 亿、3.02 亿；净利润为 4.38 亿、1.44 亿、8375 万。报告期内，公司主营业务收入的年化复合增长率达到 57.07%。</p><p></p><p><img src=\"https://static001.geekbang.org/wechat/images/8c/8cf3373e1dad7af7335ffcf2f8a65d1f.png\" /></p><p></p><p>达梦数据库的主要产品及服务包括软件产品使用授权、数据及行业解决方案和运维服务，其中前两个为收入的主要来源。2019 年到 2021 年，软件产品使用授权方式收入占主营业务收入比重分别为 69.32%、82.42%、86.57%。</p><p></p><p><img src=\"https://static001.geekbang.org/wechat/images/45/45adb6fbd68620e25733a1e8f0828e80.png\" /></p><p></p><p>据悉，达梦数据库的客户包括建设银行、交通银行、光大银行、兴业银行、广发银行、国 开行、中国人寿、邮储银行、中国人保、国家电网、中国航信、中国移动、中国烟草、国家市场监督管理总局、各级人民检察院、各级人民法院、国家发改委、 国家移民局、证监会、上交所、深交所等，涵盖党政、金融、能源、电信等数十个领域。</p><p></p><p>其中，达梦数据库在党政领域内的软件产品使用授权业务收入持续大幅增长，复合增长率达到 94.43%。2021 年度，达梦数据库在金融行业获得的收入取得突破性增长，较 2020 年度增长 7,052.99 万元，增长幅度超过 1,000.00%。</p><p></p><p>当前，达梦数据库的前五大客户分别为中建信息、湖北省司法厅、四川中达联科软件科技有限责任公司、广州诚踏信息科技有限公司和中国电子科技集团有限公司。其中，中建信息在 2021 年的销售金额占当年营业收入的 30.12%。</p><p></p><p><img src=\"https://static001.geekbang.org/wechat/images/98/98a17416ca63d96478969f74694b891b.png\" /></p><p></p><p>根据招股书，达梦数据相对于其他国内传统数据库厂商均具备一定优势。2019 至 2021 年，中国国产数据库管理软件企业经营业绩情况列示如下：</p><p></p><p><img src=\"https://static001.geekbang.org/wechat/images/a5/a5fe938818cdb7e8f45f3bce991235f2.png\" /></p><p></p><p></p><h4>研发费用呈增长趋势</h4><p></p><p></p><p>期间费用方面，销售费用占比最高，其次为研发费用。达梦数据库近三年的研发费用分别为 6256 万、9660 万、1.18 亿，呈增长趋势，研发费用率分别为 20.74%、21.46% 和 15.86%。</p><p></p><p>其中，职工薪酬是公司研发费用中最主要的支出。截至 2021 年 12 月 31 日，公司共有研发人员 332 名，占公司员工人数比例为 31.35%。报告期内，研发人员薪酬分别为 4,310.72 万元、5,158.56 万元及 8,781.74 万元，同比增长分别为 19.67% 和 70.24%。</p><p></p><p><img src=\"https://static001.geekbang.org/wechat/images/99/995be6e30eb4d329d1486db8ede8e0f5.png\" /></p><p></p><p>根据招股书，达梦数据库近三年的数据财务数据如下：</p><p></p><p><img src=\"https://static001.geekbang.org/wechat/images/a9/a96085c861c1e8d950c4333576599b52.jpeg\" /></p><p></p><p></p><h2>老教授的国产梦</h2><p></p><p></p><p>达梦数据库的背后，是一位 78 岁中国老教授的数据库国产梦。</p><p></p><p><img src=\"https://static001.geekbang.org/wechat/images/ba/ba991e78c0c919b0b402cc0f952fb2bd.png\" /></p><p></p><p>“达梦就是达到<a href=\"http://m.cnhubei.com/content/2021-07/15/content_13933490.html\">梦想的意思</a>\"。”达梦实际控制人、创始人冯裕才曾说。“有人说我是教授，也有人说我是商人。我觉得定位都不准确，我认为我是一位坚持近 40 年，做自主可控国产基础软件的‘追梦者’，是一位痛并快乐着的‘创业者’，也是数据库中国梦的‘坚守者’。”</p><p></p><p>1944 年出生于江苏的冯裕才，本科就读于哈尔滨工程学院导弹工程系，也就是日后的国防科技大学。1976 年进入华中科技大学，从计算机系助教做起，先后成为讲师、副教授、教授、博士生导师，直至 2011 年 3 月从华科退休。冯裕才在华科教了 35 年书，达梦数据库也正是在这所高校诞生。</p><p></p><p>冯裕才开始探索数据库要追溯到 1978 年。<a href=\"http://jxt.hubei.gov.cn/fbjd/xxgkml/jgzn/nsjg/rjhxxfwyc/qyfc/201912/t20191226_1796233.shtml\">当时</a>\"，武钢投资 50 亿元从日本引进设备，建造“一米七”热轧钢材自动化生产线。为了防止技术泄密，日方在调试安装完设备后，把足足三卡车的技术资料当场销毁。冯裕才在现场目睹了这一幕，内心感到巨大的屈辱，痛下决心一定要研发出中国人自己的数据库系统。</p><p></p><p>1982 年，冯裕才“啃”完朋友从美国寄回来的 300 多篇英文原版论文，逐渐熟悉了数据库系统各子部件的工作原理及使用方法，开始着手准备数据库管理系统的研发工作，并成立了自己的研发小组。历经六年，他们终于在 1988 年成功研制了我国第一个自主版权的“数据库管理系统 CRDS”。1992 年，冯裕才带领课题组，拿下了国家部委一个 400 万元预算的数据库项目，华科也决定将其团队升格为“华中理工大学达梦数据库多媒体研究所”。2000 年，达梦公司正式成立，承担着实现数据库国产的使命。</p><p></p><p></p><h4>自主可控，每一行代码都自己研发</h4><p></p><p></p><p>虽然当时中国的学术界开始研究数据库，但是美国的工业界已经开始研发关系型数据库，差距就此拉开。而自 90 年代开始，Oracle、Sybase、DB2、Informix 等产品纷纷进入中国，并且占据了垄断地位。国内数据库行业是一个百亿级大市场，但当时甲骨文等国外软件占有 95% 的市场。</p><p></p><p>国内大多数数据库开发企业采用拿来主义，利用国外的开源技术。为打破国外技术封锁，规避使用开源技术可能存在的安全和版权风险，冯裕才坚持源代码 100% 自主研发。每一行代码都是自己研发，只有这样才能完全拥有自主知识产权，掌握数据库领域的核心关键技术。</p><p></p><p>自主可控数据库的研发具有极大挑战，数据库开发是个高端技术行业，不是短暂的时间就能掌握核心开发技术。数据库体量是很大的，通常在 1000 万到 2000 万源代码，这样大的规模的数据库的开发的维护，按照国外软件工程的计算，每个工程师每年维护的源码大概在 1 万行左右，就意味着至少有 1000 到 2000 个人了解熟悉它。</p><p></p><p>长期以来，达梦产品在国家相关测试中几乎每年都是第一名，但到 2003 年，达梦数据库的成绩一下子掉下来了。一个很重要的原因是达梦一直坚持完全自主研发，而其它同类产品则开始从自主研发向开源转变。冯裕才认为使用开源，短期内产品各方面可能会有显著提升，但由于没有经历过这样一个发展过程，无论是研发队伍、人才还是技术掌握都会有所欠缺，所以其根基是不牢固的。“一个企业在它所研究的行业里，如果未能拥有自主知识产权和核心技术，那么就会对企业的核心竞争力造成很大挑战。这是一个企业生死攸关的大问题，在数据库行业尤其如此。”</p><p></p><p></p><h4>信息安全重于一切</h4><p></p><p></p><p>数据库的安全也是极其重要的，以前根据美国法律，高于国家安全级别二级（最高五级）的数据库产品不允许对中国销售，这就决定了国内市场上的国外数据库产品<a href=\"https://web.archive.org/web/20160202051850/http://www.wehdz.gov.cn/xwdt/mtjj/60524.htm\">安全级别不高</a>\"。此外，还很难确保国外产品中不含“逻辑炸弹”和“后门”，可能给信息安全带来极大威胁。</p><p></p><p>“2008 年，国家电网遭到黑客攻击，至今未能查到攻击来源。”冯裕才说。“在信息时代，数据库如同人体的神经中枢，一旦瘫痪，后果不堪设想。”</p><p></p><p>达梦在快速发展下，不仅成为首批获得国家“双软”认证的软件企业，唯一获得自主原创认证的数据库企业，产品还通过 EAL4+ 级审核，达到了目前国产数据库最高安全级别。</p><p></p><p>2000 年后，关键行业开始采取去“IOE”的行动，随后国家新一代智能电网建设引入达梦数据库。目前，达梦数据库在<a href=\"https://www.dameng.com/view_3504.html\">国家电网调度领域</a>\"市场占有率超 80%，在南方电网调度领域市场占有率达 90%。为电网行业数字化转型、众多核心生产系统提供了重要支撑。</p><p></p><p>大数据浪潮到来之后，达梦公司又逐渐转为致力于数据库管理系统与大数据平台的研发、销售和服务，提出了新的做全栈数据产品及解决方案提供商的理念。</p><p></p><p><img src=\"https://static001.geekbang.org/wechat/images/2b/2b8f9a31d6e566ce043558c88b925c3d.png\" /></p><p></p><p>从最开始的单机数据库，达梦随着时代发展出了云数据库产品，基于自研的关系型数据库软件 DM8（包含标准版、企业版、安全版），集数据存储、备份、高可用、迁移、监控、优化、安全等功能为一体。</p><p></p><p>在政府、企业、高校几十年来的支持下，达梦从最早的党政办公系统的国产化，后来逐步进入党政核心业务系统，以及企业核心交易，包括电网、能源、航空等行业的核心业务应用。近几年又逐步进入了金融、运营商等高端市场，已经几乎触及了数据库业内的最高端市场。</p><p></p><p>历经 40 余年积累沉淀，达梦产品现已广泛应用于国家重大核心领域，并连续多年在国产数据库市场排名第一。</p><p></p><p>随着招股书的提交，达梦也有望成为“国产数据库第一股”。回顾历史，我们能够看到，数据库产业要想实现发展超越，产学研用必须要同步推进，才有可能消除短板、加速生长。国产数据库虽然发展很慢，但已经逐渐打磨成形，具备一战之力。</p><p></p><p>今日好文推荐</p><p></p><p><a href=\"http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651124631&amp;idx=1&amp;sn=becf531639d6cf236ab0a29e6e614773&amp;chksm=bdb90bc48ace82d285e7e3391952cb79a38371202533460331cd205fcdab144027bc31834a06&amp;scene=21#wechat_redirect\">为什么 Rust 是初创公司的绝佳选择?</a>\"</p><p></p><p><a href=\"https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651124630&amp;idx=1&amp;sn=6c6860915b83b729912272fde173d9cd&amp;scene=21#wechat_redirect\">达梦冲刺国产数据库第一个 IPO；特斯拉自动驾驶部门裁员约 200 人；微信推出图片大爆炸功能｜Q 资讯</a>\"</p><p></p><p><a href=\"http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651124439&amp;idx=1&amp;sn=17589635c517723b03526ae7f23e3f18&amp;chksm=bdb90a848ace8392f9b925c1bc45b2542e50c4cc2cd1b5ecb12f9913df4ceef9b5584cbcf373&amp;scene=21#wechat_redirect\">从 IE 到 Edge：我们跟微软浏览器团队聊了聊 Web 的过去和未来 | 中国卓越技术团队访谈录</a>\"</p><p></p><p><a href=\"http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651124152&amp;idx=1&amp;sn=d658cb736dc1b0501da34dbcdc2c343b&amp;chksm=bdb909eb8ace80fd7f8df9b34f95035e5dcf0042a52b03462e057b6392d8afde570fea0ddd86&amp;scene=21#wechat_redirect\">尤雨溪向 React 推荐自己研发的 Vite，网友：用第三方工具没有任何意义</a>\"</p><p></p>",
+    "publish_time": "2022-07-04 16:08:31",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "SRS 5.0：如何实现 SRT 协程化",
+    "url": "https://www.infoq.cn/article/x6jZTzXP4bZQlMxpLIlT",
+    "summary": "<p>协程是现代服务器的核心技术，能极大简化逻辑和提升维护性；SRT是逐渐在取代RTMP推流的新协议，但它有自己的IO框架；只有实现了SRT的协程化，才能成为SRS的核心的成熟的协议，这是SRS 5.0迈出的第一步，也是至关重要的一步。</p><p></p><p>SRS 5.0从2022年初启动以来，经过摸索和探讨，确定了以媒体网关作为核心方向，详细请看<a href=\"https://mp.weixin.qq.com/s/Rq3NuZKdMr2_Dmiki72RFw\">SRS 5.0核心问题定义和解法</a>\"。</p><p></p><p>SRT作为主播/广播推流领域广泛采用的协议，而Web浏览器却不支持播放SRT流，这恰恰是媒体网关的核心价值，可以将SRT转成RTMP/HLS/WebRTC后，实现广播领域的Web超低延迟方案，还可以把SRT强大的跨国传输能力用起来。</p><p></p><p>而这些美好愿景的基础，就是这次要介绍的：改造SRT支持协程化(Coroutine Native SRT)。这是SRS 5.0至关重要的一步，也是具备深远影响的一步，详细代码请参考<a href=\"https://github.com/ossrs/srs/pull/3010\">PR#3010</a>\"。</p><p></p><p>我们先了解下详细的背景介绍。</p><p></p><h2>Introduction</h2><p></p><p></p><p>在直播推流领域，RTMP是事实上的工业标准，广泛使用，也是直播源站之间兼容性最好的协议。</p><p></p><p>随着场景的丰富和直播的发展， 几个比较严重的问题逐渐暴露出来：</p><p></p><p>TCP推流在长距离传输下，受丢包以及RTT抖动影响非常大，效果很差。RTMP协议不支持多音轨，以及H265、AV1等一系列新的编解码。Adobe已经放弃RTMP协议，很多年没有更新了，未来也不会更新。</p><p></p><p>为了解决这些问题，2018年左右，广播电视领域开始广泛应用SRT协议推流，越来越多的推流设备和平台都支持了SRT协议。</p><p></p><p>SRS在2019年底，SRS 4.0支持了SRT推流，目前存在以下的问题：</p><p></p><p>SRT在SRS上使用多线程+异步实现，某些异常导致的程序Crash，难以排查。SRT在SRS实现是异步方式，代码复杂，维护难度高。HTTP回调，SRT播放不生效；SRT推流依赖转RTMP后，RTMP触发的回调。SRT无法直接转WebRTC，而是先转RTMP再转WebRTC，导致延迟高。</p><p></p><p>这些问题的核心原因，是由于SRT使用了独立的异步IO和多线程，无法和SRS已有的ST协程结合起来。</p><p></p><p>要彻底解决这个问题，必须将SRT协程化，和SRS使用同一套ST协程框架。SRS 5.0已经完成，详细代码请参考<a href=\"https://github.com/ossrs/srs/pull/3010\">PR#3010</a>\"，这是非常重要的一个功能。</p><p></p><p>在介绍SRT协程化之前，先介绍下什么是协程化，我们看下ST的TCP协程化(Coroutine Native)，这是最好的例子。</p><p></p><h2>Coroutine Native TCP</h2><p></p><p>首先，非协程化的代码，也就是epoll驱动的异步代码，大概逻辑是这样：</p><p></p><p><code lang=\"cpp\">int fd = accept(listen_fd); // Got a TCP connection.\n\nint n = read(fd, buf, sizeof(buf));\nif (n == -1) {\n  if (errno == EAGAIN) { // Not ready\n    return epoll_ctl(fd, EPOLLIN); // Wait for fd to be ready.\n  }\n  return n; // Error.\n}\n\nprintf(\"Got %d size of data %p\", n, buf);\n</code></p><p></p><p></p><blockquote>Note: 为了方便表达关键逻辑，我们使用示意代码，具体代码可以参考epoll的示例代码。</blockquote><p></p><p></p><p>一般read是业务逻辑，读出来的数据也是业务数据，但是这里却需要在EAGAIN时调用epoll这个底层框架处理fd。这就是把底层逻辑和业务逻辑混合在一起，导致难以维护。</p><p></p><p></p><blockquote>Note: 尽管NGINX包装了一层框架，但是本质上并不能解决这个异步回调问题，当fd没有准备好必须返回当前函数，所以导致很多状态需要保存和恢复，在复杂的逻辑中状态机也变得非常复杂。</blockquote><p></p><p></p><p>下面我们看协程化的逻辑会是怎样的，同样以上面代码为例：</p><p></p><p><code lang=\"cpp\">st_netfd_t fd = st_accept(listen_fd); // Got a TCP connection\n\nint n = st_read(fd, buf, sizeof(buf));\nif (n == -1) {\n    return n; // Error.\n}\n\nprintf(\"Got %d size of data %p\", n, buf);\n</code></p><p></p><p>简单的看，就是没有EAGAIN，看起来要么读取到了数据，要么就是出现了错误，不会出现fd没有准备好的情况。这就给整个业务逻辑带来了非常好的体验，因为不需要保存状态了，不会反复的尝试读取。</p><p></p><p>同样用epoll，为何st_read就没有EAGAIN呢？这就是协程化，不是没有，只是在底下处理了这个事件。我们看st_readv这个函数：</p><p></p><p><code lang=\"cpp\">ssize_t st_read(_st_netfd_t *fd, void *buf, size_t nbyte) {\n    while ((n = read(fd-&gt;osfd, buf, nbyte)) &lt; 0) {\n        if (errno == EINTR)\n            continue;\n        if (!_IO_NOT_READY_ERROR) // Error, if not EAGAIN.\n            return -1;\n\n        /* Wait until the socket becomes readable */\n        if (st_netfd_poll(fd, POLLIN) &lt; 0) // EAGAIN\n            return -1;\n    }\n    \n    return n;\n}\n</code></p><p></p><p>很明显在EAGAIN时，会调用st_netfd_poll。在st_netfd_poll函数里，会将当前协程切换出让，调度线程执行下一个协程。并且在未来某个时刻，会因为IO事件到达或者超时错误，而将当前协程恢复。</p><p></p><p></p><blockquote>Note: 由于协程切换和恢复，都是在这个函数中实现的，对于上层调用的代码，看起来没有发生什么，所以就不仅没有EAGAIN这个错误消息，也不会返回上一层函数，当然也不需要保存状态和恢复状态。</blockquote><p></p><p></p><p>我们可以总结下，如何协程化任何协议的思路：</p><p></p><p>直接对API进行一次调用，如果成功，那么直接返回。如果API返回失败，检查错误，非IO等待的错误直接返回。将当前协程出让，调度器运行其他协程，直到该FD上的事件返回或者超时；如果超时，则返回错误；如果事件到达，则重复上面的步骤。</p><p></p><p>我们可以按照这个思路将SRT进行协程化(Coroutine Native)。</p><p></p><h2>Coroutine Native SRT</h2><p></p><p>我们以srt_recvmsg函数的协程化为例，这个函数类似TCP的read函数，定义如下：</p><p></p><p><code lang=\"cpp\">SRT_API int srt_recvmsg (SRTSOCKET u, char* buf, int len);\n</code></p><p></p><p>我们同样，提供一个SrsSrtSocket::recvmsg的函数，类似st_read函数，实现如下：</p><p></p><p><code lang=\"cpp\">srs_error_t SrsSrtSocket::recvmsg(void* buf, size_t size, ssize_t* nread) {\n  while (true) {\n    int ret = srt_recvmsg(srt_fd_, (char*)buf, size);\n    if (ret &gt;= 0) { // Receive message ok.\n      recv_bytes_ += ret; \n      *nread = ret;\n      return err;\n    }\n    \n    // Got something error, return immediately.\n    if (srt_getlasterror(NULL) != SRT_EASYNCRCV) {\n      return srs_error_new(ERROR_SRT_IO, \"srt_recvmsg\");\n    }\n    \n    // Wait for the fd ready or error, switch to other coroutines.\n    if ((err = wait_readable()) != srs_success) { // EAGAIN.\n      return srs_error_wrap(err, \"wait readable\");\n    }\n  }\n  \n  return err;\n}\n</code></p><p></p><p>可以看到和st_read非常类似，在wait_readable中也会实现协程的切换和恢复，只是我们使用st_cond_t条件变量来实现：</p><p></p><p><code lang=\"cpp\">srs_error_t SrsSrtSocket::wait_readable() {\n  srt_poller_-&gt;mod_socket(this, SRT_EPOLL_IN);\n  srs_cond_timedwait(read_cond_);\n}\n</code></p><p></p><p></p><blockquote>Note: 这里先修改了epoll侦听的事件SRT_EPOLL_IN，等待fd可读后，再等待条件变量触发。</blockquote><p></p><p></p><p>而触发这个条件变量的函数，是在SrsSrtPoller::wait，实现如下：</p><p></p><p><code lang=\"cpp\">srs_error_t SrsSrtPoller::wait(int timeout_ms, int* pn_fds) {\n  int ret = srt_epoll_uwait(srt_epoller_fd_, events_.data(), events_.size());\n  for (int i = 0; i &lt; ret; ++i) {\n    if (event.events &amp; SRT_EPOLL_IN) {\n      srt_skt-&gt;notify_readable();\n    }\n  }\n}\n\nvoid SrsSrtSocket::notify_readable() {\n  srs_cond_signal(read_cond_);\n}\n</code></p><p></p><p>这样就完全做到了将SRT API协程化，其他的API比如srt_sendmsg, srt_connnect, srt_accept也是类似的操作。</p><p></p><p>下面我们对比下，协程化(Coroutine Native)之后，和原始的回调(Callback)的区别。</p><p></p><h2>Coroutine Native PK Callback</h2><p></p><p>将SRT 协程化以后， 业务逻辑和底层代码分离，上层的代码逻辑清晰明了。</p><p></p><p>先看看accept这个逻辑，之前也是由epoll触发的事件处理，创建srt_conn这个数据结构：</p><p></p><p><code lang=\"cpp\">while (run_flag) {\n  int ret = srt_epoll_wait(_pollid, read_fds, &amp;rfd_num, write_fds);\n  for (int index = 0; index &lt; rfd_num; index++) {\n    SRT_SOCKSTATUS status = srt_getsockstate(read_fds[index]);\n    srt_handle_connection(status, read_fds[index], \"read fd\");\n  }\n}\n\nvoid srt_server::srt_handle_connection(SRT_SOCKSTATUS status, SRTSOCKET input_fd) {\n  if (status == SRTS_LISTENING) {\n    conn_fd = srt_accept(input_fd, (sockaddr*)&amp;scl, &amp;sclen);\n    _handle_ptr-&gt;add_newconn(conn_fd, SRT_EPOLL_IN);\n  }\n}\n\nvoid srt_handle::add_newconn(SRT_CONN_PTR conn_ptr, int events) {\n    _push_conn_map.insert(std::make_pair(conn_ptr-&gt;get_path(), conn_ptr));\n    _conn_map.insert(std::make_pair(conn_ptr-&gt;get_conn(), conn_ptr));\n    int ret = srt_epoll_add_usock(_handle_pollid, conn_ptr-&gt;get_conn(), &amp;events);\n}\n</code></p><p></p><p></p><blockquote>Note: 创建的srt_conn本身就是保存在全局数据结构之中，在后续的回调事件中持续修改和变更这个数据结构。</blockquote><p></p><p></p><p>我们对比下协程化之后的业务逻辑，收到会话之后启动处理协程：</p><p></p><p><code lang=\"cpp\">srs_error_t SrsSrtListener::cycle() {\n  while (true) {\n    srs_srt_t client_srt_fd = srs_srt_socket_invalid();\n    srt_skt_-&gt;accept(&amp;client_srt_fd);\n    \n    srt_server_-&gt;accept_srt_client(srt_fd);\n  }\n}\n\nsrs_error_t SrsSrtServer::accept_srt_client(srs_srt_t srt_fd) {\n  fd_to_resource(srt_fd, &amp;srt_conn);\n  conn_manager_-&gt;add(srt_conn);\n  srt_conn-&gt;start();\n}\n</code></p><p></p><p></p><blockquote>Note: 虽然有全局变量维护srt_conn，但这里不会关注到epoll的处理，而是由协程主导的执行逻辑，而不是由回调主导的逻辑。</blockquote><p></p><p></p><p>回调主导的逻辑，维护和了解代码时，必须要从epoll回调事件开始看，而且不同事件都在修改srt_conn这个对象的状态，要了解对象生命周期是很有难度的。而协程主导的逻辑，它的生命周期是在协程中，收到srt_conn就启动协程处理它，后续的读写也在协程中。</p><p></p><p>我们继续看srt_conn的读处理逻辑，之前直接使用原生SRT的read函数，同样是由epoll的事件触发回调：</p><p></p><p><code lang=\"cpp\">while (run_flag) {\n  int ret = srt_epoll_wait(_pollid, read_fds, &amp;rfd_num, write_fds);\n  for (int index = 0; index &lt; rfd_num; index++) {\n    SRT_SOCKSTATUS status = srt_getsockstate(read_fds[index]);\n    srt_handle_data(status, read_fds[index], \"read fd\");\n  }\n}\n\nvoid srt_handle::handle_srt_socket(SRT_SOCKSTATUS status, SRTSOCKET conn_fd) {\n  auto conn_ptr = get_srt_conn(conn_fd);\n  int mode = conn_ptr-&gt;get_mode();\n  if (mode == PUSH_SRT_MODE &amp;&amp; status == SRTS_CONNECTED) {\n    handle_push_data(status, path, subpath, conn_fd);\n  }\n}\n\nvoid srt_handle::handle_push_data(SRT_SOCKSTATUS status, SRTSOCKET conn_fd) {\n  srt_conn_ptr = get_srt_conn(conn_fd);\n  if (status != SRTS_CONNECTED) { // Error.\n    close_push_conn(conn_fd);\n    return;\n  }\n\n  ret = srt_conn_ptr-&gt;read_async(data, DEF_DATA_SIZE);\n  if (ret &lt;= 0) { // Error.\n    if (srt_getlasterror(NULL) != SRT_EASYNCRCV) {\n      return;\n    }\n    close_push_conn(conn_fd);\n    return;\n  }\n\n  srt2rtmp::get_instance()-&gt;insert_data_message(data, ret, subpath);\n}\n</code></p><p></p><p></p><blockquote>Note: 在回调中我们需要处理各种状态，而这个srt_conn的状态变化，是由各种回调决定的，很难一次了解到这个会话的主要处理逻辑。</blockquote><p></p><p></p><p>我们看看SRT协程化之后，这个业务逻辑是怎样写的：</p><p></p><p><code lang=\"cpp\">srs_error_t SrsMpegtsSrtConn::do_publishing() {\n  while (true) {\n    ssize_t nb = 0;\n    if ((err = srt_conn_-&gt;read(buf, sizeof(buf), &amp;nb)) != srs_success) {\n      return srs_error_wrap(err, \"srt: recvmsg\");\n    }\n    \n    if ((err = on_srt_packet(buf, nb)) != srs_success) {\n      return srs_error_wrap(err, \"srt: process packet\");\n    }\n  }\n}\n</code></p><p></p><p></p><blockquote>Note: 这里srt_conn的生命周期非常明确，它的状态就是直接在这里返回错误，对于这个会话来说，这就是它的主循环，不会因为read而导致进入SRT的epoll大循环，我们在维护时也不用关注这个异步事件触发和处理。</blockquote><p></p><p></p><p>再次强调一次，维护代码时，我们需要了解的信息量是非常不同的。在基于异步回调的逻辑中，我们在回调函数中，是需要关注目前对象有哪些状态，修改了哪些状态，其他异步事件又有哪些影响。而基于协程的逻辑中，没有这些状态，协程的创建和执行，就是线性的，或者说这些状态就是在协程的函数调用中。</p><p></p><p></p><blockquote>Note: 为何异步回调的状态就不能在函数调用中呢？因为异步回调的堆栈中不能保存srt_conn的状态，它本质上就是一个协程，保存的是epoll的循环的状态。而协程是根据每个srt_conn所创建的，它的堆栈中保存的都是这个对应的srt_conn的状态。</blockquote><p></p><p></p><p>这本质上，是由于异步回调的状态，只能保存在全局数据结构之中。而协程的状态，是可以保存在各个局部变量之中，每个函数的局部变量，都是这个协程所独有的，协程没有结束前都可以使用。</p><p></p><h2>What is the Next</h2><p></p><p>SRS虽然完成了SRT协程化，并没有解决所有的问题。后续的计划包括：</p><p></p><p>SRT直接转WebRTC，低延迟直播的另外一种方式。某些服务器之间的长链路可以将TCP替换为SRT传输， 比如跨国的RTMP 转发。SRT工具链的完善，比如<a href=\"https://github.com/ossrs/srs-bench\">srs-bench</a>\"，支持压测SRT流。</p><p></p><p>欢迎加入SRS开源社区，一起做好一个流媒体服务器，让全世界都来白嫖。</p><p></p><h2>One More Thing</h2><p></p><p>有些朋友也很好奇，真正商用的视频云的SRT，和开源的SRT的服务器，有什么区别，都做过哪些优化。</p><p></p><p></p><blockquote>Note: 由于开源服务器侧重标准协议和兼容性，有些优化并不适合在开源项目中实现，所以在云计算的商业化服务器和开源服务器，一定是存在很大差异的。就算是Linux系统，其实云计算的Linux内核，和开源的Linux内核，也有很大的差异。</blockquote><p></p><p></p><p>腾讯云在SRT的实战中积累很多经验，请参考之前分享的文章：</p><p></p><p><a href=\"https://mp.weixin.qq.com/s/UTYkqFaprGnqw37FgPDYzw\">技术解码 | 腾讯视频云直播推流再升级，支持多路径传输</a>\"<a href=\"https://mp.weixin.qq.com/s/Zcuwk-wlisZzthZB_ucCxg\">毫秒级跨洋传输延迟，腾讯云音视频连续6年保障英雄联盟总决赛直播</a>\"<a href=\"https://mp.weixin.qq.com/s/YaqLzafUQ5MSGA1ulEb3VQ\">技术解码 | 斗鱼同款的SRT技术是如何对抗推流抖动的？</a>\"<a href=\"https://mp.weixin.qq.com/s/60GagRTvLGpKzBWRF2ucfA\">技术解码 | SRT和RIST协议综述</a>\"</p><p></p><p>其中，最为严重的是SRT重传率过高、限带宽下表现不如TCP/QUIC等，腾讯云针对这些问题，做了几个优化：</p><p></p><p>SRT重传乱序度自适应：当接收到乱序报文，首次发起重传时，会根据当前的乱序度，等待N个包之后才发起重传。原生SRT这个乱序度是固定值，我们修改成为根据网络乱序情况自适应。SRT传输参数优化：通过对参数优化，减少了一半的重传率。加入了BBR拥塞控制算法：原生SRT拥塞控制非常弱，评估的带宽波动也非常大。我们加入了BBR拥塞控制算法，针对性的解决了这个问题。强化了SRT多链路传输，增加了带宽聚合的模式：原生SRT只有backup，broadcast两种多链路传输模式，我们针对直播场景增加了auto模式，能够做到讲多个网卡的带宽聚合后进行直播，并智能动态选择链路。</p><p></p><p></p><blockquote>Note: 腾讯云音视频在音视频领域已有超过21年的技术积累，持续支持国内90%的音视频客户实现云上创新，独家具备 RT-ONE™ 全球网络，在此基础上，构建了业界最完整的 PaaS 产品家族，并通过腾讯云视立方 RT-Cube™ 提供All in One 的终端SDK，助力客户一键获取众多腾讯云音视频能力。腾讯云音视频为全真互联时代，提供坚实的数字化助力。</blockquote><p></p><p></p><p></p><h5>作者介绍：</h5><p></p><p></p><p>肖志宏 (hondaxiao) 腾讯云工程师，全球TOP1开源音视频服务器SRS TOC。</p><p></p><p>杨成立 (Winlin) 腾讯云工程师，全球TOP1开源音视频服务器SRS作者，音视频服务器和视频云领域超过13年经验。</p>",
+    "publish_time": "2022-07-04 16:24:02",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "小扎警告员工：不想干可以走；游戏新贵米哈游踩雷信托；京东腾讯再续前缘；微软发出最后通碟：Windows8.1 的用户尽快升级 | 架构周报",
+    "url": "https://www.infoq.cn/article/p9ImSBYCMx3h8HfFXXYV",
+    "summary": "<p>整理｜闫园园</p><p>&nbsp;</p><p></p><blockquote>本周架构视点：想解除QQ账号限制，用户还要深刻认识自己的问题；京东腾讯再续前缘：未来三年强强手；游戏新贵米哈游踩雷信托；整改近一年，BOSS直聘等3家网络平台恢复新用户注册；扎克伯格警告员工：不想干可以走；台积电公开披露员工薪酬：全球员工中位数约46万，总裁魏哲家年薪近9000万；行程卡“摘星”，去哪儿网：火车票搜索量猛涨，国际机票搜索达2年来顶峰；微软发出最后通碟：Windows8.1 的用户尽快升级；拼多多电脑网页版上线：无砍一刀无团购；Vim 9.0 发布：带来了百倍速度新脚本语言；Firefox 102 已发布：支持自动删除 URL 中跟踪器；Vue 2.7 发布。</blockquote><p></p><p></p><h2>万万没想到</h2><p></p><p></p><h4>想解除QQ账号限制，用户还要深刻认识自己的问题</h4><p></p><p>&nbsp;</p><p>近期，大量QQ用户反馈遭遇了账号被盗的情况，不少受此影响而被封禁的用户为了找回账号选择向QQ客服进行申诉。而在账号解封成功的通知短信中，腾讯方面却声称：用户存在违规行为，综合评估对方已深刻认识到自己的问题，并承诺后续严格遵守QQ规范，不再违规，决定为用户解除帐号限制。</p><p>&nbsp;</p><p>据悉，有不少用户为了解封账号，上传了手持身份证的照片，并签署一份“QQ个人账号合规使用承诺书”，其中的内容包括“我已认真阅读《QQ号码规则》，充分认识并承认我利用QQ实施了违规行为，对其他用户和平台造成了不良的影响……我郑重承诺我不再实施前述行为。”</p><p></p><h4>京东腾讯再续前缘：未来三年强强联手</h4><p></p><p>&nbsp;</p><p>29日，两大互联网巨头<a href=\"https://www.tencent.com/\">腾讯</a>\"与京东，在经历“分红式减持”后宣布再续“前缘”，签订为期三年的战略合作协议。</p><p>&nbsp;</p><p>根据协议，未来三年腾讯将继续在其微信平台上向京东提供一级和二级访问入口以提供流量支持，且双方有意在通信、技术服务、营销及广告以及会员服务等多个领域合作。</p><p>&nbsp;</p><p>京东还表示，有关合作的价值预期将于未来三年以现金及京东股份相结合的形式支付或投放。作为总对价的一部分，京东将向腾讯发行价值最高2.2亿美元A类普通股。此外，京东表示将在人工智能、信息安全等领域与腾讯展开合作。</p><p></p><h4>游戏新贵米哈游踩雷信托</h4><p></p><p>&nbsp;</p><p>据青海网上法院公告显示，2022年7月25日，西宁市城中区人民法院将依法公开审理<a href=\"https://www.mihoyo.com/\">米哈游</a>\"诉五矿信托纠纷一案。同时起诉五矿信托的还有另一家游戏公司—上海莉莉丝网络科技有限公司（下称“莉莉丝”）。</p><p>&nbsp;</p><p>此前，“时代财经”报道，有多位投资者通过招商银行购买的五矿信托-鼎兴产品出现到期后无法兑付情况。米哈游与莉莉丝踩雷信托或与此有关。</p><p></p><h4>整改近一年，BOSS直聘等3家网络平台恢复新用户注册</h4><p></p><p>&nbsp;</p><p>本周，BOSS直聘<a href=\"https://weibo.com/bosszhipin?sudaref=www.baidu.com\">发布</a>\"公告称，近一年来，公司认真配合国家网络安全审查，严肃对待审查中发现的安全问题，进行了全面整改。经报网络安全审查办公室同意，即日起恢复“BOSS直聘”的新用户注册。BOSS直聘称，后续，公司将采取有效措施，切实保障平台设施安全和大数据安全。</p><p>&nbsp;</p><p>2021年7月5日，网信办宣布，对“BOSS直聘”等启动网络安全审查，为配合网络安全审查工作，防范风险扩大，审查期间“BOSS直聘”停止新用户注册。</p><p></p><h4>扎克伯格警告员工：不想干可以走</h4><p></p><p>&nbsp;</p><p><a href=\"https://about.facebook.com/\">Meta</a>\" 首席执行官马克·扎克伯格 ( Mark Zuckerberg ) 在最近的一次内部问答活动上，向该公司员工发出了措辞严厉的警告，要求他们为近期历史上最严重的经济衰退之一做好准备。</p><p>&nbsp;</p><p>上周，扎克伯格告诉员工，他希望加大对他们的压力。他说：“如果一定要我打赌，我会说这可能是近年来我们看到的最严重的衰退之一。”</p><p></p><h4>台积电公开披露员工薪酬：全球员工中位数约46万，总裁魏哲家年薪近9000万</h4><p></p><p>&nbsp;</p><p>据台湾“中央社”消息，台积电公布2021年度永续报告书，披露去年全球员工总体薪酬的中位数约新台币206万元（约合人民币46.35万元），总裁魏哲家的薪酬约为中位数的194倍（约合人民币8991.9万元）。其中，台湾厂区的员工平均年薪242.5万新台币，约合54.6万人民币，中位数年薪为185.1万新台币。</p><p>&nbsp;</p><p>台积电指出，公司整体薪酬包括本薪、津贴、现金奖金及酬劳。以台湾地区新进硕士毕业工程师为例，去年平均整体薪酬高于200万新台币；直接员工去年平均整体薪酬高于100万新台币，每月平均收入约当台湾基本工资的4倍。</p><p>&nbsp;</p><p>报告显示，台积电目前面临着员工流失的难题，其中新人离职率高达17.6%，而去年的平均离职率6.8%，符合5-10%的区间。对于这一问题，台积电解释有两方面原因，一个是科技行业增长迅速，人才竞争激烈，流动性提高，另外就是台积电去年的人才招募数量超过以往，所以新人离职率也提升了。据统计，台积电去年全球共有1.2683万名新进员工，截至去年底，全球共计6.5152万位员工。</p><p></p><h4>行程卡“摘星”，去哪儿网：火车票搜索量猛涨，国际机票搜索达2年来顶峰</h4><p></p><p>&nbsp;</p><p>据去哪儿平台数据显示，自全国行程卡“摘星” 消息发布半小时后，平台上国际机票瞬时搜索量翻倍，达到近两年以来该平台国际机票搜索量最高峰。</p><p>&nbsp;</p><p>同时，平台机票搜索量在30分钟内上升60%，酒店搜索量翻番，火车票搜索量上涨最多达到1.5倍。</p><p></p><h2>IT 科技资讯</h2><p></p><p></p><h4>微软发出最后通碟：Windows8.1 的用户尽快升级</h4><p></p><p>&nbsp;</p><p><a href=\"https://www.microsoft.com/zh-cn\">微软</a>\"近日对目前仍停留在 Windows 8.1 的用户发出提醒，表示该系统即将停止支持。微软表示 Windows 8.1 桌面操作系统将在 2023 年 1 月 10 日之后停止技术援助和软件更新。也就是说这些用户还有半年的时间升级到 Windows 11 或者支持的 Windows 10 版本。</p><p></p><h4>拼多多电脑网页版上线：无砍一刀无团购</h4><p></p><p>&nbsp;</p><p>近日，有网友发现，拼多多官方推出了电脑端网页版「<a href=\"https://youhui.pinduoduo.com/\">拼多多优惠商城</a>\"」。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/11/11e1752db79f4c7f06a617bf277d80ce.png\" /></p><p></p><p>从主界面可以看到，拼多多优惠商城适配了电脑端的网页排版，提供各种商品分类，支持搜索，可以查看商品详情页。</p><p>&nbsp;</p><p>值得注意的是，拼多多网页商城并不支持直接下单付款，而是需要微信扫码付款，可能是相关功能尚未开发完善。</p><p></p><h4>Vim 9.0 发布：带来了百倍速度新脚本语言</h4><p></p><p>&nbsp;</p><p>经过多年的逐步改进，Vim 现在推出了两年来首个重大更新，向前迈出了一大步。在这个版本中除了若干变化外，还带来了一个新的脚本语言 Vim9 脚本。</p><p>&nbsp;</p><p>Vim9 脚本的首要目标是极大地提升性能，可带来一到两个数量级（10~100 倍）的执行速度提升；次要目标是避免 Vim 特有的结构，使之更接近于常用的编程语言，如 JavaScript、TypeScript 和 Java 等。</p><p>&nbsp;</p><p>不过，虽然 Vim9 和 Vim 之前支持的脚本语言存在一些不兼容，但旧的脚本仍然可以继续工作，不会像 Python 2 那样。</p><p></p><h4>Firefox 102 已发布：支持自动删除 URL 中跟踪器</h4><p></p><p>&nbsp;</p><p>Mozilla 最近<a href=\"https://www.mozilla.org/en-US/firefox/102.0/releasenotes/\">发布</a>\"了 Firefox 102 正式版，包含一些新功能，比如，可删除部分 URL 上各种服务和网站跟踪用户内容的选项。</p><p>&nbsp;</p><p>Firefox 102 带来了“查询参数剥离”的新功能，当用户单击链接时，它会自动删除跟踪 URL 参数。例如，Facebook 使用“fbclid=”查询来知晓有人点击了特定的 URL。Firefox 现在删除了该查询，以及 Olytics、Vero、HubSpot、Marketo 和 Drip 的其他跟踪器。</p><p>&nbsp;</p><p>新功能是严格跟踪保护规则的一部分，默认情况下处于禁用状态。要启用它，请导航到 Firefox 设置 &gt; 隐私和安全，然后在增强跟踪保护设置中打开严格。</p><p></p><h4>Vue 2.7 发布</h4><p></p><p>&nbsp;</p><p>Vue 2.x 最后一个版本 Vue 2.7，代号 \"Naruto\"（火影忍者）正式<a href=\"https://blog.vuejs.org/posts/vue-2-7-naruto.html\">发布</a>\"。</p><p>&nbsp;</p><p>按照发布计划，Vue 2.7 是 2.x 的最后一个次要版本，也是 LTS 版本，获得官方提供的&nbsp;18 个月技术支持。这就意味着，Vue 2 将在 2023 年底结束生命周期。</p><p>&nbsp;</p><p>Vue 2.7 从 Vue 3 向后移植了一些最重要的功能，包括：</p><p>Composition APISFC&nbsp;</p>",
+    "publish_time": "2022-07-04 17:29:47",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "跨境支付平台 XTransfer 的低代码实践：如何与其他中台融合是核心",
+    "url": "https://www.infoq.cn/article/4Kit4g9LF3TX4JrJ4MS2",
+    "summary": "<p>采访嘉宾 | XTransfer高级技术总监田天、技术专家皇志豪</p><p>编辑 | 闫园园</p><p>&nbsp;</p><p>据中商情报网 2022 年中国跨境支付市场规模及投融资情况预测分析，近期国内支持政策接连出台，促使跨境电商发展迅速。在此背景下，跨境支付市场也迎来爆发，具体数据显示，预计 2022 年中国第三方跨境支付市场规模将达 12953.42 亿元。</p><p>&nbsp;</p><p>跨境电商的快速发展使得跨境支付平台赛道备受关注。一般来说，跨境电商在交易模式上分为 B2B 和 B2C 。其中，相较于&nbsp;B2C，B2B 模式交易流程更复杂，这对B2B跨境支付的产品体验提出了更高的要求，因此，对于 B2B 跨境支付平台来说，前端的打造显得尤为重要。</p><p>&nbsp;</p><p>近期，InfoQ 采访了 XTransfer（上海夺畅网络技术有限公司），XTransfer 通过分享前端方向的演进过程，带来了其设计驱动开发（Design Driven Development）的概念及相关实践经验。</p><p>&nbsp;</p><p>XTransfer 创立于 2017 年7月，聚焦于 B2B 跨境支付，为从事B2B跨境电商出口的中小微企业提供提供跨境支付及风控服务。</p><p></p><h2>XTransfer 前端发展的两个阶段</h2><p></p><p>&nbsp;</p><p>早期，XTransfer 整体技术发展经历了从 0 到 1 的过程。随着业务的拓展和产品的升级，前端方向的演进也经历了两个阶段：</p><p>&nbsp;</p><p>第一阶段：XTransfer 聚焦于 to B 业务，相继推出了 PC 端和 APP 端产品。这时，前端方向更多专注于核心功能的实现，包括收款、转账、提现、换汇等；第二阶段：随着业务的拓展，更多产品推出，形成满足企业用户需求的产品体系。在支持原有产品功能的基础上，前端方向开始更加注重提升整个产品体系的用户体验。</p><p>&nbsp;</p><p>在这两个阶段中，为了满足具体要求，前端的技术架构也随之发生了变化：</p><p>&nbsp;</p><p>在 XTransfer 产品网站推出第一版时，React 的一个 SPA 应用，就能够支撑起平台的业务需求。随着业务线的不断拓展，单页应用无法承载越来越庞大的业务，“当时整个前端打包最慢的时候，大概要一个小时。”田天回忆道。在这种情况下，XTransfer 团队开始着手对前端整体架构进行优化，“我们应用了微前端架构，拆分成多个应用，再加上一系列打包优化，目前打包速度已经控制在 10 分钟以内”。</p><p>&nbsp;</p><p>然而，虽然前端团队已经在技术架构上做出了改变来应对需求的变化，但前文提到 B2B 模式本身交易流程非常复杂，使得前端架构的构建过程中依然会面临诸多挑战，这些挑战大多来自以下两个方面：</p><p>&nbsp;</p><p>业务侧。第一，多产品化。虽然 XTransfer 平台专注做 to B 业务，但随着本身产品越来越丰富，同样会面临着 与to C 业务一样的多产品化问题。第二，需求复杂化。随着企业用户的增多，用户的不同习惯和需求对原本积累的开发模式造成了很大的冲击。</p><p>&nbsp;</p><p>技术侧。随着产品的快速增加，原有的开发模式遇到了困难。原本小而精的团队可以不断打磨用户体验，但随着产品的不断发展，如何在保证质量的基础上快速开发，是团队的重要课题。与 to C 业务不同的是，to B 业务并不能依靠简单的堆代码、堆人、堆团队的方式去解决这个问题。原因在于 to B业务面对的用户是同一类型的用户，不同产品要保证类似的功能复杂度，否则用户会明显感受到质量下降，从而带来比较差的用户体验。所以，在原来产品的技术沉淀难以在新产品上快速复制的情况下，对于团队的整体交付能力也提出了大的挑战。</p><p></p><h2>设计驱动开发（Design Driven Development）介绍</h2><p></p><p>&nbsp;</p><p>为了解决上述问题， XTransfer 提出了设计驱动开发（Design Driven Development，本文中简称 DDD）的概念。</p><p>&nbsp;</p><p>什么是 DDD ？DDD 是 XTransfer 以前端页面功能设计为核心，自研的一套以低代码的方式生成功能页面的前端页面开发框架。其核心能力是通过自定义字段生成表单和页面，UI 设计师和运营人员可以通过拖拽的方式定制需要的页面模版，快速生成功能页面。</p><p>&nbsp;</p><p>“我们to B业务的产品，整个开发质量是稳定的，对业务也会有一定的沉淀。从中，其实能够提炼出一些标准的开发流程、开发模板和交互设计。”在谈及提出DDD概念的初衷时，田天表示。</p><p>&nbsp;</p><p>同时，田天介绍，在设计其他金融或数字化产品时，一些场景例如风控校验、营销内容等也是必要开发的，且开发流程也类似。所以，从这些场景中抽象出来开发流程，其实可以沉淀成低代码的基础设施，包括做一些可替换的组件。“在这些抽象之上，我们甚至可以提炼出整个业务的标准前端模式，让前端模式具象化，且能够落地，这也就是 DDD 实践的一些案例。”</p><p></p><h4>设计思路</h4><p></p><p>&nbsp;</p><p>在设计 DDD 时，首先 XTransfer 前端团队已明确的是，无法做一个在所有场景都通用的低代码平台。“低代码本身是为了降本增效，如果追求所有场景适用，反而会增加更多复杂流程。”皇志豪谈到。</p><p>&nbsp;</p><p>从底层实现来说，前端页面是由结构、表现、行为构成，其中，结构和表现可以利用 UI 组件予以抽象，但行为的抽象却是困难的，尤其是在复杂的业务场景中抽象。因此，从软件开发的角度来看，为了平衡复杂度和效率，低代码是在特定场景内的模型抽象。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/f5/f5b4cf74f7f1374f17bfbc52d1cc6187.png\" /></p><p></p><p>“我们逐渐把某些场景内的模型抽象出来”，操作人员不需要了解开发知识，简单拖拉拽自定义 UI 组件的方式构建出描述页面排版、内容、样式、属性的 JSON&nbsp;Schema，持久化保存在服务端，当对应页面需要展示时，直接获取持久化存储的Schema数据并通过渲染器渲染到页面。</p><p></p><h4>实践之路</h4><p></p><p>&nbsp;</p><p>首先，在 DDD 技术选型中，XTransfer 前端团队采用了 Formily + Craft.js，Formily 是阿里开源的统一表单解决方案，Craft.js 是一款拖拽式的 JS 框架。</p><p>&nbsp;</p><p>为什么会选择这两个方案？皇志豪表示，在早期的开发过程中，团队遇到了一个特定场景，即用户在 XTransfer 的安信成CRM系统中录入客户信息。系统本身提供了一系列的常用字段供用户使用，但依然存在部分&nbsp;CRM 用户有更多的特定信息需要录入，且不同行业客户的需求点各有不同，而这就需要团队提供动态的字段以及动态表单的抽象模型。因此，在业务场景的驱动下，前端团队开始着手调研多种方案去解决这个问题，包括现有开源方案以及自建等。</p><p>&nbsp;</p><p>“经历一系列方案筛选之后，我们觉得 Formily+ Craft.js&nbsp;就是理想型的表单解决方案。”皇志豪介绍道。他表示 Formily 能够提供抽象 Form 表单的能力，而 Craft.js 的页面画布与拖拽组件结合的能力，也是团队在完成DDD构想必不可少的构件。对于&nbsp;Craft.js，目前在国内应用的还比较少，“但不妨碍它作为一个很好的构建低代码平台的工具”，皇志豪表示。</p><p>&nbsp;</p><p>总的来说，Formily + Craft.js 可以提供给用户一个拖拽式生成表单的体验，因此也成为 XTransfer 平台自定义表单的技术选型。同时，围绕DDD核心逻辑，XTransfer还有更多前端应用场景可以被适配，在做好组件的抽取与粘合、控制复杂度与灵活性、提供安全隔离的基础上，DDD将在更多方向上有拓展与演化的空间，例如，在跨境领域，涉及国际化多语言、多客户端的场景开发，可有效提升研发效率，降低开发成本。</p><p>&nbsp;</p><p>当然，在选型过程中，早期 XTransfer 前端团队也考虑到了自建方案，并曾自研了一套自定义表单，但进行调研时，团队经过对比最终选择了已经相对较为成熟的Formily 。田天对此表示，前端这个领域，需要结合众家之长，形成自己一套独特的开发思路、方法和框架。</p><p></p><h4>应用现状</h4><p></p><p>&nbsp;</p><p>目前，DDD 的应用场景主要分为三方面，分别为对用户、对运营者以及对开发者：</p><p>&nbsp;</p><p>用户方向。即上文提到的用户在 XTransfer 的安信成&nbsp;CRM 系统中录入客户信息，用户可以在 CRM 系统中自己操作生成页面，选择使用哪些 label 和表单。运营方向。在内部运营平台上，运营者可以通过拖、拉、拽等方式生成营销模板，营销模板里可以配置不同的营销活动。开发者方向。除了上述应用场景之外，开发者方面可以预先定义好相关组件，通过拖拉拽的方式，快速去生成页面的整体框架，再做细节的微调。</p><p>&nbsp;</p><p>“在功能的支持上，对用户来说，不会给他们提供太强的灵活度，相对来说比较标准化，但是对于内部开发者和运营人员来说，功能就相对比较复杂了。”田天补充道。</p><p>&nbsp;</p><p>可以看到，现阶段 DDD 已经成为构建 XTransfer 平台的重要工具。但众所周知，低代码平台更多的还是前端生成页面的能力，因此，在应用过程中会有后端权限管理、数据安全、风控等功能点嵌入到其中。而如何将 DDD 与其他中台能力结合起来，成为团队面临的一个重要技术挑战。</p><p>&nbsp;</p><p>对此，田天坦言，现阶段这部分也在逐步完善中，“第一阶段前端生成页面，同时我们也在考虑，哪些服务能力可以同时嵌进去，比如其他中台服务承载的权限管控等如何与 DDD 结合，也是团队目前正在重点关注的。”</p><p></p><h2>未来规划</h2><p></p><p>&nbsp;</p><p>谈及未来，除了要不断完善 DDD 与其他中台的整合能力，前端团队对于 DDD 也有着更多期望，这里两位嘉宾也与大家分享了 DDD 中长期规划：</p><p>&nbsp;</p><p>首先，扩大应用场景，例如可以将其应用在页面表单的拖拉拽预生成与搭建、营销活动的配置化生成平台、智能建站等多个场景中。</p><p>&nbsp;</p><p>其次，降低复杂度，使用流程标准化。对于非开发人员来说，用起来会更加简单、方便。</p><p>&nbsp;</p><p>“长期来看，我们想把它做成一个纯粹的平台，真正覆盖更多的场景。”田天表示，目前搭建好 DDD 只是 XTransfer 团队的第一步，真正想让其达到标准化还有很长的路要走，需要不断提高其一系列周边能力，比如监控能力、性能问题定位能力等。“只有解决这些问题，DDD 平台才能更稳健，用起来会更方便，也能够帮助 XTransfer 持续提升用户体验。”</p><p>&nbsp;</p><p>除此之外，在采访中，两位嘉宾也与我们交流了 XTransfer 平台整个大前端领域未来的规划：</p><p>&nbsp;</p><p>第一，产品层面。将平台沉淀的经验推广到更多端，包括H5、APP、小程序，以及目前相对投入占比较少的桌面端。</p><p>&nbsp;</p><p>第二，战略层面。为了满足海外业务拓展的需求，实现用同一套流程、组件库和开发模式去适应不同国家用户习惯和产品方案。</p><p>&nbsp;</p><p>第三，开发者层面。持续优化开发体验，包括多端复用、升级新工具、技术栈，不断丰富前端基建等，以便给开发人员更好的体验。</p><p></p><h2>写在最后</h2><p></p><p>&nbsp;</p><p>当下，数字化转型浪潮来袭，产品需求不断增加。如果所有产品都要从头开发，极大的工作量也会成为开发者们的重要挑战，因此也产生了降低开发门槛、简化开发流程的诉求。DDD 作为 XTransfer 团队自研框架，目前已帮助其在保障用户体验的前提下，整体提升了前端研发的开发效率、体验，对于跨境支付行业来说，也是一次重要的尝试和突破。</p><p>&nbsp;</p><p>当然，也正如两位嘉宾在采访中谈到，现阶段的 DDD 也只是开始，真正想达到标准化，还有很长的路要走，仍需要持续不断地解决很多周边问题，包括如何嵌入后端权限管理、数据安全、风控等功能点等。不过在此过程中，团队积累的经验或许能够给更多支付及金融行业产品的构建带来启示，未来，InfoQ 也将持续关注。</p><p></p><h5>嘉宾介绍：</h5><p></p><p>&nbsp;</p><p>田天</p><p>现担任 XTransfer 高级技术总监，主要负责 XTransfer 智能金融研发部管理工作，致力于打造智能化的中小微外贸企业跨境金融服务平台。在 IT、金融和互联网领域有近 20 年的从业经验。</p><p>&nbsp;</p><p>皇志豪</p><p>现担任 XTransfer 技术专家，主要负责 XTransfer 前端研发工作，经历 XTransfer 前端体系从零到一的搭建，领导了多项核心技术在 XTransfer 前端的落地。</p>",
+    "publish_time": "2022-07-04 17:32:44",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "Project Helix by Adobe",
+    "url": "https://www.hlx.live/home",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=31975148\">Comments</a>",
+    "publish_time": "2022-07-04 17:27:11",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Indie Microblogging",
+    "url": "https://book.micro.blog/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=31975288\">Comments</a>",
+    "publish_time": "2022-07-04 17:48:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
