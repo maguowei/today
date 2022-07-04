@@ -1556,5 +1556,78 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "你好星期六",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "当陈奕迅听到孤勇者",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BD%93%E9%99%88%E5%A5%95%E8%BF%85%E5%90%AC%E5%88%B0%E5%AD%A4%E5%8B%87%E8%80%85%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "养猪重拾盈利，生猪股价期货大涨",
+    "url": "https://wap.egsea.com/detail/article?id=1214351",
+    "summary": "猪价接连上涨，生猪养殖企业终于走出前期低谷，实现盈利。7月4日，生猪期货主力合约2209触及涨停，生猪养殖、饲料概念股纷纷大涨，市场对于生猪市场回暖的预期进一步增强。市场观点认为，进入三季度，猪价持续上行或仍是大概率事件。但也有分析人士表示，在需求进入淡季，肥猪面临集中出栏压力等背景下，猪价短期暴涨走势难续写。（来自证券时报）",
+    "publish_time": "2022-07-05 07:00:15",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Show HN: Trane, an automated system for learning complex skills",
+    "url": "https://github.com/trane-project/trane",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=31980069\">Comments</a>",
+    "publish_time": "2022-07-05 02:04:26",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Linux Kernel vs. DPDK: HTTP Performance Showdown",
+    "url": "https://talawah.io/blog/linux-kernel-vs-dpdk-http-performance-showdown/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=31982026\">Comments</a>",
+    "publish_time": "2022-07-05 05:39:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Only 6.8% of adults have optimal cardiometabolic health",
+    "url": "https://www.jacc.org/doi/10.1016/j.jacc.2022.04.046",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=31981216\">Comments</a>",
+    "publish_time": "2022-07-05 04:06:22",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "On the use of a life (2020)",
+    "url": "https://www.daemonology.net/blog/2020-09-20-On-the-use-of-a-life.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=31981486\">Comments</a>",
+    "publish_time": "2022-07-05 04:34:39",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
