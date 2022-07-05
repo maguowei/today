@@ -565,5 +565,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "厦门暴雨",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8E%A6%E9%97%A8%E6%9A%B4%E9%9B%A8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "苏醒王栎鑫戴脸基尼头套巡山",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E7%8E%8B%E6%A0%8E%E9%91%AB%E6%88%B4%E8%84%B8%E5%9F%BA%E5%B0%BC%E5%A4%B4%E5%A5%97%E5%B7%A1%E5%B1%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
