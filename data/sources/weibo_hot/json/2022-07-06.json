@@ -538,5 +538,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "夏天嗑这对CP",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%8F%E5%A4%A9%E5%97%91%E8%BF%99%E5%AF%B9CP%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "哥哥姐姐的大V生活",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%93%A5%E5%93%A5%E5%A7%90%E5%A7%90%E7%9A%84%E5%A4%A7V%E7%94%9F%E6%B4%BB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "把四川话说成了英语",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%8A%8A%E5%9B%9B%E5%B7%9D%E8%AF%9D%E8%AF%B4%E6%88%90%E4%BA%86%E8%8B%B1%E8%AF%AD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
