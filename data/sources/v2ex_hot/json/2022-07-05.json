@@ -31,5 +31,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "如何限制家人网络访问，防止被骗？",
+    "url": "https://www.v2ex.com/t/864140",
+    "summary": "firhome: 家里老人已经过了那种鸡汤文，uc 标题到处转发的时期，<br /><br />现在迷上了直播。有几个情感主播特别会讲话（老人特别喜欢那种八卦的故事），整天在直播间讲故事，我一眼看就知道是编的，可是老人特别信，主播还夹带私货带货。<br /><br />带货方式：告知 xx 保健品、保平安项链。然后让人买，商品链接却是卖水果（内容和发货的不是一个东西）。<br /><br />家里老人已经偷偷买过几次了，我劝过几次，不听。都是几百块钱的东西，我想着上几次当就知道教训也是个好事，但是最近几天发现又在买（他们的养老大钱都是我在保管，绝对不能动），所以特来求助大家。<br /><br /><br />我想了几个办法，都行不通。<br /><br /><br />1.更改支付密码<br /><br />不行，平时买菜买东西不方便，已经习惯手机支付<br /><br />2.设备断网，减少每天看直播时间（每天基本看直播到半夜）<br /><br />路由器可实现，但是太明显了。手机会自动转到 4g 观看<br /><br />3.暴力砸了手机、pad<br /><br />家庭关系紧张。<br /><br /><br /><br />所以想问问大家有没有更好的办法呢？<br /><br />我其实想了一个 不知道能不能实现。 就是能不能通过 路由器拦截 访问到 那个主播 就无法访问，这样其它主播访问都正常，我就可以说是被封了，是个骗子。就是不知道好不好实现。",
+    "publish_time": "2022-07-05 11:08:25",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "有时候真的不是不想支持国产路由器，啥自研芯片啊，稳定性这么差",
+    "url": "https://www.v2ex.com/t/864149",
+    "summary": "wtser: <p>中兴 ZTE  [骐骥系列]  AX5400Pro 双频千兆 自研 12 核主芯片 2.5G 端口无线路由器 wifi6 电竞路由穿墙大覆盖</p>\n<p>晚上和朋友打视频，2 ，3s 卡一下，卡一下，我还以为对方网络有问题，结果发现是自家路由器不稳定 跳 ping</p>\n<p>换了 京东云无线宝路由器，稳定 10ms 内</p>\n<p>路由器我都是拿来当 AP 使用的。而且 ping 的是路由器自身的 IP 。</p>\n<p>想问大家 跳 ping 是啥原因引起的， 是质量问题吗？</p>\n<p><img alt=\"https://wx1.sinaimg.cn/bmiddle/774befa9ly1h3vvy7ry4fj20n01dsjxe.jpg\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://wx1.sinaimg.cn/bmiddle/774befa9ly1h3vvy7ry4fj20n01dsjxe.jpg\" /></p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://wx2.sinaimg.cn/bmiddle/774befa9ly1h3vvzf8lvij20ku08iq4c.jpg\" /></p>",
+    "publish_time": "2022-07-05 11:27:18",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
