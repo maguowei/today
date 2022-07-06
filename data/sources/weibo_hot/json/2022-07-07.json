@@ -538,5 +538,14 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "哇唧唧哇报警",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%93%87%E5%94%A7%E5%94%A7%E5%93%87%E6%8A%A5%E8%AD%A6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]

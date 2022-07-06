@@ -1068,5 +1068,85 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "哇唧唧哇报警",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%93%87%E5%94%A7%E5%94%A7%E5%93%87%E6%8A%A5%E8%AD%A6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "广东中山市发文要求房价每次降幅不得超 5%，调整间隔不少于 3个月，如何解读？哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/541694485",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "没有自信，总是感觉自己的技术很弱，没有底气去面试JAVA，怎么办？",
+    "url": "https://www.zhihu.com/question/437093834",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "有哪些关于饮料的冷知识？",
+    "url": "https://www.zhihu.com/question/541482272",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Where to wait for an elevator (2010)",
+    "url": "https://www.johndcook.com/blog/2010/11/29/where-to-wait-for-an-elevator/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32003849\">Comments</a>",
+    "publish_time": "2022-07-07 01:07:48",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Let's Encrypt swag is here and I love it",
+    "url": "https://letsencrypt.org/donate/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32003246\">Comments</a>",
+    "publish_time": "2022-07-07 00:26:19",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ruby Shield: Shopify donates $1M to stewards of rubygems, bundler",
+    "url": "http://rubycentral.org/ruby-shield",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32003900\">Comments</a>",
+    "publish_time": "2022-07-07 01:12:20",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Apple expands commitment to protect users from mercenary spyware",
+    "url": "https://www.apple.com/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32003756\">Comments</a>",
+    "publish_time": "2022-07-07 01:01:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
