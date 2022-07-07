@@ -1495,5 +1495,89 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "全红婵人间清醒",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E4%BA%BA%E9%97%B4%E6%B8%85%E9%86%92%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "为什么钱很重要呢？",
+    "url": "https://www.zhihu.com/question/532075074",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美股三大指数集体收涨，大型科技股悉数上扬",
+    "url": "https://36kr.com/newsflashes/1817998021930374",
+    "summary": "36氪获悉，7月7日收盘，美股高开高走，三大指数集体收涨，纳指涨2.28%，标普500指数涨1.5%，道指涨1.12%；大型科技股悉数上扬，法拉第未来涨超21%，本月放量累涨超110%；特斯拉涨超5%，谷歌涨超3%，Netflix、苹果涨超2%，亚马逊、Meta涨超1%；热门中概股普涨，蔚来涨超8%，B站涨超6%，小鹏汽车涨超5%，百度涨超3%，阿里巴巴、京东涨超2%，理想汽车涨超1%。",
+    "publish_time": "2022-07-08 07:00:02",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Theranos former president found guilty on all fraud counts",
+    "url": "https://www.wsj.com/articles/theranos-former-president-ramesh-sunny-balwani-found-guilty-on-all-12-fraud-counts-11657220410",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32017919\">Comments</a>",
+    "publish_time": "2022-07-08 03:03:12",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "EU moving closer to Facebook ban",
+    "url": "https://blog.simpleanalytics.com/eu-moving-closer-to-facebook-ban",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32019799\">Comments</a>",
+    "publish_time": "2022-07-08 05:37:21",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Met Police UK Live Facial Recognition",
+    "url": "https://www.met.police.uk/advice/advice-and-information/fr/facial-recognition",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32019801\">Comments</a>",
+    "publish_time": "2022-07-08 05:37:30",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "9,000-pound electric Hummer shows we can’t ignore efficiency of EVs",
+    "url": "https://www.aceee.org/blog-post/2022/06/9000-pound-electric-hummer-shows-we-cant-ignore-efficiency-evs",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32018748\">Comments</a>",
+    "publish_time": "2022-07-08 04:13:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Element (Matrix) launches Chatterbox, end-to-end encrypted embedded chat",
+    "url": "https://element.io/blog/element-launches-chatterbox/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32020055\">Comments</a>",
+    "publish_time": "2022-07-08 05:57:42",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
