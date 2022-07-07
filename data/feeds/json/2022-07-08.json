@@ -1144,5 +1144,47 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "不变的毕业生",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%8F%98%E7%9A%84%E6%AF%95%E4%B8%9A%E7%94%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "My Return to Desktop Applications",
+    "url": "https://ashlan.com/blog/my-return-to-desktop-applications/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32016322\">Comments</a>",
+    "publish_time": "2022-07-08 00:47:36",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "“Why I'm Giving Up Tenure at UCLA”",
+    "url": "https://www.commonsense.news/p/why-im-giving-up-tenure-at-ucla",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32017684\">Comments</a>",
+    "publish_time": "2022-07-08 02:37:19",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Vision-based AI drones outfly world-class human pilots",
+    "url": "https://spectrum.ieee.org/zurich-autonomous-drone-race",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32017113\">Comments</a>",
+    "publish_time": "2022-07-08 01:49:55",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
