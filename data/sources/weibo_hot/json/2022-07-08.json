@@ -583,5 +583,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "敏感宝宝冷知识",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%95%8F%E6%84%9F%E5%AE%9D%E5%AE%9D%E5%86%B7%E7%9F%A5%E8%AF%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "川大录取通知书上新了",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B7%9D%E5%A4%A7%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E4%B8%8A%E6%96%B0%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "我的骄傲一集演完香港25年大事件",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E9%AA%84%E5%82%B2%E4%B8%80%E9%9B%86%E6%BC%94%E5%AE%8C%E9%A6%99%E6%B8%AF25%E5%B9%B4%E5%A4%A7%E4%BA%8B%E4%BB%B6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
