@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import requests
 from urllib.parse import urlencode
 from today import Today, DEFAULT_HEADERS
