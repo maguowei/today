@@ -1365,5 +1365,87 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "还魂",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%98%E9%AD%82%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "河南禹州新民生等村镇银行风险处置方案即将公布，后续进展会如何？",
+    "url": "https://www.zhihu.com/question/542584094",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "《黑袍纠察队》第三季结尾，莱恩为什么站队祖国人？",
+    "url": "https://www.zhihu.com/question/542200603",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美股三大指数收盘涨跌不一，热门中概股多数下行",
+    "url": "https://36kr.com/newsflashes/1822245487636358",
+    "summary": "36氪获悉，7月8日收盘，美股三大指数收盘涨跌不一，纳指涨0.12%，道指跌0.15%，标普500指数跌0.08%；热门中概股多数下行，B站跌超4%，爱奇艺跌超3%，拼多多跌超2%，京东、百度、阿里巴巴跌超1%，小鹏汽车、理想汽车跌近1%；大型科技股涨跌不一，推特跌超5%，马斯克将终止收购推特；Netflix跌超1%，Meta跌0.76%，亚马逊跌0.68%，微软跌0.28%，特斯拉涨超2%，谷歌涨0.48%，苹果涨0.47%。",
+    "publish_time": "2022-07-11 07:00:16",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Uber broke laws, duped police and built lobbying operation, leak reveals",
+    "url": "https://www.theguardian.com/news/2022/jul/10/uber-files-leak-reveals-global-lobbying-campaign",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32045906\">Comments on Hacker News</a> | <a href=\"https://www.theguardian.com/news/2022/jul/10/uber-files-leak-reveals-global-lobbying-campaign\">Source</a>",
+    "publish_time": "2022-07-11 00:02:56",
+    "source": {
+      "name": "hackernews_best",
+      "desc": "Hacker News Best",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Breaking the Warp Barrier: Hyper-Fast Solitons in Einstein-Maxwell-Plasma Theory",
+    "url": "https://arxiv.org/abs/2006.07125",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32049194\">Comments</a>",
+    "publish_time": "2022-07-11 05:23:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "On-device browser translations with Firefox Translations",
+    "url": "https://www.ctrl.blog/entry/firefox-translations.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32049469\">Comments</a>",
+    "publish_time": "2022-07-11 05:53:13",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Assassin’s Creed Liberation delisted, unplayable even to owners starting Sept 1",
+    "url": "https://mp1st.com/news/report-assassins-creed-liberation-delisted-to-be-unplayable-even-to-owners-starting-september-1-on-steam",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32049508\">Comments</a>",
+    "publish_time": "2022-07-11 05:58:14",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
