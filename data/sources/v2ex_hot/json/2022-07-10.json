@@ -9,5 +9,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "[求助][zerotier]zerotier 很卡，基本处于不太可用状态。",
+    "url": "https://www.v2ex.com/t/865188",
+    "summary": "zjsegzhf: <p>最近房东换了个新网，没有公网 IP 了，之前是在路由器开了个 OpenVpn Server ，公司电脑作为 client 连过去。\n家里路由器下有台服务器，装了些服务，本来公司电脑 vpn 连过来用着很方便。\n同事服务器上开了 samba ，vpn 连过来，samba 作为网络驱动器挂在 windows 下用着很方便，速度也不错。\n现在问题来了。</p>\n<p>没有公网 IP 后，我用过 frp 。\n我腾讯云有机子，frp 可以用，速度也不错，但是只限于我开的那些服务，而且每个服务都要映射一遍，很麻烦。所以开始搜能不能没有公网 IP 的情况下，搭建局域网 vpn 。</p>\n<p>找到两个方案。</p>\n<ul>\n<li>zerotier</li>\n<li>openvpn</li>\n</ul>\n<h4>zerotier</h4>\n<p>我用了，我在我家里服务器上装了 zerotier ，路由器有 zerotier 插件也装了，公司电脑也装了 zerotier 。\n现在有两个问题。</p>\n<ul>\n<li>很卡。节点接互 ping 经常丢包，时延也在 400-800ms 。samba 的服务器上装了 zerotier ，能作为网络驱动器打开但是很卡，打开个目录卡个几秒钟，考个文件过去卡住没什么反应，基本不可用。</li>\n<li>公司能 ping 通路由器，同时路由器上做了端口转发到内网服务端口，但是访问路由器开出来的端口无法访问服务。（这样的思路不行么？）\n不知道怎么解决，卡的问题是不是能通过在腾讯云搭建 moon 节点解决？</li>\n</ul>\n<h4>openvpn</h4>\n<p>我还没有试，思路是在腾讯云或者其他有公网 IP 的机子上装个 openvpn server ，将路由器和公司电脑作为 client 接入。路由器开端口映射，公司电脑是不是就能通过路由器的局域网 ip 和开出来的端口进行访问？\n然后在 samba 服务器作为 client 接入，公司电脑也就能访问 samba 目录了。（不知道行不行？）</p>\n<p>网络小白，大哥们求赐教。</p>",
+    "publish_time": "2022-07-10 00:55:29",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "程序员的最终归宿是什么",
+    "url": "https://www.v2ex.com/t/865217",
+    "summary": "Turkestan: 据我了解：Engineer Manager 和 架构 两个方向",
+    "publish_time": "2022-07-10 10:15:30",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "现在互联网公司扫描用户信息吃香太难看了， 端到端加密是否合法？",
+    "url": "https://www.v2ex.com/t/865227",
+    "summary": "jeesk: [皱眉]有个想法， 就是现在不管是国内还是国外的互联网公司 都会扫描用户文件， 如果要做一个端到端加密的文件同步， 在中国和其它国家合法吗？ 会不会收到上级要求， 必须扫描用户是否有违法文件",
+    "publish_time": "2022-07-10 11:48:44",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
