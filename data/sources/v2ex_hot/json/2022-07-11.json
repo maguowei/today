@@ -97,5 +97,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "JDK17 都出来了，感觉现在很多资深程序员 Stream 不会， Lambda 不会， Java .time 包不会",
+    "url": "https://www.v2ex.com/t/865425",
+    "summary": "qwerthhusn: <p>不少资深人士写代码的时候还是各种 for 循环。</p>\n<p>Lambda 也不用，还用各种匿名内部类。</p>\n<p>还有 JDK8 的时期时间库，很多人还是在用 Date ，Calender 。现在的 LocalDate, LocalDateTime, YearMonth, ZonedDateTime 做时间计算真的特别直观简单，但是他们就喜欢用 Date ，简单的计算就用毫秒加减，复杂点的计算就先换成 Calender ，完事后再转换回 Date 。</p>\n<p>甚至 JDK7 的 try-with-resources 语法我都感觉不少人都不知道。</p>\n<p>所以，现在“JDK8 是主流”这句话是不对的，而是“JVM8 是主流”才是对的。语法的主流应该是 J2SE 1.5 。</p>",
+    "publish_time": "2022-07-11 14:27:31",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
