@@ -1136,5 +1136,54 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "浙江气温红色预警",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E6%B0%94%E6%B8%A9%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "“芭比Q”的原意是“烧烤”，究竟是如何衍生出“完了”这一义项的呢？",
+    "url": "https://www.zhihu.com/question/542394968",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么《英雄志》2022 年了还完结不了？",
+    "url": "https://www.zhihu.com/question/529367221",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "€1.00 = $1.00, The Euro sinks to lowest since 2002",
+    "url": "https://www.bloomberg.com/news/articles/2022-07-08/why-the-euro-has-tumbled-near-parity-to-the-us-dollar-quicktake",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32059109\">Comments</a>",
+    "publish_time": "2022-07-12 01:34:42",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Tell HN: I have the perfect job, why is it not enough?",
+    "url": "https://news.ycombinator.com/item?id=32059666",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32059666\">Comments</a>",
+    "publish_time": "2022-07-12 02:15:08",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
