@@ -1535,5 +1535,85 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "嗨兔直播APP被警方查封",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%97%A8%E5%85%94%E7%9B%B4%E6%92%ADAPP%E8%A2%AB%E8%AD%A6%E6%96%B9%E6%9F%A5%E5%B0%81%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "父亲拆儿子通知书笑开花",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E6%8B%86%E5%84%BF%E5%AD%90%E9%80%9A%E7%9F%A5%E4%B9%A6%E7%AC%91%E5%BC%80%E8%8A%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "杨洋范丞丞汪苏泷催杨迪为贾玲包场",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%82%AC%E6%9D%A8%E8%BF%AA%E4%B8%BA%E8%B4%BE%E7%8E%B2%E5%8C%85%E5%9C%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何将摄影技术真的提高一个水平呢？",
+    "url": "https://www.zhihu.com/question/541769717",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美股三大指数集体收跌，大型科技股多数走低",
+    "url": "https://36kr.com/newsflashes/1825092450452999",
+    "summary": "36氪获悉，12日收盘，美股三大指数集体收跌，纳指跌0.95%，标普500跌0.92%，道指跌0.62%；大型科技股多数走低，苹果涨0.68%，微软跌超4%，谷歌、Netflix跌超1%，亚马逊跌超2%，Meta涨0.24%，特斯拉跌0.54%；热门中概股涨跌不一，拼多多涨超2%，蔚来涨超1%，京东涨0.96%，小鹏跌0.07%，百度跌0.17%，阿里巴巴跌0.33%，理想跌0.91%。",
+    "publish_time": "2022-07-13 07:00:02",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "推特正式起诉马斯克",
+    "url": "https://content-static.cctvnews.cctv.com/snow-book/index.html?toc_style_id=feeds_default&share_to=copy_url&item_id=5303248602640778065&track_id=012325EB-7DD4-41FF-A893-39B02F1C7548_679359650190",
+    "summary": "当地时间12日，推特公司正式起诉特斯拉公司首席执行官埃隆·马斯克，要求他以440亿美元的价格收购这家社交媒体公司。当地时间8日，马斯克表示将终止对推特的收购，理由是推特严重违反了协议中的多项条款。（央视新闻）",
+    "publish_time": "2022-07-13 07:00:58",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Compare Webb's Images to Hubble",
+    "url": "https://johnedchristensen.github.io/WebbCompare/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32074068\">Comments on Hacker News</a> | <a href=\"https://johnedchristensen.github.io/WebbCompare/\">Source</a>",
+    "publish_time": "2022-07-13 02:41:32",
+    "source": {
+      "name": "hackernews_best",
+      "desc": "Hacker News Best",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Implementing Microsoft REST API Filter",
+    "url": "https://sergeykibish.com/blog/implementing-microsoft-rest-api-filter/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32072884\">Comments</a>",
+    "publish_time": "2022-07-13 01:08:11",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
