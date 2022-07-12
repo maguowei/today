@@ -42,5 +42,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "Apache EventMesh 如何解决SaaS组合式应用集成标准化问题",
+    "url": "https://www.infoq.cn/article/SveE8wdobh3jKB7GOwNJ",
+    "summary": "<p><strong>直播简介</strong><br />\n在 SaaS 新时代下，业务适应性需求引导企业转向支持快速、安全和高效应用变化的技术架构。组合式应用作为加速数字化的关键技术，是 Gartner 在 2022 年的重要战略技术趋势之一，它由以业务为中心的模块化组件构建而成，使技术和业务团队可以更敏捷、更有效地重用代码。组合式应用需要面临的一个难题是如何解决各个应用之间的集成标准问题，比如应用可能仅支持 HTTP、TCP 等协议中的一种，而缺乏统一的通讯标准就给业务落地该架构带来了困难。本次公开课，我们将着重介绍 Apache EventMesh 如何解决这一问题。</p>\n<p><strong>听众受益</strong></p>\n<p>探讨云计算的主流技术，洞察 IT 行业方向<br />\n认识和了解 SaaS 集成数字化新时代下，如何利用统一协议更好实现组合式应用，如何利用事件驱动架构解决 SaaS 应用集成问题。</p>\n<p><strong>适合人群</strong><br />\n云原生和微服务应用开发者</p>",
+    "publish_time": "2022-07-12 15:20:03",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
