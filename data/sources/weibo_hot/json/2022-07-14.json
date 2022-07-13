@@ -574,5 +574,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "莎头",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8E%8E%E5%A4%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "程少商提问落水难题",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%A8%8B%E5%B0%91%E5%95%86%E6%8F%90%E9%97%AE%E8%90%BD%E6%B0%B4%E9%9A%BE%E9%A2%98%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
