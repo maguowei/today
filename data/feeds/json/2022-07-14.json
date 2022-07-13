@@ -1318,5 +1318,63 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "赵露思说少商其实还不懂爱",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E8%AF%B4%E5%B0%91%E5%95%86%E5%85%B6%E5%AE%9E%E8%BF%98%E4%B8%8D%E6%87%82%E7%88%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "你怎么看待天赋和努力的关系？",
+    "url": "https://www.zhihu.com/question/542839589",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "能不能告诉我读书的意义是什么？",
+    "url": "https://www.zhihu.com/question/542995444",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "高中在普通班有机会考上本科吗？",
+    "url": "https://www.zhihu.com/question/542404398",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Supply chain issues are killing synth companies",
+    "url": "https://www.synthtopia.com/content/2022/07/12/supply-chain-issues-are-killing-synth-companies-and-making-it-impossible-to-ship-new-designs/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32086740\">Comments</a>",
+    "publish_time": "2022-07-14 02:21:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Nothing Phone (1)",
+    "url": "https://nothing.tech/pages/phone-1",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32086641\">Comments</a>",
+    "publish_time": "2022-07-14 02:14:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
