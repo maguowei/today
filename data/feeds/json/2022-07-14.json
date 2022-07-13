@@ -1194,5 +1194,129 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "沿着总书记的足迹",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B2%BF%E7%9D%80%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E8%B6%B3%E8%BF%B9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "为什么国产动画不致力开拓海外市场，反而在国内搞渠道和IP垄断，粗制滥造？",
+    "url": "https://www.zhihu.com/question/541711015",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "研一第一次组会报告，导师说感觉我什么都不懂，不知道怎么培养我，我该怎么办？",
+    "url": "https://www.zhihu.com/question/501944863",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "白宫预计 6 月通胀处高位，美元徘徊二十年高位，美股尾盘跳水，纳指跌近 1%，美国还面临哪些经济问题？",
+    "url": "https://www.zhihu.com/question/543004546",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "You can‘t take the Bar exam if your laptop is too modern",
+    "url": "https://twitter.com/mermaidsailor/status/1547236346632216576",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32084850\">Comments</a>",
+    "publish_time": "2022-07-14 00:23:37",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Reddits pretzel-knot of moderation and anti-selfpromotion getting in way of IPO",
+    "url": "https://laulpogan.substack.com/p/reddits-pretzel-knot-of-moderation",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32085001\">Comments</a>",
+    "publish_time": "2022-07-14 00:32:16",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Language Models (Mostly) Know What They Know",
+    "url": "https://arxiv.org/abs/2207.05221",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32085734\">Comments</a>",
+    "publish_time": "2022-07-14 01:16:54",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "DoorDash and Pizza Arbitrage (2020)",
+    "url": "https://www.readmargins.com/p/doordash-and-pizza-arbitrage",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32086170\">Comments</a>",
+    "publish_time": "2022-07-14 01:44:14",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: A benchmark for analytical databases (Snowflake, Druid, Redshift)",
+    "url": "https://benchmark.clickhouse.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32084571\">Comments</a>",
+    "publish_time": "2022-07-14 00:03:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Maybe powers of π don't have unexpectedly good approximations?",
+    "url": "https://11011110.github.io/blog/2022/06/04/maybe-powers-pi.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32085180\">Comments</a>",
+    "publish_time": "2022-07-14 00:42:22",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Google Kubernetes Engine (GKE) adds support for Arm nodes",
+    "url": "https://cloud.google.com/blog/products/containers-kubernetes/gke-supports-new-arm-based-tau-t2a-vms",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32085453\">Comments</a>",
+    "publish_time": "2022-07-14 00:59:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Helion Needs You",
+    "url": "https://blog.samaltman.com/helion-needs-you",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32085215\">Comments</a>",
+    "publish_time": "2022-07-14 00:43:50",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
