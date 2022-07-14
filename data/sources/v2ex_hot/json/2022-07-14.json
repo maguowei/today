@@ -75,5 +75,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "1500 元左右手机推荐",
+    "url": "https://www.v2ex.com/t/866026",
+    "summary": "GCP: <p>奶奶使用不超过 2000 元，日常刷抖音、学习.强国、cctv</p>\n<p>之前用魅族 16s 855 处理器，现在想着不低于这个</p>",
+    "publish_time": "2022-07-14 08:22:30",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "[ Java ] 代码质量糟糕, 是常态吗?",
+    "url": "https://www.v2ex.com/t/866060",
+    "summary": "coala: <p>这几年写东西基本都是一个人...  普遍小公司</p>\n<p>回想起来自己第一年写的也挺烂的。</p>\n<p>后面参考比较多的是几个 Java 开源的项目(电商项目,博客系统这种), 好了很多。</p>\n<p>我觉得差不多的水平就是遵循类似阿里巴巴 Java 规范这种, 不能大片重复 Copy 代码, 合适的面向对象, 结构清晰。</p>\n<p>到目前为止接触过 4 家公司的代码, 遇到的情况:</p>\n<p>A 司: 代码风骚 是个高手, 不守规矩, 但是质量不能算差。</p>\n<p>B 司: 政企项目 有代码审计, 看上去稍微好点, 但是还是大片 Copy 这种大量偷懒行为。</p>\n<p>C 司: 外包写的项目, 惨不忍睹, 一个类 7000 行, 一个 Js 文件几千行, 授权和角色管理稀烂</p>\n<p>D 司: 整体写的比较随意, 但好歹没大片 Copy, 勉强能接受, 授权和角色管理稀烂。</p>\n<p>代码质量能比上个 XX 系统的开源项目的公司有多少呢...</p>",
+    "publish_time": "2022-07-14 10:09:09",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "《微信阅读》开始割韭菜",
+    "url": "https://www.v2ex.com/t/866154",
+    "summary": "alpha4zeta: <ul>\n<li>\n<p>发现之前收藏在书架上的一堆免费书， 开始需要付费阅读了:</p>\n<ol>\n<li>需要用书币购买书籍（但是攒下来的书币顶多买几本书而已）</li>\n<li>升级到付费会员继续阅读</li>\n</ol>\n</li>\n<li>\n<p>获取免费读书卡的难度增加: 阅读书籍到指定时长后可以领取 1~2 天读书卡，但是领取需要看 60s 的视频广告；或者朋友点击后才能领取</p>\n</li>\n<li>\n<p>与第一条相关，免费读书卡的功能变得很弱</p>\n</li>\n</ul>\n<p>开始惦记放在角落里吃灰的 Kindle</p>",
+    "publish_time": "2022-07-14 15:43:11",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
