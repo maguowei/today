@@ -64,5 +64,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "JB 全家桶一年 RMB56？啥原理？",
+    "url": "https://www.v2ex.com/t/866305",
+    "summary": "dzdh: <p><a href=\"https://www.zhihu.com/question/304808444/answer/2573551145?utm_source=wechat_session&amp;utm_medium=social&amp;utm_oi=61953963720704&amp;utm_content=group1_Answer&amp;utm_campaign=shareopn\" rel=\"nofollow\">https://www.zhihu.com/question/304808444/answer/2573551145?utm_source=wechat_session&amp;utm_medium=social&amp;utm_oi=61953963720704&amp;utm_content=group1_Answer&amp;utm_campaign=shareopn</a></p>",
+    "publish_time": "2022-07-15 09:05:19",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "Go 友会继续招纳(之前小伙伴加入没来得及处理)",
+    "url": "https://www.v2ex.com/t/866398",
+    "summary": "fy1206: <p>🐣初衷\n创建本群目的就是聚集一群 Gopher 和对 go 有兴趣的有志青年，帮助大家一同成长，希望加入到这个群里的每个人都能有所收获。</p>\n<p>👬入群须知\n这个群的目的就现在技术群确实不少，我也加了一些，但很多即使有技术碰撞，也都止于短暂的聊天，很快就被淹没。群内经常发言的也就几个活跃的人，大部分人都是默默的偶尔翻翻群消息，或者干脆静音不管了。这样其实也就失去了这个群的意义，我理想中的群应该像是一个班级，大家在一起学习，你不必跟所有人都有联系，甚至你只做好你自己，偶尔群里瞅两眼都行。</p>\n<p>💾群内学习\n1 、分享优秀文章，书籍，当然如果你能说出为什么推荐他就更好了。\n2 、平常开发中遇到的有趣的 bug 及解题步骤的分享。\n3 、提问题，提问题时最好自己已经做过尝试但仍未解决，并描述清楚出现问题的情况。优秀的问题即使没人解答也会记下来，组织成一个题库，待有兴趣的人可以进入题库尝试作答。</p>\n<p>💫注意点\n为了增加群内活跃度，本群达到一定人数会关闭入群通道\n本群不支持任何广告推广</p>\n<p>🎭 一个人走的很快，一群人可以走的很远，欢迎入群交流。\n有兴趣的可以联系 RmVZb3VuZ3M=</p>",
+    "publish_time": "2022-07-15 13:06:07",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "不限编程语言，你认为哪个 ORM 最好用？",
+    "url": "https://www.v2ex.com/t/866413",
+    "summary": "yodhcn: <p>用过一段 nodejs 的 <a href=\"https://www.prisma.io/\" rel=\"nofollow\">prisma</a>，CURD 确实很爽，但麻烦一点的查询就只能手写 SQL 了，因为 prisma 这个框架不提供底层的 query builder ，最后还是换回了 <a href=\"https://knexjs.org/\" rel=\"nofollow\">knex</a> 这个 query builder 一把梭。</p>\n<p>我想了解一下其它编程语言都有哪些好用的 ORM ，哪些 feature 让你选择这个 ORM ?</p>\n<p>听说过 laravel 的 <a href=\"https://laravel.com/docs/9.x/eloquent\" rel=\"nofollow\">Eloquent</a> 很好用，但不知道 php 现在 Type Hints 发展的怎么样，有没有像 typescript 一样被广泛应用，因为现在大部分常用的 npm 包都有官方或第三方 typescript 类型注释支持。</p>",
+    "publish_time": "2022-07-15 13:49:57",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
