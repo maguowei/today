@@ -75,5 +75,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "京东售后遇到的糟心事，群晖 NAS 毁了我 3 块硬盘😭",
+    "url": "https://www.v2ex.com/t/867178",
+    "summary": "wealliam: 618 买了台群晖，7 月 4 日第 1 次启动的时候，装了一块硬盘 a ，插上电可以启动，并安装系统。<br /><br />当我把第二块硬盘 b （全新，电脑可正常读取）装进 NAS 的时候，无法开机，电源按钮按下去没有任何响应，试了好几次，依然无法启动。<br /><br />然后我找了第三块硬盘 c ，再次尝试，也无法开机。<br /><br />后来我取下硬盘后，电源按钮按下去会闪蓝灯，但是把硬盘装上去就无法开机了。<br /><br />7 月 5 日我把硬盘装电脑上，无法读取，再尝试进 PE 系统读取硬盘，发现三块硬盘报废已经全部无法读取。<br /><br />这三块硬盘，两块是一直在使用的硬盘 a 和硬盘 c ，一块是全新购买的硬盘 b 。<br /><br />我的理解是这台群晖 NAS 把我的三块硬盘全部弄坏了，总不会我的三块硬盘自己坏掉了。",
+    "publish_time": "2022-07-19 09:42:40",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "男生有凉鞋推荐吗",
+    "url": "https://www.v2ex.com/t/867187",
+    "summary": "BlackFri: <p>晴雨两用，不发臭那种</p>\n<p>方便的话可以发个京东链接吗</p>",
+    "publish_time": "2022-07-19 10:01:55",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "感冒发烧到底能不能喝牛奶？",
+    "url": "https://www.v2ex.com/t/867226",
+    "summary": "keepeye: 感冒发烧要饮食清淡，那么牛奶是否属于清淡的食物？<br />网络上正方观点认为感冒时人体比较虚弱，通过牛奶可以很好的补充营养，增强抵抗力，缩短病程等等。<br />而反方观点认为，牛奶属于高蛋白高能量食物，使发烧更厉害，并且人在感冒时消化功能弱，喝牛奶不利于消化，还要考虑乳糖不耐受等等。<br />还有中医就不谈了，认为牛奶是寒性的，平时也不建议喝<br /><br />所以感冒发烧的时候，是喝粥吃馒头好，还是牛奶更好？",
+    "publish_time": "2022-07-19 11:25:31",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
