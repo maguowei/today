@@ -1508,5 +1508,74 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "程少商让袁慎娶何昭君",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%A8%8B%E5%B0%91%E5%95%86%E8%AE%A9%E8%A2%81%E6%85%8E%E5%A8%B6%E4%BD%95%E6%98%AD%E5%90%9B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何评价韩剧《安娜》的大结局？",
+    "url": "https://www.zhihu.com/question/538814480",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "我是电脑小白，刚高考完买了人生中第一台笔记本电脑，我需要干啥?",
+    "url": "https://www.zhihu.com/question/537680647",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "没有GPS的时代，人们是怎么认路的？",
+    "url": "https://www.zhihu.com/question/543850675",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Show HN: I built a handheld CHIP-8 game console to teach myself embedded systems",
+    "url": "https://github.com/kurtjd/CHIPnGo",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32158364\">Comments</a>",
+    "publish_time": "2022-07-20 05:42:55",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Build Your Own X",
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32157759\">Comments</a>",
+    "publish_time": "2022-07-20 04:49:29",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Amazon memo: Here’s why we should acquire Ring (2017)",
+    "url": "https://twitter.com/TechEmails/status/1549489359459454976",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32158090\">Comments</a>",
+    "publish_time": "2022-07-20 05:16:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
