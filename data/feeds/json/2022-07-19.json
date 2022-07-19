@@ -1663,5 +1663,336 @@
       "desc": "36kr快讯",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
     }
+  },
+  {
+    "title": "羽生结弦 退役",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6+%E9%80%80%E5%BD%B9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "2022第200天",
+    "url": "https://s.weibo.com/weibo?q=%232022%E7%AC%AC200%E5%A4%A9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "iQOO10新品发布",
+    "url": "https://s.weibo.com/weibo?q=%23iQOO10%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "警方通报4S店内销售人员被打",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A54S%E5%BA%97%E5%86%85%E9%94%80%E5%94%AE%E4%BA%BA%E5%91%98%E8%A2%AB%E6%89%93%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "人生若如初见爱奇艺下线",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%94%9F%E8%8B%A5%E5%A6%82%E5%88%9D%E8%A7%81%E7%88%B1%E5%A5%87%E8%89%BA%E4%B8%8B%E7%BA%BF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "北京将研究限制国三汽油车进五环",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%B0%86%E7%A0%94%E7%A9%B6%E9%99%90%E5%88%B6%E5%9B%BD%E4%B8%89%E6%B1%BD%E6%B2%B9%E8%BD%A6%E8%BF%9B%E4%BA%94%E7%8E%AF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "约旦男篮绝杀中国台北男篮",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BA%A6%E6%97%A6%E7%94%B7%E7%AF%AE%E7%BB%9D%E6%9D%80%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%E7%94%B7%E7%AF%AE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "人生若如初见延播声明",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%94%9F%E8%8B%A5%E5%A6%82%E5%88%9D%E8%A7%81%E5%BB%B6%E6%92%AD%E5%A3%B0%E6%98%8E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "下架",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8B%E6%9E%B6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "你想倾诉的时候妈妈都在",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%83%B3%E5%80%BE%E8%AF%89%E7%9A%84%E6%97%B6%E5%80%99%E5%A6%88%E5%A6%88%E9%83%BD%E5%9C%A8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "张小泉总经理致歉，称网传视频有语境被误解，过往五年断刀可换新，如何看待这一回应？",
+    "url": "https://www.zhihu.com/question/544029554",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何看待《辉夜大小姐想让我告白》第三季第 13 集被 b 站过度删减？",
+    "url": "https://www.zhihu.com/question/543405721",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "男子因病未打新冠疫苗求职遭拒，招聘企业回复「接待客户有一定感染风险」，如何看待企业的回复？是否合规？",
+    "url": "https://www.zhihu.com/question/543923165",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "2022wtt布达佩斯球星挑战赛王艺迪4:1孙颖莎，双方的发挥如何？",
+    "url": "https://www.zhihu.com/question/543815251",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "好吃懒做的本质是什么？",
+    "url": "https://www.zhihu.com/question/540383127",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "是不是很多年轻人更爱喝啤酒，为什么？",
+    "url": "https://www.zhihu.com/question/529415775",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "马斯克准备反诉推特，试图放弃440亿美元收购交易",
+    "url": "https://finance.sina.com.cn/7x24/2022-07-19/doc-imizirav4280133.shtml",
+    "summary": "市场消息：马斯克将反诉推特，试图放弃440亿美元的收购。（新浪财经）",
+    "publish_time": "2022-07-19 07:07:01",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "德媒：德国供气问题或将持续到2024年",
+    "url": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=7098145478045406348&toc_style_id=feeds_default&share_to=wechat&track_id=3222373c-757d-458f-9109-a68370e255f7",
+    "summary": "德国媒体18日报道称，由于担心俄罗斯延长“北溪-1”检修期，甚至彻底切断这一重要输气管道，德国联邦政府认为，今年冬季整个德国或者部分联邦州将可能出现因天然气短缺引发的紧急情况，而德国天然气供应短缺问题或将持续到2024年。此外，据德国政府预计，德国国内天然气的价格还会上涨两到三倍。（央视新闻）",
+    "publish_time": "2022-07-19 07:14:11",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "苹果：2023年放缓部分团队招聘和支出",
+    "url": "https://finance.sina.com.cn/tech/it/2022-07-19/doc-imizirav4283241.shtml",
+    "summary": "知情人士透露说，因为经济有可能衰退，苹果一些部门准备放慢招聘速度，开支增速下会下调。在苹果之前Meta、特斯拉也已经放慢招聘节奏。苹果的调整并非针对所有团队，2023年苹果的产品推出计划仍然是激进的，当中包括MR头盔。（新浪科技）",
+    "publish_time": "2022-07-19 07:19:29",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "“珩创纳米”完成逾亿元Pre-A轮融资",
+    "url": "https://36kr.com/newsflashes/1833600621978374",
+    "summary": "36氪获悉，近日，“珩创纳米”顺利完成逾亿元人民币Pre-A轮融资，本轮融资由悦达投资领投，沃赋资本、高瓴创投、沃衍资本、创维投资、激智科技、凯石资本跟投，此轮融资珩创纳米将用于5000吨锂离子电池正极材料磷酸锰铁锂的研发与生产。据官方介绍，珩创纳米是一家专业从事锂离子电池以及核心材料相关领域的研发、生产和销售的企业。",
+    "publish_time": "2022-07-19 07:23:54",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "软银暂停ARM伦敦上市计划",
+    "url": "https://finance.sina.com.cn/tech/it/2022-07-19/doc-imizmscv2410199.shtml",
+    "summary": "由于英国政府出现政治动荡，软银集团已经暂停了ARM明年在伦敦证券交易所挂牌的计划，可能会选择在美国上市。6月份孙正义告诉股东，他更偏向在美国上市，因为ARM的很多客户在美国。（新浪科技）",
+    "publish_time": "2022-07-19 07:29:56",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "“包邮区”存煤可用天数下降",
+    "url": "http://www.zqrb.cn/finance/hongguanjingji/2022-07-18/A1658147827975.html",
+    "summary": "上海航运交易所发布的中国沿海（散货）运输市场周度报告（2022年7月9-15日）显示，目前沿海八省电厂日耗升至212.9万吨，略低于同期，库存下降至2884万吨，其中江浙沪存煤可用天数下降至11天-16天不等，其他区域则维持在20天左右。据观察，已有上市公司受到限电影响。（证券日报）",
+    "publish_time": "2022-07-19 07:35:19",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "高盛将放慢招聘速度，恢复用于末位淘汰的全年绩效评估",
+    "url": "https://www.jiemian.com/article/7768158.html",
+    "summary": "据报道，为控制开支，高盛集团计划放慢招聘并恢复年度绩效评估。高盛首席财务官Denis Coleman周一在与分析师的电话会议上表示：“我们正在采取一些行动来提高运营效率，包括已经决定放慢招聘速度。”Coleman说，对于离职的岗位，高盛也会放慢补缺速度，该行计划恢复疫情期暂停的年终全年绩效评估，这种评估通常用于淘汰表现最差的员工。财报数据显示，高盛第二季度净营收118.6亿美元，同比下跌22.9%。（界面）",
+    "publish_time": "2022-07-19 07:43:53",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "山西证券：积极关注生态产业链、新能源及新基建相关赛道龙头",
+    "url": "https://www.yicai.com/brief/101478307.html",
+    "summary": "山西证券表示，本周，A股全面下行的同时全球股市普遍低迷，海外通胀导致货币紧缩预期升温，需求端的走弱也致使大宗商品价格持续大跌。国内来看，疫情反复和房地产市场断贷风波，带来金融、地产链和消费板块连续下行，目前，经历过几大热点题材的高频轮动及板块内高低切换，市场信心不足，风险偏好下行，赚钱效应较低，热点主要集中在新能源为主的高成长板块。建议布局政策导向下具有长期战略意义的板块，积极关注生态产业链、新能源及新基建相关赛道龙头。（第一财经）",
+    "publish_time": "2022-07-19 07:49:19",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "科创板做市商制度进入落地阶段，首批获试点资格券商或近10家",
+    "url": "http://epaper.zqrb.cn/html/2022-07/19/content_859224.htm",
+    "summary": "科创板做市商制度正式进入实施阶段。从业内人士处获悉，预计首批获得试点资格的券商或接近10家。具体来看，目前已有4家至5家券商通过上交所组织的多轮技术系统评估测试等，并获得交易所出具的验收报告，准备向证监会递交业务资格申请的相关材料。此外，另有4家至5家券商正在进行技术系统改进等工作，本周内有望通过相关测试。 (证券日报)",
+    "publish_time": "2022-07-19 07:53:31",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "谷歌被俄罗斯罚款3.9亿美元：未删除违法内容且屡教不改",
+    "url": "https://finance.sina.com.cn/tech/internet/2022-07-18/doc-imizirav4237723.shtml",
+    "summary": "据报道，谷歌今日被俄罗斯一家法院罚款218亿卢布（约合3.87亿美元），原因是未能删除非法内容，且屡教不改。很长一段时间以来，俄罗斯就采取一系列措施，加强对美国科技公司的监管，限制这些平台发布非法内容。除了谷歌，Twitter、苹果和Meta等科技公司在俄罗斯也遭到不同程度的处罚。（新浪科技）",
+    "publish_time": "2022-07-19 07:58:07",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Shannon's Demon and How Returns Can Be Created Out of Thin Air",
+    "url": "https://www.richmondquant.com/news/2021/9/21/shannons-demon-amp-how-portfolio-returns-can-be-created-out-of-thin-air",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32143953\">Comments</a>",
+    "publish_time": "2022-07-19 05:22:41",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Pioneering economist says our obsession with growth must end",
+    "url": "https://www.nytimes.com/interactive/2022/07/18/magazine/herman-daly-interview.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32142529\">Comments</a>",
+    "publish_time": "2022-07-19 03:35:16",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Zombie fly fungus lures healthy male flies to mate with female corpses",
+    "url": "https://news.ku.dk/all_news/2022/07/zombie-fly-fungus-lures-healthy-male-flies-to-mate-with-female-corpses/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32145268\">Comments</a>",
+    "publish_time": "2022-07-19 07:06:18",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "See Thru Jet Engine",
+    "url": "https://www.youtube.com/watch?v=MgL0GW248mE",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32145297\">Comments</a>",
+    "publish_time": "2022-07-19 07:09:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The night I met Einstein (1955)",
+    "url": "https://www.rd.com/article/the-night-i-met-einstein/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32143432\">Comments</a>",
+    "publish_time": "2022-07-19 04:45:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Shouldibuytwitter.com – A tiny takeover arbitrage model for TWTR",
+    "url": "https://shouldibuytwitter.com",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32144912\">Comments</a>",
+    "publish_time": "2022-07-19 06:32:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "New documents reveal scale of US Government’s cell phone location data tracking",
+    "url": "https://techcrunch.com/2022/07/18/homeland-security-cell-phone-tracking/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32143256\">Comments</a>",
+    "publish_time": "2022-07-19 04:30:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
