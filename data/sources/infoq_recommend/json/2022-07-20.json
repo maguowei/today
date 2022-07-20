@@ -1,0 +1,13 @@
+[
+  {
+    "title": "亚马逊Aurora支持PostgreSQL 14",
+    "url": "https://www.infoq.cn/article/RLPcEcQQNxVTVRTXkhcT",
+    "summary": "<p>最近，亚马逊宣布Aurora PostgreSQL支持PostgreSQL 14。新版本增加了性能改进和新功能，包括支持SCRAM加密机制。</p><p>&nbsp;</p><p>PostgreSQL 14包括对并行查询、高并发工作负载、分区表、逻辑复制和Vacuuming等方面的改进。14.3版本增加了一些新功能，比如在客户端断开连接时关闭空闲会话或取消长时间运行的查询。PostgreSQL 14的其他改进包括支持<a href=\"https://www.cybertec-postgresql.com/en/multiranges-in-postgresql-14/\">多范围</a>\"、可以表示非连续的数据范围，以及在存储过程中使用OUT参数返回数据。</p><p>&nbsp;</p><p>新的Aurora版本增加了对SCRAM加密机制的支持，这是默认密码加密算法MD5的一个替代方案。SCRAM也已经被移植到以前的Aurora PostgreSQL版本（10、11、12、13），亚马逊云科技建议在新的集群中使用SCRAM而不是MD5。</p><p>&nbsp;</p><p>Aurora PostgreSQL提供了连续备份、多达15个读副本、多区域复制以及在无服务器模式下运行的选项。按需自动伸缩配置已在去年4月推出，现在与PostgreSQL 14也兼容。</p><p>&nbsp;</p><p>现有的集群可以升级到PostgreSQL 14。后续的小版本升级可以在不停机的情况下进行，因为亚马逊最近发布了<a href=\"https://aws.amazon.com/it/about-aws/whats-new/2022/06/amazon-aurora-postgresql-compatible-edition-supports-zero-downtime-patching/\">零停机补丁</a>\"（ZDP），可以在数据库重启时保留客户端连接。</p><p>&nbsp;</p><p>社区中最初对选择14.3版本有一些担忧，不过亚马逊从14.4中反向移植了一些最新的修复，包括针对CONCURRENTLY问题的修复。为了简化发布过程，Aurora的主要版本和次要版本将和PostgreSQL社区版本保持一致，并加入第三个数字表示补丁。</p><p>&nbsp;</p><p>亚马逊云科技首席应用科学家Murat Demirbas最近写了一篇关于亚马逊Aurora解耦架构的文章。这个高吞吐量的云原生关系数据库的新版本包括Babelfish for Aurora PostgreSQL 2.1的新特性，支持在PostgreSQL上运行Microsoft SQL Server应用程序。14.3是自2021年初推出这项托管服务以来的第三个主要版本：Aurora在去年引入了对PostgreSQL 12和PostgreSQL 13的支持，发布周期明显比MySQL版本短。</p><p>&nbsp;</p><p>亚马逊Aurora并不是第一个兼容PostgreSQL 14的托管服务：亚马逊RDS也支持它，其他供应商也已经添加了支持，包括Azure Flexible Server PostgreSQL和Azure Hyperscale（Citus）。</p><p>&nbsp;</p><p>PostgreSQL 14在Aurora支持的所有地区都可用，引擎版本之间没有价格差异。</p><p>&nbsp;</p><p>原文链接：<a href=\"https://www.infoq.com/news/2022/07/amazon-aurora-postgresql-14/\">Amazon Aurora Supports PostgreSQL 14</a>\"</p>",
+    "publish_time": "2022-07-20 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
