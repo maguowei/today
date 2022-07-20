@@ -75,5 +75,38 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "微软再次调整应用商店的开源政策",
+    "url": "https://www.infoq.cn/article/gQGMrWGOoKtdMgHGUtYF",
+    "summary": "<p>7月18日消息，微软再次调整了其商店政策，删除了原本的封禁商业开源条款。</p><p>&nbsp;</p><p>6 月 16 日，<a href=\"https://web.archive.org/web/20220702074228/https://docs.microsoft.com/en-us/windows/uwp/publish/store-policies\">微软更新了</a>\"Microsoft 应用商店的政策。修订后的政策还在第 10.8.7 节表示：</p><p></p><blockquote>Not attempt to profit from open-source or other software that is otherwise generally available for free, nor be priced irrationally high relative to the features and functionality provided by your product.</blockquote><p></p><p>&nbsp;</p><p>即“禁止在商店中对开源或其他通常可免费获得的软件收取费用”，同时商店将不允许过度收费或设置不合理的高价，也就是避免有人倒卖免费软件。</p><p>&nbsp;</p><p>微软的这一决策会影响一些开发者，在政策生效前夕，SFC（软件自由保护协会）在自己的官方博客发表文章，对微软进行了谴责，认为禁止在 Microsoft 应用商店上销售开源软件是不可接受的。微软应用商店总经理 Giorgio Sardo 回应说，他们将推迟执行该政策，而且微软需要澄清其修订草案背后的意图。</p><p>&nbsp;</p><p>在原本的生效日期（7月16日）后两天，Giorgio Sardo 在推特上再次出面表示，已经对应用商店政策做了优化，即删除了第 10.8.7 节中提到的开放源代码定价条款，同时，为了强调微软的实际意图，在第 11.2 节中添加了指向微软在线侵权报告表的链接。“我们致力于建立一个开放的商店，让开发者有足够的选择和灵活性。微软商店里有很多很棒的免费和付费 OSS 应用，我们期待并欢迎更多项目加入。”</p><p>&nbsp;</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/81/81c63f7bf0d6d6457236182ca4a49577.png\" /></p><p></p><p>&nbsp;</p><p>了解更多：</p><p><a href=\"https://www.infoq.cn/article/MrFuSrVBjxNW840RRFuB\">微软开始封禁 App Store 中的商业开源 ，7 月 16 日生效？！</a>\"</p>",
+    "publish_time": "2022-07-20 18:04:57",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "基于云原生的VR一体化应用的探索与实践",
+    "url": "https://www.infoq.cn/article/2gFgYpmd80mh5VI12r7s",
+    "summary": "<p><strong>直播简介</strong><br />\n数字空间的核心是 VR 数据采集、算法处理、交互应用。基于云服务，可快速搭建及部署上百个算法模块，实现云计算特性容器化、弹性算力扩缩容，极大提升 VR 处理效率。<br />\n随着数字空间在房产交易、家装家居、文旅会展等不同领域的规模化落地，VR 技术正面临更大的挑战，例如，VR 渲染可视化、跨平台兼容、内存敏感、性能瓶颈、webgl 编程门槛等。<br />\n本期内容将带你走进数字空间，展现如视如何借助云原生的能力构建如视开放平台，加速各行业对数字空间的深度应用。</p>\n<p><strong>听众受益</strong></p>\n<p>了解 VR 及 3D 相关技术<br />\n了解如视相关 VR 产品技术方案<br />\n了解云原生 VR 应用搭建<br />\n了解如视开放平台相关解决方案</p>\n<p><strong>适合人群</strong></p>\n<p>全行业空间数字化（转型）负责人 / 团队 / 开发者<br />\n三维重建 /VR/3D/WebGL 技术从业者 / 开发者</p>",
+    "publish_time": "2022-07-20 20:21:53",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "持续发酵的可组装技术，如何引领企业级PaaS平台的未来？",
+    "url": "https://www.infoq.cn/article/HFCr7OAxDIRFyNPOYhfD",
+    "summary": "<p>被列为2022 年十二大战略技术趋势之一的可组装技术究竟是个啥？我们将和金蝶中国苍穹平台与技术规划部首席专家 彭璐，一起探讨了可组装技术的发展趋势和落地实践！</p>",
+    "publish_time": "2022-07-20 20:42:16",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
