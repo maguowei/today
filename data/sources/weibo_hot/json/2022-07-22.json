@@ -637,5 +637,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "吹口哨",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%90%B9%E5%8F%A3%E5%93%A8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "80岁奶奶用杆秤给猫咪称体重",
+    "url": "https://s.weibo.com/weibo?q=%2380%E5%B2%81%E5%A5%B6%E5%A5%B6%E7%94%A8%E6%9D%86%E7%A7%A4%E7%BB%99%E7%8C%AB%E5%92%AA%E7%A7%B0%E4%BD%93%E9%87%8D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "银保监会回应是否该取消预售",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%93%B6%E4%BF%9D%E7%9B%91%E4%BC%9A%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E8%AF%A5%E5%8F%96%E6%B6%88%E9%A2%84%E5%94%AE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
