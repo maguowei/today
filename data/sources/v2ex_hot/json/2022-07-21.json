@@ -42,5 +42,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "身份证号的 X 是不是一个糟糕的设计？",
+    "url": "https://www.v2ex.com/t/867724",
+    "summary": "Wallace01: 身份证号校验位（最后一位）的设计原理是，用前面的数字通过一系列计算结果除以 11 取余数，分别对应 1-9 和 x 。不用 10 的原因是校验效果不好。<br /><br />大家觉得这个设计怎么样呢。",
+    "publish_time": "2022-07-21 12:40:31",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
