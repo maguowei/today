@@ -64,5 +64,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "坐对面的女生整天一直咳咳咳,该如何友情提醒。",
+    "url": "https://www.v2ex.com/t/868002",
+    "summary": "qwereee: 中午睡觉也不消停，听得快神经衰弱了，有什么办法能解决，求各位大佬支招。。。",
+    "publish_time": "2022-07-22 14:14:49",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "枚举类型是从 0 开始还是从 1 开始",
+    "url": "https://www.v2ex.com/t/868018",
+    "summary": "cnoder: <p>起因：那天听到前端 leader 在阴阳怪气我设计的枚举不是从 0 开始，跟旁边的人说什么“但凡学过 java 。。。。。也应该知道。。。”云云</p>\n<p>我（我是后端）也没和他辩解</p>\n<p>我说下我的理由吧</p>\n<ol>\n<li>如果用 int 来代表 true/false ，我会设计为 0/1</li>\n<li>如果是几种状态值，我会选择从 1 开始，避免选择 0 。因为某些弱类型语言在判断 0 的时候会自动做类型转换，而且我们目前业务上使用的后端语言也是 lua ，数组索引是从 1 开始的。</li>\n</ol>\n<p>所以我在跟前端定义参数的时候 选择 1 、2 、3 来表示样式 123 。</p>\n<p>我这理由充分嘛？</p>",
+    "publish_time": "2022-07-22 14:58:54",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
