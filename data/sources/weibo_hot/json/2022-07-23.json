@@ -547,5 +547,41 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "奔跑吧这期是蔡徐坤策划",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E8%BF%99%E6%9C%9F%E6%98%AF%E8%94%A1%E5%BE%90%E5%9D%A4%E7%AD%96%E5%88%92%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "wtt支线赛布达佩斯站",
+    "url": "https://s.weibo.com/weibo?q=%23wtt%E6%94%AF%E7%BA%BF%E8%B5%9B%E5%B8%83%E8%BE%BE%E4%BD%A9%E6%96%AF%E7%AB%99%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "hugme首舞台",
+    "url": "https://s.weibo.com/weibo?q=%23hugme%E9%A6%96%E8%88%9E%E5%8F%B0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "杨幂怎么也飞不出花花的世界",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%80%8E%E4%B9%88%E4%B9%9F%E9%A3%9E%E4%B8%8D%E5%87%BA%E8%8A%B1%E8%8A%B1%E7%9A%84%E4%B8%96%E7%95%8C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
