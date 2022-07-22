@@ -438,5 +438,27 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "CVE-2022-31163: Arbitrary file execution in TZinfo (Ruby)",
+    "url": "https://github.com/tzinfo/tzinfo/security/advisories/GHSA-5cm2-9h8c-rvfx",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32188816\">Comments</a>",
+    "publish_time": "2022-07-22 13:25:47",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Coinbase does not list securities. End of story",
+    "url": "https://blog.coinbase.com/coinbase-does-not-list-securities-end-of-story-e58dc873be79",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32188652\">Comments</a>",
+    "publish_time": "2022-07-22 12:52:35",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
