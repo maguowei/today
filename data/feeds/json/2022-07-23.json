@@ -1851,5 +1851,150 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "华商称「法国装空调要花近7万元」，空调在多数欧洲国家还属于稀缺物，这是真的吗？为什么出现这种情况？",
+    "url": "https://www.zhihu.com/question/544757527",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何看待被引用 2300 多次的阿尔茨海默症「淀粉样蛋白」假说奠基性论文涉嫌造假？",
+    "url": "https://www.zhihu.com/question/544750364",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "中国五月所持美债为 9808 亿美元，是 12 年来首次跌破万亿美元关口，这背后都有哪些原因？",
+    "url": "https://www.zhihu.com/question/544369889",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "7 月 23 日是大暑，大暑会打破小暑的「炎热记录」吗？如何让自己健康地度过「三伏天」？",
+    "url": "https://www.zhihu.com/question/543252397",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "有哪些你最近才真正明白的人生哲理？",
+    "url": "https://www.zhihu.com/question/399299700",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "南京发布深夜发文《南京永远不会忘记》，你对南京大屠杀那段历史了解多少？我们要铭记什么？",
+    "url": "https://www.zhihu.com/question/544848357",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何快速地知道自己的缺点？",
+    "url": "https://www.zhihu.com/question/29252310",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "贺涵为什么喜欢罗子君？",
+    "url": "https://www.zhihu.com/question/62308330",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "广州一 62 岁女子发烧裹被捂汗患热射病送 ICU，如何从医学角度解读这一现象？我们又该如何预防？",
+    "url": "https://www.zhihu.com/question/544513284",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "你见过最离谱的语言文化差异是什么？",
+    "url": "https://www.zhihu.com/question/544362846",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "隐藏云API的细节，SQL让这一切变简单",
+    "url": "https://www.infoq.cn/article/AJXDiXdvjfr9kzwBh6lh",
+    "summary": "<p>渗透测试人员、合规性审计员和其他DevSecOps专业人员花了大量时间编写脚本来查询云基础设施。人们喜欢用<a href=\"https://aws.amazon.com/sdk-for-python/\">Boto3</a>\"（Python版AWS SDK）来查询AWS API并处理返回的数据。</p><p>&nbsp;</p><p>它可以用来完成简单的工作，但如果你需要跨多个AWS帐户和地区查询数据，事情就变得复杂了。这还不包括访问其他主流云平台（Azure、GCP、Oracle Cloud），更不用说GitHub、Salesforce、Shodan、Slack和Zendesk等服务了。开发人员花了太多的时间和精力从这些API获取数据，然后将其规范化并开始真正的分析任务。</p><p>&nbsp;</p><p>如果你可以用一种通用的方式查询所有API并处理它们返回的数据会怎样？<a href=\"https://steampipe.io/\">Steampipe</a>\"就是用来做这个的。它是一个基于Postgres的开源引擎，你可以用它编写间接调用主要云平台API的SQL查询。它不是一个数据仓库。调用API生成的表是临时的，它们反映了基础设施的实时状态，你可以用SQL对它们进行实时的查询。</p><p>&nbsp;</p><p>本文的案例研究将展示如何使用Steampipe来回答这个问题：我们的公共EC2实例是否有已被<a href=\"https://www.shodan.io/\">Shodan</a>\"检测到的漏洞？我们需要使用AWS API列出EC2的公共IP地址，并使用Shodan API来检查它们。</p><p>&nbsp;</p><p>如果使用传统的方法，你需要找到每个API的编程语言包装器，了解每种API的访问模式，然后编写代码来组合结果。在Steampipe中，一切都是SQL。这两个API，就像Steampipe的<a href=\"https://hub.steampipe.io/plugins\">API插件</a>\"支持的所有API一样，被解析成Postgres数据库表。你可以用SQL对它们进行基本查询，甚至是连接查询。</p><p>&nbsp;</p><p>图1描绘了我们案例研究的主要API连接。<a href=\"https://hub.steampipe.io/plugins/turbot/aws\">aws_ec2_instance</a>\"表是Steampipe通过调用AWS API构建的<a href=\"https://hub.steampipe.io/plugins/turbot/aws/tables\">数百个表</a>\"中的一个。类似地，<a href=\"https://hub.steampipe.io/plugins/turbot/shodan/tables/shodan_host\">shodan_host</a>\"表是Steampipe通过调用Shodan API构建的<a href=\"https://hub.steampipe.io/plugins/turbot/shodan/tables\">十几个表</a>\"中的一个。SQL查询将aws_ec2_instance的public_ip_address列与shodan_host的ip列连接起来。</p><p>&nbsp;</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/6e/6e65fbe2b3a6b2502a7770d20123c194.png\" /></p><p></p><p>&nbsp;</p><p>在深入案例研究之前，我们先来仔细地看看Steampipe的工作原理。下面是Steampipe的高级架构视图。</p><p>&nbsp;</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/f8/f81989506b8bc062378a5db63622683f.png\" /></p><p></p><p>&nbsp;</p><p>为了查询API并处理返回的结果，Steampipe用户需要使用Steampipe的查询控制台（Steampipe CLI）或其他可以连接Postgres的工具（psql、Metabase等）来编写SQL查询并提交给Postgres。针对Postgres的关键增强特性包括：</p><p>&nbsp;</p><p>Postgres外部数据包装器；各种API插件；连接聚合器。</p><p></p><h2>Postgres外部数据包装器</h2><p></p><p>&nbsp;</p><p>Postgres已经有了长足的演进。如今，得益于不断增长的插件生态系统，Postgres比你想象的要<a href=\"https://www.infoq.com/articles/postgres-handles-more-than-you-think/\">强大得多</a>\"。强大的扩展插件包括用于地理空间数据的<a href=\"https://postgis.net/\">PostGIS</a>\"、用于在Kafka或RabbitMQ中复制数据的<a href=\"https://www.2ndquadrant.com/en/resources-old/pglogical/\">pglogical</a>\"，以及用于分布式操作和列存储的<a href=\"https://github.com/citusdata/citus\">Citus</a>\"。</p><p>&nbsp;</p><p><a href=\"https://wiki.postgresql.org/wiki/Foreign_data_wrappers\">外部数据包装器</a>\"（FDW）是Postgres的一个插件类别，用于为外部数据创建数据库表。Postgres的绑定<a href=\"https://www.postgresql.org/docs/current/postgres-fdw.html\">postgres_fdw</a>\"支持跨本地和远程数据库的查询。Steampipe在运行时会启动一个Postgres实例，这个实例会加载另一种FDW，叫作<a href=\"https://github.com/turbot/steampipe-postgres-fdw\">steampipe-postgres-fdw</a>\"，它会调用一系列<a href=\"https://hub.steampipe.io/plugins\">插件</a>\"为外部API创建数据库表。</p><p>&nbsp;</p><p>这些外部表通常将JSON结果映射成简单的列类型：日期、文本、数字。有时候，如果API响应消息中包含复杂的JSON结构（如AWS策略文档），结果会显示成<a href=\"https://www.postgresql.org/docs/9.5/datatype-json.html\">JSONB</a>\"列。</p><p></p><h2>各种API插件</h2><p></p><p>&nbsp;</p><p>这些插件是用Go编写的，回退/重试逻辑、数据类型转换、缓存和凭证由<a href=\"https://steampipe.io/docs/develop/writing-plugins\">插件SDK</a>\"负责处理。有了这个SDK，插件开发者可以将精力放在核心的任务上，也就是将API结果映射到数据库表。</p><p>&nbsp;</p><p>这些映射可以是一对一的。例如，aws_ec2_instance表与底层<a href=\"https://docs.aws.amazon.com/AWSEC2/latest/APIReference/API_DescribeInstances.htm\">REST API</a>\"相匹配。</p><p>&nbsp;</p><p>在其他情况下需要构建合并了多个API的表。例如，为了构建完整的S3桶的视图，需要连接核心S3 API与ACL、策略、复制、标签、版本控制等子API。插件开发者负责编写函数来调用这些子API，并将结果合并到表中。</p><p></p><h2>一个基本的Steampipe查询</h2><p></p><p>&nbsp;</p><p>下面是一个使用Steampipe列出EC2实例的示例。</p><p>&nbsp;</p><p><a href=\"https://steampipe.io/downloads\">安装Steampipe</a>\"；安装<a href=\"https://hub.steampipe.io/plugins/turbot/aws\">AWS插件</a>\"：steampipe plugin install aws；<a href=\"https://hub.steampipe.io/plugins/turbot/aws#configuration\">配置</a>\"AWS插件。</p><p>&nbsp;</p><p>插件配置使用了标准的身份验证方法：配置文件、访问密钥和秘钥文件、SSO。因此，Steampipe的客户端验证与其他类型的客户端验证是一样的。完成这些之后，就可以查询EC2实例。</p><p>&nbsp;</p><p>示例1：列出EC2实例</p><p>&nbsp;</p><p><code lang=\"sql\">select\n  account_id, \n  instance_id, \n  instance_state,\n  region\nfrom aws_ec2_instance;\n\n\n+--------------+---------------------+----------------+-----------+\n| account_id   | instance_id         | instance_state | region    |\n+--------------+---------------------+----------------+-----------+\n| 899206412154 | i-0518f0bd09a77d5d2 | stopped        | us-east-2 |\n| 899206412154 | i-0e97f373db22dfa3f | stopped        | us-east-1 |\n| 899206412154 | i-0a9ad4df00ffe0b75 | stopped        | us-east-1 |\n| 605491513981 | i-06d8571f170181287 | running        | us-west-1 |\n| 605491513981 | i-082b93e29569873bd | running        | us-west-1 |\n| 605491513981 | i-02a4257fe2f08496f | stopped        | us-west-1 |\n+--------------+---------------------+----------------+-----------+</code></p><p>&nbsp;</p><p>外部表aws_ec2_instance的文档提供了<a href=\"https://hub.steampipe.io/plugins/turbot/aws/tables/aws_ec2_instance#inspect\">模式定义</a>\"和<a href=\"https://hub.steampipe.io/plugins/turbot/aws/tables/aws_ec2_instance\">查询示例</a>\"。</p><p></p><h2>连接聚合器</h2><p></p><p>&nbsp;</p><p>在上面的查询中，不需要显式地指定多个AWS帐户和区域就可以查到它们的实例。这是因为我们可以为AWS插件配置用于组合账户的<a href=\"https://steampipe.io/docs/managing/connections#using-aggregators\">聚合器</a>\"，还可以用通配符指定多个区域。在这个示例中有两个不同的AWS帐户，一个使用SSO进行身份验证，另一个使用access-key-and-secret方法，它们组合起来作为select * from aws_ec2_instance查询的目标。</p><p>&nbsp;</p><p>示例2：聚合AWS连接</p><p>&nbsp;</p><p><code lang=\"sql\">connection \"aws_all\" {\n  plugin = \"aws\"\n  type = \"aggregator\"\n  connections = [ \"aws_1\", aws_2\" ]\n}\n\n\nconnection \"aws_1\" {\n  plugin    = \"aws\"\n  profile = \"SSO…981\"\n  regions = [ \"*\" ]\n}\n\n\nconnection \"aws_2\" {\n  plugin    = \"aws\"\n  access_key  = \"AKI…RNM\"\n  secret_key  = \"0a…yEi\"\n  regions = [ \"*\" ]\n}</code></p><p>&nbsp;</p><p>这种方法适用于所有的Steampipe插件，它抽象了连接细节，简化了跨多个连接的查询，还为并发访问API提供了可能性。</p><p></p><h2>案例研究A：使用Shodan查找AWS漏洞</h2><p></p><p>&nbsp;</p><p>假设你想要用Shodan来检查一些公共AWS端点是否存在漏洞。下面是完成检查过程需要执行的伪代码。</p><p>&nbsp;</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/0c/0c544b697fecc62b62ec7a6198dea9fd.png\" /></p><p></p><p>&nbsp;</p><p>传统的Python或其他语言的解决方案需要你使用两种不同的API。虽然有针对这些原始API的包装器，但每个包装器都有不同的调用方式和结果。</p><p>&nbsp;</p><p>下面是使用boto3来解决这个问题的示例。</p><p>&nbsp;</p><p>示例3：使用boto3查找AWS漏洞</p><p>&nbsp;</p><p><code lang=\"sql\">import boto3\nimport datetime\nfrom shodan import Shodan\n\n\naws_1 = boto3.Session(profile_name='SSO…981')\naws_2 = boto3.Session(aws_access_key_id='AKI…RNM', aws_secret_access_key='0a2…yEi')\naws_all = [ aws_1, aws_2 ]\nregions = [ 'us-east-2','us-west-1','us-east-1' ]\n\n\nshodan = Shodan('h38…Cyv')\n\n\ninstances = {}\n\n\nfor aws_connection in aws_all:\n  for region in regions:\n    ec2 = aws_connection.resource('ec2', region_name=region)\n    for i in ec2.instances.all():\n      if i.public_ip_address is not None:\n        instances[i.id] = i.public_ip_address\n   \nfor k in instances.keys():\n   try:\n     data = shodan.host(instances[k])\n     print(k, data['ports'], data['vulns'])\n   except Exception as e:\n     print(e)</code></p><p>&nbsp;</p><p>如果API被抽象为SQL表，你就可以忽略这些细节，并提取出解决方案的精华部分。下面是使用Steampipe解决这个问题的示例，即“Shodan是否找到了EC2实例公共端点的漏洞？”</p><p>&nbsp;</p><p>示例4：使用Steampipe查找AWS漏洞</p><p>&nbsp;</p><p><code lang=\"sql\">select\n  a.instance_id,\n  s.ports,\n  s.vulns\nfrom\n  aws_ec2_instance a\nleft join\n  shodan_host s \non \n  a.public_ip_address = s.ip\nwhere\n  a.public_ip_address is not null;\n\n\n+---------------------+----------+--------------------+\n| instance_id         | ports    | vulns              |\n+---------------------+----------+--------------------+\n| i-06d8571f170181287 |          |                    |\n| i-0e97f373db42dfa3f | [22,111] | [\"CVE-2018-15919\"] |\n+---------------------+----------+--------------------+</code></p><p>&nbsp;</p><p>你只需要针对Postgres表编写SQL，不需要显式调用这两个API，SQL会临时存储隐式调用API的结果。这不仅更简单，而且更快。针对示例2中配置的两个AWS帐户的所有区域运行boto3版本的代码需要3到4秒，而Steampipe版本的只需要1秒钟。当你有数十或数百个AWS帐户时，这种差异会体现得更加明显。可见Steampipe是一个高并发的API客户端。</p><p></p><h2>并发和缓存</h2><p></p><p>&nbsp;</p><p>如果你定义了一个聚合了多个账户的AWS连接（如示例2所示），Steampipe将会并发查询所有的账户。对于每一个帐户，它会同时查询所有指定的区域。因此，虽然示例3中初始查询花了大约1秒，但基于缓存TTL（默认为5分钟）的后续查询只花费了几毫秒。</p><p>&nbsp;</p><p>就像本例一样，我们通常可以基于缓存查询更多列或其他不同的列，并保持毫秒级的查询性能。这是因为aws_ec2_instance表是用单个AWS API调用的结果生成的。</p><p>&nbsp;</p><p>对于其他情况，比如aws_s3_bucket表，Steampipe组合了多个S3子API调用，包括GetBucketVersioning、GetBucketTagging和GetBucketReplication，这些调用也都是并发的。与其他API客户端一样，Steampipe也会受到速率限制。但它的并发性是主动式的，因此你可以快速对大量的云基础设施进行评估。</p><p>&nbsp;</p><p>注意，在查询像aws_s3_bucket这样的表时，最好是只请求需要的列。如果你确实需要所有列，那么可以select * from aws_s3_bucket。但如果你只关心account_id、instance_id、instance_state和region这些列，那么显式指定这些列（如示例1所示）可以避免不必要的子API调用。</p><p></p><h2>案例研究B：查找GCP漏洞</h2><p></p><p>&nbsp;</p><p>如果你的端点只存在于AWS中，那么示例3已经可以很好地解决这个问题。现在，我们加入GCP（谷歌云平台）。传统的解决方案要求你安装另一个API客户端，例如<a href=\"https://github.com/googleapis/google-cloud-python\">谷歌云Python客户端</a>\"，并学习如何使用它。</p><p>&nbsp;</p><p>在使用Steampipe时，你只需安装另一个插件：steampipe plugin install gcp。它的工作原理与AWS一样：调用API，将结果放入<a href=\"https://hub.steampipe.io/plugins/turbot/gcp/tables\">外部数据库表</a>\"中，这样你就可以将精力放在解决方案的逻辑上。</p><p>&nbsp;</p><p>只是此时的逻辑略有不同。在AWS中，public_ip_address是<a href=\"https://hub.steampipe.io/plugins/turbot/aws/tables/aws_ec2_instance#inspect\">aws_ec2_instance表</a>\"的一个列。在GCP中，你需要将查询计算实例的API和查询网络地址的API的调用结果组合起来。Steampipe将它们抽象为两个表：<a href=\"https://hub.steampipe.io/plugins/turbot/gcp/tables/gcp_compute_instance\">gcp_compute_instance</a>\"和<a href=\"https://hub.steampipe.io/plugins/turbot/gcp/tables/gcp_compute_address\">gcp_compute_address</a>\"。</p><p>&nbsp;</p><p>示例5：使用Steampipe查找GCP漏洞</p><p>&nbsp;</p><p><code lang=\"sql\">with gcp_info as (\n  select \n    i.id,\n    a.address\n  from\n    gcp_compute_address a\n  join\n    gcp_compute_instance i\n  on \n    a.users-&gt;&gt;0 = i.self_link\n  where\n    a.address_type = 'EXTERNAL'\n  order by\n    i.id\n)\nselect\n  g.id as instance_id,\n  s.ports,\n  s.vulns\nfrom \n  gcp_info g\nleft join\n  shodan_host s on g.address = s.ip;</code></p><p>&nbsp;</p><p>这个查询使用了两个语言特性，这可能会让很久没有使用SQL的人感到惊讶。WITH子句是一个公共表表达式（CTE），用于创建一个类似数据表的临时对象。用CTE管道形式编写的查询比单一查询更容易阅读和调试。</p><p>&nbsp;</p><p>a.users是一个JSONB列。-&gt;&gt;操作符用于定位它的第0个元素。JSON是数据库的一等公民，关系型风格和对象风格可以很好地混合在一起。这在将返回JSON数据的API映射到数据库表时就非常有用。插件开发者可以将一些API数据移到普通的列中，另一些移到JSONB列中。如何决定哪些数据移到什么类型的列中？这需要巧妙地平衡各种关注点，你只需要知道现代SQL支持灵活的数据建模。</p><p></p><h2>案例研究C：查找多个云平台的漏洞</h2><p></p><p>&nbsp;</p><p>如果你在AWS和GCP中都有公共端点，那么你可能希望将到目前为止看到的查询都结合起来。现在你知道该怎么做了。</p><p>&nbsp;</p><p>示例6：查找AWS和GCP的漏洞</p><p>&nbsp;</p><p><code lang=\"sql\">with aws_vulns as (\n  -- 插入示例4的内容\n),\ngcp_vulns as (\n  -- 插入示例5的内容\n)\n\n\nselect * from aws_vulns\nunion\nselect * from gcp_vulns;\n\n\n+-------+---------------------+----------+--------------------+\n| cloud | instance_id         | ports    | vulns              |\n+-------+---------------------+----------+--------------------+\n| aws   | i-06d8571f170181287 |          |                    |\n| aws   | i-0e97f373db42dfa3f | [22,111] | [\"CVE-2018-15919\"] |\n| gcp   | 8787684467241372276 |          |                    |\n+-------+---------------------+----------+--------------------+</code></p><p>&nbsp;</p><p>我们已经将示例4和示例5作为CTE管道。要将它们组合起来，只需要一个老式的SQL UNION。</p><p>&nbsp;</p><p>现在，你已经掌握了足够多的知识，你也可以在Oracle云或IBM云上使用CTE管道。你可能还想用你的公共IP地址查询Shodan的数据。有些插件可以进行反向DNS查找，将IP地址映射到地理位置，并检查是否存在已报告的恶意活动的地址。这里的每一个映射都涉及另一个API，但你不需要学习如何使用它们，它们会被建模成数据库表，你只需要用基本的SQL语句来查询这些表。</p><p></p><h2>它就是Postgres</h2><p></p><p>&nbsp;</p><p>我们说过，Steampipe不是一个数据仓库，为API调用结果创建的表只会被缓存一小段时间。针对这个系统所做的优化主要是为了实现对云基础设施的实时评估。Steampipe实际上就是Postgres，你可以完全把它当Postgres来用。如果你需要持久化实时数据，那就可以对它们进行持久化。</p><p>&nbsp;</p><p>示例7：将查询持久化为表</p><p>&nbsp;</p><p><code lang=\"sql\">create table aws_and_gcp_vulns as \n  -- 插入示例6的内容</code></p><p>&nbsp;</p><p>示例8：将查询保存为物化视图</p><p>&nbsp;</p><p>创建物化视图aws_and_gcp_vulns</p><p>&nbsp;</p><p><code lang=\"sql\">  -- 插入示例6的内容\n  -- 然后定时刷新物化视图aws_and_gcp_vulns</code></p><p>&nbsp;</p><p>示例9：使用Python拉取查询结果</p><p>&nbsp;</p><p><code lang=\"sql\">import psycopg2, psycopg2.extras\nconn = psycopg2.connect('dbname=steampipe user=steampipe host=localhost, port=9193')\ncursor = conn.cursor(cursor_factory=psycopg2.extras.DictCursor)\ncursor.execute('select * from aws_and_gcp_vulns')\nfor row in cursor.fetchall():\n  print(row['cloud'], row['instance-id'], row['vulns'])</code></p><p>&nbsp;</p><p>示例10：使用psql连接数据库</p><p>&nbsp;</p><p><code lang=\"sql\">psql -h localhost -p 9193 -d steampipe -U steampipe</code></p><p>&nbsp;</p><p>你也可以使用<a href=\"https://metabase.com/\">Metabase</a>\"、<a href=\"https://www.tableau.com/\">Tableau</a>\"或其他与Postgres兼容的工具连接数据库。</p><p>&nbsp;</p><p>总的来说，Steampipe API增强了整个Postgres生态系统。&nbsp;</p><p></p><h2>跳过繁琐的API，专注于任务处理</h2><p></p><p>&nbsp;</p><p>DevSecOps工程师的工作可能包括列出云资源、检查安全漏洞或审计合规性，这一切都需要用到云API返回的数据，而以可跟踪的形式获取这些数据通常会花费很多时间和精力。如果可以方便快速地访问API，并有一个可以处理API返回的数据的通用环境，你就可以专注于列出资源清单、进行安全检查和审计等工作。API噪音会对你和你的组织造成无法承受的干扰。不要让它们妨碍你真正的工作，即使你有了需要的数据，要做到这一点也是非常困难的。</p><p>&nbsp;</p><p>作者简介：</p><p>&nbsp;</p><p>Jon Udell是前BYTE杂志执行编辑，一位独立的Web开发者，InfoWorld的“首席博主”，微软布道者，hypothes.is的整合总监。他苦API已久，现在他很高兴可以将这些繁重的工作委托给Steampipe。他是Steampipe开源项目的社区负责人。</p><p>&nbsp;</p><p>原文链接：</p><p><a href=\"https://www.infoq.com/articles/steampipe-api-sql/\">API Friction Complicates Hunting for Cloud Vulnerabilities. SQL Makes it Simple</a>\"</p>",
+    "publish_time": "2022-07-23 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "Cheap junk flooding Amazon has brand names like MOFFBUZW",
+    "url": "https://twitter.com/ColeSouth/status/1550230795230781440",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32195987\">Comments on Hacker News</a> | <a href=\"https://twitter.com/ColeSouth/status/1550230795230781440\">Source</a>",
+    "publish_time": "2022-07-23 03:14:06",
+    "source": {
+      "name": "hackernews_best",
+      "desc": "Hacker News Best",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Hacker Lab Is Closing",
+    "url": "https://hackerlab.org/en",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32197708\">Comments</a>",
+    "publish_time": "2022-07-23 06:09:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "What I don’t like about working at a remote job",
+    "url": "https://www.priconceptions.com/notebook/remote-jobs-bad",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32197174\">Comments</a>",
+    "publish_time": "2022-07-23 05:11:36",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Google Fires Blake Lemoine, Engineer Who Called Its AI Sentient",
+    "url": "https://bigtechnology.substack.com/p/google-fires-blake-lemoine-engineer",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32198214\">Comments</a>",
+    "publish_time": "2022-07-23 07:09:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
