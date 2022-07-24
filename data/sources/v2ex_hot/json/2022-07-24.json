@@ -53,5 +53,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "如何在全程不接入显示器的状况下架设起一台服务器",
+    "url": "https://www.v2ex.com/t/868389",
+    "summary": "t41372: <p>近日想要在局域网里搞一台垃圾电脑当作服务器玩玩，但作为一名只有一台笔记本电脑的可怜学生党，我手上没有显示器和外接键盘，而且感觉仅仅为了设置一台服务器就搞一台显示器很诡异且麻烦。。</p>\n<p>我有看到过一种 network kvm ，好像可以用网路来存取服务器的显示画面和键鼠，但是我用的是宿舍的网，那个 network kvm 好像要接网线。。不知道接到宿舍墙上的以太网接口行不行</p>\n<p>我还有看到 aten cv211 ，可以把服务器的显示和键鼠用 usb 输出到笔记本电脑上，但这玩意贵出天际了。。</p>\n<p>有没有一种比较好的解决方案？难道大家在架设 nas 时都有显示器和键盘吗(额。。</p>",
+    "publish_time": "2022-07-24 18:18:34",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
