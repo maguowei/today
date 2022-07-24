@@ -31,5 +31,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "Linux 用了半个月还是逃回 macos 的几个疑问",
+    "url": "https://www.v2ex.com/t/868307",
+    "summary": "idblife: 1.飞书会议&amp;腾讯会议如何使用<br />2.exchange 邮箱如何使用会议室预定和日历管理<br />3.一个显示器 1080p ，一个 4k ，另外经常涉及开会外接投影仪，如何设置（这块 macos 不如 windows ）<br />4.远程桌面如何能达到 windows 的水平<br />5.office 套件除了 wps 外用啥最好",
+    "publish_time": "2022-07-24 09:46:05",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "zero Tier 卸载之后依然残留进程联网",
+    "url": "https://www.v2ex.com/t/868314",
+    "summary": "huaes: <p>一台 Mac mini ，不用 ZeroTier 之后就扔垃圾桶卸载了，今天看路由器端口转发发现居然还有联网信息，打开活动监视器后也发现 CPU 、内存、网络里有 Zero Tier 进程，这货偷偷摸摸的想干啥？还有谁知道怎么删干净？\n<a href=\"https://i.imgur.com/dNCEUKY.png\" rel=\"nofollow\">https://i.imgur.com/dNCEUKY.png</a></p>",
+    "publish_time": "2022-07-24 10:30:51",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
