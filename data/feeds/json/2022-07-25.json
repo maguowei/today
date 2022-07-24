@@ -1299,5 +1299,107 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "林志颖已清醒",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E9%A2%96%E5%B7%B2%E6%B8%85%E9%86%92%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "钱三一接林妙妙下班",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%92%B1%E4%B8%89%E4%B8%80%E6%8E%A5%E6%9E%97%E5%A6%99%E5%A6%99%E4%B8%8B%E7%8F%AD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "林妙妙被前男友骚扰",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%A6%99%E5%A6%99%E8%A2%AB%E5%89%8D%E7%94%B7%E5%8F%8B%E9%AA%9A%E6%89%B0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "数据显示《英雄联盟》仍然是网吧最受欢迎的游戏，为什么它的粘性这么高？",
+    "url": "https://www.zhihu.com/question/529081378",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "DwarFS: A fast high compression read-only file system",
+    "url": "https://github.com/mhx/dwarfs",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32216275\">Comments</a>",
+    "publish_time": "2022-07-25 02:33:28",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Stigler's Law of Eponymy",
+    "url": "https://en.wikipedia.org/wiki/Stigler%27s_law_of_eponymy",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32215686\">Comments</a>",
+    "publish_time": "2022-07-25 01:33:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Kubernetes for Developers Who Know How to Develop",
+    "url": "https://blog.ali.dev/engineering/2022/01/13/k8s-for-developers/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32216700\">Comments</a>",
+    "publish_time": "2022-07-25 03:21:39",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Oblique Strategies on GameBoy",
+    "url": "https://nickyflowers.itch.io/osgb",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32216948\">Comments</a>",
+    "publish_time": "2022-07-25 03:45:33",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The World That Twitter Never Made",
+    "url": "https://scholars-stage.org/the-world-that-twitter-never-made/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32216624\">Comments</a>",
+    "publish_time": "2022-07-25 03:13:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Samsung asks for planning permission for 11 fabs in Texas",
+    "url": "https://www.electronicsweekly.com/uncategorised/802190-2022-07/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32216363\">Comments</a>",
+    "publish_time": "2022-07-25 02:43:07",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
