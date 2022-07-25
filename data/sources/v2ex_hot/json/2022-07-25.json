@@ -64,5 +64,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "请问大家, 有没有办法把 Python 的 dict, 存储到一段连续内存上",
+    "url": "https://www.v2ex.com/t/868557",
+    "summary": "wcsjtu: <p>比如说, 我这里有个 </p>\n<pre><code class=\"language-python\">table: Dict[str, List[str]] = {\n\"key1\": [\"value1\", \"value2\", ...],\n    ...,\n    \"keyn\": [\"valuem\", ...]\n}\n</code></pre>\n<p>我想把这个 dict 中的所有对象(包括所有的 key, value, 以及 list), 全部存储到一段连续内存里, 同时还能支持查表操作, 比如说</p>\n<pre><code class=\"language-python\">values: List[str] = table_in_contigious_memory[\"key1\"]\n</code></pre>\n<p>有没有现成的轮子可以做这种事啊。</p>\n<p>PS: 可以不是 Python 原生的 Dict, 只要是 dict-like, 支持查表就行.....</p>",
+    "publish_time": "2022-07-25 15:08:32",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
