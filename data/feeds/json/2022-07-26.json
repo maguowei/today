@@ -1599,5 +1599,65 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "北京一男子划皮划艇上班",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%80%E7%94%B7%E5%AD%90%E5%88%92%E7%9A%AE%E5%88%92%E8%89%87%E4%B8%8A%E7%8F%AD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "杜普兰蒂斯撑杆跳6米21夺金",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%99%AE%E5%85%B0%E8%92%82%E6%96%AF%E6%92%91%E6%9D%86%E8%B7%B36%E7%B1%B321%E5%A4%BA%E9%87%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "只属于两个人的求婚方式",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%AA%E5%B1%9E%E4%BA%8E%E4%B8%A4%E4%B8%AA%E4%BA%BA%E7%9A%84%E6%B1%82%E5%A9%9A%E6%96%B9%E5%BC%8F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Embodied Carbon: The Dirty Secret of SSDs (8x More Than HDD)",
+    "url": "https://arxiv.org/abs/2207.10793",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32229814\">Comments</a>",
+    "publish_time": "2022-07-26 03:35:28",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: PickCode – An educational coding environment for students after Scratch",
+    "url": "https://www.pickcode.io/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32230329\">Comments</a>",
+    "publish_time": "2022-07-26 04:16:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Yes, the 8086 wanted to be mechanically translatable from the 8080, but",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20220725-00/?p=106889",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32229806\">Comments</a>",
+    "publish_time": "2022-07-26 03:35:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
