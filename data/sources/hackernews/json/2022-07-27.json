@@ -75,5 +75,60 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Retrofitting GDPR Compliance onto Legacy Databases [pdf]",
+    "url": "https://vldb.org/pvldb/vol15/p958-george.pdf",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32241923\">Comments</a>",
+    "publish_time": "2022-07-27 02:23:37",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Understanding modern Linux routing (and wg-quick)",
+    "url": "https://ro-che.info/articles/2021-02-27-linux-routing",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32241531\">Comments</a>",
+    "publish_time": "2022-07-27 01:57:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Shipping Multi-Tenant SaaS Using Postgres Row-Level Security",
+    "url": "https://www.thenile.dev/blog/multi-tenant-rls",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32241820\">Comments</a>",
+    "publish_time": "2022-07-27 02:16:22",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "CircleCI Announces Support for Gitlab",
+    "url": "https://circleci.com/blog/announcing-gitlab-support/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32242039\">Comments</a>",
+    "publish_time": "2022-07-27 02:31:54",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "LiteFS a FUSE-based file system for replicating SQLite",
+    "url": "https://github.com/superfly/litefs",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32240230\">Comments</a>",
+    "publish_time": "2022-07-27 00:14:28",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
