@@ -9,5 +9,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "如何确保移动硬盘的大量数据不会损坏？",
+    "url": "https://www.v2ex.com/t/868676",
+    "summary": "kerrspace: <p>小弟有一个问题，假设我不信任网盘（倒闭或者加密压缩文件都被乱杀和谐，百度云盘经常干这事）和类似群晖（故障毁盘，扩展能力有限）这样的软件，我就使用最原始的手工的办法，每一个移动硬盘都准备一个备份盘，譬如说 ABCDE 五个硬盘，我就有完全对称的 abcde 五个备份盘。</p>\n<p>现在问题来了，这样备份肯定隔一段时间就要确定数据有没有损坏，譬如对比 A 和 a ，如果 A 有坏道导致数据损坏，就 copy a 的内容到 A 。如果长时间不 check 肯定最后 a 和 A 都要损坏，备份就失去意义了。所以要经常比对</p>\n<p>大家有什么好的对比检测文件是否有损坏的方案吗？</p>\n<p>譬如说我全部打包成压缩包，只要压缩包能正常解压能不能说明文件一定没有损坏？\nstep 1. 统计 A 中能正常解压的压缩包\nstep 2. 统计 a 中能正常解压的压缩包\nstep 3. 把属于 A 但不属于 a 的压缩包从 A 复制到 a\nstep 4. 把属于 a 但不属于 A 的压缩包从 a 复制到 A</p>",
+    "publish_time": "2022-07-26 05:42:32",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "就目前国内的社交情况，真的有人完全不用微信吗？",
+    "url": "https://www.v2ex.com/t/868696",
+    "summary": "sundawang: <ul>\n<li>\n<p>今天在某乎看一篇帖子，看到一个答主说他不用微信。</p>\n</li>\n<li>\n<p>我有印象，之前在逛 v 站的时候，有 v 友也提到用 tg 、邮箱等工具，所以便有了这个主题。</p>\n</li>\n<li>\n<p>但是，在当前这个全民微信的时代，真的有人完全不用微信。</p>\n</li>\n<li>\n<p>如果不用微信，亲朋好友之间怎么联系呢？</p>\n</li>\n<li>\n<p>如果真的可以摒弃微信，我们的社交需求如何被满足呢？</p>\n</li>\n<li>\n<p>而且虽然微信存在一些问题，真的有必要摒弃它吗？</p>\n</li>\n<li>\n<p><strong>以上是我的真诚的一些发问，没有质疑的意思，有些不明就里，真心希望得到问题的解答。</strong></p>\n</li>\n<li>\n<p>如果可以，也希望大家就自己的微信及其他社交工具的使用情况 简单聊聊，做个参考。</p>\n</li>\n</ul>",
+    "publish_time": "2022-07-26 09:18:44",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "出国和留在国内与女朋友一起发展，怎么选择？",
+    "url": "https://www.v2ex.com/t/868723",
+    "summary": "Louis423Lee: 因公司业务发展需求，老板想派我去欧洲开展业务，先去一年。<br />我跟女友分享了这个消息，她觉得挺失落的，觉得我要离开她了，见面就更难了。昨晚还跟我闹分手，说支持我去，但是就不要谈了。我舍不得，三年的感情了。<br />刚听到这个消息的时候我觉得挺开心的，但是现在我觉得很为难，希望大家帮我分析一下。",
+    "publish_time": "2022-07-26 10:31:19",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
