@@ -646,5 +646,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "夏天必须要干什么事",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%8F%E5%A4%A9%E5%BF%85%E9%A1%BB%E8%A6%81%E5%B9%B2%E4%BB%80%E4%B9%88%E4%BA%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "关系最好的同事离开有多emo",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%B3%E7%B3%BB%E6%9C%80%E5%A5%BD%E7%9A%84%E5%90%8C%E4%BA%8B%E7%A6%BB%E5%BC%80%E6%9C%89%E5%A4%9Aemo%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "这幅水墨画动起来了",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B9%85%E6%B0%B4%E5%A2%A8%E7%94%BB%E5%8A%A8%E8%B5%B7%E6%9D%A5%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
