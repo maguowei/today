@@ -574,5 +574,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "微博会员有特权",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%BC%9A%E5%91%98%E6%9C%89%E7%89%B9%E6%9D%83%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "你这背景太假了小伙回应",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%BF%99%E8%83%8C%E6%99%AF%E5%A4%AA%E5%81%87%E4%BA%86%E5%B0%8F%E4%BC%99%E5%9B%9E%E5%BA%94%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
