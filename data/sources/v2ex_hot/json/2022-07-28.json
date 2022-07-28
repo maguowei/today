@@ -53,5 +53,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "能在商务本上玩的有哪些不沉迷的单机游戏",
+    "url": "https://www.v2ex.com/t/869187",
+    "summary": "libasten: <p>前一阵子出差，在酒店无聊，忽然想打 dota ，出差带的 thinkpad 跑 dota2 费力，于是 war3 客户端下载了，玩了许久 dota1 了，一下不可收拾了，经常又是和读书时候一样，经常玩到半夜不睡觉。</p>\n<p>在一天深夜 dota 的“贤者模式”后，赶紧删了。</p>\n<p>实在不敢玩 dota 了，这玩意一旦拾起来，一玩就通宵达旦。</p>\n<p>后面还要有出差时候，此刻说不下载了了，但是我自己都不敢保证不下载，请教一下可有别的什么小游戏推荐杀时间的？</p>",
+    "publish_time": "2022-07-28 10:59:40",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "js 写后台, 是不是有点先天残缺?",
+    "url": "https://www.v2ex.com/t/869194",
+    "summary": "bthulu: <p>最近在做一个面向企业内部生产运输的系统, 生产排程及排车排程算法异常复杂, js 原生容器字典非常简陋, 也缺乏对容器字典进行各种排序过滤反查的手段.<br />\n像 java 原生就支持多种集合字典, 不行还有 guava 来凑.<br />\nC#的 Linq 就更不用说了.<br />\n这几天 js 写的越多就越怀疑人生, 数据处理稍微复杂一点的啥都要自己写工具函数来干, 是不是我水平太菜了, 实际 js 是有简单现成的进行复杂的数据处理的办法的?</p>",
+    "publish_time": "2022-07-28 11:21:39",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
