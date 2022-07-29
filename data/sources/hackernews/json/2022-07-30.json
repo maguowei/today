@@ -42,5 +42,49 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Timsort – the fastest sorting algorithm you’ve never heard of",
+    "url": "https://skerritt.blog/timsort/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32278608\">Comments</a>",
+    "publish_time": "2022-07-30 00:00:25",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Appetite for Destruction: Indigenous Americans knew how to avoid starvation",
+    "url": "https://www.laphamsquarterly.org/roundtable/appetite-destruction",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32279186\">Comments</a>",
+    "publish_time": "2022-07-30 00:45:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Pachyderm (YC W15) is hiring React, Go devs to build reproducible data pipelines",
+    "url": "https://www.pachyderm.com/careers/#positions",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32279335\">Comments</a>",
+    "publish_time": "2022-07-30 01:00:21",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Linux RNG RFC Patch: implement getrandom() in vDSO",
+    "url": "https://lore.kernel.org/lkml/20220729145525.1729066-1-Jason@zx2c4.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32279024\">Comments</a>",
+    "publish_time": "2022-07-30 00:32:30",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
