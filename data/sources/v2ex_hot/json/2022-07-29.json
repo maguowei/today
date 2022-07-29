@@ -9,5 +9,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "昨晚看了极客湾的 M2 详细测评，我发现对于无风扇轻薄本最好的散热，就是什么都不加。",
+    "url": "https://www.v2ex.com/t/869378",
+    "summary": "tool2d: 理由很简单，没有风扇热量是吹不出去的。<br /><br />CPU 功耗产生的热量，无非是二选一，选择积压在 CPU 空气周围，还是选择通过均热板，让主板所有部件一起变热。<br /><br />M2 选择了前者方案，让主板一起加热不是一件好事，电容并不耐热。启用 Windows 之类均热板方案，CPU 还是会降频，不可能不降频，还会间接影响主板寿命。<br /><br />视频里通过 CPU 加导热硅脂片，自行改装了通过 D 面来散热，由于背板温度过高，对于用户体验超差，苹果最终也没有采用。",
+    "publish_time": "2022-07-29 09:21:33",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "想学习修电脑有什么途径吗？",
+    "url": "https://www.v2ex.com/t/869396",
+    "summary": "ng29: <p>背景:程序员，学过模电数电本科课程，哈哈</p>",
+    "publish_time": "2022-07-29 10:07:50",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
