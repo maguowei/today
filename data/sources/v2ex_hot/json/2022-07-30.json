@@ -42,5 +42,49 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "个人做微型 sass 平台，支付问题",
+    "url": "https://www.v2ex.com/t/869604",
+    "summary": "luffy: <p>如果做一个国内 sass 平台，</p>\n<p>个人有可通申请支付宝或者微信的在线支付功能嘛？</p>\n<p>如果不行，有其它付付渠道嘛？</p>",
+    "publish_time": "2022-07-30 10:07:20",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "最后没买 NAS，把钱花在磁带上了",
+    "url": "https://www.v2ex.com/t/869651",
+    "summary": "testcaoy7: <p>最近整理了一下电脑，然后开始整备份。</p>\n<p>备份的话，貌似最简单的办法是买几个移动硬盘？机械移动硬盘体质一般般，就怕摔一下，或者遇到品控不好的硬盘，反正总觉得不是很牢靠。SSD 更不打算考虑，整理出来的数据量大约 10T 不到，买多块大容量的 SSD 还是比较贵的。</p>\n<p>然后开始考虑买个 NAS ，其实我已经考虑很久了，组装机、品牌机的方案都考虑过，但最后还是没有选择。主要是 NAS 提供的各种功能我并不需要，我不跑虚拟机、Docker ，不需要局域网串流多媒体，我只要个牢靠的地方多保存一份数据的副本。</p>\n<p>最后花钱买了磁带（ LTO-5 ），便宜是真便宜，机房淘汰的机器 1K （免费赠送 HBA 卡），二手磁带 30 块一卷，LTO-5 磁带的非压缩容量是 1.5TB ，10 盘磁带如果完全不压缩的话可以装 15T ，才 300 块钱，比很多 Switch 游戏卡带还便宜……</p>\n<p>一家德企还提供了免费的磁带备份软件，提供一些诸如文件浏览、文件打包、增量备份之类的基本功能，个人用用足够了</p>\n<p>磁带写好后扔箱子里塞沙发底下了，增量备份的话，目测半年搞一次就行了，唯一美中不足的是，LTO-5 容量还是小了点（本想上 LTO-6 的，但是 LTO-6 机器贵了不少），然后每年要倒带一次，把磁带卷紧，算是维护吧。</p>",
+    "publish_time": "2022-07-30 15:56:27",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "蛙速云跑路了？",
+    "url": "https://www.v2ex.com/t/869674",
+    "summary": "Rrrrrr: <p>今天崩了半天，没有恢复的迹象</p>",
+    "publish_time": "2022-07-30 19:05:10",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "其实不光洗洁精，牙膏的正确使用方法绝大部分人也对此有误解",
+    "url": "https://www.v2ex.com/t/869678",
+    "summary": "340244120w: <p>正确使用牙膏的方式是刷完牙之后吐掉泡沫就行，不要用清水漱口。不然氟还来不及起效就被冲走了，起不到一个保护作用。 这样刷牙不光能强效预防蛀牙，口气也能得到很大改善。</p>\n<p>各位不妨长期试试。</p>",
+    "publish_time": "2022-07-30 19:19:57",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
