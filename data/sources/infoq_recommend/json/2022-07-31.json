@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Node-RED 3发布，改进了节点编辑器、运行时特性和调试功能",
+    "url": "https://www.infoq.cn/article/58oNsBAobWvIudHwhF46",
+    "summary": "<p><a href=\"https://nodered.org/\">Node-RED</a>\"是一种基于流的可视化编程环境，最初由IBM开发，主要针对物联网应用，现在已经发布了<a href=\"https://nodered.org/blog/2022/07/14/version-3-0-released\">3.0版本</a>\"。在这一版本中，节点编辑器带来了许多改进，控制流增加了新特性，等等。</p><p>&nbsp;</p><p>Node-RED 3.0中的新节点编辑器包含了一种新的特殊节点类型，叫作连接（Junction），其目的是让连线变得更容易些。开发者可以通过这个新的节点类型减少节点之间的连接造成的混乱，并使整体的流在视觉上看起来更简洁。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/5a/5ab6b876c27e5d5e0997702b886d7dee.png\" /></p><p>&nbsp;</p><p>此外，节点编辑器提供了一个新的上下文菜单，可以轻松访问常用功能，比如创建一个新节点，对节点进行剪切、复制和粘贴，删除节点，导出，等等。</p><p>&nbsp;</p><p>在Node-RED 3中调试子流变得更加容易，这要归功于调试侧边栏，现在只要将鼠标悬停在节点上，它就可以显示节点的完整位置。例如，如果一个节点输出了一些东西，无论是警告还是错误，你只要将鼠标悬停在它的名称上，就可以确切地知道该节点的位置。</p><p>&nbsp;</p><p>新的节点编辑器采用monaco作为默认文本编辑器，与ace相比，提供了更丰富的用户体验，不过ace仍然可用。微软Visual Studio Code也使用了monaco编辑器引擎，它将成为Node-RED 4中唯一受支持的编辑器。</p><p>&nbsp;</p><p>如前所述，Node-RED 3带来了控制如何运行流的新特性。用户现在可以在编辑器中停止和启动流。当流停止时，你就不能向它注入消息或调试它，但可以编辑它并部署变更。做好准备之后可以再次启动。这个特性是可选的，如果需要启用这个特性，你需要在settings.js中设置runtimeState选项。</p><p><code lang=\"javascript\">runtimeState: {\n   enabled: true,\n   ui: true\n}</code></p><p>&nbsp;</p><p>最后需要注意的是，Template节点现在可以使用语法{{env.VAR_NAME}}来访问环境变量。</p><p>&nbsp;</p><p>Node-RED 3涉及的东西比这里介绍的要多得多，所以不要错过官方发布的完整细节。</p><p>&nbsp;</p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2022/07/node-red-3-released/\">Node-RED 3 Improves Its Node Editor, Runtime Features, and Debugging</a>\"</p><p>&nbsp;</p>",
+    "publish_time": "2022-07-31 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
