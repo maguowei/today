@@ -1303,5 +1303,114 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "强军征途",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%BA%E5%86%9B%E5%BE%81%E9%80%94%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "于文文上汽奥迪音创大使",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%96%87%E6%96%87%E4%B8%8A%E6%B1%BD%E5%A5%A5%E8%BF%AA%E9%9F%B3%E5%88%9B%E5%A4%A7%E4%BD%BF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "暑期视频创想季",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9A%91%E6%9C%9F%E8%A7%86%E9%A2%91%E5%88%9B%E6%83%B3%E5%AD%A3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "六年级荒废了一整年，初一想努力还来得及吗？该怎么努力呢？",
+    "url": "https://www.zhihu.com/question/546276265",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "八月份准备考研来得及吗？应该怎么安排时间？",
+    "url": "https://www.zhihu.com/question/545886527",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "30 岁左右的女人，戴什么样的珠宝首饰更能凸显「高级感」？",
+    "url": "https://www.zhihu.com/question/306033415",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Markov Chains for Queueing Systems",
+    "url": "https://two-wrongs.com/markov-chains-for-queueing-systems",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32310665\">Comments</a>",
+    "publish_time": "2022-08-02 03:03:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Discord Switching to React Native for Android App",
+    "url": "https://discord.com/blog/android-react-native-framework-update",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32310392\">Comments</a>",
+    "publish_time": "2022-08-02 02:41:57",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The problem with big innovations",
+    "url": "https://www.indiehackers.com/post/the-problem-with-big-innovations-178e025ba8",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32308787\">Comments</a>",
+    "publish_time": "2022-08-02 00:47:35",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Game engines could help construction",
+    "url": "https://spectrum.ieee.org/unreal-engine",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32310842\">Comments</a>",
+    "publish_time": "2022-08-02 03:19:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Japan, U.S. to launch R&D for 2-nm chip mass production",
+    "url": "https://asia.nikkei.com/Business/Tech/Semiconductors/Japan-U.S.-to-launch-R-D-for-2-nm-chip-mass-production",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32310586\">Comments</a>",
+    "publish_time": "2022-08-02 02:57:17",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
