@@ -9,5 +9,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "Chrome 104 Mac 终于支持硬解 HEVC 了",
+    "url": "https://www.v2ex.com/t/870362",
+    "summary": "ililu: <p>添加下面这个启动参数就可以了\nopen /Applications/Google\\ Chrome.app --args --enable-features=PlatformHEVCDecoderSupport</p>\n<p>B 站设置：更多播放设置-播放策略-HEVC</p>",
+    "publish_time": "2022-08-03 10:01:32",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
