@@ -9,5 +9,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "谷歌搜索优化了带引号的特定关键词查询",
+    "url": "https://www.infoq.cn/article/8egiP1WHBF6kTIRfUuER",
+    "summary": "<p>本周，谷歌官方博客宣布优化了带引号的特定关键词搜索功能。</p><p></p><p>在谷歌搜索里，对搜索关键词加上引号是为了得到更精确的结果。比如，对想要搜索的特定关键词加上双引号，结果页面就只会显示包含该关键词的网页。举个例子，输入【“无线手机充电器”】，那么结果就会只显示完整匹配该关键词的搜索结果内容，而不是显示任意包含“无线”、“手机”或“充电器”的搜索结果。</p><p></p><p>如今，谷歌宣布在这个基础上，对“引号搜索”做了改进和优化：在搜索结果页展示搜索关键词出现的片段，这意味着在用户点击链接和访问内容后，可以更容易地确定在哪里找到它们；在桌面端，搜索结果还会加粗该关键词。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/9a/9a7dd11fab5e99ced6bc1e82a841ed35.png\" /></p><p></p><p>“在过去，我们并不总是这样做，因为有时引用的材料出现在文件的某些区域，而这些区域并不适合创建有用的片段。例如，一个单词或短语可能出现在一个页面的菜单项中，在那里你可以导航到网站的不同部分。围绕这样的部分创建一个片段可能不会生成易于阅读的描述。”谷歌搜索软件工程师Yonghao Jin说道。</p><p></p><p>而谷歌了解的反馈是，进行引用搜索的人更看重的是引用材料在页面上出现的位置，而不是页面的整体描述。因此本次改进是为了帮助解决这个问题。</p><p></p><p>关于是否要使用引号搜索，得看用户个人需求。对于高级用户来说，使用引号无疑是实用的。</p><p></p><p>不过谷歌通常会建议先用自然语言进行任何搜索，而不要求助于引号等运算符。在默认情况下，谷歌搜索系统被设计为既寻找所输入的准确单词和短语，又寻找相关的术语和概念，这通常是很有用的。如果用户使用引号搜索，这有可能会错过使用密切相关词汇的有用内容。</p><p></p><p>关于谷歌引用搜索的更多注意事项，可以点击链接查阅：<a href=\"https://blog.google/products/search/how-were-improving-search-results-when-you-use-quotes/\">https://blog.google/products/search/how-were-improving-search-results-when-you-use-quotes/</a>\"</p>",
+    "publish_time": "2022-08-06 21:46:26",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
