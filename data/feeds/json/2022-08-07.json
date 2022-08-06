@@ -1254,5 +1254,65 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "幼童被两只大狗撞飞1米多远",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BC%E7%AB%A5%E8%A2%AB%E4%B8%A4%E5%8F%AA%E5%A4%A7%E7%8B%97%E6%92%9E%E9%A3%9E1%E7%B1%B3%E5%A4%9A%E8%BF%9C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "义乌新增34例新冠病毒阳性感染者",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B9%89%E4%B9%8C%E6%96%B0%E5%A2%9E34%E4%BE%8B%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E9%98%B3%E6%80%A7%E6%84%9F%E6%9F%93%E8%80%85%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "三亚全市限制人员流动，约 8 万游客滞留，毒株系国内首次发现，对时空伴随人员赋黄码，目前当地情况如何？",
+    "url": "https://www.zhihu.com/question/547218152",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Steve Jobs negotiates Apple's deal with Microsoft",
+    "url": "https://www.techemails.com/p/apples-deal-with-microsoft",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32371009\">Comments</a>",
+    "publish_time": "2022-08-07 03:51:28",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Cramming 'Papers, Please' onto Phones",
+    "url": "https://dukope.com/devlogs/papers-please/mobile/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32371423\">Comments</a>",
+    "publish_time": "2022-08-07 04:43:36",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Why AlphaFold won’t revolutionise drug discovery",
+    "url": "https://www.chemistryworld.com/opinion/why-alphafold-wont-revolutionise-drug-discovery/4016051.article",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32370893\">Comments</a>",
+    "publish_time": "2022-08-07 03:35:27",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
