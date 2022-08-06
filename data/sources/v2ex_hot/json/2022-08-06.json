@@ -1,0 +1,13 @@
+[
+  {
+    "title": "关于分页只能写 sql 的痛苦",
+    "url": "https://www.v2ex.com/t/871007",
+    "summary": "garyxi24: 由于现在公司项目都是在数据库分页，只能写 sql 实现而且只能是一条 sql 。本人是个 sql 菜鸡，简单筛选还好说，复杂逻辑筛选用 sql 写就很痛苦，好不容易怼出来 sql 像💩一样，又臭又长，同样的逻辑如果内存分页比如用 java 去实现就可以很清晰、很舒服。<br />所以我是想请教一下有什么更好的分页方式，摆脱写 sql 的噩梦，上 es Hadoop  spark flink 这些大数据生态组件？",
+    "publish_time": "2022-08-06 01:59:20",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  }
+]
