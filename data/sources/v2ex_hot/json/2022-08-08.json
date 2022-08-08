@@ -42,5 +42,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "大家买过相机吗？最后吃灰了还是怎么样了？",
+    "url": "https://www.v2ex.com/t/871366",
+    "summary": "redtree: 最近有点想买相机，可能是单反或者是大疆之类的摄像机。但是以以前的经验大多数这样的东西都吃回来 /(ㄒoㄒ)/~~",
+    "publish_time": "2022-08-08 11:01:52",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "说 Go 语言写不了业务逻辑的请进",
+    "url": "https://www.v2ex.com/t/871389",
+    "summary": "Hanggi: <p>并不打算引战，单纯出于好奇。</p>\n<p><a href=\"https://github.com/gin-gonic/gin\" rel=\"nofollow\">https://github.com/gin-gonic/gin</a><br />\n<a href=\"https://github.com/beego/beego\" rel=\"nofollow\">https://github.com/beego/beego</a><br />\n<a href=\"https://github.com/labstack/echo\" rel=\"nofollow\">https://github.com/labstack/echo</a></p>\n<p>把前几名的 Go 语言后端框架加一起都 10 万星了。</p>\n<p><a href=\"https://github.com/spring-projects/spring-boot\" rel=\"nofollow\">https://github.com/spring-projects/spring-boot</a><br />\n<a href=\"https://github.com/laravel/laravel\" rel=\"nofollow\">https://github.com/laravel/laravel</a></p>\n<p>Gin 6 万 1 ，spring-boot 6 万 2 ，laravel 7 万。<br />\n虽然不能说明一且，但至少说明很多人在用。</p>\n<hr />\n<p>首先强类型语言灵活性肯定是不如脚本语言的，所以没必要争个高低，PHP 、Node.js 、Python 这类脚本语言写业务逻辑能力是最强的。</p>\n<p>但在可维护性上，强类型语言是比脚本语言好很多，所以 Typescript 的可维护性是远胜于 Javascript 的。</p>\n<hr />\n<p>回到 Go 语言，<br />\n首先要明确的是 Go 语言是一种为了最大化编译速度而牺牲语言特性的一种语言。</p>\n<p>很多人说 Go 语言写起来痛苦，说的其实是那些理应支持的语法糖或工具函数在 Go 语言里并不提供，而需要自己去写所带来的痛苦。不提供不意味着无法实现，只是让你用最基础的语法结构去实现，换来的是更快的编译速度和非常低的阅读门槛。</p>\n<p>对于 if err != nil 只说一句，Error 是一种值。<br />\n<a href=\"https://go.dev/blog/errors-are-values\" rel=\"nofollow\">https://go.dev/blog/errors-are-values</a><br />\n（过去也有人提议加入 Try Catch ，但都被否决了）   </p>\n<hr />\n<p>最后，还是要看你的需求是什么，Go 语言写业务逻辑可能不是最佳选择，但确实很多人在用 Go 写业务逻辑，它的特性满足了一些人的需求，特别是在云原生领域。</p>\n<p>说写不了的，可以把你的场景细节分享出来，<br />\n解决方案都是有的，接不接受是每个人自己的选择，但是光说 Go 语言写不了业务逻辑，又不说到底是什么场景。<br />\n谁能知道到底是 Go 语言写不了业务逻辑，还是你的编码或理解能力上有不足呢？</p>",
+    "publish_time": "2022-08-08 12:23:50",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
