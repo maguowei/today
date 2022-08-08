@@ -42,5 +42,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "腾讯发布Max二代机器人，能在梅花桩上完成跳跃、空翻等高难度动作",
+    "url": "https://www.infoq.cn/article/DEilqeqDWEZ3Ajmz6GDQ",
+    "summary": "<p></p><h2>腾讯正式发布四足机器人Max二代版本</h2><p></p><p></p><p>8月8日，腾讯正式发布Max二代机器人（以下简称Max）。据介绍，Max能够在梅花桩上完成旋转踏步、单桩跳跃、双轮站立等高难度动作。同时，过桩速度达到“前辈”Jamoca的4倍。</p><p></p><p><img src=\"https://static001.infoq.cn/resource/image/e1/f0/e118222d013ca01276895b1b8b3fcff0.gif\" /></p><p></p><p>据了解，Max是由腾讯Robotics X实验室自研的多模态四足机器人，采用原创的腿轮一体的本体设计，实现了“崎岖路面走得稳，平坦路面跑得快”。相比一代，Max在视觉感知、轨迹规划、运动控制等方面实现技术创新。同时，Max原创性地融合了机器人腿式与轮式运动模态，从硬件上的机械和电路设计，到软件上的系统框架和控制算法创新，使得Max在崎岖路面走得稳，在平坦路面跑得快，更契合人类社会的现实环境。</p><p></p><p>依托于机器人视觉定位、地形识别、全向六自由度运动规划、高精度模型预测控制等技术，Max能够对复杂地形进行精确识别，并且根据地形实时想好步子，避免踩歪、打滑、摔倒等风险。通过梅花桩复杂地形场景，以及精确落点跳跃等条件设置，成功验证了Max对复杂地形的适应能力。</p><p></p><p><img src=\"https://static001.infoq.cn/resource/image/6c/97/6caa28f028c4d5d1540f6ec59b61a197.gif\" /></p><p></p><p>在腾讯&nbsp;Robotics X&nbsp;实验室为Max设置的测试场景中，Max需要快速通过一个阵列全长10米，高0.8米（约为Max身高2倍）高低起伏的梅花桩阵列。想要顺利通过这一复杂地形，Max面对的挑战重重。首先，Max需要实时地形识别、建图，以应对密集细杆梅花桩这种复杂并带有轻微晃动的地形。看准地形后，Max需要根据地形规划适合的运动轨迹，自动调整俯仰、侧身与转向，从而适应高低起伏的地形。</p><p></p><p><img src=\"https://static001.infoq.cn/resource/image/e6/f2/e68aabeb02c61fb4f1d833b8373d67f2.gif\" /></p><p></p><p>从结果来看，Max在持续高频的冲击条件下，定位精度累计误差小于1%，地形识别精度小于2cm。</p><p></p><p><img src=\"https://static001.infoq.cn/resource/image/e9/18/e9ce654505d5bf89772d62ac34d8ca18.gif\" /></p><p></p><p>为更好保障Max力控精准度，腾讯Robotics X实验室在机器人移动能力和机身本体设计上都做了改良。Max具备触地检测能力，可准确判断足端触地状态，进行质心轨迹规划与柔顺力控，避免身体的大幅度振荡以及足端触地后的反弹，确保落地平稳与运动流畅。</p><p></p><p>同时，Max的机身本体在2021年版本基础上，完成了结构和电气系统的大量优化，能够应对跑、跳、翻等高动态动作产生的持续强力冲击，保证了本体的稳定性和可靠性。</p><p></p><p><img src=\"https://static001.infoq.cn/resource/image/4e/0a/4e3c864e37a801fe5ac9f966bc49620a.gif\" /></p><p></p><p>除移动表现的进步之外，Max在运动效率方面也有显著提升。Max在完成跳跃、空翻等高难度动作时，可规划出最省力的运动轨迹，即如何让所需的驱动力最小化。</p><p></p><p>具体来讲，Max可以根据目标跳跃距离、跳跃高度以及关节力矩限制等条件，计算出最优的跳跃轨迹，兼容四脚跳（Pronking）和双脚跳（Bounding）等步态。&nbsp;</p><p></p><p><img src=\"https://static001.infoq.cn/resource/image/25/a0/2555b7cc557254a8a02519ea55cce9a0.gif\" /></p><p></p><h2>自研模型算法，深度强化学习</h2><p></p><p></p><p>据悉，腾讯Robotics X实验室于2018年成立，目前实验室研究方向包括作为机器人基础技术的感知能力，以及灵敏运动、灵巧操控、智能体三大支柱技术，致力于智能协作机器人。</p><p></p><p>为更好完成跳跃、空翻等高动态动作所带来的对机器人控制精度的挑战，团队结合离线最优跳跃轨迹规划及实时平衡运动轨迹规划，自研了模型预测控制算法（Chi&nbsp;et&nbsp;al.,&nbsp;A&nbsp;Linearization&nbsp;of&nbsp;Centroidal&nbsp;Dynamics&nbsp;for&nbsp;the&nbsp;Model-Predictive&nbsp;Control&nbsp;of&nbsp;Quadruped&nbsp;Robots,&nbsp;ICRA&nbsp;2022）。</p><p></p><p>与此同时，腾讯Robotics X实验室也利用深度强化学习等AI技术，推进机器人智能研究，让机器人在虚拟环境中自主学习，更好地适应复杂环境的变化。</p><p></p><p>不同于预先设计好规则之后做重复任务的工业机器人，腾讯RoboticsX实验室更关注机器人的自主特性研究，目的就是要在有很大不确定性的动态环境里，能够实现机器人的自主判断、自主决策，并自主完成任务。</p><p></p><p>据实验室研究人员介绍，基于深度强化学习与sim2real等技术，Max用几个小时就能初步学会自然灵动的步态。作为腾讯Robotics X实验室自研的多模态四足机器人移动技术平台，Max的相关新技术与算法同时具备良好的迁移性，为实验室研发其他类型的移动机器人、适配潜在应用场景沉淀技术与经验。</p><p></p><p>未来，腾讯&nbsp;Robotics X实验室还将在机器人行业做全方位、多领域的探索，向人机共存、共创、共赢的未来不断迈进。</p>",
+    "publish_time": "2022-08-08 11:24:16",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
