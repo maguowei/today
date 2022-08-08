@@ -1882,5 +1882,550 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "油价",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B9%E4%BB%B7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "美方在台湾问题上犯了三方面错误",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%96%B9%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E7%8A%AF%E4%BA%86%E4%B8%89%E6%96%B9%E9%9D%A2%E9%94%99%E8%AF%AF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "王传君翻窗进屋把武大靖整懵了",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BC%A0%E5%90%9B%E7%BF%BB%E7%AA%97%E8%BF%9B%E5%B1%8B%E6%8A%8A%E6%AD%A6%E5%A4%A7%E9%9D%96%E6%95%B4%E6%87%B5%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "广东省运会决赛假球",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E7%9C%81%E8%BF%90%E4%BC%9A%E5%86%B3%E8%B5%9B%E5%81%87%E7%90%83%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "当事人回应滞留三亚7天将花18万",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94%E6%BB%9E%E7%95%99%E4%B8%89%E4%BA%9A7%E5%A4%A9%E5%B0%86%E8%8A%B118%E4%B8%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "乐华娱乐通过港交所聆讯",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B9%90%E5%8D%8E%E5%A8%B1%E4%B9%90%E9%80%9A%E8%BF%87%E6%B8%AF%E4%BA%A4%E6%89%80%E8%81%86%E8%AE%AF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "轰炸机双向穿越台湾海峡交会瞬间",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BD%B0%E7%82%B8%E6%9C%BA%E5%8F%8C%E5%90%91%E7%A9%BF%E8%B6%8A%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1%E4%BA%A4%E4%BC%9A%E7%9E%AC%E9%97%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "油价或现四连跌",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B9%E4%BB%B7%E6%88%96%E7%8E%B0%E5%9B%9B%E8%BF%9E%E8%B7%8C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "广东新增本土确诊37例",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A37%E4%BE%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "男子躲火车厕所裸聊遭对方敲诈",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%BA%B2%E7%81%AB%E8%BD%A6%E5%8E%95%E6%89%80%E8%A3%B8%E8%81%8A%E9%81%AD%E5%AF%B9%E6%96%B9%E6%95%B2%E8%AF%88%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "BLACKPINK晒睡衣照庆祝六周年",
+    "url": "https://s.weibo.com/weibo?q=%23BLACKPINK%E6%99%92%E7%9D%A1%E8%A1%A3%E7%85%A7%E5%BA%86%E7%A5%9D%E5%85%AD%E5%91%A8%E5%B9%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "CPA准考证",
+    "url": "https://s.weibo.com/weibo?q=%23CPA%E5%87%86%E8%80%83%E8%AF%81%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "三亚开通旅游涉疫电话",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BA%9A%E5%BC%80%E9%80%9A%E6%97%85%E6%B8%B8%E6%B6%89%E7%96%AB%E7%94%B5%E8%AF%9D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "被滞留三亚游客现状如何",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%BB%9E%E7%95%99%E4%B8%89%E4%BA%9A%E6%B8%B8%E5%AE%A2%E7%8E%B0%E7%8A%B6%E5%A6%82%E4%BD%95%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "鄱阳湖提前进入枯水期刷新历史纪录",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%84%B1%E9%98%B3%E6%B9%96%E6%8F%90%E5%89%8D%E8%BF%9B%E5%85%A5%E6%9E%AF%E6%B0%B4%E6%9C%9F%E5%88%B7%E6%96%B0%E5%8E%86%E5%8F%B2%E7%BA%AA%E5%BD%95%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "杨超越独竹漂少女",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E7%8B%AC%E7%AB%B9%E6%BC%82%E5%B0%91%E5%A5%B3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "82年的老鱼干",
+    "url": "https://s.weibo.com/weibo?q=%2382%E5%B9%B4%E7%9A%84%E8%80%81%E9%B1%BC%E5%B9%B2%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "有三亚酒店涨价超4倍",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%B8%89%E4%BA%9A%E9%85%92%E5%BA%97%E6%B6%A8%E4%BB%B7%E8%B6%854%E5%80%8D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "男子看全景地图发现和去世同学合影",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%9C%8B%E5%85%A8%E6%99%AF%E5%9C%B0%E5%9B%BE%E5%8F%91%E7%8E%B0%E5%92%8C%E5%8E%BB%E4%B8%96%E5%90%8C%E5%AD%A6%E5%90%88%E5%BD%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "沉浸式穿梭中国天眼",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%A9%BF%E6%A2%AD%E4%B8%AD%E5%9B%BD%E5%A4%A9%E7%9C%BC%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "西藏划定中风险区7个",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%97%8F%E5%88%92%E5%AE%9A%E4%B8%AD%E9%A3%8E%E9%99%A9%E5%8C%BA7%E4%B8%AA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "美政府纵容佩洛西窜台还指责中方「反应过度」，华春莹回击「证明美国政府一直是同谋」，有哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/547411270",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么一个创业公司开始狠抓考勤打卡了，就是要倒闭的节奏？",
+    "url": "https://www.zhihu.com/question/454797529",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "国务委员兼外长王毅表示「坚决抵制美方的公然挑衅和政治赌博」，台海局势或将如何演进？",
+    "url": "https://www.zhihu.com/question/547253449",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "孩子总是和大人顶嘴，该怎么改变这种沟通方式？",
+    "url": "https://www.zhihu.com/question/544535505",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价 7 月新番动画《莉可丽丝（Lycoris Recoil）》第六集？",
+    "url": "https://www.zhihu.com/question/547331863",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "印度小型卫星运载火箭( SSLV )首飞失利，有哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/547405049",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "土耳其扩大与俄贸易和能源合作，英媒称西方威胁将「惩罚性报复」，事态将如何发展？",
+    "url": "https://www.zhihu.com/question/547394723",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "军事专家称，台军不可能拦截到东风 17 等导弹的打击，有哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/547118638",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "8 月 8 日 6 时起至 19 时海南海口实行临时性全域静态管理，目前当地疫情情况如何？",
+    "url": "https://www.zhihu.com/question/547446092",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "北交所一周“5审5过”创纪录",
+    "url": "https://bjrbdzb.bjd.com.cn/bjrb/mobile/2022/20220808/20220808_008/content_20220808_008_1.htm?storyId=AP62f01d4ae4b0733381730f76&userID=DFE8B59E-9279-4577-84FA-529C5AF",
+    "summary": "上周5个工作日里，北交所上市委连开4次审议会议，审议5家企业的上市申请。根据审议结果公告，这5家闯关企业全部“符合发行条件、上市条件和信息披露要求”，也就是常说的“5过5”。下一步，5家企业发行上市将报送证监会注册，等待批复结果。资深新三板评论人、北京南山投资创始人周运南表示，“这创下了北交所单周上会次数和过会家数的双纪录。”（北京日报）",
+    "publish_time": "2022-08-08 08:44:48",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "6家基金年内调研超千次，聚焦新能源等领域",
+    "url": "http://www.news.cn/2022-08/08/c_1128897146.htm",
+    "summary": "今年以来，公募基金开启密集调研模式，调研力度显著超过去年同期。Wind数据显示，年内有124家公募基金对于A股公司进行百次以上的调研，119家调研公司家数超过百家，其中6家公募基金的年内调研次数均超过千次，嘉实基金、华夏基金、南方基金、富国基金、博时基金、广发基金这6家基金公司成为今年年内调研最“勤奋”的基金公司。从具体行业和产业链来看，新能源、高端制造成为公募基金重点关注领域。（经济参考报）",
+    "publish_time": "2022-08-08 08:46:54",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "增速连续回升，外贸持续向好显韧性",
+    "url": "http://www.news.cn/2022-08/08/c_1128897137.htm",
+    "summary": "8月7日，海关总署发布数据显示，今年前7个月，我国进出口总值23.6万亿元人民币，比去年同期增长10.4%。其中，7月份进出口总值3.81万亿元，同比增速进一步提升为16.6%。分析认为，我国进出口顶住压力，同比增速走出连续回升曲线，表明我国外贸实力强、韧性足。展望下半年，随着更多稳外贸政策落地显效，全年外贸有望持续向好，并向保稳提质目标迈进。（经济参考报）",
+    "publish_time": "2022-08-08 08:47:43",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "政策性开发性金融工具持续落地",
+    "url": "https://news.cnstock.com/news,yw-202208-4935116.htm",
+    "summary": "3000亿元政策性开发性金融工具持续落地。近日，国家开发银行、农业发展银行已将基础设施基金投放至多地重大项目。各地亦积极梳理上报项目清单，争取政策性开发性金融工具资金。总体来看，近期国家开发银行、农业发展银行投放的项目涉及高速公路、污水处理、城市更新改造、水利基础设施等，符合政策性、开发性金融工具的投向要求。（上证报）",
+    "publish_time": "2022-08-08 08:49:40",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "三季度首月中国纺织服装出口继续保持较快增长",
+    "url": "http://www.chinanews.com.cn/cj/2022/08-07/9822037.shtml",
+    "summary": "中国纺织品进出口商会7日披露，在外需扩张和价格上涨的共同拉动下，7月纺织服装出口继续攀升。按美元计，7月份中国纺织服装出口额在上月基础上继续保持增长，其中服装出口增幅较大，同、环比分别增长18.5%和8.8%。（中新网）",
+    "publish_time": "2022-08-08 08:50:43",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "国泰君安：关注科技新经济成长股和股价已充分调整的赛道龙头股",
+    "url": "https://www.yicai.com/brief/101498189.html",
+    "summary": "国泰君安研报认为，宏观流动性宽裕以及风险偏好两端走的市场演绎下，成长将从赛道龙头股向更具备交易结构优势、景气优势以及估值优势的板块扩散。下一阶段关注两大主题，一是转型背景下新能源、数字经济、自主可控等科技新经济成长股；二是存量经济下竞争优势扩大，并且股价已充分调整的赛道龙头股。（第一财经）",
+    "publish_time": "2022-08-08 08:53:33",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "麦当劳CEO：机器人代替人工适合上新闻但在餐厅里不实用",
+    "url": "https://tech.ifeng.com/c/8IItAQx5hRh",
+    "summary": "在麦当劳第二季度电话财报会议上，麦当劳首席执行官克里斯·肯普钦斯基被问及公司打算将机器人应用到何等程度时，他的回答出人意料，称机器人代替人工的这些想法，虽然适合上新闻，但在绝大多数餐馆中并不实用。肯普钦斯基补充说：“经济上来说并不划算，不一定有足够的空间，而且要投资很多基础设施，还要考虑效用和空气调节系统等等。暂时还没有基础广泛的解决方案。”（凤凰网科技）",
+    "publish_time": "2022-08-08 08:55:07",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "全国监测港口完成货物吞吐量环比增长2.1%",
+    "url": "https://content-static.cctvnews.cctv.com/snow-book/index.html?toc_style_id=feeds_default&share_to=wechat&item_id=6000571969024350668&track_id=D81F7A6D-8F21-4D4B-AF5D-23B2B58A16D2_681612939277",
+    "summary": "最新数据显示，8月7日，全国货运物流有序运行，监测港口完成货物吞吐量环比增长2.1%。（央视新闻）",
+    "publish_time": "2022-08-08 08:57:59",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "中原证券：服务业景气改善，市场局部反弹",
+    "url": "https://www.yicai.com/brief/101498200.html",
+    "summary": "中原证券指出，虽然疫情时有扰动，但国内服务业景气度持续改善。基建投资力度进一步加大，扩大有效需求政策继续推进。美国就业数据强劲，9月加息75个基点概率上升。国内市场局部反弹，建议关注农林牧渔、电子、计算机等行业。（第一财经）",
+    "publish_time": "2022-08-08 08:59:12",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "中信证券：下半年锂价上涨的确定性较高",
+    "url": "https://www.yicai.com/brief/101498291.html",
+    "summary": "中信证券研报指出，2022年第二季度澳洲锂精矿产量增长显著，但矿石品位下降、劳动力短缺等扰动因素依然存在。7月以来澳洲锂精矿售价涨至7000美元/吨，带动国内锂盐生产成本快速抬升。成本支撑下，下半年锂价上涨的确定性较高。锂精矿价格大涨使得锂原料保障的重要性不断提升，建议关注锂资源自给率高的企业。（第一财经）",
+    "publish_time": "2022-08-08 09:01:55",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "印度塔塔汽车收购福特印度工厂，斥资约9150万美元",
+    "url": "https://finance.sina.com.cn/tech/it/2022-08-08/doc-imizmscv5277803.shtml",
+    "summary": "据报道，印度最大综合性汽车公司塔塔汽车公司签署协议，以72.6亿卢比（9150万美元）收购福特汽车在印度西部古吉拉特邦的制造厂。塔塔汽车的子公司塔塔乘用电动汽车有限公司（TPEML）与福特印度私人汽车有限公司（FIPL）之间的这项协议涵盖土地、资产和所有合格员工。（新浪科技）",
+    "publish_time": "2022-08-08 09:04:26",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "中信建投：稀土市场供给偏紧格局未改，价格有望反弹",
+    "url": "https://www.yicai.com/brief/101498227.html",
+    "summary": "中信建投指出，7-8月是钕铁硼需求的传统淡季，受稀土市场需求低迷影响，2022年6月以来稀土价格有所回调。长期来看，稀土市场供给偏紧格局未改，预计2022年稀土开采冶炼控制指标仅上涨20%，预计伴随四季度需求旺季来临，稀土价格有望反弹。建议关注稀土开采及稀土回收企业。（第一财经）",
+    "publish_time": "2022-08-08 09:06:35",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "光电子集成芯片企业“奇芯光电”完成3.5亿元Pre-IPO轮融资",
+    "url": "https://36kr.com/newsflashes/1862023552276098",
+    "summary": "36氪获悉，近日，光电子集成芯片企业“奇芯光电”宣布完成3.5亿元Pre-IPO轮融资，投资方为深投控旗下投控东海管理的重庆南部基金。投控东海业务合伙人张更生表示，本轮投资将全力助推奇芯光电提升硅基改性材料体系综合性能和产业化能力，建立光电子一体化融合量产平台。",
+    "publish_time": "2022-08-08 09:08:18",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "方正证券：A股量能有望重新释放",
+    "url": "https://www.yicai.com/brief/101498183.html",
+    "summary": "方正证券认为，由于下半年地缘政治风波渐行渐远，加之内外扰动因素逐步淡化，短线大盘在新热点带领下还将继续上行，将挑战前期平台压力，随着市场对新热点的认可与追捧，A股量能有望重新释放，大盘在半导体、信息技术、人工智能、5G等硬核科技及应用科技带领下有望重启升势，走出新一轮上涨走势。（第一财经）",
+    "publish_time": "2022-08-08 09:09:15",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "国家卫健委：8月7日新增确诊病例380例，其中本土病例324例",
+    "url": "https://content-static.cctvnews.cctv.com/snow-book/index.html?toc_style_id=feeds_default&share_to=wechat&item_id=8620782611973496466&track_id=ED435789-0EE5-4C95-9200-C81759E20454_681613960277",
+    "summary": "据国家卫健委消息，8月7日0-24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例380例。其中境外输入病例56例（广东18例，福建9例，四川9例，上海7例，北京4例，广西4例，江苏2例，天津1例，黑龙江1例，云南1例），含6例由无症状感染者转为确诊病例（广东2例，四川2例，天津1例，福建1例）；本土病例324例（海南259例，广东37例，内蒙古12例，浙江4例，湖南3例，北京2例，河北2例，广西2例，湖北1例，重庆1例，四川1例），含42例由无症状感染者转为确诊病例（海南33例，浙江4例，湖南3例，广西2例）。无新增死亡病例。无新增疑似病例。31个省（自治区、直辖市）和新疆生产建设兵团报告新增无症状感染者560例，其中境外输入77例，本土483例（海南245例，浙江82例，新疆69例，河南25例，河北13例，兵团11例，广西10例，湖北9例，广东6例，山东3例，重庆3例，甘肃3例，内蒙古2例，吉林2例）。（央视新闻）",
+    "publish_time": "2022-08-08 09:13:56",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "两市融资余额减少31.59亿元",
+    "url": "https://www.yicai.com/brief/101498254.html",
+    "summary": "截至8月5日，上交所融资余额报8130.5亿元，较前一交易日减少6.55亿元；深交所融资余额报7015.41亿元，较前一交易日减少25.04亿元；两市合计15145.91亿元，较前一交易日减少31.59亿元。（第一财经）",
+    "publish_time": "2022-08-08 09:15:40",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "天齐锂业等12股获融资净买入超亿元",
+    "url": "http://www.egsea.com//news/detail/1240875.html",
+    "summary": "据wind统计，8月5日共有906只个股获融资净买入，净买入金额在千万元以上的有183只。其中，12只融资净买入额超1亿元。立昂微获融资净买入额居首，当日净买入2.82亿元；融资净买入金额居前的还有天齐锂业、斯达半导、长电科技、攀钢钒钛、通威股份、永兴材料、中兴通讯等股。（证券时报）",
+    "publish_time": "2022-08-08 09:17:18",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "美国FDA前局长：美国政府通过加强检测来控制猴痘疫情将“十分困难”",
+    "url": "https://content-static.cctvnews.cctv.com/snow-book/index.html?toc_style_id=feeds_default&share_to=wechat&item_id=14997143188803119269&track_id=E9CA415E-408D-48D6-BE23-B66A77BDC12B_681608629843",
+    "summary": "当地时间8月7日，美国食品和药物管理局（FDA）前局长斯科特·戈特利布表示，美国政府仍然可以通过加强检测来控制美国的猴痘疫情，但将“十分困难”。戈特利布指出，美国疾病控制与预防中心及其他卫生官员主要关注特定人群中的猴痘病例，一直不愿扩大检测范围，但猴痘的传播毫无疑问已经散步到更广的范围。戈特利布称，美国政府需要开始在更广泛的社区中进行检测，并且允许医生对看似不典型的疱疹患者进行猴痘测试。（央视新闻）",
+    "publish_time": "2022-08-08 09:19:00",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "日本2022年上半年国际收支经常项目顺差为35057亿日元",
+    "url": "https://content-static.cctvnews.cctv.com/snow-book/index.html?toc_style_id=feeds_default&share_to=wechat&item_id=17030331315905191985&track_id=940DFA9D-B6CA-4771-B7C3-D1DD6131A4DE_681612322744",
+    "summary": "日本财务省8日公布初步统计数据，包括贸易收支和投资收益等在内，日本今年上半年国际收支经常项目顺差为35057亿日元，相比去年同期减少63.1%。其中，6月份经常项目逆差为1324亿日元。（央视新闻）",
+    "publish_time": "2022-08-08 09:19:33",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "恒指开盘跌0.68%，科技股多数下跌",
+    "url": "https://36kr.com/newsflashes/1862036674500232",
+    "summary": "36氪获悉，恒指开盘跌0.68%，恒生科技指数开盘跌1.39%；科技股多数下跌，阿里巴巴跌超3%，小米、快手、百度、B站跌超2%；半导体、医药板块走高。",
+    "publish_time": "2022-08-08 09:21:39",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "架构师（2022年8月）",
+    "url": "https://www.infoq.cn/article/TE7LZS7fE1xtFLqFkARf",
+    "summary": "<h2>卷首语：前端团队做技术决策的五条原则</h2>\n<p>作者｜宝玉</p>\n<p>编辑｜辛晓亮</p>\n<p>今年上半年我曾经做过一个关于如何做架构设计的分享，其中有个很重要的话题是“如何更好地做技术决策“，针对我们的前端团队，我整理了 5 条做技术决策的原则。</p>\n<h3>原则 0：遵守公认的好的设计原则</h3>\n<ul>\n<li>DRY - Don’t Repeat Yourself（不要重复自己）</li>\n<li>KISS - Keep It Simple,Silly（让设计尽可能的简单）</li>\n<li>YAGNI - You aren’t gonna need it（只做刚刚好的设计，不要过度设计）</li>\n<li>其他</li>\n</ul>\n<h3>原则 1：找出最本源的需求，而不应该局限于当前的技术实现和资源</h3>\n<p>很多时候我们很容易被表面需求所误导，就像乔布斯的名言：“如果亨利福特在发明汽车之前去做市场调查，他得到的答案一定是大家想要一辆更快的马车”，如果我们在做设计和技术决策的时候，没有找出用户的真实需求，就会很容易在错误的方向上狂奔，做很多无用功。</p>\n<p>要找出本源的需求，就需要多问为什么，多和干系人沟通，少考虑技术细节，少被现有的技术所误导或局限。</p>\n<h4>案例：设计部门希望设计系统支持 Angular</h4>\n<p>我们设计部门最近希望我们的设计系统提供 Angular 版本，因为当前只支持 React 版本。</p>\n<p>从这个需求来看，表面上是要我们开发 Angular 版本，如果仔细追问他们到底为什么需要 Angular 版本，是因为有一个团队还在用 Angular。他们希望这个团队能使用我们的设计系统，但是对方表示用不了。</p>\n<p>其实本源的需求是希望有更多的团队使用我们的设计系统，而不是要单纯支持 Angualr。</p>\n<p>那要满足团队的这个需求，是不是非要做一个 Angular 版本不可呢？当然不需要。如果我提供一个类似于 BootStrap 的 HTML 和 CSS 版本，他们一样能用起来，而这么做成本不高，并且其他的团队也可以用。</p>\n<p>（更多案例可参考下图）</p>\n<p><img alt=\"\" src=\"https://static001.infoq.cn/resource/image/1f/dc/1ffdf843ebd967ac86b0128936026edc.png\" /></p>\n<h3>原则2：聚焦于 “收益”、“成本”和“风险”三者之间的平衡，而不是技术本身</h3>\n<p>每一次技术决策，其实本质上就是一次取舍（Trade-Offs）。</p>\n<p>每一次取舍（Trade-Offs），本质上就是在“收益”、“成本”和“风险”三者之间的平衡。</p>\n<p><img alt=\"\" src=\"https://static001.infoq.cn/resource/image/6d/38/6d0de0fd9ffe9f3ee47fb3f44542a738.png\" /></p>\n<p>既然每一个决策都涉及到收益成本风险，那么就不能只看收益而无视成本和风险。就像前一个案例中提到的，设计部门考虑的是 Angular 版本带来的收益，但是他们却忽略了打造一套 Angular 版本的设计系统所需要的成本，以及可能带来的巨大风险。</p>\n<p><img alt=\"\" src=\"https://static001.infoq.cn/resource/image/f1/0c/f14yyee1c7eb21d7f00a6556d0705e0c.png\" /></p>\n<p>所以在做技术决策的时候，理性考虑一下决策背后的收益、成本和风险的关系是很必要的，而不是仅靠喜好或者直觉来做决策。</p>\n<h3>原则3：选择某个技术背后的生态系统而不是某个技术</h3>\n<p>这条原则特别适用于前端领域，在前端，各种新技术、框架、工具层出不穷，如果总是追新，或者被某个软文吸引轻易选择了某个技术，往往最终会带来巨大的成本。</p>\n<h4>案例：我们为什么从 Preact 迁移到 React</h4>\n<p>在早些年的时候，我们前端选择了 Preact 作为 UI 渲染技术，这有早年 React License 的原因，也有 Preact 体积更小、性能更好的原因。</p>\n<p>然而在这几年的使用过程中，发现很多不足的地方，核心原因其实都是生态不够好。</p>\n<p>比如说 Preact 调试很麻烦，它不像 React 有一个强大的 DevTools；比如说我们遇到过 Preact 在服务端渲染的内存泄漏问题，如果像我们这样大规模访问量的用户多一点，可能早就有人踩过坑了，不需要我们去花很长时间定位并最终去解决这个问题；再比如最近我们在集成 Nextjs，Nextjs是完全为 React 设计的，对 Preact 兼容性并不好。</p>\n<p>这样的案例还很多（如下图），所以选择技术，它背后的生态和社区活跃度很重要。</p>\n<p><img alt=\"\" src=\"https://static001.infoq.cn/resource/image/96/50/96c0178e28224812410df025980ce750.png\" /></p>\n<h3>原则4：不仅要考虑如何构建，还要考虑如何维护</h3>\n<p>这是一个常见的问题，很多人只管搭建新项目的时候爽，而不管后续维护是不是困难，用了一堆自己喜欢的新技术，最后难以维护。下一个人接手了，搞不好会推翻重写一遍，这样的循环一次又一次。</p>\n<p><img alt=\"\" src=\"https://static001.infoq.cn/resource/image/69/4b/695f203862f3c79ca6f34aa908cd104b.png\" /></p>\n<p>这样的错误我也常犯，比如 2 年前 React Hooks 刚出的时候，我就迫不及待用它来替代 Redux。结果上线后发现不好维护，有 Bug 也不好定位，不像以前 Redux，数据流特别清晰，借助工具非常方便重现和定位问题，最终上线没多久就改回去了。</p>\n<p>所以现在在做技术决策的时候，我们很注意的一个问题就是将来的维护会不会很麻烦。包括我在做代码审查的时候，有时候看到一些功能能运行得很好的 PR、但是代码写得比较难懂的，或者说没有遵守最佳实践的，但只要会给未来的维护带来麻烦的，我都会毫不犹豫要求重写，尽可能避免增加日后的维护成本。</p>\n<p>最后简单总结一下上面就是我们现在实践的五个技术决策原则：</p>\n<ul>\n<li>原则 0：遵守公认的好的设计原则；</li>\n<li>原则 1：找出最本源的需求，而不应该局限于当前的技术实现和资源；</li>\n<li>原则 2：聚焦于 “收益”、“成本”和“风险”三者之间的平衡，而不是技术本身；</li>\n<li>原则 3：选择某个技术背后的生态系统而不是某个技术；</li>\n<li>原则 4：不仅要考虑如何构建，还要考虑如何维护。</li>\n</ul>\n<p>这些原则绝大部分时候都可以很好地帮助我们做出正确的决策，避免踩坑。我也会一直在反思曾经做过的决策，对于不太好的决策，会反过来考虑是否要修订这些原则，最终通过不断完善决策原则，帮助我和团队更好地做出技术决策。</p>\n<p><strong>作者简介</strong></p>\n<p>宝玉，前微软 Asp.Net 最有价值专家，互联网科技博主。</p>\n<h2>目录</h2>\n<p><strong>热点 | Hot</strong><br />\n搞不定移动端性能，全球爆火的 Notion 从 Hybrid 转向了 Native<br />\n放弃 GitHub，现在正是时候？<br />\n这群 WebAssembly 大佬创业失败了：有时从 JS 迁移到 Wasm 并不值当？</p>\n<p><strong>理论派｜Theory</strong><br />\n详解“洋葱架构”<br />\n下一代负载均衡的思考与实践</p>\n<p><strong>推荐文章 | Article</strong><br />\n编程不适合 12 小时工作制，“我有灵感才工作” | 专访《Java 编程思想》作者 Bruce Eckel<br />\n多领域试水，WebAssembly 距离大规模应用还有多远？（最后一段的会议广告和图片删去）</p>\n<p><strong>观点 | Opinion</strong><br />\nRust for Linux 要来了，这对我们意味着什么</p>",
+    "publish_time": "2022-08-08 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "BuildZoom (YC W13) Is hiring a Product Manager",
+    "url": "https://jobs.lever.co/buildzoom",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32379904\">Comments</a>",
+    "publish_time": "2022-08-08 05:07:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Mysterious holes on the seafloor",
+    "url": "https://oceanexplorer.noaa.gov/news/oer-updates/2022/mysterious-holes-seafloor/mysterious-holes-seafloor.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32379066\">Comments</a>",
+    "publish_time": "2022-08-08 03:26:35",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The “bicameral mind” 30 years on (2007)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/17509238/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32380731\">Comments</a>",
+    "publish_time": "2022-08-08 06:55:06",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Why does gRPC insist on trailers?",
+    "url": "https://carlmastrangelo.com/blog/why-does-grpc-insist-on-trailers",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32380769\">Comments</a>",
+    "publish_time": "2022-08-08 06:59:19",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
