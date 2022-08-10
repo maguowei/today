@@ -20,5 +20,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "教培行业凉了快一年了，想问问现在是什么状况",
+    "url": "https://www.v2ex.com/t/871823",
+    "summary": "vcfghtyjc: 未成年是不是真的不补课了？有没有起到减负效果？有没有海外注册教培公司，用 vpn 提供网课这等奇技淫巧？<br /><br />过了一年，相对来说不是什么热点话题，噪音可能会小一点。希望大家可以提供自己一手的 data point ，尽量不要“我朋友”，“我同事”，“我听说”。<br /><br />最后希望大家理性讨论，不要吵架。",
+    "publish_time": "2022-08-10 09:17:48",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "日经贴： 32G 和 16G",
+    "url": "https://www.v2ex.com/t/871837",
+    "summary": "zhouchijian: 前端开发，需求是写点页面，跑下 electron ，开个 windows 虚拟机打包 electron 客户端，写点 node ，跑个 docker 。<br /><br />纠结买 16G 还是 32G ，个人倾向 32G ，因为平时在 windows 做开发，16G 感觉不太够用，尤其是搞 electron 的时候，内存占用 99%，打字都卡。<br /><br />PDD 百亿补贴只有 16G （我是没找到有 32G 的了），淘宝某腾讯员工店有 32G ，但不知道靠不靠谱。<br /><br />十分纠结这个内存",
+    "publish_time": "2022-08-10 09:48:56",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "随便扯几个前端糟粕 ✅",
+    "url": "https://www.v2ex.com/t/871848",
+    "summary": "fulvaz: <p>月经贴看到从 xx 开始学前端觉得不适。</p>\n<p>哎，都没骂对点上，让我好着急，我来替你们说。</p>\n<p>以下情况的语境都是浏览器上。（在 Node 想做啥就做啥，有什么好骂的</p>\n<h2>不支持多线程</h2>\n<p>eventloop 一看到巨型应用立刻躺平摆烂：“老夫不行了，你自己想办法拆任务到其他 frame 执行吧”。</p>\n<p>好家伙，这是赤裸裸威胁，要么等久一点（递归 MessageChannel ），要么卡成狗（阻塞主进程），8 核 CPU 硬生生变成单核。</p>\n<p>WebWorker ？整挺好，就是 IPC 通信也是要时间的，想想序列化一个对象意味着什么。</p>\n<p>SharedArrayBuffer 这个不错，就是要想想怎么操作二进制。</p>\n<h2>瘸腿的异步任务管理</h2>\n<p>异步任务，比如 promise ，setTimeout 触发的，不去 monkeypatch 或者改业务代码根本不知道他们要执行多久，什么时候开始执行。</p>\n<p>ok ，大型应用一堆业务一起做异步任务，哦吼，卡成狗。</p>\n<p>面对一堆无法感知的任务，在风中凌乱。</p>\n<h2>无法监控的 OOM 和卡死</h2>\n<p>懂的都懂。</p>\n<p>我觉得，如果一个开发愿意舔着脸求客户提供 chrome 日志去查问题，那么雇佣这个开发的企业应该给他发双倍工资。 （ PS：我没求过）</p>\n<p>如果那个开发还能分析 chrome 日志并定位问题，那么应该给他发三倍。</p>\n<p>多出来的一倍拿去植发。</p>\n<p>可能 chrome 老哥觉得重启挺好的。</p>\n<h2>其他 （给某些老哥的素材）</h2>\n<p>求求了，什么时候有优先队列？都叫 java ，怎么多了几个字母还变菜了，是不是写前端的数据结构不会用？ （狗头保命</p>\n<p>PS：别骂 0.1+0.2 = 0.30000000000000004 了, 当年都不知道是谁这么腹黑，放这么直的钩。</p>\n<p>就酱，希望大家在前端娱乐圈玩得开心~</p>",
+    "publish_time": "2022-08-10 10:15:49",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
