@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Grafana 9在警报和用户体验方面带来巨大改进",
+    "url": "https://www.infoq.cn/article/k2tWvtKrSIpKIxloqfdN",
+    "summary": "<p>开源工具Grafana已经发布了<a href=\"https://grafana.com/docs/grafana/latest/release-notes/release-notes-9-0-0/\">9.0版本</a>\"。9.0版本的关键目标是改进用户体验，让可观察性和数据可视化变得更容易和可访问，并改进警报功能。</p><p>&nbsp;</p><p><a href=\"https://vimeo.com/720004179\">可视化查询构建器</a>\"首次出现在Grafana 9中，它提供了更简单、更直观的方法来查看数据。这是为Prometheus（被广泛采用的警报和监控工具）和Grafana Loki（Grafana的日志聚合工具）而设计的。这个版本还提供了一个高分辨率的直方图可视化仪表盘面板。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/44/44f7375206b023409185a1136fd9d251.png\" /></p><p></p><p>以前，在Grafana中构建查询的唯一方法是编写PromQL，而编写和理解PromQL需要经历一个艰难的学习过程，这对于新用户来说是一项艰巨的任务。有了新的可视化查询构建器，任何人都可以通过一个可搜索的下拉菜单选择指标，并用可视化界面来构建查询。指标和标签都可以这么操作，最大限度地提高了易用性。用户还可以在构建起界面和代码模式之间切换，修改的东西不会丢失。</p><p>&nbsp;</p><p>此外，“浏览到仪表盘”工作流允许用户直接在“浏览”模式下创建仪表盘。这意味着用户现在可以直接创建一个他们需需的视图并将其保存为仪表盘，不需要复制查询并在仪表盘创建模式中进行粘贴，这避免了很多可能出现的错误。</p><p>&nbsp;</p><p>热图面板的性能得到了改进，并且添加了对调色板的粒度控制，可用于改进数据的可视化效果。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/99/99f2708f2ae3cc04ff243bc6039d10e7.png\" /></p><p></p><p>新版本添加了一个命令面板，对于那些喜欢使用键盘进行浏览和搜索的人来说，这提高了他们的工作效率。</p><p>&nbsp;</p><p>在之前的版本中，警报的变更被作为测试功能，现在已经成为默认选项，并带来了以下几个方面的改进。</p><p>&nbsp;</p><p>现在，跨数据源和Grafana部署的警报都得到了简化。警报现在可以基于单一规则，无论它们是否绑定到特定的面板或仪表盘。警报现在可以是多维的——因此一个警报可以由多个触发规则的组件触发。警报的分组和路由也得到了改进，通知策略允许管理员将警报捆绑在一起——防止多个警报触发时可能出现的通知大爆发。现在可以细粒度控制警报静音，允许管理员在特定时间（如周末）阻止发送通知，并临时关闭已存在的警报通知。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/b8/b8b8cf72d7ea2bb875e3d9be15449e56.png\" /></p><p></p><p>最后，Grafana企业版包含了更多的改进。报告功能得到了改进，现在可以将多个仪表盘添加到单个报告中，并将仪表盘的一个静态图像嵌入报告。Grafana Enterprise 9.0还包含了对信封加密和RBAC（基于角色的访问控制）的改进。</p><p>&nbsp;</p><p>Grafana 9.0现已可用。</p><p>&nbsp;</p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2022/07/grafana-9-released/\">Grafana 9 Brings Big Improvements to Alerting and User Experience</a>\"</p><p>&nbsp;</p>",
+    "publish_time": "2022-08-10 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
