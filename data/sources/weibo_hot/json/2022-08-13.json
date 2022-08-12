@@ -592,5 +592,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "离琼申请",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%A6%BB%E7%90%BC%E7%94%B3%E8%AF%B7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "中国男子暴雨中勇救韩国老夫妇",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90%E6%9A%B4%E9%9B%A8%E4%B8%AD%E5%8B%87%E6%95%91%E9%9F%A9%E5%9B%BD%E8%80%81%E5%A4%AB%E5%A6%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
