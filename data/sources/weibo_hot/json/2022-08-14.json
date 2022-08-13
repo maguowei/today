@@ -520,5 +520,41 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "ITZY你是我的姐",
+    "url": "https://s.weibo.com/weibo?q=%23ITZY%E4%BD%A0%E6%98%AF%E6%88%91%E7%9A%84%E5%A7%90%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "游乐园又多了一个伤心的人",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B8%B8%E4%B9%90%E5%9B%AD%E5%8F%88%E5%A4%9A%E4%BA%86%E4%B8%80%E4%B8%AA%E4%BC%A4%E5%BF%83%E7%9A%84%E4%BA%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "尹正买西瓜",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%B9%E6%AD%A3%E4%B9%B0%E8%A5%BF%E7%93%9C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "王一博电子科幻风破次元大秀",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%94%B5%E5%AD%90%E7%A7%91%E5%B9%BB%E9%A3%8E%E7%A0%B4%E6%AC%A1%E5%85%83%E5%A4%A7%E7%A7%80%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
