@@ -700,5 +700,14 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "沈腾马丽年度最受欢迎演员",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E9%A9%AC%E4%B8%BD%E5%B9%B4%E5%BA%A6%E6%9C%80%E5%8F%97%E6%AC%A2%E8%BF%8E%E6%BC%94%E5%91%98%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
