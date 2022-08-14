@@ -53,5 +53,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "[求助]openclash 出现大量的上传连接，消耗了上百 G 机场流量",
+    "url": "https://www.v2ex.com/t/872764",
+    "summary": "xjx0524: <a href=\"https://v2ex.com/t/870828\" rel=\"nofollow noopener\" target=\"_blank\">https://v2ex.com/t/870828</a><br />上次发帖说流量异常的问题，升级了套餐，重置了订阅连接，今天又发现跑掉了 100G 流量。。。<br />观察 yacd 控制面板里，有大量异常的连接，src 和 dst ip 都是外网 ip<br /><a href=\"https://www.v2ex.com/i/ZffL94hq.png\" rel=\"nofollow noopener\" target=\"_blank\" title=\"在新窗口打开图片 ZffL94hq.png\"><img class=\"embedded_image\" src=\"https://i.v2ex.co/ZffL94hq.png\" /></a><br /><br />软路由重新拨号后就正常了，但是担心还会再出现问题，请教下怎么排查呢？<br /><br />固件 OpenWrt R21.3.27 GDQ v4.1[2021] Compiled by eSir<br />openclash v0.45.47-beta",
+    "publish_time": "2022-08-14 14:15:14",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "telegram 如何保障交易安全",
+    "url": "https://www.v2ex.com/t/872772",
+    "summary": "wkfyynh: <p>大佬们，本人小白一个，用了 telegram 快一年了，大多时候都用来 ghs 了，也没有好好利用过这里面的各种资源。\n因为上面骗子太多，担心交易安全。比如我想买某个资源，别人也不提供线下交易，如果保障交易安全呢？大多数资源不提供担保交易，我也不太了解担保的流程如何保障安全交易，不清楚其中细节。\n有懂得老哥帮忙提供个思路，或者给个关键字让我 google 学习学习，感谢。。</p>",
+    "publish_time": "2022-08-14 15:41:54",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "问一下大家的话费套餐都是什么样的，比较一下好知道我被坑了多少。",
+    "url": "https://www.v2ex.com/t/872790",
+    "summary": "JackCh3ng: 目前用的是联通的冰激凌 5G 套餐 69 元档，一个月 350 分钟通话，24G 流量。",
+    "publish_time": "2022-08-14 18:24:50",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
