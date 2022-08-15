@@ -9,5 +9,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "[送兑换码] 我的第一款 iOS 平台 App 小而美的短信智能拦截工具",
+    "url": "https://www.v2ex.com/t/872853",
+    "summary": "imNull: <p>大家好，我开发了一款 iOS 平台的 [短信拦截] 工具，本地离线运行、无网络请求权限，保护隐私。</p>\n<p><a href=\"https://imgur.com/6YPjsN2\" rel=\"nofollow\"></a></p>\n<p>有需要的小伙伴可以在 app store 下载： <a href=\"https://apps.apple.com/cn/app/%E7%9F%AD%E4%BF%A1%E6%8B%A6%E6%88%AA/id1639460076\" rel=\"nofollow\">https://apps.apple.com/cn/app/%E7%9F%AD%E4%BF%A1%E6%8B%A6%E6%88%AA/id1639460076</a></p>\n<p>今天刚上架，如果觉得不错，欢迎给个好评呀，如果使用有疑问或意见建议，也欢迎评论提出来，感谢。</p>\n<p>付费软件 1 元，无内购。\n兑换码在 append</p>\n<h1>拦截原理</h1>\n<p>基于 iOS 提供的 信息过滤扩展 来实现短信拦截，独立且无网络化运行。</p>\n<ul>\n<li>\n<p>自定义拦截：通过您配置的 号码号段白名单、号码号段黑名单，来匹配短信发件人和短信内容，进行过滤。</p>\n</li>\n<li>\n<p>智能拦截：通过作者收集的短信样本和用户提交的样本进行机器学习，使用 Apple 提供的 CoreML 技术来提供数据模型，进行过滤。</p>\n</li>\n</ul>\n<p>智能拦截准确度的提升离不开所有用户的贡献，如遇到拦截不准确的情况，还请戳戳屏幕提交错误报告，感谢。</p>",
+    "publish_time": "2022-08-15 08:02:54",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "人脑为什么不能被 ROOT？",
+    "url": "https://www.v2ex.com/t/872896",
+    "summary": "kisshere: 大脑作为最高指挥官，底层操作权限啥都没有，身高体重胖瘦完全没法自主控制，导致在求偶市场中完全没竞争力而导致自身基因没法延续下去，试想如果大脑获取了 ROOT 权限：<br />今天命令鼻梁高一点，明天命令腿长长一点，眼睛大一点，<br /><br />强制命令腹肌、胸肌必须猛长，每天下达任务：肌肉长到什么程度了？今天下班前务必汇报给我<br /><br />对头顶的皮肤下命令：要么长头发，要么滚蛋，你不干有的是皮肤干。<br /><br />控制所有吃下去的所有肥肉、炸鸡全部不准吸收<br /><br />不出一个月一朵崭新的帅哥就诞生了<br /><br />而这，只需要获取大脑 ROOT 权限而已，就这么简单，这方面是不是一个创业风口",
+    "publish_time": "2022-08-15 10:31:23",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
