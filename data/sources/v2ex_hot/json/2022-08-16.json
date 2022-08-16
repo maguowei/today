@@ -75,5 +75,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "这个技术太神奇了,是怎么实现的?",
+    "url": "https://www.v2ex.com/t/873199",
+    "summary": "axwz88: <p>这是个 VIP 帐号的共享软件,界面像一个聊天软件,然后点击对应的网站就会自动运行浏览器,访问对应的网站,关键是访问网站以后是直接就登录了会员了,像下面的图片的样子</p>\n<img class=\"embedded_image\" rel=\"noreferrer\" src=\"https://yun-1301303154.file.myqcloud.com/tp1.png\" />\n<img class=\"embedded_image\" rel=\"noreferrer\" src=\"https://yun-1301303154.file.myqcloud.com/tp2.png\" />\n<p>然后发现这里有个访问代理的设置,关闭访问代理帐号就自动退出了</p>\n<img class=\"embedded_image\" rel=\"noreferrer\" src=\"https://yun-1301303154.file.myqcloud.com/tp3.png\" />\n<p>第一次见到这种技术,感觉好神奇阿,有没有大神知道实现的原理是什么?</p>",
+    "publish_time": "2022-08-16 14:04:54",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "ios16 这个剪贴板确认也太烦了",
+    "url": "https://www.v2ex.com/t/873231",
+    "summary": "neptuno: 有没有大佬说一下，怎么全局拒绝某个应用的剪贴板提醒的",
+    "publish_time": "2022-08-16 15:44:01",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
