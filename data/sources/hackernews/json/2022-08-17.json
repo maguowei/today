@@ -625,5 +625,38 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Remove my password from lists so hackers won't be able to hack me",
+    "url": "https://github.com/danielmiessler/SecLists/pull/155",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32493870\">Comments</a>",
+    "publish_time": "2022-08-17 16:44:55",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Aparté – Simple XMPP console client written in Rust",
+    "url": "https://github.com/paulfariello/aparte",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32494200\">Comments</a>",
+    "publish_time": "2022-08-17 17:48:11",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "RavynOS – Finesse of macOS, freedom of FreeBSD",
+    "url": "https://ravynos.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32492514\">Comments</a>",
+    "publish_time": "2022-08-17 12:55:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
