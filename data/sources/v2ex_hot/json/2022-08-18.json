@@ -53,5 +53,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "新一代 Intel 为啥不学一下苹果 M1/M2 的 SoC 设计， CPU 集成内存呢？",
+    "url": "https://www.v2ex.com/t/873674",
+    "summary": "tool2d: 物理距离 CPU 越近了，性能肯定就越高。<br /><br />反正新一代 CPU ，都是需要重新设计主板的，可以直接把 CPU 面积做大，集成内存。<br /><br />这样就没双通道内存的问题，组个 256 通道都可以，肯定能显著提升内存性能。",
+    "publish_time": "2022-08-18 11:06:36",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "大家公司的项目代码会写的尽善尽美吗",
+    "url": "https://www.v2ex.com/t/873709",
+    "summary": "voidmnwzp: 比如命名变量讲究，尽量低耦合设计，接口测速，尽可能的优化和压榨性能等等，我之前写业务代码是打算这么做，但又想到这些个代码又不属于自己，优化的再好老板也不会给加工资，想通后所以现在是估期多估 2d ，尽量快速完成开发，至于优化啥的等测试提再说，没提是最好，然后剩下时间全用来写自己的开源项目，好歹 GitHub 上的项目写在简历上面试官可能会看",
+    "publish_time": "2022-08-18 12:43:50",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
