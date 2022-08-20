@@ -97,5 +97,27 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "A competitive multiplayer version of Conway's Game of Life",
+    "url": "http://lifecompetes.com",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32534109\">Comments</a>",
+    "publish_time": "2022-08-21 02:23:28",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Brian Kernighan adds Unicode support to Awk",
+    "url": "https://github.com/onetrueawk/awk/commit/9ebe940cf3c652b0e373634d2aa4a00b8395b636",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32534173\">Comments</a>",
+    "publish_time": "2022-08-21 02:32:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]

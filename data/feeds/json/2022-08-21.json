@@ -1222,5 +1222,81 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "顾客换菜被拒咒店主未出生孩子",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E6%8D%A2%E8%8F%9C%E8%A2%AB%E6%8B%92%E5%92%92%E5%BA%97%E4%B8%BB%E6%9C%AA%E5%87%BA%E7%94%9F%E5%AD%A9%E5%AD%90%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "母女开门起静电引发煤气爆炸",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%AF%8D%E5%A5%B3%E5%BC%80%E9%97%A8%E8%B5%B7%E9%9D%99%E7%94%B5%E5%BC%95%E5%8F%91%E7%85%A4%E6%B0%94%E7%88%86%E7%82%B8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "RNG伤害",
+    "url": "https://s.weibo.com/weibo?q=%23RNG%E4%BC%A4%E5%AE%B3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "语文如何答好阅读理解？",
+    "url": "https://www.zhihu.com/question/283042760",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么很多神话或者传说里都有“不能回头”/“不能偷看”但是主人公一定会违反的故事？",
+    "url": "https://www.zhihu.com/question/539919623",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "英语这种毫无规律的语言是怎么被造出来的？",
+    "url": "https://www.zhihu.com/question/523005869",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "A competitive multiplayer version of Conway's Game of Life",
+    "url": "http://lifecompetes.com",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32534109\">Comments</a>",
+    "publish_time": "2022-08-21 02:23:28",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Brian Kernighan adds Unicode support to Awk",
+    "url": "https://github.com/onetrueawk/awk/commit/9ebe940cf3c652b0e373634d2aa4a00b8395b636",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32534173\">Comments</a>",
+    "publish_time": "2022-08-21 02:32:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
