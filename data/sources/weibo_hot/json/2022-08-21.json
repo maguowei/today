@@ -511,5 +511,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "谁是型格BATTLE终极冠军",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%98%AF%E5%9E%8B%E6%A0%BCBATTLE%E7%BB%88%E6%9E%81%E5%86%A0%E5%86%9B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "外交部驻港公署正告外部宵小",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E9%A9%BB%E6%B8%AF%E5%85%AC%E7%BD%B2%E6%AD%A3%E5%91%8A%E5%A4%96%E9%83%A8%E5%AE%B5%E5%B0%8F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
