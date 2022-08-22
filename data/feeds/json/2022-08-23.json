@@ -1142,5 +1142,94 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "三星折叠屏真的会爱",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%98%9F%E6%8A%98%E5%8F%A0%E5%B1%8F%E7%9C%9F%E7%9A%84%E4%BC%9A%E7%88%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "北京各高校严格校门管理",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%90%84%E9%AB%98%E6%A0%A1%E4%B8%A5%E6%A0%BC%E6%A0%A1%E9%97%A8%E7%AE%A1%E7%90%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "小兰花要死了",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%85%B0%E8%8A%B1%E8%A6%81%E6%AD%BB%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "林峯粤语新歌楼下有人",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%B3%AF%E7%B2%A4%E8%AF%AD%E6%96%B0%E6%AD%8C%E6%A5%BC%E4%B8%8B%E6%9C%89%E4%BA%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "什么品质的投影仪，能将各种娱乐氛围感拉满，3A 游戏也能轻松掌控？",
+    "url": "https://www.zhihu.com/question/549119023",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Pigeon – Send Messages by Carrier Pigeon",
+    "url": "https://flypigeon.co/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32554401\">Comments</a>",
+    "publish_time": "2022-08-23 01:18:18",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "OpenAI API pricing update FAQ",
+    "url": "https://help.openai.com/en/articles/6485334-openai-api-pricing-update-faq",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32554594\">Comments</a>",
+    "publish_time": "2022-08-23 01:32:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Solving my truck’s TPMS sensor problem with the help of an RTL-SDR dongle",
+    "url": "https://www.downtowndougbrown.com/2022/08/solving-my-trucks-tpms-sensor-problem-with-the-help-of-an-rtl-sdr-dongle/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32553597\">Comments</a>",
+    "publish_time": "2022-08-23 00:19:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Starting Sep 1, GPT-3 is becoming 3X Cheaper",
+    "url": "https://openai.com/api/pricing/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32553903\">Comments</a>",
+    "publish_time": "2022-08-23 00:42:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
