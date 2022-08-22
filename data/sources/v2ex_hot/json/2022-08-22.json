@@ -64,5 +64,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "一个全自动管理 Brook 的 Web UI",
+    "url": "https://www.v2ex.com/t/874442",
+    "summary": "thisismr2: <ul>\n<li>全自动部署 brook</li>\n<li>用户注册 /支付 /添加节点会自动触发部署 brook</li>\n<li>甚至永远不需要登录节点机器</li>\n<li>用户注册</li>\n<li>流量统计</li>\n<li>多端口多用户</li>\n<li>单端口多用户</li>\n<li>审计规则</li>\n<li>多级别 VIP/多级别线路</li>\n<li>订单及支付</li>\n<li>自动生成订阅链接</li>\n<li>禁用 /恢复用户</li>\n<li>一行命令部署</li>\n<li>内置数据库</li>\n<li>或 mysql 数据库</li>\n<li>每月 1 号重置所有用户流量</li>\n<li>当用户到期自动清除其节点</li>\n<li>同时也支持添加你自己手动部署的 brook link 和流量统计</li>\n<li>...</li>\n</ul>",
+    "publish_time": "2022-08-22 09:19:48",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "2022 年了，移动端岗位需求已经无了吧？",
+    "url": "https://www.v2ex.com/t/874461",
+    "summary": "pirate0brook: <p>发现 iOS ，Android 岗位都少的可怜，招聘人，都是半月内活跃啥的，题主在 SAAS 软件行业，切身体会到小程序，H5 ，对移动端的冲击。好多公司都放弃了出力不讨好的移动端。</p>",
+    "publish_time": "2022-08-22 10:06:20",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
