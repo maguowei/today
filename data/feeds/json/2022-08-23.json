@@ -1500,5 +1500,85 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "这很朴树",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%BE%88%E6%9C%B4%E6%A0%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "沙特阿拉伯批准微软收购暴雪",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF%E6%89%B9%E5%87%86%E5%BE%AE%E8%BD%AF%E6%94%B6%E8%B4%AD%E6%9A%B4%E9%9B%AA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何评价游戏《黑神话：悟空》放出的歌曲「戒网」？",
+    "url": "https://www.zhihu.com/question/549185911",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何看待 SNH48 第九届总选结果？",
+    "url": "https://www.zhihu.com/question/549293916",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Show HN: Colorizing Infrared Images with AI, Using Photoshop and DeOldify",
+    "url": "https://blog.maxg.io/colorizing-infrared-images-with-photoshop/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32557508\">Comments</a>",
+    "publish_time": "2022-08-23 05:27:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "U-M researchers untangle the physics of high-temperature superconductors",
+    "url": "https://www.nanotechnologyworld.org/post/u-m-researchers-untangle-the-physics-of-high-temperature-superconductors",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32556546\">Comments</a>",
+    "publish_time": "2022-08-23 04:09:46",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Gmail will call the cops on you based on the content of your emails",
+    "url": "https://pluralistic.net/2022/08/22/allopathic-risk/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32557294\">Comments</a>",
+    "publish_time": "2022-08-23 05:08:14",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Replit (YC W18) Is Hiring ML engineers to invent the future of software",
+    "url": "https://replit.com/careers",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32557196\">Comments</a>",
+    "publish_time": "2022-08-23 05:00:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
