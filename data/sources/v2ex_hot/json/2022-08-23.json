@@ -1,0 +1,35 @@
+[
+  {
+    "title": "分享一下自己做的 monospace 字体，已开源",
+    "url": "https://www.v2ex.com/t/874714",
+    "summary": "subframe75361: <p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://github.com/subframe7536/Maple-font/raw/v5/img/head.svg\" /></p>\n<h2>Maple Mono</h2>\n<p>只有基础拉丁文(英数+符号) 以及 制表符 (目前够用了)</p>\n<p><a href=\"https://github.com/subframe7536/Maple-font\" rel=\"nofollow\">项目地址</a></p>\n<ul>\n<li>圆角，主要是没找到有圆角的等宽字体才去自己做的</li>\n<li>参考了 Source Code Pro, Fira Code, ubuntu mono, operator mono, sarasa mono sc nerd 等优秀字体</li>\n<li>修改了<code>@ # $ % &amp;</code>的形状</li>\n<li>有连字</li>\n<li>花体的斜体</li>\n<li>中英文间距 2:1 <img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://github.com/subframe7536/Maple-font/raw/v5/img/CE21.png\" /></li>\n</ul>\n<h3>基础</h3>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://github.com/subframe7536/Maple-font/raw/v5/img/base.png\" /></p>\n<h3>连字</h3>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://github.com/subframe7536/Maple-font/raw/v5/img/ligature.png\" /></p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://github.com/subframe7536/Maple-font/raw/v5/img/ligature.gif\" /></p>\n<h3>React</h3>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://github.com/subframe7536/Maple-font/raw/v5/img/code_sample/react.webp\" /></p>\n<h3>Java</h3>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://github.com/subframe7536/Maple-font/raw/v5/img/code_sample/java.webp\" /></p>\n<h3>Python</h3>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://github.com/subframe7536/Maple-font/raw/v5/img/code_sample/python.webp\" /></p>\n<h2>Maple Mono SC NF</h2>\n<p>Maple Mono + 中英文 2:1 + Nerd Font 控制台字体\n目前我的 IDE + Terminal 字体都是这个</p>\n<p><img class=\"embedded_image\" rel=\"noreferrer\" /><a href=\"https://ibb.co/1dJ3B2j\" rel=\"nofollow\">https://ibb.co/1dJ3B2j</a></p>",
+    "publish_time": "2022-08-23 09:36:41",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "怎么防止同事用 Evil.js 的代码投毒",
+    "url": "https://www.v2ex.com/t/874717",
+    "summary": "woniuppp: <p><a href=\"https://www.bilibili.com/video/BV1fe4y1o7kV/\" rel=\"nofollow\">怎么防止同事用 Evil.js 的代码投毒-视频版 B 站</a></p>\n<p>最近<code>Evil.js</code>被讨论的很多，项目介绍如下</p>\n<p><img alt=\"2022-08-22-16-17-24.png\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/86f824223a07420b97a332f80ac5a2fe%7Etplv-k3u1fbpfcp-watermark.image?\" /></p>\n<p>项目被发布到 npm 上后，引起了激烈的讨论，最终因为安全问题被 npm 官方移除，代码也闭源了</p>\n<p>作为一个前端老司机，我肯定是反对这种行为，泄私愤有很多种方式，代码里下毒会被 git log 查到，万一违法了，还不如离职的时候给老板一个大逼兜来的解恨</p>\n<p>今天我们来讨论一下，如果你作为项目的负责人，如何甄别这种代码下毒</p>\n<ol>\n<li>检测函数的 toString</li>\n<li>iframe</li>\n<li>node 的 vm</li>\n<li>ShadowRealm api</li>\n<li>Object.freeze</li>\n<li>备份检测</li>\n</ol>\n<p><a href=\"https://www.bilibili.com/video/BV1fe4y1o7kV/\" rel=\"nofollow\">怎么防止同事用 Evil.js 的代码投毒-视频版 B 站</a></p>\n<p><a href=\"https://www.zhihu.com/question/548993982/answer/2640578880\" rel=\"nofollow\">怎么防止同事用 Evil.js 的代码投毒-完整代码</a></p>",
+    "publish_time": "2022-08-23 09:40:24",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "最近老是和老婆吵架，她老是觉得结婚我占大便宜了",
+    "url": "https://www.v2ex.com/t/874728",
+    "summary": "enzo26: <p>结婚的时候，婚房用的对象首套名额，房子首付是我全出，房子写女方名字（目前每月 1 万多房贷也是我还），装修家电材料都是我买的，她爸是搞装修的算出了个人力。彩礼我没给，他也没有带任何嫁妆。二线城市，婚礼教堂租了场地 3000 ，婚宴 3500 一桌。三金对戒 4000 多，项链 2000 多，手表 2000 多，另外她想拍短视频，就买了相机 5000 ，她研究生不想要家里钱，学费我出的 2 万左右。我每月给她 2000 零花钱，家里水电，出去吃饭。。。都是我在出钱。前几天说拍写真 2000 多，我给了 1500 ，又看上一件衣服 1000 多，感觉想让我出钱。我有点不乐意，然后就吵架了。他总觉得我不给她花钱，就不爱她。我自己本身比较节俭，买 4,5 百的东西，就要考虑好久，或打折才买，她花钱有时候不看性价比，乱花钱。差不多一个月吵架一次，好烦。</p>",
+    "publish_time": "2022-08-23 10:33:39",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  }
+]
