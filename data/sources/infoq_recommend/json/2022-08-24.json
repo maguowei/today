@@ -42,5 +42,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "GitHub 删除被制裁开源项目源代码，密码学教授不满并发布分支",
+    "url": "https://www.infoq.cn/article/msqr0mRXqK1WCQNWLlTF",
+    "summary": "<p>近期，由于越来越多黑客将盗来的虚拟货币转入Tornado Cash，<a href=\"https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20220808\">OFAC（美国财政部海外资产控制办公室）</a>\"8月8日宣布对其进行制裁，具体如下：</p><p>&nbsp;</p><p></p><blockquote>GitHub 上的 Tornado Cash 组织、tornado.cash 网站、由以太坊基础设施提供商 Alchemy 和 Infura 运行的 RPC 节点、比特币应用程序 CirclePay 中 Tornado Cash 合约上的 $USDC，以及Tornado Cash 智能合约应用程序中提供虚拟货币混合的大约 40 个以太坊区块链地址。</blockquote><p></p><p>&nbsp;</p><p>根据对这些制裁的解释，<a href=\"https://www.infoq.cn/article/6rgiJ3Wzi2FDcrdR3NNA\">GitHub</a>\"关闭了为该项目贡献代码的三个开发者帐户：Roman Semenov、Roman Storm和Alexey Pertsev，并删除了<a href=\"https://github.com/tornadocash/\">Tornado Cash 帐户</a>\"以及存储库中的源代码。</p><p>&nbsp;</p><p>这之后，本周一，约翰霍普金斯大学密码学教授 Matthew Green 在电子前沿基金会 (EFF) 的支持下发布了该软件的<a href=\"https://github.com/tornado-repositories\">另一个分支</a>\"。</p><p>&nbsp;</p><p>Green 表示自己发布的分叉是为了测试代码删除是否是对制裁的适当回应。如果 GitHub 将代码撤下，EFF 将在法庭上对这一决定提出质疑。</p><p>&nbsp;</p><p>Green 和 EFF 的副执行董事兼总法律顾问 Kurt Opsahl 此前对 GitHub 删除源代码表示担忧。他们认为代码就是言论，GitHub 通过禁用 Tornado Cash 存储库来压制言论。</p><p>&nbsp;</p><p>“在我作为约翰霍普金斯大学的研究员和讲师的工作中，我广泛使用 Tornado Cash 和 Tornado Nova 源代码来教授与加密货币隐私和零知识技术相关的概念，”Green在 Tornado 回购协议的解释笔记中写到。</p><p>&nbsp;</p><p>“我的学生从代码中构建了令人惊叹的项目。此源代码的丢失或可用性降低将对科学和技术社区造成伤害。”他将 GitHub作出这一决定的原因归于降低OFAC命令带来的风险，但他认为这件事的问题在于OFAC的命令并不明确。</p><p>&nbsp;</p><p>此外，8月12日，荷兰财政信息和调查服务局（FIOD）在阿姆斯特丹逮捕了一名涉嫌参与 Tornado Cash 软件开发的人员。FIOD表示，这名29岁的男子隐瞒犯罪资金流动，并为洗钱提供便利。</p><p>&nbsp;</p><p>对此，Cardano创始人Charles Hoskinson表示，开发人员可以使用开源代码来编写代码，但却无法控制人们在代码发布后如何使用代码。在大多数情况下，代码就只是文字，并不是由编写者告诉人们去做某件事。</p><p>&nbsp;</p><p>CharlesHoskinson补充道，作为开发人员，当我们编写代码时，它只是一种表达方式。只要我们不参与代码的运行和使用，我们就只是在编写它；这就像是写一本书。TornadoCash开发者只是编写了在技术上可以以某种方式使用的代码。</p><p>&nbsp;</p><p>参考链接：</p><p>&nbsp;</p><p><a href=\"https://www.theregister.com/2022/08/24/github_eff_tornado_cash/\">https://www.theregister.com/2022/08/24/github_eff_tornado_cash/</a>\"</p><p><a href=\"https://www.theregister.com/2022/08/15/tornado_cash_suspect_arrested/\">https://www.theregister.com/2022/08/15/tornado_cash_suspect_arrested/</a>\"</p>",
+    "publish_time": "2022-08-24 12:07:58",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
