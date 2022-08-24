@@ -1550,5 +1550,87 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "天猫超级品牌周",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E7%8C%AB%E8%B6%85%E7%BA%A7%E5%93%81%E7%89%8C%E5%91%A8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "能不能给我一个可以控制自己脾气的方法？",
+    "url": "https://www.zhihu.com/question/549651778",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价汪峰新专辑《也许我可以无视死亡》？",
+    "url": "https://www.zhihu.com/question/549759636",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美股三大指数集体收涨，热门中概股涨幅居前",
+    "url": "https://36kr.com/newsflashes/1885962326528006",
+    "summary": "36氪获悉，24日收盘，美股三大指数集体上涨，道指涨0.19%，标普500指数涨0.29%，纳指涨0.41%。热门中概股多数上涨，每日优鲜涨超8%，知乎、爱奇艺涨超6%，拼多多涨超5%，百度、京东、蔚来、36氪涨超3%，阿里巴巴、B站涨近3%。大型科技股涨跌不一，Netflix涨超2%，Meta涨1.33%，苹果、特斯拉、亚马逊小幅上涨，微软、谷歌小幅下跌。",
+    "publish_time": "2022-08-25 07:00:05",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Find Sensitive Information",
+    "url": "https://github.com/rusty-ferris-club/shellclear",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32586144\">Comments</a>",
+    "publish_time": "2022-08-25 05:41:30",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "V-memo a new directive to improve your Vue 3 app performance",
+    "url": "https://zelig880.com/introducing-v-memo-a-new-directive-to-improve-your-vue-3-app-performance",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32586477\">Comments</a>",
+    "publish_time": "2022-08-25 06:12:03",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Smarking (YC W15) Is Hiring a Product Lead to digitize the parking industry",
+    "url": "https://jobs.lever.co/smarking/3e6e8c04-8aaa-48f5-86e5-70386f857c55",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32585694\">Comments</a>",
+    "publish_time": "2022-08-25 05:01:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "“Pinterest” for Dalle-2 images and prompts",
+    "url": "https://openart.ai/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32586439\">Comments</a>",
+    "publish_time": "2022-08-25 06:08:45",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
