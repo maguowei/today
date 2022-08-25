@@ -295,5 +295,38 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Soketi: Simple, Fast and Resilient open-source WebSockets server",
+    "url": "https://soketi.app/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32600698\">Comments</a>",
+    "publish_time": "2022-08-26 06:22:29",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Chez Scheme",
+    "url": "https://github.com/cisco/ChezScheme",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32600000\">Comments</a>",
+    "publish_time": "2022-08-26 05:10:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "1Password delisting forum posts critical of their new Electron based 1Password 8",
+    "url": "https://1password.community/discussion/128419/version-8-in-the-apple-app-store/p6",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32600677\">Comments</a>",
+    "publish_time": "2022-08-26 06:20:36",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
