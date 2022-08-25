@@ -1421,5 +1421,36 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "重庆群众自发背物资徒步上山",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E7%BE%A4%E4%BC%97%E8%87%AA%E5%8F%91%E8%83%8C%E7%89%A9%E8%B5%84%E5%BE%92%E6%AD%A5%E4%B8%8A%E5%B1%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Kuymak – Cross-platform shellcode runner",
+    "url": "https://github.com/blue-devil/kuymak",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32599293\">Comments</a>",
+    "publish_time": "2022-08-26 04:05:35",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: MQZiti – Zero Trust MQTT server and client",
+    "url": "https://github.com/ekoby/mqziti",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32599167\">Comments</a>",
+    "publish_time": "2022-08-26 03:55:27",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
