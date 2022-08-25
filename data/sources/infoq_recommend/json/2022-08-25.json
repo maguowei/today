@@ -1,0 +1,13 @@
+[
+  {
+    "title": "谷歌推出Bigtable联邦查询，实现零ETL数据分析",
+    "url": "https://www.infoq.cn/article/cfBjW6rIGjIfU4LhjezU",
+    "summary": "<p>最近，<a href=\"https://www.infoq.cn/topic/google\">谷歌</a>\"宣布Bigtable联邦查询普遍可用，用户通过BigQuery可以更快地查询Bigtable中的数据。此外，查询无需移动或复制所有谷歌云区域中的数据，增加了联邦查询并发性限制，从而缩小了运营数据和分析数据之间长期存在的差距。</p><p>&nbsp;</p><p>BigQuery是谷歌云的无服务器、多云数据仓库，通过将不同来源的数据汇集在一起来简化数据分析。Cloud Bigtable是谷歌云的全托管NoSQL数据库，主要用于对时间比较敏感的事务和分析工作负载。后者适用于多种场景，如实时欺诈检测、推荐、个性化和时间序列。</p><p>&nbsp;</p><p>在以前，用户需要使用ETL工具（如Dataflow或者自己开发的Python工具）将数据从Bigtable复制到BigQuery。现在，他们可以直接使用BigQuery SQL查询数据。联邦查询BigQuery可以访问存储在Bigtable中的数据。</p><p>&nbsp;</p><p>要查询Bigtable中的数据，用户可以通过指定Cloud Bigtable URI（可以通过Cloud Bigtable控制台获得）为Cloud Bigtable数据源创建一个外部表。URI包含以下这些内容：</p><p>&nbsp;</p><p>包含Cloud Bigtable实例的项目ID——project_id；Cloud Bigtable实例ID——instance_id；要使用的应用程序配置文件ID——app_profile（可选）；要查询的表名——table_name。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/0d/0dcf4d50fbb381f0343adde4dd85fcc5.png\" /></p><p></p><p>来源：<a href=\"https://cloud.google.com/blog/products/data-analytics/bigtable-bigquery-federation-brings-hot--cold-data-closer\">https://cloud.google.com/blog/products/data-analytics/bigtable-bigquery-federation-brings-hot--cold-data-closer</a>\"</p><p>&nbsp;</p><p>在创建了外部表之后，用户就可以像查询BigQuery中的表一样查询Bigtable。此外，用户还可以利用BigQuery的特性，比如JDBC/ODBC驱动程序、用于商业智能的连接器、数据可视化工具（Data Studio、Looker和Tableau等），以及用于训练机器学习模型的AutoML表和将数据加载到模型开发环境中的Spark连接器。</p><p>&nbsp;</p><p>大数据爱好者Christian Laurer在一篇文章中解释了Bigtable联邦查询的好处。</p><p>&nbsp;</p><p></p><blockquote>你可以使用这种新的方法克服传统ETL的一些缺点，如：&nbsp;1. 更多的数据更新（为你的业务提供最新的见解，没有小时级别甚至天级别的旧数据）；2. 不需要为相同的数据存储支付两次费用（用户通常会在Bigtable中存储TB级甚至更多的数据）；3. 减少ETL管道的监控和维护。</blockquote><p></p><p>&nbsp;</p><p>最后，关于Bigtable联邦查询的更多详细信息，请参阅官方的<a href=\"https://cloud.google.com/bigquery/docs/external-data-bigtable\">文档页</a>\"。此外，所有受支持的Cloud Bigtable区域都可以使用新的联邦查询。</p><p>&nbsp;</p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2022/08/bigtable-bigquery-zero-etl/\">Google Introduces Zero-ETL Approach to Analytics on Bigtable Data Using BigQuery</a>\"</p>",
+    "publish_time": "2022-08-25 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
