@@ -31,5 +31,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "运营商改造为 IPoE 的优势与劣势以及 IPv6 的安全性问题",
+    "url": "https://www.v2ex.com/t/875762",
+    "summary": "oblivion: 很高兴能这么快看到三家运营商共同在 IPoE 改造方向上的进展，<br /><br />相关贴<br />江苏电信： <a href=\"https://www.v2ex.com/t/875362\" rel=\"nofollow noopener\" target=\"_blank\">/t/875362</a><br />江苏联通： <a href=\"https://www.v2ex.com/t/875742\" rel=\"nofollow noopener\" target=\"_blank\">/t/875742</a><br />浙江移动： <a href=\"https://www.v2ex.com/t/875467\" rel=\"nofollow noopener\" target=\"_blank\">/t/875467</a><br /><br />PPPoE 什么时候被淘汰： <a href=\"https://www.v2ex.com/t/859349\" rel=\"nofollow noopener\" target=\"_blank\">/t/859349</a><br />运营商架构改变： <a href=\"https://www.v2ex.com/t/802962\" rel=\"nofollow noopener\" target=\"_blank\">/t/802962</a><br /><br />在各个回帖中，都对 IPoE 的优势劣势意见不一，<br />看下来大概的讨论方向<br /><br />认为优势的<br />1.IPoE 性能更好，真正原生以太网性能，对运营商对用户都可以降低成本，不再需要为 PPPoE 的低性能买单，跑高带宽不再需要投入更好的硬件，软路由也不需要很高配置，任意硬件都可以双向满速传输。<br />2.IPoE 不存在 MTU 问题。<br />3.IPoE 目前三家都是静态分配地址和 prefix ，DDNS 需求或许可以降低？<br /><br />认为劣势的：<br />1.运营商加料，让协议不通用。<br />2.都习惯了 PPPoE ，老设备改造很麻烦。<br />3.担心丢失公网 IP 。<br />4.担心运营商限制桥接。<br />5.影响自己跑 PCDN 。<br /><br />另外改造 IPv6 的安全性问题，<br />目前看到电信和联通是光猫默认阻断入站连接，<br />移动是默认开放全部连接，直接裸奔<br />在这个默认配置上的争议也很大，有人需要放通，为此不惜折腾桥接，有人要阻断，要安全，<br />而且目前很多人都是直接关闭光猫的阻断或者桥接，并且没有配置任何终端防护措施。<br /><br />相关贴：<br /> <a href=\"https://www.v2ex.com/t/875719\" rel=\"nofollow noopener\" target=\"_blank\">/t/875719</a><br /> <a href=\"https://www.v2ex.com/t/875489\" rel=\"nofollow noopener\" target=\"_blank\">/t/875489</a><br /> <a href=\"https://www.v2ex.com/t/875570\" rel=\"nofollow noopener\" target=\"_blank\">/t/875570</a><br /> <a href=\"https://www.v2ex.com/t/875608\" rel=\"nofollow noopener\" target=\"_blank\">/t/875608</a><br /><br /><br />问题：<br />1.运营商选择 IPoE 的路线正确吗，这个是未来趋势吗，以及为什么运营商会选择在这个时间改造呢？<br />2.仅仅是区域性改造，还是有计划全国都要改造呢？<br />3.IPoE 静态分配地址后是否会产生安全性相关的问题，比如内网设备全部裸奔的情况，是选择运营商在网关默认阻断呢还是选择用户自己为每个设备配置防火墙呢？",
+    "publish_time": "2022-08-27 10:39:51",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
