@@ -1,0 +1,13 @@
+[
+  {
+    "title": "被初中生 C 语言考住了，尴了个尬",
+    "url": "https://www.v2ex.com/t/875942",
+    "summary": "52coder: <p>周末来老婆老家，她亲戚有个小孩读初中，有个兴趣班学的 C 语言，得知我是从事软件开发 5 6 年的“高手”，饭后问了我一道编程题，我三俩下就告诉他怎么 怎么写，结果提交的时候始终显示有问题，一排查发现这里有坑，我手写一个 demo （可能编译不过哈）请教各位如下程序输出是什么？</p>\n<pre><code>#include &lt;stdio.h&gt;\nint main()\n{\n    int arr[10] = {-1};\n    //打印 arr 全部内容\n    for(int i = 0;i &lt; 10;i++)\n    printf(\"%d\",arr[i]);\n    \n    return 0;\n}\n</code></pre>\n<p>我之前一直以为会全部输出-1 ，结果在 gcc 11.2.0 的环境下，输出确实一个-1 ，然后全是 0.有没有踩过这个坑的朋友？</p>",
+    "publish_time": "2022-08-28 11:32:15",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  }
+]
