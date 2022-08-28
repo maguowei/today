@@ -1207,5 +1207,96 @@
       "desc": "人民日报公众号",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
     }
+  },
+  {
+    "title": "冒泡赛RNG对战EDG",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%86%92%E6%B3%A1%E8%B5%9BRNG%E5%AF%B9%E6%88%98EDG%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "被元气甜妹治愈了",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%85%83%E6%B0%94%E7%94%9C%E5%A6%B9%E6%B2%BB%E6%84%88%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "2022羽毛球世界锦标赛，决赛中安赛龙2:0战胜泰国小将昆拉武特获得男单冠军，如何评价这场比赛？",
+    "url": "https://www.zhihu.com/question/550415203",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "游戏行业是不是浪费生产力?",
+    "url": "https://www.zhihu.com/question/548000802",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "An Intuition for Lisp Syntax",
+    "url": "https://stopa.io/post/265",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32630675\">Comments</a>",
+    "publish_time": "2022-08-29 02:24:48",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Open Circuits – No Starch Press [pdf]",
+    "url": "https://nostarch.com/download/OpenCircuits_Chapter1.pdf",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32630740\">Comments</a>",
+    "publish_time": "2022-08-29 02:31:26",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Water Wizard of Oregon – Permaculture Water Systems of the Seven Seeds Farm",
+    "url": "https://yewtu.be/watch?v=BuYGS5pLRZg",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32630527\">Comments</a>",
+    "publish_time": "2022-08-29 02:08:41",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "I Quit Using SwiftUI",
+    "url": "https://chsxf.dev/2022/08/28/5-tup-why-i-quit-using-swiftui.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32630389\">Comments</a>",
+    "publish_time": "2022-08-29 01:53:54",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Austrian ISPs Block Cloudflare IP addresses after apparent court order",
+    "url": "http://netzsperre.liwest.at/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32630757\">Comments</a>",
+    "publish_time": "2022-08-29 02:33:44",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
