@@ -53,5 +53,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "发现 LastPass 是个坑",
+    "url": "https://www.v2ex.com/t/875964",
+    "summary": "lingaolc: <p>原因：</p>\n<ol>\n<li>两周前数据泄漏，源代码被盗，翻了下历史，这不是 LastPass 第一次出现安全问题了；</li>\n<li>大概也是两周前，部分用户遇到无法取消自动续费、无法删除账号的问题。其中无法取消自动续费的问题，两周前已经有用户在官方论坛报告了，官方到现在仍未解决；</li>\n<li>官方没有邮件客服，而电话客服不支持用户使用+86 手机号码接听，因此需要客服人工帮助时会比较麻烦。</li>\n</ol>",
+    "publish_time": "2022-08-28 13:59:41",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
