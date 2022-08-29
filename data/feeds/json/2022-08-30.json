@@ -1285,5 +1285,85 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "OPPO开发者大会",
+    "url": "https://s.weibo.com/weibo?q=%23OPPO%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "刘宇说尊重并支持原创",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E8%AF%B4%E5%B0%8A%E9%87%8D%E5%B9%B6%E6%94%AF%E6%8C%81%E5%8E%9F%E5%88%9B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何用一句话解释量子力学？",
+    "url": "https://www.zhihu.com/question/275733776",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "上高中需要注意什么呢？",
+    "url": "https://www.zhihu.com/question/550441709",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Scientists, Not Doing Science",
+    "url": "https://noahcarl.substack.com/p/scientists-not-doing-science",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32641778\">Comments</a>",
+    "publish_time": "2022-08-30 02:34:49",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The OK? Programming Language",
+    "url": "https://github.com/jesseduffield/OK",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32640918\">Comments</a>",
+    "publish_time": "2022-08-30 01:26:22",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Run Stable Diffusion on Intel CPUs",
+    "url": "https://github.com/bes-dev/stable_diffusion.openvino",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32642255\">Comments</a>",
+    "publish_time": "2022-08-30 03:13:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Alpaca – Stable Diffusion Plugin for Photoshop",
+    "url": "https://www.getalpaca.io/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32642273\">Comments</a>",
+    "publish_time": "2022-08-30 03:15:28",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
