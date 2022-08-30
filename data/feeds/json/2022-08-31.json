@@ -916,5 +916,94 @@
       "desc": "知乎热榜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
     }
+  },
+  {
+    "title": "兵马俑配色太绝了",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%B5%E9%A9%AC%E4%BF%91%E9%85%8D%E8%89%B2%E5%A4%AA%E7%BB%9D%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "95生怼脸生图",
+    "url": "https://s.weibo.com/weibo?q=%2395%E7%94%9F%E6%80%BC%E8%84%B8%E7%94%9F%E5%9B%BE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "今年超过40万人评分的影视剧",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E8%B6%85%E8%BF%8740%E4%B8%87%E4%BA%BA%E8%AF%84%E5%88%86%E7%9A%84%E5%BD%B1%E8%A7%86%E5%89%A7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "为什么说《隐入尘烟》全片没说苦，却完美演释了苦的天际？",
+    "url": "https://www.zhihu.com/question/550327138",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "《笑傲江湖》中，风清扬鄙视岳不群，为什么不自己重振华山？",
+    "url": "https://www.zhihu.com/question/542185229",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Git’s database internals II: commit history queries",
+    "url": "https://github.blog/2022-08-30-gits-database-internals-ii-commit-history-queries/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32651934\">Comments</a>",
+    "publish_time": "2022-08-31 00:01:18",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "$250k for your AI-first product startup",
+    "url": "https://aigrant.org/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32652484\">Comments</a>",
+    "publish_time": "2022-08-31 00:49:45",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "D2: A new declarative language to turn text into diagrams",
+    "url": "https://d2-lang.com/tour/intro",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32652291\">Comments</a>",
+    "publish_time": "2022-08-31 00:33:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Patterns (YC S21) Is hiring to build the OS for your data warehouse",
+    "url": "https://www.patterns.app/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32652605\">Comments</a>",
+    "publish_time": "2022-08-31 01:00:42",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
