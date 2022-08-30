@@ -361,5 +361,16 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Packed structs in Zig make bit/flag sets trivial",
+    "url": "https://devlog.hexops.com/2022/packed-structs-in-zig/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32646690\">Comments</a>",
+    "publish_time": "2022-08-30 12:39:29",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
