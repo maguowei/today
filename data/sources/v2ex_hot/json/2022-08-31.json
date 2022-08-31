@@ -64,5 +64,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "为安全问题，早上公司热烈讨论",
+    "url": "https://www.v2ex.com/t/876693",
+    "summary": "wenzaiquan199: 场景：用户在前端绑银行卡，实名认证，前端通过 https 请求，明文将数据传给后端，故测试给我提了个 bug 要我前端加密传输，我网上搜了搜，觉得前端目前拿不出什么方案加密比 https 安全<br /><br />测试:你这个东西加个密传给后端<br />我:有 https ，有一定的安全保障了<br />测试:但是我接口请求能看到我的身份证号什么的<br />我:你能拦截到别人的请求么<br />测试:那肯定有人能拦截到<br />我:我随便加个加密可以，我们代码没做混淆，别人看代码直接知道什么加密方法，随便解了，别人能从 https 把这个解析出来，破解我们这个跟玩一样，加了有意义么<br />测试:我之前公司都做了啊<br /><br />遂测试找前端 leader 说，然后后端 leader 就说前端传过来不用加，后端给前端加密的数据就行了，前端 leader 说要，然后他们吵了半天<br /><br />末了前端 leader 跟我说，要有“安全意识”，我直接回你项目混淆都不做，我从加密库找个现成的加密方法，有用么<br /><br />遂结束，我也不理 leader 了，来看看大家什么意见",
+    "publish_time": "2022-08-31 13:08:39",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
