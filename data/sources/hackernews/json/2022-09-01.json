@@ -75,5 +75,60 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "A Simple Entity Component System",
+    "url": "https://austinmorlan.com/posts/entity_component_system/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32666049\">Comments</a>",
+    "publish_time": "2022-09-01 02:06:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Cognitive Loads in Programming",
+    "url": "https://rpeszek.github.io/posts/2022-08-30-code-cognitiveload.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32666506\">Comments</a>",
+    "publish_time": "2022-09-01 02:40:29",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ruff – a fast Python Linter written in Rust",
+    "url": "https://github.com/charliermarsh/ruff",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32666035\">Comments</a>",
+    "publish_time": "2022-09-01 02:05:27",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Programming Cognitive Robots",
+    "url": "https://www.cs.toronto.edu/~hector/pcr.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32666135\">Comments</a>",
+    "publish_time": "2022-09-01 02:13:00",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Want quick answers? Ask questions well",
+    "url": "https://quick-answers.kronis.dev/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32666075\">Comments</a>",
+    "publish_time": "2022-09-01 02:08:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
