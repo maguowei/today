@@ -691,5 +691,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "我真的不想红了",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%83%B3%E7%BA%A2%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "二十不惑2皓史成双上线",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E4%B8%8D%E6%83%912%E7%9A%93%E5%8F%B2%E6%88%90%E5%8F%8C%E4%B8%8A%E7%BA%BF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
