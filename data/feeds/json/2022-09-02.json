@@ -1184,5 +1184,47 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "成都静下来齐心抗疫",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E9%9D%99%E4%B8%8B%E6%9D%A5%E9%BD%90%E5%BF%83%E6%8A%97%E7%96%AB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "MS Teams Linux client is being retired. To be replaced by a progressive web app",
+    "url": "https://news.ycombinator.com/item?id=32678839",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32678839\">Comments</a>",
+    "publish_time": "2022-09-02 00:29:41",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "One million queries per second with MySQL",
+    "url": "https://planetscale.com/blog/one-million-queries-per-second-with-mysql",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32680957\">Comments</a>",
+    "publish_time": "2022-09-02 02:35:48",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ask HN: Why don't we have 3 day weekends yet?",
+    "url": "https://news.ycombinator.com/item?id=32680382",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32680382\">Comments</a>",
+    "publish_time": "2022-09-02 01:57:17",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
