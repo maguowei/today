@@ -1,0 +1,13 @@
+[
+  {
+    "title": "为了不干扰客户，LinkedIn发布API版本化框架",
+    "url": "https://www.infoq.cn/article/RjEmFoyO4fERTVzmCdNK",
+    "summary": "<p>最近，LinkedIn透露了他们如何为LinkedIn Marketing API构建<a href=\"https://engineering.linkedin.com/blog/2022/-under-the-hood--how-we-built-api-versioning-for-linkedin-market\">API版本化框架</a>\"，允许外部合作伙伴按照自己的节奏迁移到新版本的API。</p><p>&nbsp;</p><p>在这个新框架中，每个API<a href=\"https://www.infoq.cn/topic/1137\">产品</a>\"都通过一个为外部合作伙伴提供API的中间层公开其版本化的模型和API。中间层API和模型通过特定的版本向外部公开，用户可以按照自己的节奏迁移到新版本。</p><p>&nbsp;</p><p>遗留的架构由各种业务线构建的后端API组成，并通过<a href=\"https://linkedin.github.io/rest.li/\">Rest.liAPI网关</a>\"对外公开。由于这些API没有版本控制，所有为内部API实现的东西都会直接暴露给外部用户。</p><p>&nbsp;</p><p>这篇文章解释道：“未版本化的API阻碍了用户访问最新的特性，并给内部开发新特性带来了挑战。此外，开发者的反馈表明，我们在短时间内发布了太多API变更，打乱了他们的计划。”</p><p><img src=\"https://static001.geekbang.org/infoq/54/54cac8b5decc3b8efb6c293e63f3aa14.png\" /></p><p>&nbsp;LinkedIn构建了新的框架，基于特定版本公开模型和API变更，从而有效地将外部应用程序的变更隔离开，并允许合作伙伴按照自己的节奏迁移到新版本。</p><p>&nbsp;</p><p>每当外部应用程序请求特定的API版本时，API网关将对请求进行转换，并将其转发到适当的中间层。</p><p>&nbsp;</p><p>与其他API网关一样，这个架构中的API网关带有身份验证、请求映射、节流控制、授权、反滥用控制和请求调度功能。</p><p>&nbsp;</p><p>最终，中间层将后端实现的特性公开给外部应用程序。</p><p>&nbsp;</p><p>每个API产品只有一个中间层。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/81/816e8ada3ae4d04b04a977674674eecb.png\" /></p><p></p><p>同一逻辑资源的不同版本可以在中间层中共存，并在代码中维护这个引用。网关使用请求映射调用所需的资源版本。</p><p>&nbsp;</p><p>中间层的服务负责从业务线调用后端与版本无关的服务。如果中间层服务在代码中维护特定于版本的逻辑，则可能会导致代码维护问题。为了避免这种情况，团队构建了“版本执行框架”库，用于完成这两件重要的事情——通过用户定义的转换将请求转换为最新的可能版本；请求被转换为最新的可能版本后，将再次通过用户定义的内部模型转换器将其转换为最新可用的内部模型。</p><p>&nbsp;</p><p>这一实现凸显了LinkedIn“不干扰客户”的设计原则。</p><p>&nbsp;</p><p>随着版本化的LinkedIn Marketing API于2022年6月发布，开发者和合作伙伴可以使用这些稳定的API。</p><p>&nbsp;</p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2022/08/linkedin-api-versioning/\">The LinkedIn Way of Building API Versions</a>\"</p><p>&nbsp;</p>",
+    "publish_time": "2022-09-01 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
