@@ -1504,5 +1504,105 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "世界人工智能大会",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何看待 Tian 连续四次拿到 LPL 联赛亚军？",
+    "url": "https://www.zhihu.com/question/551242411",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "什么才是自由，怎么样才算自由?",
+    "url": "https://www.zhihu.com/question/549727244",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "怎么在考研期间保持健康的心态，摆脱崩溃情绪呢？",
+    "url": "https://www.zhihu.com/question/549937440",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "高三一年是在家自学还是去学校比较好？",
+    "url": "https://www.zhihu.com/question/550567519",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美股三大指数收盘涨跌不一，热门中概股多数下跌",
+    "url": "https://36kr.com/newsflashes/1897275212900739",
+    "summary": "36氪获悉，9月1日收盘，美股三大指数收盘涨跌不一，道指涨0.46%，标普500指数涨0.3%，纳指跌0.26%；大型科技股多数上涨，Netflix涨近3%，Meta、谷歌涨超1%，特斯拉、苹果、亚马逊小幅上涨，微软小幅下跌；热门中概股多数下跌，盈喜集团跌超95%，小鹏汽车跌超6%，蔚来跌超5%，理想汽车跌超3%，阿里巴巴跌超1%，B站跌0.64%，京东跌0.6%，拼多多、百度小幅上涨。",
+    "publish_time": "2022-09-02 07:00:03",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Bibliogram, Open-source front-end for Instagram, is being discontinued",
+    "url": "https://cadence.moe/blog/2022-09-01-discontinuing-bibliogram",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32683722\">Comments</a>",
+    "publish_time": "2022-09-02 05:47:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "We clone a running VM in 2 seconds",
+    "url": "https://codesandbox.io/post/how-we-clone-a-running-vm-in-2-seconds",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32683834\">Comments</a>",
+    "publish_time": "2022-09-02 05:55:36",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "USB 4 version 2 promises 80 Gbps speeds over existing cables",
+    "url": "https://www.theverge.com/2022/9/1/23332838/usb-4-version-2-80-gbps-thunderbolt",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32683761\">Comments</a>",
+    "publish_time": "2022-09-02 05:49:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Not Your Grandmother's Textbook Exercise",
+    "url": "https://cacm.acm.org/blogs/blog-cacm/264263-not-your-grandmothers-textbook-exercise/fulltext",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32684017\">Comments</a>",
+    "publish_time": "2022-09-02 06:10:45",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
