@@ -9,5 +9,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "微软向 Windows Server 添加虚拟核心许可，引来亚马逊、谷歌等不满",
+    "url": "https://www.infoq.cn/article/3m3wuY1m98jPrbOzzavJ",
+    "summary": "<p>&nbsp;</p><p>8 月 29 日，<a href=\"https://blogs.partner.microsoft.com/mpn/new-licensing-benefits-make-bringing-workloads-and-licenses-to-partners-clouds-easier/\">微软</a>\"宣布将于 2022 年 10 月 1 日对其外包和托管条款进行重大修订和升级，最核心的变化是将引入新的 <a href=\"https://mp.weixin.qq.com/s?__biz=MzIzNjUxMzk2NQ==&amp;mid=2247488892&amp;idx=1&amp;sn=0cefa94664126c62388be432b5aaab5b&amp;chksm=e8d7eabedfa063a867fd842740a3c67acab91c71e374e76cf83ffe64f51371a9f52c17b8ec6e&amp;scene=27#wechat_redirect\">Windows Server</a>\" 虚拟核心许可。微软称通过简化在云中使用微软软件的许可条款，全球合作伙伴和客户将从中受益。</p><p>&nbsp;</p><p>“现在，Windows Server 是通过物理内核授权的，这意味着客户必须访问物理服务器硬件，来确保他们有足够的 Windows Server 许可证来覆盖机器中的所有物理内核，”微软首席合作伙伴官 Nicole Dezen 解释道。</p><p>&nbsp;</p><p>Dezen表示，“有了虚拟内核许可选项，客户可以根据他们在虚拟机中使用的虚拟内核数量选择 Windows Server 授权，从而使 Windows Server 在虚拟化或外包时更容易获得授权。”</p><p>&nbsp;</p><p>微软想让用户将 Windows Server 迁移到云中，但不是任何云——新许可证不适用于阿里巴巴、亚马逊、谷歌和微软，其目标是由微软合作伙伴社区运行的云。据悉，新规则在全球范围内适用。</p><p>&nbsp;</p><p>此外微软还表示，任何拥有 Microsoft 365 F3、Microsoft 365 E3 或 Microsoft 365 E5 许可证的用户都可以在自己的服务器或外包商的服务器（列出的提供商除外）上虚拟化 Windows 10 或 Windows 11，无论用户的主要设备是否具有合格的操作系统 (QOS)。没有QOS的主设备的Microsoft 365用户还必须获得VDA附加许可证来虚拟化Windows 10或Windows 11。</p><p>&nbsp;</p><p>尽管微软表示这些改变是为了让客户受益并响应合作伙伴的反馈，但外媒表示，这实际上是在对 OVHcloud 等欧洲云运营商的法律诉讼做出反应。</p><p>&nbsp;</p><p>此前，OVHcloud 在对微软的控诉中称，微软授权其办公软件和其他产品的方式可能会使企业使用Microsoft Azure以外的云服务的成本更高。然而其他云服务更难与微软竞争，因为其软件在其平台上使用时效果不佳。“微软通过滥用其主导地位破坏了公平竞争并限制了消费者在云计算服务市场上的选择。”OVHcloud 发言人曾表示。</p><p>&nbsp;</p><p>这次修改后，云领域的一些人对微软的大修并不满意，普遍认为微软没有解决问题的关键。</p><p>&nbsp;</p><p>“云计算行业对客户的承诺是提供灵活、弹性的计算服务，客户无需担心传统的合约锁定，云计算的客户应该能够在不同的平台自由迁移，选择最合适他们的技术和平台，而不是被迫选择最符合微软利益的平台。”谷歌负责政府和政策事务的副总裁 Marcus Jadotte在 <a href=\"https://twitter.com/MarcusJadotte/status/1564725111965601792\">Twitter</a>\"上表示。</p><p>&nbsp;</p><p>与此同时，AWS 母公司<a href=\"https://www.reuters.com/article/eu-microsoft-alphabet-amazon-com-idCAKBN2Q023Y\">亚马逊对此的批评</a>\"更为严厉，该公司的一名发言人报道称，“微软现在正在通过实施更多限制来加倍打击同样的有害行为，以不公平的方式试图限制其面临的竞争，而不是倾听客户的意见，为每个人恢复公平的软件许可。”</p><p>&nbsp;</p><p>微软目前正在接受欧盟委员会的调查，欧洲云厂商指控涉其在云中的授权方面存在反竞争行为。尽管许可变更可能会安抚一些欧洲云厂商，但该公司似乎仍可能因故意将其最大竞争对手排除在新条款之外的政策而面临麻烦。</p><p>&nbsp;</p><p>&nbsp;</p><p>参考链接：</p><p><a href=\"https://www.theregister.com/2022/08/31/cloud_rivals_hit_back_at/\">https://www.theregister.com/2022/08/31/cloud_rivals_hit_back_at/</a>\"</p>",
+    "publish_time": "2022-09-02 09:35:43",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
