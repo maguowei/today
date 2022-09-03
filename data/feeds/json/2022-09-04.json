@@ -1137,5 +1137,54 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "男生摘眼镜视力听力一起下降",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E6%91%98%E7%9C%BC%E9%95%9C%E8%A7%86%E5%8A%9B%E5%90%AC%E5%8A%9B%E4%B8%80%E8%B5%B7%E4%B8%8B%E9%99%8D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "数学家之间会有争论吗？",
+    "url": "https://www.zhihu.com/question/22078809",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "有哪些适合学生党的千元性价比手机推荐？",
+    "url": "https://www.zhihu.com/question/548115633",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Brew Is a Bad Neighbor",
+    "url": "https://gist.github.com/pudquick/29bc95b6c49703992981864e48f8e341",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32704442\">Comments</a>",
+    "publish_time": "2022-09-04 02:06:00",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "PC wakes from sleep when changing clothes",
+    "url": "https://old.reddit.com/r/pcmasterrace/comments/x4ox3p/why_does_my_pc_wake_from_sleep_when_i_change_my/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32704340\">Comments</a>",
+    "publish_time": "2022-09-04 01:55:30",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
