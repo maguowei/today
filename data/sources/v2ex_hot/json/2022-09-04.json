@@ -42,5 +42,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "知乎喜迎全平台隐写水印",
+    "url": "https://www.v2ex.com/t/877614",
+    "summary": "ZhiyuanLin: <p>网页端或 app 端登录后截图可见</p>\n<p><a href=\"https://stegonline.iculture.cc/\" rel=\"nofollow\">https://stegonline.iculture.cc/</a></p>\n<p>验证可以这个工具的 Random Color Map 模式。</p>\n<p>比较好奇这是怎么实现的，CSS 和 HTML 里找不到痕迹，但是禁用 JavaScript 后会消失。</p>\n<p>这是如何做到添加了文本元素但是浏览器审查元素中看不到的？</p>",
+    "publish_time": "2022-09-04 15:09:42",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
