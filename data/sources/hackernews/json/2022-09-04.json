@@ -284,5 +284,38 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "A fully open-source and end-to-end encrypted note taking alternative to Evernote",
+    "url": "https://github.com/streetwriters/notesnook",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32708019\">Comments</a>",
+    "publish_time": "2022-09-04 08:11:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Tips and Tools for Text Mode Lovers",
+    "url": "https://cli-ck.io/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32708856\">Comments</a>",
+    "publish_time": "2022-09-04 09:44:35",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Stable Diffusion PR optimizes VRAM, generate 576x1280 images with 6 GB VRAM",
+    "url": "https://github.com/basujindal/stable-diffusion/pull/103",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32709201\">Comments</a>",
+    "publish_time": "2022-09-04 10:35:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
