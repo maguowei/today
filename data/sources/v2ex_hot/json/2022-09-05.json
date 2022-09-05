@@ -42,5 +42,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "你使用最长的，认为最好的笔记软件是什么?",
+    "url": "https://www.v2ex.com/t/877756",
+    "summary": "pepi: <p>首先，确实没有完美的产品，或多或少都会为其痛点，不然不会有如此多的轮子被创造。\n但是对美好事物的向往，是每个人的追求，所以最接近你满意的就是最完美的</p>\n<p>个人目前使用最长笔记的就是 All In One 的 Notion ，使用 Ctrl+P 搜索所有</p>\n<p>市面上的笔记软件过于繁杂\n模块化: Notion\n传统大杂烩格式: OneNote 、Google Keep 、EverNote/印象笔记、为知笔记、有道云笔记、石墨文档、语雀、飞书文档\n思维扩散: 幕布、gitmind\n双向链表: Roam Research 、Obsidian 、Logseq 、Zettlr 、思源笔记\n纯离线的 md: typora\n以上列出过少，和分类不尽合理，比如为什么印象笔记就不是模块化，这里只是大致趋向分类。\n还有例如 craft 、bear 纯 iOS 平台的，虽然优秀，但是平台隔离也是痛点\n那么，小伙伴们，你的最爱笔记是什么呢？</p>",
+    "publish_time": "2022-09-05 10:59:03",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "亲，您中奖了，请于今晚 24 点前联系我，过期重新抽奖，本帖继续抽奖",
+    "url": "https://www.v2ex.com/t/877784",
+    "summary": "Yunsheng: <p><strong>原抽奖贴：</strong> <a href=\"https://www.v2ex.com/t/876449?p=3#reply419\" rel=\"nofollow\">https://www.v2ex.com/t/876449?p=3#reply419</a>\n上一个帖子的楼层为<em>415</em>楼，中奖者为<strong>232</strong>楼 @buppter：\n<img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://tva1.sinaimg.cn/large/e6c9d24ely1h5vll8h9dhj216m04saa7.jpg\" />\n<strong>截止目前，中奖者都未曾联系我，请该 v 友赶紧联系我，截止到晚上 24 点，如果还未联系，则视为放弃，重新抽奖。</strong></p>\n<h1>本帖继续抽奖，抽奖截止日期 2022.9.07 24:00:00</h1>\n<p>感谢之前支持我的老铁们，正逢中秋，回家团聚或者亲戚朋友送礼，欢迎大家选购我家的猕猴桃🥝，让我早点帮父母卖完。下面由我介绍一下我们家的猕猴桃🥝。</p>\n<pre><code>猕猴桃🥝又名奇异果\n富含维生素 C ，可强化免疫系统，补充脑力所消耗的营养；它的低钠高钾的完美比例，可补充熬夜加班所失去的体力。\n促消化清洁肠胃\n帮助睡眠、安抚情绪\n美颜圣品\n减肥良药\n...\n总之好处多多，哈哈，我就不继续吹了。\n</code></pre>\n<h2>微信扫码即可购买</h2>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://tva1.sinaimg.cn/large/e6c9d24ely1h5vlzbw5iuj20ku112q5j.jpg\" /></p>\n<h2>1V1 客服微信</h2>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://tva1.sinaimg.cn/large/e6c9d24ely1h5vm7col9yj20kw0qqq4l.jpg\" /></p>\n<h2>宣传照（实拍无 P 图）</h2>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://tva1.sinaimg.cn/large/008i3skNly1guee0n22zwj60sg0lcdk302.jpg\" />\n<img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://tva1.sinaimg.cn/large/008i3skNly1guee0whw7vj60sg0lcgtk02.jpg\" />\n<img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://tva1.sinaimg.cn/large/008i3skNly1guee0ry50hj60lc0sgqb002.jpg\" /></p>",
+    "publish_time": "2022-09-05 12:31:53",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "想基于电报开发完全去中心化的端端加密的即时通信 APP，目的是避免审查，有朋友有兴趣吗",
+    "url": "https://www.v2ex.com/t/877787",
+    "summary": "wanmyj: <h2>Problem：</h2>\n<ol>\n<li>不翻墙的墙内安全群聊</li>\n<li>中心化的 APP 一定会在被封和被审查当中二选一</li>\n<li>imessage 这种虽然不会被关键字审查（理论上），但不能跨平台</li>\n</ol>\n<h2>Solution：</h2>\n<ol>\n<li>基本设想是类似于<code>magnet link</code>，需要客户端，并且所有客户端都可以作为某些服务节点</li>\n<li>由<code>group owner</code>发起一个<code>group link</code>，内容包含群 hash ，和自身 IP 和开放端口等信息组成的 tracker (NAT 造成的困难可以再想办法解决，我还没想到最优方案)，有效期，校验等信息。发布出去等待<code>group member</code>连接，建立群聊天室。</li>\n<li>任何群组员<code>group member</code>都可以当 tracker 提供<code>group link</code>给其他人。</li>\n<li>group 内采用端端加密通信，并且无中心 server 。如果所有<code>group member</code>在同一时间换掉了 IP 地址，那这个群就会消亡。</li>\n<li>聊天记录记录在一个或多个<code>group member</code>的本地，如果所有<code>group member</code>同时删掉了某条聊天记录，则这条记录无法恢复。</li>\n</ol>\n<p>本人在外企工作，平均每天能有 3 个小时的开发时间.这个项目可能需要数千小时的开发量，我的工程经验怕难以承担这种项目，所以想找一些同好一起完成这个 project 。最好有个有 IM 和网络工程经验的大佬来做 leader 。</p>\n<p>我想这个项目一定要开源，无论哪种许可证。</p>",
+    "publish_time": "2022-09-05 12:51:01",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
