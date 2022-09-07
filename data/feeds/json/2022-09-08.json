@@ -1253,5 +1253,136 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "打卡中国",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%89%93%E5%8D%A1%E4%B8%AD%E5%9B%BD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "iPhone14 Plus",
+    "url": "https://s.weibo.com/weibo?q=%23iPhone14+Plus%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "贵阳疫情防控",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B4%B5%E9%98%B3%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "金珉锡将9月26日solo出道",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E7%8F%89%E9%94%A1%E5%B0%869%E6%9C%8826%E6%97%A5solo%E5%87%BA%E9%81%93%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "大学期间的兼职有没有意义?",
+    "url": "https://www.zhihu.com/question/318967521",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "善良的人真的会有好报吗？",
+    "url": "https://www.zhihu.com/question/285153292",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Akka is moving away from Open Source – Alexandru Nedelcu",
+    "url": "https://alexn.org/blog/2022/09/07/akka-is-moving-away-from-open-source/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32754048\">Comments</a>",
+    "publish_time": "2022-09-08 02:09:47",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Apple Announces iPhone 14 and iPhone 14 Plus",
+    "url": "https://www.macrumors.com/2022/09/07/apple-announces-iphone-14-iphone-14-plus/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32753860\">Comments</a>",
+    "publish_time": "2022-09-08 01:55:29",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "`int('1' * 4301)` will raise ValueError starting with Python 3.10.7",
+    "url": "https://pythoninsider.blogspot.com/2022/09/python-releases-3107-3914-3814-and-3714.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32753235\">Comments</a>",
+    "publish_time": "2022-09-08 01:03:55",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "AirPods Pro (2nd Generation)",
+    "url": "https://www.apple.com/airpods-pro/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32754440\">Comments</a>",
+    "publish_time": "2022-09-08 02:35:22",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A New Life for Certificate Revocation Lists – Let's Encrypt",
+    "url": "https://letsencrypt.org/2022/09/07/new-life-for-crls.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32754016\">Comments</a>",
+    "publish_time": "2022-09-08 02:07:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A few months ago, a complete stranger gave me $10k. Here’s what I did with it",
+    "url": "https://sarahdrinkwater.medium.com/a-few-months-ago-a-complete-stranger-gave-me-10-000-heres-what-i-did-with-it-d5bc65f59d17",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32754281\">Comments</a>",
+    "publish_time": "2022-09-08 02:25:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "“UBO Minus (MV3)” – An Experimental uBlock Origin Build for Manifest V3",
+    "url": "https://github.com/gorhill/uBlock/commit/a559f5f2715c58fea4de09330cf3d06194ccc897",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32754274\">Comments</a>",
+    "publish_time": "2022-09-08 02:25:03",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
