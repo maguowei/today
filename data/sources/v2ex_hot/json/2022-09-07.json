@@ -75,5 +75,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "大家中秋节都什么计划，能发出来分享一下吗",
+    "url": "https://www.v2ex.com/t/878287",
+    "summary": "itcong: <p>我本来是计划去北戴河，现在因为疫情，有点担心放弃了  </p>\n<ol>\n<li>计划周边开车周边  </li>\n<li>游玩带小孩去游乐场  </li>\n<li>吃 2 顿大餐</li>\n</ol>",
+    "publish_time": "2022-09-07 10:40:33",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "前端仔深度使用 m1 mac mini 15 天进行开发有感",
+    "url": "https://www.v2ex.com/t/878390",
+    "summary": "Features: 半个月前，出了丐版 8g mini,买了 mac mini 16G<br />到现在刚好半个月<br /><br />我是前端开发<br />日常使用软件：<br />有道云笔记，Hbuilder X,chrome ，vscode ，proxyman<br /><br />最大的感触就是，16G 在 mac 上真的不够用，如果有 32G 的，一定要上 32G 的<br />我 16G 的 mac mini 几乎每天都会发生 swap<br />要知道，我使用 16G 的 windows 三年多了，都没发生过内存不够用的情况<br /><br />很多软件没有完全适配 M1 ，使用的是类似转译的方式运行的<br />比如 Photoshop ，Hbuilder<br />这种软件天然的占用内存比正常软件大<br /><br />还有就是不知道为什么，node 在 M1 上，占用的内存比 win 10 多这么多！！<br />win 10 上的 node ，从来没超过 1G 的占用，M1 经常 2-3G<br /><br />这是我刚开机程序运行图，如果同时开两个项目<br />或者同时运行 Hbuilder x 项目和 vscode 中的 vue 项目<br />chrome 页面开到 20 个以上<br />就会发生 swap<br /><br /><a href=\"https://www.v2ex.com/i/yllhm7IT.png\" rel=\"nofollow noopener\" target=\"_blank\" title=\"在新窗口打开图片 yllhm7IT.png\"><img class=\"embedded_image\" src=\"https://i.v2ex.co/yllhm7IT.png\" /></a>",
+    "publish_time": "2022-09-07 16:39:39",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
