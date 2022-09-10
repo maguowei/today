@@ -42,5 +42,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "以后我们都会是 Java /kotlin 程序员吗？学了下 kotlin，感觉 kotlin 啥都能干",
+    "url": "https://www.v2ex.com/t/879059",
+    "summary": "popil1987: <p>Android 原生开发：不用说了，标配，特别是 jetpack compose 推出后</p>\n<p>Android 和 iOS 开发：kotlin multiplatform mobile.看了下原理是界面和硬件交互还是原生开发，公共的库可以用 kotlin 开发，什么 api 请求啊，ai 算法啊都可以只实现一套，swift 可以直接引入，不需要写 wrapper</p>\n<p>桌面开发：jetpack compose for desktop ，是 java 的 swing 做底层，这可移植性不用说，其他库有 kotlin multiplatform</p>\n<p>web 开发：kotlin/js,转译到 js 。另一点是和 js 的 interop 也很好，可以很简单的引入 js 生态。我看到官方支持很多 react 生态的 lib,加上 jetpack compose for web 或 jb 自家的 ring ui</p>\n<p>服务端：这生态现在和 java 一样好，还有个 ktor 和 web 端，移动端都能 full stack 公用代码</p>\n<p>数据科学：jupyter notebook 加上 kotlin kernel,有能替换 python pandas numpy 的库，而且很好，大数据方面 java 肯定完爆 python,python 很喜欢，但 kotlin 是真香</p>\n<p>担心：没有深入进去，不知道有啥坑，java 生态倒是杠杠的。被 JetBrains 的 IDE 支配（ vim, emacs 确实打不过 idea ）</p>\n<p>fleet 出来以后对我们这种纯 linux 下工作的人来说是真香，不好忍住</p>\n<p>个人有时间还是要学习下小众技术，不为别的，小众技术啥生态没有，有利于学习底层知识</p>",
+    "publish_time": "2022-09-10 09:22:36",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "Opera 浏览器真没有让我失望，再也不能碰和 360 有关的任何产品了！",
+    "url": "https://www.v2ex.com/t/879133",
+    "summary": "pulelt: <p>再有钱，流氓本性改不了。</p>\n<p>打开默认主页 360 就恶心到了，然后想修改搜索引擎。</p>\n<p>搜索引擎不能自己管理，他推荐的不能删除，流氓！</p>",
+    "publish_time": "2022-09-10 16:31:02",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
