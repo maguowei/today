@@ -42,5 +42,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "在国内用原生邮件客户端收发各种邮件属实让人抓狂",
+    "url": "https://www.v2ex.com/t/879244",
+    "summary": "river010: 软件环境：macOS 原生邮件客户端<br />使用原则：国内邮箱和国内联系，Gmail 和国外联系<br />使用环境：<br />1 、Gmail 取决于梯子是否屏蔽 smtp 服务；<br />2 、Foxmail （ QQ 邮箱）“IMAP 命令“APPEND”（至 Sent Messages ）失败，服务器出错：Mail has saved by smtp ！”找了网上的办法，都不能完美解决。<br /><br />现阶段的暂时使用办法：<br />1 、163 竟然最适配，但是实在不太想用了，原因应该不用过多解释了；<br />2 、使用国内邮件客户端，也不太想用；<br />3 、Gmail 使用网页版；<br />4 、为了预防各种错误，客户端只作为提醒和浏览。<br /><br />不知道有没有使用其他客户端和 Foxmail 配合的朋友说说体验，虽然原则上还是想用原生应用。",
+    "publish_time": "2022-09-11 10:52:44",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "由两个整数生成一个独特的整数",
+    "url": "https://www.v2ex.com/t/879280",
+    "summary": "wdc63: <p>我有两个整数 a 、b 。我想得到一个独特的整数 c ，让 a 、b 任何一个发生变化时，c 的值都是独特唯一的，且不需要反运算，即无需通过 c 得到 a 、b 。\n我想到的方法是 a*(b 的位数+1) + b ，例如 123,234=123*1000+234=123234 。\n由于我的程序中有大量的这种运算，请问各位大佬对此有没有经验，提供一个开销最小最小最小的算法。</p>",
+    "publish_time": "2022-09-11 15:10:07",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
