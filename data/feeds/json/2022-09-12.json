@@ -1298,5 +1298,94 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "北方朋友不加儿化音挑战",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%96%B9%E6%9C%8B%E5%8F%8B%E4%B8%8D%E5%8A%A0%E5%84%BF%E5%8C%96%E9%9F%B3%E6%8C%91%E6%88%98%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "流浪猫带3猫崽投奔喂它的小姐姐",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B5%81%E6%B5%AA%E7%8C%AB%E5%B8%A63%E7%8C%AB%E5%B4%BD%E6%8A%95%E5%A5%94%E5%96%82%E5%AE%83%E7%9A%84%E5%B0%8F%E5%A7%90%E5%A7%90%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "赵粤个人工作室官宣",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%B2%A4%E4%B8%AA%E4%BA%BA%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%AE%98%E5%AE%A3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "该不该雇佣老年人工作",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%AF%A5%E4%B8%8D%E8%AF%A5%E9%9B%87%E4%BD%A3%E8%80%81%E5%B9%B4%E4%BA%BA%E5%B7%A5%E4%BD%9C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "俄军为什么几乎在一夜之间就由原先的攻方变为溃不成军？且这么多天了还无法组织像样的抵抗？",
+    "url": "https://www.zhihu.com/question/552927699",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Common Lisp Names All Sixteen Possible Binary Logic Gates",
+    "url": "https://www.cs.cmu.edu/Groups/AI/html/cltl/clm/node131.html#SECTION001670000000000000000",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32802308\">Comments</a>",
+    "publish_time": "2022-09-12 03:03:27",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: A script to allow installing unsigned extensions on Firefox",
+    "url": "https://gist.github.com/TheBrokenRail/c43bf0f07f4860adac2631a1bd9e4136",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32801767\">Comments</a>",
+    "publish_time": "2022-09-12 02:01:45",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Build your career on dirty work",
+    "url": "https://staysaasy.com/career/2022/09/11/Dirty-Work.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32800869\">Comments</a>",
+    "publish_time": "2022-09-12 00:14:06",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Shortest URLs on the Internet",
+    "url": "https://jameswillia.ms/posts/shortest-urls.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32801359\">Comments</a>",
+    "publish_time": "2022-09-12 01:10:57",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
