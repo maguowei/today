@@ -20,5 +20,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "Forrester 将虚拟机评为“陈旧或有风险”的技术",
+    "url": "https://www.infoq.cn/article/NJ1adEbGGPQ2Ew3mxPeJ",
+    "summary": "<p>分析公司 Forrester Research 发布了 2023 年技术架构和交付规划指南。在该文件中， Forrester指出随着经济形势趋紧，IT 部门将面临更加严格的支出审查：“与应对疫情开始流行时，需要对新交付模式、数字化转型的技术进行巨额投资不同，应对当前的经济逆风需要优化和合理化”，并补充说 IT 部门还将被要求维持“有弹性的现代环境，同时技术战略不能削弱对未来的适应度。”</p><p>&nbsp;</p><p>为此，该公司推荐“减少或避免过时或有风险的技术投资”。</p><p>&nbsp;</p><p>虚拟机是过时并有风险的技术之一，因为“云原生技术现在是企业级 IT 的基准，基于 Kubernetes 的容器平台和云开发环境都已经足够成熟，可以广泛采用。”Forrester 还警告称，博通对 VMware 的收购“引发了虚拟机技术创新停滞且价格上涨”。因此，分析师建议用户“考虑缩小规模或至少在 VM 环境中保持稳定状态。”</p><p>&nbsp;</p><p>其他陈旧或有风险的技术包括需要手动集成的 DevOps 技术，因为它们会使软件供应链复杂化；数据管理的“点”解决方案，如数据仓库、主数据管理或数据清洗平台；私有 5G 网络，因为它们发展缓慢等。</p><p>&nbsp;</p><p>&nbsp;</p><p>参考阅读：</p><p><a href=\"https://www.theregister.com/2022/09/08/forrester_2023_it_planning/\">https://www.theregister.com/2022/09/08/forrester_2023_it_planning/</a>\"</p>",
+    "publish_time": "2022-09-11 20:29:44",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
