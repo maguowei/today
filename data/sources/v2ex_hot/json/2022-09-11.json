@@ -20,5 +20,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "请问有使用群晖内置 DDNS 的朋友吗？现在有哪些域名不在防火墙名单里？",
+    "url": "https://www.v2ex.com/t/879224",
+    "summary": "EliteOtaku: 目前因为部署了一些需要域名访问的服务，比如 emby ，notestation 之类的。突然发现以前用的 <a href=\"http://myds.me/\" rel=\"nofollow noopener\" target=\"_blank\">myds.me</a> 域名居然进了防火墙黑名单……虽然可以通过科学上网访问，但有时候在外面通过手机访问不太方便，想问下大家的使用情况，哪些群晖的内置 DDNS 域名可以直接访问的，我就改一下，这样弄起来方便，谢谢了。",
+    "publish_time": "2022-09-11 08:08:36",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
