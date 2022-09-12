@@ -284,5 +284,27 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "MVP.css – Minimalist stylesheet for HTML elements",
+    "url": "https://andybrewer.github.io/mvp/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32805334\">Comments</a>",
+    "publish_time": "2022-09-12 10:21:12",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "~7% speedup from switch to +=",
+    "url": "https://github.com/lstein/stable-diffusion/commit/62863ac586194a43ff952eba17a83cecf9956500",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32805589\">Comments</a>",
+    "publish_time": "2022-09-12 11:00:16",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
