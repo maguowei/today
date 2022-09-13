@@ -1505,5 +1505,63 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "杨笠脱口秀大会杀疯了",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%AC%A0%E8%84%B1%E5%8F%A3%E7%A7%80%E5%A4%A7%E4%BC%9A%E6%9D%80%E7%96%AF%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "直击台风梅花最新动态",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%9B%B4%E5%87%BB%E5%8F%B0%E9%A3%8E%E6%A2%85%E8%8A%B1%E6%9C%80%E6%96%B0%E5%8A%A8%E6%80%81%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "你的高中生活是美好的还是痛苦的？",
+    "url": "https://www.zhihu.com/question/264967318",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "假设22年一个腾讯主策穿越到了17年，他如何做可以复制原神的成功？",
+    "url": "https://www.zhihu.com/question/553325578",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美股三大指数大幅收跌，大型科技股集体下挫",
+    "url": "https://36kr.com/newsflashes/1914263068610561",
+    "summary": "36氪获悉，美国8月未季调CPI同比增长8.3%，高于市场预期。9月13日收盘，美股三大指数大幅收跌，纳指跌5.16%，标普500指数跌4.33%，道指跌3.94%，均创逾27个月以来最大单日跌幅。大型科技股集体下挫，Meta、英伟达跌超9%，亚马逊、Netflix跌超7%，微软、谷歌、苹果跌超5%，特斯拉跌超4%；热门中概股多数下跌，B站跌超8%，京东跌超7%，阿里巴巴、百度、拼多多跌超5%，爱奇艺跌超3%，小鹏汽车跌超1%，理想汽车涨超2%，蔚来涨超1%。",
+    "publish_time": "2022-09-14 07:00:22",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Show HN: BoldContacts – Mobile App for Alzheimer's, Parkinson's, ALS, MS, MD",
+    "url": "https://github.com/SixArm/BoldContacts",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32830294\">Comments</a>",
+    "publish_time": "2022-09-14 05:18:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]

@@ -592,5 +592,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "杨笠脱口秀大会杀疯了",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%AC%A0%E8%84%B1%E5%8F%A3%E7%A7%80%E5%A4%A7%E4%BC%9A%E6%9D%80%E7%96%AF%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "直击台风梅花最新动态",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%9B%B4%E5%87%BB%E5%8F%B0%E9%A3%8E%E6%A2%85%E8%8A%B1%E6%9C%80%E6%96%B0%E5%8A%A8%E6%80%81%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
