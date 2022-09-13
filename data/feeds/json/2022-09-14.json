@@ -1385,5 +1385,74 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "习主席的国礼故事",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B9%A0%E4%B8%BB%E5%B8%AD%E7%9A%84%E5%9B%BD%E7%A4%BC%E6%95%85%E4%BA%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "3岁幼童被牵绳大狗咬伤",
+    "url": "https://s.weibo.com/weibo?q=%233%E5%B2%81%E5%B9%BC%E7%AB%A5%E8%A2%AB%E7%89%B5%E7%BB%B3%E5%A4%A7%E7%8B%97%E5%92%AC%E4%BC%A4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "警犬协助缴毒23公斤获奖火腿肠两根",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E7%8A%AC%E5%8D%8F%E5%8A%A9%E7%BC%B4%E6%AF%9223%E5%85%AC%E6%96%A4%E8%8E%B7%E5%A5%96%E7%81%AB%E8%85%BF%E8%82%A0%E4%B8%A4%E6%A0%B9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "数据显示「美国今年已有 750 多名儿童遭枪击，日均 122 人死于枪支暴力」，这反映出哪些问题？",
+    "url": "https://www.zhihu.com/question/553296077",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Twitter trackers jeopardize military aircraft?",
+    "url": "https://www.usni.org/magazines/proceedings/2022/september/twitter-trackers-jeopardize-military-aircraft-0",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32828902\">Comments</a>",
+    "publish_time": "2022-09-14 03:10:26",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Next Incarnation of EDA",
+    "url": "https://semiengineering.com/the-next-incarnation-of-eda/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32829553\">Comments</a>",
+    "publish_time": "2022-09-14 04:05:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Rust stabilizes generic associated types",
+    "url": "https://github.com/rust-lang/rust/pull/96709",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32829806\">Comments</a>",
+    "publish_time": "2022-09-14 04:30:16",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
