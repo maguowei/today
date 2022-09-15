@@ -574,5 +574,41 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "Ulike不要热度的发布会",
+    "url": "https://s.weibo.com/weibo?q=%23Ulike%E4%B8%8D%E8%A6%81%E7%83%AD%E5%BA%A6%E7%9A%84%E5%8F%91%E5%B8%83%E4%BC%9A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "壳牌汽车环保马拉松",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A3%B3%E7%89%8C%E6%B1%BD%E8%BD%A6%E7%8E%AF%E4%BF%9D%E9%A9%AC%E6%8B%89%E6%9D%BE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "琼姐杨兴权吻别",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%90%BC%E5%A7%90%E6%9D%A8%E5%85%B4%E6%9D%83%E5%90%BB%E5%88%AB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "蛋仔派对",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%9B%8B%E4%BB%94%E6%B4%BE%E5%AF%B9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
