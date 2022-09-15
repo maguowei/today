@@ -42,5 +42,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "怎样才能拥有信仰",
+    "url": "https://www.v2ex.com/t/880115",
+    "summary": "546L5LiK6ZOt: <p>这里说的信仰，不只是宗教信仰，是更广义上的，为共产主义奋斗终身是党员的信仰，对真理的执着追求是科学家的信仰……</p>\n<p>最近在看《刘擎西方现代思想讲义》，还没看到一半。书中说，现代社会跟以往相比，理性很多。但是人理性了，就很难拥有信仰。因为信仰这种东西你很难用逻辑、用理性去判断为啥要相信。</p>\n<p>虽然大多数时候没有信仰也能好好生活，但是我觉得拥有信仰应该会让生活更有意义，自己知道为啥而活。在面对死亡时，如果自己一辈子把有限的生命奉献给永恒的信仰，会让人感觉到安慰（即使是宗教信仰，都说死亡后会去天堂或极乐世界，让人对死亡不会那么恐惧）。</p>\n<p>各位拥有信仰吗？觉得有必要有信仰吗？怎样才能有信仰呢？</p>",
+    "publish_time": "2022-09-15 00:37:34",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "请问最佳的爬虫语言是什么",
+    "url": "https://www.v2ex.com/t/880119",
+    "summary": "dfgddgf: <p>如果需要多线程（多端口）下载网页，保证下载速度和网页解析速度和开发速度的在合理的范围之内，哪一款语言是最优的。</p>\n<p>golang 并发使用最强的，在正则匹配速度，爬虫软件包的丰富程度上和 perl 、python 还有不小差距。</p>\n<p>pyhon 的异步下载引擎貌似使用不是特别方便（个人对 pyhon 不熟，勿喷）</p>\n<p>php 有 <a href=\"https://github.com/walkor/Workerman\" rel=\"nofollow\">https://github.com/walkor/Workerman</a> 这样的高性能网页服务器框架，有没有易用的爬虫框架？</p>\n<p>node.js 异步下载貌似很强大，有没有大型爬虫项目使用 node.js 做爬虫，同时网页解析，文件处理，unicode 转码全部使用这个语言的爬虫案例？</p>\n<p>perl 有一个 mojo::useragent 配合 libEV ，并发能力很强大。perl 在文本正则处理、文本编码转换，网页 dom 解析都有成熟的处理方案和软件包，这个是目前作者最喜欢的平台。</p>\n<p>c# 据说是最强大爬虫平台，没接触多少。</p>\n<p>java 平台性能很强劲，软件包也丰富，笔者知之甚少。</p>\n<p>rust 貌似爬虫全套组件都有，而且比较新。貌似可以做出极致压榨硬件性能的方案。</p>",
+    "publish_time": "2022-09-15 02:27:22",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "v2er 们，你们的电池健康还剩多少，去年 5 月份购入的 12 电池健康就剩 90 了",
+    "url": "https://www.v2ex.com/t/880194",
+    "summary": "spicecch: <p>使用情况是平时偶尔玩下原神，小视频基本不看</p>",
+    "publish_time": "2022-09-15 11:12:59",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
