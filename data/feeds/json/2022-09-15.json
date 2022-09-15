@@ -4330,5 +4330,473 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "拳王巅峰对决",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%8B%B3%E7%8E%8B%E5%B7%85%E5%B3%B0%E5%AF%B9%E5%86%B3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "开学有李超甜的",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%AD%A6%E6%9C%89%E6%9D%8E%E8%B6%85%E7%94%9C%E7%9A%84%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "李一桐新剧从20岁演到40岁",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%B8%80%E6%A1%90%E6%96%B0%E5%89%A7%E4%BB%8E20%E5%B2%81%E6%BC%94%E5%88%B040%E5%B2%81%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "女子被男友控制办证时写纸条求助",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%94%B7%E5%8F%8B%E6%8E%A7%E5%88%B6%E5%8A%9E%E8%AF%81%E6%97%B6%E5%86%99%E7%BA%B8%E6%9D%A1%E6%B1%82%E5%8A%A9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "管泽元评S12世界赛TOP10",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%AE%A1%E6%B3%BD%E5%85%83%E8%AF%84S12%E4%B8%96%E7%95%8C%E8%B5%9BTOP10%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "请君任嘉伦李沁宿命感好强",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%AF%B7%E5%90%9B%E4%BB%BB%E5%98%89%E4%BC%A6%E6%9D%8E%E6%B2%81%E5%AE%BF%E5%91%BD%E6%84%9F%E5%A5%BD%E5%BC%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "野蛮生长",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%87%8E%E8%9B%AE%E7%94%9F%E9%95%BF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "野蛮生长首发预告",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%87%8E%E8%9B%AE%E7%94%9F%E9%95%BF%E9%A6%96%E5%8F%91%E9%A2%84%E5%91%8A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "昆仑神宫",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%98%86%E4%BB%91%E7%A5%9E%E5%AE%AB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "李彩演将10月solo出道",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%BD%A9%E6%BC%94%E5%B0%8610%E6%9C%88solo%E5%87%BA%E9%81%93%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Hero星元已就位",
+    "url": "https://s.weibo.com/weibo?q=%23Hero%E6%98%9F%E5%85%83%E5%B7%B2%E5%B0%B1%E4%BD%8D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "这居然是只猫",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E5%8F%AA%E7%8C%AB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "陈晓 尘封十三载",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E6%99%93+%E5%B0%98%E5%B0%81%E5%8D%81%E4%B8%89%E8%BD%BD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何看待《英雄联盟》职业选手 Crisp 再与自己的 CP 粉对线？",
+    "url": "https://www.zhihu.com/question/552888045",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么老一辈人骑自行车总扶着车子滑两步起步再跨上车？",
+    "url": "https://www.zhihu.com/question/59332686",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如果《星际争霸2》资源无限（不是矿采不完，是不用采矿水晶和瓦斯99999999），哪个种族最强？",
+    "url": "https://www.zhihu.com/question/543827749",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "乘坐过很多次飞机，也了解空气动力学；但是看到上百吨的飞机飞上天，为什么还是觉得不可思议?",
+    "url": "https://www.zhihu.com/question/552604807",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如果刘备是个女孩子，三国的故事会如何发展？",
+    "url": "https://www.zhihu.com/question/445795176",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么化学方程式总是那么巧，就配的平?",
+    "url": "https://www.zhihu.com/question/547964660",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "家装、家居股走强",
+    "url": "https://36kr.com/newsflashes/1916071363288835",
+    "summary": "36氪获悉，截至发稿，家装、家居股走强，建艺集团、中天精装、全筑股份涨停，三棵树、蒙娜丽莎、江山欧派等冲高。",
+    "publish_time": "2022-09-15 13:28:35",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "我国科学家首次获得纳米级光雕刻三维结构",
+    "url": "https://content-static.cctvnews.cctv.com/snow-book/index.html?toc_style_id=feeds_default&share_to=wechat&item_id=2469166729408844634&track_id=DDCDF6EE-0012-438E-88B8-5386B2BBF367_684912300757",
+    "summary": "14日夜，国际顶级学术期刊《自然》发表了我国科学家在下一代光电芯片制造领域的重大突破。南京大学张勇、肖敏、祝世宁领衔的科研团队，发明了一种新型“非互易飞秒激光极化铁电畴”技术，将飞秒脉冲激光聚焦于材料“铌酸锂”的晶体内部，通过控制激光移动的方向，在晶体内部形成有效电场，实现三维结构的直写和擦除。这一新技术，突破了传统飞秒激光的光衍射极限，把光雕刻铌酸锂三维结构的尺寸，从传统的1微米量级（相当于头发丝的五十分之一），首次缩小到纳米级，达到30纳米，大大提高了加工精度。（央视新闻）",
+    "publish_time": "2022-09-15 13:29:17",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "法国上调2022年经济增长和通胀率预期",
+    "url": "https://content-static.cctvnews.cctv.com/snow-book/index.html?toc_style_id=feeds_default&share_to=wechat&item_id=7565285255425879813&track_id=CB7DF7F4-B2A0-40D4-9AF4-6712C3D7929A_684912603358",
+    "summary": "当地时间9月14日，法国政府将2022年的经济增长预测从2.5%上调到2.7%，较此前的预测上调了0.2个百分点。与此同时，2022年通胀率预期从此前的5%上调到5.3%，2023年的通胀率预计将从3.2%上调至4.2%。法国经济部长勒梅尔表示，由于能源价格居高不下，在未来的几个月里，2022年12月、2023年1月和2月，通胀水平仍将处于高位。（央视新闻）",
+    "publish_time": "2022-09-15 13:31:18",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "美疾控中心主任：美国猴痘病例增长速度有所放缓",
+    "url": "https://content-static.cctvnews.cctv.com/snow-book/index.html?toc_style_id=feeds_default&share_to=wechat&item_id=14311975468343642729&track_id=6FB2A6FC-B73D-4FC5-BC70-8677BB979055_684891640936",
+    "summary": "当地时间9月14日，美国疾病控制和预防中心主任瓦伦斯基在参议院卫生、教育、劳工和养老金委员会听证会上表示，猴痘病毒继续在美国蔓延，但新增病例的增长速度在过去几周有所放缓。根据美国疾控中心的数据，目前全美累计确诊猴痘病例超过22600例，其中有1例死亡病例。（央视新闻）",
+    "publish_time": "2022-09-15 13:31:38",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "中信证券：供给侧变化为部分蓝筹地产公司带来显著机遇",
+    "url": "https://www.yicai.com/brief/101536757.html",
+    "summary": "中信证券认为，楼市弱复苏中本不存在所谓“金九银十”，政策以渐进累积方式发力。信用风波之下的供给侧变化，为部分蓝筹地产公司带来显著机遇。土地市场的竞争明显更少了，拿地的利润率显著提升了，拿地的区域更趋于一二线核心城市，融资通畅和积极拿地的企业的销售毛利率预计也将迎来拐点。（第一财经）",
+    "publish_time": "2022-09-15 13:33:47",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "美国页岩油气企业称无法为欧洲提供额外能源",
+    "url": "https://content-static.cctvnews.cctv.com/snow-book/index.html?toc_style_id=feeds_default&share_to=wechat&item_id=12383654639965531410&track_id=0EDA3DA1-779E-4A66-B9DA-BE891B8FF224_684893448049",
+    "summary": "据美国媒体当地时间9月14日报道，美国页岩油、页岩气企业已通知欧洲国家，无法在冬天为其提供额外的能源。美国财政部部长耶伦近日表示，欧洲对俄罗斯能源禁运一旦全面生效，石油价格将再次大幅上涨。页岩油气企业对此表示无法立即增产，页岩油和页岩气都是如此。而随着供应收紧，今年冬天原油成本可能会升至每桶120美元以上。（央视新闻）",
+    "publish_time": "2022-09-15 13:35:30",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "酷我音乐正式发布车载6.0版本",
+    "url": "https://36kr.com/newsflashes/1916080502857728",
+    "summary": "36氪获悉，近日，酷我音乐正式发布车载6.0版本。据酷我音乐介绍，6.0新版为用户带来内容精品化、银河音效、全息声音场景和UI界面焕新多项升级，成为业内首个集各类音质音效于一体的车载音乐软件。",
+    "publish_time": "2022-09-15 13:37:52",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "横琴粤澳深度合作区印发上市挂牌专项扶持办法",
+    "url": "http://www.egsea.com/news/detail?id=1274198",
+    "summary": "横琴粤澳深度合作区金融发展局印发《横琴粤澳深度合作区企业上市挂牌专项扶持办法》，2022年9月26日生效。其中规定，对在上海证券交易所、深圳证券交易所、北京证券交易所，或在香港联合交易所主板首次公开发行股票并直接上市交易的合作区企业，一次性给予最高不超5000万元的专项扶持；对股票在全国中小企业股份转让系统首次挂牌转让的合作区企业，给予130万元资金扶持，新三板合作区企业进入创新层，给予70万元资金扶持。（证券时报）",
+    "publish_time": "2022-09-15 13:44:17",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "B站回应诉争“哔哩哔哩”商标被驳回：联名食品与B站没有关系",
+    "url": "https://36kr.com/newsflashes/1916091716427779",
+    "summary": "36氪获悉，针对“B站诉争“哔哩哔哩”商标被驳回”的消息，B站回应表示，接到用户投诉，反映在电商平台上购买了“猫村长”与“哔哩哔哩bilibili”商标的联名食品。这些联名食品与B站没有关系。B站相关商标“哔哩哔哩bilibili”的食品类别在2017年曾被四季自造文化有限公司抢注，该公司后将商标转让至晋江建德食品有限公司生产果冻等糖类产品，并在各大电商平台销售，导致消费者误认为是B站官方联名或授权产品。",
+    "publish_time": "2022-09-15 13:49:17",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "光伏板块午后继续走低",
+    "url": "https://36kr.com/newsflashes/1916092571475717",
+    "summary": "36氪获悉，光伏板块午后继续走低，截至发稿，聆达股份、中信博、锦浪科技、钧达股份、京山轻机、鹿山新材、德业股份等多股跌停或跌超10%。",
+    "publish_time": "2022-09-15 13:50:09",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "金龙羽：目前固态电池项目仍在研发",
+    "url": "https://36kr.com/newsflashes/1916094797471752",
+    "summary": "36氪获悉，金龙羽在互动平台表示，公司主营产品为电力线缆，目前固态电池项目仍在研发。",
+    "publish_time": "2022-09-15 13:52:25",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "阿根廷今年以来累计通胀率达56.4%",
+    "url": "https://content-static.cctvnews.cctv.com/snow-book/index.html?toc_style_id=feeds_default&share_to=wechat&item_id=2865688095033195817&track_id=654BA984-560B-446C-9856-A0893E87A611_684913207623",
+    "summary": "阿根廷国家统计与人口普查研究所14日发布的数据显示，阿根廷今年前8个月累计通胀率为56.4%。数据显示，在截至今年8月的12个月里，阿根廷累计通胀率达78.5%，创1991年以来最高水平。此外，阿根廷8月月度通胀率为7%，当月鞋服、家电等商品价格以及服务价格上涨最快，手机通信、教育、文化休闲等价格上涨相对较慢。（央视新闻）",
+    "publish_time": "2022-09-15 13:53:20",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "基金重仓股主力资金连续两日净卖出超100亿",
+    "url": "https://www.yicai.com/brief/101537193.html",
+    "summary": "基金重仓股主力资金连续两日净卖出超100亿。9月15日截至发稿，隆基绿能净卖出6.05亿元，宁德时代净卖出5.39亿元，比亚迪净卖出5.12亿元，TCL中环、亿纬锂能、阳光电源、通威股份、中矿资源、天齐锂业、捷佳伟创、北方华创、神火股份均遭主力资金净卖出。（第一财经）",
+    "publish_time": "2022-09-15 13:53:59",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "海康威视：关注到美国限制出口高端GPU芯片新闻，对公司业务没有影响",
+    "url": "https://36kr.com/newsflashes/1916098697699331",
+    "summary": "36氪获悉，海康威视在互动平台表示，公司关注到了美国对于高端GPU芯片限制出口的新闻，对公司业务没有影响。",
+    "publish_time": "2022-09-15 13:56:23",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "消息称特斯拉考虑重新调整中国零售策略",
+    "url": "https://www.cls.cn/detail/1131314",
+    "summary": "特斯拉考虑重新调整中国零售策略。（财联社）",
+    "publish_time": "2022-09-15 13:57:26",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "CR929已确定总体技术方案，正式转入初步设计",
+    "url": "https://www.thepaper.cn/newsDetail_forward_19911449",
+    "summary": "2022世界设计之都大会9月15日在上海黄浦滨江开幕，中国工程院院士、中国商用飞机有限责任公司首席科学家、C919大型客机系列型总设计师吴光辉表示，CR929中远程宽体客机复材比例51%，可覆盖95%的航线运营需求，典型航段经济性优于竞争机型10%以上。该机型于2016年项目签署政府协议，2017年组建合资公司，命名CR929，目前已确定飞机总体技术方案，选定机身、尾翼结构部段供应商，正式转入初步设计。（澎湃）",
+    "publish_time": "2022-09-15 13:59:40",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "光伏板块持续走低，TOPCon电池板块领跌",
+    "url": "https://36kr.com/newsflashes/1916108892217094",
+    "summary": "36氪获悉，光伏板块持续走低，TOPCon电池板块领跌，截至发稿，京山轻机、圣阳股份、上海天洋午后跌停，板块内超20股跌停或跌超10%。",
+    "publish_time": "2022-09-15 14:06:45",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "软银将把出售阿里巴巴股份获得的2.61万亿日元收益录入财报",
+    "url": "https://www.cls.cn/detail/1131329",
+    "summary": "软银将把出售阿里巴巴股份获得的2.61万亿日元收益录入财报。（财联社）",
+    "publish_time": "2022-09-15 14:14:57",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "【精通内核】Linux内核写锁实现原理与源码解析",
+    "url": "https://www.infoq.cn/article/ae8840310d31b7aaa68224a8c",
+    "summary": "<p></p><blockquote>前言📫作者简介：<a href=\"https://www.infoq.cn/u/xiaoming/publish\">小明java问道之路</a>\"，专注于研究计算机底层/Java/Liunx 内核，就职于大型金融公司后端高级工程师，擅长交易领域的高安全/可用/并发/性能的架构设计📫&nbsp;🏆 InfoQ 签约博主、CSDN 专家博主/Java 领域优质创作者/CSDN 内容合伙人、阿里云专家/签约博主、华为云专家、51CTO 专家/TOP 红人 🏆🔥如果此文还不错的话，还请👍关注、点赞、收藏三连支持👍一下博主~</blockquote><p></p><p></p><p></p><h1>本文导读</h1><p></p><p>Linux内核读锁实现原理，描述自旋锁时，已经顺带描述了读写自旋锁，所以本节将不再描述自旋锁的读写锁实现。读者是否能想到，既然自旋锁有相关的读写锁实现，信号量也应该有呢？答案是一定的。所以可以到，读写锁实际上是在原有锁上进行优化读写的操作。下面讨论源码实现。</p><p></p><h1>一、Linux内核读写锁核心结构解读</h1><p></p><p>定义一个结构体rw_semaphore代表读写信号量，然后义一宏定义表明读写信号量的偏移值。具体源码如下。</p><p><code lang=\"c\">struct rw_semaphore{\n    // 符号长整型，看到long类型，读者就知道，这又是将一个long类型长度大小切割成不同部分来使用的\n    // 由于使用i38632位来作为例子，因此这里long为32位，同样我们分割为高16位和低16位来使用 \n    signed long count;\n    \n    #define RWSEM UNLOCKED VALUE 0x0000 0000   // 无锁状态值为0\n   \n    #define RWSEM_ACTIVE_BIAS 0x0000 0001   // 锁活动偏移值1\n    \n    // 锁活动位数为4(4个16进制)*4(一个16进制等于4个二进制)=16，即2^16次方个锁位\n    #define RWSEM ACTIVE MASKOx0000 ffff\n    \n    #define RWSEM_WAITING BIAS(-0x00010000)  // 锁等待偏移量，即 0xffff 0000\n\n    #define RWSEM ACTIVE READ_BIASRWSEM_ACTIVE_BIAS // 读锁偏移量\n\n    // 写锁偏移量0xffff0001 为负数\n    #define RWSEM ACTIVE WRITE BIAS (RWSEM_WAITING_BIAS+RWSEM_ACTIVE_BIAS)\n    \n    spinlock twait_lock;    // 保护等待链表的自旋锁\n    struct list_head wait_list;// 等待链表\n};\n\n//等待读写信号量的任务结构体 \nstruct rwsem_waiter{\n    struct list_head list;\n    \n    struct task_struct*task;\n    unsigned int flags;// 标志位声明为等待读锁还是写锁\n\n    #define RWSEM_WAITING_FOR_READ 0x00000001\n    #define RWSEM_WAITING_FOR_WRITE 0x00000002\n};</code></p><p></p><h1>二、Linux内核获取写锁源码解读</h1><p></p><p>首先原子性减0xffff0001，然后判断原来的状态是否为 0，如果是，则表明获取写锁成功；</p><p>否则需要调用 rwsem_down_write_failed 函数进行阻塞排队操作。</p><p><code lang=\"java\">static inline void_down_write(struct rw_semaphore *sem) {\n    int tmp=RWSEM_ACTIVE_WRITE BIAS; \n    _asm__volatile_(\n        //原子性减0xffff001即写锁偏移量，返回旧值被放到edx寄存器中 \n        LOCK_PREFIX\" xadd %%edx,(%%eax)\"\n        \n        //查看之前的count值是否为0，因为只有为0，才是无锁状态\n        \" testl %%edx,%%edx\"\n        \n        //如果不为0，则获取锁失败跳到标号2处执行\n        \" jnz 2f\"\"1:\"\n        LOCK_SECTION_START(\"\")\n        //保存ecx，然后调用rwsem_down_write_failed进行阻塞排队操作\n        \"2:\"\n        \" pushl%%есx\"\n        \" call  rwsem_down_write failed\"\n        \" popl%%eсx\"\n        \" jmp1b\"\n        LOCK_SECTION_END\n        : \"=m\"(sem-&gt;count), \"=d\"(tmp)\n        : \"a\"(sem)，\"1\"(tmp), \"m\"(sem-&gt;count)\n        : \"memory\", \"cc\");\n}\n\n// 处理写锁上锁失败逻辑\nstruct rw_semaphore *rwsem_down_write_failed(struct rw_semaphore *sem) {\n    // 创建等待节点\n    struct rwsem waiter waiter;\n    waiter.flags=RWSEM WAITING FOR WRITE;\n    // 调用公共处理逻辑执行等待操作。-RWSEM ACTIVE BIAS =Oxffff fff \n    rwsem_down_failed_common(sem,&amp;waiter,-RWSEM_ACTIVE BIAS); \n    return sem;\n}</code></p><p></p><h1>三、Linux内核释放写锁源码解读</h1><p></p><p>首先将锁状态变为无锁状态，如果发现有任务正在等待唤醒，那么调用rwsem_wake 唤醒等待的任务</p><p><code lang=\"c\">static inline void_up_write(struct rw_semaphore *sem) {\n    _asm__volatile_(\n        \" movl %2,%%edx\" // 将写锁偏移量取负数后的值，即0x0000 ffff 放入edx中\n        // 尝试从Oxffff0001(持有写锁且无等待任务的状态，因为写写、读写互斥)变为 0x00000000 \n        LOCK PREFIX\" xaddl %%edx,(%%eax)\"\n        \" jnz 2f\"//如果之前count值不为0，则有任务正在等待，跳到标号2处执行\n        \" 1:\"\n        LOCK_SECTION_START(\"\")\n        \"2:\"\n        // 对dx也就是释前的lock值低16位自减，看看是否为0，即看看是否有活动的任务 \n        \" decw %%dx\"\n        // 如果不为0，则表示写锁被释放后有任务获得了锁，退出;\n        // 否则，调用rwsem_wake唤醒等待任务\n        \" jnz 1b\"\n        \" pushl%%ecx\"\n        \" callrwsem_wake\"\n        \" popl%%eсx\"\n        \" jmp1b\"\n        LOCK SECTION END\n        : \"=m\"(sem-&gt;count)\n        : \"a\"(sem), \"i\"(-RWSEM_ACTIVE_WRITE_BIAS),\"m\"(sem-&gt;count)\n        : \"memory\", \"cc\", \"edx\");\n}\n</code></p><p></p><h1>四、Linux内核读写锁锁降级源码解读</h1><p></p><p>有时候我们需要在获取到写锁后，进行降级为读锁，这可以通过 downgrade_write 方法进行锁降级有先原子性的降锁状态从写锁状态置为读锁状态，如果结果小于0，则表明有任务正在等待被唤醒，此时可以调用rwsem_downgrade_wake 函数唤醒等待读锁的任务，因为此时写锁已经被释放，可以让等待读锁的任务一起并行执行。</p><p><code lang=\"c\">// 写锁降级为读锁\nstatic inline void___downgrade_write(struct rw_semaphore*sem) {\n    _asm__volatile_(\n        LOCK PREFIX\" addl %2，(%%eax)\"//将状态从0xZZZZ0001变为0xYYYY0001\n        // 如果小于0，即锁正在等待被释放，则跳到标号2处执行rwsem_downgrade_wake函数，降级唤醒操作\n        \" js 2f\"\n        \"1:\"\n    LOCK_SECTION_START(\"\")\n        \"2:\"\n        \" pushl%%ecx\"\n        \" pushl%%edx\"\n        \" callrwsem_downgrade_wake\"  // 调用rwsem_downgrade_wake 函数\n        \" popl%%edx\"\n        \" popl%%есx\"\n        \" jmp1b\"\n    LOCK_SECTION_END\n        : \"=m\"(sem-&gt;count)\n        : \"a\"(sem), \"i\"(-RWSEM_WAITING_BIAS), \"m\"(sem-&gt;count): \n        : \"memory\", \"cc\");\n}\n\n\n// 接下来查看rwsem_downgrade_wake 函数实现过程。\nstruct rw_semaphore*rsem_downgrade_wake(struct rw_semaphore*sem){\n    // 获取自旋锁\n    spin_lock(&amp;sem-&gt;wait lock);\n    // 如果等待队列不为空，那么调用_rwsem_do_wake函数唤醒\n    // 注意，这里传入为0，表明只唤醒读任务 if(!list_empty(&amp;sem-&gt;wait list))\n    sem=___rwsem_do_wake(sem,0); // 释放自旋锁\n    spin_unlock(&amp;sem-&gt;wait lock); \n    return sem;\n}</code></p><p></p><h1>五、Linux内核读写锁唤醒线程过程</h1><p></p><p>首先获取保护等待队列的自旋锁，然后检测队列是否为空，如果不为空，那么调用 rwsem_do_wake 函数唤醒等待的任务。</p><p><code lang=\"c\">struct rw_semaphore *rwsem wake(struct rw semaphore*sem) {\n    spin lock(&amp;sem-&gt;wait lock); // 获取自旋锁\n    // 如果等待链表为空，则什么也不做，否则调用rwsemdo wake函数唤醒任务 \n    // 注：这里传入为0，表名只唤醒读任务\n    if(!listempty(&amp;sem-&gt;wait list)) \n        sem =_rwsem_do_wake(sem，1);// 1表明唤醒写任务 \n        spin_unlock(&amp;sem-&gt;wait_lock); \n        return sem;\n}\n\n// 真正唤醒流程\nstatic inline struct rw_semaphore*__rwsem_do_wake(struct rw_semaphore *sem,int wakewrite) {\n    struct rwsem waiter *waiter; \n    struct list head *next; \n    signed long oldcount; int woken, loop;\n    // 如果不唤醒写任务，那么直接跳转到 dont_wake_writers执行 \n    if(!wakewrite)\n        goto dont_wake_writers; \n    try again:\n    oldcount =rwsem_atomic_update(RWSEM_ACTIVE_BIAS,sem)-RWSEM_ACTIVE_BIAS;\n\n    // 如果之前count与上RWSEM_ACTIVE_MASK不为0，也就是还有活动的任务，则还原修改之前的值\n    if (oldcount &amp; RWSEM_ACTIVE_MASK)\n        goto undo;\n\n    // 否则取出下一个等待任务，如果下一个等待的任务不是一个写任务，那么调用readers_only\n    //函数唤醒读任务\n    waiter =list_entry(sem-&gt;wait_list.next,struct rwsem_waiter,list); \n    if(!(waiter-&gt;flags&amp;RWSEM_WAITING_FOR_WRITE))\n        goto readers_only;\n\n    //否则将写者从队列中移出，修改 flags 为0，调用wake_up_process函数唤醒任务，并且退出 \n    list_del(&amp;waiter-&gt;list); \n    waiter-&gt;flags =0;\n    wake_up_process(waiter-&gt;task);\n    goto out;\n\n不唤醒写者操作流程，取出下一个等待者，如果等待者是写者，那么直接退出 \ndont wake writers:\n    waiter =list_entry(sem-&gt;wait_list.next,struct rwsem_waiter,list); \n    if(waiter-&gt;flags &amp;RWSEM_WAITING_FOR_WRITE)\n        goto out;\n\n// 只唤醒读者操作流程，遍历等待链表，直到等待者为写者时停下 \nreaders_only:\n    woken =0; \n    do {\n        woken++;\n        if (waiter-&gt;list.next==&amp;sem-&gt;wait_list)\n            break;\n        waiter =list_entry(waiter-&gt;listnext，struct rwsem_waiter,list);\n    } while (waiter-&gt;flags &amp;RWSEM_WAITING_FOR_READ); \n    loop=woken;\n    woken *= RWSEM_ACTIVE_BIAS-RWSEM_WAITING_BIAS; woken-=RWSEM_ACTIVE_BIAS;\n    rwsem_atomic_add(woken，sem);// 更新counter 值\n    next = sem-&gt;wait_list.next;//  获取循环开始节点\n    for (; loop&gt;0;loop--){    //  从当前节点一直遍历唤醒所有读等待任务\n        waiter =list_entry(next,struct rwsem_waiter,list); \n        next = waiter-&gt;list.next; \n        waiter-&gt;flags =0;\n        wake_up_process(waiter-&gt;task);\n        \n        //  然后将唤醒了的一系列链表断开链接 sem-&gt;wait_list.next=next; next-&gt;prev = &amp;sem-&gt;wait_list;\n// 退出流程 \nout:\n    return sem;\n//还原操作流程 \nundo:\n// 再次判断，如果还有活动任务，则退出\n    if (rwsem_atomic_update(-RWSEM_ACTIVE_BIAS，sem)!=0)\n        goto out; \n        goto try_again;\n}</code></p><p></p><h1>总结</h1><p></p><p>实际上，针对读写信号量，如果我们用C语言代码高级语言来描述的话，则十分简单，即一个公平的读写锁。也就是说，当有读锁持有时，如果有读任务，则可以直接获得读锁;但如果此时有写仕务在等待的情况下，那么将会导致读锁获取失败，转而进入等待状态。当读锁释放后返回看看有没写者在等待，如果有写者在等待且传入了唤醒写者的标识1，那么看看等待列表的下一个等待任务是1是写节点，如果不是，那么遍历等待列表，唤醒所有读者，直到遇到一个写节点。然而，如果在持有写锁的情况下，那么读锁肯定获取失败，然后进入等待队列中，写锁被释放后，如果有锁等待，那会唤醒等待任务。</p>",
+    "publish_time": "2022-09-15 00:21:29",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "范珂：数字化时代下，数据驱动决策组织文化的打造",
+    "url": "https://www.infoq.cn/article/k0Lr2oVo3EdPqVR6CLo0",
+    "summary": "<p>各位朋友，大家好，今天跟大家分享的主题是数字化时代下数据驱动决策组织文化的打造。首先做一个自我介绍。我叫范珂，目前在一家民营化妆品企业担任首席人力官。在加入这家公司之前，在一家跨国汽车公司担任亚太区人力资源总监，还在另一家跨国半导体公司做过亚太区人力资源总监。在工作之余，我也参与了一些英文经典HR方面的著作翻译，比如说《奈飞文化手册》、《高绩效的HR》《卓越领导之旅》等。</p><p></p><h1>数据驱动决策的文化</h1><p></p><p></p><p>在2003年的世界经济论坛上，提出了“Data is the new oil”这句口号。怎么来理解这句话呢？大家都知道因为石油的发现推动了第二次工业革命，后来因为互联网技术的发展，我们有了更多的工具和手段来收集数据，分析数据，用数据为组织去创造价值，所以数据受到了越来越多的组织的重视。根据波士顿咨询发布的报告，在影响组织变革的十二项力量中，其中一项就是人才需求变化方面的大数据和高级数据分析。随着有越来越多的手段可以去收集、处理、分析数据，组织对数据分析方面人才的需求非常旺盛。越来越多的企业开始注重培养组织的数据分析能力，培养数据驱动决策的文化。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/38/3850d98bec60cba6932be3365795bdd4.png\" /></p><p></p><p>不久前我读了一本书，这本书应该还没有在中国市场面世。这本书的名字叫《Think like Amazon》，翻译过来就是《像亚马逊一样思考》。这是亚马逊早期创业阶段的一位副总监写的一本书，他曾经参与了亚马逊早期电商平台的搭建。在书里面他提到，如果从亚马逊所有的成功因素里面挑出一个最重要的话，那就是数据指标（Metrics），或者说数据驱动决策的文化。</p><p></p><p>在亚马逊公司内部的决策流程里面，数据起到了非常关键的作用，亚马逊把对数据的管理落实到了每个月、每周甚至每天的工作中。通过对指标进行分析，不遗余力地深挖问题发生的根本原因，并不断改进；设计出一套体系和指标，以方便对业务的各个方面进行实时的监控和评估；召集以经营数据分析为核心任务的日常业务经营会，让所有利益相关方真正承担起责任并采取行动，从而推动整个组织不断实现高目标。</p><p></p><p>无独有偶，前谷歌首席人才官拉斯洛·博克所写的《重新定义团队》一书中，也花了很大的篇幅来介绍谷歌内部的决策文化，这种决策文化用一句话来概括就是数据驱动决策。我对他书里面的一句话印象非常深刻，“谷歌的HR决策从来都不是来自哪个最佳实践，一定只会是来自内部数据的分析。”</p><p></p><h1>数据驱动决策的组织文化特点</h1><p></p><p></p><p>越来越多的组织开始讨论数字化转型。我们可以比较下传统型组织和完成了或者正在进行数字化转型的组织，两者在组织文化层面存在着以下四个方面的区别。</p><p></p><p>第一，决策方式。传统型组织更多的是靠经验、直觉去做决策，而在数字化组织里面，因为可以通过技术手段去收集和分析大量的数据，所以在这些组织里面一定是通过数据说话，通过数据分析对未来趋势做出预测，以此来影响商业决策。</p><p></p><p>举个例子，曾经有人说到我们公司的品牌，凭感觉认为喜欢我们品牌的人可能会中年人居多，但是后来我们把后台的销售数字拉出来发现30岁以下的年轻群体其实占了非常大的比例。我们的大量销售是通过电商平台完成的，所以可以很容易地去拉出消费者的数据。通过数据分析发现品牌的重点受众是年轻人群，那未来的产品研发和品牌营销等都应该瞄准年轻人群，这就是一种通过数字去驱动决策的方式。</p><p></p><p>第二，组织设计。传统型组织的组织设计更偏向于科层式，也就是从上到下的金字塔结构。上级做出决定，然后一层一层地传递到基层。但是今天数字化组织面临着快速多变的市场环境，信息传递需要更加快速敏捷，因此，数字化组织的设计更加扁平化，缩短信息传递的距离。</p><p></p><p>同时，在数字化组织里面，会更强调发展组织的数据分析能力，所以会把组织的各个部门划分为前-中-后台。其中在中台要建立一支非常强大的数据分析团队以支持前端团队。前端团队直接服务于终端消费者，后端则通常包括为整个组织提供基础设施的团队，比如法务、财务、人力资源等。</p><p></p><p>第三，管理方式。在传统型组织里面，因为是金字塔式的组织结构，所以更强调以严格的流程去管控决策。而在数字化组织里面，为了随时跟上外界的变化，它的管理方式更倾向于赋能一线，让一线能够去做出决定，让听得见炮火的人来做决策。</p><p></p><p>第四，人员能力。传统型的组织对人员能力的要求更多的是强调有效决策，团队管理能力、执行力比较强。数字化的组织模式则决定了对人员的能力要求更多的是创新和流程再造，也要求组织里的每一个人具备相应的数据分析能力。</p><p></p><p>由于传统组织和数字化组织之间的这些区别，组织在寻求数字化转型的过程中往往要面临以下四个方面的痛点。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/c4/c42b1bad1855c02618695964e792e5f2.png\" /></p><p></p><h1>组织数据处理能力的四步走</h1><p></p><p></p><p>接下来我分享一下关于组织人员数据分析能力的观点。组织的数据分析能力，一般根据难度、复杂度以及对组织带来的价值可以分为四个阶段。</p><p></p><p>第一阶段，也是最基础的一个能力是描述性分析。指的是可以把组织里的大量数据所呈现出的趋势描述出来的能力。</p><p></p><p>第二阶段，诊断性分析。即根据收集到的数据，推导可能出现的问题并及时解决这些问题的能力。就像医生给病人做诊断一样，根据数据发现问题、诊断问题，然后解决问题。</p><p></p><p>第三阶段，预测性分析。可以根据历史数据来预测未来趋势。比如说大家如果登录淘宝、京东会发现，系统能够准确地把你可能喜欢的商品推送给你，原因就是系统可以根据用户画像去预测用户可能喜欢买的物品，这是预测性分析，目前预测性分析用到了很多相关的人工智能技术。</p><p></p><p>最后一个阶段叫指导性分析。指导性分析是在预测性分析的基础又进一步，可以实现对数据自动处理及分析，还可针对组织面临的运营问题、销售问题提供解决方案，且不需要随时的人工介入。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/67/6719cb0159b7f0dc27d14c2a8c28a2b7.png\" /></p><p></p><p>如今大数据时代下的数据分析相较传统的数据分析，更强调综合系统化的数据分析能力。传统的数据分析往往是独立的、分割的状态。举个例子，分析财务数据的时候，如果只看财务报表上面的数据，这就是一种很独立的数据分析。而当把财务、人力、销售、市场数据整合在一起，才能从普通的数据分析上升到系统的数据分析能力。</p><p></p><p>系统化的数据分析不止可以反映表象，更能深入到数据的底层去挖掘其背后的联系和原因，找出原因才方便去解决问题。此外，系统化的数据分析可以在分析过去和现在的状态基础上更进一步做到洞察未来。</p><p></p><p>最后一点，普通的数据分析更多的还是去做一些简单的图表呈现，比如我们经常会用PPT或者Excel做出一些简单的数据呈现。进入大数据的时代，要去做系统化数据分析的时候，就需要借助先进的数据分析的工具，比如说常见的Python编程、R语言编程等，去实现更加复杂、大量的数据分析；同时也可以通过Power BI等工具将数据进行数据化的呈现。</p><p></p><p></p><h1>数据分析团队的搭建</h1><p></p><p></p><p>说完组织数据分析的能力，我们再聊聊数据分析团队的搭建。在我看来，数据分析团队里面，通常可以分成三阶。</p><p></p><p>第一阶，数据信息的分析。这个岗位的职责是要保证数据的完整性和准确性，能够熟练地使用数据收集系统及时准确地、完整地去收集到公司所需要的数据，是最基本的一阶。</p><p></p><p>第二阶岗位，商业分析。这个岗位需要既懂数据分析，也要懂商业领域的知识，能够透过现象去看本质，对数据更加深层次的分析得出有价值的结论或解决方案。</p><p></p><p>第三阶，也是最高的一阶，叫做业务伙伴。在HR领域有一个岗位叫BP， Business Partner。在数据分析团队，其实也需要这样的Business Partner，基于对业务的深刻理解，通过数据分析的结果能够真正去影响业务的决策。</p><p></p><p>以上是我对数据分析团队三个阶段的定义，大家可以对照看下自己组织的数据分析团队处于哪个阶段。</p><p></p><p>接下来，我们再聊聊如何发展个人的数据分析能力，我认为可以从以下五个方面入手。</p><p></p><p>一，业务的敏锐度。就是要了解并全面理解业务，脱离业务去学习数据能力那就是本末倒置了，数据分析能力一定是要服务于业务目标的。</p><p></p><p>二，通过学习统计学、数据科学建立基本的数据分析的能力。</p><p></p><p>三，跨部门的知识和经验。只有实现真正跨部门的分析，分析结果才是真正有价值的。否则，很可能会因为缺失整个组织层面的视野而忽略一些非常重要的问题。</p><p></p><p>四，商业咨询和商务沟通技能。对数据做出了分析之后，还需要组织好你的分析结果，形成逻辑清晰的商业报告，将结果有效地沟通给你的商业客户。</p><p></p><p>最后，当需要向高层领导或者说更高级别的受众去呈现数据分析结果的时候，高效的演示、演讲能力就显得尤为重要，需要从数字里提炼出生动的线索，以讲故事的形式有重点地呈现出来。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/a1/a1f22a7a9b46396eb88e797a987dff2a.png\" /></p><p></p><h1>如何从零打造组织的数据驱动决策能力</h1><p></p><p></p><p>如果你所在的组织现在还停留在传统组织的层面，还没有真正转型为数字化组织，但又想在组织里面打造数据驱动决策的组织文化的话，应该从哪里开始入手呢？在这里，我给大家几个建议。</p><p></p><p>第一个建议是要建立起一套完整的、充分的业务数据的收集体系。数据分析就像炒菜一样，如果没有合适的原材料，没有数据又何谈实现数字化转型？所以首先就要建立非常完整的数据收集体系。</p><p></p><p>以人力资源为例，以前大家没有数据驱动决策意识的时候，人力资源同事在收集员工的人力资源数据的时候，只会去关注学历、年龄、籍贯这样的数据。但现在大家知道数据可以带来更大的价值，就会有意识再去收集员工喜好、性格特征、行为特征等更多的数据，这些都需要靠一套完整的数据收集体系才能够完成。</p><p></p><p>第二点，要建立一套组织的核心绩效指标。这个绩效指标需要有结果指标，比如收入、利润等，同时还需要有过程指标，比如拜访了多少客户，开发了多少客户资源等。如果不关注过程只追踪结果指标的话，等到发现结果不好的时候，也错过了解决问题的时机和方案。既追过程又追结果，结果才能够得到保证。</p><p></p><p>第三点，要把主要业务部门的数据系统打通来做数据分析，财务、市场、销售、人力等部门都需要打通。</p><p></p><p>第四点，要在组织里面要建立起标准的周报和月报制度，通过周报、月报来跟踪结果指标和过程指标，当然主要是可以跟踪过程指标，当指标的变化出现偏出常规的趋势的时候，可以及时介入去处理这些问题，解决这些问题，只有这样结果才会自然地变好。</p><p></p><p>第五点，在整个的数据监控、数据处理、数据分析的过程中，绝不能放过任何一个表现异常的指标，而且绝对不能停留在表面上，要不断地去深挖根源。</p><p></p><p>在丰田有一个管理方法叫“五个为什么”，就是当发现任何一个问题的时候，要不断地去追问原因，当连续问五个“为什么会这样”的时候，比较明显的答案可能就浮现出来了。这也是在数据分析里面需要具备的一种意识，千万不要放过任何一个表现异常的指标。为什么这个月成本上升了？原因是部门多招了人。为什么要多招人？因为缺人。为什么缺人？是不是因为组织的原因，或者是因为领导的原因导致人员的离职率偏高等。就是要一步一步地去深挖，通过不断地去问为什么找到问题的根源，从而才能解决问题。</p><p></p><p>最后，在数据分析的过程中，一方面要跟自己组织的历史做对比，确保自己在不断地提升。另一方面还要横向地跟行业内的领先公司做比较。以我们公司为例，当竞争对手出了季报、半年报、年报之后，我们都会去把这些公司的市场表现、财报数据找过来，然后一一地去分析我们和竞对公司的成本、毛利率、人效等等。</p><p></p><p>只有这样才会发现和这些行业领先公司之间的差距，然后去深挖原因，找到可以从哪些地方去做工作，给自己定出下一阶段的目标，从而不断缩小和行业领先公司之间的差距。管理就是在不断的精进过程中才能够真正得到提升，才能够最终实现整个组织的目标。</p><p></p><p>以上是我归纳出来大家可以从零开始打造组织数据驱动决策能力的一些方法。非常感谢大家的时间，期待未来有更多的机会跟大家做更深入的交流，谢谢。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/9e/9e7926882dc833bdaf80644024cb033c.jpeg\" /></p><p></p><h4>关于极客时间企业版</h4><p></p><p></p><p>极客时间企业版由极客邦科技倾力打造，是企业级一站式数字技能学习平台，是具备好内容、好产品、好服务的“三好平台”，助力企业打造行业领先的数字人才团队，驱动企业的数字化转型与高质量发展。</p><p></p><p>自 2019 年以来，极客时间企业版已服务近 3000&nbsp;家技术驱动型企业，覆盖银行、金融科技、保险、互联网、移动通信、软件、工业制造、教育等行业客户。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/e3/e3c148931b18c1c7305e2fa67698f7ba.jpeg\" /></p><p></p>",
+    "publish_time": "2022-09-15 12:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "The importance of stupidity in scientific research (2008) [pdf]",
+    "url": "https://web.stanford.edu/~fukamit/schwartz-2008.pdf",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32845512\">Comments</a>",
+    "publish_time": "2022-09-15 08:40:57",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A neurologist’s quest to solve Covid-related neurological disorders",
+    "url": "https://www.chicagomag.com/chicago-magazine/october-2022/the-long-haul/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32846143\">Comments</a>",
+    "publish_time": "2022-09-15 10:05:41",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Fractal Generation: A Rustacean’s Prespective (2021)",
+    "url": "https://blocr.github.io/posts/fractal_generation.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32843145\">Comments</a>",
+    "publish_time": "2022-09-15 04:48:39",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Merge soon",
+    "url": "https://ultrasound.money",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32847141\">Comments</a>",
+    "publish_time": "2022-09-15 12:44:30",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Denmark no longer offering Covid vaccinations to healthy adults under 50",
+    "url": "https://www.sst.dk/en/english/corona-eng/vaccination-against-covid-19",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32843348\">Comments</a>",
+    "publish_time": "2022-09-15 05:05:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A method to promote sleep in crying infants using the transport response [pdf]",
+    "url": "https://www.cell.com/current-biology/pdf/S0960-9822(22)01363-X.pdf",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32845229\">Comments</a>",
+    "publish_time": "2022-09-15 08:06:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Pay attention to deviations from mainstream incentives",
+    "url": "https://commoncog.com/pay-attention-to-deviations-from-mainstream-incentives/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32847192\">Comments</a>",
+    "publish_time": "2022-09-15 12:52:13",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
