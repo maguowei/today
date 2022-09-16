@@ -97,5 +97,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "R2S 软路由跑不满千兆，如何排查性能瓶颈在哪？",
+    "url": "https://www.v2ex.com/t/880429",
+    "summary": "villivateur: <p>Nanopi R2S 刷了 Openwrt 的纯净版官方固件，作为家里的主路由。但是测速跑不满千兆，最多 480Mbps 左右。</p>\n<p>用 iperf3 测试 LAN 口设备到 R2S 的速度，可以达到千兆。电脑直连光猫测外网速度也能跑千兆。</p>\n<p>全速下载时，r2s 的 CPU 占用只有 50% 左右，各种代理插件已关。</p>",
+    "publish_time": "2022-09-16 09:00:56",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
