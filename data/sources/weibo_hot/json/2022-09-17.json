@@ -574,5 +574,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "英雄回家",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "麓山之歌全员晒与工人合影",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%BA%93%E5%B1%B1%E4%B9%8B%E6%AD%8C%E5%85%A8%E5%91%98%E6%99%92%E4%B8%8E%E5%B7%A5%E4%BA%BA%E5%90%88%E5%BD%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]

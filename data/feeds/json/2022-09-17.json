@@ -1306,5 +1306,63 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "英雄回家",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "麓山之歌全员晒与工人合影",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%BA%93%E5%B1%B1%E4%B9%8B%E6%AD%8C%E5%85%A8%E5%91%98%E6%99%92%E4%B8%8E%E5%B7%A5%E4%BA%BA%E5%90%88%E5%BD%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "你会接受能力不及你的人做你领导吗?",
+    "url": "https://www.zhihu.com/question/551642492",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "终极哲学命题，人活一辈子的意义是什么？",
+    "url": "https://www.zhihu.com/question/553072766",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Reasons to be cheerful: 'GPU mining is dead less than 24 hours after the merge'",
+    "url": "https://www.pcgamer.com/reasons-to-be-cheerful-gpu-mining-is-dead-less-than-24-hours-after-the-merge/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32868979\">Comments</a>",
+    "publish_time": "2022-09-17 01:02:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "【夜读】让生活越来越充实的五种方式",
+    "url": "https://mp.weixin.qq.com/s/Ol1euyj5zzS9YW97L9bGHw",
+    "summary": "【夜读】让生活越来越充实的五种方式",
+    "publish_time": "2022-09-17 02:39:17",
+    "source": {
+      "name": "people_daily_gzh",
+      "desc": "人民日报公众号",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
+    }
   }
 ]
