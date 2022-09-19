@@ -86,5 +86,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "因担心安全问题，40%的调查组织减少了对开源的使用",
+    "url": "https://www.infoq.cn/article/TBCShbcXLtChWqoROb26",
+    "summary": "<p>根据数据科学公司 Anaconda <a href=\"https://www.anaconda.com/state-of-data-science-report-2022\">调查显示</a>\"，约 40% 的行业专业人士表示，出于对安全性的担忧，他们的组织减少了对开源软件的使用。</p><p>&nbsp;</p><p>该公司在 4 月和 5 月征求了来自 133 个国家和地区的 3,493 名个人的意见，其中大约 33% 的人表示他们没有缩减开源，7% 的人表示他们增加了使用量，20% 的人表示他们不确定，剩下的 40% 的人说他们的组织缩减了开源的使用。</p><p>&nbsp;</p><p>但是缩减规模并不意味着停止，87% 的受访者表示他们的组织仍然允许使用开源。不过，似乎有很多人也正在寻求降低过多依赖开源的风险。</p><p>&nbsp;</p><p>Anaconda 的报告发现，诸如<a href=\"https://www.infoq.cn/article/SOQt4DKdWUi652W2CmRh\">Log4j</a>\"漏洞和“<a href=\"https://www.infoq.cn/article/U1qrBaqxDGs4Qou6h739\">开源软件供应链投毒</a>\"”事件促使开源软件的用户更加重视安全问题。在这 40% 的组织中，超过一半是在 Log4j 漏洞爆发之后这样做的。</p><p>&nbsp;</p><p>大约 31% 的受访者表示，安全漏洞是当今开源社区面临的最大挑战。</p><p>&nbsp;</p><p>据 Anaconda 称，大多数组织都使用开源软件。不使用开源软件的其他原因包括：缺乏理解（38%）；对组织 IT 治理缺乏信心（29%）；“开源软件被认为是不安全的，因此是不允许的”（28%）；并且不想破坏当前的项目（26%）。</p><p>&nbsp;</p><p>调查报告链接：<a href=\"https://www.anaconda.com/state-of-data-science-report-2022\">https://www.anaconda.com/state-of-data-science-report-2022</a>\"</p><p>&nbsp;</p>",
+    "publish_time": "2022-09-19 19:21:28",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
