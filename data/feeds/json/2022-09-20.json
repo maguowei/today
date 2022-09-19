@@ -1079,5 +1079,56 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "要生活好看",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%A6%81%E7%94%9F%E6%B4%BB%E5%A5%BD%E7%9C%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "邢菲趋势封面大片",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%82%A2%E8%8F%B2%E8%B6%8B%E5%8A%BF%E5%B0%81%E9%9D%A2%E5%A4%A7%E7%89%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "I’m a productive programmer with a memory of a fruit fly",
+    "url": "https://hynek.me/articles/productive-fruit-fly-programmer/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32900164\">Comments</a>",
+    "publish_time": "2022-09-20 00:04:47",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "I'm Building a Self-Destructing USB Drive Part 2",
+    "url": "https://interruptlabs.ca/2022/08/31/I-m-Building-a-Self-Destructing-USB-Drive-Part-2/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32900787\">Comments</a>",
+    "publish_time": "2022-09-20 00:50:06",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "“Return to Monkey Island” is out today",
+    "url": "https://returntomonkeyisland.com/?abc",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32901158\">Comments</a>",
+    "publish_time": "2022-09-20 01:18:24",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
