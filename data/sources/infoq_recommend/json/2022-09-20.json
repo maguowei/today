@@ -31,5 +31,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "敏态业务挑战下，作业帮、微盟的数据库落地与调优实践",
+    "url": "https://www.infoq.cn/article/2CmuevREKcKiOmCV8qix",
+    "summary": "<p>面对数字时代线上流量的冲击，业务系统访问及数据量呈指数级上升，对数据库的安全性、稳定性、高可用都提出了更高的要求。企业一方面要维持传统业务的平稳运行，另一方面，也需要应对市场急速变化带来的<a href=\"https://www.infoq.cn/article/bMsmOvuc1JKfOfulpFzC\">敏态业务挑战</a>\"。</p><p></p><p>当开源数据库已经不能满足千变万化的业务需求、国产数据库成为企业首选，自研数据库的重要性不言而喻。9 月 26 日 19:00-21:00，我们邀请了 3 位技术专家，分享数据库自研过程中遇到的技术挑战与解决之道，以及具体业务场景中数据库落地调优经验。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/d1/d176abef6dfdb27915d84cd790d0ff18.jpeg\" /></p><p></p><h2>议题介绍</h2><p></p><p></p><h5>19:00-19:40《云原生下缓存架构如何演变》</h5><p></p><p>分享嘉宾：顾雅各，作业帮 DBA</p><p>议题简介：当下，随着<a href=\"https://xie.infoq.cn/article/56d409df7cd452a57f35dfe9b\">云原生</a>\"在企业应用的场景越来越多，业务程序在容器等技术的加持下，也越来越灵活，高弹性，易伸缩，多活需求的业务程序，给传统的缓存也带来了挑战，怎么演变才能更好的服务业务？</p><p></p><p></p><h5>19:40-20:20《在敏态业务场景中，微盟数据库的应用实践之路》</h5><p></p><p>分享嘉宾：余成真，微盟数据库高级技术专家</p><p>议题简介：企业级 SaaS 平台重要考量指标之一：持续创新的能力。这种以业务创新、管理创新为导向的技术创新，传导至后台支撑应用的数据库更需要具备持续变更的能力。本次分享，将从资源部署、数据赋能、灵活集成、动态扩展四个维度阐述微盟在全链路压测项目中数据库侧的应用实践之路。</p><p></p><p></p><h5>20:20-21:00《TDSQL 破局敏态业务背后的技术演进》</h5><p></p><p>分享嘉宾：刘畅，腾讯云数据库高级工程师</p><p>议题简介：TDSQL 是腾讯云发布的一款全自研的、面向企业级应用的<a href=\"https://www.infoq.cn/video/aFGc1l02v39SsT1XSEAU\">分布式数据库</a>\"产品。在敏态业务下，数据库需要具备频繁扩缩容的能力。本次分享主要介绍 TDSQL 是如何在频繁扩缩容时，不影响事务执行，做到对上层业务无感知的。</p><p></p><h2>预约报名</h2><p></p><p></p><p>本次公开课，除嘉宾分享外，直播间的小伙伴们还可以通过评论区就分享主题向嘉宾提问互动，现在扫码，即可预约直播！</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/55/5506ff5ecd9f491fa0b6b378f346b123.jpeg\" /></p><p></p>",
+    "publish_time": "2022-09-20 13:11:30",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
