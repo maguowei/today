@@ -2660,5 +2660,638 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "南依",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BE%9D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "知名艺考机构老师被曝诱奸未成年",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%9F%A5%E5%90%8D%E8%89%BA%E8%80%83%E6%9C%BA%E6%9E%84%E8%80%81%E5%B8%88%E8%A2%AB%E6%9B%9D%E8%AF%B1%E5%A5%B8%E6%9C%AA%E6%88%90%E5%B9%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "施子怡",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%96%BD%E5%AD%90%E6%80%A1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "小伙吃自热锅将发热包与食材同煮",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E5%90%83%E8%87%AA%E7%83%AD%E9%94%85%E5%B0%86%E5%8F%91%E7%83%AD%E5%8C%85%E4%B8%8E%E9%A3%9F%E6%9D%90%E5%90%8C%E7%85%AE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "苹果将iPhone14Pro系列出货量提升10%",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%B0%86iPhone14Pro%E7%B3%BB%E5%88%97%E5%87%BA%E8%B4%A7%E9%87%8F%E6%8F%90%E5%8D%8710%25%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "猫咪开门让扫地机器人下27楼",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8C%AB%E5%92%AA%E5%BC%80%E9%97%A8%E8%AE%A9%E6%89%AB%E5%9C%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%8B27%E6%A5%BC%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "看小森林得了森精病",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%9C%8B%E5%B0%8F%E6%A3%AE%E6%9E%97%E5%BE%97%E4%BA%86%E6%A3%AE%E7%B2%BE%E7%97%85%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "河南发布国庆放假通知",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%8F%91%E5%B8%83%E5%9B%BD%E5%BA%86%E6%94%BE%E5%81%87%E9%80%9A%E7%9F%A5%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "你会反复喜欢同一个人吗",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BC%9A%E5%8F%8D%E5%A4%8D%E5%96%9C%E6%AC%A2%E5%90%8C%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%90%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "河南婚俗改革目标直指零彩礼",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%A9%9A%E4%BF%97%E6%94%B9%E9%9D%A9%E7%9B%AE%E6%A0%87%E7%9B%B4%E6%8C%87%E9%9B%B6%E5%BD%A9%E7%A4%BC%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "广州增城一业主出售4套房亏损200万",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%A2%9E%E5%9F%8E%E4%B8%80%E4%B8%9A%E4%B8%BB%E5%87%BA%E5%94%AE4%E5%A5%97%E6%88%BF%E4%BA%8F%E6%8D%9F200%E4%B8%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "姆巴佩因肖像权争议拒绝参加法国队合影",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%9B%A0%E8%82%96%E5%83%8F%E6%9D%83%E4%BA%89%E8%AE%AE%E6%8B%92%E7%BB%9D%E5%8F%82%E5%8A%A0%E6%B3%95%E5%9B%BD%E9%98%9F%E5%90%88%E5%BD%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "倪妮玫瑰转场大片",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E7%8E%AB%E7%91%B0%E8%BD%AC%E5%9C%BA%E5%A4%A7%E7%89%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "LPR",
+    "url": "https://s.weibo.com/weibo?q=%23LPR%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "吃东西老塞牙可能是牙齿在求救",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%90%83%E4%B8%9C%E8%A5%BF%E8%80%81%E5%A1%9E%E7%89%99%E5%8F%AF%E8%83%BD%E6%98%AF%E7%89%99%E9%BD%BF%E5%9C%A8%E6%B1%82%E6%95%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "智齿要不要去拔",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%99%BA%E9%BD%BF%E8%A6%81%E4%B8%8D%E8%A6%81%E5%8E%BB%E6%8B%94%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "北京新增8例境外输入确诊",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%96%B0%E5%A2%9E8%E4%BE%8B%E5%A2%83%E5%A4%96%E8%BE%93%E5%85%A5%E7%A1%AE%E8%AF%8A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "天津新增18例本土阳性感染者",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E6%96%B0%E5%A2%9E18%E4%BE%8B%E6%9C%AC%E5%9C%9F%E9%98%B3%E6%80%A7%E6%84%9F%E6%9F%93%E8%80%85%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "南京疫情防控",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "9月19日新增本土无症状525例",
+    "url": "https://s.weibo.com/weibo?q=%239%E6%9C%8819%E6%97%A5%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B6525%E4%BE%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "种牙凭什么这么贵",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%A7%8D%E7%89%99%E5%87%AD%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E8%B4%B5%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "吵架的时候别坐摇摇椅",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%90%B5%E6%9E%B6%E7%9A%84%E6%97%B6%E5%80%99%E5%88%AB%E5%9D%90%E6%91%87%E6%91%87%E6%A4%85%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "为什么食肉动物不互相eat呢？",
+    "url": "https://www.zhihu.com/question/546078439",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么医生、律师、教师等传统职业都是越老越吃香？",
+    "url": "https://www.zhihu.com/question/553731923",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "姚明在《灌篮高手》里大概是什么水平？",
+    "url": "https://www.zhihu.com/question/342229897",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "敢不敢晒婆婆做的月子餐？",
+    "url": "https://www.zhihu.com/question/347580647",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "9 月 20 日是「全国爱牙日」，牙齿对你的健康有多重要？",
+    "url": "https://www.zhihu.com/question/553379811",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "日媒称日本总和生育率跌至 1.30 创新低，未来日本或不复存在，如何看待此评论？日本如何应对人口危机？",
+    "url": "https://www.zhihu.com/question/553578475",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "据教育部统计，我国各类出国留学人员中超过八成完成学业后选择回国发展，出现此现象原因是什么？",
+    "url": "https://www.zhihu.com/question/554443196",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "郭靖黄蓉结婚后，黄老邪为何离家出走，放弃了整个桃花岛？",
+    "url": "https://www.zhihu.com/question/536798107",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价靳东、成毅主演的电视剧《底线》？",
+    "url": "https://www.zhihu.com/question/554400489",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "年近 45 岁，再去考「司法考试」有意义么？",
+    "url": "https://www.zhihu.com/question/553091690",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "乌克兰国家核电公司称南乌克兰核电站遭导弹袭击，有哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/554365442",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "高中友谊重要还是学习重要？",
+    "url": "https://www.zhihu.com/question/548326176",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "在原生家庭中没有得到足够爱的孩子，长大能收获很好的爱情和友情吗？",
+    "url": "https://www.zhihu.com/question/554379436",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "缓解焦虑的方法是什么?",
+    "url": "https://www.zhihu.com/question/545755530",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么《指环王》剧集的精灵这么丑？世界审美都怎么了？能从专业角度分析下吗？",
+    "url": "https://www.zhihu.com/question/551630993",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "俄媒称「德总理认为，尽管双方意见南辕北辙，但必须进一步与俄总统普京进行对话」，这释放出哪些信号？",
+    "url": "https://www.zhihu.com/question/554364848",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美元指数今年来飙升 14%，美媒警告「将给全球经济带来大麻烦」，如何解读？美元走强会引发哪些问题？",
+    "url": "https://www.zhihu.com/question/554366266",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "央行发布 2022 年 9 月 LPR 维持不变，对我国经济有何影响？",
+    "url": "https://www.zhihu.com/question/554439413",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "「洗米华」案开审，其被控触犯 289 项罪名，非法投注金额约 6800 亿人民币，哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/538985026",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "要满足什么样的条件，才能让程序员这种工作，像医生律师一样越老越吃香？",
+    "url": "https://www.v2ex.com/t/881426",
+    "summary": "lincanbin:",
+    "publish_time": "2022-09-20 02:51:11",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "煤炭板块开盘拉升，安源煤业冲击涨停",
+    "url": "https://36kr.com/newsflashes/1922924634038020",
+    "summary": "36氪获悉，煤炭板块开盘拉升，安源煤业冲击涨停，云煤能源、平煤股份、昊华能源、金能科技、辽宁能源、恒源煤电等跟涨。",
+    "publish_time": "2022-09-20 09:40:05",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "汽车产业链继续活跃，亚星客车涨超8%",
+    "url": "https://36kr.com/newsflashes/1922924823060232",
+    "summary": "36氪获悉，汽车产业链继续活跃，亚星客车涨超8%，安凯客车、江铃汽车、中集车辆、瑞鹄模具、广东鸿图等涨幅居前。",
+    "publish_time": "2022-09-20 09:40:17",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "韩国公司妥协《通胀削减法案》，计划在美生产电动车",
+    "url": "https://tech.ifeng.com/c/8JSIpFz9P3B",
+    "summary": "据韩国媒体和SBS电视频道报道，汽车行业消息人士透露，韩国現代汽车集团子公司起亚预计将从2024年开始在美国生产电动汽车。美国总统拜登上个月签署的《通胀削减法案》对韩国现代汽车公司和起亚公司打击颇大。现代和起亚凭借时尚的长续航车型在美国电动汽车市场占据第二位，但由于它们尚未在北美生产电动汽车，因而并无资格享受税收抵免。（凤凰网科技）",
+    "publish_time": "2022-09-20 09:41:57",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "燃气股再度走强，水发燃气涨停",
+    "url": "https://36kr.com/newsflashes/1922926690672391",
+    "summary": "36氪获悉，燃气股再度走强，水发燃气涨停，胜利股份、新疆火炬、贵州燃气、天壕环境、、国新能源等跟涨。",
+    "publish_time": "2022-09-20 09:42:11",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "汽车零部件板块开盘拉升，一体化压铸方向领涨",
+    "url": "https://36kr.com/newsflashes/1922932305141765",
+    "summary": "36氪获悉，汽车零部件板块开盘拉升，一体化压铸方向领涨，浙江世宝冲击4连板，湖南天雁、正裕工业直线涨停，襄阳轴承、华阳变速、瑞鹄模具、旭升股份等涨超6%。",
+    "publish_time": "2022-09-20 09:47:53",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "工业母机板块继续拉升，华东重机涨停",
+    "url": "https://36kr.com/newsflashes/1922933363367683",
+    "summary": "36氪获悉，工业母机板块继续拉升，华东重机涨停，华东数控、巨轮智能涨超6%，昊志机电、拓普集团、联翔股份等跟涨。",
+    "publish_time": "2022-09-20 09:48:58",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "雪人股份：公司热泵产品在德国、荷兰的批量订单正陆续交付",
+    "url": "http://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=1268680822778621952",
+    "summary": "36氪获悉，雪人股份在投资者互动平台表示，公司热泵产品已经在欧洲市场如德国、荷兰取得了批量订单，目前正在陆续交付。",
+    "publish_time": "2022-09-20 09:50:27",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "锂电股大幅反弹，金龙羽、川能动力等涨停",
+    "url": "https://36kr.com/newsflashes/1922940049137672",
+    "summary": "36氪获悉，锂电股大幅反弹，金龙羽、川能动力、横店东磁、兆新股份涨停，丰元股份、科信技术、寒锐钴业、天齐锂业等涨超6%。",
+    "publish_time": "2022-09-20 09:55:46",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "“中科驭数”宣布完成数亿元B轮融资",
+    "url": "https://36kr.com/newsflashes/1922943389212674",
+    "summary": "36氪获悉，“中科驭数”宣布完成数亿元B轮融资，由金融街资本领投，建设银行旗下建信资本跟投，老股东灵均投资、光环资本、泉宗资本连续三轮追投。据介绍，在过去的一年里，中科驭数已完成三轮大体量融资。本轮融资将进一步加速驭数DPU芯片的研发迭代和产业布局，加速构建DPU芯片的生态体系等。",
+    "publish_time": "2022-09-20 09:59:10",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "贵州茅台否认成被执行人，执行信息公开网已撤销相关信息",
+    "url": "http://www.egsea.com//news/detail/1277389.html",
+    "summary": "“贵州茅台成为被执行人”引发热议，记者致电公司，相关工作人员表示，上述情况不实。再次查询中国执行信息公开网发现，已经没有贵州茅台成为被执行人的信息。检索案号“（2022）桂0105执4100号”也发现，该案被执行人中无贵州茅台。 （证券时报）",
+    "publish_time": "2022-09-20 10:14:00",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Sensor Tower：8月《幻塔》问鼎海外收入增长冠军",
+    "url": "https://mp.weixin.qq.com/s/tnkRJhj8lb10AfckpYaAew",
+    "summary": "36氪获悉，Sensor Tower商店情报平台数据显示，8月米哈游《原神》海外收入维持稳定，蝉联出海手游收入榜冠军。由腾讯和完美世界联合推出的轻科幻开放世界冒险手游《幻塔》，于8月11日正式登陆海外市场。自上线以来该游戏收入迅速攀升，8月海外收入突破4400万美元，跻身出海手游收入榜第5名，并问鼎本期收入增长榜，其中日本市场贡献了约42%的海外收入。",
+    "publish_time": "2022-09-20 10:15:36",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "中信建投陈果：市场情绪已进入极端区，A股又一次跌出机会",
+    "url": "https://www.thepaper.cn/newsDetail_forward_19977148",
+    "summary": "“展望后市，市场情绪指标已进入极端区域，顶住恐慌情绪，可逐步逢低布局，A股正又一次跌出机会。”9月19日，中信建投证券董事总经理、首席策略官陈果作出上述判断。陈果表示，A股近期走弱的主要原因在于外部扰动，包括美国8月通胀数据超预期最终影响美债利率及人民币汇率等，“市场近期调整反映了对于外部事件的悲观预期，但实际上中国近期经济已经出现了一些积极的信号。”（澎湃）",
+    "publish_time": "2022-09-20 10:17:35",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "军工板块震荡走强，国产航母方向领涨",
+    "url": "https://36kr.com/newsflashes/1922968549548033",
+    "summary": "36氪获悉，军工板块震荡走强，国产航母方向领涨，大西洋涨停，中国船舶涨近7%，中船防务、亚星锚链、江龙船艇等跟涨。",
+    "publish_time": "2022-09-20 10:24:45",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "国家开发银行：8月末制造业贷款余额11100亿元",
+    "url": "https://content-static.cctvnews.cctv.com/snow-book/index.html?toc_style_id=feeds_default&share_to=wechat&item_id=11845443488398770779&track_id=6CEA2433-691D-4D26-B60B-6EC1EA45754E_685333912820",
+    "summary": "从国家开发银行了解到，今年以来，国家开发银行充分发挥开发性金融功能作用，加大力度支持制造业科技创新和高质量发展。1—8月，国家开发银行累计发放制造业贷款3300亿元，截至8月末，制造业贷款余额达11100亿元，较去年年底增长15.8%，增速显著高于全行贷款平均增速。（央视新闻）",
+    "publish_time": "2022-09-20 10:32:07",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "创业板指涨逾2%，上涨个股近4000只",
+    "url": "https://36kr.com/newsflashes/1922976071507970",
+    "summary": "36氪获悉，指数走强，创业板指拉升涨逾2%，沪指涨0.61%，深成指涨1.27%。汽车产业链、机器人、光伏、储能等板块涨幅居前，两市上涨个股近4000只。",
+    "publish_time": "2022-09-20 10:32:24",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "中信证券：二季度海外主要基金对中国股票重仓持股环比提升6.5%",
+    "url": "https://www.cs.com.cn/qs/202209/t20220920_6298852.html",
+    "summary": "中信证券称，截至9月中下旬，海外基金公司二季度持仓数据基本披露完毕。对持有中国股票规模前20名基金公司的前20大重仓股的统计分析，2022年第二季度，海外主要基金对中国股票重仓持股环比提升6.5%至3715亿美元。分行业看，二季度新增资金的主要配置方向为受益疫后复苏的大消费板块、受益风险偏好持续回升的互联网龙头，以及赛道高景气的新能源车板块；而能源、银行板块普遍遭减持。（中证网）",
+    "publish_time": "2022-09-20 10:38:38",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "苹果将在部分国家提高应用程序和应用内购买的价格",
+    "url": "https://finance.sina.com.cn/tech/it/2022-09-20/doc-imqmmtha8011213.shtml",
+    "summary": "苹果公司宣布，最早将于10月5日起，在智利、埃及、日本、马来西亚、巴基斯坦、波兰、韩国、瑞典、越南以及所有使用欧元的地区，苹果应用商店（App Store）将提高应用程序和应用内购买的价格。自动续订的费用不受此次价格上涨的影响。（新浪科技）",
+    "publish_time": "2022-09-20 10:41:17",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "国家卫健委：2035年左右60岁及以上老年人口将突破4亿",
+    "url": "https://www.yicai.com/brief/101541333.html",
+    "summary": "国家卫生健康委有关负责人介绍了党的十八大以来老龄工作进展与成效。据测算，预计“十四五”时期，60岁及以上老年人口总量将突破3亿，占比将超过20%，进入中度老龄化阶段。2035年左右，60岁及以上老年人口将突破4亿，在总人口中的占比将超过30%，进入重度老龄化阶段。（第一财经）",
+    "publish_time": "2022-09-20 10:41:46",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "南京、苏州等十多个城市推出二手房“带押过户”政策",
+    "url": "https://www.jiemian.com/article/8097166.html",
+    "summary": "继调整二手房限售、优化“认房认贷”政策后，近期长三角多个城市又推出二手房“带押过户”政策，以简化交易流程进一步激活市场。9月19日，建设银行无锡分行在一位业主未提前还贷的情况下将其名下房产完成交易过户，标志着无锡“带押过户”二手房交易业务正式落地。在此之前，南京、苏州、福州、深圳、济南、昆明等多个城市已宣布尝试该政策。（界面）",
+    "publish_time": "2022-09-20 10:48:44",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "为应对物价上涨和新冠疫情，日本政府将动用3.5万亿日元财政预备费",
+    "url": "https://content-static.cctvnews.cctv.com/snow-book/index.html?toc_style_id=feeds_default&share_to=wechat&item_id=7336886700905154853&track_id=B3747452-1C20-4E1B-B0FA-ADE0FB03700C_685334951322",
+    "summary": "据TBS电视台网站9月20日报道，日本政府决定从今年财政预算的预备费中支出3.5万亿日元，以应对物价上涨和新冠疫情。其中除了1.3万亿日元继续提供补贴以抑制汽油价格上涨之外，还将动用8500亿日元为低收入家庭提供每户5万日元的补贴；在应对新冠疫情方面，将用于拨付各地政府为确保新冠病床所需的费用等。（央视新闻）",
+    "publish_time": "2022-09-20 10:49:50",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Java近期新闻： NetBeans 15、Jakarta EE 10、jtreg 7、Spring Cloud、Groovy、Helidon和Micronaut",
+    "url": "https://www.infoq.cn/article/fdLxBglWb827PQMPIOvh",
+    "summary": "<p>本期的Java新闻包括OpenJDK、JDK 20、Jakarta EE 10、Spring Cloud 2021.0.4、Quarkus 2.12.1、Micronaut 3.6.2和3.6.3、Helidon 2.5.3、JDK 8维护版本的重要变更、Hibernate ORM 6.1.3、Reactive Native JHipster 4.3.0、Apache NetBeans 15、Apache Groovy 4.0.5、Apache Camel 3.18.2、Ktor 2.1.1以及JavaZone会议。</p><p></p><h4>OpenJDK</h4><p></p><p>JDK的回归测试工具<a href=\"https://openjdk.org/jtreg/\">jtreg</a>\"&nbsp;7版本<a href=\"https://mail.openjdk.org/pipermail/jdk-dev/2022-September/006906.html\">发布</a>\"，其特性包括升级至JUnit 5，提供了<a href=\"https://junit.org/junit5/docs/current/user-guide/#writing-tests\">Jupiter API</a>\"并支持运行现有的JUnit 4测试和<a href=\"https://openjdk.org/jtreg/tag-spec.html\">标签语言规范（Tag Language Specification）</a>\"。第三方库JAR文件的命名约定已经变更为使用jtreg构建时指定的JAR文件的基础名称。这个名称可能依赖于库的版本。受此影响的JDK测试均已更新。jtreg&nbsp;7支持的最低版本是JDK 11。</p><p></p><h4>JDK 19</h4><p></p><p><a href=\"https://openjdk.org/projects/jdk/19/\">JDK 19</a>\"依然处于<a href=\"https://openjdk.java.net/jeps/3#rc\">发布候选</a>\"阶段，预计GA版本会在2022年9月20日发布。<a href=\"https://jdk.java.net/19/release-notes\">发布说明</a>\"包含了文档的链接，比如<a href=\"https://cr.openjdk.java.net/~iris/se/19/latestSpec//api/index.html\">完整的API规范</a>\"以及一个<a href=\"https://cr.openjdk.java.net/~iris/se/19/latestSpec/apidiffs/overview-summary.html\">标注的API规范</a>\"，后者对比了JDK 18（<a href=\"https://github.com/openjdk/jdk/releases/tag/jdk-18%2B36\">Build 36</a>\"）和JDK 19（<a href=\"https://github.com/openjdk/jdk/releases/tag/jdk-19%2B36\">Build 36</a>\"）的差异。关于JDK 19的更多细节和对JDK 20的预测可以参阅InfoQ的<a href=\"https://www.infoq.com/news/2022/09/java-19-so-far/\">新闻报道</a>\"。</p><p></p><h4>JDK 20</h4><p></p><p>JDK 20的<a href=\"https://jdk.java.net/20/\">早期访问构建</a>\"版本<a href=\"https://github.com/openjdk/jdk/releases/tag/jdk-20%2B14\">Build 14</a>\"发布，它是对Build 13的<a href=\"https://github.com/openjdk/jdk/compare/jdk-20%2B13...jdk-20%2B14\">更新</a>\"，包括对各种<a href=\"https://bugs.openjdk.org/issues/?jql=project%20%3D%20JDK%20AND%20fixversion%20%3D%2020%20and%20%22resolved%20in%20build%22%20%3D%20b14%20order%20by%20component%2C%20subcomponent\">问题</a>\"的修复。关于该版本的更多细节，请参阅<a href=\"https://jdk.java.net/20/release-notes\">发布说明</a>\"。</p><p>对于<a href=\"https://openjdk.java.net/projects/jdk/19/\">JDK 19</a>\"和<a href=\"https://openjdk.java.net/projects/jdk/20/\">JDK 20</a>\"，鼓励开发者通过<a href=\"https://bugreport.java.com/bugreport/\">Java Bug数据库</a>\"报告缺陷。</p><p></p><h4>Jakarta EE 10</h4><p></p><p>在通往Jakarta EE 10的路上，Eclipse基金会的Jakarta EE开发人员倡导者<a href=\"https://se.linkedin.com/in/ivargrimstad\">Ivar Grimstad</a>\"在他的Hashtag Jakarta EE<a href=\"https://www.agilejava.eu/\">周报</a>\"上<a href=\"https://www.agilejava.eu/2022/09/04/hashtag-jakarta-ee-140/\">宣布</a>\"，Jakarta EE 10的<a href=\"https://jakarta.ee/specifications/platform/10/\">Platform Profile</a>\"和<a href=\"https://jakarta.ee/specifications/webprofile/10/\">Web Profile</a>\"审查投票已经开始，预计会在9月13日结束。<a href=\"https://jakarta.ee/specifications/coreprofile/10/\">Core Profile</a>\"已经在8月份通过了审查。这似乎是一个好的信号，Jakarta EE 10有可能会在本月正式发布。关于Jakarta EE规范的更多细节可以参阅Grimstad在<a href=\"https://2022.javazone.no/\">JavaZone</a>\"上做的题为<a href=\"https://www.slideshare.net/ivargrimstad/jakarta-ee-10-feature-by-feature-252882883\">Jakarta EE 10 - Feature-by-Feature</a>\"的演讲。</p><p></p><h4>Spring框架</h4><p></p><p>代号为Jubilee的Spring Cloud 2021.0.4版本<a href=\"https://spring.io/blog/2022/09/07/spring-cloud-2021-0-4-codename-jubilee-has-been-released\">发布</a>\"，其特性包括对所有<a href=\"https://spring.io/projects/spring-cloud\">Spring Cloud</a>\"子项目的更新，在<a href=\"https://spring.io/projects/spring-cloud-config\">Config</a>\",&nbsp;<a href=\"https://spring.io/projects/spring-cloud-gateway\">Gateway</a>\"、<a href=\"https://spring.io/projects/spring-cloud-openfeign\">OpenFeign</a>\"和<a href=\"https://spring.io/projects/spring-cloud-circuitbreaker\">Circuit Breaker</a>\"方面都有明显的变化。关于该版本的更多细节，可以参阅<a href=\"https://github.com/spring-cloud/spring-cloud-release/wiki/Spring-Cloud-2021.0.4-Release-Notes\">发布说明</a>\"。</p><p></p><h4>Quarkus</h4><p></p><p>Red Hat<a href=\"https://quarkus.io/blog/quarkus-2-12-1-final-released/\">发布</a>\"了Quarkus 2.12.1.Final，对<a href=\"https://github.com/quarkusio/quarkus/blob/main/independent-projects/arc/runtime/src/main/java/io/quarkus/arc/impl/RequestContext.java\">RequestContext</a>\"类的性能下降问题进行了修复。此外，还对<a href=\"https://github.com/smallrye/smallrye-open-api/blob/main/README.adoc\">Smallrye OpenAPI</a>\"&nbsp;2.2.1和<a href=\"https://dekorate.io/\">Dekorate</a>\"&nbsp;2.11.2进行了依赖升级。关于该版本的更多细节，可以参阅<a href=\"https://github.com/quarkusio/quarkus/releases/tag/2.12.1.Final\">发布说明</a>\"。</p><p></p><h4>Micronaut</h4><p></p><p>Micronaut基金会发布了<a href=\"https://micronaut.io/2022/09/04/micronaut-framework-3-6-2-released/\">3.6.2</a>\"和<a href=\"https://micronaut.io/2022/09/09/micronaut-framework-3-6-3/\">3.6.3</a>\"版本的<a href=\"https://micronaut.io/\">Micronaut</a>\"，对Micronaut的一些模块进行了缺陷修复和补丁发布，例如<a href=\"https://micronaut-projects.github.io/micronaut-security/snapshot/guide/index.html\">Security</a>\"、<a href=\"https://micronaut-projects.github.io/micronaut-email/snapshot/guide/index.html\">Email</a>\"、<a href=\"https://micronaut-projects.github.io/micronaut-spring/snapshot/guide/index.html\">Micronaut for Spring</a>\"、<a href=\"https://micronaut-projects.github.io/micronaut-tracing/snapshot/guide/index.html\">Tracing</a>\"、<a href=\"https://micronaut-projects.github.io/micronaut-flyway/snapshot/guide/index.html\">Flyway</a>\"、<a href=\"https://micronaut-projects.github.io/micronaut-aws/snapshot/guide/index.html\">AWS</a>\"、<a href=\"https://micronaut-projects.github.io/micronaut-serialization/snapshot/guide/\">Serialization</a>\"和<a href=\"https://micronaut-projects.github.io/micronaut-data/snapshot/guide/index.html\">Data</a>\"。3.6.2版本还提供了升级后的SnakeYAML 1.31，它解决了<a href=\"https://nvd.nist.gov/vuln/detail/CVE-2022-25857\">CVE-2022-25857</a>\"漏洞，在之前版本<a href=\"https://github.com/snakeyaml/snakeyaml/blob/master/README.md\">SnakeYAML</a>\"中的这个漏洞缺少对集合嵌套深度的限制，很容易导致拒绝服务攻击（Denial of Service）。关于这些版本的更多细节可以在<a href=\"https://github.com/micronaut-projects/micronaut-core/releases/tag/v3.6.2\">3.6.2</a>\"和<a href=\"https://github.com/micronaut-projects/micronaut-core/releases/tag/v3.6.3\">3.6.3版本</a>\"的发布说明中找到。</p><p></p><h4>Helidon</h4><p></p><p>Helidon 2.5.3<a href=\"https://github.com/oracle/helidon/releases/tag/2.5.3\">发布</a>\"，其中有许多变化，包括在gRPC组件中升级了protocol buffer以支持osx-aarch_64架构；在Security组件中实现了access token刷新；在Config组件中修复了为watcher服务获取父目录的问题。此外，还对SnakeYAML 1.31和Oracle Cloud Integration Integration 2.41.0进行了依赖升级。</p><p></p><h4>BellSoft</h4><p></p><p><a href=\"https://bell-sw.com/\">BellSoft</a>\"是<a href=\"https://bell-sw.com/pages/libericajdk/\">Liberica JDK</a>\"（OpenJDK的下游发布版）的创建者，他们讨论了一些<a href=\"https://bell-sw.com/announcements/2022/09/09/jdk-8-maintenance-release-4-important-changes/\">重要的变更</a>\"，这会影响将于2022年10月发布的JDK 8 Maintenance Release 4。核心变化是JDK-8202260，也就是<a href=\"https://bugs.openjdk.org/secure/Dashboard.jspa\">JDK缺陷系统</a>\"中定义的<a href=\"https://bugs.openjdk.org/browse/JDK-8202260\">引用对象不应该支持克隆（Reference Objects Should Not Support Cloning）</a>\"，它描述了在Java SE 8平台中发现的一个重要问题：</p><p></p><p></p><blockquote>在Java SE规范中，并没有明确定义克隆引用对象的语义。克隆与垃圾回收密切相关，如果引用对象的可达性状态在GC活动中发生变化，收集器可能在代码调用clone()方法之前，对该对象进行入队（enqueue）。结果就是，克隆的对象不会被入队和引用。从而导致高度不可预知的引用处理。</blockquote><p></p><p></p><p>在JDK 9和JDK 11中进行了一些后续的变更，这些变更会回传到JDK 8 Maintenance Release 4中。例如，在JDK 11，<a href=\"https://devdocs.io/openjdk~18/java.naming/javax/naming/reference#clone%28%29\">Reference.clone()</a>\"方法始终会抛出一个CloneNotSupportedException异常。</p><p></p><h4>Hibernate</h4><p></p><p>Hibernate ORM 6.1.3.Final<a href=\"https://in.relation.to/2022/09/08/hibernate-orm-613-final/\">发布</a>\"了一项<a href=\"https://hibernate.atlassian.net/browse/HHH-15458\">优化</a>\"，其中带有<a href=\"https://docs.jboss.org/hibernate/orm/current/javadocs/org/hibernate/annotations/JdbcTypeCode.html\">@JdbcTypeCode</a>\"(SqlTypes.JSON)和@JdbcTypeCode(SqlTypes.SQLXML)注解的字符串将不会被序列化为JSON/XML。相反，它们会被解析为纯JSON/XML，以避免序列化/反序列化的开销。</p><p></p><h4>React Native JHipster</h4><p></p><p>在<a href=\"https://www.jhipster.tech/2022/09/02/jhipster-release-7.9.3.html\">JHipster 7.9.3发布后不久</a>\"，<a href=\"https://github.com/jhipster/generator-jhipster-react-native/blob/main/README.md\">JHipster React Native</a>\"的4.3.0版本已<a href=\"https://twitter.com/mraible/status/1567163914449813510?cxt=HHwWjIC8md3R178rAAAA\">交付给</a>\"Java社区。改进之处包括：通过<a href=\"https://reactnative.dev/\">React Native</a>\"&nbsp;0.69.5和React 18升级到<a href=\"https://blog.expo.dev/expo-sdk-46-c2a1655f63f7\">Expo SDK 46</a>\"；迁移到<a href=\"https://expo.dev/eas\">Expo Application Services</a>\"；支持基于Auth0的注销；为GitHub Actions使用Node 16；大量的依赖升级；以及使用Keycloak、Okta和Auth0改进质量保证。关于这个版本的更多细节可以参阅<a href=\"https://github.com/jhipster/generator-jhipster-react-native/releases/tag/v4.3.0\">发布说明</a>\"。</p><p></p><h4>Apache软件基金会</h4><p></p><p><a href=\"https://netbeans.apache.org/\">Apache NetBeans</a>\"&nbsp;15<a href=\"https://www.mail-archive.com/announce@apache.org/msg07559.html\">发布</a>\"，其特性包括：支持JEP 413，即<a href=\"https://openjdk.org/jeps/413\">Java API文档中支持代码片段（Code Snippets in Java API Documentation）</a>\"（在JDK 18中交付）；清理代码库，删除对Windows 95和Windows 98的支持；升级到<a href=\"https://maven.apache.org/maven-indexer/\">Maven-Indexer</a>\"&nbsp;6.2.0，包括删除避免<a href=\"https://docs.oracle.com/javase/7/docs/api/java/lang/IndexOutOfBoundsException.html\">IndexOutOfBoundsException</a>\"的临时方案；以及更新到Oracle Cloud Integration 2.27.0。关于这个版本的更多细节可以参阅<a href=\"https://github.com/apache/netbeans/releases/tag/15\">发布说明</a>\"。</p><p></p><p><a href=\"https://groovy-lang.org/\">Apache Groovy</a>\"&nbsp;4.0.5<a href=\"https://www.mail-archive.com/announce@apache.org/msg07565.html\">发布</a>\"，它具有56个缺陷修复、改进和依赖性升级，比如，JUnit Jupiter 5.9.0、JUnit Platform 1.9.0、Gradle 7.5.1、Spock 2.2和slf4j 2.0.0。 唯一的新特性是对<a href=\"https://docs.groovy-lang.org/latest/html/api/org/apache/groovy/dateutil/extensions/DateUtilExtensions.html\">DateUtilExtensions</a>\"类的增强，以便检索静态日历常量的子集。关于这个版本的更多细节可以在<a href=\"https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12318123&amp;version=12352126\">发布说明</a>\"中找到。</p><p></p><p>Apache Camel 3.18.2<a href=\"https://camel.apache.org/blog/2022/09/RELEASE-3.18.2/\">发布</a>\"，它包含了50个错误修复和改进，例如：支持<a href=\"https://camel.apache.org/components/3.18.x/freemarker-component.html\">Camel Freemarker</a>\"组件中的邮件附件；以及处理CamelMicroProfilePropertiesSource类中loadProperties()方法中的NoSuchElementException。还有一些依赖性的升级，包括Spring Boot 2.7.3和gRPC 1.48.1。关于这个版本的更多细节可以在<a href=\"https://camel.apache.org/releases/release-3.18.2/\">发布说明</a>\"中找到。</p><p></p><h4>JetBrains</h4><p></p><p>JetBrains<a href=\"https://twitter.com/JetBrainsKtor/status/1567430094922125315?cxt=HHwWhsC4obzX0MArAAAA\">发布</a>\"了Ktor 2.1.1，其特性是改进了以下问题：Netty HTTP/2的异常；JDK 8和JDK 11在构建Ktor时的不匹配；以及废弃receiveOrNull()方法，该方法被认为令人感到困惑。关于这个版本的更多细节可以在<a href=\"https://ktor.io/changelog/2.1/\">更新日志中</a>\"找到。</p><p></p><h4>JavaZone Conference</h4><p></p><p><a href=\"https://2022.javazone.no/\">JavaZone</a>\"会议在挪威奥斯陆的<a href=\"https://oslospektrum.no/\">Oslo Spektrum</a>\"举行，来自Java社区的许多演讲者发表了闪电演讲、报告和工作坊。</p><p></p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2022/09/java-news-roundup-sep05-2022/\">Java News Roundup: NetBeans 15, Jakarta EE 10, jtreg 7, Spring Cloud, Groovy, Helidon, Micronaut</a>\"</p>",
+    "publish_time": "2022-09-20 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "More US Employers Are Trapping Workers in a New Form of Indentured Servitude",
+    "url": "https://truthout.org/articles/more-us-employers-are-trapping-workers-in-a-new-form-of-indentured-servitude/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32905728\">Comments</a>",
+    "publish_time": "2022-09-20 07:49:12",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Public buses across country quietly adding microphones to record conversations",
+    "url": "https://www.wired.com/2012/12/public-bus-audio-surveillance/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32906538\">Comments</a>",
+    "publish_time": "2022-09-20 09:29:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
