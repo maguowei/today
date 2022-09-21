@@ -20,5 +20,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "中科驭数完成数亿元B轮融资，第二代DPU芯片预计近期回片",
+    "url": "https://www.infoq.cn/article/DZh5RswKhFdGgjNX9Gow",
+    "summary": "<p></p><blockquote>2020年，英伟达创始人黄仁勋将DPU与CPU、GPU并列称为“未来计算三大支柱”，此后，DPU逐渐成为芯片投资的热门赛道。</blockquote><p></p><p></p><p>9月20日消息，DPU芯片企业中科驭数宣布完成数亿元B轮融资，由金融街资本领投，建设银行旗下建信股权跟投，老股东灵均投资、光环资本、泉宗资本连续三轮追投。公司创始人兼CEO鄢贵海表示，本轮融资将用于加速驭数<a href=\"https://xie.infoq.cn/article/673ca43b426a48501d4bd3939\">DPU芯片</a>\"的研发迭代和产业布局。</p><p>&nbsp;</p><p>中科驭数成立于2018年，创始团队来自科研院所，公司聚焦专用数据处理器的研发设计，自主研发的DPU系列产品可广泛应用于超低延迟网络、大数据处理、5G边缘计算、高速存储等场景，助力算力成为数字时代的新生产力。</p><p>&nbsp;</p><p>过去一年多，<a href=\"https://xie.infoq.cn/article/34eedfd38369c7560f0ca0965\">中科驭数</a>\"已完成三轮大体量融资。2021年7月，中科驭数完成数亿元A轮融资；2021年12月，中科驭数完成数亿元A+轮融资；2022年9月，中科驭数完成数亿元B轮融资。</p><p>&nbsp;</p><p>在技术路线上，中科驭数2018年曾提出“软件定义加速器”技术路线(Software Defined Accelerator)，自主研发了面向领域专用计算(DSA)的芯片架构KPU(Kernel Processing Unit)和敏捷异构软件栈(HADOS)。据此打造了业界首颗融合高性能网络与数据库一体化加速功能的DPU芯片和标准加速卡系列产品，解决了专用处理器设计碎片化的问题，异构众核的技术架构具有软件定义可配置、设计周期短、性能更优、计算高效的优势，目前已经研发积累了百余类功能核。</p><p>&nbsp;</p><p>产品进展方面，中科驭数第二代DPU芯片K2今年初投片，预计于近期回片，这也是国内目前功能定义最完整的首颗DPU芯片。区别于大部分DPU厂商的FPGA加速卡方案，K2芯片具有成本更低、性能更优、功耗更小、自主可控性强的特点。此外，第三代DPU芯片研发迭代已经接近尾声。</p><p>&nbsp;</p><p>所谓DPU，指的是Data Processing Unit的缩写，直译为数据处理单元。</p><p>&nbsp;</p><p>鄢贵海在接受北京日报客户端记者采访时曾表示，如果把一台计算机或服务器比作一个团队，CPU相当于“大管家”，负责思考并处理业务；GPU是“美工”，专攻图像处理；DPU则相当于“前台”，负责打包、拆包“数据包”，提升整个团队的工作效率。</p><p>&nbsp;</p><p>据白皮书预测，DPU 的潜在市场非常巨大，预测到 2025 年仅中国市场就能达到每年 40 亿美元的规模，估计全球将超过 120 亿美元。</p><p>&nbsp;</p><p>有专家接受InfoQ采访时曾表示，DPU 的火热印证了芯片已经走上<a href=\"https://www.infoq.cn/article/QguHG8yPXkAe4SeiBDh5\">定制化路线</a>\"。“目前在业内，芯片厂商和操作系统厂商有的一个共识就是，今天的芯片已经走向了领域定制趋势。所谓领域定制，指的是芯片或系统，可以为一个场景去重新设计，以获得最佳用户体验。比如 DPU 是针对云计算、虚拟化的场景实现芯片创新，未来针对其他场景，可能也会出现越来越多的案例。”</p>",
+    "publish_time": "2022-09-21 10:27:52",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
