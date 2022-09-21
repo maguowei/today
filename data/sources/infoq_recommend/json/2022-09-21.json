@@ -108,5 +108,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "“Rust for Linux”：用Rust 编写的驱动程序，性能与 C 编写的一样好",
+    "url": "https://www.infoq.cn/article/4PPUx7bHNxovzw9DY7zL",
+    "summary": "<p>&nbsp;</p><p>在9月12 日都柏林举行的2022 Linux Plumbers Conference 上，有一场关于<a href=\"https://www.infoq.cn/article/a7HAfAis5U70O1vbxFg3\">Rust 是否会出现在 Linux 中</a>\"的小型会议，讨论了将Rust作为一门系统编程语言集成到 Linux 内核主线的工作。会议上还有很多别的有意思的讨论，比如 Rust 编写的 NVMe 驱动程序，其性能与 C 编写的驱动程序一样好。</p><p>&nbsp;</p><p>领导“Rust for Linux”工作的 Miguel Ojeda <a href=\"https://lpc.events/event/16/contributions/1256/attachments/1048/2003/Rust%20Status%20-%20LPC%202022.pdf\">介绍了</a>\"过去一年Linux 内核工作进展。虽然目前还需要 Rust 官方的基于 LLVM 的编译器，但会议上也有演示 <a href=\"https://www.phoronix.com/news/GCC-Rust-Front-End-v1-Review\">GCC 13</a>\"提供的初步的 Rust 支持，目前该工作还在进行中。GCC-Rust 已经很好地融合在一起，但要实现所有功能，并能与基于 LLVM 的编译器相媲美，这方面还有很长的路要走。</p><p>&nbsp;</p><p>西部数据公司的 Andreas Hindborg 围绕基于 Rust 的 NVMe 驱动程序发表了演讲。虽然 Linux 内核已经拥有出色的基于 C 编写的 NVMe 驱动程序，但尝试使用 Rust 编写的 NVMe 驱动程序也很有趣，因为该驱动程序被广泛使用且很重要。测试 Rust 驱动程序的性能也很容易。</p><p>&nbsp;</p><p>虽然 Rust NVMe 驱动程序仍处于实验阶段，但结果看起来非常好。通过<a href=\"https://lpc.events/event/16/contributions/1180/attachments/1017/1961/deck.pdf\">Hindborg 的幻灯片</a>\"可以查看详细信息：</p><p>&nbsp;</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/23/23aa8b412498cb769fc3fc7e566711d6.png\" /></p><p></p><p>&nbsp;</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/7a/7a6d7249f01b8c147cbfa48d941b8b84.png\" /></p><p></p><p>&nbsp;</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/91/91a8694589ad45b6701c098bf44c8609.png\" /></p><p></p><p>&nbsp;</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/60/603e7f332cf713f4db3e0ca98096a7d1.png\" /></p><p></p><p>&nbsp;</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/0d/0df82ffd1c814982c3fe9029ee12bd7f.png\" /></p><p></p><p>&nbsp;</p><p>&nbsp;</p>",
+    "publish_time": "2022-09-21 18:24:33",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
