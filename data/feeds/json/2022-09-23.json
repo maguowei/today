@@ -1422,5 +1422,99 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "重庆首批地标菜名单",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E9%A6%96%E6%89%B9%E5%9C%B0%E6%A0%87%E8%8F%9C%E5%90%8D%E5%8D%95%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "美军连续三天偷叙利亚石油",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E8%BF%9E%E7%BB%AD%E4%B8%89%E5%A4%A9%E5%81%B7%E5%8F%99%E5%88%A9%E4%BA%9A%E7%9F%B3%E6%B2%B9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "墨迹天气会员服务引热议",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A2%A8%E8%BF%B9%E5%A4%A9%E6%B0%94%E4%BC%9A%E5%91%98%E6%9C%8D%E5%8A%A1%E5%BC%95%E7%83%AD%E8%AE%AE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "狗狗睡觉时被零食唤醒后",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E7%9D%A1%E8%A7%89%E6%97%B6%E8%A2%AB%E9%9B%B6%E9%A3%9F%E5%94%A4%E9%86%92%E5%90%8E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "大一准备考研，需要注意什么？",
+    "url": "https://www.zhihu.com/question/554908348",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价NVIDIA RTX 40显卡？“微光渲染”光追新技术，会给我们带来什么体验？",
+    "url": "https://www.zhihu.com/question/547266839",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "31岁硕士，游戏春招失败，以后还有机会进游戏大厂做研发吗？",
+    "url": "https://www.zhihu.com/question/457956582",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何让自己的生活变得更美好？",
+    "url": "https://www.zhihu.com/question/554948736",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Dilemmas in a General Theory of Planning (1973) [pdf]",
+    "url": "https://hci.stanford.edu/dschool/resources/readings/Rittel+Webber+Dilemmas+General_Theory_of_Planning.pdf",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32943474\">Comments</a>",
+    "publish_time": "2022-09-23 03:22:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Open Prompts – dataset of 10M Stable Diffusion generations",
+    "url": "https://github.com/krea-ai/open-prompts",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=32943224\">Comments</a>",
+    "publish_time": "2022-09-23 03:03:17",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
