@@ -20,5 +20,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "“SMSGuard” 我也上线了一款 iOS 的短信过滤器",
+    "url": "https://www.v2ex.com/t/882564",
+    "summary": "Cola90: <h3>开发背景：</h3>\n<p>这是 OP 的第一个 iOS 项目，主业 ML 搬运工，苦恼于日常工作中方案落较少，遂学习 Swift 开发希望能给自己的成果一个落地的地方</p>\n<h3>应用介绍：</h3>\n<ol>\n<li>基于 Tensorflow 开发，自己设计的模型 </li>\n<li>支持更多的短信分组（有验证码、快递订单、交易信息等等 7 个分组）</li>\n<li>用心做的 UI</li>\n<li>可以完全离线运行，隐私 Free</li>\n</ol>\n<h3>特色：</h3>\n<ol>\n<li>模型是根据目前样本的实验结果不断调整出来的，大小仅为 110k ，用了可以并行计算的 CONV1D, 没有使用 LSTM ，准确率在测试集上能到 0.99 ，后门再视乎需要看看要不要加入 attention 或者改用成一个微型的 transformer</li>\n<li>我觉得 UI 应该还可以？ </li>\n</ol>\n<h3>AppStore 链接：</h3>\n<p><a href=\"https://apps.apple.com/cn/app/smsguard/id1645039463\" rel=\"nofollow\">点击跳转 Appstore</a></p>\n<h3>V2 惯例送几个码：</h3>\n<p>感谢支持!</p>\n<pre><code>JJYEJ9YLMNPY\nKMXRRAAKATLJ\n3TAE4MK6LJKE\n79JJYFN3FHNL\nE4J6N69NAEN3\n37FYNE64K94E\nWXXH7PWJ6MYT\nJXMKXNEMWRWX\n7X4HL6P9YTXP\nXP7XP7REHPM7\nHHRTTLRAKART\nNKFLHMYX63JJ\nTKPFHW76KMYE\nNTLJ9JWNJWEH\nPEA6EXP3LJEA\nALH3PP7PHJW4\n6PER9WX7ERKA\n3KXW64667JRH\nNMXNEREYHHHN\nXFFNTWWAPL4W\n</code></pre>",
+    "publish_time": "2022-09-24 09:06:27",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "跨网，不安装任何软件、服务，怎么传输文件呢？",
+    "url": "https://www.v2ex.com/t/882592",
+    "summary": "sjmcefc2: <p>单靠浏览器，跨网，不安装任何软件、服务，怎么传输文件呢？\n局域网 <a href=\"http://drop.ioiox.com/\" rel=\"nofollow\">drop.ioiox.com</a> 比较靠谱，跨网 file.pizza 根本无法下载。\n有好用的跨网传输？</p>",
+    "publish_time": "2022-09-24 11:20:57",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
