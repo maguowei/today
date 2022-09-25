@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Linux 下有类似 windows 磁盘加密工具 bitlocker 吗?",
+    "url": "https://www.v2ex.com/t/882712",
+    "summary": "Cify: <p>有几台服务器需要托管到 IDC,担心 IDC 人用单用户模式进去修改资料, 打算用类似 bitlocker 方式来加密磁盘, 请问有类似的工具吗?</p>",
+    "publish_time": "2022-09-25 02:25:07",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "求一个自建打洞方案",
+    "url": "https://www.v2ex.com/t/882721",
+    "summary": "Cify: <p>目的: 国内自己家里一个小主机上 PVE 已经跑了软路由,几个 OS 和 NAS, 想可以在外面时候随时打洞回家进行管理.\n自己移动局域网,大概率没有公网 IP.目前有腾讯主机一台有公网, 流量足够, 域名未备案也不想备案折腾.</p>\n<p>看过不少打洞方案比如 Zerotier 等, 但眼花了,特意在此求最优打洞方案(主要是穷, 所以不考虑付费中转方案), 支持 Docker 无脑部署最好了.</p>",
+    "publish_time": "2022-09-25 08:57:24",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  }
+]
