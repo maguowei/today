@@ -9,5 +9,27 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "Mozilla“大发雷霆”：指责Google、苹果和微软强迫用户用默认浏览器",
+    "url": "https://www.infoq.cn/article/dxf9lY8Elt5BtbtEUG0z",
+    "summary": "<p></p><p>随着世界各地的反垄断监管机构加强对平台权力的审查，Firefox 火狐浏览器背后的开发商 Mozilla 近日发表了一份<a href=\"https://research.mozilla.org/files/2022/09/Mozilla_Five-Walled-Gardens.pdf\">报告</a>\"，指责谷歌、微软和苹果“自私”，总强迫用户使用他们各自的浏览器。</p><p></p><p>Mozilla 认为这些大型科技公司存在各种不同的渎职行为。其中包括限制独立应用，将其各自的浏览器与其操作系统捆绑在一起，并在主屏幕或快捷栏设为默认。</p><p></p><p>根据 Mozilla 的说法，这种“自私”行为对用户造成的伤害包括：选择有限、质量低下、创新不足、隐私保护性差、不公平的合同等等。但对大部分用户而言，他们将不会采取额外的行动去寻找或发现替代浏览器。</p><p></p><p>Mozilla还指责一些大的科技公司禁止独立应用的采用，举例苹果公司在2020年之前缺乏切换Safari作为默认浏览器的设置--这意味着试图使用其他浏览器的iOS消费者被“强迫”继续使用Safari长达13年。Mozilla强调，Safari仍然不能从iOS中删除。</p><p></p><p>另外，Mozilla 指责微软在 Windows 上采取越来越激进的做法旨在逆转用户使用非微软软件的决定，如推翻默认浏览器的选择并恢复到Edge 。Mozilla 发言人称，消费者应该可以掌控自己的在线体验，可以选择自己想用的软件，而不是要为了自己的软件偏好选择而不得不与操作系统“斗争”。</p><p></p><p>TechCrunch 则认为，Mozilla 报告中的大部分结论都非常平庸。谷歌将 Chrome 与 Android 捆绑在一起，苹果在 iOS 上预装了 Safari，而且大多数移动用户不会费心改变这些默认设置，这已经不是什么新闻了。</p><p></p><p>不过，操作系统捆绑自家软件的程度，有可能会给监管机构敲响反垄断警钟，激发他们干预进来的理由。英国竞争与市场管理局最近表示，在对移动市场进行了深入研究之后，它打算调查苹果和谷歌在移动浏览器中的市场影响力。</p><p></p><p>“浏览器大战”并不是什么新鲜事，在20世纪90年代末，微软的IE浏览器曾把网景的Navigator挤出了市场。Firefox 也曾一度是全球第二大浏览器，市占率高达 35%，而现实的情况是，它的市场占有率<a href=\"https://www.infoq.cn/article/XuQvJAKDjUddidTiHdWR\">已经连续多年下降</a>\"。Mozilla此次发布报告，也许和它的<a href=\"https://www.infoq.cn/article/cYuuqwgLcvZy2RQHIYF2\">不乐观境遇</a>\"有关。</p><p></p><p>Mozilla 的报告并未就监管干预提出具体建议，以迫使平台“为消费者和开发者做得更好”，它表示计划在未来几个月内发布关于补救措施的进一步工作——但它敦促立法者采取行动防止“持续不作为和竞争停滞对消费者造成进一步伤害”。</p><p></p><p>参考链接：</p><p><a href=\"https://www.techradar.com/news/mozilla-claims-apple-google-and-microsoft-force-users-to-use-default-web-browsers\">https://www.techradar.com/news/mozilla-claims-apple-google-and-microsoft-force-users-to-use-default-web-browsers</a>\"</p>",
+    "publish_time": "2022-09-25 21:09:27",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "GitHub重新上架混币器 Tornado Cash 代码库",
+    "url": "https://www.infoq.cn/article/FJiNZC4jXbjPHj43jssH",
+    "summary": "<p>上个月，美国财政部宣布制裁被控为朝鲜黑客组织 Lazarus Group 洗钱的混币器 Tornado Cash，禁止美国个人或组织与 Tornado Cash 有任何交易往来。中心化源码托管平台 <a href=\"https://www.infoq.cn/article/msqr0mRXqK1WCQNWLlTF\">GitHub 随即下架</a>\"了 Tornado Cash 代码库，并删除了相关开发者的账号。</p><p>&nbsp;</p><p>上周，美国财政部上周<a href=\"https://www.theblock.co/post/169688/treasury-says-sanctions-on-tornado-cash-dont-stop-people-from-sharing-code\">澄清</a>\"表示，对 Tornado Cash 的制裁不涉及源代码，美国人可以查看、复制、讨论和教授源代码，或将源代码包含在书面出版物中。本周在开发者的呼吁下， GitHub&nbsp;恢复了&nbsp;<a href=\"https://github.com/TornadoCash\">Tornado Cash</a>\"&nbsp;项目，同时多位项目开发者的账号也都恢复。</p><p>&nbsp;</p><p>以太坊核心开发人员 Preston Van Loon 在 Twitter 上宣布了这一消息。他此前曾表示，“代码就是言论，言论自由是一项值得保护的宪法权利。”</p><p>&nbsp;</p><p>GitHub 针对此事对外媒称：“GitHub 的愿景是成为开发者协作全球平台。我们彻底审查政府制裁措施，以确保用户和客户不会受到超出法律要求的影响，并倡导保护全球开放开源代码合作。我们欢迎政府最近对公开可用的源代码和受制裁的实体进行澄清，并恢复了某些公共存储库。”</p><p>&nbsp;</p><p>此前，美国财政部禁止美国个人或组织与 Tornado Cash 有任何交易往来。GitHub下架Tornado Cash 代码库的行为也引发了开发者的强烈不满。约翰霍普金斯大学密码学教授 <a href=\"https://www.infoq.cn/article/msqr0mRXqK1WCQNWLlTF\">Matthew Green</a>\" 在电子前沿基金会 (EFF) 的支持下还发布了该软件的另一个分支。</p><p></p><p></p><p>参考链接：</p><p>https://decrypt.co/110336/ethereum-coin-mixer-tornado-cash-github</p>",
+    "publish_time": "2022-09-25 21:57:07",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
