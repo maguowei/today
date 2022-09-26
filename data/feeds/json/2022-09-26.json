@@ -4152,5 +4152,355 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Daily VLOG",
+    "url": "https://s.weibo.com/weibo?q=%23Daily+VLOG%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "我真的是自愿上班的",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9C%9F%E7%9A%84%E6%98%AF%E8%87%AA%E6%84%BF%E4%B8%8A%E7%8F%AD%E7%9A%84%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "国庆档新片预售票房破4000万",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E6%A1%A3%E6%96%B0%E7%89%87%E9%A2%84%E5%94%AE%E7%A5%A8%E6%88%BF%E7%A0%B44000%E4%B8%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "S12垃圾话",
+    "url": "https://s.weibo.com/weibo?q=%23S12%E5%9E%83%E5%9C%BE%E8%AF%9D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "苹果称很高兴能在印度生产iPhone14",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E7%A7%B0%E5%BE%88%E9%AB%98%E5%85%B4%E8%83%BD%E5%9C%A8%E5%8D%B0%E5%BA%A6%E7%94%9F%E4%BA%A7iPhone14%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "欧阳娜娜MV男主是翟子路",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9CMV%E7%94%B7%E4%B8%BB%E6%98%AF%E7%BF%9F%E5%AD%90%E8%B7%AF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "脱口秀大会5官宣鲁豫",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%84%B1%E5%8F%A3%E7%A7%80%E5%A4%A7%E4%BC%9A5%E5%AE%98%E5%AE%A3%E9%B2%81%E8%B1%AB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "成都适龄女孩接种国产HPV疫苗免费",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E9%80%82%E9%BE%84%E5%A5%B3%E5%AD%A9%E6%8E%A5%E7%A7%8D%E5%9B%BD%E4%BA%A7HPV%E7%96%AB%E8%8B%97%E5%85%8D%E8%B4%B9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "成年人睡觉磨牙要警惕",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%90%E5%B9%B4%E4%BA%BA%E7%9D%A1%E8%A7%89%E7%A3%A8%E7%89%99%E8%A6%81%E8%AD%A6%E6%83%95%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "女童手扒扶梯双脚悬空被男子救起",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AB%A5%E6%89%8B%E6%89%92%E6%89%B6%E6%A2%AF%E5%8F%8C%E8%84%9A%E6%82%AC%E7%A9%BA%E8%A2%AB%E7%94%B7%E5%AD%90%E6%95%91%E8%B5%B7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "高校通报新生入学3天篮球场猝死",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E9%80%9A%E6%8A%A5%E6%96%B0%E7%94%9F%E5%85%A5%E5%AD%A63%E5%A4%A9%E7%AF%AE%E7%90%83%E5%9C%BA%E7%8C%9D%E6%AD%BB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "底线人物特辑",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BA%95%E7%BA%BF%E4%BA%BA%E7%89%A9%E7%89%B9%E8%BE%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "新一届短道国家集训队名单公布",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B8%80%E5%B1%8A%E7%9F%AD%E9%81%93%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "王毅阐述「六点主张」，会后许多国家代表等候与中方握手交流，表示对倡议的支持与认可，如何看待这一细节？",
+    "url": "https://www.zhihu.com/question/555603004",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何看待比亚迪 23 年社招部分岗位「西交 20 k，而西工大 13 k」这种工资差异?",
+    "url": "https://www.zhihu.com/question/555326356",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "日式西幻，欧式西幻，俄式西幻，美式西幻，中式西幻有什么不同?",
+    "url": "https://www.zhihu.com/question/553760574",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "忘记关实验室空调被永久禁止使用实验室，为什么会罚这么重？",
+    "url": "https://www.zhihu.com/question/555440767",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "俄罗斯为什么会举行一个没有几个国家会承认的公投?",
+    "url": "https://www.zhihu.com/question/554768723",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "朋友间哪件事情感动过你？",
+    "url": "https://www.zhihu.com/question/28424408",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "德国与阿联酋达成天然气交易，最快 12 月下旬交付，这释放了哪些信号？",
+    "url": "https://www.zhihu.com/question/555567601",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何看待外媒称「泽连斯基表示乌克兰已经从美国获得了先进的防空系统」，哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/555604720",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "2022法考成绩出来了，怎么看待今年的客观分数?",
+    "url": "https://www.zhihu.com/question/555231959",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么奥斯曼帝国经常输给沙俄？",
+    "url": "https://www.zhihu.com/question/457734014",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "赣锋锂业：目前价格不变的话，明年业绩更好",
+    "url": "https://www.yicai.com/brief/101546547.html",
+    "summary": "继巴菲特抛售比亚迪之后，又一家锂业巨头遭遇类似利空。港交所最新披露文件显示，9月22日，三星SDI减持赣锋锂业H股1662.2万股，三星SDI对赣锋锂业H股持股比例由8.23%降至4.11%。对此，赣锋锂业工作人员表示，减持原因并不清楚，但对公司暂时没什么影响。按照目前行业景气度来看，公司明年业绩会更好。（第一财经）",
+    "publish_time": "2022-09-26 12:09:10",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "双循环概念股获主力资金青睐，当日累计净流入超30亿元",
+    "url": "https://www.yicai.com/brief/101546701.html",
+    "summary": "双循环概念股获主力资金青睐，当日累计净流入超30亿元。比亚迪净买入4.68亿元，居榜首，五粮液净买入3.89亿元，宁德时代净买入3.08亿元，三花智控、贵州茅台、TCL中环、阳光电源、亿纬锂能、长安汽车、洋河股份均获主力资金净买入。（第一财经）",
+    "publish_time": "2022-09-26 13:33:23",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "菜鸟联合中远海运试水全链路合作",
+    "url": "https://36kr.com/newsflashes/1931652730358400",
+    "summary": "36氪获悉，近日，菜鸟与中远海运在全链路履约服务方面试水合作，中远海运旗下“中远海运土星轮”货轮抵达比利时安特卫普-布鲁日港。据介绍，双方将实现海上运输、货物到港、港到仓无缝衔接，这批货物将在港区内的中远海运港口泽布吕赫场站进行清关、拆箱、入库、仓储、提货，由菜鸟以及合作伙伴运往比利时、德国、荷兰、捷克、丹麦等欧洲国家的海外仓，完成今年“双11”跨境出口物流配送。",
+    "publish_time": "2022-09-26 13:38:46",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "券商股震荡走低，中国银河跌近7%",
+    "url": "https://36kr.com/newsflashes/1931657789049476",
+    "summary": "36氪获悉，券商股震荡走低，截至发稿，中国银河跌近7%，东兴证券、锦龙股份、哈投股份、国联证券、华创阳安等跟跌。",
+    "publish_time": "2022-09-26 13:43:54",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "三部门：新能源汽车免征车辆购置税政策延续至2023年底",
+    "url": "http://szs.mof.gov.cn/zhengcefabu/202209/t20220926_3842633.htm",
+    "summary": "36氪获悉，财政部、税务总局、工信部发布关于延续新能源汽车免征车辆购置税政策的公告，对购置日期在2023年1月1日至2023年12月31日期间内的新能源汽车，免征车辆购置税。免征车辆购置税的新能源汽车，通过工业和信息化部、税务总局发布《免征车辆购置税的新能源汽车车型目录》实施管理。自《目录》发布之日起购置的，列入《目录》的纯电动汽车、插电式混合动力（含增程式）汽车、燃料电池汽车，属于符合免税条件的新能源汽车。",
+    "publish_time": "2022-09-26 13:59:50",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "\"蓝鲨\"东南亚市场商用车专项基金成立，I期募资1.75亿美元",
+    "url": "https://www.36kr.com/p/1931650555693699",
+    "summary": "36氪独家获悉，鲨湾科技近日在阿联酋首都阿布扎比与多方签约成立创立\"蓝鲨\"东南亚市场商用车融资租赁专项基金CIS Pride ESG Fund，完成I期募资1.75亿美元，比期初设置的规模超募75%。合作方包括阿联酋阿布扎比超大型集团Siraj Holding LLC、马来西亚大型制造集团公司EP Manufacturing Bhd、CIS Pride Fund和蓝鲨东南亚合资公司Blueshark ASEAN。",
+    "publish_time": "2022-09-26 14:10:00",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "地平线获奇瑞投资，累计融资超34亿美元",
+    "url": "https://mp.weixin.qq.com/s/YV20OqjOSwhcVioyV4Y8Jg",
+    "summary": "36氪获悉，地平线宣布获得奇瑞的投资，资金将主要用于车载智能芯片的研发迭代与量产应用。同时，双方官宣，在目前车载智能交互领域的合作基础上，正式开始在高阶辅助驾驶领域的新合作。自成立以来，地平线已获得上汽集团、广汽资本、长城汽车、比亚迪等众多车企资本，以及Intel、SK Hynix、宁德时代、立讯精密等多家产业链上下游企业的战略投资。如果不计算未披露的融资金额，地平线累计融资超34亿美元。",
+    "publish_time": "2022-09-26 14:11:26",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "B股指数午后跌幅达7%",
+    "url": "https://36kr.com/newsflashes/1931685042932101",
+    "summary": "36氪获悉，截至发稿，B股指数午后跌幅达7%，国新B股、锦在线B、中毅达B等多只个股跌停。",
+    "publish_time": "2022-09-26 14:11:38",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "商务部：1-8月我国服务外包合同额12280亿元",
+    "url": "http://www.egsea.com//news/detail/1282519.html",
+    "summary": "商务部发布数据，1-8月，我国企业承接服务外包合同额12280亿元，执行额8314亿元，同比分别增长12.5%和12.8%。从业务结构看，1-8月，我国企业承接离岸信息技术外包（ITO）、业务流程外包（BPO）和知识流程外包（KPO）执行额分别为2092亿元、815亿元和1886亿元，同比分别增长4.9%、11.6%和14.0%。（证券时报）",
+    "publish_time": "2022-09-26 14:21:45",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "数据中台不是“无中生有”，而是让企业更快去做眼前的事",
+    "url": "https://www.infoq.cn/article/SEJ62iIqiEpPfW0pRm7f",
+    "summary": "<p>在商业市场竞争加剧以及国家政策扶持的大背景下，如何进行数字化转型成为了企业所关注的重点。</p><p></p><p>数据作为企业数字化转型的关键要素，同时也是赋能业务以及管理的重要生产资料，究竟企业应该如何打通数据壁垒，构建出数据采集、治理、分析和使用的完整闭环？如何深度挖掘数据的价值，提高企业运营效率，使得企业可以灵活应对迅速变化的市场环境？为了解答这一系列问题，有一个概念不得不提，那就是：<a href=\"https://xie.infoq.cn/article/69e8879ff199fff7fb0ae2c3c\">数据中台</a>\"。</p><p></p><p>2015年，阿里为了提高业务效率、支持产品创新、减少成本投入，开创了“大中台，小前台”的组织机制和业务模式，提出中台战略。后来的几年，数据中台的概念一路走红，逐渐深入互联网公司甚至是传统行业。</p><p></p><p>然而，几乎是在一夜之间，数据中台的“彩色泡泡”被戳破——一方面，提出这一理念的阿里被指忙着“<a href=\"https://www.infoq.cn/article/HwD2iMWxZ3MW7HloOHiD\">拆中台</a>\"”；另一方面，许多企业在大张旗鼓地建设完数据中台之后，发现其带来的回馈和价值并不明显。业界对数据中台的争议声接连不断。</p><p></p><p>但即便如此，仍然有企业把数据中台始终作为数据能力建设的关键部分。比如，近几年来，中国<a href=\"https://www.infoq.cn/article/TvHZGbm4EToxCb98PO0r\">光大银行</a>\"（以下简称“光大银行”）一直在加速数据平台的中台化、敏态化发展，通过建设数据中台沉淀数据资产价值，为“用数据驱动业务”夯实基础。</p><p></p><p>而关于数据中台的争议点，作为光大银行数据体系建设的核心参与者，光大银行资深数据架构师<a href=\"https://time.geekbang.org/column/intro/100057401?tab=catalog\">王磊</a>\"在日前接受InfoQ采访时表示，其中既有概念不明确的原因，也有企业对数据中台期待过高的原因。用他的话说——数据中台就像是“巨人的肩膀”，但它不是让企业去做一些不能做的事，而是能够更快地去做现在能做的事。</p><p></p><p>换句话说，企业建设数据中台，归根结底还是要回归业务本身，从自身情况出发。而不是无中生有，让企业去做与业务发展方向不匹配的事情。</p><p></p><h1>数据中台的核心价值是实现数据复用</h1><p></p><p></p><p>那么，具体来说，在企业数字化转型的过程中，数据中台的定位究竟是什么？我们或许可以从<a href=\"https://www.infoq.cn/article/zz3JtiokOUIrJXHl4wLE\">银行数据体系</a>\"的建设历程中来找到答案。</p><p></p><p>银行数据体系的建设，可以追溯到初步信息化的时期，银行一方面将业务从线下转到线上，形成协同效应；另一方面将省级IT力量逐渐向总行迁移，实现集中电子化。</p><p></p><p>“在早期信息化阶段，手工业务逐渐被信息系统取代，但系统仍然在各分行单独部署，而后随着技术的进步，各家银行纷纷将地方的IT力量逐渐集中到总行，原有的分行开发系统不断消失，这是银行系统的大集中时期，主要为了解决银行电子化的工作需求。”王磊在谈及银行不同时期的发展特点时说道。</p><p></p><p>王磊表示，在这个阶段，银行对单机处理能力的依赖程度还较高，大多数银行面对日益增长的数据量，还是会优先选择更换硬件设备来提高系统负载量。</p><p></p><p>传统银行与客户接触都是通过柜台，从资产层面来说，它的设备容量比较容易评估。而当用户和银行的接触由传统的线下物理网点变为互联网平台时，对银行系统的冲击也随之而来。</p><p></p><p>“互联网电商的运营模式，制造出来像双十一这样的消费高峰，最终会体现在银行的交易层面。这时，怎样解决弹性资源的分配？怎样才能抵御系统的高并发？大多数银行会把总系统按照类别进行拆分，如用户中心、支付中心、产品中心等。换句话说，银行会把相对聚焦的业务拆分成更小颗粒度的单元，来保证系统整体的性能。”王磊说道。</p><p></p><p>如果说互联网时代是以人为核心，企业聚焦的是链接，为人提供平衡的供需关系，那么，随之而来的数字经济时代，则是以价值为核心，企业追求的是共同创造利润，从业务模式出发，利用海量数据，由彼及己，为自身赢取增长。</p><p></p><p>因此，在数字经济的时代背景下，王磊认为数字化转型的重点，不纯粹发生在IT<a href=\"https://archsummit.infoq.cn/202212/beijing?utm_source=infoq&amp;utm_medium=conference\">技术架构</a>\"层面，而在于企业的业务发展。</p><p></p><p>他以银行互联网贷款的场景为例。传统方式下，用户向银行贷款递交申请主要是通过线下柜台，审核贷款申请可能需要几天甚至十几天；如今这种模式发生了明显的变化，银行后台通过算法模型以及引入各种辅助决策工具，让用户在线上递交的申请审核，变成一个自动化的过程，不少银行小额贷款可以做到实时反馈。</p><p></p><p>王磊表示，在前两个阶段，银行数据体系建设还主要是“烟囱式”，强调聚焦于某一条线、某一个业务板块去集成数据能力，而在不同条线之间会存在“<a href=\"https://www.infoq.cn/article/29uvshLBl6ZIeuxTdNOx\">部门墙</a>\"”，系统层面也会存在互不相通的障碍。这些阻碍导致各系统之间的数据无法打通，可能存在数据不一致、难调用等一系列的问题，很难满足前台业务的高效甚至是实时响应的需求。</p><p></p><p>“而数据中台的主要作用就是解决系统横向打通的问题，在系统层面最大程度实现数据复用。”王磊指出。也就是说，数据中台拥有可以为不同形式的业务，提供通用数据服务的能力。</p><p></p><h1>数据交付更加强调实时性</h1><p></p><p></p><p>但是，由于业界对数据中台的概念一直没有统一的共识，有的公司会把原有数据类的能力和技术统一打包，就叫做数据中台——其中的核心内容仍然是过去的元数据管理、数仓、数据湖，前台的BI系统、报表文件、多维分析，以及大数据等技术。</p><p></p><p>“这类所谓的数据中台，没有带来新的东西。一个新的名词出现时，它如果没有区别于之前已经存在的概念，就只是‘新瓶装旧酒’，并没有什么实质性的创新。”王磊强调。</p><p></p><p>在他看来，要想正确理解数据中台，需要一种务实的态度。从银行角度来讲，数据中台一定是要从前台业务价值出发，提供一些数据拆解的能力。比如，要灵活支持前台，中台就必须与前台同频率变化，实时满足业务场景的需求。</p><p></p><p>但是，由于前台覆盖的业务面非常广泛，要想保持同频，对数据中台的交付能力又会提出挑战。</p><p></p><p>过去，数据分析主要服务于特定的场景。比如，银行会依托业务模型，把交易系统产生的数据，通过一种批量处理的方式，整理成企业所关注的各种指标，然后工作人员会根据这些指标来制定管理者所关注的数据，最终以报表资料的形式，辅助不同层级的管理者进行决策。</p><p></p><p>“如今，在银行数字化阶段，数据的使用方式已经发生了实质性的变化，不是单纯只从管理者做决策这一个场景出发，而是融入在一线业务的每一个场景。比如，前面说到的银行发放网络贷款的场景中，怎么去识别客户提交的数据？最终银行是否应该发放贷款？具体应该发放多少额度？再比如，在银行的营销场景下，如何能够与客户接触，为客户提供他们更感兴趣的产品？为了做出决策，数据的支持发生在每时每刻，并且离不开场景。”王磊说道。</p><p></p><p>具体从时间维度来看，传统数据处理的时效性是“T+1”天，也就是说，今天输出的数据报表，实际上是通过昨天的数据进行批量处理而得到的。但现在，数据使用、交付不单纯体现在产出数据报表的时间节点上，而是只要有正常的业务开展，就需要有数据赋能，会反应在任何一个时间点上。“比如，当客户在手机APP端提交了一个操作请求，银行后台需要及时反馈这个请求，所以，数据的交付必须更加强调实时性。”王磊解释道。</p><p></p><p>从系统架构层面上来看，当数据交付方式变化，数据中台服务能力的建设模式也会发生变化。过去，银行会先从数据库中读取批量数据，然后经过计算处理，最后以报表文件方式输出数据，这时数据能力的复用跟数据批量加工的形式之间，有着很强的耦合关系。</p><p></p><p>“但为了满足时效性，如今数据交付方式正在向服务化的方向发展，整个数据中台服务能力的架构方式，也由传统烟囱式架构向着<a href=\"https://xie.infoq.cn/article/59f058d2221ed257c938f53d5\">微服务化</a>\"架构转型。”王磊说道。</p><p></p><p>具体来说，微服务架构运用的是围绕业务需求的轻量级架构，所以具有诸多好处。比如，因为服务的设计是围绕特定业务开展的，例如商品服务只管理商品、客户服务只管理客户等，这意味着开发人员足够专注，可以大大提高开发效率；再比如，微服务架构中的每一个服务都是一个独立应用，可以访问自己的数据库，通过提供公共API，服务之间还可以相互调用，如此一来就可以满足不同业务的快速开展和交互。</p><p></p><p>“所以，在我们的数据交付和应用交付过程中，服务化成为非常重要的承接方式，而微服务化架构也发挥着重要的作用。”王磊强调。</p><p></p><h1>数据中台可以这样考虑投入产出比</h1><p></p><p></p><p>但话说回来，建设数据中台的确是一件高投入且长期的工作，短期内很难看到直接效益。对于企业而言，不得不考虑到一件事就是“投入产出比”。</p><p></p><p>“如果数据中台非常划算，那么企业很早就会建设了，也不会等到现在。企业之所以都做烟囱式的系统，就是因为烟囱式系统的短期效益更好，做了一个系统、加了一个功能，立马可以用上。”王磊解释道，因此，短期来说，未必所有的企业都需要建设数据中台。不同的企业处于不同的发展阶段，拥有不同的盈利模式，自然对数据的需求也就千企千面。</p><p></p><p>但是，就<a href=\"https://www.infoq.cn/theme/149\">金融</a>\"机构而言，长期来看，当面临业务日新月异的变化，传统的IT系统建设模式，大概率比数据中台的建设成本更高。</p><p></p><p>王磊表示：“拿银行业来举例，为了适应客户需求的变化，银行在组织架构方面的调整也越来越频繁。很多时候会遇到今年系统要合并，明年再拆分的情况，如果按照原本的投入方式，反而会让IT系统成本越来越高。”</p><p></p><p>而如前文所说，数据中台的核心是企业级的能力复用，这种能力虽然不能快速建立起来，但是通过项目经验稳定沉淀，长此以往，可以大大降低企业的应用开发风险和成本。</p><p></p><p>那么，从未来中长期来看，企业应该如何权衡数据中台的投入产出比呢？</p><p></p><p>王磊认为，数据中台是不是能够带来效益，可以在构建新场景的过程中计算。比如，在固定场景中，数据中台投入了多大的成本，如果是按照传统烟囱式系统进行建设的话，其投入成本又有多少，二者进行对比分析，可以直接量化得出结果。未来，也可以采用同样的量化方式，复盘数据能力的复用可以为企业带来多少的增长价值。</p><p></p><p>“对于任何投入，企业都会理性地关注它的价值点。当我们去看数据中台时，最开始一定是看数据中台在哪些范围、哪些场景能发挥作用。企业一定也希望自己能够尽早的触达这些场景。如果数据中台在某个能力点上的复用率很高，应用场景自然也很广泛，那么，这一点的投入在未来带来收益的可能性就更很大。如果是复用率比较低的节点，企业投入就可以少一些。”王磊进一步说道。</p><p></p><p>他举了个例子，“比如，大多数银行都会对客户资产进行一个评估，这个指标会在不同条件、不同场景下被重复使用。因此，企业可以将这种关键性的指标放在数据中台的建设过程中，从而获得更大的收益。”</p><p></p><p>总的来说，企业应该通过自身的实践出发，找到具有潜力的业务场景，有针对性地投入资源、费用、人力等成本，才有更大可能从中挖掘价值、创造收益。</p><p></p><h1>让业务人员参与其中</h1><p></p><p></p><p>那么，建设完数据中台之后，如何确保它能够发挥最大的价值？这是大部分企业的另一个疑问。</p><p></p><p>王磊指出：“由于数据和业务之间具有关联性，数据的实际使用是以业务上的定义为前提的，换句话说，数据中台发挥价值的一个重要前提便是——要在业务语义上进行标准化、成体系的管理。”</p><p></p><p>他拿“客户”一词进行举例，对于不同分行、不同业务线、不同部门而言，这个词的定义、界限、分类可能完全不同。“但如果我们对客户都没有一个明确定义的话，那么客户的价值、客户的资产就不知道应该采用什么样的规则去计算，更不用提让数据能够复用了。这归根到底还是业务口径不一致带来的问题。”</p><p></p><p>由此可见，数据中台所形成的技术能力实际上是业务能力的体现，业务人员需要参与到整个数据中台的建设过程中，对数据有更好的管控，才能让数据中台更好地赋能于业务场景。</p><p></p><p>然而，业务与技术的鸿沟是天然存在的，这是企业面临的普遍问题，也是决定了数据中台价值能不能有效发挥的关键要素。 “从这两年银行业的实践可以看到，很多银行都在成立独立的数据部门，去负责数据能力建设或者数据中台建设的工作，目的就是拉通业务和技术，通过一种通力协作的方式去重新构建企业能力。具体来说，这个数据部门通常既有传统的IT技术能力，又会融合企业的业务能力。”王磊说道。</p><p></p><p>同样，我们也看到光大银行在数月前的公告中对外公布，银行的组织架构将有所调整，数据资产管理部也会随之建立起来。对此，王磊表示，“我觉得，未来数据资产管理部会在很大程度上推进我们共同去完善数据中台的建设。”</p><p></p><p>但是，另一个问题是，新技术的应用一定有一个周期。比如，目前还有很多银行的一线业务人员由于缺少对新技术工具的驾驭能力，所以仍旧会使用Excel这种非常传统的数据分析工具，进行计算、分析。</p><p></p><p>这其中既有业务人员思维意识的原因，也有技术本身的原因。“短时间来看，用Excel报表确实可以更灵活的完成一些工作。但是毕竟这只是一种轻量级的数据统计分析工具，随着银行数据量级的增长、<a href=\"https://www.infoq.cn/news/AkzC5erKpwNFTELuPAGQ\">业务场景</a>\"的复杂化，像Excel这种传统的数据统计分析工具会无法承载。另一方面，由于工具级别的不同，它们处理问题的逻辑也是不一样的，因此，系统对现在的业务支持可能也会存在一些盲点，这会导致一线业务人员不得不用报表去分析业务情况。”王磊表示。</p><p></p><p>所以，在他看来，业务人员使用数据的能力和技术人员构建的数据平台之间需要一个桥梁，在这个桥梁之上，还需要业务人员和技术人员的共同学习、互相奔赴，努力扩大“共通的意义空间”。只有这样，才能够真正发挥数据中台的价值，才能让<a href=\"https://www.infoq.cn/article/YcvRvZaOoez9sKJ92jHR\">数据</a>\"流向业务、驱动业务、赋能业务。</p>",
+    "publish_time": "2022-09-26 11:44:52",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "聊聊可观测在企业的实践应用与实际价值｜InfoQ大会早班车第23期",
+    "url": "https://www.infoq.cn/article/hTRCXPdd3Cphkdpf0bMi",
+    "summary": "<p>可观测性如何服务好上层业务？自建还是引入？可观测运维对开发的价值有哪些？本次大会早班车聚焦可观测问题，邀请到阿里云资深技术专家承嗣、字节跳动可观测性平台负责人孔罗星进行分享，不妨来听一听他们的观点与分析。</p>",
+    "publish_time": "2022-09-26 12:03:39",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "旧工厂如何用AI玩出新花样？",
+    "url": "https://www.infoq.cn/article/ZGkKXpk51tTmHwOYCVKx",
+    "summary": "<p>不少人认为，所谓的<a href=\"https://www.infoq.cn/article/8EjU56MwtgBcwB8ML8AT\">智能工厂</a>\"一定要有最完善的智能化产线，以及机械操作臂、AGV搬运车、码垛机器人等最先进的设备。但是，很多企业在智能化转型的初期，往往无法一次性到位，对旧工厂、旧设备的改造，几乎无法避免。</p><p></p><p><a href=\"https://www.auo.com/en-global\">友达</a>\"是全球头部的显示面板设计、研发、制造和销售公司，最早的工厂筹建于20多年前，所以很多设备在早期也不具备良好的数据采集和联网基础。但是，这些令很多传统制造企业在数字化和智能化转型过程中非常头大的旧设备和旧产线，似乎没有变成友达的“拖油瓶”，反而，友达利用<a href=\"https://www.infoq.cn/article/7vTfCLYoKzuIZTjdLGk0\">AIoT</a>\"技术为它们焕发出了新的生命力。</p><p></p><p>几年前，笔者曾经在参观友达苏州工厂时看到这样一幕：很多老旧设备的监测表头前都加装了一个摄像头，通过对表头数据（包括温度、压力等）进行图像识别和读取，把无法进行数据采集的关键设备信息也上传到了后台，供后续数据分析使用。这就解决了既要保护原始投资，又想实现数据获取、传输和应用的问题。</p><p></p><p>而这其实不过是友达借助AI、IoT、大数据等数字技术实现智能化升级的一个缩影。从2015年开始布局智能制造以来，除了对旧设备的改造，友达还布局了大量智能化设备和软硬件基础设施，在智能化的技术、场景、人才等方面积累了大量经验，这些经验先是在公司内部得到了广泛且深入的复制落地，随后又转化为技术产品向外部进行智慧工业服务输出，成为友达的另一增长曲线。并且，就在2021年，友达还凭此转型成效获评了世界经济论坛的“全球灯塔工厂”。</p><p></p><h1>是什么让友达“积极转型”</h1><p></p><p></p><p>故事要从2015年讲起。那一年，友达开始在全集团范围内投入大量资源进行数字化建设，其中包括数据整合与数据分析技术提升等。2016年，阿尔法狗大战世界围棋冠军李世石，并以4:1的总分获胜，AI技术迎来高光时刻；一年之后，友达很快启动了全面智能化战略，开始在内部通过AI等技术与先进制造融合，构建自感知、自决策、自执行的智能系统。</p><p></p><p>“所谓的自感知就是数据能被采集侦测，比如设备的状况能通过IoT技术做到实时监测；自决策就是数据采集后可以借助AI技术进行数据分析建模，从而实现自主决策，例如是否要调整参数或者停机等等，并且不管数据是在边缘、云端还是本地；自执行就是在决策完成后，可以把决策动作反馈到后台，让智能系统做自执行、自调整，形成闭环。”艾聚达信息技术（苏州）有限公司（以下简称“艾聚达”）总经理赖骏凯在接受InfoQ采访时解释，从技术角度而言，这样的智能系统正是AI与IoT技术融合的表现形式，是<a href=\"https://www.infoq.cn/article/a9ChVY8DGJRbXqTHqjah\">AIoT落地</a>\"的成果。</p><p></p><p><a href=\"https://ati.auodigitech.com/\">艾聚达</a>\"是友达在2018年成立的工业服务全资子公司之一，主要提供 AI 赋能的 HaaS 平台解决方案，透过 AI 技术赋能边缘硬件产生数据价值，助力企业智慧化升级。具体来说，艾聚达基于AI技术，可以帮助企业提取数据价值并将算法模型赋予终端，让边缘硬件产生智慧决策能力。凭借在制造行业多年积累的丰富场景应用技术与算法模型，能够为各企业提供工业自动化、边缘智能化、工业大脑、工业人工智能平台四大解决方案和服务。</p><p></p><p>和艾聚达同年成立的，还有另一家工业服务子公司友达智汇，主要提供规划咨询服务解决方案、数字化工厂解决方案、智能工厂解决方案和绿色智慧园区解决方案。2021年，友达在全球的智慧工业服务全新事业：友达数位成立，艾聚达和友达智汇都划归为旗下子公司，共同为制造业转型升级贡献力量。</p><p></p><p>事实上，变革是一件需要强驱动力的事情，和大多数企业一样，友达最初做数字化和智能化，也有很多外部因素的推动。赖骏凯告诉InfoQ，光电是一个竞争非常激烈的行业，尤其是在过去十年间，国内面板市场出现了大规模的扩产，对于友达这样的光电制造领导企业来说，必须提前布局思考如何从规模竞争转向价值竞争。</p><p></p><p>所谓价值转型主要表现在两方面：首先，是产品形态的转变，专注于高附加值的产品；其次，是订单形态的变化，从规模化生产转变为少量多样的订单生产。举例来说，“现在大家打游戏对画面的要求越来越高，我们就必须做超高刷新率的产品，以前这种产品的标准是90赫兹，也就是一秒刷新90次，但现在在电竞领域，我们已经可以做到领先业界的500赫兹。”赖骏凯表示，“外部环境的这些变化，要求我们必须做高度定制化，必须少量多样地去生产，但是这种生产方式会带来一个很大的挑战，比如产能会有所损失、成本会增加、良率会变差，这就是我们转型过程中的‘痛’。”</p><p></p><p>除此之外，还有一个关键的矛盾点——市场需求变快、产品周期变短，但面板产品的制造周期却相对长。用赖骏凯的话说，产品优化和生产的速度都不一定能跟上产品需求的变化速度。“所以，正是这些源源不断的问题促使我们很早就开始思考，如何通过新的技术提升内部的竞争力，如何用新方法解决旧问题。”</p><p></p><h1>AI解决了哪些问题</h1><p></p><p></p><p>2017年开始，AI成了友达应对这些问题的那个“新的技术”和“新的方法”。具体来说，赖骏凯认为AI在制造行业主要有三大应用场景——数据科学、<a href=\"https://www.infoq.cn/article/MDuweEQy7Qr1FNHFXzfN\">工业质检</a>\"和智能监控。</p><p></p><p>以生产排程计划为例，赖骏凯表示，在面板制造的过程中有一个关键制程，每个产线配备的设备比较有限，所以作为一个稀缺资源，这类设备的排程计划会直接影响生产效率。</p><p></p><p>“比如，这个设备一次要生产多少片面板、一天要产出多少量，如果产品在A设备上良率比较低，这时候就必须在B设备上生产，这些都是限制式。而这些限制式一旦达到一定数量，比如十几种甚至几十种，用人工去计算的工作量是大且繁复的。”赖骏凯表示，过去这个工作需要由最有经验的工程师每天花时间用Excel表格手工完成。</p><p></p><p>但这种“传统”的模式不只效率低、调整次数有限，而且很难与MES（生产执行系统）联动生产。“而利用AI模型，我们只要把限制式输入进去，它就能直接输出一个最佳排程结果，告诉我们今天最多可以生产多少产品，甚至什么时间点要产出这些产品。这么做的好处不只是效率变高了，也使得该关键设备的产能得以提升。</p><p></p><p>同样的道理，面向员工的排班工作也可以由AI完成。在友达工厂，基于由AI自动化进行的排岗、调休和操作规范知识库实时支持，员工每天上岗后就可以非常清楚自己当天的主要工作、具体的生产任务、操作注意事项等等。</p><p></p><p>另外，其中还有一个令人拍案的巧思之处在于，友达在每个关键岗位也加设了摄像头，结合AI技术可以分析员工的作业节拍，判断动作是否标准等。这样一来，传统工位就摇身一变变成了智能工位，过去可控性比较低的人工作业也实现了相对的标准化，在生产环节就提高了对产品质量的把控。</p><p></p><p>而为了提高产线的可控性，除了对人的操作做追踪，还要对设备的运行状态做监测。比如我们在开篇中提到的那一幕，通过摄像头读取表头数据的目的，事实上就是为了对设备做监控，一旦设备出现故障，可能直接表现为温度、压力等数据异常，这时候就可以立即给设备工程师下维修订单。</p><p></p><p>赖骏凯介绍，如今在友达工厂，早期那些加挂固定式的摄像头很多已经升级成了移动式的摄像头，通过加装在机械臂上，不但可以用来读取数据，还可以去完成一些不适合人工完成的操作。比如在车间的一些角落，人要进去比较困难，很容易撞头或者发生危险，这时候，机械臂的摄像头和自动巡检机器人配合就可以替代人工作业，完成点检的工作，用来规避这些安全隐患。</p><p></p><h1>如何搞定“人”的问题</h1><p></p><p></p><p>由于友达的智能化转型起步较早，当时行业内几乎没有可参考的案例和路径，所以回顾这7年的历程，赖骏凯坦言他们也走过一些弯路。</p><p></p><p>赖骏凯回忆，最开始友达对于AI这样的新技术也不熟悉，如何把它与制造流程结合更没有概念，所以初期只能先依托外部资源进行项目合作。“他们的确给我们带来了新的技术思维，对我们视野产生了新的扩展，但是在这个过程中我们还是遇到了两个问题。一方面，这些公司不够了解工业现场的场景和一线的真正需求，这使得我们之间的沟通成本很高；另一方面，当技术公司在项目完成撤出后，除了产品本身，他们的能力并没有留存下来，使得我们无法基于新的技术能力持续进行制程优化。”</p><p></p><p>友达很快意识到，这个困境的症结出在“人”上。于是，从2018年开始，友达每年都会安排遍布于各地、各个产线、各个部门的工程师进行<a href=\"https://time.geekbang.org/resource?m=0&amp;d=8&amp;c=8\">脱岗学习</a>\"，他们不只是技术人员，还可能来自生产部门、研发部门或者品质管理部门。在这个过程中，他们会先花大概数个月的时间学习AI、RPA等最新的技术，然后再用近一年的时间做专案，让每一个人了解除了过去他专精的业务领域之外，AI技术还可以解决哪些业务问题。</p><p></p><p>“随着我们AI落地经验的不断积累, 也摸索出工业应用的核心场景, 即将过去积累的经验转化为AI工具平台，也就是说，后进的人只要通过已平台化的工具就可以快速获得AI能力去解决问题。比如，我们有一个AI平台，它可以帮助员工在上面快速做数据分析，做最佳参数推荐。”赖骏凯表示，这一平台的使用门槛非常低，只要对制程机理有一定了解，进公司大概半年时间，就能在上面灵活运用AI工具帮助自己探索数据价值，而不一定要懂代码、懂Python。</p><p></p><p>那么，有了技术又找对了场景就能万事大吉了吗？真相往往没有那么简单。据了解，友达最初通过MES、ERP、IoT等系统的融合把数据做了统一的整合管理，然而，转型初期的<a href=\"https://www.infoq.cn/article/YcvRvZaOoez9sKJ92jHR\">数据利用率</a>\"偏低。很多企业在数字化、智能化的推进过程中也会遇到类似的问题。</p><p></p><p>在赖骏凯看来，这一方面是管理的问题。还以设备故障维修为例，虽然AI可以帮助工厂做数据读取、数据分析，实现故障预警。但是，后续的维修动作还是由人来完成。过去，产线生产员工和设备工程师之间的关键矛盾在于，设备出现故障会直接影响生产人员的业绩，但与工程师的业绩无关。所以，设备维修这件事最后往往是后者不急前者急。</p><p></p><p>为了解决这个问题，友达的办法是装预警灯+APP“抢单”。如果设备出现故障没有及时维修，预警灯就会长亮。而在后台，通过“抢单”的方式可以快速匹配工程师进行故障维修，并且所有维修结果，包括平均用时等等都会通过数据结果呈现到后台，与工单价格直接挂勾。通过这种管理模式的改变，友达的工厂车间从“有故障没人修”变成了“有故障抢着修”，从反应式管理变成了预测式管理。</p><p></p><p>另一方面，数据利用率低也是人的思维因素使然。“比如，那么多数据呈现在眼前，但不知道如何将其价值充分发挥出来。这时候我们就需要通过一些培训和机制培养员工在这方面的能力，让大家知道自己关心的指标什么情况下异常，如果发生异常应该采取什么动作，其中的数据量够不够，如果不够是否需要通过IoT再补充收集数据等等。通过这样的方式慢慢培养工程师的数据思维，让大家的能力螺旋式上升。”赖骏凯解释道。</p><p></p><p>也就是说，要让<a href=\"https://www.infoq.cn/article/k0Lr2oVo3EdPqVR6CLo0\">数据驱动</a>\"形成闭环是一个系统工程，既要有技术维度，也要有管理维度，二者融合才能让效果最大化。</p><p></p><h1>写在最后</h1><p></p><p></p><p>其实，变革这件事就像是过河，有人早早上岸，有人正在蹚水，有人还在观望。</p><p></p><p>赖骏凯表示，这是一个从0到1、从1到10、从10再到100的过程。企业不需要急于求成，一开始就投入大量的资源。而是找准自己的问题点，在几个关键的业务场景先针对性地投入做试点，取得一定改善成效之后再进一步复制平展。</p><p></p><p>比如，对于友达来说，并没有一上来就把老旧设备都抛弃，也不是一步到位全做了改造，而是先从关键设备开始，逐步对旧设备实现了数据联网，再逐步实现AI自决策与异常自调整。</p><p></p><p>“并且，我们在做任何流程改善的时候，都会先做流程梳理，然后再做流程精益，在精益化完成之后，才能把一些新的技术逐步放进去，形成新的智能化制造流程。”赖骏凯强调，“这么做的原因，一是避免资源浪费，二是让内部员工看到新技术的价值。”</p><p></p><p>如此一来，无论是数字化还是<a href=\"https://www.infoq.cn/article/UlxmUYElHHjTsU55rFUP\">智能化</a>\"，才能在企业内部形成自上而下、自下而上的可持续正循环，形成滚雪球式的效应放大，让企业真正从中受益，实现降本增效、提质转型的最终目的。</p>",
+    "publish_time": "2022-09-26 12:42:11",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "Vol.20220925：写作的价值，在于改变读者对世界的看法",
+    "url": "https://pmthinking.com/post/1827",
+    "summary": "<img src=\"https://pmthinking.com/wp-content/uploads/2022/09/Plidezus_bold_sketch_of_the_great_beautiful_landscape2d_stylize_429a6fe7-480d-4396-b7cd-67f6eb93d340-tuya.jpeg\" />  \n                \n            \n        \n<h2><strong>卷首语：</strong></h2>\n\n\n\n<ul><li>非常感谢大家，收到许多沉思录读者的反馈，有感谢的也有批评的，但大抵让我们明确了沉思录的价值，即提供一些看待世界的不同视角（而非具体的操作步骤），这和我们的初衷也比较一致。但下一个问题是「何谓视角」，到底哪些是有价值的视角，哪些是个人偏见，在文末的松节油专栏中进行了浅谈。同时针对部分反馈，会尽量缩短沉思录每期的内容，提供凝练有价值的视角，而非堆砌文字。</li><li>调整了每期内容结构，把 Give me Five 依旧放在了最前面。原因在于 fonter 非常希望能通过这个小小的活动，像一扇小小的窗口，展示生活的多样性，让我们不至于囿于已有路径，探索出更多可能。所以也希望各位<a href=\"https://airtable.com/shrxz4uz68hVw4dCQ\">积极参与这个活动</a>，我们会在每期邮件、每周的公众号推文、飞书随便玩玩日报社中进行推荐。</li></ul>\n\n\n\n<h2>本期概要：</h2>\n\n\n\n<ul><li><code>策展</code> WorthyFive ，Give Me Five</li><li><code>视角</code> 有效写作的方法</li><li><code>偏见</code> 你认为“公司”是解决人类面临的大问题的一种方式吗？</li><li><code>模型</code> 超链接极大主义者的实践 – notation.app</li><li><code>产品</code> 默认值的力量</li><li><code>松节油</code> 身份的减法&nbsp;</li></ul>\n\n\n\n<hr class=\"wp-block-separator\" />\n\n\n\n<h2>🌼&nbsp;来自&nbsp;<a rel=\"noreferrer noopener\" target=\"_blank\">18292029429@163.com</a>&nbsp;的WorthyFive</h2>\n\n\n\n<p class=\"has-cyan-bluish-gray-color has-text-color\"></p>\n\n\n\n<p><strong>❶.近期有什么值得再试的菜谱(🥬、☕️、🥃)？</strong></p>\n\n\n\n<p>葱烧肉酱拌面：姜、大葱切碎，用油爆香，再倒肉糜炒熟，放三大勺黄豆酱，一点老抽或红烧酱油，中小火煸至入味，就好了，放冰箱可以吃一周。</p>\n\n\n\n<p></p>\n\n\n\n<p><strong>❷.近期你的城市中有什么值得再去的地方？</strong></p>\n\n\n\n<p>跨钱塘江大桥。想去看日出和日落。龙井、虎跑、茅家埠都值得再去。</p>\n\n\n\n<p></p>\n\n\n\n<p><strong>❸.近期有什么值得独自或者和友人做的活动(🎮)？</strong></p>\n\n\n\n<p>骑着山地车车在杭州的山里瞎晃悠，碰到好玩的地方就停下来，随着眼睛、身体随意行走。</p>\n\n\n\n<p></p>\n\n\n\n<p>❹.&nbsp;<strong>可以说一说你最近见过的朋友吗？</strong></p>\n\n\n\n<p>没有见到面，但是在网上聊天比较多。他之前在大理旅居，后来去了秦皇岛，这个月底要来杭州小住，所以打算一起看电影和玩。有朋友在的城市，变得更可爱了一点。</p>\n\n\n\n<p></p>\n\n\n\n<p><strong>❺.推荐一本近期你读过很棒的书吧</strong></p>\n\n\n\n<p>今年读过最喜欢的一本书是雷蒙德·钱德勒的《漫长的告别》。</p>\n\n\n\n<p>当时写的感受：<code>To say goodbye is to die a little.</code>&nbsp;人世间多是辜负。</p>\n\n\n\n<p>这是一本夹带作者太多私货的书，关于一个中年男人（硬汉）对友情爱情不顾一切的珍视与勇气，关于他试图埋藏却常常付出水面的孤独与自卑，关于我们如何找到真正的自己。</p>\n\n\n\n<p>By the way..珍惜每一个令你感到心动又心痛地死去活来的作家，特别爱他在书中穿插的许多自白，你知道那是作者上帝视角的自白和自恋，可钱德勒就是有能力让你爱不释手。</p>\n\n\n\n<p>最近在读帕蒂·史密斯的《只是孩子》，很喜欢她空灵、自由又充满力量的文风。</p>\n\n\n\n<p>——请你也分享你的 Five ，<a href=\"https://airtable.com/shrxz4uz68hVw4dCQ\">Worthy Five, Give me 🖐🏻</a>&nbsp;更多朋友 Five 的分享，可以来我们&nbsp;<a href=\"https://www.notion.so/a698e7df3f7c44399186ea9755f6688d\">随便玩玩日报社</a>&nbsp;看看。</p>\n\n\n\n<hr class=\"wp-block-separator\" />\n\n\n\n<h2><sup><code>视角</code> </sup>有效写作的方法</h2>\n\n\n\n<p class=\"has-cyan-bluish-gray-color has-text-color\">by shaonan</p>\n\n\n\n<p>写沉思录久了，就会有一种任性的感觉，因为完全是基于自己的视角出发，所以整体比较顺手流畅，但对于诸位的体验未必好。</p>\n\n\n\n<p>最近写《<a href=\"https://xiaobot.net/p/card?refer=4e91abaf-be0d-4532-8739-e3fc96c9a3c9\">知识资产</a>》这本小册时就发现情形完全不同。因为其有明确的受众及功能，以至于其中最后一章节和 Light 反反复复修改了六次才最终上线。期间主要是在思考究竟为读者提供什么价值，以及如何让其能快速准确地感受到。</p>\n\n\n\n<div class=\"content-hidden\">\n            <div class=\"content-hidden-info\">\n                <div class=\"content-show-roles b2-mark\">\n                </div>\n            </div>\n        </div>\n\n\n\n<hr class=\"wp-block-separator\" />\n\n\n\n<h2><strong><code><sup>偏见 </sup></code></strong>你认为“公司”是解决人类面临的大问题的一种方式吗？</h2>\n\n\n\n<p class=\"has-cyan-bluish-gray-color has-text-color\">by fonter</p>\n\n\n\n<p>后续将一些另类的观点归结为一个标题【偏见】，并非贬义而是表达一种或许在本刊被放大的视角，可以警惕它也可以受它启发。另外就是表达这些观点的作者并不生活在我这个推荐者的身边，他们也是相对于我的位置偏居一方的人们。</p>\n\n\n\n<div class=\"content-hidden\">\n            <div class=\"content-hidden-info\">\n                <div class=\"content-show-roles b2-mark\">\n                </div>\n            </div>\n        </div>\n\n\n\n<hr class=\"wp-block-separator\" />\n\n\n\n<h2>模型&nbsp;超链接极大主义者的实践 – notation.app</h2>\n\n\n\n<p class=\"has-cyan-bluish-gray-color has-text-color\">by fonter</p>\n\n\n\n<div class=\"wp-block-image\"><figure class=\"aligncenter size-full is-resized\"><img alt=\"\" class=\"wp-image-1833\" height=\"311\" src=\"https://pmthinking.com/wp-content/uploads/2022/09/5-tuya-2.jpg\" width=\"311\" /><figcaption>Linus</figcaption></figure></div>\n\n\n\n<p>仍然来自前文推荐的作者，韩国人 Linus ，他自称是一个 hyperlink maximalist ，所有东西都应该是一个超链接。包括作者超链接的所有东西，作者没有超链接的所有东西，甚至超链接本身。</p>\n\n\n\n<p>这种思想存在 2 个问题</p>\n\n\n\n<ol><li>没有一个作者有时间超链接他们所写的所有东西的无限排列</li><li>如果一切都是超链接，没有人会知道哪些链接是有用的</li></ol>\n\n\n\n<p>我们来看看他的解题过程以及创作出的demo ：notation.app</p>\n\n\n\n<div class=\"content-hidden\">\n            <div class=\"content-hidden-info\">\n                <div class=\"content-show-roles b2-mark\">\n                </div>\n            </div>\n        </div>\n\n\n\n<hr class=\"wp-block-separator\" />\n\n\n\n<h2>产品&nbsp;默认值的力量</h2>\n\n\n\n<p class=\"has-cyan-bluish-gray-color has-text-color\">by shaonan</p>\n\n\n\n<p>在十多年的产品设计生涯中，经常看到许多用户反馈需要各种功能，然后还会加上一句：这个功能又不复杂， 在选项中加个选项就好了。</p>\n\n\n\n<p><strong>但设计产品就是设计默认值，因为绝大多数人并不会去更改设置。所以新功能如果不是默认展示，或并不改动默认值，那么基本上约等于不存在，优先级自然很低。</strong></p>\n\n\n\n<div class=\"content-hidden\">\n            <div class=\"content-hidden-info\">\n                <div class=\"content-show-roles b2-mark\">\n                </div>\n            </div>\n        </div>\n\n\n\n<hr class=\"wp-block-separator\" />\n\n\n\n<h2>松节油&nbsp;视角是什么</h2>\n\n\n\n<p class=\"has-cyan-bluish-gray-color has-text-color\">by shaonan</p>\n\n\n\n<p>周日在龙井村送别 fonter 和 light ，独自循九溪而下，入秋以后，水量变得充盈，色彩也开始丰富起来，路过一汪深水，意外发现倒影清澈又斑斓，宛如油画。</p>\n\n\n\n<p>这是一种视角，源自于自己曾经绘画的经验。</p>\n\n\n\n<div class=\"content-hidden\">\n            <div class=\"content-hidden-info\">\n                <div class=\"content-show-roles b2-mark\">\n                </div>\n            </div>\n        </div>\n\n\n\n<hr class=\"wp-block-separator\" />\n\n\n\n<h3>📮<strong>来自 XDash 的 Web3Q 每周精选</strong></h3>\n\n\n\n<div class=\"content-hidden\">\n            <div class=\"content-hidden-info\">\n                <div class=\"content-show-roles b2-mark\">\n                </div>\n            </div>\n        </div>\n\n\n\n<p></p>",
+    "publish_time": "2022-09-26 12:03:23",
+    "source": {
+      "name": "pmthinking",
+      "desc": "产品沉思录",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/pmthinking.png"
+    }
   }
 ]
