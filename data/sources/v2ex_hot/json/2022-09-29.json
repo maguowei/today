@@ -1,0 +1,24 @@
+[
+  {
+    "title": "请教一下聊天消息应该用什么数据库存储？",
+    "url": "https://www.v2ex.com/t/883731",
+    "summary": "monkeydream: <p>公司要开发运营聊天功能，估计用户 10w 左右，在线 1w 人，消息每天 100w 以上，需要存储 6 个月左右的消息，差不多 2 亿条，而且考虑到不同终端之间的消息同步，客户端需要频繁的查询聊天数据。\n请问针对这样的场景应该选择哪种数据库？\n目前考虑 Mongodb 或 Clickhouse ；考虑 mongodb 主要是 mongodb 的分片模式适合存储大量数据、查询也比较快，考虑 clickhouse 主要是其能存储大数据并且查询性能也比较好（但是听说并发不太好，不知道是否适合并发查询要求）。</p>",
+    "publish_time": "2022-09-29 10:06:43",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "有人开车上班带同事吗? 收多少一月比较好",
+    "url": "https://www.v2ex.com/t/883740",
+    "summary": "tyrone2333: <p>公寓离公司 3 公里,没有直达公交,我平时都是小电驴上班. 同事说可以付钱坐我顺风车,公寓这边挺多同事的,如果拉满 4 个,收多少合适? 车子加 95 的油</p>",
+    "publish_time": "2022-09-29 10:26:58",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  }
+]
