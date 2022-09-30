@@ -42,5 +42,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "Kubernetes 安全防护终极指南",
+    "url": "https://www.infoq.cn/article/IDAGRlr1RAeLg8l6sZTy",
+    "summary": "<p>Kubernetes 安全防护终极指南将带您了解保护容器部属安全的重要意义、 Kubernetes 的运行机制、漏洞和攻击载体等关键信息。本指南还提供了包含 Tesla 漏洞事件以及 Kubelet 被攻击事件在内的真实案例。</p>\n<p>除此之外，我们在指南最后整理了一份 CI/CD 生产线中和运行时期间 Kubernetes 部署的安全防护概要快速检查清单，帮助您确保 Kubernetes 部署中的基础设施和应用容器的安全。</p>\n<p>以下为本白皮书目录：</p>\n<p>一、保护容器部署安全的重要意义<br />\n二、Kubernetes 的运行机制<br />\n三、Kubernetes 漏洞和攻击载体<br />\n四、保护整个流水线<br />\n五、CI/CD 生产线安全防护<br />\n六、Kubernetes 节点生产准备<br />\n七、Kubernetes 运行时容器安全防护<br />\n八、Kubernetes 系统和资源安全防护<br />\n九、Kubernetes 环境的审核与合规——安全态势<br />\n十、应用的运行时安全防护——NEUVECTOR 容器安全平台<br />\n十一、Kubernetes 安全防护自动化——这可能吗？<br />\n十二、满足 PCI、GDPR、SOC 2、HIPAA、NIST 合规性要求<br />\n十三、开源 Kubernetes 安全防护工具<br />\n十四、运行时 Kubernetes 安全防护检查清单</p>",
+    "publish_time": "2022-09-30 11:45:25",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
