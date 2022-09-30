@@ -1332,5 +1332,94 @@
       "desc": "人民日报公众号",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
     }
+  },
+  {
+    "title": "柬埔寨载中国人沉船事故涉人口贩卖",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9F%AC%E5%9F%94%E5%AF%A8%E8%BD%BD%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B2%89%E8%88%B9%E4%BA%8B%E6%95%85%E6%B6%89%E4%BA%BA%E5%8F%A3%E8%B4%A9%E5%8D%96%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "电动车起火烧毁近30万元购房款",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%B5%B7%E7%81%AB%E7%83%A7%E6%AF%81%E8%BF%9130%E4%B8%87%E5%85%83%E8%B4%AD%E6%88%BF%E6%AC%BE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "杭州高速涌现大流量",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E9%AB%98%E9%80%9F%E6%B6%8C%E7%8E%B0%E5%A4%A7%E6%B5%81%E9%87%8F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "特斯拉回应国产车型大幅降价",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E5%9B%9E%E5%BA%94%E5%9B%BD%E4%BA%A7%E8%BD%A6%E5%9E%8B%E5%A4%A7%E5%B9%85%E9%99%8D%E4%BB%B7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "作为户外爱好者，你会选 Apple Watch Series 8 或 Ultra 作为运动手表吗？",
+    "url": "https://www.zhihu.com/question/553406755",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "AudioGen: Textually Guided Audio Generation",
+    "url": "https://felixkreuk.github.io/text2audio_arxiv_samples/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33039203\">Comments</a>",
+    "publish_time": "2022-10-01 03:02:18",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "'Big Short' Investor Says White-Collar Jobs Bubble Is 'Bursting'",
+    "url": "https://seekingalpha.com/article/4543813-big-short-says-white-collar-jobs-bubble-is-bursting-spy-implications",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33038710\">Comments</a>",
+    "publish_time": "2022-10-01 02:28:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "AMD Zen 4 is faster with CPU security mitigations enabled on Linux",
+    "url": "https://www.phoronix.com/news/AMD-Zen-4-Mitigations-Off",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33039036\">Comments</a>",
+    "publish_time": "2022-10-01 02:51:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Semantic reconstruction of continuous language from non-invasive brain recording",
+    "url": "https://www.biorxiv.org/content/10.1101/2022.09.29.509744v1",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33038452\">Comments</a>",
+    "publish_time": "2022-10-01 02:10:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
