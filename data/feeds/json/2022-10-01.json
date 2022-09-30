@@ -1643,5 +1643,56 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "新能源汽车出口量大增",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E5%87%BA%E5%8F%A3%E9%87%8F%E5%A4%A7%E5%A2%9E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "请问大家是如何解决精神内耗的？",
+    "url": "https://www.zhihu.com/question/556227278",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "'Big Short' investor says white-collar jobs bubble is 'bursting'",
+    "url": "https://seekingalpha.com/article/4543813-big-short-says-white-collar-jobs-bubble-is-bursting-spy-implications",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33038710\">Comments</a>",
+    "publish_time": "2022-10-01 02:28:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Fedora Project Remains Community Driven",
+    "url": "https://theevilskeleton.gitlab.io/2022/09/30/the-fedora-project-remains-community-driven.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33041249\">Comments</a>",
+    "publish_time": "2022-10-01 05:49:06",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Lyra V2 – a better, faster, and more versatile speech codec",
+    "url": "https://opensource.googleblog.com/2022/09/lyra-v2-a-better-faster-and-more-versatile-speech-codec.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33041114\">Comments</a>",
+    "publish_time": "2022-10-01 05:35:24",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
