@@ -484,5 +484,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "同心向党我来说",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%90%8C%E5%BF%83%E5%90%91%E5%85%9A%E6%88%91%E6%9D%A5%E8%AF%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "马嘉祺感谢杨坤",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E6%84%9F%E8%B0%A2%E6%9D%A8%E5%9D%A4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
