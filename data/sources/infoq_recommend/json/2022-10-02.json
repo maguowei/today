@@ -31,5 +31,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "用Go语言编写的跨平台恶意软件Chaos正在全球范围内传播",
+    "url": "https://www.infoq.cn/article/BrxvMywuC2YV79wvgWCN",
+    "summary": "<p>9 月 28 日，据&nbsp;Lumen Technologies (NYSE: LUMN) 旗下的威胁情报团队 Black Lotus Labs消息，他们发现了一种用<a href=\"https://www.infoq.cn/article/MwasczNiyzIY7VCNlwo1\"> Go 编程语言</a>\"编写的新的、跨平台的多用途恶意软件“<a href=\"https://ir.lumen.com/news/news-details/2022/Lumen-Black-Lotus-Labs-discovers-an-expanding-multipurpose-botnet-called-Chaos/default.aspx\">Chaos</a>\"”。</p><p>&nbsp;</p><p>由于Go语言的灵活性、低反病毒检测率和逆向工程的难度，近年来，用Go语言编写的恶意软件的流行程度急剧上升。并且Chaos被设计成可在几种架构上工作，包括ARM、英特尔（i386）、MIPS和PowerPC。它同时为Windows、Linux和各种消费设备、小型办公室/家庭办公室（SOHO）路由器和企业服务器量身开发。</p><p></p><p></p><p><img src=\"https://static001.geekbang.org/infoq/ad/ad57c242842799e864b8c29fd759c6fc.jpeg\" /></p><p>&nbsp;</p><p>Chaos恶意软件的感染主要分布在欧洲（意大利、法国、西班牙、德国）、美国和中国。Black Lotus Labs威胁情报总监Mark Dehus表示Chaos的影响规模“在短短两个月内规模翻了两番，而且它有条件继续加速发展。\"</p><p>&nbsp;</p><p>他还指出，由于Chaos针对的是已知的漏洞，“我们建议网络管理员实行严格的补丁管理，并使用我们报告中列出的IoCs（破坏指标）来监测感染或与可疑基础设施的连接情况。消费者和远程工作者应启用自动软件更新，并定期更新密码和重新启动硬件”。</p><p></p><p>参考阅读：</p><p>https://ir.lumen.com/news/news-details/2022/Lumen-Black-Lotus-Labs-discovers-an-expanding-multipurpose-botnet-called-Chaos/default.aspx</p>",
+    "publish_time": "2022-10-02 16:13:30",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
