@@ -53,5 +53,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "sublime 代码提示会有很多没用的内容.",
+    "url": "https://www.v2ex.com/t/884292",
+    "summary": "jeeyong: 环境是 Sublime + Anaconda + Virtualenv<br />Anaconda 配置:<br />{<br />    \"anaconda_linting\": false,<br />    \"python_interpreter\": \"/Users/jeeyong/.pyenv/shims/python\",<br />    \"suppress_word_completions\": true,<br />    \"suppress_explicit_completions\": true,<br />    \"complete_parameters\": true,<br />    \"complete_all_parameters\": true,<br />    \"swallow_startup_errors\": true,<br />}<br /><br />问题是代码提示的时候会有很多其他的方法?或者内容, 想要的还经常排在很后面..比如:<br /><a href=\"https://imgur.com/iI9gcQW\" rel=\"nofollow noopener\" target=\"_blank\">https://imgur.com/iI9gcQW</a><br /><br />需要的 get 再完成输入后, 就没了, 其他方法很多都是错误的..<br />求教怎么设置..",
+    "publish_time": "2022-10-02 00:24:19",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "喝咖啡导致早醒怎么办?",
+    "url": "https://www.v2ex.com/t/884319",
+    "summary": "chenqh: <p>我昨天 7 点喝的咖啡,12 点上的床,今天早上 4 点就醒了</p>",
+    "publish_time": "2022-10-02 09:53:51",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "预算 1.5K-3K，想给妈妈换个拍照摄像好一些的安卓机",
+    "url": "https://www.v2ex.com/t/884324",
+    "summary": "rajesh941: <p>老妈日常使用就是发抖音、微信朋友圈，拍照摄像清晰一点，续航能支撑中度应用一天。CPU 性能没太大要求，连续刷抖音不会太发热（从不玩游戏）。上一个手机还是三年前给她买的荣耀 9X ，续航是真顶，可惜拍照效果属实有些过时了</p>",
+    "publish_time": "2022-10-02 10:39:18",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
