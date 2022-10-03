@@ -1,0 +1,13 @@
+[
+  {
+    "title": "今天听说一个玄学算法，写了一下，确实玄学？",
+    "url": "https://www.v2ex.com/t/884426",
+    "summary": "estk: <p>假设有 3 个门编号分别为 0 ，1 ，2 ，其中只有 1 个门后面有奖品\n主持人先打开一个不存在奖品的门，剩下两个门你随机打开一个，中奖概率是多少？\n答案不是 50%\n算法写的也确实不是，是写得不对吗？</p>\n<pre><code class=\"language-javascropt\">(async ()=&gt;{\n  let gotTimes = 0\n  let missTimes = 0\n  let failTimes = 0\n  let testTimes = 100000\n  while( --testTimes &gt; 0) {\n    const targetGateNo = parseInt(Math.random()*10**10)%3 // 0/1/2\n    let gates = []\n    for (let i=0; i&lt;2; i++) {\n      gates.push(i===targetGateNo)\n    }\n    const randomNo = parseInt(Math.random()*10**10)%3 // 0/1/2\n    if (gates[randomNo]) {\n      failTimes++\n      continue\n    }\n    let randomNo2 = parseInt(Math.random()*10**10)%3\n    while(randomNo2===randomNo) {\n      randomNo2 = parseInt(Math.random()*10**10)%3\n    }\n    if (gates[randomNo2]) {\n      gotTimes ++\n      continue\n    }\n    missTimes ++\n  }\n  console.log(gotTimes/(gotTimes+missTimes), gotTimes, missTimes)\n})()\n</code></pre>\n<p>剩下两个选一个，下意识觉得概率应该 50%才对，但是执行后是 0.28 左右</p>",
+    "publish_time": "2022-10-03 00:55:35",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  }
+]
