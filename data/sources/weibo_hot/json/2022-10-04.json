@@ -484,5 +484,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "坐标中国",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%9D%90%E6%A0%87%E4%B8%AD%E5%9B%BD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "沉浸式消费经营场所数量暴增400%",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%B6%88%E8%B4%B9%E7%BB%8F%E8%90%A5%E5%9C%BA%E6%89%80%E6%95%B0%E9%87%8F%E6%9A%B4%E5%A2%9E400%25%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "记得存点话留到8号上班讲",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%AE%B0%E5%BE%97%E5%AD%98%E7%82%B9%E8%AF%9D%E7%95%99%E5%88%B08%E5%8F%B7%E4%B8%8A%E7%8F%AD%E8%AE%B2%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
