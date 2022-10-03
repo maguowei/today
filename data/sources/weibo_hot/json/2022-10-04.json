@@ -538,5 +538,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "RNG状态",
+    "url": "https://s.weibo.com/weibo?q=%23RNG%E7%8A%B6%E6%80%81%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "永康白云水库附近发生山火",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B0%B8%E5%BA%B7%E7%99%BD%E4%BA%91%E6%B0%B4%E5%BA%93%E9%99%84%E8%BF%91%E5%8F%91%E7%94%9F%E5%B1%B1%E7%81%AB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "官兵5200米雪域高原用吊车升国旗",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E5%85%B55200%E7%B1%B3%E9%9B%AA%E5%9F%9F%E9%AB%98%E5%8E%9F%E7%94%A8%E5%90%8A%E8%BD%A6%E5%8D%87%E5%9B%BD%E6%97%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]

@@ -1320,5 +1320,76 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "RNG状态",
+    "url": "https://s.weibo.com/weibo?q=%23RNG%E7%8A%B6%E6%80%81%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "永康白云水库附近发生山火",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B0%B8%E5%BA%B7%E7%99%BD%E4%BA%91%E6%B0%B4%E5%BA%93%E9%99%84%E8%BF%91%E5%8F%91%E7%94%9F%E5%B1%B1%E7%81%AB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "官兵5200米雪域高原用吊车升国旗",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E5%85%B55200%E7%B1%B3%E9%9B%AA%E5%9F%9F%E9%AB%98%E5%8E%9F%E7%94%A8%E5%90%8A%E8%BD%A6%E5%8D%87%E5%9B%BD%E6%97%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "From Burned Out Tech CEO to Amazon Warehouse Associate",
+    "url": "https://www.jasonshen.com/120/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33072083\">Comments</a>",
+    "publish_time": "2022-10-04 02:58:22",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "You can't buy a Raspberry Pi",
+    "url": "https://www.jeffgeerling.com/blog/2022/you-cant-buy-raspberry-pi-right-now",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33071408\">Comments</a>",
+    "publish_time": "2022-10-04 02:11:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Over 80% of pregnancy-related deaths in the U.S. are preventable",
+    "url": "https://www.cdc.gov/reproductivehealth/maternal-mortality/erase-mm/data-mmrc.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33072309\">Comments</a>",
+    "publish_time": "2022-10-04 03:17:33",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "【夜读】真正的自律，是成为更好的自己",
+    "url": "https://mp.weixin.qq.com/s/drh70XBr9uXDaGPcgcW_SA",
+    "summary": "【夜读】真正的自律，是成为更好的自己",
+    "publish_time": "2022-10-04 03:29:31",
+    "source": {
+      "name": "people_daily_gzh",
+      "desc": "人民日报公众号",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
+    }
   }
 ]
