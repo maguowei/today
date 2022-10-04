@@ -1112,5 +1112,74 @@
       "desc": "人民日报公众号",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
     }
+  },
+  {
+    "title": "会计被骗86万警方8分钟追回",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BC%9A%E8%AE%A1%E8%A2%AB%E9%AA%9786%E4%B8%87%E8%AD%A6%E6%96%B98%E5%88%86%E9%92%9F%E8%BF%BD%E5%9B%9E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "中国为什么不生产类似 gore-tex 的面料？",
+    "url": "https://www.zhihu.com/question/509861898",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "《万里归途》首映，王俊凯的表现怎么样？",
+    "url": "https://www.zhihu.com/question/555837161",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "姐姐讨厌弟弟，家里现在乌烟瘴气的，我应该怎么办，让他们好好相处?",
+    "url": "https://www.zhihu.com/question/549779804",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "RISC-V Laptop now available",
+    "url": "https://www.tomshardware.com/news/risc-v-laptop-world-first",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33084508\">Comments</a>",
+    "publish_time": "2022-10-05 02:19:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "C++20 coroutines: “The bug is in the C++ standard, not GCC.”",
+    "url": "https://gcc.gnu.org/bugzilla/show_bug.cgi?id=95111#c23",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33084431\">Comments</a>",
+    "publish_time": "2022-10-05 02:14:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Illustrated Stable Diffusion",
+    "url": "https://jalammar.github.io/illustrated-stable-diffusion/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33084205\">Comments</a>",
+    "publish_time": "2022-10-05 01:59:27",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
