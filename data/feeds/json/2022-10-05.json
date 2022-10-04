@@ -1030,5 +1030,87 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "任嘉伦穿越捡珍珠",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E7%A9%BF%E8%B6%8A%E6%8D%A1%E7%8F%8D%E7%8F%A0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "今日重阳",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%97%A5%E9%87%8D%E9%98%B3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "你听过哪些大实话？",
+    "url": "https://www.zhihu.com/question/22319143",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Show HN: Let the computer be your unique t-shirt designer with Stable Diffusion",
+    "url": "https://www.thisshirtexists.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33082472\">Comments</a>",
+    "publish_time": "2022-10-05 00:11:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "LAPD Officer Killed During Training Exercise Was Investigating Cops About Rape",
+    "url": "https://reason.com/2022/10/04/lapd-officer-killed-during-training-exercise-was-reportedly-investigating-cops-accused-of-gang-rape/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33083064\">Comments</a>",
+    "publish_time": "2022-10-05 00:49:05",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Matter – The Foundation for Connected Things",
+    "url": "https://csa-iot.org/all-solutions/matter/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33083413\">Comments</a>",
+    "publish_time": "2022-10-05 01:11:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Matter Is Now Official",
+    "url": "https://staceyoniot.com/matter-is-now-official/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33083550\">Comments</a>",
+    "publish_time": "2022-10-05 01:20:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "【夜读】今晚的夜读为你记录祝福",
+    "url": "https://mp.weixin.qq.com/s/RyyeUpz8Tlu3ddZrtqABJw",
+    "summary": "【夜读】今晚的夜读为你记录祝福",
+    "publish_time": "2022-10-05 01:36:53",
+    "source": {
+      "name": "people_daily_gzh",
+      "desc": "人民日报公众号",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
+    }
   }
 ]
