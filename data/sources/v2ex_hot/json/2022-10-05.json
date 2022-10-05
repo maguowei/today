@@ -9,5 +9,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "刚毕业一年多的程序员要不要回老家国企工作",
+    "url": "https://www.v2ex.com/t/884678",
+    "summary": "voidmnwzp: <p>去年毕业留在南京工作 目前在一家小互联网公司做 Java 月薪 8k 左右，快满一年了，现在有个机会可以回四线老家一个垄断国企的 it 部门工作，月薪 3-4k ，955 （听内部说实际上没事 3 、4 点就能走）算上奖金和各种补贴 年包 12w ，现在很犹豫，不太想这么年轻就回老家过那种一眼就望到头的生活，自己也对互联网感兴趣并且对技术有些追求，如果留在南京工作一段时间后攒够经验跑到一线城市薪资肯定是比在老家多的，老家这边单位的业务非常简单基本上就是 crud ，甚至只用低代码就能搞定，部门领导不懂技术，员工基本也是业余的水平（混日子），如果进了这家单位意味着以后很难再回到这个行业了，虽然回老家生活会舒服很多，但我更喜欢趁着年轻去外面闯荡，可惜机会转瞬既逝，如果这次没抓住可能就永远错过，家里人也极力劝说我回来，现在不知道何去何从了</p>",
+    "publish_time": "2022-10-05 05:53:19",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "各位 lnmp 是怎么装的",
+    "url": "https://www.v2ex.com/t/884682",
+    "summary": "chenqh: <p>docker?</p>\n<p>bt?</p>\n<p>还有手动</p>\n<p>还是有自己的 shell?</p>",
+    "publish_time": "2022-10-05 08:41:11",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "Bitwarden 支持把密码本和 TOTP 放在一起，这是出于什么考虑？",
+    "url": "https://www.v2ex.com/t/884687",
+    "summary": "Archeb: <p>TOTP 本来的目的应该是在密码被泄漏 /撞库 /钓鱼的情况下提供多一层保护，如果有人把把密码本和 TOTP 密钥放在同一个地方，这不就相当于只上了一道锁吗？</p>\n<p>如果 bitwarden 的数据被人导出了（虽然这件事发生的几率不大） TOTP 也没办法提供保护</p>\n<p>从结果来看，二步验证的安全性直接变成一步验证了，而且还麻烦了自己。更别提 bitwarden 这个功能官方版里还要另外收费了……</p>\n<p>所以这个设计让我很迷惑，望 V 友解答这是在什么情况下会有意义的功能。</p>",
+    "publish_time": "2022-10-05 09:43:02",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
