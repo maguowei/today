@@ -1143,5 +1143,45 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "这鳄鱼好像也不是那么可怕",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E9%B3%84%E9%B1%BC%E5%A5%BD%E5%83%8F%E4%B9%9F%E4%B8%8D%E6%98%AF%E9%82%A3%E4%B9%88%E5%8F%AF%E6%80%95%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "大货车狂按喇叭打转向救下小车",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%B4%A7%E8%BD%A6%E7%8B%82%E6%8C%89%E5%96%87%E5%8F%AD%E6%89%93%E8%BD%AC%E5%90%91%E6%95%91%E4%B8%8B%E5%B0%8F%E8%BD%A6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "New York University professor fired after students say his class was too hard",
+    "url": "https://www.theguardian.com/us-news/2022/oct/06/nyu-professor-fired-maitland-jones-jr-student-petition",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33111404\">Comments</a>",
+    "publish_time": "2022-10-07 01:42:05",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "“How Americans edit sex out of my writing”",
+    "url": "https://europeanreviewofbooks.com/how-americans-edit-sex-out-of-my-writing/en",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33111597\">Comments</a>",
+    "publish_time": "2022-10-07 01:55:39",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
