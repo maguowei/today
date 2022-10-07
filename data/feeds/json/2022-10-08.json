@@ -1585,5 +1585,109 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "领航",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%A2%86%E8%88%AA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "花海晒证庆祝蝉联冠军",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%B5%B7%E6%99%92%E8%AF%81%E5%BA%86%E7%A5%9D%E8%9D%89%E8%81%94%E5%86%A0%E5%86%9B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "交易最重要的是什么？",
+    "url": "https://www.zhihu.com/question/457311590",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美股三大指数集体收跌，大型科技股普跌",
+    "url": "https://36kr.com/newsflashes/1948247764929157",
+    "summary": "36氪获悉，10月7日收盘，美股三大指数集体收跌，纳指跌3.8%，标普500跌2.8%，道指跌2.11%；大型科技股普跌，AMD跌近14%，Netflix跌超6%，微软跌超5%，亚马逊跌超4%，苹果跌超3%，谷歌跌超2%。",
+    "publish_time": "2022-10-08 07:00:06",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "How I Made a Self-Quoting Tweet",
+    "url": "https://oisinmoran.com/quinetweet",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33127285\">Comments</a>",
+    "publish_time": "2022-10-08 05:48:20",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Is the FSF Fighting the Previous War?",
+    "url": "https://irreal.org/blog/?p=10864",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33127463\">Comments</a>",
+    "publish_time": "2022-10-08 06:09:03",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Retinoid restores eye-specific brain responses in mice with retinal degeneration",
+    "url": "https://www.cell.com/current-biology/fulltext/S0960-9822(22)01449-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS096098222201449X%3Fshowall%3Dtrue",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33127646\">Comments</a>",
+    "publish_time": "2022-10-08 06:30:22",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "4x4 ASCII Font",
+    "url": "https://simplifier.neocities.org/4x4.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33127419\">Comments</a>",
+    "publish_time": "2022-10-08 06:02:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Jewish Calendar Demystified (2007)",
+    "url": "https://stevemorse.org/hebrewcalendar/hebrewcalendar.htm",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33126676\">Comments</a>",
+    "publish_time": "2022-10-08 04:46:29",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Lufthansa bans AirTags in checked luggage",
+    "url": "https://onemileatatime.com/news/lufthansa-bans-airtags/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33127459\">Comments</a>",
+    "publish_time": "2022-10-08 06:07:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
