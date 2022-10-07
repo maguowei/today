@@ -1097,5 +1097,116 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "大张伟官宣加盟我们的歌4",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%BC%A0%E4%BC%9F%E5%AE%98%E5%AE%A3%E5%8A%A0%E7%9B%9F%E6%88%91%E4%BB%AC%E7%9A%84%E6%AD%8C4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何评价美剧《指环王：力量之戒》第一季第六集？",
+    "url": "https://www.zhihu.com/question/556857157",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么有些人远离半导体行业？",
+    "url": "https://www.zhihu.com/question/531591119",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "小时候你最喜欢看哪部动画片？",
+    "url": "https://www.zhihu.com/question/552317064",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "世界上还会有人爱我吗？",
+    "url": "https://www.zhihu.com/question/558094227",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "MIMD Interpretation on a GPU [pdf]",
+    "url": "http://aggregate.ee.engr.uky.edu/EXHIBITS/SC09/mogsimlcpc09final.pdf",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33124034\">Comments</a>",
+    "publish_time": "2022-10-08 01:03:47",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How to distort Scrum until it no longer works",
+    "url": "https://lucasfcosta.com/2022/10/04/distorting-scrum.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33123807\">Comments</a>",
+    "publish_time": "2022-10-08 00:48:06",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Vectors are over, hashes are the future",
+    "url": "https://www.algolia.com/blog/ai/vectors-vs-hashes/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33123972\">Comments</a>",
+    "publish_time": "2022-10-08 00:59:11",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The QNX Demo Disk: a full xNix OS, with GUI and browser, on just 1 1.4MB floppy",
+    "url": "http://qnx.puslapiai.lt/qnxdemo/qnx_demo_disk.htm",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33123697\">Comments</a>",
+    "publish_time": "2022-10-08 00:40:48",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "JetBrains Ring UI",
+    "url": "https://jetbrains.github.io/ring-ui/master/index.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33123948\">Comments</a>",
+    "publish_time": "2022-10-08 00:57:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "【夜读】善待父母，是我们一生的功课",
+    "url": "https://mp.weixin.qq.com/s/iunPnLSpNjgcU9avQgd9BA",
+    "summary": "【夜读】善待父母，是我们一生的功课",
+    "publish_time": "2022-10-08 01:42:52",
+    "source": {
+      "name": "people_daily_gzh",
+      "desc": "人民日报公众号",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
+    }
   }
 ]
