@@ -1208,5 +1208,87 @@
       "desc": "人民日报公众号",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
     }
+  },
+  {
+    "title": "思想的力量",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%80%9D%E6%83%B3%E7%9A%84%E5%8A%9B%E9%87%8F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "国足世界杯出线21周年",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E4%B8%96%E7%95%8C%E6%9D%AF%E5%87%BA%E7%BA%BF21%E5%91%A8%E5%B9%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "虞书欣反矫达人",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%8F%8D%E7%9F%AB%E8%BE%BE%E4%BA%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "I changed my mind about writing new JavaScript frameworks",
+    "url": "https://whitep4nth3r.com/blog/write-a-new-javascript-framework/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33124905\">Comments</a>",
+    "publish_time": "2022-10-08 02:07:14",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "My Favourite Computer, an Old Mac",
+    "url": "http://muezza.ca/thoughts/favourite_computer/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33124986\">Comments</a>",
+    "publish_time": "2022-10-08 02:14:00",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Papa John's sued for 'wiretap' spying on website mouse clicks, keystrokes",
+    "url": "https://www.theregister.com/2022/10/06/papa_johns_spying_lawsuit/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33124796\">Comments</a>",
+    "publish_time": "2022-10-08 01:59:08",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: PyTorch search engine",
+    "url": "https://you.com/niche/pytorch?q=initialize+weights&fromSearchBar=true",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33124917\">Comments</a>",
+    "publish_time": "2022-10-08 02:08:06",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Big U.S. Banks Are Stiffing Account Takeover Victims",
+    "url": "https://krebsonsecurity.com/2022/10/report-big-u-s-banks-are-stiffing-account-takeover-victims/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33125442\">Comments</a>",
+    "publish_time": "2022-10-08 02:54:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
