@@ -502,5 +502,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "聚焦二十大",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%81%9A%E7%84%A6%E4%BA%8C%E5%8D%81%E5%A4%A7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "自游家NV售价278800元起",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%87%AA%E6%B8%B8%E5%AE%B6NV%E5%94%AE%E4%BB%B7278800%E5%85%83%E8%B5%B7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "张本智和涨球",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E6%B6%A8%E7%90%83%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
