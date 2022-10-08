@@ -20,5 +20,71 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "Unstructured Data Summit 2022《2022首届非结构化数据峰会》1",
+    "url": "https://www.infoq.cn/article/De3kqyQGPuD0vwdfoWOc",
+    "summary": "<p>2022 年 9 月 24-25 日，首届非结构化数据峰会（2022 Unstructured Data Summit）在线上举行。本次峰会由 Zilliz 主办，主题为「矩阵革命，向量连接世界」，峰会设置了一系列 Keynote 和分论坛演讲，围绕人工智能在非结构化搜索领域的顶尖技术、热门话题、前沿观察展开分享和探讨，共同探索行业发展的新风向。<br />\n本期视频为非结构化数据峰会 24 日上午场。</p>",
+    "publish_time": "2022-10-08 14:47:35",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "Unstructured Data Summit 2022《2022首届非结构化数据峰会》3",
+    "url": "https://www.infoq.cn/article/JtGhroQY6HYwaK17CKdT",
+    "summary": "<p>2022 年 9 月 24-25 日，首届非结构化数据峰会（2022 Unstructured Data Summit）在线上举行。本次峰会由 Zilliz 主办，主题为「矩阵革命，向量连接世界」，峰会设置了一系列 Keynote 和分论坛演讲，围绕人工智能在非结构化搜索领域的顶尖技术、热门话题、前沿观察展开分享和探讨，共同探索行业发展的新风向。<br />\n本期视频为非结构化数据峰会 25 日上午场。</p>",
+    "publish_time": "2022-10-08 14:47:41",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "Unstructured Data Summit 2022《2022首届非结构化数据峰会》4",
+    "url": "https://www.infoq.cn/article/QDRmW3Mp1Q1WGyZ22rxt",
+    "summary": "<p>2022 年 9 月 24-25 日，首届非结构化数据峰会（2022 Unstructured Data Summit）在线上举行。本次峰会由 Zilliz 主办，主题为「矩阵革命，向量连接世界」，峰会设置了一系列 Keynote 和分论坛演讲，围绕人工智能在非结构化搜索领域的顶尖技术、热门话题、前沿观察展开分享和探讨，共同探索行业发展的新风向。<br />\n本期视频为非结构化数据峰会 25 日下午场。</p>",
+    "publish_time": "2022-10-08 14:47:47",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "Unstructured Data Summit 2022《2022首届非结构化数据峰会》2",
+    "url": "https://www.infoq.cn/article/hTJ3SXq5vS6mFa8UxTbP",
+    "summary": "<p>2022 年 9 月 24-25 日，首届非结构化数据峰会（2022 Unstructured Data Summit）在线上举行。本次峰会由 Zilliz 主办，主题为「矩阵革命，向量连接世界」，峰会设置了一系列 Keynote 和分论坛演讲，围绕人工智能在非结构化搜索领域的顶尖技术、热门话题、前沿观察展开分享和探讨，共同探索行业发展的新风向。<br />\n本期视频为非结构化数据峰会 24 日下午场。</p>",
+    "publish_time": "2022-10-08 14:47:51",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "深圳国际金融科技大赛「绿色金融科技分享」",
+    "url": "https://www.infoq.cn/article/zoWTxiawoZwaHoSscI3Y",
+    "summary": "<p><img alt=\"\" src=\"https://static001.infoq.cn/resource/image/1f/22/1f34cba351e799a6dac2f29348ce2422.jpg\" /></p>",
+    "publish_time": "2022-10-08 15:39:15",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "MySQL 分布式事务的“路”与“坑”",
+    "url": "https://www.infoq.cn/article/yGfFSW7sPVRCIoKOkXiD",
+    "summary": "<p></p><h2>一、数据库事务</h2><p></p><p></p><h4>1.1 普通本地事务</h4><p></p><p></p><p>分布式事务也是事务，事务的 ACID 基本特性依旧必须符合：</p><p>A：Atomic，原子性，事务内所有 SQL 作为原子工作单元执行，要么全部成功，要么全部失败；C：Consistent，一致性，事务完成后，所有数据的状态都是一致的。如事务内A给B转100，只要A减去了100，B账户则必定加上了100；I：Isolation，隔离性，如果有多个事务并发执行，每个事务作出的修改必须与其他事务隔离；D：Duration，持久性，即事务完成后，对数据库数据的修改被持久化存储。</p><p></p><p>普通的非分布式事务，在一个进程内部，基于锁依赖于快照读和当前读，比较好实现 ACID 来保证事务的可靠性。但分布式事务参与方通常在不同机器的不同实例上，原来的局部事务的锁不能保证分布式事务的 ACID 特性，需要引入新的事务框架，MySQL 的分布式事务是基于 2PC（二阶段提交）实现，下面详细介绍下 2pc 分布式事务。</p><p></p><h4>1.2 基于 2pc 的分布式事务</h4><p></p><p></p><p>分布式事务有多种实现方式，如2PC（二阶段提交）、3PC（三阶段提交）、TCC（补偿事务）等，MySQL 是基于 2PC 实现的分布式事务，下面介绍 2PC 分布式事务实现方式。</p><p></p><p></p><blockquote>两阶段提交：Two-Phase Commit , 简称 2PC，为了使基于分布式系统架构下的所有节点在进行事务提交时保持一致性而设计的一种算法。&nbsp;</blockquote><p></p><p></p><p>2PC的算法思路可以概括为，参与者将操作成败通知协调者，再由协调者根据所有参与者的反馈情报，决定各参与者是否要提交操作还是中止操作。这里的参与者可以理解为 Resource Manager (RM)，协调者可以理解为 Transaction Manager（TM)。</p><p></p><p>下图说明了RM和TM在分布式事务中的运作过程：</p><p>第一阶段提交：TM 会发送 Prepare 到所有RM询问是否可以提交操作，RM 接收到请求，实现自身事务提交前的准备工作并返回结果。&nbsp;第二阶段提交：根据RM返回的结果，所有RM都返回可以提交，则 TM 给 RM 发送 commit 的命令，每个 RM 实现自己的提交，同时释放锁和资源，然后 RM 反馈提交成功，TM 完成整个分布式事务；如果任何一个 RM 返回不能提交，则涉及分布式事务的所有 RM 都需要回滚。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/45/45c019bb573c9398a6c947b4af392789.png\" /></p><p></p><p></p><h2>二、MySQL 分布式事务 XA</h2><p></p><p></p><p>MySQL 分布式事务 XA 是基于上面的 2pc 框架实现，下面详细介绍 MySQL XA 相关内容。</p><p></p><h4>2.1 XA事务标准</h4><p></p><p><img src=\"https://static001.geekbang.org/infoq/52/52f92590b12aebfa8d6dd70bc9fde97d.png\" /></p><p></p><p></p><blockquote>X/Open 这个组织定义的一套分布式XA事务的标准，定义了规范和API接口，然后由厂商进行具体的实现。</blockquote><p></p><p></p><p>XA 规范中分布式事务由 AP、RM、TM 组成：</p><p></p><p>如上图，应用程序 AP 定义事务边界（定义事务开始和结束），并访问事务边界内的资源。资源管理器 RM 管理共享的资源，也就是数据库实例。事务管理器 TM 负责管理全局事务，分配事务唯一标识，监控事务的执行进度，并负责事务的提交、回滚、失败恢复等。MySQL 实现了 XA 标准语法，提供了上面的 RMs 能力，可以让上层应用基于它快速支持分布式事务。</p><p></p><h4>2.2 MySQL XA语法</h4><p></p><p></p><p>XA START xid:开启一个分布式事务 xid。XA END xid: 将分布式事务 xid 置于 IDLE 状态，表示事务内的 SQL 操作完成。XA PREPARE xid: 事务 xid 本地提交，成功状态置于 PREPARED 失败则回滚。XA COMMIT xid:&nbsp; 事务最终提交，完成持久化。XA ROLLBACK xid: 事务回滚终止。XA RECOVER: 查看 MySQL 中存在的 PREPARED 状态的 XA 事务。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/60/60f4326f8bfc5f62bd252e79f1859dce.png\" /></p><p></p><p></p><h5>（1）语法要点</h5><p></p><p></p><p>参与分布式事务的实例之间，在数据库内核视角没有直接关联，互相不感知状态，且一个分布式事务中各个节点上的子事务均可单独执行无依赖，他们之间的关联是通过全局事务号在应用层建立的。</p><p></p><p>与普通事务比，XA 事务开启时多了一个全局事务号，结束时多了一个 end 动作 和 prepare 动作。</p><p></p><p>XA START, 开启一个分布式事务，需要指定分布式事务号。XA END，在内部仅是一个状态变化，声明当前XA事务结束，不允许追加新的sql语句，无其它作用，业界有人提出XA事务框架去掉这一步，减少一次网络交互，提高性能。XA PREPARE，写 binlog 和 redo log，预提交事务，并将分布式事务信息保存到全局内存结构，让其它连接可以查询、回滚、提交，如果 prepare 失败则回滚。XA COMMIT，真正提交事务，修改事务状态，释放锁资源。如果实例上 XA PREPARE 已经成功，那么它的 XA COMMIT 一定能成功。</p><p></p><p>XA 事务示例：201 用户给 202 用户转账 1000 元，简化如下：</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/f5/f5b72aff7edff971619bdd692776651a.png\" /></p><p></p><p>第 1 步，开启一个分布式事务，xa_ts:10001 是应用层定义的全局事务号，实例 1 和实例 2 通过它来构建分布式事务。</p><p></p><p>第 2、3 步是普通事务语句。</p><p></p><p>第 4 步，声名 xa 事务结束，在此之后不能再追加更新插入查询等语句，不属于这个分布式事务也不允许，其它语句放在 xa commit 或 xa rollback 之后。</p><p></p><p>第5步，prepare 成功后，上层应用可以发起第 6 步提交事务。注意，必须是所有参与这个分布式事务的全部节点均 prepare 成功，即实例 1 和实例 2 都完成 prepare，应用端才能发起提交，两阶段提交的框架核心点就在此。</p><p></p><p>如果有节点在前 5 步不能成功，所有参与分布式事务的节点都必须回滚。如实例 2 是账户加 1000 元，基本上什么情况都能成功，肯定能成功执行第 5 步，但实例 1 就未必了，账户要扣 1000 元，可能资金不够，会出错回滚，若实例 1 不能执行到 prepare，所有分布式事务参与者也必须回滚，所以实例 2 也要回滚。如果第 5 步全部成功，有一个节点执行了第 6 步提交了事务，那么所有节点必须要均提交，否则就会导致数据不一致。处于 xa prepare 不提交会占用资源，残留 xa 事务等价于存在长事务，对刷脏和 purge 等都有影响，业务层最好要立即提交。</p><p></p><p>（2）残留 XA 事务如何处理</p><p></p><p>上面说到 xa 事务不提交等价于长事务，一旦 prepare 成功要立即提交，否则会带来很多问题。但是数据库 crash 或应用系统出错 crash 等原因都可能导致 xa 事务未能全部提交，这些残存 XA 事务如何处理？这就要用到上面的 XA RECOVER 语法了，执行 xa recover 查看未提交 XA 事务，选择对应的进行 rollback 或 commit。如果仅 gtrid_length 字段有值一般可以直接 xa rollback/commit &nbsp;xid 方式回滚或提交，xid 就是 xa recover 中 data。</p><p></p><p>如果 gtrid_length 和 bqual_length 都有值，回滚或提交则相对复杂一些，需要以下面方式提交或回滚：</p><p><img src=\"https://static001.geekbang.org/infoq/58/58d358ada7a273e20a5e5b72c33a63e1.png\" /></p><p></p><p>gtrid 和 bqual 被拼接在 data 字段中，需要按他们长度切分，以下面未提交 xa 事务里第一个为例，gtrid_length 为 34，表示 data 中前 34 个字符为 gtrid, bqual_length 为22，表示 data 中后 22 个字符为 bqual，那么对对其回滚或提交方式可表示如下：</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/e9/e96d15eced27cb6d2c00b7b2569dba62.png\" /></p><p></p><p><img src=\"https://static001.geekbang.org/infoq/7c/7c17a7542f9d6d2decbe8840df7dba0a.png\" /></p><p></p><p>如果 data 中有其它特殊字符，也可以转成 16 进制整数方式处理，执行语句如下：</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/18/18e64405f70ed664569e77d1c87b10cf.png\" /></p><p></p><p><img src=\"https://static001.geekbang.org/infoq/06/0699a8da5d924fde01d937e52efcb88c.png\" /></p><p></p><p>因为是 16 进制数，字符做了转换，data 中字符数会翻倍，回滚或提交内容要同步调整，将 data 中字符也要翻倍再拆分，如上 grtrid 长度 34，则 data 中前 34*2 个 16 进制数字是 gtrid，bqual 长度 22，则后 44 个 16 进制数字是 bqual，回滚或提交语法如下：</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/b4/b4ee768b6c5f3fd64a0df664d2fbe9fb.png\" /></p><p></p><p>注意：上面的提交或回滚都可能报 xid 不存在，这不一定是 xid 写错了，也可能是开启这个 XA 事务的连接并未断开，其它连接不能处理这个 XA 事务，这里是 MySQL 报错不准确。</p><p></p><h5>（3）提交还是回滚的依据</h5><p></p><p></p><p>上面给出如何进行提交或回滚的方法，但是提交 or 回滚应该选择哪个？</p><p></p><p>残留 XA 事务是提交还是回滚，必须要由业务决定，谁开启 XA 事务，构建了分布事务管理器 TM，谁就必须为这个事务负责到底。</p><p></p><p>单个数据库视角无法判断出这个XA事务是应该提交还是应该回滚，不管选哪种都可能会导致全局数据出错，运维同学在处理时一定要与业务方确定好该事务是提交还是回滚，获得授权后再操作。以上面转账为例，201 用户给 202 转 1000 元，都 prepare 成功，发起 commit，此时 202 用户实例发生故障重启，未完成 commit，重启之后有残留 XA 事务，此时若 201 提交成功，那么 202 必须提交，如果 201 未成功，202 可以先 201 一起提交或一起回滚，由应用层事务管理器 TM 来决定。假如 201 提交成功，202 回滚则 201 扣了 1000，202 未收到，对账则钱少了。如 201 回滚了，202 提交，则 202 加了1000，201 未扣，对账则钱多了。</p><p></p><h4>2.3 MySQL XA 事务设计上的“坑”</h4><p></p><p></p><h5>（1）设计上的缺陷</h5><p></p><p></p><p>基于 binlog 的主从复制是<a href=\"https://xie.infoq.cn/article/7ae9b597e18981ae58c9db7dd\"> MySQL </a>\"高可用的基石，这也是<a href=\"https://xie.infoq.cn/article/ad357dffe11eeda5ebfa265ec\"> MySQL </a>\"能广泛流行使用的最重要因素。在 MySQL 内部，对于普通事务(非XA事务），innodb 等引擎和 binlog 为了保持数据的一致性，就是用的 2PC ，为了区分于 XA 事务的 2PC ，称之为内部两阶段提交。内部 2pc 使用 binlog 是作为协调者（TM），内部 prepare 时先写 redo 再写 binlog，都持久化（受刷盘参数策略影响）后再提交。当发生 Crash 重启时，会先恢复出所有 prepare 成功的事务，把里面的 xid 事务号取出来，再到协调者 Binlog 中去找，如果 binlog 中有这个 xid 则说明 innodb 和 binlog 都执行成功，等价于外部 xa 事务两个参与节点都 prepare 成功，则继续提交，如果 binlog 中找不到，刚说明只在引擎层完成，需要回滚，如果某个进行的事务 xid 在 prepare 中未找到，则说明 prepare 未完成，直接回滚，这个顺序一定是先写 Redo log，最后写 Binlog。</p><p></p><p>那么处于 XA prepare 状态的分布式事务到底是一个什么样的状态？分布式 XA 事务也是基于普通事务实现，实际上就是一个支持挂起，支持让其它会话继续提交或回滚，支持 crash 或重启之后还能恢复这种挂起状态的普通事务。</p><p></p><p>普通事务的 prepare 动作是发生在显式 commit 之后，先写 redo 后再写 binlog。XA 事务的 prepare 发生在显式 XA commit 之前，它需要生成 binlog，然后再写 redo，这与普通事务是相反的，这就导致这个外部 2pc 事务的内部 2pc 提交缺少了一个协调者，某些情况下会导致数据库不一致。</p><p></p><p>一个 XA 事务的 binlog 由两部分组成，从 xa start 到 xa prepare 是一个不可分原子语句块，xa commit 又是一个原子语句块，且分别有各自的 gtid，如下图 binlog：</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/8d/8d6cc4269021af5c3d227678bb813471.png\" /></p><p></p><p>事务号为 &nbsp;X'7831',X'',1 的分布式事务 prepare 之后，中间插入了很多普通事务，然后再执行的 xa commit。</p><p></p><p>一个 XA 事务的 binlog 被切分成了两个独立的部分，如果在主节点在生成 XA prepare binlog 之后发生crash， 还没有在引擎层做 prepare，重启之后引擎层中因没有完成 prepare 动作而回滚。但在主从架构中，只要 binlog 正常产生就可能会同步到 Slave 机，这种情况下会导致 slave 机上多了这个 xa prepare 的中间状事务，最终复制出现问题。这个问题已经被发现多年，官方确认了 bug，一直未修复（<a href=\"https://bugs.mysql.com/bug.php?id=87560\">https://bugs.mysql.com/bug.php?id=87560</a>\"）。</p><p></p><h5>（2）遇到该问题处理思路</h5><p></p><p></p><p>虽然我们要尽量避免出现故障，但也做好面对任何故障的准备，谋而后动，有招不乱！</p><p></p><p>在常规连接中，MySQL 的 XA 事务执行 prepare 之后，通常不能执行其它非 xa 语句，会报错提醒当前正在 xa 事务中。但在复制的 sql 回放线程中，执行完 xa prepare 之后，可以直接执行其它非此 xa 事务的 sql，因为在 master 端生成的 XA 事务 Binlog 可能就是分开的，如上图例子就是。所以 slave 机 sql线程执行完 xa prepare 的 binlog 后，是被允许接着正常执行其它事务的 binlog 的。如果 xa preapre 过程 master 上发生 crash，刚好生成了 binlog，但没有做完后续的 prepare 动作，备机收到了这个 xa  preare 动作的 binlog，master 重启后会回滚掉这个事务，不会再生成这个 xa 事务后续 binlog，这会导致备机执行完 xa prepare 后一直挂起，占用的锁等资源不会释放，直到新同步过来的 binlog 与之冲突报错，才会暴露问题。</p><p></p><p>要修复分两种情况处理：</p><p></p><p>情况1：基于 gtid 的复制，应该直接会报 gtid 重复错误（推测，本地没能复现）。master上重启应该会回滚掉了前半个 XA 事务，后面事务会重新生成这个相同 gtid 的事务，导致复制出错，此时停止复制，将备机上这半个 XA 事务回滚，并 reset gtid 到之前的 gtid，重建复制即可。注意这里可能有多个 XA 事务在 Binlog 中处于 prepare 状态，需要解析 binlog 仔细确定要回滚的事务是哪个。</p><p></p><p>情况2：未开 gtid 的复制，此时比上面情况要麻烦，没有 gtid 来确定 binlog 事务是否重复，只要后面事务不涉及到这半个 xa 事务锁定的资源，备机就可以正常维持复制体系，一直同步数据，等到有冲突数据出现错误，回放线程重试超过一定次数后（slave_transaction_retries 重试参数控制），sql 线程报出相应错误，复制中断后才能被感知。恢复数据和上面差不多，回滚这个 XA 事务，重建主从，但是这个事务的 binlog 不一定能找到，因为没有 gtid 不会立即报错，可能几分钟后报错，也可能几个月后报错，取决于业务什么时候产生冲突数据。并且在这个事务之后，从机又同步了很多数据，这些数据是否可靠需要评估。线上强烈建议开启 Gtid 复制模式，非 gtid 的复制官方已经在淘汰！</p><p></p><p></p><h2>三、分布式事务的一致性</h2><p></p><p></p><p>使用到分布式事务，就必须要保证分布式事务的一致性。</p><p></p><p>分布式事务的一致性又分写一致性和读一致性，写一致性 XA 框架 XA prepare 和XA commit已经解决，只要保证有提交全提交，有回滚全回滚就能保证写一致性。</p><p></p><p>读一致性则要复杂的多，先看看 MySQL 官方对 XA 事务在读一致性上的“只言片语”：</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/2d/2d485aba33f773b7794c44ffadc92f27.png\" /></p><p></p><p>上面内容是从官方说明文档里截取，里面对 XA 读一致性略有介绍：如果应用程序对读敏感，首选 SERIALIZABLE 隔离级别，RR 级别不足以用于分布式事务，官方没有对这里的不足做具体说明，但我们可以构建一个例子来分析这个“may not be sufficien”来描述读一致性是否恰当。</p><p></p><p>如下图，有 A、B 两个账户在两个实例上，假设每个账户初始都 100 块，A 给 B 转账 20，时间线左边为 A 账户实例上的操作，右边为 B 账户实例上的操作，中间 T1 到 T6 为不同时间点。</p><p><img src=\"https://static001.geekbang.org/infoq/09/09a1a0034389a864f59c13de564b1b82.png\" /></p><p></p><p>T1 时刻：初始均 100。T2 时刻：AB账户均完成 xa prepare 操作，一个减 20，一个加 20。T3 时刻：A帐户节点 XA commit 成功。T5 时刻：B帐户 XA commit 成功。</p><p></p><p>当处在 RR 或 RC 隔离级别时，发起一个对账操作，统计 AB 帐户资金总额，当只有他们相互转账时，总金额应该恒为 200。T6 时刻时，查询 A 为 80，B 为 120，总账为 200，无问题。T4 时刻查询 A 账户为80，查询 B 账户时由于 MVCC 机制，会读到上个快照中的值 100，加一起为 180，总账不对。因为是操作不同实例，当开始做 xa commit 之后，可能由于网络等原因，并不能保证所有节点的 XA commit 同时到达所有节点，在一个高并发场景，导致上面的问题几乎是必然的。因此，当使用 <a href=\"https://xie.infoq.cn/article/ff7b6300bcbdf50d05b48f0e3\">MySQL </a>\" 原生 XA 分布式事务时，若无其它手段来保障读一致性，而应用又有跨节点读的应用场景，应当使用序列化（SERIALIZABLE）隔离级别，“may not be sufficien”显然是不恰当的，没有任何一个业务能接受这种数据统计不对的。</p><p></p><p>如果是序列化隔离级别，T4 时刻读到 A 为 80，读 B 时会等待，直到 T5 时刻 XA commit 成功之后， 才能读到 B 为 120，总账 200，无问题。序列化隔离级别只有读-读不阻塞，读-写，写-读，写-写均会阻塞，而 RC、RR 仅写-写阻塞，因此只有序列化隔离级才能充分保障 MySQL XA 事务的读一致性。但它阻塞太多，性能也是各种隔离级别中最差的，所以如无必要，通常不会使用这一隔离级别。业界有很多方案来解决分布式事务 RR、RC 下的读一致性问题，以提高数据库性能，但原生的 MySQL 不具备这种能力，因此使用 MySQL 原生 XA 事务的业务需要谨慎选择隔离级别。</p><p></p><h2>四、小结</h2><p></p><p></p><p>只要我们小心面对残留 XA 事务，谨慎处理 Crash 之后的可能存在的多余 binlog 数据，认真评估使用 RR、RC 隔离级别是否有读一致性读问题等问题之后，MySQL 的 XA 事务基本没有其它问题，可以作为 RM 完备提供跨节点分布式事务能力，MySQL 已经实现了 X/Open 组织定义的分布式事务处理规范中的语法功能，完全可以放心放业务在这条路上奔跑！</p><p></p><p></p><p>本文作者简介：</p><p>Flyfox，高级后端工程师。从事数据库内核工作十多年，深度参与多个基于 PostgreSQL、MySQL 自研数据库项目，目前负责 RDS 产品研发团队工作。</p>",
+    "publish_time": "2022-10-08 16:06:45",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
