@@ -64,5 +64,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "经过20年的发展，“在线天文馆”Stellarium终于发布1.0版本",
+    "url": "https://www.infoq.cn/article/4D3uuaXoI8HULY6gUo2U",
+    "summary": "<p>Stellarium 是一个开源的桌面天像软件，由法国程序员 Fabien Chéreau 于 2001 年夏天开始启动，其他开发人员包括 Robert Spearman、Johannes Gadjozik、Matthew Gates、Timothy Reeves、Bogdan Marinov 和负责该项目的 Johan Meeris。</p><p></p><p>它使用 OpenGL 和&nbsp;Qt 技术实时渲染绘制天空图像，其效果与我们通过肉眼、双筒望远镜或小型望远镜看到的非常相似。</p><p></p><p>如今经过 20 多年的发展，Stellarium 在本月终于<a href=\"https://stellarium.org/release/2022/10/01/stellarium-1.0.html\">发布了 1.0 版本</a>\"。Stellarium 1.0 也是基于 Qt6 框架的第一个版本。其主要新功能包括：</p><p></p><p>一个新的、更好的 Skylight 模型（不适用于 macOS 和 OpenGL ES2 系统）；围绕日食的许多细节；更新的观测列表功能；AstroCalc 工具的新功能；HiDPI 的改进；更好的防抖动能力；能够使用 Windows 定位服务；角度测量、卫星、目镜、远程控制、脉冲星插件的更新，等等。</p><p></p><p>目前，Stellarium 支持 Linux、MacOS、Microsoft Windows、Symbian、Android 和 iOS （最后三个为 Stellarium Mobile）和 MeeGo（当前版本 0.16.1）平台。</p><p></p><p>Stellarium 使用起来非常简单，即使是新手也能很快熟悉，覆盖超过 60万 颗恒星和 8 万个其他天体，它们可以被放大和进行深入研究。</p><p></p><p>那么如何启用 Stellarium 1.0 呢？访问 <a href=\"https://stellarium.org/en/\">Stellarium 网站</a>\"；在页面右上角，选择符合自己设备的选项，下载软件即可。</p><p></p><p>更多更新详情可查看GitHub项目：<a href=\"https://github.com/Stellarium/stellarium/releases/tag/v1.0\">https://github.com/Stellarium/stellarium/releases/tag/v1.0</a>\"</p>",
+    "publish_time": "2022-10-09 18:37:55",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
