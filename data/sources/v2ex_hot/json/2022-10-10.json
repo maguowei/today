@@ -20,5 +20,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "慕课网也太过分了吧，这不是诈骗吗？",
+    "url": "https://www.v2ex.com/t/885693",
+    "summary": "Roanapur: <p>作为水平不咋样的程序员，学新技术栈，在实际用之前还是希望有个实战项目学习下。</p>\n<p>于是上慕课网买了个课，图的就是能照着做出一个东西。</p>\n<p>结果惊讶的发现，23 章的内容，仅仅有 8 章（讲了讲基本的用法，根本不到项目实战，基本用法我查官网文档就好，还用你再讲一遍？），后面的全是待更新。。。。。  </p>\n<p>这不是根本就是诈骗吗？</p>\n<p>课程介绍页，把后面根本还没有的内容，也全介绍上去了。</p>\n<p>只是在章节目录的最后面，写了一行“本课程持续更新中”。\n那些根本还没有的章节，也都列在上面，写了章节内容。</p>\n<p>网页链接： <a href=\"https://coding.imooc.com/class/602.html\" rel=\"nofollow\">https://coding.imooc.com/class/602.html</a></p>\n<p>请问这种还有什么办法投诉？\n只有法院起诉一个办法了？</p>",
+    "publish_time": "2022-10-10 09:56:00",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "创建一个无法被破解的 zip 压缩包",
+    "url": "https://www.v2ex.com/t/885696",
+    "summary": "tool2d: 试想一下，你把有敏感信息的文本或代码保存到 U 盘作为文档备份，但又怕 U 盘有一天不小心掉了，怎么办？<br /><br />最简单的办法，就是用 zip 给文本加个密码后压缩保存。<br /><br />但是密码始终存在被暴力破解的风险，现在 GPU 运行速度飞快，又再次加大了这种风险因素。<br /><br />解决办法是，只要把 zip 的内部 hash 校验算法改成 MD5 ，就能高枕无忧。主流破解软件的暴力破解，都是针对特定 hash 的。那些非标准格式的 hash ，破解软件都是不支持的。",
+    "publish_time": "2022-10-10 09:59:41",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
