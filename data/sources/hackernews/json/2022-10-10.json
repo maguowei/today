@@ -240,5 +240,49 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Energy vs. Sovereign Bond Markets",
+    "url": "https://www.lynalden.com/october-2022-newsletter/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33145791\">Comments</a>",
+    "publish_time": "2022-10-10 06:10:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Halfix – A portable x86 emulator written in C99",
+    "url": "https://github.com/nepx/halfix",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33146693\">Comments</a>",
+    "publish_time": "2022-10-10 08:36:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Bitcoin and Economic Nihilism",
+    "url": "https://xeiaso.net/blog/cryptocurrency-ownership",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33146583\">Comments</a>",
+    "publish_time": "2022-10-10 08:17:29",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: I built a WASI playground for running CLI binaries in the browser",
+    "url": "https://runno.dev/wasi",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33146686\">Comments</a>",
+    "publish_time": "2022-10-10 08:34:57",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
