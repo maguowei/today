@@ -471,5 +471,27 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "“This removes a.out support globally”",
+    "url": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=12ed00ba01abf39e0869c02ccdde5e24a357466b",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33160321\">Comments</a>",
+    "publish_time": "2022-10-11 15:12:18",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Go: Redefining For Loop Variable Semantics",
+    "url": "https://github.com/golang/go/discussions/56010",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33160236\">Comments</a>",
+    "publish_time": "2022-10-11 14:58:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
