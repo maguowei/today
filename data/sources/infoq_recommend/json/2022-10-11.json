@@ -9,5 +9,27 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "云端机器人的“智慧大脑”是如何获取知识，提升认知，完成“进化”的？| InfoQ《极客有约》",
+    "url": "https://www.infoq.cn/article/vPaILEuvZaaeMxe2O4pl",
+    "summary": "<p>云端智能机器人和普通机器人有何差别？未来智能机器人技术有哪些值得关注的？本期《极客有约》直播，带你了解云端智能机器人如何获取知识，完成进化的。</p>",
+    "publish_time": "2022-10-11 11:07:26",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "Spring Boot Migrator简介",
+    "url": "https://www.infoq.cn/article/M8Tcely7QZhZYx4od2t1",
+    "summary": "<p><a href=\"https://github.com/spring-projects-experimental/spring-boot-migrator\">Spring Boot Migrator</a>\"（SBM）是一个实验性的Spring项目，最初发布于2022年3月。SBM允许开发人员将现有的、非<a href=\"https://spring.io/projects/spring-boot\">Spring Boot应用（基于JAX-RS、EJB和JMS等技术）转换成Spring Boot</a>\"应用，也可以将较旧的Spring Boot应用升级为最新版本。</p><p></p><p>SBM是基于<a href=\"https://docs.openrewrite.org/\">OpenRewrite</a>\"实现的，这是一个用于源码和配置重构的通用工具。OpenRewrite使用<a href=\"https://docs.openrewrite.org/reference/recipes\">Recipes</a>\"修改现有的Kubernetes、Gradle、Maven、Java等文件。例如，借助recipes能够将现有的应用升级为较新的Java版本。SBM使用OpenRewrite实现Spring Boot的迁移。</p><p></p><p><a href=\"https://github.com/spring-projects-experimental/spring-boot-migrator/releases\">下载</a>\"最新版本的SBM之后，可以使用命令行界面（CLI）启动：</p><p><code lang=\"java\">java -jar spring-boot-migrator.jar</code></p><p>几秒钟之后，用户可以看到一个专门的SBM提示：migrator:&gt;。</p><p></p><p>list命令能够展示当前可用的30个recipes。比如，其中的recipes能够升级Spring Boot到新版本、将XML bean配置变更为Java配置以及迁移各种Java EE/Jakarta到Spring Boot。</p><p></p><p>scan [directory]命令能够分析一个应用并展示适用的recipes。如下展示了一个样例，SBM分析了一个比较旧的<a href=\"https://en.wikipedia.org/wiki/Jakarta_RESTful_Web_Services\">JAX-RS</a>\"应用，该应用没有提供对Spring Boot的支持，结果如下所示：</p><p><code lang=\"java\">scanning 'JAXRS'\nChecked preconditions for '.../JAXRS'\n[ok] Found pom.xml.\n[ok] 'sbm.gitSupportEnabled' is 'true', changes will be committed to branch [master] after each recipe.\n[ok] Required Java version (17) was found.\n[ok] Found required source dir 'src/main/java'.\nMaven       100% ││ 2/2 (0:00:09 / 0:00:00)\nApplicable recipes:\n    = 'automated recipe'\n  = 'partially automated recipe'\n    = 'manual recipe'\n  - initialize-spring-boot-migration []\n    -&gt; Initialize an application as Spring Boot application.\n  - migrate-jax-rs []\n    -&gt; Any class has import starting with javax.ws.rs\n  - cn-spring-cloud-config-server []\n    -&gt; Externalize properties to Spring Cloud Config Server</code></p><p>基于应用的源码，SBM将会展示与条件相匹配的recipes。如果没有匹配的recipes话，可用recipes的列表将保持为空。此时，我们可以使用其中列出的某个recipes，比如，将现有的代码转换成Spring Boot应用：</p><p><code lang=\"java\">migrator:&gt; apply initialize-spring-boot-migration</code></p><p>上述命令将会产生一个新的Git提交，描述为SBM: applied recipe 'initialize-spring-boot-migration'。</p><p>我们分析一下该提交会发现在pom.xml中有如下变化：打包方式从WAR改变成了JAR、增加了spring-boot-starter、spring-boot-starter-test依赖和spring-boot-maven-plugin、dependencyManagement区域包含了pom类型的spring-boot-dependencies。pom.xml文件的缩进方式可能会与最初有所差异。</p><p></p><p>源码也会有所变更，现在包含了SpringBootApp.java和SpringBootAppTest.java类：</p><p><code lang=\"java\">@SpringBootApplication\npublic class SpringBootApp {\n    public static void main(String[] args) {\n        SpringApplication.run(SpringBootApp.class, args);\n    }\n}</code></p><p></p><p><code lang=\"java\">@SpringBootTest\nclass SpringBootAppTest {\n    @Test\n    void contextLoads() {\n    }\n}</code></p><p>现在，应用已经转换成了Spring Boot应用。下一步就是通过如下的命令将JAX-RS源码转换成Spring Boot：</p><p><code lang=\"java\">migrator:&gt; apply migrate-jax-rs</code></p><p>该命令会产生一个新的Git提交，其描述为:SBM: applied recipe 'migrate-jax-rs'. 分析该提交可以看出，JAX-RS的导入被删除，取而代之的是导入了Spring、类文件上的JAX-RS&nbsp;@Path注解被Spring Boot的@RestController和@RequestMapping取代。各个方法现在都有Spring Boot的@RequestMapping、@RequestParam、@PathVariable注解，以替换JAX-RS的注解，如@Get、@Post、@Path、@Produces、@QueryParam和@PathParam。最后，这些方法的返回值不再是Response类型，而是ResponseEntity类型。</p><p></p><p>遗憾的是，迁移后运行该Spring Boot应用失败了，这是因为pom.xml文件中定义的<a href=\"https://maven.apache.org/plugins/maven-compiler-plugin/\">maven-compiler-plugin</a>\"使用了旧版本的Java。手动修改pom.xml文件以使用当前安装的Java版本可以解决这个问题，也可以通过OpenRewrite的<a href=\"https://docs.openrewrite.org/reference/recipes/maven/changepluginconfiguration\">Change Maven插件配置</a>\"来自动完成这个步骤。</p><p></p><p>分析产生的代码和配置，我们可能会发现一些Spring Boot不再需要的依赖。可以手动删除这些过时的依赖，也可以通过SBM或OpenRewrite自动完成这一步骤。</p><p></p><p>SBM目前支持仅Maven，因为OpenRewrite对Gradle的支持还没有<a href=\"https://github.com/spring-projects-experimental/spring-boot-migrator/issues/216\">完成</a>\"。关于SBM的更多信息可以参阅其<a href=\"https://spring-projects-experimental.github.io/spring-boot-migrator/user-documentation.html\">用户文档</a>\"和<a href=\"https://spring-projects-experimental.github.io/spring-boot-migrator/developer-documentation.html\">开发者文档</a>\"。</p><p></p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2022/09/spring-boot-migrator/\">Introducing Spring Boot Migrator</a>\"</p><p></p><p>相关阅读：</p><p><a href=\"https://www.infoq.cn/article/TJrVEvEhmrxAIVzMj10R\">Spring Boot 2.7.0 发布，支持 GraphQL、Podman 和 Cache2k</a>\"</p>",
+    "publish_time": "2022-10-11 11:36:49",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
