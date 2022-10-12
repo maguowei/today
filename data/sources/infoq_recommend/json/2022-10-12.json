@@ -130,5 +130,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "JetBrains 推出轻量级编辑器 Fleet公共预览版",
+    "url": "https://www.infoq.cn/article/4zm3T5aeOKzej15X9YKR",
+    "summary": "<p>10月11日，JetBrains在其官方博客宣布推出公共预览 Fleet，所有人都可以使用。Fleet 是<a href=\"https://www.infoq.cn/article/2JyfGdBFKUSP9j9SjPCu\">JetBrains</a>\"新的分布式多语言编辑器和 IDE， 配备了单独执行的 <a href=\"https://www.jetbrains.com/idea\">IntelliJ</a>\" 代码处理引擎，也被称为更轻量的“下一代 IDE”。</p><p>&nbsp;</p><p>Fleet 采用分布式架构，旨在简化独立实例的使用，支持多种场景：</p><p>协作开发 -- 多个客户在同一个开发环境中工作并相互交流。远程/云 IDE -- 托管在其他地方的开发环境，例如远程机器、集群或云。多目标文件系统--开发和运行一个涉及多台机器或容器的项目。例如，一个基于微服务的应用程序。</p><p>&nbsp;</p><p>同时支持多种编程语言，除了 Java、Kotlin、Python、Go、JavaScript、Rust、TypeScript 和 JSON，未来还将支持 PHP、C++、C# 和 HTML。</p><p>&nbsp;</p><p><img src=\"https://static001.geekbang.org/infoq/4e/4e7a7bb6d76ef6fa07e22313e05ea8ea.png\" /></p><p></p><p>&nbsp;</p><p>自去年11月，JetBrains首次宣布 Fleet 私人预览版以来，有超过 137,000 人报名参加。因为人数众多，让所有报名者参与需要很长的注册时间，且JetBrains认为“单独邀请这么多人对我们来说也缺乏意义”。本着打造开放产品的态度，JetBrains决定推出公共预览，让所有人都可以下载并使用。</p><p>&nbsp;</p><p>目前Fleet 仍处于早期阶段，<a href=\"https://www.infoq.cn/article/HLJKJkcPPiJ72G2ZRBxw\">JetBrains</a>\"给大家提醒说有些事情可能无法按预期工作。并且JetBrains不打算取代现有的 IDE，因此请不要期望在 Fleet 中看到与现有IDE，如 IntelliJ IDEA 完全相同的功能。</p><p>&nbsp;</p><p>JetBrains表示将在未来几个月致力于稳定 Fleet，并尽可能地解决他们得到的反馈。同时，将在以下领域开展工作：</p><p>为插件作者提供 API 支持和 SDK–鉴于 Fleet 有一个<a href=\"https://blog.jetbrains.com/zh-hans/fleet/2022/01/fleet-below-deck-part-i-architecture-overview/\">分布式架构</a>\"，JetBrains需要努力为插件作者简化工作。&nbsp;性能&nbsp;–&nbsp;希望 Fleet 不仅在内存占用方面，而且在响应时间方面都能表现出色。&nbsp;有很多地方仍然可以提高性能，JetBrains将在这些方面努力。&nbsp;主题和键盘地图&nbsp;– 许多开发者已经习惯了他们现有的编辑器和 IDE，当他们转移到新的 IDE 时，往往会想念他们以前的键盘绑定和主题。&nbsp;JetBrains将致力于增加对更多主题和键盘映射的支持，也会致力于 Vim 的模拟。</p><p>&nbsp;</p><p>参考链接：</p><p><a href=\"https://blog.jetbrains.com/fleet/2022/10/introducing-the-fleet-public-preview/\">https://blog.jetbrains.com/fleet/2022/10/introducing-the-fleet-public-preview/</a>\"</p>",
+    "publish_time": "2022-10-12 22:26:26",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
