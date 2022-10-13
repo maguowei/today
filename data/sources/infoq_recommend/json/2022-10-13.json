@@ -75,5 +75,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "Firefox OS 被复活了",
+    "url": "https://www.infoq.cn/article/hHClLTq2A5lrfz9DusWe",
+    "summary": "<p><a href=\"https://www.infoq.cn/article/the-story-of-firefox-os\">Firefox OS</a>\" 是 Mozilla 在 2010 年代初期创建和推广的 Android 的替代品，在 2016 年被正式弃用。究其原因，不少人认为其“失败”更多是出于市场份额的原因，而非技术问题。事实上，引导到浏览器并直接将应用程序与内核交互的想法是相当直观的。</p><p></p><p>后来，在Firefox OS 的基础上，<a href=\"https://www.infoq.cn/article/5cjog*zpfoowmyhjfoqk\">KaiOS </a>\"诞生。但令人失望的是 KaiOS 是封闭系统，并且会跟踪用户，也有广告。KaiOS 的分叉 GerdaOS则承诺将 Firefox OS 的一些开放性带回 KaiOS 设备。</p><p></p><p>但现在，Capyloon 项目决定复活 Firefox OS，它不是像 GerdaOS那样，变成一个重度修改的 KaiOS（仍然有些封闭），而是要将Firefox OS带到现代 Linux 智能手机上，如 PinePhone Pro、Purism Librem 5 和 Pixel 3A。</p><p></p><p>不过，该项目还处于早期阶段，项目主页也不够清晰。它的前端 Nutria 能运行旧的 Firefox OS 应用，还可能在 Android 设备上通过启动 Google GSI (Generic System Image) 在 Android 内核上测试 Firefox OS UI。</p><p></p><p>尽管有明确的目标，Capyloon 的<a href=\"https://capyloon.org/\">项目页面</a>\"有一些令人困惑的营销方式：将其定义为“实验性用户代理”，同时提供更好的 Internet 隐私和 GUI，但该网站并没有说明主要目的是做成完整的面向用户的操作系统。此外，Capyloon 页面建议将 WebAssembly 和 IPFS 集成作为项目的主要优先事项，但目前尚不清楚这种集成在实践中是如何工作的。</p><p></p><p>参考链接：<a href=\"https://tuxphones.com/capyloon-firefox-os-b2gos-linux/\">https://tuxphones.com/capyloon-firefox-os-b2gos-linux/</a>\"</p>",
+    "publish_time": "2022-10-13 18:30:24",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
