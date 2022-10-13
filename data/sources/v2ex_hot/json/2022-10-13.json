@@ -31,5 +31,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "网页怎样尽可能禁止用户复制图片地址？",
+    "url": "https://www.v2ex.com/t/886546",
+    "summary": "kisshere: <p>我想过用 js 禁止右键，禁止拖拽到地址栏或者图片覆盖一层 div ，还有没有比较巧妙的方式禁止用户复制图片地址？</p>",
+    "publish_time": "2022-10-13 10:10:40",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
