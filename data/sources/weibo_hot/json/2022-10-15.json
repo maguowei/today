@@ -457,5 +457,41 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "二十大时光",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E6%97%B6%E5%85%89%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "同事都有对象单身女服务员趴桌大哭",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%90%8C%E4%BA%8B%E9%83%BD%E6%9C%89%E5%AF%B9%E8%B1%A1%E5%8D%95%E8%BA%AB%E5%A5%B3%E6%9C%8D%E5%8A%A1%E5%91%98%E8%B6%B4%E6%A1%8C%E5%A4%A7%E5%93%AD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "kcon",
+    "url": "https://s.weibo.com/weibo?q=%23kcon%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "日剧silent",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%89%A7silent%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
