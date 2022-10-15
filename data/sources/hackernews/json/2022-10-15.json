@@ -196,5 +196,49 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Zlib Critical Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-37434",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33209096\">Comments</a>",
+    "publish_time": "2022-10-15 05:37:06",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "WiGLE: Wireless Network Mapping",
+    "url": "https://www.wigle.net/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33209163\">Comments</a>",
+    "publish_time": "2022-10-15 05:42:24",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Debian Administrator's Handbook",
+    "url": "https://debian-handbook.info/browse/stable/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33208810\">Comments</a>",
+    "publish_time": "2022-10-15 05:08:07",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Disposable Root Servers",
+    "url": "https://blog.thc.org/disposable-root-servers",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33209623\">Comments</a>",
+    "publish_time": "2022-10-15 06:38:49",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
