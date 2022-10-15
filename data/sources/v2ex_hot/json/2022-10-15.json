@@ -31,5 +31,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "大家的代码注释有写中文的吗?",
+    "url": "https://www.v2ex.com/t/887092",
+    "summary": "yhm2046: <p>昨天公司内部培训代码规范,我提出中文注释会导致乱码问题, cto 直接说以后不能用中文和拼音全部用英文, ceo 说第一次听到有人注释用中文.\n我的疑问\n1.是否所有大公司都不允许注释用英文和拼音?\n2.如果全部用英文那英文水平一般的怎么根据关键字查找代码,比如我第一次写的英文单词跟后面不一样或者忘了查起来比较麻烦,类似 git log 这种用中文也比较直观,这也是我一直用中文的原因.</p>",
+    "publish_time": "2022-10-15 12:06:01",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
