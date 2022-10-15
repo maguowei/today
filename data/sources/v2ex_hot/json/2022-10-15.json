@@ -86,5 +86,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "笔记本装两块硬盘如何做到双系统自由切换？",
+    "url": "https://www.v2ex.com/t/887154",
+    "summary": "Tounea: 首先，两块盘都是安装独立的操作系统（ Windows 和 Linux ），电脑开机两块硬盘也是同时加电，选择其中一块盘的系统并登陆，令一块盘系统是不是在后台也加载完成？<br /><br />那么问题来了，市面上有没有一款笔记本支持按键操作用于切换两块硬盘上的系统？<br /><br />我记得 10 年前看到有个公司竞标国企与国家研究院电脑主机项目，主机大小跟普通台式机差不了多少，看里面是一个大背板有五个 PCI 插槽，插槽插上的是比普通 8T 机械硬盘还大一点点的系统模块（模块可插 2.5 寸 SSD ），每个模块可以运行不同操作系统，机箱外部没有任何转接设备，就跟普通主机一样，一个 VGA 接口连显示器，五个模块系统启动后，可用键盘随便切换系统，而不是像现在使用双系统，还得先关机在选硬盘进另一个系统，这真是 low 的不能在 Low 了！<br /><br />有人可能觉得这需求很鸡肋，直接 Windows 装 Linux 虚拟机，或者 Linux 装 Windows 虚拟机不就行了。说真的，在操作系统里虚拟化在套“娃”使用体验很差，一般搭个测试环境用用还行，要是长期使用还是算了！",
+    "publish_time": "2022-10-15 17:02:28",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
