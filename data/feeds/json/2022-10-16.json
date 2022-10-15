@@ -1347,5 +1347,116 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "DK战胜EG",
+    "url": "https://s.weibo.com/weibo?q=%23DK%E6%88%98%E8%83%9CEG%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "男子躲高铁厕所抽烟被行拘5日",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%BA%B2%E9%AB%98%E9%93%81%E5%8E%95%E6%89%80%E6%8A%BD%E7%83%9F%E8%A2%AB%E8%A1%8C%E6%8B%985%E6%97%A5%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "00后双胞胎一起参军实现儿时约定",
+    "url": "https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%8F%8C%E8%83%9E%E8%83%8E%E4%B8%80%E8%B5%B7%E5%8F%82%E5%86%9B%E5%AE%9E%E7%8E%B0%E5%84%BF%E6%97%B6%E7%BA%A6%E5%AE%9A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "EG对战DK",
+    "url": "https://s.weibo.com/weibo?q=%23EG%E5%AF%B9%E6%88%98DK%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "李一桐金瀚跳剧本杀DM身份",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%B8%80%E6%A1%90%E9%87%91%E7%80%9A%E8%B7%B3%E5%89%A7%E6%9C%AC%E6%9D%80DM%E8%BA%AB%E4%BB%BD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Lung cancer rates by state, 2017",
+    "url": "https://www.lung-cancer.com/rates-by-state",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33217316\">Comments</a>",
+    "publish_time": "2022-10-16 02:30:54",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Automating screenshots for the Datasette documentation using shot-scraper",
+    "url": "https://simonwillison.net/2022/Oct/14/automating-screenshots/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33216789\">Comments</a>",
+    "publish_time": "2022-10-16 01:33:36",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "VS Code Org Mode",
+    "url": "https://github.com/vscode-org-mode/vscode-org-mode",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33217256\">Comments</a>",
+    "publish_time": "2022-10-16 02:22:40",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Former WSJ reporter says law firm used Indian hackers to sabotage his career",
+    "url": "https://www.reuters.com/legal/former-wsj-reporter-says-law-firm-used-indian-hackers-sabotage-his-career-2022-10-15/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33217265\">Comments</a>",
+    "publish_time": "2022-10-16 02:23:47",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Possibly a new way of drawing boxes in the terminal",
+    "url": "https://www.willmcgugan.com/blog/tech/post/ceo-just-wants-to-draw-boxes/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33216626\">Comments</a>",
+    "publish_time": "2022-10-16 01:15:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Adults Today Care Too Much What Young People Think",
+    "url": "https://www.persuasion.community/p/adults-today-care-too-much-what-young",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33217795\">Comments</a>",
+    "publish_time": "2022-10-16 03:25:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
