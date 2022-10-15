@@ -9,5 +9,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "上海企业黑宽带纪实",
+    "url": "https://www.v2ex.com/t/887047",
+    "summary": "fan88: 就真的，侮辱性极强，把我们当傻逼骗。<br /><br />号称是一条固定 IP 的 IPMAN 专线，收费一年 10 多万，300M 。 <br /><br />通过 GPON 的方式接入，光猫出来，配了一个固定地址(116.*.*.*)。<br /><br />接下来，离谱事件开始。<br /><br />百度搜 IP 、IP138 打开，以及访问我自己的服务，都显示地址为 61.137.x.x 的一个地址。在上海电信宽带测速里面去查，是一条 500M/1000M 的宽带，我寻思正规的固定 IP 专线（ EIP/精品专线 /互联网专线），应该查不到这些信息吧，而且怎么会不对等？ 后面找电信员工一问，就是一条一年 1 万 5 的商务专线而已。<br /><br /><br />接下来，更搞笑的事情发生了，顺着他们的光纤往上顺藤摸瓜找，他们居然在机房里部署了一个弱电柜，打开里面赫然放着三样东西：电信光猫、Mikrotik 软路由、小型 OLT 设备。<br /><br />我当时都给气笑了，不是，你们忽悠人都这么不认真的吗？拉黑宽带敢把设备放客户机房的吗？<br /><br /><br />把他们维修喊过来，我直接就问了，什么意思，这大哥很有意思，以下是对话内容。<br /><br />Q:我们现在的是电信的网络吗<br /><br />A:是的<br /><br /><br />Q:那电信的光猫就在旁边，你搞个软路由，再搞个 OLT ，ONU ，什么意义，需要您解释一下<br /><br />A:这个，因为我们还有个专线，专线需要通过这个设备到你这里。<br /><br /><br />Q:那电信的这个不是专线吗？<br /><br />A:这是我们的“总进线”。<br /><br /><br />Q:那这个“总进线”是 500M/1000M ，为什么和我们签约的不一样？<br /><br />A:我们和你签约的，是我们和你签约的，我们和电信签约是电信签约（跟你们没关系的）。<br /><br /><br /><br />Q:所以我可以理解为，你们是买了“500M/1000M”的线路，你们把它作为 300M 固定线路卖给我?<br /><br />A:这个要跟我们领导问一下，我只是管技术这块。<br /><br /><br /><br />Q:那你这个宽带为什么和电信卖的固定 IP 宽带不一样？<br /><br />A:这个你放心，这个速度，我肯定保证你们<br /><br /><br /><br />Q:我们有固定地址啊，为什么我出口地址不是这个固定地址？<br /><br />A:我报网管，帮你修一修<br /><br /><br /><br />Q:我直接办一个商务宽带，办一个拨号，不就跟你们现在一样吗？<br /><br />A:这不是商务宽带。这就是个进线，我只是把我们电信机房的设备串到你们这来了，知道吧？我们这是为了减少路由<br /><br /><br />Q:那这个进线，为什么这个是商务宽带的进线？<br /><br />A:这个我要跟领导确认下，我只管技术，只管技术，不管路由<br /><br /><br /><br />==================<br />就真无语了，让他回去了<br /><br /><br />我说完固定 IP 虚假的问题之后，过了一小时<br /><br />我发现访问百度、IP138 的时候，IP 可以正常显示为那个固定地址。<br />但是其他以外的网址，IP 就变回了商务宽带的 IP 。<br /><br />真是给我气笑了，好一个头痛医头脚痛医脚，我拿百度查 IP 不对你就帮我把百度的路由弄过去是吧，我真笑死了。<br /><br />随后那我 trace 一下百度 和 其他网站的路径，果然有端倪，<br />正常情况下，其他地址，到他们的网关之后下一跳是电信的 BRAS ，显示为公网地址<br />百度这边，网关下一跳变成了 100.x.x.x 好家伙，你这是通过 VPN 实现的公网吗？",
+    "publish_time": "2022-10-15 01:04:44",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "🤱🏻 用 Rust 打包了一个才 1.8M 的微信读书 Mac App",
+    "url": "https://www.v2ex.com/t/887062",
+    "summary": "tw93: <h2>总览</h2>\n<p>之前用 Rust 打包了一个微信读书的 Mac 版本，1.8M 大小，用了一段时间还不错，将代码开源到 Github ，感兴趣的小伙伴可下载试试，让你可以使用电脑进行阅读，当然也可以基于代码二次开发一些其他有趣的工具。</p>\n<p>🎉 开源地址：<a href=\"https://github.com/tw93/pake\" rel=\"nofollow\">https://github.com/tw93/pake</a></p>\n<p>🏂 下载地址：<a href=\"http://tw93.fun/images/app/WeRead.dmg\" rel=\"nofollow\">http://tw93.fun/images/app/WeRead.dmg</a></p>\n<h2>原理</h2>\n<p>用 Rust 来打包你的 App ，底层使用 Tauri ，当前支持微信读书，有更多想法，欢迎提 Issue 。</p>\n<h2>展示效果</h2>\n<p><img alt=\"1\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://cdn.fliggy.com/upic/ffUmdj.png\" /></p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://cdn.fliggy.com/upic/eQgw0s.png\" /></p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://cdn.fliggy.com/upic/9DY5qv.png\" /></p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://cdn.fliggy.com/upic/i0A9LX.png\" /></p>",
+    "publish_time": "2022-10-15 09:14:55",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
