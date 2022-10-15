@@ -619,5 +619,14 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "格威踩爆球鞋",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%A0%BC%E5%A8%81%E8%B8%A9%E7%88%86%E7%90%83%E9%9E%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
