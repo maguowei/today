@@ -4226,5 +4226,156 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "二十大报告寄语广大青年",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E6%8A%A5%E5%91%8A%E5%AF%84%E8%AF%AD%E5%B9%BF%E5%A4%A7%E9%9D%92%E5%B9%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "女子丢35万手镯2地铁警接力找回",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%A235%E4%B8%87%E6%89%8B%E9%95%AF2%E5%9C%B0%E9%93%81%E8%AD%A6%E6%8E%A5%E5%8A%9B%E6%89%BE%E5%9B%9E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "110岁母亲和88岁儿子手拉手逛茶会",
+    "url": "https://s.weibo.com/weibo?q=%23110%E5%B2%81%E6%AF%8D%E4%BA%B2%E5%92%8C88%E5%B2%81%E5%84%BF%E5%AD%90%E6%89%8B%E6%8B%89%E6%89%8B%E9%80%9B%E8%8C%B6%E4%BC%9A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "劳塔罗远射破门",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8A%B3%E5%A1%94%E7%BD%97%E8%BF%9C%E5%B0%84%E7%A0%B4%E9%97%A8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "青岛男篮vs辽宁男篮",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E7%94%B7%E7%AF%AEvs%E8%BE%BD%E5%AE%81%E7%94%B7%E7%AF%AE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "习近平强调，坚持和完善“一国两制”，推进祖国统一",
+    "url": "https://www.zhihu.com/question/574154169",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "生而为人，我们该如何接受自己的平庸?",
+    "url": "https://www.zhihu.com/question/559753557",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "求推荐 2022 年网盘",
+    "url": "https://www.v2ex.com/t/887297",
+    "summary": "zbzzh: 折腾网盘已经有几年的时间了，这段时间用过百度网盘 /微云 /天翼云 /阿里云盘 /OneDrive/Googledrive/，综合体验下来没有一款网盘是完美的，现主要用微云。说一下我考虑的因素吧，重点是不要封资源(正规电影文档之类的)，别把我的电影和论文给和谐掉，微云就干过这事。其次比较在乎速度，本身是千兆宽带，希望有个 300mbps 以上的速度，折腾这么久现在又想回归百度了，毕竟用户基数在那。不知道百度最近怎么样，封文件情况多吗，速度如何，也想听听 V 友的意见。",
+    "publish_time": "2022-10-16 14:51:42",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "就差最后一步， mac 就能基本满足我的需求了。",
+    "url": "https://www.v2ex.com/t/887305",
+    "summary": "november: <p>事情是这样的，公司突然说要给我买台 macbook ，而且配置还是高配的，但 mac 无论是软件还是硬件都让人不适应。mac 系统没有 ubuntu 那般优雅，键盘设计也是一团糟。</p>\n<p>适应了一两个月，开始尝试调教 mac 系统，以模拟 ubuntu 上的开发体验。现在能改的基本都改了，就是这个多桌面切换我算是放弃了，无论是切换速度还是切换后响应输入速度，都被 ubuntu 完爆。至于键盘和快捷键，忍忍根本过不去，工作效率影响其实挺大的，但又能怎么样。现在也不差这个关闭应用的功能，但是还是要说。</p>\n<p>我们知道，在  ubuntu 上，alt+f4 快捷键可以关闭进程，对于同一应用的多个窗口，则是通过 ctrl+w 进行关闭，而且在使用 alt+f4 ，即使有多个相同应用，也只是关闭当前进程。</p>\n<p>反光 mac ，虽然有 command+q 或 command+w ，但关闭逻辑混乱。不亲手试一次，你根本不知道逻辑是什么情况。比如在 firefox 下，command+w 关闭的是标签页，但是在 finder 下，关闭的却是窗口，而又有一些软件，并不是关闭，而是把软件最小化到 dock 而已。</p>\n<p>再来说 command+q ，直接就把整个应用相关的所有进程都退出了，无法只关闭当前活动进程，而只关闭当前活动进程的快捷键竟然没有。更甚的是 command+q 在 command+w 的旁边，在 command+1 的下面，误触的概率极高，而一旦误触，你就要面临该应用的所有窗口所有进程都被退出。</p>\n<p>目前我已找到软件 karabiner 来实现长按 command+q 替代短按了，避免误触带来的麻烦。体验真不错，虽然依然没有 alt+f4 那样舒服。至于只关闭当前进程的功能，我也懒得找了，现在每次都是移动鼠标到左上角的。</p>\n<p>不知道哪位大神知道怎么设置？让我白嫖一下。</p>\n<p>另外是否还有大神能否解决 mac 切换窗口后，要等上近一秒后才能输入的问题？</p>",
+    "publish_time": "2022-10-16 15:20:56",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "My initial attempt at trying to order pizza from within Vim",
+    "url": "https://github.com/arithran/vim-pizza",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33222147\">Comments</a>",
+    "publish_time": "2022-10-16 16:44:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Google Announces KataOS and Sparrow",
+    "url": "https://opensource.googleblog.com/2022/10/announcing-kataos-and-sparrow.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33222400\">Comments</a>",
+    "publish_time": "2022-10-16 17:42:49",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Tesorio (YC S15) raised a Series B and is hiring various roles",
+    "url": "https://www.tesorio.com/careers#job-openings",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33222925\">Comments</a>",
+    "publish_time": "2022-10-16 20:00:37",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Microwave Radar Brought Direct Phone Calls to Millions",
+    "url": "https://spectrum.ieee.org/trans-canada-microwave-system-milestone",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33222869\">Comments</a>",
+    "publish_time": "2022-10-16 19:44:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Poll: Is there a negative stigma toward articles written in Medium?",
+    "url": "https://news.ycombinator.com/item?id=33223222",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33223222\">Comments</a>",
+    "publish_time": "2022-10-16 20:53:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Deno vs. Bun performance is rigged",
+    "url": "https://unetworkingab.medium.com/deno-v-bun-performance-is-rigged-a0500e13464c",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33223120\">Comments</a>",
+    "publish_time": "2022-10-16 20:37:03",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
