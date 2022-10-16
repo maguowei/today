@@ -1,0 +1,13 @@
+[
+  {
+    "title": "c/c++多线程读写问题，怎么反驳?",
+    "url": "https://www.v2ex.com/t/887229",
+    "summary": "hardwork: <p>多线程读写加锁是常识，但是有个同事说 int 变量多线程读写不用加锁，理由是 int 读写都是一个指令完成，所以不用，我感觉不太对，但是不知道怎么反驳，所以来问问。</p>",
+    "publish_time": "2022-10-16 07:16:30",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  }
+]
