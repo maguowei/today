@@ -482,5 +482,38 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Cloak: Censorship Circumvention Tool",
+    "url": "https://github.com/cbeuw/Cloak",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33221299\">Comments</a>",
+    "publish_time": "2022-10-16 13:37:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Application-as-a-Function Thinking",
+    "url": "https://doridori.github.io/Architecture-Application-as-a-Function/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33221780\">Comments</a>",
+    "publish_time": "2022-10-16 15:20:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Random ScotRail Apology Generator",
+    "url": "https://scotrail.datasette.io/scotrail/random_apology",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33221723\">Comments</a>",
+    "publish_time": "2022-10-16 15:11:11",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
