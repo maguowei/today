@@ -1093,5 +1093,61 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "同心向党我来说",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%90%8C%E5%BF%83%E5%90%91%E5%85%9A%E6%88%91%E6%9D%A5%E8%AF%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "男子投喂白狐后被引见给同伴",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8A%95%E5%96%82%E7%99%BD%E7%8B%90%E5%90%8E%E8%A2%AB%E5%BC%95%E8%A7%81%E7%BB%99%E5%90%8C%E4%BC%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "2022年丹麦羽毛球公开赛",
+    "url": "https://s.weibo.com/weibo?q=%232022%E5%B9%B4%E4%B8%B9%E9%BA%A6%E7%BE%BD%E6%AF%9B%E7%90%83%E5%85%AC%E5%BC%80%E8%B5%9B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "交警怒斥山寨救援公司7升油760元",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E6%80%92%E6%96%A5%E5%B1%B1%E5%AF%A8%E6%95%91%E6%8F%B4%E5%85%AC%E5%8F%B87%E5%8D%87%E6%B2%B9760%E5%85%83%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "月薪 1 万 8 但只是给老板发快递，安排开会等没意义的事，你愿意做吗？如何判断工作的意义？",
+    "url": "https://www.zhihu.com/question/556824832",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Retired U.S. generals, admirals take top jobs with Saudi crown prince",
+    "url": "https://www.washingtonpost.com/investigations/interactive/2022/veterans-us-foreign-jobs-saudi-arabia/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33250576\">Comments</a>",
+    "publish_time": "2022-10-19 01:05:14",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
