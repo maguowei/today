@@ -493,5 +493,38 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Podman: Pasta User-Mode Networking",
+    "url": "https://github.com/containers/podman/pull/16141",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33243063\">Comments</a>",
+    "publish_time": "2022-10-18 12:43:33",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "TOTP tokens on my wrist with the smartest dumb watch",
+    "url": "https://blog.singleton.io/posts/2022-10-17-otp-on-wrist/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33243434\">Comments</a>",
+    "publish_time": "2022-10-18 13:50:57",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The FreeBSD/Firecracker Platform",
+    "url": "https://www.daemonology.net/blog/2022-10-18-FreeBSD-Firecracker.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33243529\">Comments</a>",
+    "publish_time": "2022-10-18 14:06:54",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
