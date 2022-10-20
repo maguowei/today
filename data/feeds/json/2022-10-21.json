@@ -1464,5 +1464,67 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "熬夜刷屏长斑怎么办",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%86%AC%E5%A4%9C%E5%88%B7%E5%B1%8F%E9%95%BF%E6%96%91%E6%80%8E%E4%B9%88%E5%8A%9E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "小学的友谊会持续到初中吗?",
+    "url": "https://www.zhihu.com/question/553906557",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Why our Smart Video Doorbell will not be able to support HomeKit Secure Video",
+    "url": "https://get.netatmo.com/hksv-en/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33281081\">Comments</a>",
+    "publish_time": "2022-10-21 05:33:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Snap Earning Results Q3 2022 [pdf]",
+    "url": "https://s25.q4cdn.com/442043304/files/doc_financials/2022/q3/Snap-Inc.-Q3-2022-Earnings-Slides-(10.20.2022).pdf",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33280130\">Comments</a>",
+    "publish_time": "2022-10-21 04:18:43",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A Bluetooth Low Energy (BLE) soil moisture sensor",
+    "url": "https://github.com/rbaron/b-parasite",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33281310\">Comments</a>",
+    "publish_time": "2022-10-21 05:52:45",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "来了！新闻早班车",
+    "url": "https://mp.weixin.qq.com/s/6lmT2fOkyKFDtCtms9de2A",
+    "summary": "来了！新闻早班车",
+    "publish_time": "2022-10-21 06:05:24",
+    "source": {
+      "name": "people_daily_gzh",
+      "desc": "人民日报公众号",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
+    }
   }
 ]
