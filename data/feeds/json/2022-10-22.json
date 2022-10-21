@@ -1210,5 +1210,45 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "我国67%罕见病用药已纳入医保",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD67%25%E7%BD%95%E8%A7%81%E7%97%85%E7%94%A8%E8%8D%AF%E5%B7%B2%E7%BA%B3%E5%85%A5%E5%8C%BB%E4%BF%9D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "近两年安卓手机在隐私保护方面做的如何？有哪些亮点值得关注？",
+    "url": "https://www.zhihu.com/question/561256789",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "AI models that predict disease are not as accurate as reports might suggest",
+    "url": "https://www.scientificamerican.com/article/ai-in-medicine-is-overhyped/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33291143\">Comments</a>",
+    "publish_time": "2022-10-22 02:07:43",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Thanks to the Israeli accessibility law, I have to delete my websites",
+    "url": "https://lifemichael.com/en/the-israeli-books-end-of-life-thanks-to-israeli-accessibility-law/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33291080\">Comments</a>",
+    "publish_time": "2022-10-22 02:02:11",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
