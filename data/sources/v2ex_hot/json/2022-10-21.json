@@ -42,5 +42,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "uni-app 也开始走用 ts 写原生代码的编译时路线了,话说现在还有哪些类似值得关注的跨平台框架?",
+    "url": "https://www.v2ex.com/t/888611",
+    "summary": "retrocode: <p>看了下前两天的更新, 看起来很美好的样子.</p>\n<p><a href=\"https://uniapp.dcloud.net.cn/api/extapi.html\" rel=\"nofollow\">https://uniapp.dcloud.net.cn/api/extapi.html</a></p>\n<pre><code>uts ，全称 uni type script ，是一门跨平台的、高性能的、强类型的现代编程语言。\n它可以被编译为不同平台的编程语言，如：\n    web 平台，编译为 JavaScript\n    Android 平台，编译为 Kotlin\n    iOS 平台，编译为 Swift （ HX 3.6.7+ 版本支持）\n    uts 采用了与 ts 基本一致的语法规范，支持绝大部分 ES6 API 。\n    \n在 uts 的发展路线上，uni-app 自身也将使用 uts 实现；使用 uts 将可以开发完整的 uni-app 。\n\n目前所有的 ext api ，在未来的 uts 版的 uni-app ，其内置的 uni 对象的 api 中，均会得到复用。也就是说 ext api 将大幅推进下一代 uni-app （纯 uts 版）的上线速度。\n\n欢迎广大开发者参与到 uni ext api 的开源共建中来。\n</code></pre>",
+    "publish_time": "2022-10-21 09:33:19",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "新显卡新 CPU 聊得火热，想问下大家装机后会装正版 Windows 系统吗",
+    "url": "https://www.v2ex.com/t/888682",
+    "summary": "gwbw: <p>纯属好奇，本人一直在用笔记本带的系统，后面可能有装机的需求，看大家发的配置单大多没有把系统成本算在里面，想了解下如果完全组台新机，一般都买正版系统激活吗，还是不激活 or 装盗版</p>",
+    "publish_time": "2022-10-21 12:08:06",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "各位平均每个月的固定开销多少？我是 1.4 万",
+    "url": "https://www.v2ex.com/t/888731",
+    "summary": "shadowyue: <p>大约 2.5k 的房租水电+2.5k 的日常开销+ 9k 的房贷</p>\n<p>期房还有两年才能住的上，真辛苦</p>",
+    "publish_time": "2022-10-21 14:47:25",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
