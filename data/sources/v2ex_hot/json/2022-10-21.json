@@ -86,5 +86,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "为什么公司不允许 ssh 链接 gitlab",
+    "url": "https://www.v2ex.com/t/888699",
+    "summary": "breadykidliu: <p>遇到 3 家公司不允许了，前两家是员工个位数的小作坊，搭建 gitlab 的人技术菜，我可以理解。<br />\n但是现在入职了中厂，有专门的的运维部门，运维人也不少，也不允许 ssh ，只能密码链接。<br />\n觉得无法理解，是有什么安全问题吗？</p>",
+    "publish_time": "2022-10-21 13:15:03",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
