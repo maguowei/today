@@ -20,5 +20,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "有偿寻 PHP 开发一个快递工单系统",
+    "url": "https://www.v2ex.com/t/888862",
+    "summary": "vsean: <p>问题的原因是我们现在跟快递沟通问题件的处理非常麻烦</p>\n<p>都是在一个微信群里，我们这边几个人发，快递公司几个人回</p>\n<p>而且经常一个快递单号要进行很多轮的沟通，要来回查询聊天记录</p>\n<p>需求：多用户，用户分为两个种类</p>\n<p>A 类用户，我们上报问题，B 类用户，快递处理问题</p>\n<p>需要支持多家快递公司</p>\n<p>可以清晰展示同一个快递单号的跟进流程</p>\n<p>同时 API 接入显示快递物流进度</p>\n<p>客户拒收的快递拦截退回，需要有核销功能</p>\n<p>其他细节需要进一步沟通，有愿意做的码农，可以加微信详细沟通</p>\n<p>OTk5NTczICA=</p>",
+    "publish_time": "2022-10-22 00:49:28",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "家里老年人说的补缴养老划不划算？",
+    "url": "https://www.v2ex.com/t/888891",
+    "summary": "nonone: 说是补缴 9 万 60 岁之后一年预估可以领取一万块钱，父母还有 4 年就到 60 岁了",
+    "publish_time": "2022-10-22 10:34:17",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "Edge 浏览器的云同步内容，比如书签这类信息，是需要经过审核的嘛？",
+    "url": "https://www.v2ex.com/t/888896",
+    "summary": "Gaouo: <p>最近 Chrome 的翻译因为谷歌翻译被墙的原因导致一直失败，用了很多方法，把谷歌 api 地址代理、电脑代理服务改成全局、把谷歌翻译服务地址加入代理，折腾了一圈都没什么用，就算有用也很麻烦，连听个网易云聊个微信也被全局了</p>\n<p>然后就想要不要转 Edge ，心理斗争了很久，终于接受了 Edge 设计上的粗糙繁杂丑陋外观，但是对于 Edge 的书签不太放心，我 Chrome 收藏夹收藏了好多 P 站精品，还有一些小网站的优质日本片，和大量的漫画作品。我担心我全面转移到 Edge 后，万一像以前的百度云一样，直接审查给我删了就哭了</p>\n<p>所以我就想问问有没有董哥讲讲，微软的浏览器服务的信息是需要审核的嘛？</p>\n<p>（本来还想着我直接全都下载下来存 iCloud 里，哪天网址失效也不怕了，但是看了看云上贵州还是算了。顺便求一个安全无审核不删 sex 相关，不删侵权影视作品的网盘服务）</p>",
+    "publish_time": "2022-10-22 10:50:47",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
