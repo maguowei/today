@@ -1484,5 +1484,89 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "2022皮肤屏障白皮书",
+    "url": "https://s.weibo.com/weibo?q=%232022%E7%9A%AE%E8%82%A4%E5%B1%8F%E9%9A%9C%E7%99%BD%E7%9A%AE%E4%B9%A6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "中国17岁小将霹雳舞世锦赛摘银",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD17%E5%B2%81%E5%B0%8F%E5%B0%86%E9%9C%B9%E9%9B%B3%E8%88%9E%E4%B8%96%E9%94%A6%E8%B5%9B%E6%91%98%E9%93%B6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "10-cent CH32V003 RISC-V MCU offers 2KB SRAM, 16KB flash, SOP8 to QFN20 packages",
+    "url": "https://www.cnx-software.com/2022/10/22/10-cents-ch32v003-risc-v-mcu-offers-2kb-sram-16kb-flash-in-sop8-to-qfn20-packages/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33302035\">Comments</a>",
+    "publish_time": "2022-10-23 04:41:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Raspberry Pi 400 in My Bedroom",
+    "url": "https://joeldare.com/private-analtyics-and-my-raspberry-pi-400.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33302748\">Comments</a>",
+    "publish_time": "2022-10-23 06:24:40",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "News Music Search Archive",
+    "url": "http://www.newsmusicsearcharchive.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33302686\">Comments</a>",
+    "publish_time": "2022-10-23 06:13:39",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Premultiplied Alpha vs. Not-Premultiplied Alpha Blending and Compositing",
+    "url": "https://iquilezles.org/articles/premultipliedalpha/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33301471\">Comments</a>",
+    "publish_time": "2022-10-23 03:44:42",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How to Index Anything (2003)",
+    "url": "https://www.linuxjournal.com/article/6652",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33301449\">Comments</a>",
+    "publish_time": "2022-10-23 03:42:21",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "来了！新闻早班车",
+    "url": "https://mp.weixin.qq.com/s/A-cGSiwA9ZUSKBJ0Y5dwTA",
+    "summary": "来了！新闻早班车",
+    "publish_time": "2022-10-23 06:04:19",
+    "source": {
+      "name": "people_daily_gzh",
+      "desc": "人民日报公众号",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
+    }
   }
 ]
