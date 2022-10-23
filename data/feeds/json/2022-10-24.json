@@ -1408,5 +1408,98 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "双十一必囤紫熨斗",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%8C%E5%8D%81%E4%B8%80%E5%BF%85%E5%9B%A4%E7%B4%AB%E7%86%A8%E6%96%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "双11第一波先囤啥",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%8C11%E7%AC%AC%E4%B8%80%E6%B3%A2%E5%85%88%E5%9B%A4%E5%95%A5%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "昌雅妮女子3米板金牌",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%98%8C%E9%9B%85%E5%A6%AE%E5%A5%B3%E5%AD%903%E7%B1%B3%E6%9D%BF%E9%87%91%E7%89%8C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "The mainframe in your pocket running minicomputer software",
+    "url": "https://thechipletter.substack.com/p/the-mainframe-in-your-pocket",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33308167\">Comments</a>",
+    "publish_time": "2022-10-24 00:31:45",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Apple's sleeping advertising business",
+    "url": "https://www.thespl.it/p/apples-sleeping-advertising-business",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33309526\">Comments</a>",
+    "publish_time": "2022-10-24 03:29:47",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Coming Home to Vim (2010)",
+    "url": "https://stevelosh.com/blog/2010/09/coming-home-to-vim/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33310714\">Comments</a>",
+    "publish_time": "2022-10-24 06:01:55",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Gamification affects software developers: Cautionary evidence from GitHub",
+    "url": "https://arxiv.org/abs/2006.02371",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33309969\">Comments</a>",
+    "publish_time": "2022-10-24 04:27:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Maintaining sufficient free space with ZFS",
+    "url": "https://taras.glek.net/post/curious-case-of-maintaining-sufficient-free-space-with-zfs/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33310207\">Comments</a>",
+    "publish_time": "2022-10-24 04:59:16",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "来了！新闻早班车",
+    "url": "https://mp.weixin.qq.com/s/A1scJ_aFtWJQGYpCvJ7wPQ",
+    "summary": "来了！新闻早班车",
+    "publish_time": "2022-10-24 06:06:24",
+    "source": {
+      "name": "people_daily_gzh",
+      "desc": "人民日报公众号",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
+    }
   }
 ]

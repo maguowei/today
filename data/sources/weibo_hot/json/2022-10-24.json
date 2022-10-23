@@ -628,5 +628,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "双十一必囤紫熨斗",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%8C%E5%8D%81%E4%B8%80%E5%BF%85%E5%9B%A4%E7%B4%AB%E7%86%A8%E6%96%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "双11第一波先囤啥",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%8C11%E7%AC%AC%E4%B8%80%E6%B3%A2%E5%85%88%E5%9B%A4%E5%95%A5%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "昌雅妮女子3米板金牌",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%98%8C%E9%9B%85%E5%A6%AE%E5%A5%B3%E5%AD%903%E7%B1%B3%E6%9D%BF%E9%87%91%E7%89%8C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
