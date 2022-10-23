@@ -574,5 +574,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "天猫预售盛典晚八开播",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E7%8C%AB%E9%A2%84%E5%94%AE%E7%9B%9B%E5%85%B8%E6%99%9A%E5%85%AB%E5%BC%80%E6%92%AD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "头皮才是人间清醒",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%B4%E7%9A%AE%E6%89%8D%E6%98%AF%E4%BA%BA%E9%97%B4%E6%B8%85%E9%86%92%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
