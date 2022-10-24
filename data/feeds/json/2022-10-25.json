@@ -1577,5 +1577,47 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "一汽丰田bZ们来了",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%B1%BD%E4%B8%B0%E7%94%B0bZ%E4%BB%AC%E6%9D%A5%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Ask HN: Is long-term employee commitment to the same company still appreciated?",
+    "url": "https://news.ycombinator.com/item?id=33322522",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33322522\">Comments</a>",
+    "publish_time": "2022-10-25 04:50:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "My thoughts on the Framework laptop (from a professional kernel developer)",
+    "url": "https://ruscur.au/framework/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33322143\">Comments</a>",
+    "publish_time": "2022-10-25 04:22:13",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How to Make a Roguelike",
+    "url": "https://www.gamedeveloper.com/design/how-to-make-a-roguelike",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33321695\">Comments</a>",
+    "publish_time": "2022-10-25 03:54:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
