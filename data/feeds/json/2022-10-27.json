@@ -1319,5 +1319,65 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "一抹温柔心呵护",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%8A%B9%E6%B8%A9%E6%9F%94%E5%BF%83%E5%91%B5%E6%8A%A4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "能以你现在的立场说一下学生时代最大的遗憾是什么吗？",
+    "url": "https://www.zhihu.com/question/562498064",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "你有分享欲旺盛的时期吗？",
+    "url": "https://www.zhihu.com/question/562315908",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "AppleScript: Control Your Mac with an Email",
+    "url": "https://support.apple.com/guide/mail/use-scripts-as-rule-actions-mlhlp1171/mac",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33349177\">Comments</a>",
+    "publish_time": "2022-10-27 04:46:37",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Video gaming may be associated with better cognitive performance in children",
+    "url": "https://nida.nih.gov/news-events/news-releases/2022/10/video-gaming-may-be-associated-with-better-cognitive-performance-in-children",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33349296\">Comments</a>",
+    "publish_time": "2022-10-27 04:54:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Unreal Tournament 99 running on WASM (2017)",
+    "url": "https://icculus.org/ut99-emscripten/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33349291\">Comments</a>",
+    "publish_time": "2022-10-27 04:54:17",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
