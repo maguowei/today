@@ -86,5 +86,27 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "Webpack 创始人推出比Webpack“快700倍”的Turbopack，基于Rust编写",
+    "url": "https://www.infoq.cn/article/iKecr1k4eQMMpCaaXEDr",
+    "summary": "<p>10月26日，Vercel公司正式宣布推出新的打包工具Turbopack。Webpack 创建者 Tobias Koppers 于 2021 年 4 月加入该公司，牵头了该项目。</p><p>&nbsp;</p><p>Turbopack 是Vercel公司之前一些工作的延续。在此之前，他们用<a href=\"https://www.infoq.cn/article/bsUPti0p4VODQ19JdPeU\">基于 Rust</a>\" 的 SWC 替换基于 JavaScript 的转译器 Babel，速度提升了 17 倍。他们还替换了 Terser，压缩的速度提高了 6 倍，从而减少了加载时间和带宽的使用。</p><p>&nbsp;</p><p>“Webpack 已被下载超过 30 亿次。它已成为 Web 构建不可或缺的一部分。但就像 Babel 和 Terser 一样，是时候全力以赴了。我加入了 Vercel，组建了一个团队来构建Web下一代的打包工具。”Tobias说。</p><p>&nbsp;</p><p>据Vercel 首席执行官Guillermo Rauch 介绍，与 Webpack 一样，Turbopack 也是开源的。</p><p>&nbsp;</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/97/97a91fc45cd76e18cbc2c5cb11dc655e.png\" /></p><p></p><p>&nbsp;</p><p>Vercel 声称 Turbopack在大型应用中，展示出了 10 倍于 Vite 的速度，700 倍于 Webpack 的速度。在更大的应用中，差异更加巨大 —— 通常比 Vite 快 20 倍。而且启动速度飞快，在一个 3000 个模块的应用里，Turbopack 只花了 1.8 秒启动，Vite 花了 11.4 秒。</p><p>&nbsp;</p><p>Rauch 说，性能改进不仅是因为基于<a href=\"https://www.infoq.cn/article/1g3Yeu0kX7UXhV3R9E0P\"> Rust</a>\" ，还在于“基于增量计算思想的架构”。该团队借鉴了谷歌Bazel构建系统中的一些想法，该系统适用于大型项目。增量方法意味着避免做重复的工作，“如果你创建一个增量图，开发人员在其中进行更改，只有受影响的图部分会被重新计算。”</p><p>&nbsp;</p><p>Turbopack——目前处于 alpha 预览阶段——是“一种更好的架构，我认为 Rust 和正确架构相结合意味着我们至少在 10 年内不需要改变，”Rauch表示。</p><p>&nbsp;</p><p>Turbopack 是怎么来的？“Next.js 早在 2016 年就开始使用 Webpack 作为组件，”他说。“我们可能是 Webpack 的最大用户。我们在开始时和Webpack 创建者 Tobias聊了很多，因为当时我们有像沃尔玛这样的客户，有超过 250 名工程师在 Next.js 代码库上工作，分享一些关于编译过程的反馈。我们意识到 JavaScript 和 TypeScript 代码的数量增长如此之快，以至于超出了基于 JavaScript 的工具和架构的能力。Tobias 也从未想过该工具会得到如此广泛的采用。”</p><p>&nbsp;</p><p>Webpack 面向单页应用程序 (SPA) ，“但我们不是，因此我们改变了Webpack 的默认设置。”当 Koppers 加入 Vercel 时，“他带来了 10 年的专业知识，见证了这件事情的发展，”Rauch 说。“他意识到架构和运行时的所有缺陷。因此，Tobias 成为了 Rust 专家。”Turbopack 一个有趣的特性是，多亏了 Rust，它可以编译成 WebAssembly 并在浏览器中运行。</p><p>&nbsp;</p><p>“Turbopack 旨在成为 Webpack 的直接替代品，Next.js 是它的第一个客户，”Vercel 首席技术官 Malte Ubl 说，“随着时间的推移，我们计划针对所有开发者用例继续迭代和改进 Turbopack。”</p><p>&nbsp;</p><p>延伸阅读：</p><p><a href=\"https://vercel.com/blog/turbopack\">https://vercel.com/blog/turbopack</a>\"</p><p><a href=\"https://devclass.com/2022/10/25/webpack-founder-debuts-rust-based-turbopack-that-is-700x-faster/\">https://devclass.com/2022/10/25/webpack-founder-debuts-rust-based-turbopack-that-is-700x-faster/</a>\"</p>",
+    "publish_time": "2022-10-26 19:06:12",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "继美光之后，SK海力士宣布明年资本支出减半，全球存储芯片市场暴跌幅度惊人",
+    "url": "https://www.infoq.cn/article/4IfbhjAHEF3RI4kpS9Xt",
+    "summary": "<p>10月26日，韩国芯片制造商SK海力士表示，将把明年的资本支出削减一半。</p><p>&nbsp;</p><p>HMC投资证券的科技研究主管Greg Roh认为，削减资本支出是市场一直在等待的强有力举措。Roh认为，海力士为缓解供过于求状况而采取的举措可能会加速明年的行业复苏，DRAM服务器需求可能首先反弹。</p><p>&nbsp;</p><p>此前，受存储芯片需求滑坡拖累，SK海力士今年第三季度利润下降了60%。SK海力士第三季度的营业利润降至1.7万亿韩元（12亿美元），低于分析师预估的2.5万亿韩元；营收为11万亿韩元，低于预估的12.2万亿韩元。</p><p>&nbsp;</p><p>SK海力士表示，半导体存储行业正面临前所未有的市场环境恶化。“作为<a href=\"https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247575824&amp;idx=1&amp;sn=abeca7a49c985e719edd40b35dc90ba8&amp;chksm=fbeb10dfcc9c99c93c427957dbb387e7db1cac78f7b71f10c9ed8c4b58bcc05d609eb13a8e8f&amp;scene=27#wechat_redirect\">存储芯片</a>\"的主要买家，个人电脑和智能手机制造商的出货量有所下降。”</p><p>&nbsp;</p><p>海力士表示，DRAM和NAND的价格季度环比至少下跌了20%。海力士计划从利润较低的产品开始逐步减产，但仍预计短期存储芯片供应将超过需求。</p><p>&nbsp;</p><p>据悉，截至今年第二季度末，海力士的库存从去年同期的6.2万亿韩元增加到11.9万亿韩元，几乎翻了一番。部分原因是海力士<a href=\"https://www.infoq.cn/article/XDzVXCMBFuEPxdGTQwVC\">收购</a>\"了英特尔的NAND业务，该业务于去年12月成为海力士的美国子公司。</p><p>&nbsp;</p><p>海力士并不是第一家采取类似行动的厂商。</p><p>&nbsp;</p><p>本月月初，芯片大厂<a href=\"https://www.infoq.cn/article/VLIDZiKBqtCyrMm8mjc1\">美光</a>\"（Micron）发布最新财报时再度预警，表示未来的存储芯片需求和公司经营将面临更严重的困难，公司 2023 财年的资本支出将削减 30%。</p><p>&nbsp;</p><p>美光表示，目前存储芯片市场的挑战是“前所未见”的，但是公司管理层相信，企业规模优势将帮助美光度过这一难关。</p><p>&nbsp;</p><p>美国科技行业人士巴内特（Richard Barnett）表示，最近，包括苹果在内的智能手机厂商已经削减了产量目标，这加剧了供应商美光科技所面临的困难。</p><p>&nbsp;</p><p>美光首席商务官萨达纳（Sumit Sadana）表示，真正令人吃惊的，是全球存储芯片市场暴跌的幅度。萨达纳介绍说，在过去几个月，美光科技已经将个人电脑和智能手机存储芯片销售增长预期，下调了几个百分点。这位高管表示，2022 年（自然年），公司的个人电脑存储芯片销售将比去年下滑两成左右，智能手机存储芯片的销售，将下滑接近一成。</p><p>&nbsp;</p><p>10月13日，日本存储芯片生产商铠侠Kioxia宣布减少位于四日市和北上市生产线的3D NAND闪存产量，削减幅度达到30%。铠侠方面表示，降低产量的主要原因是高通胀、宏观经济不景气以及一些地缘事件造成PC、其它电子设备等需求放缓。</p>",
+    "publish_time": "2022-10-26 19:59:59",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
