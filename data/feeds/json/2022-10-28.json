@@ -1440,5 +1440,67 @@
       "desc": "人民日报公众号",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
     }
+  },
+  {
+    "title": "两次跳湖救人出租司机被申报见义勇为",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%A4%E6%AC%A1%E8%B7%B3%E6%B9%96%E6%95%91%E4%BA%BA%E5%87%BA%E7%A7%9F%E5%8F%B8%E6%9C%BA%E8%A2%AB%E7%94%B3%E6%8A%A5%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "俄罗斯外交官称，不排除有西方国家协助乌克兰制造「脏弹」，有哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/562415554",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Humans and our livestock account for 96% of all mammal biomass",
+    "url": "https://ourworldindata.org/mammals",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33362957\">Comments</a>",
+    "publish_time": "2022-10-28 03:41:05",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "One-Time Programs",
+    "url": "https://blog.cryptographyengineering.com/2022/10/27/one-time-programs/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33362170\">Comments</a>",
+    "publish_time": "2022-10-28 02:48:18",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Extracting Zooming Shots from 600 Hrs of Police Helicopter Surveillance Footage",
+    "url": "https://lav.io/notes/the-zooms/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33362520\">Comments</a>",
+    "publish_time": "2022-10-28 03:11:11",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Towards the next generation of XNU memory safety: kalloc_type",
+    "url": "https://security.apple.com/blog/towards-the-next-generation-of-xnu-memory-safety/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33362311\">Comments</a>",
+    "publish_time": "2022-10-28 02:57:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
