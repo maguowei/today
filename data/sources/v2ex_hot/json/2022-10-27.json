@@ -53,5 +53,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "怎么看待请求参数 JSON 数据包里再包 JSON 数据",
+    "url": "https://www.v2ex.com/t/890284",
+    "summary": "Aluhao: 请求数据结构如下：<br /><br />{\"id\":\"100\",\"time\":1666320790000,\"validate\":\"cc2ac65f816faf49f7e\",\"data\":\"{\\\"reqid\\\":\\\"\\\",\\\"taskid\\\":\\\"\\\",\\\"sid\\\":\\\"B464AA\\\",\\\"atuser\\\":null,\\\"content\\\":{\\\"type\\\":1,\\\"text\\\":\\\"{\\\\\\\"text\\\\\\\":\\\\\\\"000\\\\\\\"}\\\"}}\"}<br /><br />这样的设计大家有什么看法？",
+    "publish_time": "2022-10-27 10:32:03",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "2022 找不到理由续费 Jetbrains 全家桶",
+    "url": "https://www.v2ex.com/t/890315",
+    "summary": "Leiothrix: <p>本人 19 年入坑成为 Jetbrains 全家桶订阅用户，订阅了三年，今年 9 月订阅过期，近期打算续费，这是前话。</p>\n<p>续费过程中碰到很多问题，最大的疑惑点在于看不懂续费价格，实在是太高了。</p>\n<p>为什么我看不懂续费价格？账单显示需要为我的第四年订阅支付 251.85 美元（这甚至比之前从零开始订阅需要收取的费用 249 美元还高）。账单显示只享受 20%折扣且需要加征 20 美元的惩罚性费用。账单的计算公式是 289 * 0.8 + 289 * 0.6 * (44/365) = 251.85 。</p>\n<p>照我理解，第四年起订阅应该享受 40%的折扣。</p>\n<p>是因为疫情、地缘冲突事件导致 Jetbrains 经营也出现问题了吗？这两年几乎没有任何优惠活动。甚至还搞了一波涨价？相比于我之前能接受的续费价格（ 149 美元），现在的续费价格高到离谱。叠加美元汇率暴涨，经济上找不到理由支持我续费。</p>\n<p>我是老客户，也以这样的方式对待，剥离这部分坚定付费用户，想必以后 Jetbrains 中国会损失更大的市场份额并招致更多盗版滥用事件。</p>\n<p>谈软件质量，每年的新版本 IDE bug 都多到离谱，多年没有实质进步。</p>\n<p>谈服务，官网网页不走代理都打不开（这个是哪方的问题暂且不谈，但是多年以来都没有改善的迹象，做的不上心），寻求支持只能走邮件或者电话。</p>\n<p>另外谈一谈坑爹的 Fallback License ，在订阅过期的前提下，在电脑上安装的当年 IDE 不可继续使用，使用 Fallback License 激活会提示过期，必须卸载后重新安装一年前的 V1 版本才可以用离线授权码激活（过于暴力）。多台电脑都安装了当年版本 IDE 的用户只能说太不方便了，版本降级和麻烦程度让人很不舒服。</p>\n<p>「您可能是正版软件的受害者」这个列表上要加上 Jetbrains 的大名了，当做正版软件的支持者也成为一件难事，我选择走其它更简单的路。</p>",
+    "publish_time": "2022-10-27 11:26:31",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
