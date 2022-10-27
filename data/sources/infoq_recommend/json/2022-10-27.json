@@ -108,5 +108,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "Chrome浏览器将停止支持 Windows 7/8/8.1",
+    "url": "https://www.infoq.cn/article/69gYeXQIyAbJ5ytfHahM",
+    "summary": "<p>近日，Google <a href=\"https://support.google.com/chrome/thread/185534985/sunsetting-support-for-windows-7-8-1-in-early-2023?hl=en\">宣布</a>\"，随着Chrome 110 的发布（暂定于 2023 年 2 月 7 日）， 届时，Chrome 浏览器将停止支持 Windows 7 / 8.1。</p><p></p><p>通知显示，用户设备需要运行 Windows 10 及以上版本才能接收未来的 Chrome 更新。Google 终止支持的决定与微软 Windows 生命周期政策一致——微软将于 2023 年 1 月 10 日<a href=\"https://support.microsoft.com/en-us/topic/you-received-a-notification-your-windows-7-pc-is-out-of-support-3278599f-9613-5cc1-e0ee-4f81f623adcf\">终止</a>\"对 Windows 7 ESU（扩展安全更新）和 Windows 8.1 的支持。</p><p></p><p>根据 Statcounter GlobalStats 的<a href=\"https://gs.statcounter.com/os-version-market-share/windows/desktop/worldwide\">数据</a>\"，目前 Windows 7 在Windows操作系统市场的占有率仍然逾 10%，而 Windows 8.1 仅占 2.7%&nbsp; 。</p><p></p><p>从全球来看，Chrome 浏览器的市场份额超过 65%，其次是 Safari，约占 18%，Microsoft Edge 为 4.32%（使用 Chromium 内核）。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/32/32c1735731f9ba3ba6278949a63379b1.png\" /></p><p></p><p>Chrome 支持经理表示，旧版本的 Chrome 将继续工作，但不会为使用Windows 7 / 8.1 的用户发布更多更新，建议用户迁移到受支持的 Windows 版本，以确保能收到最新的 Chrome 功能和安全补丁。否则一旦这些系统不再获得技术帮助或软件更新，其计算机和数据将会面临安全风险。</p><p></p><p>Windows 7 于 2009 年 10 月进入市场并于 2020 年初正式退出。Windows 8 于 2012 年推出，其继任者 8.1 将在 2023 年 1 月停止获得支持。同样地，Windows 10 在 2015 年出现并计划在 2025 年退出。不过有观点认为，由于升级 Windows 11 的硬件要求太高，当下 Windows 11 的采用速度非常缓慢，到 2025 年那会大家的电脑硬件是否准备好大规模迁移到 Windows 11，还有待观察。</p><p></p><p>参考链接：</p><p><a href=\"https://www.bleepingcomputer.com/news/google/google-chrome-to-drop-support-for-windows-7-81-in-feb-2023/\">https://www.bleepingcomputer.com/news/google/google-chrome-to-drop-support-for-windows-7-81-in-feb-2023/</a>\"</p>",
+    "publish_time": "2022-10-27 18:35:36",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
