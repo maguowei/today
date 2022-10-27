@@ -97,5 +97,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "1680 包年的固定 IP 专线简单测评",
+    "url": "https://www.v2ex.com/t/890226",
+    "summary": "yorkyoung: 话接上回 <a href=\"https://www.v2ex.com/t/886693\" rel=\"nofollow noopener\" target=\"_blank\">/t/886693</a><br /><br />经过十天的等待，申请的移动专线装好了，我装的是 500M/50M ，这里简单测评。<br />跟预期不符的是 IP 段不是 120.197 ，我装的是 120.234 。<br /><br />本地本网测速如下：<br /><a href=\"https://i.imgur.com/xgJSDdv.png\" rel=\"nofollow noopener\" target=\"_blank\"><img class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/xgJSDdv.png\" /></a><br /><br /><br />到香港 CMI 网速如下，忙闲时几乎没有差别：<br /><a href=\"https://i.imgur.com/uOZwH5Z.png\" rel=\"nofollow noopener\" target=\"_blank\"><img class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/uOZwH5Z.png\" /></a><br /><br /><br />外网端口测试，光猫直接连电脑，运行 iperf3 。本地电信固网测得下载速度：<br /><a href=\"https://i.imgur.com/iWrsetP.jpg\" rel=\"nofollow noopener\" target=\"_blank\"><img class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/iWrsetP.jpg\" /></a><br /><br /><br />我还是有些纠结不是 120.197 段，从 CMI 主机路由跟踪回我得到的一个同套餐 197 网关和我的网关对比。<br /><a href=\"https://i.imgur.com/RKfKH4n.jpg\" rel=\"nofollow noopener\" target=\"_blank\"><img class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/RKfKH4n.jpg\" /></a><br />回国都在第四跳和第五跳，我是 2.29 到 2.6 ，197 是 22.69 到 2.10 ，倒数第二跳都一样，最后一跳就多了 3ms ，不同时段多次测都是这样，不得其解。<br /><br />下边是国内国际的 ping 值测试：<br /><a href=\"https://i.imgur.com/BMzGekw.jpg\" rel=\"nofollow noopener\" target=\"_blank\"><img class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/BMzGekw.jpg\" /></a><br /><a href=\"https://i.imgur.com/sWRkWXY.png\" rel=\"nofollow noopener\" target=\"_blank\"><img class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/sWRkWXY.png\" /></a><br /><a href=\"https://i.imgur.com/GLLhYVx.png\" rel=\"nofollow noopener\" target=\"_blank\"><img class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/GLLhYVx.png\" /></a><br />补充甲骨文新加坡，平均 ping 48ms ，平均速率 47.6 Mbits/sec 。<br /><br />和家宽包装不同，专线上门三次，第一次收资料是客户经理，第二次前堪和第三次安装是师傅来。<br />客户经理说使用 PTN 接入而不是 PON ，装机师傅在选择网络类型的时候选了 CMNET ，我看到还有一个选项是城域网，他说那是给家宽或底商用的，师傅也确认了直接接入汇聚层的说法。<br /><br />最后是客户经理的联系方式：<br />55S16K+d5b6u5L+h77yaMTM5IDIyODggNjc2NSDljaLnu4/nkIY=",
+    "publish_time": "2022-10-27 08:15:06",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
