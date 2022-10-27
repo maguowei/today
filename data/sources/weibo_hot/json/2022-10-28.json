@@ -556,5 +556,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "凯美瑞40周年",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%BE%8E%E7%91%9E40%E5%91%A8%E5%B9%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "学生时期留下的永久印迹",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E6%97%B6%E6%9C%9F%E7%95%99%E4%B8%8B%E7%9A%84%E6%B0%B8%E4%B9%85%E5%8D%B0%E8%BF%B9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]

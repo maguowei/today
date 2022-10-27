@@ -1334,5 +1334,111 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "凯美瑞40周年",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%BE%8E%E7%91%9E40%E5%91%A8%E5%B9%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "学生时期留下的永久印迹",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E6%97%B6%E6%9C%9F%E7%95%99%E4%B8%8B%E7%9A%84%E6%B0%B8%E4%B9%85%E5%8D%B0%E8%BF%B9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Bastion – Highly-Available Distributed Fault-Tolerant Runtime for Rust",
+    "url": "https://github.com/bastion-rs/bastion",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33361937\">Comments</a>",
+    "publish_time": "2022-10-28 02:34:18",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Telegram has stolen my channel's username to sell it on auction",
+    "url": "https://news.ycombinator.com/item?id=33360994",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33360994\">Comments</a>",
+    "publish_time": "2022-10-28 01:30:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Why is hydroelectricity unfashionable?",
+    "url": "https://spectrum.ieee.org/hydroelectric-power",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33359790\">Comments</a>",
+    "publish_time": "2022-10-28 00:15:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Activist glues his head to 'Girl with a Pearl Earring' painting in The Hague",
+    "url": "https://www.reuters.com/business/environment/famed-girl-with-pearl-earring-painting-targeted-by-climate-activists-nos-2022-10-27/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33359991\">Comments</a>",
+    "publish_time": "2022-10-28 00:26:00",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Pachyderm (YC W15) is hiring sales engineers and solutions architects",
+    "url": "https://www.pachyderm.com/careers/#positions",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33360572\">Comments</a>",
+    "publish_time": "2022-10-28 01:00:08",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How to write a bootloader from scratch (2019)",
+    "url": "https://interrupt.memfault.com/blog/how-to-write-a-bootloader-from-scratch",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33360830\">Comments</a>",
+    "publish_time": "2022-10-28 01:17:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Deno v1.27",
+    "url": "https://deno.com/blog/v1.27",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33361450\">Comments</a>",
+    "publish_time": "2022-10-28 02:00:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "【夜读】生活中值得坚持的8件事",
+    "url": "https://mp.weixin.qq.com/s/2ujShOZZr8Z93QvxPtyfWA",
+    "summary": "【夜读】生活中值得坚持的8件事",
+    "publish_time": "2022-10-28 02:09:30",
+    "source": {
+      "name": "people_daily_gzh",
+      "desc": "人民日报公众号",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
+    }
   }
 ]
