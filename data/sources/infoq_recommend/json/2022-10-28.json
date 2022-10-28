@@ -31,5 +31,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "文娱场景高音质降噪方案设计与落地 | InfoQ《公开课》",
+    "url": "https://www.infoq.cn/article/OJ9wJPtHU2WJyhDNKEfM",
+    "summary": "<p><strong>直播简介</strong></p>\n<p>随着近年深度学习的广泛应用，使用神经网络的降噪算法喷涌而出，而且这类算法不管是在降噪力度上，还是鲁棒性上，都要优于传统降噪，是当前处理各种不同场景噪音的首选方案。但是，在实时互动环境下，对于音频实时处理和性能要求比较高，这对于 AI 模型的设计和效果的平衡带来了的巨大的挑战。基于上述挑战，荔枝集团音频团队提出了一种轻量的降噪方案，该方案不仅能处理日常生活中常见的平稳和非平稳噪声，而且能很好的保留语音的音质，同时该 AI 降噪模型在运行时占用的内存和 CPU 消耗都极低，满足了全量 iPhone 机型以及大部分 Android 中低端机型。</p>\n<p><strong>听众受益</strong></p>\n<ul>\n<li>了解深度学习和机器学习</li>\n<li>了解音频相关算法</li>\n<li>AI 模型设计和落地</li>\n<li>高性能计算</li>\n</ul>",
+    "publish_time": "2022-10-28 10:15:54",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
