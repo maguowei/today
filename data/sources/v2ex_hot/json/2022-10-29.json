@@ -42,5 +42,60 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "开车违章了，老哥们帮忙看下会怎么处罚",
+    "url": "https://www.v2ex.com/t/890863",
+    "summary": "yumenawei: 在最左侧车道，左转向灯绿灯，直行灯红灯。<br /><br />车道允许直行和左转。<br /><br />看眼前的灯是绿灯就直接直行过去了。没反应过来绿灯其实是左转向的。<br /><br />老哥们，这个会怎么处罚呀？<br /><br />看网上，有说是闯红灯，有说是不按指示标志行驶的，懂的老哥讨论下。",
+    "publish_time": "2022-10-29 00:09:19",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "Vue 子组件双向绑定父组件数据对象内部多个属性，应该用什么方式实现？",
+    "url": "https://www.v2ex.com/t/890909",
+    "summary": "ignor: <p>假设父组件数据对象 parentData 的结构为:</p>\n<pre><code>{\n  a: xxx,\n  b: yyy,\n（后续会添加其他属性）\n}\n</code></pre>\n<p>现在需要写一个可以编辑 parentData 的 component ，能像这样使用：</p>\n<pre><code>&lt;EditorComponent v-model:parent-data=\"parentData\"/&gt;\n</code></pre>\n<p>在 EditorComponent 里，有两个 input 可以修改 a 、b 这两个属性。由于子组件不能直接修改父组件的数据，emit update 又只能对 parentData 做整块的赋值，所以目前的思路如下</p>\n<p>先在 EditorComponent 内部复制一份 dataCopy：</p>\n<pre><code>data: {\n  dataCopy = null\n},\nwatch: {\n  parentData: {\n    deep: true,\n    handler: function (val) {\n      this.dataCopy = val\n    }\n  }\n}\n</code></pre>\n<p>然后有两种处理方式：</p>\n<p>1.<br />\n两个 input 绑定 dataCopy 的数据：</p>\n<pre><code>&lt;input v-model=\"dataCopy.a\"/&gt;\n&lt;input v-model=\"dataCopy.b\"/&gt;\n</code></pre>\n<p>这样的话，如果要更新 parentData ，得在 dataCopy 上加一个 watcher ，然后</p>\n<pre><code>this.$emit('update:parentData', val)\n</code></pre>\n<p>但这似乎是不可取的，会造成来回无限更新</p>\n<p>2.<br />\n把 input 的 v-model 拆开，加两个方法 updateA 、updateB：</p>\n<pre><code>&lt;input :value=\"dataCopy.a\" @input=\"updateA\"/&gt;\n&lt;input :value=\"dataCopy.b\" @input=\"updateB\"/&gt;\n</code></pre>\n<p>然后在每个 update 里把 event 的值先赋给 dataCopy ，再</p>\n<pre><code>this.$emit('update:parentData', this.dataCopy)\n</code></pre>\n<p>这样属性一多就很麻烦很臃肿了</p>\n<p>所以实现这样一个 EditorComponent 的规范思路应该是怎样的？（只看了基础教学就上手做了，不知道是否漏掉了什么重要概念……）</p>",
+    "publish_time": "2022-10-29 11:09:10",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "V 友们， 1W2 的预算是买 mbp 多少配置的好？",
+    "url": "https://www.v2ex.com/t/890913",
+    "summary": "zhiyu1998: 目前预算在 1W2 ，以目前的加个来看 mbp 的 14 寸 16g 8 核狗东好像在 1W2 不到的价格<br /><br />但是我问了我朋友说是直接咬咬牙，跺跺脚买一个 14 寸 32g 的 mbp ，现在就很纠结要不要超前消费一波<br /><br />有没有用过 14 寸 16g mbp 的 Java 开发朋友说一下感受的，哈哈哈<br />目前用来是开发 Java 公司基本上是微服务开发 一般得开着几个 idea 现在的 16g 笔记本 win10 占 60%左右，不知道转到 16g 的 mbp 是否合适？或是转 32g ？",
+    "publish_time": "2022-10-29 11:42:51",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "有个疑问， M1/M2 如果系统出问题之后？",
+    "url": "https://www.v2ex.com/t/890916",
+    "summary": "zero3412: <p>现在基本硬盘烧在主板上。</p>\n<p>如果，如果哦，系统出问题无法启动、开机、亮机，在不重装系统的情况下（没有备份）\n在硬盘没坏的情况下，如何读取数据？</p>",
+    "publish_time": "2022-10-29 11:50:14",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "打算在家部署在线网站，需要买云服务器做流量转发吗？",
+    "url": "https://www.v2ex.com/t/890927",
+    "summary": "Nillouise: <p>目前我家里的网速是 6m 上传，这个在线网站不需要域名、固定 IP ，也不需要 80 端口，我这光猫支持 ipv6 ，可以直接用这个 ipv6 地址吗？</p>\n<p>还是说打电话给联通让他开一个公网 ip ，或者只能买个腾讯云做公网 ip 的中转？</p>\n<p>v 友们有试过在家部署公网的网站吗？</p>",
+    "publish_time": "2022-10-29 12:34:42",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
