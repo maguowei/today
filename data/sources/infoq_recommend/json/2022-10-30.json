@@ -20,5 +20,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "Python 3.11正式版来了，比3.10快10-60%",
+    "url": "https://www.infoq.cn/article/XahMWSZLXwqYo6TWKDvg",
+    "summary": "<p>10月24日，Python官方发布了最新的3.11版本。根据官方资料显示最新发布的 Python 3.11 比 Python 3.10 快 10-60%，对用户更友好。这一版本历经 17 个月的开发，现在公开可用。</p><p>&nbsp;</p><p>Python 指导委员会成员 Pablo Galindo Salgado 在Twitter 上说：“为了使 3.11 成为最好的 Python 版本，我们付出了很多努力。 ”</p><p>&nbsp;</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/d4/d4fcde4f9cbfdc28d591409fa3d1c1f8.png\" /></p><p></p><p>&nbsp;</p><p>Python 3.11 的具体改进主要表现在：更详实的 Error Tracebacks、更快的代码执行、更好的异步任务语法、改进类型变量、支持 TOML 配置解析以及一些其他非常酷的功能（包括快速启动、Zero-Cost 异常处理、异常组等）。</p><p>&nbsp;</p><p>其中，<a href=\"https://peps.python.org/pep-0657/\">PEP 657</a>\"通过向开发人员提供更多信息，使某些 Python 错误消息更加清晰。这使得发现和修复缺陷变得更加容易。PEP 680 支持在 Python 标准库中解析 TOML，TOML 用于配置文件，自从 pyproject.toml 被作为 Python 打包的主要配置文件，TOML在 Python 社区中变得越来越流行。</p><p>&nbsp;</p><p>该版本中还有其他值得注意的 PEP：PEP 646 可变参数泛型 (Variadic Generics)、<a href=\"https://www.python.org/dev/peps/pep-0673/\">PEP 673</a>\"（Self 类型&nbsp;）、<a href=\"https://www.python.org/dev/peps/pep-0654/\">PEP 654</a>\"（Exception Groups and except*）和<a href=\"https://www.python.org/dev/peps/pep-0675/\">PEP 675</a>\"（任意文字字符串类型）等。</p><p>&nbsp;</p><p>最后，Python 3.11.0 添加了<a href=\"https://docs.python.org/3.11/whatsnew/3.11.html#build-changes\">对 WebAssembly 的原生支持</a>\"。这应该会催生更多像<a href=\"https://pyodide.org/\">Pyodide</a>\"这样的工具，它允许 Python 代码在浏览器的 JavaScript 环境中作为二进制文件运行。</p><p>&nbsp;</p><p>更多详情可查看：<a href=\"https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.python.org%2Fdownloads%2Frelease%2Fpython-3110%2F\">https://www.python.org/downloads/release/python-3110/</a>\"</p>",
+    "publish_time": "2022-10-30 15:47:53",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
