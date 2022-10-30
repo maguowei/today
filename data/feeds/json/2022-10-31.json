@@ -1509,5 +1509,118 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "买对眼霜不踩雷",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B9%B0%E5%AF%B9%E7%9C%BC%E9%9C%9C%E4%B8%8D%E8%B8%A9%E9%9B%B7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "敬下一个百年",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%95%AC%E4%B8%8B%E4%B8%80%E4%B8%AA%E7%99%BE%E5%B9%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "今冬浙江或有超强寒潮",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%86%AC%E6%B5%99%E6%B1%9F%E6%88%96%E6%9C%89%E8%B6%85%E5%BC%BA%E5%AF%92%E6%BD%AE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "新发现挑战了万有引力定律",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8F%91%E7%8E%B0%E6%8C%91%E6%88%98%E4%BA%86%E4%B8%87%E6%9C%89%E5%BC%95%E5%8A%9B%E5%AE%9A%E5%BE%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Tell HN: WhatsApp appears to be censoring references to Signal",
+    "url": "https://news.ycombinator.com/item?id=33397973",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33397973\">Comments</a>",
+    "publish_time": "2022-10-31 03:52:03",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ent: An Entity Framework for Go",
+    "url": "https://github.com/ent/ent",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33398806\">Comments</a>",
+    "publish_time": "2022-10-31 05:16:39",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "If one GUI's not enough for your SPARC workstation, try four",
+    "url": "http://oldvcr.blogspot.com/2022/10/if-one-guis-not-enough-for-your-sparc.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33398600\">Comments</a>",
+    "publish_time": "2022-10-31 04:58:35",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "US Supreme Court poised to ban affirmative action in university admissions",
+    "url": "https://www.nature.com/articles/d41586-022-03470-5",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33398928\">Comments</a>",
+    "publish_time": "2022-10-31 05:29:37",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Charge Robotics (YC S21) is hiring meches to build robots that build solar farms",
+    "url": "https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33398632\">Comments</a>",
+    "publish_time": "2022-10-31 05:01:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Twitter features Mastodon is better for not having",
+    "url": "https://scott.mn/2022/10/29/twitter_features_mastodon_is_better_without/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33398776\">Comments</a>",
+    "publish_time": "2022-10-31 05:13:50",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A 23-byte “hello, world” program assembled with DEBUG.EXE in MS-DOS",
+    "url": "https://github.com/susam/hello",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33398130\">Comments</a>",
+    "publish_time": "2022-10-31 04:07:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
