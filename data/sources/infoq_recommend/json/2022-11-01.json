@@ -1,0 +1,13 @@
+[
+  {
+    "title": "MIT发布网络安全零信任调查报告：零信任不是你想开就能开",
+    "url": "https://www.infoq.cn/article/yxRL3v4LfwTEGBBujpTI",
+    "summary": "<p>今年早些时候，<a href=\"https://www.technologyreview.com/\">MIT Technology Review</a>\"做了一项调查，向全球商业领袖了解了他们当前对于网络安全的担忧和未来计划。今年的报告涉及256名受访者，其中70%是高管或董事。2022年9月19日，MIT Technology Review发布了他们的研究结果：<a href=\"https://www.technologyreview.com/2022/09/19/1059250/zero-trust-closes-the-end-user-gap-in-cybersecurity/\">零信任消除了终端用户在网络安全方面的差距</a>\"。</p><p>&nbsp;</p><p>本报告聚焦于网络安全方法，主要说明了组织如何采用密码之外的新方法来防御网络攻击。</p><p>&nbsp;</p><p>一般来说，网络罪犯都是从钓鱼邮件入手攻击终端用户的系统。具体来说，68%的受访者担心云应用程序和数据会遭到恶意软件、勒索软件和钓鱼攻击。该报告还发现，55%的受访者表示，企业面临的第一大网络安全挑战是如何在混合办公或完全远程办公环境下确保安全。其原因是新冠肺炎让云计算成了焦点：封锁让数百万人回到家中，他们在家中远程连接到公司系统，通常是使用个人设备，而不是雇主提供的设备。他们面临的第二大和第三大挑战分别是保护云基础设施免受攻击和保护企业IT软件免受攻击，持此看法的受访者分别有49%和48%。</p><p>&nbsp;</p><p>为了确保云在新冠肺炎期间免受日益猖獗的网络犯罪的影响，零信任网络安全理念是改造全球网络的关键。如果没有自己属于那里的证明，那么这些网络、网站或应用程序就不允许你访问（或留在那里），而且它们会监控意外行为。一个关键的发现是，大约40%的受访者采用了零信任模型，另有18%的受访者正在实施，17%的受访者正在规划。</p><p>&nbsp;</p><p>至于不同组织的零信任采用之路，报告发现，大约46%的受访者认为，最大的挑战是将模型集成到遗留的IT基础设施中，或者用兼容零信任的系统替换旧系统。Molina Healthcare首席安全官Mike Wilson也表示：</p><p>&nbsp;</p><p></p><blockquote>零信任不是一个你想打开就打开的开关，而是在本地对数据进行控制的一种理念。</blockquote><p></p><p>&nbsp;</p><p>好消息是，零信任不是一个全有或全无的问题，而是可以根据组织最需要保护的资产来逐步采用。一个成功的零信任策略需要所有供应商协同工作，以确保他们负责的应用程序或领域的访问安全。有些遗留系统可能无法立即适应零信任方法，但可以预见，针对核心系统的零信任策略会增加组织在IT和人员方面的投资。将有越来越多的组织在网络安全项目中小规模地构建零信任模型。</p><p>&nbsp;</p><p>感兴趣的读者可以从MIT Technology Review Insights<a href=\"https://bit.ly/3Lq84q8\">下载报告全文</a>\"。</p><p>&nbsp;</p><p>&nbsp;</p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2022/10/zero-trust-cybersecurity/\">https://www.infoq.com/news/2022/10/zero-trust-cybersecurity/</a>\"</p><p></p><p>相关阅读：</p><p><a href=\"https://www.infoq.cn/article/R4ZfdijOEfQqg9muFlGS\">零信任对 Kubernetes 意味着什么？</a>\"</p><p><a href=\"https://www.infoq.cn/article/cyp8cGxllDNxd6Zl3jbr\">开发人员应该知道的零信任模型</a>\"</p><p><a href=\"https://www.infoq.cn/article/ZUxMqUtEtQYLvBVc9fTX\">如何使用零信任安全技术对抗内外威胁</a>\"</p>",
+    "publish_time": "2022-11-01 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
