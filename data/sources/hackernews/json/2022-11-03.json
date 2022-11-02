@@ -163,5 +163,16 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "PR that converts the TypeScript repo from namespaces to modules",
+    "url": "https://github.com/microsoft/TypeScript/pull/51387",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33440030\">Comments</a>",
+    "publish_time": "2022-11-03 01:49:05",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
