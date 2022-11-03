@@ -664,5 +664,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "闪光的一平米",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%97%AA%E5%85%89%E7%9A%84%E4%B8%80%E5%B9%B3%E7%B1%B3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "王铮亮一个人背了0713所有人的锅",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%93%AE%E4%BA%AE%E4%B8%80%E4%B8%AA%E4%BA%BA%E8%83%8C%E4%BA%860713%E6%89%80%E6%9C%89%E4%BA%BA%E7%9A%84%E9%94%85%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "李宇春加盟披荆斩棘总决赛",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E5%8A%A0%E7%9B%9F%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%80%BB%E5%86%B3%E8%B5%9B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
