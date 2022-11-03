@@ -1235,5 +1235,54 @@
       "desc": "知乎热榜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
     }
+  },
+  {
+    "title": "促醒者女子24小时待机工作导致瘫痪",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BF%83%E9%86%92%E8%80%85%E5%A5%B3%E5%AD%9024%E5%B0%8F%E6%97%B6%E5%BE%85%E6%9C%BA%E5%B7%A5%E4%BD%9C%E5%AF%BC%E8%87%B4%E7%98%AB%E7%97%AA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "玩命学习是种怎样的体验？",
+    "url": "https://www.zhihu.com/question/35378591",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "很喜欢游戏，想转行做全职游戏主播，大家有什么建议吗？",
+    "url": "https://www.zhihu.com/question/564245418",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "UN Votes Overwhelmingly to Condemn US Embargo of Cuba",
+    "url": "https://www.usnews.com/news/us/articles/2022-11-03/un-votes-overwhelmingly-to-condemn-us-embargo-of-cuba",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33455031\">Comments</a>",
+    "publish_time": "2022-11-04 02:11:37",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Linux Boot Partitions",
+    "url": "https://0pointer.net/blog/linux-boot-partitions.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33455052\">Comments</a>",
+    "publish_time": "2022-11-04 02:13:25",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
