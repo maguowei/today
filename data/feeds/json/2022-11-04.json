@@ -1449,5 +1449,90 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "和雪豹对视是什么体验",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%92%8C%E9%9B%AA%E8%B1%B9%E5%AF%B9%E8%A7%86%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "还是小时候的价格",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%98%E6%98%AF%E5%B0%8F%E6%97%B6%E5%80%99%E7%9A%84%E4%BB%B7%E6%A0%BC%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "能怪别人绝不怪自己",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%83%BD%E6%80%AA%E5%88%AB%E4%BA%BA%E7%BB%9D%E4%B8%8D%E6%80%AA%E8%87%AA%E5%B7%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "为什么总会怀念过去",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%80%BB%E4%BC%9A%E6%80%80%E5%BF%B5%E8%BF%87%E5%8E%BB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "在小学阶段有没有必要让孩子做家务？",
+    "url": "https://www.zhihu.com/question/562442153",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "深圳人社局答复保障女职工生理假期，「按规定可适当休 1 至 2 天」，该举措如何有效落实？",
+    "url": "https://www.zhihu.com/question/564391633",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何看待全国80所高校学生「实战」双十一，边赚学分边创业，在校大学生有哪些方式可以提升就业竞争力？",
+    "url": "https://www.zhihu.com/question/564415930",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Crows Found to Be Smarter Than We Think",
+    "url": "https://www.wsj.com/articles/crows-found-to-be-smarter-than-we-think-11667412092",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33454205\">Comments</a>",
+    "publish_time": "2022-11-04 01:14:24",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "We've filed a lawsuit against GitHub Copilot",
+    "url": "https://githubcopilotlitigation.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33457063\">Comments</a>",
+    "publish_time": "2022-11-04 04:30:26",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
