@@ -628,5 +628,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "请回答2047",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%AF%B7%E5%9B%9E%E7%AD%942047%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "武磊6场7球",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%AD%A6%E7%A3%8A6%E5%9C%BA7%E7%90%83%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
