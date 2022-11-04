@@ -1250,5 +1250,103 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "和平精英四排节",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E5%9B%9B%E6%8E%92%E8%8A%82%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "四肢全无半截人靠嘴养鸡养鸭谋生",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%9B%9B%E8%82%A2%E5%85%A8%E6%97%A0%E5%8D%8A%E6%88%AA%E4%BA%BA%E9%9D%A0%E5%98%B4%E5%85%BB%E9%B8%A1%E5%85%BB%E9%B8%AD%E8%B0%8B%E7%94%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "起不来和睡不着哪个更痛苦",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B7%E4%B8%8D%E6%9D%A5%E5%92%8C%E7%9D%A1%E4%B8%8D%E7%9D%80%E5%93%AA%E4%B8%AA%E6%9B%B4%E7%97%9B%E8%8B%A6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "你什么时候发现真的有天赋差距的?",
+    "url": "https://www.zhihu.com/question/531148965",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价《一年一度喜剧大赛》第二季第六期中少爷和我的作品《警察和我》？",
+    "url": "https://www.zhihu.com/question/564651545",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "大一已经确定要考研的人，大学四年该怎样过？",
+    "url": "https://www.zhihu.com/question/265939871",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Thoughts about Twitter",
+    "url": "https://nolancaudill.com/2022/11/04/thoughts-about-twitter/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33471643\">Comments</a>",
+    "publish_time": "2022-11-05 02:37:42",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Lex Fridman Interviews Richard Feynman",
+    "url": "https://podcast.ai/?l=r",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33471182\">Comments</a>",
+    "publish_time": "2022-11-05 02:02:24",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Lilia (egg freezing, YC W20) Is Hiring a Content/Growth Marketer",
+    "url": "https://observant-hoodie-597.notion.site/Content-Growth-Marketer-at-Lilia-cb1caf11e7f542d38cd22b01213bad3c",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33471759\">Comments</a>",
+    "publish_time": "2022-11-05 02:45:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Many Companies Aren’t Prepared to Replace Underperforming CEOs",
+    "url": "https://www.gsb.stanford.edu/insights/many-companies-arent-prepared-replace-underperforming-ceos",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33471314\">Comments</a>",
+    "publish_time": "2022-11-05 02:09:45",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
