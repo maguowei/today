@@ -691,5 +691,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "2022体操世锦赛",
+    "url": "https://s.weibo.com/weibo?q=%232022%E4%BD%93%E6%93%8D%E4%B8%96%E9%94%A6%E8%B5%9B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "疫情期间可领取补贴系谣言",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%96%AB%E6%83%85%E6%9C%9F%E9%97%B4%E5%8F%AF%E9%A2%86%E5%8F%96%E8%A1%A5%E8%B4%B4%E7%B3%BB%E8%B0%A3%E8%A8%80%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
