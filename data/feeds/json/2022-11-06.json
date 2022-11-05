@@ -1258,5 +1258,34 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "谁是你心目中的冷脸神颜",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%98%AF%E4%BD%A0%E5%BF%83%E7%9B%AE%E4%B8%AD%E7%9A%84%E5%86%B7%E8%84%B8%E7%A5%9E%E9%A2%9C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何看待《原神》须弥小吉祥草王「 白草净华·纳西妲」传说任务「智慧主之章 」剧情内容？",
+    "url": "https://www.zhihu.com/question/563752745",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Tell HN: A hacker's life is in danger, your awareness may be life saving",
+    "url": "https://news.ycombinator.com/item?id=33484185",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33484185\">Comments</a>",
+    "publish_time": "2022-11-06 02:25:55",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
