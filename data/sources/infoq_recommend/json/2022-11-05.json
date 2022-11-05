@@ -20,5 +20,27 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "开源大数据热力报告2022",
+    "url": "https://www.infoq.cn/article/bKbCdRfqi0X9AQkQBPGl",
+    "summary": "<p>11月5日，由开放原子开源基金会、X-lab开放实验室和阿里巴巴开源委员会联合出品、InfoQ战略支持的《2022年开源大数据热力报告》重磅发布。报告基于公开数据研究最活跃的102个开源大数据项目，探寻出开源大数据技术发展背后的“摩尔定律”：每隔40个月，开源项目热力值就会翻一倍，技术完成一轮更新迭代。在过去8年里，发生了5次较大规模的技术热力跃迁，多元化、一体化、云原生成为当前开源大数据发展趋势的最显著特征。</p>",
+    "publish_time": "2022-11-05 15:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "“后Hadoop时代”技术热力跃迁：《2022开源大数据热力报告》重磅发布",
+    "url": "https://www.infoq.cn/article/89vXVzIjD2DJLEMQNN83",
+    "summary": "<p>11月5日，在2022云栖大会一体化大数据智能峰会上，由开放原子开源基金会、X-lab开放实验室和阿里巴巴开源委员会联合出品的<a href=\"https://www.infoq.cn/minibook/bKbCdRfqi0X9AQkQBPGl\">《2022年开源大数据热力报告》</a>\"重磅发布。</p><p>&nbsp;</p><p>开放原子开源基金会副秘书长刘京娟女士对报告进行了深度解读。报告基于公开数据研究最活跃的102个开源大数据项目，探寻出开源大数据技术发展背后的“摩尔定律”：每隔40个月，开源项目热力值就会翻一倍，技术完成一轮更新迭代。在过去8年里，发生了5次较大规模的技术热力跃迁，多元化、一体化、云原生成为当前开源大数据发展趋势的最显著特征。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/7e/7efb30124586fcd429c2459287bf9d94.png\" /></p><p></p><p></p><h2>定量分析“后Hadoop时代”开源趋势</h2><p></p><p></p><p>Hadoop&nbsp;作为开源大数据技术的起源，兴起于2006年，至今已有16年历史。我们收集了从Hadoop&nbsp;发展第10年（即2015年）至今的相关公开数据，并进行了关联分析，定义了开源项目热力值研究模型，使用量化指标，来刻画开源项目的开发迭代活跃度和受开发者欢迎程度。</p><p>&nbsp;</p><p>报告所呈现的开源大数据热力图，从技术全景、技术栈分类以及项目维度对入围项目的热力表现进行洞察，将项目进程中的关键事件与热力表现关联分析，并访谈了开源基金会、知名开源项目等领域专家，尝试找到项目健康发展一般规律，并对有效提升项目影响力的方法论进行了归纳总结。</p><p>&nbsp;</p><p></p><h2>开源大数据技术的“摩尔定律”即将打破</h2><p></p><p></p><p>报告发现，每隔40个月，热力值会提升1倍，开源大数据完成一轮技术迭代升级，而且技术周期在加速缩短。在8年时间内，发生了多轮热力变迁，反映出背后技术的更新换代趋势。开发者对「数据查询与分析」保持了长期的开发热情，这一技术栈连续8年位于热力值榜首。2017年，「流处理」热力值超过「批处理」，大数据处理进入实时阶段。随着数据规模越来越大，数据结构更多样化，「数据集成」从2020年开始爆发式增长。</p><p></p><h2>三大热力趋势：多元化、一体化和云原生</h2><p></p><p></p><p>用户需求多样化推动技术多元化。「数据湖」以34%的热力值年均复合增长率高居热力值增速第一位，「交互式分析」、「DataOps」紧随其后，分列第二、三位&nbsp;。而原有Hadoop体系的产品迭代则趋于稳定，热力值年均复合增长率为1%。</p><p></p><p>从2015年开始，计算部分率先进入「一体化」演进历程，其中的典型代表「流批一体」在2019年出现第一个热力峰值。以数据湖存储为代表的存储一体化从2019年起进入了一个新的发展阶段，涌现了Delta&nbsp;Lake、&nbsp;Iceberg和Hudi等热点项目。</p><p></p><p>云原生大规模重构开源技术栈。诞生于云原生时代的开源项目如雨后春笋般破土成长。「数据集成」、「数据存储」、「数据开发与管理」等领域都发生了非常大的项目更迭，新项目热力值占比已经超过了80%。</p><p></p><h2>开源大数据热力榜单TOP30</h2><p></p><p></p><p>本报告从102个入围项目中，评选出了TOP30热力榜单。Kibana以989.40的热力值高居榜首。ClickHouse（数据查询与分析）、Airflow（数据调度与编排）、Flink（流处理）、Airbyte（数据集成）分别摘得各自细分领域的TOP1。Pulsar、Doris、StarRocks、DolphinScheduler、SeaTunnel等一众中国开源项目也表现出高热力趋势。把解决用户痛点作为核心竞争力，是这些优秀开源项目的共同特征，这一特征保证它们与时俱进，成为热力趋势中的“常青树”。</p><p>&nbsp;</p><p><img src=\"https://static001.geekbang.org/infoq/75/75ab6a833399e28c5b257cfbad87bd85.png\" /></p><p></p><p></p><blockquote>致谢：感谢开源中国、InfoQ和阿里云开发者社区的战略支持，感谢对本报告内容产出做出重要贡献的32位专家和贡献者，感谢合作社区 CSDN、DataFun、Segmentfault思否、开源社等。</blockquote><p></p><p>&nbsp;</p><p>完整报告下载地址：<a href=\"https://www.infoq.cn/minibook/bKbCdRfqi0X9AQkQBPGl\">https://www.infoq.cn/minibook/bKbCdRfqi0X9AQkQBPGl</a>\"</p><p>&nbsp;</p>",
+    "publish_time": "2022-11-05 15:05:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
