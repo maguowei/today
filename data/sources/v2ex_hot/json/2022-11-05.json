@@ -9,5 +9,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "你们怎么管理自己的 leetcode 代码？",
+    "url": "https://www.v2ex.com/t/892824",
+    "summary": "movq: <p>我用 Java 写 leetcode ，每个题都是单独开一个 Java project ，然后建立一个 git 来管理代码（这样可以记录我的修改）</p>\n<p>但问题是我有 2 台机器，一个台式机一个笔记本，有时候会用台式机写，有时候会用笔记本写，这样代码分散到各处，其实挺麻烦的。</p>\n<p>如果要把所有的题目都用 git 管理，笔记本和台式机都和远程 git 同步，但这样单个 java project 里面又不能用 git 了</p>",
+    "publish_time": "2022-11-05 00:51:01",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "马斯克开始在推特 996 了…",
+    "url": "https://www.v2ex.com/t/892844",
+    "summary": "dguge:",
+    "publish_time": "2022-11-05 09:58:24",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
