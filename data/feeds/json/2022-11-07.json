@@ -1315,5 +1315,87 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "我的第一条卫星消息",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E6%9D%A1%E5%8D%AB%E6%98%9F%E6%B6%88%E6%81%AF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "人民网评供销社受关注",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E4%BE%9B%E9%94%80%E7%A4%BE%E5%8F%97%E5%85%B3%E6%B3%A8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "北京疫情防控形势更加严峻复杂",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E5%BD%A2%E5%8A%BF%E6%9B%B4%E5%8A%A0%E4%B8%A5%E5%B3%BB%E5%A4%8D%E6%9D%82%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Veloren is a multiplayer voxel RPG written in Rust",
+    "url": "https://veloren.net/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33496414\">Comments</a>",
+    "publish_time": "2022-11-07 03:58:56",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Twitter Now Asks Some Fired Workers to Please Come Back",
+    "url": "https://www.bloomberg.com/news/articles/2022-11-06/twitter-now-asks-some-fired-workers-to-please-come-back",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33496808\">Comments</a>",
+    "publish_time": "2022-11-07 04:36:19",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "2 years of fiddling with Rust – critical thoughts",
+    "url": "https://n-eq.github.io/blog/2022/11/01/rust-fiddling-2-years",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33497051\">Comments</a>",
+    "publish_time": "2022-11-07 04:57:25",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Barilla Passive Cooker",
+    "url": "https://www.barilla.com/en-gb/passive-cooking",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33497020\">Comments</a>",
+    "publish_time": "2022-11-07 04:55:17",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Meta Is Preparing to Notify Employees of Large-Scale Layoffs This Week",
+    "url": "https://www.wsj.com/articles/meta-is-preparing-to-notify-employees-of-large-scale-layoffs-this-week-11667767794",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33497012\">Comments</a>",
+    "publish_time": "2022-11-07 04:55:00",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
