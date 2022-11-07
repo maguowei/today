@@ -1413,5 +1413,125 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "全球人口将达80亿",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E4%BA%BA%E5%8F%A3%E5%B0%86%E8%BE%BE80%E4%BA%BF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "韩剧想你首播10周年",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%89%A7%E6%83%B3%E4%BD%A0%E9%A6%96%E6%92%AD10%E5%91%A8%E5%B9%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "宋亚东被粉丝堵厕所要合影",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E4%B8%9C%E8%A2%AB%E7%B2%89%E4%B8%9D%E5%A0%B5%E5%8E%95%E6%89%80%E8%A6%81%E5%90%88%E5%BD%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "可以写下一句你最喜欢的诗句吗？",
+    "url": "https://www.zhihu.com/question/561994320",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "是什么事情让你决心想好好挣钱了？",
+    "url": "https://www.zhihu.com/question/558655354",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "已经很努力了，但为什么不成功？",
+    "url": "https://www.zhihu.com/question/562850854",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "C isn't a programming language anymore",
+    "url": "https://faultlore.com/blah/c-isnt-a-language/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33509223\">Comments</a>",
+    "publish_time": "2022-11-08 01:42:16",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The most unethical thing I was asked to build while working at Twitter",
+    "url": "https://twitter.com/stevekrenzel/status/1589700721121058817",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33511016\">Comments</a>",
+    "publish_time": "2022-11-08 03:28:03",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Typography for Lawyers",
+    "url": "https://typographyforlawyers.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33510827\">Comments</a>",
+    "publish_time": "2022-11-08 03:15:33",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Malicious Python Packages Replace Crypto Addresses in Developer Clipboards",
+    "url": "https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33510487\">Comments</a>",
+    "publish_time": "2022-11-08 02:58:30",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Some Thoughts on Social Networking and Usenet",
+    "url": "https://jfm.carcosa.net/blog/computing/usenet/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33510169\">Comments</a>",
+    "publish_time": "2022-11-08 02:40:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Circadian lighting with Home Assistant: Like f.lux, but for your house",
+    "url": "https://tylercipriani.com/blog/2022/10/17/whole-house-circadian-lighting-with-home-assistant/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33509282\">Comments</a>",
+    "publish_time": "2022-11-08 01:46:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
