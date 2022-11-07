@@ -1651,5 +1651,143 @@
       "desc": "人民日报公众号",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
     }
+  },
+  {
+    "title": "微观中国国际进口博览会",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E8%A7%82%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%99%85%E8%BF%9B%E5%8F%A3%E5%8D%9A%E8%A7%88%E4%BC%9A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "95后女孩瘫痪20年自学捏粘土售卖",
+    "url": "https://s.weibo.com/weibo?q=%2395%E5%90%8E%E5%A5%B3%E5%AD%A9%E7%98%AB%E7%97%AA20%E5%B9%B4%E8%87%AA%E5%AD%A6%E6%8D%8F%E7%B2%98%E5%9C%9F%E5%94%AE%E5%8D%96%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "做生意都说要讲诚信，为什么销售产品的时候大家都不愿把成本价直接亮出来呢？",
+    "url": "https://www.zhihu.com/question/557637029",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如果不在同一个地方读书朋友友谊会变淡吗？",
+    "url": "https://www.zhihu.com/question/564065061",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "小说《红楼梦》中妙玉只是一个出家人，为何会嫌弃刘姥姥？",
+    "url": "https://www.zhihu.com/question/561503582",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "金钱有时间那么重要吗？",
+    "url": "https://www.zhihu.com/question/564962345",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "大学交不到知心朋友，独来独往正常吗？",
+    "url": "https://www.zhihu.com/question/564661269",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "我是高三生，我害怕我很努力，得不到成果，我该怎么办?",
+    "url": "https://www.zhihu.com/question/559765823",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Show HN: Fully-featured desktop gRPC/gRPC-Web client",
+    "url": "https://github.com/getezy/ezy",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33509674\">Comments</a>",
+    "publish_time": "2022-11-08 02:11:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Framework Laptops now have 4 Thunderbolt 4 ports",
+    "url": "https://frame.work/gb/en/blog/framework-laptops-are-now-thunderbolt-4-certified",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33511494\">Comments</a>",
+    "publish_time": "2022-11-08 03:59:07",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "LiteDB: A .NET embedded NoSQL database",
+    "url": "https://www.litedb.org/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33512302\">Comments</a>",
+    "publish_time": "2022-11-08 04:56:03",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ribbon Health (YC S17) engineers impact the status quo of healthcare",
+    "url": "https://www.ribbonhealth.com/blog/is-health-tech-the-next-big-industry-for-senior-software-engineer-opportunities/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33512375\">Comments</a>",
+    "publish_time": "2022-11-08 05:00:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Early stages of Google Docs support in the Ladybird browser",
+    "url": "https://twitter.com/awesomekling/status/1589711499672502274",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33511831\">Comments</a>",
+    "publish_time": "2022-11-08 04:22:26",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Monumental advance in number theory posted to the ArXiv by Yitang Zhang",
+    "url": "https://news.ycombinator.com/item?id=33512338",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33512338\">Comments</a>",
+    "publish_time": "2022-11-08 04:58:25",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
