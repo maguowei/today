@@ -1199,5 +1199,76 @@
       "desc": "人民日报公众号",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
     }
+  },
+  {
+    "title": "11月院线电影",
+    "url": "https://s.weibo.com/weibo?q=%2311%E6%9C%88%E9%99%A2%E7%BA%BF%E7%94%B5%E5%BD%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "转场算是被他玩明白了",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BD%AC%E5%9C%BA%E7%AE%97%E6%98%AF%E8%A2%AB%E4%BB%96%E7%8E%A9%E6%98%8E%E7%99%BD%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "北汽极狐汽车总裁王秋凤因个人原因辞职，品牌此前连续两年亏损超 50 亿元，有哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/565168567",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Can the FBI Be Saved from Itself–and Can We Be Saved from the FBI?",
+    "url": "https://www.commentary.org/articles/eli-lake/fbi-needs-new-reforms/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33521979\">Comments</a>",
+    "publish_time": "2022-11-09 01:55:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Unix as a tool forge (and how Emacs fits in Unix philosophy)",
+    "url": "https://lambdaland.org/posts/2022-11-07_unix_philosophy/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33522735\">Comments</a>",
+    "publish_time": "2022-11-09 02:53:16",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Veterans find relief from nightmares with NightWare and Apple Watch",
+    "url": "https://www.apple.com/newsroom/2022/11/veterans-find-relief-from-nightmares-with-nightware-and-apple-watch/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33522647\">Comments</a>",
+    "publish_time": "2022-11-09 02:44:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "“It would be career limiting “",
+    "url": "https://doomedprojects.com/post/it-would-be-career-limiting",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33522495\">Comments</a>",
+    "publish_time": "2022-11-09 02:32:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
