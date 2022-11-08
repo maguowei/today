@@ -1909,5 +1909,487 @@
       "desc": "人民日报公众号",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
     }
+  },
+  {
+    "title": "2022进博会",
+    "url": "https://s.weibo.com/weibo?q=%232022%E8%BF%9B%E5%8D%9A%E4%BC%9A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "司机下车上厕所被要求隔离七天",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B8%E6%9C%BA%E4%B8%8B%E8%BD%A6%E4%B8%8A%E5%8E%95%E6%89%80%E8%A2%AB%E8%A6%81%E6%B1%82%E9%9A%94%E7%A6%BB%E4%B8%83%E5%A4%A9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "小伙清理舌苔误吞18厘米长牙刷",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E6%B8%85%E7%90%86%E8%88%8C%E8%8B%94%E8%AF%AF%E5%90%9E18%E5%8E%98%E7%B1%B3%E9%95%BF%E7%89%99%E5%88%B7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "赛琳娜给新肾脏命名",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B5%9B%E7%90%B3%E5%A8%9C%E7%BB%99%E6%96%B0%E8%82%BE%E8%84%8F%E5%91%BD%E5%90%8D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "嫌打篮球太吵老人从7楼扔饮料瓶",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AB%8C%E6%89%93%E7%AF%AE%E7%90%83%E5%A4%AA%E5%90%B5%E8%80%81%E4%BA%BA%E4%BB%8E7%E6%A5%BC%E6%89%94%E9%A5%AE%E6%96%99%E7%93%B6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "鲸整口吞下一群鱼画面太震撼",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%B2%B8%E6%95%B4%E5%8F%A3%E5%90%9E%E4%B8%8B%E4%B8%80%E7%BE%A4%E9%B1%BC%E7%94%BB%E9%9D%A2%E5%A4%AA%E9%9C%87%E6%92%BC%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "刘宇宁一念关山抢婚造型",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%E6%8A%A2%E5%A9%9A%E9%80%A0%E5%9E%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "老人患阿兹海默病与镜中自己聊天",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E6%82%A3%E9%98%BF%E5%85%B9%E6%B5%B7%E9%BB%98%E7%97%85%E4%B8%8E%E9%95%9C%E4%B8%AD%E8%87%AA%E5%B7%B1%E8%81%8A%E5%A4%A9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "3岁萌娃欺负姐妹爸爸竹鞭打床吓哭",
+    "url": "https://s.weibo.com/weibo?q=%233%E5%B2%81%E8%90%8C%E5%A8%83%E6%AC%BA%E8%B4%9F%E5%A7%90%E5%A6%B9%E7%88%B8%E7%88%B8%E7%AB%B9%E9%9E%AD%E6%89%93%E5%BA%8A%E5%90%93%E5%93%AD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "马斯克接管后推特用户增长创新高",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%8E%A5%E7%AE%A1%E5%90%8E%E6%8E%A8%E7%89%B9%E7%94%A8%E6%88%B7%E5%A2%9E%E9%95%BF%E5%88%9B%E6%96%B0%E9%AB%98%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "曝老板为让员工离职将座椅换塑料凳",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E8%80%81%E6%9D%BF%E4%B8%BA%E8%AE%A9%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%B0%86%E5%BA%A7%E6%A4%85%E6%8D%A2%E5%A1%91%E6%96%99%E5%87%B3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "航拍中国第四季",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%88%AA%E6%8B%8D%E4%B8%AD%E5%9B%BD%E7%AC%AC%E5%9B%9B%E5%AD%A3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "山西定襄外卖员回应日送65单",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E5%AE%9A%E8%A5%84%E5%A4%96%E5%8D%96%E5%91%98%E5%9B%9E%E5%BA%94%E6%97%A5%E9%80%8165%E5%8D%95%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "朔尔茨访华，布林肯对此表态「强烈同意」其所阐述的此次中国之行目标，哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/564830049",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何在体制内做一个处事“圆滑”的人?",
+    "url": "https://www.zhihu.com/question/563113343",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "11 月 8 日是中国记者节，从事新闻工作是种怎样的体验？你有哪些难忘的采访经历值得分享？",
+    "url": "https://www.zhihu.com/question/564217193",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "孩子性格比较孤僻，在幼儿园没有朋友，还被其他小朋友们孤立该怎么办？",
+    "url": "https://www.zhihu.com/question/517770104",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么 iOS 不搞双开功能？",
+    "url": "https://www.zhihu.com/question/491184956",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么《原神》中的博士和艾莉丝同为拿别人试药，没人骂艾莉丝？",
+    "url": "https://www.zhihu.com/question/557364506",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何看待腾讯在科学WE大会上发布的「科技树」？",
+    "url": "https://www.zhihu.com/question/565031303",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "油价迎两连涨，国内汽、柴油价格每吨分别提高 155 元和 150 元，将带来哪些影响？透露出哪些信息？",
+    "url": "https://www.zhihu.com/question/565203460",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "八部门发文「鼓励开放郊野公园提供露营服务」，如何看待这一提议？将带来哪些影响？",
+    "url": "https://www.zhihu.com/question/565204289",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "VR互动漫会成为未来看漫画的主流形式吗？",
+    "url": "https://www.zhihu.com/question/564978463",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Lyft第三季度营收10.538亿美元，净亏损同比扩大",
+    "url": "https://finance.sina.com.cn/tech/it/2022-11-08/doc-imqmmthc3695534.shtml",
+    "summary": "美国网约车公司Lyft公布2022财年第三季度财报。报告显示，Lyft第三季度营收为10.538亿美元，同比增长22%，环比增长6%；净亏损为4.222亿美元，与去年同期的净亏损9970万美元和上一季度的净亏损3.772亿美元相比均有所扩大；调整后净利润为3670万美元，相比之下去年同期的调整后净利润为1780万美元，而上一季度的调整后净利润为4640万美元。（新浪科技）",
+    "publish_time": "2022-11-08 07:16:52",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "汽车制造商Stellantis暂停在推特上投放付费广告",
+    "url": "https://www.jiemian.com/article/8342758.html",
+    "summary": "据路透社报道，汽车制造商Stellantis已暂停在Twitter上的所有付费广告。报道称，该汽车制造商在一份声明中表示：“我们暂停了付费广告的发布，直到我们对该平台在其新领导下的未来有了更清楚的认识。”（界面）",
+    "publish_time": "2022-11-08 07:20:05",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "中国气象局：不必谈“拉尼娜”色变，今冬冷空气总体偏弱",
+    "url": "http://www.stdaily.com/index/kejixinwen/202211/14afadb97d9f4863acfd43681e5e654c.shtml",
+    "summary": "“根据研判，预计今年冬季影响我国的冷空气强度总体偏弱，除了内蒙古东部和西部、东北地区北部、华南地区大部、西南地区东南部、西北地区中东部气温较常年同期偏低，全国其余地区气温接近常年同期或偏高。”国家气候中心副主任肖潺表示，拉尼娜事件只是影响秋冬季气候的因子之一，不必谈之色变，我国冬季气候还受到北极海冰、欧亚积雪等因子的影响，同时大气系统的内部变化也将起到重要的作用。（科技日报）",
+    "publish_time": "2022-11-08 07:21:33",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "海外长钱追加申购私募产品",
+    "url": "https://paper.cnstock.com/html/2022-11/08/content_1689768.htm",
+    "summary": "多家头部私募近日透露，海外长线资金对其旗下产品追加了申购。受访的业内人士表示，在外资机构看来，中国在全球资产市场将占据越来越重要的位置，不配置中国资产存在巨大的踏空风险。而且，纵览全球资本市场，A股的阿尔法收益极具吸引力，外资增配中国资产是中长期趋势。（上证报）",
+    "publish_time": "2022-11-08 07:22:58",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "亚朵集团更新招股书：发行定价区间为11-13美元/ADS",
+    "url": "https://www.sec.gov/Archives/edgar/data/1853717/000110465922115175/tm2111252-29_f1a.htm",
+    "summary": "36氪获悉，亚朵集团向美国证券交易委员会（SEC）提交了更新后的红鲱鱼招股书，计划以“ATAT”为股票代码在纳斯达克挂牌上市。本次IPO发行定价区间为11-13美元/ADS，雪湖资本作为基石投资者参与本次发行。招股书显示，亚朵集团2022年Q3单季度净利润达人民币1.11亿元；截至2022年9月30日，亚朵开业酒店数量增长至880家。",
+    "publish_time": "2022-11-08 07:25:58",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "富士康斥资1.7亿美元加购Lordstown股票",
+    "url": "https://www.jiemian.com/article/8342742.html",
+    "summary": "据《华尔街日报》报道，富士康计划斥资1.7亿美元，购买Lordstown普通股和新设立的优先股，为其提供新的资金注入，以提高其首款车型Endurance的产量。其还表示，双方将共同开发第一辆电动汽车，但并未提供有关项目的进一步细节。Lordstown表示，计划用股权出售所得聘请工程师，并为运营提供资金，包括生产首批500辆皮卡。（界面）",
+    "publish_time": "2022-11-08 07:28:15",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "动视暴雪第三季度营收17.82亿美元，净利润同比下降32%",
+    "url": "https://www.cls.cn/detail/1177609",
+    "summary": "动视暴雪公布2022财年第三季度财报。报告显示，动视暴雪第三季度净营收为17.82亿美元，相比之下去年同期为20.70亿美元；净预定收入（net bookins）为18.3亿美元，相比之下去年同期为18.8亿美元，同比下降3%，不计入汇率变动的影响为同比小幅增长；净利润为4.35亿美元，与去年同期的6.39亿美元相比下降32%。（新浪科技）",
+    "publish_time": "2022-11-08 07:29:12",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "美红十字会：1亿美国人可能在秋冬季感染新冠病毒",
+    "url": "https://content-static.cctvnews.cctv.com/snow-book/index.html?toc_style_id=feeds_default&share_to=wechat&item_id=8147705896992546539&track_id=C5CFD32A-7CEE-4E54-A54D-CB03698C233F_689555439464",
+    "summary": "当地时间11月7日，美国红十字会医疗主任拜亚·拉斯基警告称，美国有1亿人可能在即将到来的秋冬季感染新冠病毒，这也将导致献血减少。美媒报道称，冬季的自然灾害、恶劣天气、季节性疾病以及假期活动都会威胁到血液供应。（央视新闻）",
+    "publish_time": "2022-11-08 07:33:10",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "马斯克接手第一周推特用户增长创历史新高",
+    "url": "https://www.cls.cn/detail/1177610",
+    "summary": "据The Verge报道，外媒获得的一份推特内部常见问题解答（FAQ）显示，自马斯克接管推特一周以来，该社交平台的可货币化日活用户（mDAU）增长速度加快至20%以上，而“推特最大的市场美国的增长速度甚至更快”。根据该“常见问题解答”，自第二季度结束后，推特的可货币化日活用户增加了1500万，“超过了2.5亿大关”。这些数据意味着，在马斯克的执掌下，推特还没有出现大规模用户流失的情况。（财联社）",
+    "publish_time": "2022-11-08 07:34:51",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "美国将向英国提供约100亿立方米液化天然气",
+    "url": "https://www.jiemian.com/article/8342816.html",
+    "summary": "据英国《每日电讯报》11月7日报道，英国首相苏纳克准备在COP27气候峰会后宣布与美国达成天然气协议。报道称，协议将允许美国向英国提供约100亿立方米液化天然气（LNG）。这项交易处于最后阶段，预计将在一两周内完成。今年早些时候，美国同意向欧盟提供150亿立方米液化天然气。（界面）",
+    "publish_time": "2022-11-08 07:36:09",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "AMC院线和Zoom合作在部分影院提供会议室",
+    "url": "https://www.zhitongcaijing.com/content/detail/825525.html",
+    "summary": "AMC院线和Zoom周一宣布，他们将合作在美国一些AMC影院提供Zoom会议室。两家公司目前预计在2023年某个时候，在多达17个美国主要市场的AMC影院推出Zoom Rooms。推出后，用户将能够在线预订会议室，并选择他们喜欢的影院和会议时间。AMC和Zoom将提供必要的设备，以实现功能齐全的Zoom Rooms体验。（智通财经）",
+    "publish_time": "2022-11-08 07:36:55",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "年内“A并A”频发，涉及金额已超600亿元",
+    "url": "http://www.zqrb.cn/stock/gupiaoyaowen/2022-11-08/A1667835436743.html",
+    "summary": "据不完全统计，截至目前，年内类似京东方这样“A并A”案例已有11宗，涉及金额640.83亿元。其中已完成的有6宗，正在推进的有5宗。专家认为，当前市场估值水平处于历史相对低位，并购成本低，对于现金流充裕的并购方而言，是开拓业务新版图的良机。（证券日报）",
+    "publish_time": "2022-11-08 07:37:56",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "前工程师起诉推特：帮同事保存证据，遭公司报复性裁员",
+    "url": "https://finance.sina.com.cn/tech/internet/2022-11-08/doc-imqqsmrp5313585.shtml",
+    "summary": "据报道，一名上周在埃隆·马斯克的裁员令中被辞退的Twitter软件工程师向美国劳工主管部门投诉称，由于他帮助同事保存了工作邮件帐号中的信息，因此遭到该公司的报复。（新浪科技）",
+    "publish_time": "2022-11-08 07:39:04",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "德国将在2023年投入830亿欧元用于设定能源价格上限",
+    "url": "https://content-static.cctvnews.cctv.com/snow-book/index.html?toc_style_id=feeds_default&share_to=wechat&item_id=14149238304931400568&track_id=B6E893F6-7F39-45FB-ADA5-BF049F1E0A5F_689557528740",
+    "summary": "德国财政部长林德纳当地时间7日宣布，德国政府将在2023年投入830亿欧元用于设定天然气和电力价格上限。德国政府此前提出的2000亿欧元一揽子纾困计划将持续至2024年。按照该计划，2023年的花费将占一半以上。除了上述830亿欧元的支出外，德国政府还将花费150亿欧元用于救助能源巨头Uniper集团。（央视新闻）",
+    "publish_time": "2022-11-08 07:46:47",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "互动健身平台Peloton创始人办新企业：网上卖地毯",
+    "url": "https://finance.sina.com.cn/tech/it/2022-11-08/doc-imqmmthc3697640.shtml",
+    "summary": "据报道，互动健身平台Peloton的一些联合创始人，包括前首席执行官John Foley，已经开始了一项在互联网上销售定制地毯的新业务。Peloton的前首席法务官Hisao Kushi和前首席技术官Yony Feng与Foley一起推出了Ernesta，让人们可以以与在商店购买标准产品大致相同的价格购买定制设计和切割的地毯，而且配送速度快。该公司在周一的一份声明中说，该公司刚刚完成了2500万美元的A轮融资。（新浪科技）",
+    "publish_time": "2022-11-08 07:50:37",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "巴克莱：将苹果目标价从156美元下调至144美元，维持持股观望评级",
+    "url": "https://www.yicai.com/brief/101586933.html",
+    "summary": "巴克莱银行分析师Tim Long将苹果的目标价从156美元下调至144美元，并保持对该股的持股观望评级。分析师称，苹果此前警告称，由于富士康生产受阻，iPhone的pro机型出货量不足，分析师在渠道调查中也发现了较弱的卖出信号。Long认为，12月季度（Q1）8200万部iPhone的共识预期和3%的收入增长预期现在都太高了。（第一财经）",
+    "publish_time": "2022-11-08 07:52:23",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "欣旺达：GDR发行价格确定为每份15.30美元",
+    "url": "http://static.cninfo.com.cn/finalpage/2022-11-08/1215045873.PDF",
+    "summary": "36氪获悉，欣旺达发布公告称，瑞士GDR发行价格确定为每份15.30美元；公司本次发行的GDR数量为28,759,000份，所代表的基础证券A股股票为143,795,000股，募集资金总额约为4.40亿美元。预计本次发行的GDR于中欧时间2022年11月14日左右在瑞士证券交易所正式上市。",
+    "publish_time": "2022-11-08 07:53:15",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "中信建投：军工板块业绩稳健增长，行业景气度持续提升",
+    "url": "http://www.egsea.com/news/detail?id=1312788",
+    "summary": "中信建投证券研报认为，当前军工板块正处于局部景气向全面景气扩散的关键节点，中下游公司业绩加速拐点有望到来，近期板块回调较多，三季报业绩有望维持高景气，四季度为传统军工旺季，环比加速为大概率事件，建议坚定加大配置比例，板块有望重回升势。在投资策略上，首选“高景气赛道、军品占比高、业绩增速快”的标的，次选“估值低分位，边际变化大”的标的，同时重点关注国改受益标的。（证券时报）",
+    "publish_time": "2022-11-08 07:55:51",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "特斯拉：现车限时提车保险补贴方案已上线",
+    "url": "https://share.api.weibo.cn/share/346522143,4833439809537800.html?weibo_id=4833439809537800&wx=1",
+    "summary": "36氪获悉，据特斯拉官博，特斯拉现车限时提车保险补贴方案已上线。11月8日（含）至11月30日（含），购买现车及合作保险机构车险组合并按期完成提车，尾款可减8000元；12月1日（含）至12月31日（含），尾款可减4000元。",
+    "publish_time": "2022-11-08 08:00:41",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "全球抗击干旱联盟正式启动",
+    "url": "https://content-static.cctvnews.cctv.com/snow-book/index.html?toc_style_id=feeds_default&share_to=wechat&item_id=3767487887968543010&track_id=FD3DBE3E-2379-4745-B1C8-23AF90EEFD8A_689558469327",
+    "summary": "当地时间11月7日，在第27届联合国气候变化大会期间，全球抗击干旱联盟正式启动。这一联盟的启动是为了履行2021年9月宣布的应对旱灾的全球倡议。西班牙首相桑切斯和塞内加尔总统萨勒提出的启动全球抗击干旱联盟倡议得到了与会各方的支持，共计30个国家和20个与会组织对启动全球抗击干旱联盟的倡议表示支持。（央视新闻）",
+    "publish_time": "2022-11-08 08:01:36",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "架构师（2022年11月）",
+    "url": "https://www.infoq.cn/article/57l28ax6StEFl4TKSZ61",
+    "summary": "<h2>卷首语：专访“MySQL 之父”：要拥有一份能做一辈子的开发工作，需要给自己积累名望</h2>\n<p>“热爱”，是贯穿于“MySQL 之父” Monty 过往 40 年编程人生的关键词。</p>\n<p>60 岁的 Monty 现在仍在写代码，每周保持 60 个小时的高工作强度。他说，等到 80 岁时，才会考虑将工作缩短到 35 小时。编程这事儿，他还要干一辈子。</p>\n<h4>二十年磨一剑</h4>\n<p>InfoQ：您在 34 岁时开发出了 MySQL。从接触编程到开发出 MySQL，这段时间可真不短，您都做了哪些工作？</p>\n<p>Monty：我从 18 岁的时候就开始编写 MySQL 的最早一批代码了，这部分代码主要是 MySQL 内存控制方面的，所以最早的开发工作可以追溯到 1982 年左右。</p>\n<p>后来的开发工作都是以之前的成果为基础。在此期间，我也开发过不少硬件驱动程序，设计了一款不错的处理器，还做过很多游戏。</p>\n<p>InfoQ：这么长的开发历程，是什么让您一直坚持了下来？</p>\n<p>Monty：我想，是热爱。我喜欢做开发，我特别喜欢解决问题的感觉，特别是在开发 MySQL 和 MariaDB 的过程中。而且，我参与了开源，帮助很多人走向成功。我觉得这一切都能让人始终保持热情。</p>\n<p>InfoQ：从您写下第一行代码到开发出 MySQL，花费了近二十年时间。但目前市场上也有不少企业投入过十年甚至十五年来开发软件，但最终成果从来没能真正流行起来。你怎么看待这样的现实？</p>\n<p>Monty：我确实是用了快二十年才开发出 MySQL，但当时我没有想到未来这个软件会发展成什么样子。我将我的软件卖给了北欧最大的一家电脑公司，但后来，我的软件成了整个平台上最受欢迎的产品。</p>\n<p>你提到的这种情况也的确存在，很多公司耗时耗力，最终却一无所获。MySQL 的成功是与时代背景分不开的。当时互联网已经得到广泛认可，每个人都需要这样的数据库，用它创建互联网所需要的数据。当时那些技术巨头还不看好互联网，所以这是个有待开发的蓝海市场。</p>\n<p>其实只要意识到需求的存在，其他的就都好办了，所以我从 94 年开始正式编写MySQL。最终成果的发布大概是在 95 年末，也就是说，我们用了短短两年就开发出了 MySQL 的第一个版本，成为当时的新兴支撑性产品。</p>\n<p>InfoQ：技术圈内，您被誉为“编程天才”，您怎么看待这样的称呼？</p>\n<p>Monty：我觉得差不多，我在编程方面确实有点小天赋。</p>\n<p>InfoQ：我想不只是编程这一个领域吧，您在创业方面也很成功啊。</p>\n<p>Monty：嗯，我在企业家、开源倡导者、程序员和架构师几个角色上表现得都还可以。</p>\n<p>InfoQ：您是否会认为，如果一个人想在某个领域取得卓越的成就，天赋是不是比努力更重要？</p>\n<p>Monty：那是肯定的。毕竟在编程行业，一个优秀的程序员要胜过十个普通的程序员。这种优秀，源自天赋、努力工作，更源自想要了解一切的学习精神。</p>\n<p>所以在前二十年里，我每天基本上就是学习计算机、学习硬件、学习如何高效编程，学习怎么让计算机发挥出一切性能。有了这样的底子，我才能真正开始做自己的事。</p>\n<h4>转管理，不是程序员的尽头</h4>\n<p>InfoQ：从 MySQL 到 MariaDB，您已经证明了自己是位成功的企业家。但不是所有技术人员都能成长为管理者，在这方面您能不能分享一点经验？</p>\n<p>Monty：我觉得大多数开发人员就适合当开发者。</p>\n<p>我知道，一直都有些开发者屈服于现实，转而去做管理岗。但根据我的观察，他们大多数人的编程才能其实比管理才能要强得多。很多人就是为了钱，管理岗的收入应该是比开发者要高一些。</p>\n<p>但我觉得他们的天赋主要还是体现在开发上，最好能坚持下去，依靠自己的才能走向成功。</p>\n<p>InfoQ：您在 34 岁，也就是快接近中年时才开发出 MySQL。但在中国市场，35 岁以上的开发者往往会考虑转向管理岗。您怎么看待这种现象？</p>\n<p>Monty：我认为不应该这样。因为好程序员，特别是优秀的程序员其实更难找。虽然管理岗的薪水可能稍高一点，但却很容易被取代。所以只要大家有天赋，最好能坚持在技术的道路上走下去。</p>\n<p>至于 MySQL 这边，其实我从来不想当 CEO。我想做的是 CTO，负责技术方面的工作，毕竟我的天赋就在技术上。我觉得自己没有那份成为优秀全职管理者的天分。</p>\n<p>我把一生都投入到写代码上，我喜欢这活儿，也正是编程让我成为了独一无二的人。</p>\n<p>InfoQ：如您所说，转到管理岗后，就会得到更多资源，比如晋升机会更大、薪酬更高。相比于技术理想，这是很现实的考量，毕竟大部分人要养家糊口，您怎么看呢？</p>\n<p>Monty：我觉得很多企业在职业设计上都有这种错误。所以在 MySQL 和 MariaDB，我觉得与其靠让大家做管理来提升薪水，不如让他们承担起更多责任。有时候，职位的重要性比单纯的高薪水更有吸引力。这可以算是另一种思路吧。</p>\n<p>大家当然应该为自己的编程事业规划一条职业发展道路，但没必要把转管理岗当成唯一的方向。企业不需要那么多经理，而且在开始裁员的时候，管理岗都是最先倒霉的。毕竟经理人很容易替代，但优秀的程序员不可替代。他们掌握着企业最需要的代码知识，所以只要代码在，那岗位就在。</p>\n<h4>编程 40 年，如何保持技术前瞻性？</h4>\n<p>InfoQ：您的编程经历大概有四十年了。在这么长的从业过程中，您是怎么保持自己的技术前瞻性的？</p>\n<p>Monty：我的办法是信任客户。我的想法一直很坚定，那就是跟客户合作、解决问题，了解他们未来可能遇上的新问题，再共同将其克服。</p>\n<p>所以只要有了良好而且足够广泛的用户群体，比如 MySQL 和 MariaDB 建立起的客户基础，那他们就能告诉我，未来会走向哪里。</p>\n<p>我在等待未来的到来，同时也成为造就未来的一部分。所以，认真倾听客户意见，与他们合作，自然就能了解最新的技术。跟客户距离越近，我们就越了解功能需求，并据此安排自己的工作。</p>\n<p>对于开发者，我们要做的是为他们提供正确的技术、让他们满意。总之，只要明确了需要解决的问题，技术选型自然就会容易得多。</p>\n<p>InfoQ：那您会常跟社区中的开发者讨论技术问题吗？</p>\n<p>Monty：我经常参与技术会议，在那里跟与会者们交流。这也算是一种探讨吧。</p>\n<p>另外，在接触世界各国的客户，比如中国的客户时，也可以跟内部员工讨论关于 MySQL 和 MariaDB 的问题。他们代表的就不是客户，而是社区成员。所以我会认真倾听。</p>\n<p>InfoQ：对于想要学习 MariaDB 或 MySQL 的中国开发者，您有什么建议吗？</p>\n<p>Monty：首先应该积极参与到社区当中，帮助他人、改进实现。如果你需要某项功能，就想办法着手开发，并随时向 MariaDB 基金会寻求帮助。我们可以帮助大家，告诉你具体该怎么做。你审查过自己的代码吗？你也可以参与审查其他贡献者的代码，这就是实实在在的开源贡献。</p>\n<p>而要想成为一名出色的程序员，拥有一份能做一辈子的开发工作，那最好能让自己积累起名望，让自己在开源世界拥有一席之地。有了这些积累，就不是你找工作，而是工作来找你了。保持住好奇心，积极探索事情是如何运作的，这样我们就会变得更好，对企业的价值也越大。</p>\n<p>本文节选自InfoQ《专访“MySQL 之父”：我曾创造 MySQL，也将颠覆 MySQL》，作者：李冬梅。</p>\n<p><strong>目录</strong></p>\n<p><strong>热点 | Hot</strong></p>\n<p>DevOps 已死，平台工程才是未来</p>\n<p>上云“被坑”十年终放弃，寒冬里第一轮“下云潮”要来了？</p>\n<p>那位用 Rust 重写数据库的创始人来复盘了：删除 27 万行 C++ 代码，值吗</p>\n<p><strong>理论派 | Theory</strong></p>\n<p>字节大规模微服务语言发展之路</p>\n<p>去哪儿网 Service Mesh 落地实践：100% 容器化打底，业务友好是接入关键</p>\n<p><strong>推荐文章 | Article</strong></p>\n<p>新一波 JavaScript Web 框架</p>\n<p>字节跳动开源 BitSail：重构数据集成引擎，走向云原生化、实时化</p>\n<p><strong>观点 | Opinion</strong></p>\n<p>当“增加人员”不足以解决问题，你就该考虑应用“微前端”了</p>",
+    "publish_time": "2022-11-08 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "Docker 发布首个支持 WebAssembly 支持工具预览版",
+    "url": "https://www.infoq.cn/article/fc9kVXeSj3gylssSHFMD",
+    "summary": "<p>在KubeCon NA 2022大会的<a href=\"https://youtu.be/3j915xoDovs\">云原生Wasm活动日</a>\"中，Docker宣布与CNCF Wasm运行时项目<a href=\"https://github.com/WasmEdge/WasmEdge\">WasmEdge</a>\"合作推出<a href=\"https://www.docker.com/blog/docker-wasm-technical-preview/\">Docker+Wasm技术预览</a>\"。只需一个命令docker compose up，Docker开发人员就可以立即构建、分享和运行一个完整的Wasm应用程序。</p><p>&nbsp;</p><p>Wasm最初是作为Web浏览器的安全沙盒开发的。近年来，作为VM和Linux容器（LXC）的一个安全、轻量级、快速、可移植的替代方案，它在服务器端找到了许多应用场景——这一领域最初是由Docker开创的。</p><p>&nbsp;</p><p>Second State提供了一个<a href=\"https://github.com/second-state/microservice-rust-mysql\">标准的Docker+Wasm演示应用程序</a>\"。这是一个数据库驱动的Web应用程序，它包含一个用于运行整个Web服务（微服务）的WasmEdge“容器”，以及两个用于运行支持服务的Linux容器（一个用于MySQL数据库，一个用于为前端UI提供静态HTML页面的NGINX）。这三个容器在同一个网络中并行运行，共同组成一个应用程序。微服务用Rust编写，并编译成Wasm。它有一个高性能（非阻塞）的HTTP服务器、一个事件处理程序（处理HTTP请求的业务逻辑）和一个MySQL数据库客户端。整个“容器化”的微服务只有3MB，而相比之下，数据库和NGINX的Linux容器则有数百MB。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/2c/2c6238b0c85c353ea41e674e43e5f6bf.png\" /></p><p></p><p>图片来源：<a href=\"https://www.docker.com/blog/docker-wasm-technical-preview/\">Docker+Wasm技术预览简介</a>\"</p><p>&nbsp;</p><p><a href=\"https://github.com/docker/compose\">Docker Compose</a>\"不仅能将Wasm应用程序和容器一样运行，还会将Rust源代码构建为Wasm。开发人员甚至不需要安装Rust编译器工具链，因为Docker也已将整个构建环境容器化。Docker + Wasm是一个单独的工具，负责构建和运行Wasm应用程序。</p><p>&nbsp;</p><p>随着Docker发起了容器革命（导致了云原生时代的到来），Docker<a href=\"https://docs.docker.com/desktop/wasm/#running-a-multi-service-application-with-wasm\">在“多运行时”世界</a>\"中支持Wasm的努力变得特别有意义。</p><p></p><p></p><blockquote>Docker+Wasm的发布非常有意义。我们不再生活在单运行时的世界中，我们有Linux容器、Windows容器和Wasm容器。OCI可以打包它们，@docker可以构建和运行它们。—— Docker联合创始人<a href=\"https://twitter.com/solomonstre/status/1584817684172005376\">Solomon Hykes</a>\"</blockquote><p></p><p></p><p>Docker+Wasm背后的技术主要来自开源社区。例如，Docker依赖一个名为<a href=\"https://github.com/second-state/runwasi\">runwasi</a>\"的Containerd shim（<a href=\"https://github.com/deislabs/runwasi\">最初由微软的DeisLabs创建</a>\"）来启动WasmEdge并执行Wasm程序。</p><p>&nbsp;</p><p>开源工作已远远超出了Docker。例如，Red Hat团队已经<a href=\"https://opensource.com/article/22/10/wasm-containers\">将Wasm运行时支持集成到OCI运行时crrun</a>\"中。这<a href=\"https://wasmedge.org/book/en/use_cases/kubernetes.html\">使得整个Kubernetes栈能够完美支持WasmEdge应用</a>\"。事实上，在KubeCon活动的前几天，Liquid Reply团队已经演示了使用WasmEdge的<a href=\"https://github.com/KWasm/podman-wasm\">Podman+Wasm</a>\"。</p><p>&nbsp;</p><p>KubeCon活动上还演示了其他Wasm应用，包括：<a href=\"https://github.com/WasmEdge/wasmedge_hyper_demo/tree/main/server-tflite\">AI推理</a>\"应用、<a href=\"https://github.com/second-state/dapr-wasm\">基于Dapr的微服务</a>\"和<a href=\"https://github.com/second-state/MEGA\">流式管道中的数据处理功能</a>\"。现在，开发人员可以使用Docker+Wasm轻松地构建、分享和运行这些应用程序了。</p><p>&nbsp;</p><p>&nbsp;</p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2022/11/docker-webassembly/\">https://www.infoq.com/news/2022/11/docker-webassembly/</a>\"</p>",
+    "publish_time": "2022-11-08 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "The incidence of myocarditis and pericarditis in unvaccinated Covid patients",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/35456309/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33513030\">Comments</a>",
+    "publish_time": "2022-11-08 05:49:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Esperanto is not my favourite artificial language (2002)",
+    "url": "http://miresperanto.com/konkurentoj/not_my_favourite.htm",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33513666\">Comments</a>",
+    "publish_time": "2022-11-08 06:51:22",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "So I lost my OpenBSD FDE password (2016)",
+    "url": "https://words.filippo.io/so-i-lost-my-openbsd-fde-password/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33513876\">Comments</a>",
+    "publish_time": "2022-11-08 07:14:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
