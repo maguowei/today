@@ -700,5 +700,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "上新啦乌镇峰会",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%96%B0%E5%95%A6%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "张杰谢娜 爱的配方",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C+%E7%88%B1%E7%9A%84%E9%85%8D%E6%96%B9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "尾款人的吃鸡日常",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%BE%E6%AC%BE%E4%BA%BA%E7%9A%84%E5%90%83%E9%B8%A1%E6%97%A5%E5%B8%B8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
