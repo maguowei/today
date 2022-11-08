@@ -1070,5 +1070,134 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "你Standby了吗",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0Standby%E4%BA%86%E5%90%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "陈飞宇张婧仪涨粉情况",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%E5%BC%A0%E5%A9%A7%E4%BB%AA%E6%B6%A8%E7%B2%89%E6%83%85%E5%86%B5%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "儿童绘本出现裸身男子按摩画面",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%84%BF%E7%AB%A5%E7%BB%98%E6%9C%AC%E5%87%BA%E7%8E%B0%E8%A3%B8%E8%BA%AB%E7%94%B7%E5%AD%90%E6%8C%89%E6%91%A9%E7%94%BB%E9%9D%A2%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "鹿晗新歌战报",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%96%B0%E6%AD%8C%E6%88%98%E6%8A%A5%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "命韵峋环 二搭",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%91%BD%E9%9F%B5%E5%B3%8B%E7%8E%AF+%E4%BA%8C%E6%90%AD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "南京大学对政府管理学院周某相关问题的举报成立专班调查核实，哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/565380050",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "1991年第一次海湾战争，如果傻大木“超常发挥”将联军击败，海湾国家求和，伊拉克国际地位会是什么？",
+    "url": "https://www.zhihu.com/question/565352085",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Theranos Founder Elizabeth Holmes Is Denied a Bid for New Trial",
+    "url": "https://www.wsj.com/articles/theranos-founder-elizabeth-holmes-is-denied-a-bid-for-new-trial-11667888845",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33521144\">Comments</a>",
+    "publish_time": "2022-11-09 00:50:07",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Differential Datalog: a programming language for incremental computation",
+    "url": "https://github.com/vmware/differential-datalog",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33521561\">Comments</a>",
+    "publish_time": "2022-11-09 01:23:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Lie That Facebook Sold You",
+    "url": "https://havenweb.org/2022/11/02/facebook-lie.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33521278\">Comments</a>",
+    "publish_time": "2022-11-09 01:00:33",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Email Caste's Last Stand",
+    "url": "https://compactmag.com/article/the-email-caste-s-last-stand",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33521917\">Comments</a>",
+    "publish_time": "2022-11-09 01:49:50",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Launch HN: Medplum (YC S22) – Open-Source Firebase for Healthcare",
+    "url": "https://news.ycombinator.com/item?id=33521560",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33521560\">Comments</a>",
+    "publish_time": "2022-11-09 01:23:28",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "【夜读】让人保持清醒的三句话，越早知道越好",
+    "url": "https://mp.weixin.qq.com/s/tXBW9GPq7UlNEqXkKqWVBw",
+    "summary": "【夜读】让人保持清醒的三句话，越早知道越好",
+    "publish_time": "2022-11-09 01:12:20",
+    "source": {
+      "name": "people_daily_gzh",
+      "desc": "人民日报公众号",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
+    }
   }
 ]

@@ -520,5 +520,50 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "你Standby了吗",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0Standby%E4%BA%86%E5%90%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "陈飞宇张婧仪涨粉情况",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%E5%BC%A0%E5%A9%A7%E4%BB%AA%E6%B6%A8%E7%B2%89%E6%83%85%E5%86%B5%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "儿童绘本出现裸身男子按摩画面",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%84%BF%E7%AB%A5%E7%BB%98%E6%9C%AC%E5%87%BA%E7%8E%B0%E8%A3%B8%E8%BA%AB%E7%94%B7%E5%AD%90%E6%8C%89%E6%91%A9%E7%94%BB%E9%9D%A2%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "鹿晗新歌战报",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%96%B0%E6%AD%8C%E6%88%98%E6%8A%A5%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "命韵峋环 二搭",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%91%BD%E9%9F%B5%E5%B3%8B%E7%8E%AF+%E4%BA%8C%E6%90%AD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
