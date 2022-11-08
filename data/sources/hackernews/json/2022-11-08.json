@@ -559,5 +559,38 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Ouroboros: Packet networking rebuilt from the ground up",
+    "url": "https://ouroboros.rocks/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33515022\">Comments</a>",
+    "publish_time": "2022-11-08 09:46:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Found around 250 hilarious CS quotes while browsing Notepad++'s code (Line 7102)",
+    "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/blob/master/PowerEditor/src/Notepad_plus.cpp",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33516344\">Comments</a>",
+    "publish_time": "2022-11-08 14:05:16",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Maps and Memory Leaks in Go",
+    "url": "https://teivah.medium.com/maps-and-memory-leaks-in-go-a85ebe6e7e69",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33516297\">Comments</a>",
+    "publish_time": "2022-11-08 13:56:18",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
