@@ -1313,5 +1313,45 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "守护天使 自然微笑",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AE%88%E6%8A%A4%E5%A4%A9%E4%BD%BF+%E8%87%AA%E7%84%B6%E5%BE%AE%E7%AC%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "6岁女童被天降螺丝刀砸头重伤",
+    "url": "https://s.weibo.com/weibo?q=%236%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%A2%AB%E5%A4%A9%E9%99%8D%E8%9E%BA%E4%B8%9D%E5%88%80%E7%A0%B8%E5%A4%B4%E9%87%8D%E4%BC%A4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "The AI community expresses sympathy on Hacker News",
+    "url": "https://twitter.com/adeptailabs/status/1590396065072951296",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33535881\">Comments</a>",
+    "publish_time": "2022-11-10 02:31:30",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Neurosymbolic Programming for Science",
+    "url": "https://arxiv.org/abs/2210.05050",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33536657\">Comments</a>",
+    "publish_time": "2022-11-10 03:29:33",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
