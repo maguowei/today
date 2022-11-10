@@ -655,5 +655,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "绒山羊神似慢羊羊",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BB%92%E5%B1%B1%E7%BE%8A%E7%A5%9E%E4%BC%BC%E6%85%A2%E7%BE%8A%E7%BE%8A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "双十一",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%8C%E5%8D%81%E4%B8%80%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]

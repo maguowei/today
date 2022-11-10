@@ -1569,5 +1569,85 @@
       "desc": "人民日报公众号",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
     }
+  },
+  {
+    "title": "绒山羊神似慢羊羊",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BB%92%E5%B1%B1%E7%BE%8A%E7%A5%9E%E4%BC%BC%E6%85%A2%E7%BE%8A%E7%BE%8A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "双十一",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%8C%E5%8D%81%E4%B8%80%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "11 月 9 日 NBA 勇士国王裁判报告，漏吹库里走步克雷关键犯规，你对本场比赛有哪些评价？",
+    "url": "https://www.zhihu.com/question/565594625",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "儒家的荀子，为什么教出了韩非和李斯这两位法家大师？",
+    "url": "https://www.zhihu.com/question/367379132",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美股三大指数集体大幅收涨，大型科技股普涨",
+    "url": "https://www.36kr.com/newsflashes/1996299177997063",
+    "summary": "36氪获悉，10日收盘，美股三大指数集体大幅收涨，道指涨3.7%，纳指涨7.35%，标普500指数涨5.54%。大型科技股集体上涨，亚马逊涨超12%，Meta涨超10%，苹果、微软涨超8%，谷歌、特斯拉、Netflix涨超7%。热门中概股多数上涨，每日优鲜、B站涨超15%，阿里巴巴、理想汽车涨超7%，拼多多、京东涨超8%，爱奇艺涨超14%，蔚来涨超11%，小鹏汽车涨超5%。",
+    "publish_time": "2022-11-11 07:00:59",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Property-Based Testing in Rust with Arbitrary",
+    "url": "https://www.greyblake.com/blog/property-based-testing-in-rust-with-arbitrary/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33552816\">Comments</a>",
+    "publish_time": "2022-11-11 04:29:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "CRISPR cancer trial success paves the way for personalized treatments",
+    "url": "https://www.nature.com/articles/d41586-022-03676-7",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33554141\">Comments</a>",
+    "publish_time": "2022-11-11 06:04:54",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "来了！新闻早班车",
+    "url": "https://mp.weixin.qq.com/s/JVjax5zsv2Fmcaceiu7SZA",
+    "summary": "来了！新闻早班车",
+    "publish_time": "2022-11-11 06:20:49",
+    "source": {
+      "name": "people_daily_gzh",
+      "desc": "人民日报公众号",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
+    }
   }
 ]
