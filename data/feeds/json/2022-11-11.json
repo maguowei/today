@@ -1411,5 +1411,56 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "重庆疫情辟谣",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E7%96%AB%E6%83%85%E8%BE%9F%E8%B0%A3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "HYBE艺人明年活动计划",
+    "url": "https://s.weibo.com/weibo?q=%23HYBE%E8%89%BA%E4%BA%BA%E6%98%8E%E5%B9%B4%E6%B4%BB%E5%8A%A8%E8%AE%A1%E5%88%92%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "How Do You Slay a Dragon – A Manual for Startup Revolutionaries",
+    "url": "https://dragonbook.khodorkovsky.com/en/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33551809\">Comments</a>",
+    "publish_time": "2022-11-11 03:32:17",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "French court: refusing to disclose mobile passcode to law enforcement is a crime",
+    "url": "https://www.fairtrials.org/articles/news/french-court-rules-that-refusing-to-disclose-a-mobile-passcode-to-law-enforcement-is-a-criminal-offence/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33550824\">Comments</a>",
+    "publish_time": "2022-11-11 02:21:42",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "FTC Restores Rigorous Enforcement of Law Banning Unfair Methods of Competition",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2022/11/ftc-restores-rigorous-enforcement-law-banning-unfair-methods-competition",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33551789\">Comments</a>",
+    "publish_time": "2022-11-11 03:30:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
