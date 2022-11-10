@@ -31,5 +31,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "用了六年 Keepass 了，发现大家都在推荐 Bitwarden",
+    "url": "https://www.v2ex.com/t/894022",
+    "summary": "YR1044: 诸位大佬们，用过的说下这俩哪个更好呢？是否需要把 Keepass 淘汰迁移到 Bitwarden ？<br /><br />目前 Keepass 我比较中意的功能：<br />1.webdav 同步<br />2.全平台<br />3.windows hello 指纹解锁数据库（插件）<br />4.保存 ssh 密钥，监听系统的 ssh 链接自动调起密钥选择界面（插件）<br />5.通过加密协议，监听浏览器密码请求，将密码传输到浏览器（并非浏览器直接读取数据库文件，依然是客户端解锁）（插件）<br />6.支持通用的 6 位、steam 的 5 位两步验证器（插件）<br />7.密码历史版本<br />8.防读内存，防读剪贴板，防键盘记录器（双通道混淆）<br /><br />Bitwarden 能实现以上功能？或有其他优点吗？",
+    "publish_time": "2022-11-10 09:22:06",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
