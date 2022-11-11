@@ -1109,5 +1109,99 @@
       "desc": "人民日报公众号",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
     }
+  },
+  {
+    "title": "探寻中国式现代化之路",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%8E%A2%E5%AF%BB%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E4%B9%8B%E8%B7%AF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "蔡徐坤独自演偶像剧",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E7%8B%AC%E8%87%AA%E6%BC%94%E5%81%B6%E5%83%8F%E5%89%A7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "教师爸爸给5个月宝宝教高中函数",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E7%88%B8%E7%88%B8%E7%BB%995%E4%B8%AA%E6%9C%88%E5%AE%9D%E5%AE%9D%E6%95%99%E9%AB%98%E4%B8%AD%E5%87%BD%E6%95%B0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "猫咪粘上东西手速有多快",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8C%AB%E5%92%AA%E7%B2%98%E4%B8%8A%E4%B8%9C%E8%A5%BF%E6%89%8B%E9%80%9F%E6%9C%89%E5%A4%9A%E5%BF%AB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "11月11日男篮世界杯预选赛中国男篮81:72力克伊朗，如何评价中国队的表现？",
+    "url": "https://www.zhihu.com/question/566088172",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么猫会喜欢揣手手？",
+    "url": "https://www.zhihu.com/question/264022972",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价《一年一度喜剧大赛》第二季第八期的作品《遇人不赎》？",
+    "url": "https://www.zhihu.com/question/566067748",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "35岁后还能通过自我学习改变人生吗？",
+    "url": "https://www.zhihu.com/question/555652927",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Paperspace (YC W15) is hiring to build a better ML model deployment service",
+    "url": "https://www.paperspace.com/careers",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33564086\">Comments</a>",
+    "publish_time": "2022-11-12 01:49:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Demystifying Financial Leverage",
+    "url": "https://bam.kalzumeus.com/archive/demystifying-financial-leverage/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33563555\">Comments</a>",
+    "publish_time": "2022-11-12 01:16:07",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
