@@ -1301,5 +1301,100 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "陈小纭郝葭演我",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B0%8F%E7%BA%AD%E9%83%9D%E8%91%AD%E6%BC%94%E6%88%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "15岁不想上学出去打工，对吗？",
+    "url": "https://www.zhihu.com/question/565859352",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Surface Pro 9 teardown reveals modular parts, Microsoft’s 2023 repair plans",
+    "url": "https://arstechnica.com/gadgets/2022/11/surface-9-pro-teardown-reveals-modular-parts-microsofts-2023-repair-plans/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33575974\">Comments</a>",
+    "publish_time": "2022-11-13 03:03:42",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "California operates the largest, most efficient welfare program in the US",
+    "url": "https://philo.substack.com/p/whats-wrong-with-california",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33576090\">Comments</a>",
+    "publish_time": "2022-11-13 03:16:20",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: A GitHub business card generator",
+    "url": "https://github-business-card.vercel.app/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33575524\">Comments</a>",
+    "publish_time": "2022-11-13 02:17:22",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "WorldWideWeb: Proposal for a HyperText Project (1990)",
+    "url": "https://www.w3.org/Proposal.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33575479\">Comments</a>",
+    "publish_time": "2022-11-13 02:11:16",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A brief interview with Common Lisp co-creator Dr. Scott Fahlman",
+    "url": "https://pldb.com/posts/scottFalhmanInterview.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33574311\">Comments</a>",
+    "publish_time": "2022-11-13 00:07:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Analyzing Carbon Dioxide levels while attending IETF-115 in London, UK",
+    "url": "https://www.isi.edu/~hardaker/news/20221106-ietf-c02-analysis/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33575425\">Comments</a>",
+    "publish_time": "2022-11-13 02:05:03",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "【夜读】一个人赢得尊重的四种方式",
+    "url": "https://mp.weixin.qq.com/s/6GouQmDrWEJtepQXTtV6dA",
+    "summary": "【夜读】一个人赢得尊重的四种方式",
+    "publish_time": "2022-11-13 03:52:33",
+    "source": {
+      "name": "people_daily_gzh",
+      "desc": "人民日报公众号",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
+    }
   }
 ]
