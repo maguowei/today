@@ -372,5 +372,27 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": ".bestbuy",
+    "url": "http://nic.bestbuy/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33568059\">Comments</a>",
+    "publish_time": "2022-11-12 07:10:36",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Tunneling Internet through WhatsApp to get around network data usage limits",
+    "url": "https://github.com/aleixrodriala/wa-tunnel",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33568994\">Comments</a>",
+    "publish_time": "2022-11-12 09:17:42",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
