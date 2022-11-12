@@ -1396,5 +1396,76 @@
       "desc": "人民日报公众号",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
     }
+  },
+  {
+    "title": "伯克利黑帮",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BC%AF%E5%85%8B%E5%88%A9%E9%BB%91%E5%B8%AE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "苏有朋的第三部电影即将开机",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%9C%89%E6%9C%8B%E7%9A%84%E7%AC%AC%E4%B8%89%E9%83%A8%E7%94%B5%E5%BD%B1%E5%8D%B3%E5%B0%86%E5%BC%80%E6%9C%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "所谓24海里线不存在请注意用语",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%89%80%E8%B0%9324%E6%B5%B7%E9%87%8C%E7%BA%BF%E4%B8%8D%E5%AD%98%E5%9C%A8%E8%AF%B7%E6%B3%A8%E6%84%8F%E7%94%A8%E8%AF%AD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "B-17 bomber collides with smaller plane at Dallas airshow",
+    "url": "https://twitter.com/remarks/status/1591525604947824641",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33576700\">Comments</a>",
+    "publish_time": "2022-11-13 04:28:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "US military's X-37B space plane lands, ending record-breaking mystery mission",
+    "url": "https://www.space.com/space-force-x-37b-space-plane-otv-6-mission-ends",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33575551\">Comments</a>",
+    "publish_time": "2022-11-13 02:19:57",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Starfish and Coffee",
+    "url": "https://www.starfishandcoffeeofficial.com/pages/the-story",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33576372\">Comments</a>",
+    "publish_time": "2022-11-13 03:49:12",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Iranian man who lived in Paris’ Charles de Gaulle airport for 18 years dies",
+    "url": "https://www.theguardian.com/world/2022/nov/12/iranian-man-who-lived-in-paris-charles-de-gaulle-airport-for-18-years-dies",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33576267\">Comments</a>",
+    "publish_time": "2022-11-13 03:37:13",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
