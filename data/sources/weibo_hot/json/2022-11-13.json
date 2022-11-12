@@ -619,5 +619,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "KFC周日疯狂拼五菱",
+    "url": "https://s.weibo.com/weibo?q=%23KFC%E5%91%A8%E6%97%A5%E7%96%AF%E7%8B%82%E6%8B%BC%E4%BA%94%E8%8F%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "邻居称鲁某某是个有素质的人",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%82%BB%E5%B1%85%E7%A7%B0%E9%B2%81%E6%9F%90%E6%9F%90%E6%98%AF%E4%B8%AA%E6%9C%89%E7%B4%A0%E8%B4%A8%E7%9A%84%E4%BA%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
