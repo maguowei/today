@@ -53,5 +53,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "有没有发现 Android 系统的性能缺陷被硬件的发展给掩盖了",
+    "url": "https://www.v2ex.com/t/894703",
+    "summary": "Biwood: <p>Android 系统从发布之初就一直面临着卡顿问题，虽说现在芯片升级很多代了，Android 系统本身也升级了很多版本，卡顿情况相比以前少了一些，但是哪怕是各个厂家的旗舰机型，也还是无法完全规避，这应该是 Android 系统的天生缺陷吧。</p>\n<p>我自己曾经在 Linux 笔记本上折腾过各种虚拟机，机器配置是十代 i7 + 32GB 内存。在 Linux 上安装 Linux 虚拟机（包含桌面 GUI ），运行基本都很流畅。在 Linux 上安装 Windows 7 和 Windows 10 ，正常使用也没什么大问题。但是在 Linux 安装 Android 虚拟机（用的是最新版的<a href=\"https://anbox.io/\" rel=\"nofollow\">Anbox</a>），在什么都没安装的情况下，卡顿到到几乎不能用。这是否说明 Android 本身就是一个非常吃硬件性能的系统，它在移动端的性能缺陷完全靠硬件的堆叠来掩藏？</p>\n<p>然后我了解到谷歌搞了个新系统叫 <a href=\"https://zh.wikipedia.org/zh-cn/Google_Fuchsia\" rel=\"nofollow\">Google Fuchsia</a>，几乎是把 Linux 内核给重构了一遍，这玩意儿将来应该会取代 Android 吧。</p>",
+    "publish_time": "2022-11-12 15:36:08",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
