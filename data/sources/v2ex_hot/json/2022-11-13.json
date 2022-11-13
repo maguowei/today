@@ -53,5 +53,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "《FFmpeg 原理》第一版完成了",
+    "url": "https://www.v2ex.com/t/894803",
+    "summary": "loken2020: 本书《 FFmpeg 原理》主要讲解 FFmpeg 原理性的知识，前面几章主要讲解一些音视频开发的基础知识，例如原始数据 YUV 跟 RGB ，封装格式 FLV 跟 MP4 ，压缩编码的基本概念，还有封装格式分析。<br /><br />前面几章是音视频开发，流媒体技术的基础，后面的章节主要讲解如何搭建 FFmpeg 各种调试环境，同时提供 FFmpeg API 函数的使用示例，最重要的是 分析 ffmpeg.c 跟 ffplay.c 的源码逻辑。<br /><br />虽然官方没有提供太详细的 API 函数文档教程，但是官方提供了 ffmpeg.c 文件 ，大部分的 API 函数使用方法，都在这个文件的源码里面。<br /><br />基本上你用到的 FFmpeg 命令行 的所有功能，都是在 ffmpeg.c 里面实现的。包括 转换封装格式，转换编码格式，单独提取音频数据，给视频加滤镜 ，等等这些功能，都是在 ffmpeg.c 里面实现的。<br /><br />本书会用大量章节来分析 ffmpeg.c 里面的内部逻辑，让读者能从 整体上 理解 FFmpeg API 的使用。对 FFmpeg API 形成系统的理解之后，即便新版本的 FFmpeg 修改了 API 函数的用法，你也能从 ffmpeg.c 里面快速学会新版本的 API 函数的用法。<br /><br /><a href=\"https://ffmpeg.xianwaizhiyin.net/\" rel=\"nofollow noopener\" target=\"_blank\">https://ffmpeg.xianwaizhiyin.net/</a>",
+    "publish_time": "2022-11-13 08:23:38",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "三四线城市办了一个建行卡。确限额 300， 3 年期限。这个如何有效投诉。",
+    "url": "https://www.v2ex.com/t/894810",
+    "summary": "foreverstandbyu: 之前在北京办的卡都没有限额。回老家了却限额。<br />这个咋办。",
+    "publish_time": "2022-11-13 09:09:25",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "App 提交新版本被 App Store 拒了，问了我一个问题",
+    "url": "https://www.v2ex.com/t/894848",
+    "summary": "xiaoshan5733: <p>App 提交新版本，没想到被拒了，还问了一个小学生的问题 “为啥你的 App 需要登录 /注册呀？”，一时间给我整的不会了。原文如下：</p>\n<blockquote>\n<p>Guideline 2.1 - Information Needed</p>\n</blockquote>\n<blockquote>\n<p>We’re looking forward to completing the review of your app, but we need more information to continue.</p>\n</blockquote>\n<blockquote>\n<p>Next Steps</p>\n</blockquote>\n<blockquote>\n<p>Please provide detailed answers to the following questions in your reply to this message in App Store Connect:</p>\n</blockquote>\n<blockquote>\n<ul>\n<li>Why users need to login/register before they can use your app?</li>\n</ul>\n</blockquote>\n<blockquote>\n<p>Please see attached screenshot for details. </p>\n</blockquote>\n<p>大伙帮忙看下该怎么回答</p>",
+    "publish_time": "2022-11-13 12:29:38",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
