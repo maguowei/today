@@ -42,5 +42,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "求助， iPhone YouTube 出错，无法播放",
+    "url": "https://www.v2ex.com/t/894786",
+    "summary": "jesky: <h3>网络环境：</h3>\n<p>家庭联通宽带，路由器 AC86U ，梅林固件，clash 代理</p>\n<h3>症状：</h3>\n<p>iPhone 手机连 Wi-Fi ，使用 YouTube App 无法播放视频，提示“出错了点按即可重试”，截图如下：<br />\n<a href=\"https://imgur.com/a/s8EuTC5\" rel=\"nofollow\">https://imgur.com/a/s8EuTC5</a><br />\n但是预览图，评论等信息都正常加载<br />\n极低概率又可以正常播放，但是极低极低概率，确实又出现过</p>\n<h3>补充信息说明：</h3>\n<p>同一网络环境下<br />\n使用家人的 iPhone 测试有相同问题<br />\n我在 iPhone 使用浏览器打开 YouTube 网页可以正常播放<br />\n我在 iPhone 上使用其他需要代理的软件，如 instagram ，twitter ，正常使用<br />\n我在 iPhone 上运行 Quantumult 使用相同代理节点可以正常播放<br />\n我在电脑上使用浏览器访问 YouTube 可正常播放   </p>\n<p>所以问题在哪里呢</p>",
+    "publish_time": "2022-11-13 00:38:15",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
