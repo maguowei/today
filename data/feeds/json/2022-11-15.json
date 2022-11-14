@@ -1376,5 +1376,92 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "岚图智能电动仿生体",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B2%9A%E5%9B%BE%E6%99%BA%E8%83%BD%E7%94%B5%E5%8A%A8%E4%BB%BF%E7%94%9F%E4%BD%93%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "交大博士晒毕业照男女比例扎心",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%A4%E5%A4%A7%E5%8D%9A%E5%A3%AB%E6%99%92%E6%AF%95%E4%B8%9A%E7%85%A7%E7%94%B7%E5%A5%B3%E6%AF%94%E4%BE%8B%E6%89%8E%E5%BF%83%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "小狗可不是好欺负的",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%E5%8F%AF%E4%B8%8D%E6%98%AF%E5%A5%BD%E6%AC%BA%E8%B4%9F%E7%9A%84%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "天冷后，如何解决皮肤干燥的问题？",
+    "url": "https://www.zhihu.com/question/564105994",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "iPhone14 系列哪一款最值得买？",
+    "url": "https://www.zhihu.com/question/561820194",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "游戏电竞1秒钟能达到6击键吗？",
+    "url": "https://www.zhihu.com/question/562660937",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Show HN: DivestOS, long term support for end-of-life Android devices",
+    "url": "https://divestos.org",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33599095\">Comments</a>",
+    "publish_time": "2022-11-15 03:00:44",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Man ends 20-year Llandegley airport sign joke that cost £25k",
+    "url": "https://www.bbc.com/news/uk-wales-63600184",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33598974\">Comments</a>",
+    "publish_time": "2022-11-15 02:53:13",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "【夜读】8条成长建议，掌握生活主动权",
+    "url": "https://mp.weixin.qq.com/s/NZoMJIaXC4Tr--I9ELYceQ",
+    "summary": "【夜读】8条成长建议，掌握生活主动权",
+    "publish_time": "2022-11-15 03:07:26",
+    "source": {
+      "name": "people_daily_gzh",
+      "desc": "人民日报公众号",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
+    }
   }
 ]
