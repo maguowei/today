@@ -1491,5 +1491,85 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "张文宏称走出疫情靠的是科技",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E7%A7%B0%E8%B5%B0%E5%87%BA%E7%96%AB%E6%83%85%E9%9D%A0%E7%9A%84%E6%98%AF%E7%A7%91%E6%8A%80%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "80亿人口对世界意味着什么",
+    "url": "https://s.weibo.com/weibo?q=%2380%E4%BA%BF%E4%BA%BA%E5%8F%A3%E5%AF%B9%E4%B8%96%E7%95%8C%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "《再见爱人 2》艾威从不做家务都是 Lisa 在做，婚姻中家务分配重要吗？该如何合理分配？",
+    "url": "https://www.zhihu.com/question/566804752",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "妖怪为什么要守在宝物旁边？",
+    "url": "https://www.zhihu.com/question/565578523",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "TerminusDB Internals: Mutation in a Graph Database",
+    "url": "https://terminusdb.com/blog/terminusdb-internals-2/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33614434\">Comments</a>",
+    "publish_time": "2022-11-16 04:18:12",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "What to do if a nuclear disaster is imminent [pdf]",
+    "url": "http://www.ki4u.com/guide.pdf",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33613854\">Comments</a>",
+    "publish_time": "2022-11-16 03:34:16",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Researchers generate hydrogen more efficiently from water",
+    "url": "https://phys.org/news/2022-10-revolutionary-technique-hydrogen-efficiently.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33611725\">Comments</a>",
+    "publish_time": "2022-11-16 00:56:29",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Charge Robotics (YC S21) is hiring meches to build robots that build solar farms",
+    "url": "https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33614951\">Comments</a>",
+    "publish_time": "2022-11-16 05:00:43",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
