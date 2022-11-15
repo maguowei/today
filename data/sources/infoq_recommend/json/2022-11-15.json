@@ -86,5 +86,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "软硬一体实现数据库性能优化 | 《架构师成长计划》",
+    "url": "https://www.infoq.cn/article/mLtO4lZx9Ru4wk8JNiA9",
+    "summary": "<p><strong>介绍：</strong></p>\n<p>国际学术期刊Science/AAAS和英特尔在全球首次联袂推出第一季《架构师成长计划》以来，吸引了无数架构师踊跃参与，获得业内广泛赞誉。为持续助力架构师把握数智机遇，构建未来，第二季《架构师成长计划》全新升级，强势归来！业内顶尖架构师大咖齐聚，为架构师群体量身打造系统成长课程，带来涵盖云游戏、云原生、联邦学习、生信大数据、网络智能化、算力网络、云网融合等多个热门话题的前沿技术及案例实践。</p>\n<p>数据大爆炸时代，新兴业务场景不断涌现，企业在数字化转型的过程中，需要面对海量用户带来的海量数据、海量并发的访问，这对传统数据库系统架构造成了极大的冲击和压力。云时代对数据库的高可用、高性能和低运维提出了更高要求。如何打破传统数据库局限，如何从底层到应用层进行优化，来更好的服务于业务？</p>\n<p>英特尔《架构师成长计划》第九期如约开讲！邀请腾讯云数据库总经理王义成、腾讯云数据库高级产品经理刘迪、英特尔大数据首席工程师程从超、大数据文摘创始人&amp;中关村人工智能学院副院长汪德诚四位业内专家齐聚一堂，论道数据库发展之路，探讨如何借助软硬一体方案实现数据库的性能优化，并深度解析新一代云原生数据库的关键技术及其落地实践，助您把握前沿发展趋势，提前布局最佳解决方案！期待与您线上相聚！了解更多精彩内容 <a href=\"https://bizwebcast.intel.cn/eventstart.aspx?eid=348&amp;tc=ndx195vvme&amp;frm=InfoQ\">https://bizwebcast.intel.cn/eventstart.aspx?eid=348&amp;tc=ndx195vvme&amp;frm=InfoQ</a></p>\n<p><strong>精彩亮点</strong></p>\n<ul>\n<li>传统数据库的“七宗罪”？什么是真正的“云原生”数据库？</li>\n<li>腾讯云在数据库方面如何实现“超融合”？数据库在架构设计趋势几何？</li>\n<li>硬件+软件+AI，如何优化关键路径性能？对客户有哪些实际应用价值？</li>\n<li>英特尔如何全栈赋能数据库大数据生态？</li>\n</ul>\n<p><strong>议程</strong></p>\n<p>圆桌讨论：软硬一体实现数据库性能优化<br />\n王义成 腾讯云数据库总经理<br />\n程从超 英特尔大数据首席工程师<br />\n汪德诚 大数据文摘创始人、中关村人工智能学院副院长</p>\n<p>课程分享：新一代云原生数据库关键技术解析与最佳实践<br />\n刘迪 腾讯云数据库高级产品经理</p>\n<p>课程分享：软硬一体实现数据库性能优化<br />\n程从超 英特尔大数据首席工程师</p>",
+    "publish_time": "2022-11-15 16:27:21",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
