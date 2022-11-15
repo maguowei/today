@@ -1307,5 +1307,116 @@
       "desc": "人民日报公众号",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
     }
+  },
+  {
+    "title": "双十一晒超跑真的慕了",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%8C%E5%8D%81%E4%B8%80%E6%99%92%E8%B6%85%E8%B7%91%E7%9C%9F%E7%9A%84%E6%85%95%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "包装盒上的牛肉面",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8C%85%E8%A3%85%E7%9B%92%E4%B8%8A%E7%9A%84%E7%89%9B%E8%82%89%E9%9D%A2%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "你煮火锅必吃哪样菜？",
+    "url": "https://www.zhihu.com/question/560640933",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "现在的洗碗机，真的能洗干净吗？",
+    "url": "https://www.zhihu.com/question/431378732",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "不玩游戏稳定的笔记本电脑推荐?",
+    "url": "https://www.zhihu.com/question/566265777",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Libgrapheme: A simple freestanding C99 library for Unicode",
+    "url": "https://libs.suckless.org/libgrapheme/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33612039\">Comments</a>",
+    "publish_time": "2022-11-16 01:16:00",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Galactica: an AI trained on humanity's scientific knowledge (by Meta)",
+    "url": "https://galactica.org/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33611265\">Comments</a>",
+    "publish_time": "2022-11-16 00:28:06",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Sapling SCM: new source control system with Git compatible client",
+    "url": "https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33612410\">Comments</a>",
+    "publish_time": "2022-11-16 01:39:14",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How PlanetScale Boost serves SQL queries faster",
+    "url": "https://planetscale.com/blog/how-planetscale-boost-serves-your-sql-queries-instantly",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33611759\">Comments</a>",
+    "publish_time": "2022-11-16 00:58:54",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Adding a hinge to a Game Boy that God never intended",
+    "url": "https://posts.decontextualize.com/pocket-sp/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33612865\">Comments</a>",
+    "publish_time": "2022-11-16 02:16:54",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Epic Cheerleader Pack",
+    "url": "https://store.epicgames.com/en-US/p/rumbleverse",
+    "summary": "<p>Jump into the next Season of Rumbleverse, the exciting 40-person Brawler Royale!</p><img src=\"https://cdn1.epicgames.com/offer/0bef9383794a4d779ba0628084b14cba/EGS_RumbleverseEpicCheerleaderPack_IronGalaxyStudios_AddOn_S1_2560x1440-250f70be10d8e728e87b290e6dd6b58d\" />",
+    "publish_time": "2022-11-16 00:00:00",
+    "source": {
+      "name": "epic_freegames",
+      "desc": "Epic Free Games",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/epic.png"
+    }
   }
 ]
