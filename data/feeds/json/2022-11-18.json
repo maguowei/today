@@ -1329,5 +1329,56 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "警惕电竞酒店成变相网吧",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%83%95%E7%94%B5%E7%AB%9E%E9%85%92%E5%BA%97%E6%88%90%E5%8F%98%E7%9B%B8%E7%BD%91%E5%90%A7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何看待暴雪宣布与网易解约后，网易高管发文称「是一个傻瓜引发的惨案，为所有玩家感到悲哀」？",
+    "url": "https://www.zhihu.com/question/567249670",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "GitHub Copilot isn't worth the risk",
+    "url": "https://www.kolide.com/blog/github-copilot-isn-t-worth-the-risk",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33642661\">Comments</a>",
+    "publish_time": "2022-11-18 01:44:22",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ask HN: Does GDPR and CCPA Apply to Hacker News?",
+    "url": "https://news.ycombinator.com/item?id=33644336",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33644336\">Comments</a>",
+    "publish_time": "2022-11-18 03:31:17",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Swinging back to open standards",
+    "url": "https://puri.sm/posts/swinging-back-to-open-standards/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33642439\">Comments</a>",
+    "publish_time": "2022-11-18 01:32:57",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
