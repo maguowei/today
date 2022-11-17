@@ -1105,5 +1105,96 @@
       "desc": "人民日报公众号",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
     }
+  },
+  {
+    "title": "暴雪游戏主播集体发声",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%AA%E6%B8%B8%E6%88%8F%E4%B8%BB%E6%92%AD%E9%9B%86%E4%BD%93%E5%8F%91%E5%A3%B0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "陈紫函炫一碗螺蛳粉给大家助助兴",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E7%B4%AB%E5%87%BD%E7%82%AB%E4%B8%80%E7%A2%97%E8%9E%BA%E8%9B%B3%E7%B2%89%E7%BB%99%E5%A4%A7%E5%AE%B6%E5%8A%A9%E5%8A%A9%E5%85%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "在大学努力学习被嘲笑怎么办？",
+    "url": "https://www.zhihu.com/question/562495996",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何理解 TCP 三次握手原理？为什么需要三次握手，而不是二次或者四次？",
+    "url": "https://www.zhihu.com/question/483007245",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Swinging Back to Open Standards",
+    "url": "https://puri.sm/posts/swinging-back-to-open-standards/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33642439\">Comments</a>",
+    "publish_time": "2022-11-18 01:32:57",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Frog Peak Music",
+    "url": "http://www.frogpeak.org/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33640896\">Comments</a>",
+    "publish_time": "2022-11-18 00:06:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "HTML is all you need to make a website",
+    "url": "https://whitep4nth3r.com/blog/html-is-all-you-need-to-make-a-website/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33642490\">Comments</a>",
+    "publish_time": "2022-11-18 01:35:39",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "EasyPost (YC S13) Is Hiring",
+    "url": "https://www.easypost.com/careers",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33641891\">Comments</a>",
+    "publish_time": "2022-11-18 01:01:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: I finished my site for daily dogbunny puzzles, as I promised on HN",
+    "url": "https://dogbunnypuzzle.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33642567\">Comments</a>",
+    "publish_time": "2022-11-18 01:39:19",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
