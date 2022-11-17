@@ -20,5 +20,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "15 款 Mac，计划这周去升级运存到 16G，顺便看看有没换主板升 cpu 的必要",
+    "url": "https://www.v2ex.com/t/895846",
+    "summary": "mrant: <p>迫于念旧(qiong)，目前还在用 15 款 13.3 寸 Mac ，型号 A1502 ，i5 处理器来当主力开发，开几个 vscode 风扇就狂转。</p>\n<p><img alt=\"企业微信 20221117-095405@2x.png\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://s2.loli.net/2022/11/17/zfkTmM6RXhO1Edg.png\" /></p>\n<p>闲来无事在 b 站、某音上刷到了 mac 能升级运存，需要专业的焊接更换，所以找了几家了解了一下：</p>\n<table>\n<thead>\n<tr>\n<th>店铺</th>\n<th>价格</th>\n<th>质保</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>店铺 1 ，北京线下中关村科贸，有网店(评论还不错)</td>\n<td>1. 8G 升到 16G ，550 ；<br /><br />2.升级 cpu 到 i7 五代(需换主板)，运存 8-&gt;16 ，总共 1500 多</td>\n<td>6 个月</td>\n</tr>\n<tr>\n<td>店铺 2 ，某音发现，中关村，每天在直播维修</td>\n<td>8G 升到 16G ，800</td>\n<td>3 个月</td>\n</tr>\n</tbody></table><br />\n<p>对第一家感觉还算不错，不知道升级 cpu 还有没必要了</p>\n<p>查了下店家应该是用同款 A1502 型号的顶配版来换到我 Mac 里，也就是 i7 五代，16G 运存，不知道更换后速度能提升多少，还是说单纯升下运存得了，同志们有更换过的可以分享下经验😏</p>\n<p>计划这周六日过去看看，同时也想同步大家，如果有像我一样念旧的年轻人，咱们手里的丐版 Mac 是有机会重焕生机的😂</p>",
+    "publish_time": "2022-11-17 10:03:56",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "为什么现在行情不好，明年行情会好吗？",
+    "url": "https://www.v2ex.com/t/895868",
+    "summary": "SWALLOWW: <p>老实说我是最近想换工作看脉脉啥的才发现现在行情不好，各家裁员的，是因为什么呢？\n明年的行情大家是怎么看的呢。</p>\n<p>（自身是一个生活比较固定的程序员，上班，做饭，撸猫，周末回家陪父母，见女友，不爱旅游，非买菜等特殊情况不出门，所以基本也没感到疫情对我的影响- -）</p>",
+    "publish_time": "2022-11-17 10:40:19",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "如何评价华为新提出的 arkTS 语言？",
+    "url": "https://www.v2ex.com/t/895887",
+    "summary": "washbrain: <p>官方描述</p>\n<blockquote>\n<p>ArkTS 是 HarmonyOS 优选的主力应用开发语言。ArkTS 基于 TypeScript （简称 TS ）语言扩展而来，是 TS 的超集。</p>\n</blockquote>\n<blockquote>\n<p>ArkTS 继承了 TS 的所有特性。</p>\n</blockquote>\n<blockquote>\n<p>当前，ArkTS 在 TS 基础上主要扩展了声明式 UI 能力，让开发者以更简洁、更自然的方式开发高性能应用。</p>\n</blockquote>\n<blockquote>\n<p>当前扩展的声明式 UI 包括如下特性</p>\n</blockquote>\n<blockquote>\n<p>-基本 UI 描述：ArkTS 定义了各种装饰器、自定义组件、UI 描述机制，再配合 UI 开发框架中的 UI 内置组件、事件方法、属性方法等共同构成了 UI 开发的主体。</p>\n</blockquote>\n<blockquote>\n<p>-状态管理：ArkTS 提供了多维度的状态管理机制，在 UI 开发框架中，和 UI 相关联的数据，不仅可以在组件内使用，还可以在不同组件层级间传递，比如父子组件之间、爷孙组件之间，也可以是全局范围内的传递，还可以是 跨设备传递。另外，从数据的传递形式来看，可分为只读的单向传递和可变更的双向传递。开发者可以灵活的利用这些能力来实现数据和 UI 的联动。</p>\n</blockquote>\n<blockquote>\n<p>-动态构建 UI 元素：ArkTS 提供了动态构建 UI 元素的能力，不仅可以自定义组件内部的 UI 结构，还可复用组件样式，扩展原生组件。</p>\n</blockquote>\n<blockquote>\n<p>-渲染控制：ArkTS 提供了渲染控制的能力。条件渲染可根据应用的不同状态，渲染对应状态下的部分内容。循环渲染可从数据源中迭代获取数据，并在每次迭代过程中创建相应的组件。</p>\n</blockquote>\n<blockquote>\n<p>-使用限制与扩展：ArkTS 在使用过程中存在限制与约束，同时也扩展了双向绑定等能力。<br />\n未来，ArkTS 会结合应用开发 /运行的需求持续演进，逐步提供并行和并发能力增强、类型系统增强、分布式开发范式等更多特性。</p>\n</blockquote>\n<p><img alt=\"image\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://alliance-communityfile-drcn.dbankcdn.com/FileServer/getFile/cmtyPub/011/111/111/0000000000011111111.20221104185612.32113950637252620484983010560415:50531103112726:2800:3FACF6DBE1EFE150B0FF95799F5B14478A29A83FFBD1FA6877D1F2FECE144EFC.png?needInitFileName=true?needInitFileName=true\" /></p>\n<p>个人感觉：语法上即视感太强，与其说是 TS ，不如说是 Jetpack Compose + Swift UI ；</p>\n<p>不知道底层是怎么实现的，之前就有看到过鸿蒙是支持 javascript 来开发的；</p>\n<p>不知道有没有开发过的同学分享下使用体验；</p>\n<p>（ PS：这个应该不是仓颉）</p>\n<p>链接： <a href=\"https://developer.harmonyos.com/cn/docs/documentation/doc-guides-V3/arkts-get-started-0000001430600477-V3\" rel=\"nofollow\">https://developer.harmonyos.com/cn/docs/documentation/doc-guides-V3/arkts-get-started-0000001430600477-V3</a></p>",
+    "publish_time": "2022-11-17 11:24:58",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
