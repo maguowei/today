@@ -64,5 +64,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "电信诈骗当受凌迟之刑",
+    "url": "https://www.v2ex.com/t/895883",
+    "summary": "RATIONALITY: <p>电话拦截、电话劝阻、上门劝阻、银行拦截、影视剧宣传、社区宣传教育、反诈 app...</p>\n<p>在反诈大力宣传下，私以为信诈事件会逐渐减少，直到今天看到业主群分享的被骗经历，信诈竟依然如此猖狂。</p>\n<p>分享几个近期案例以作警示，大家在周末给家里打电话的时候可以分享给家人听，算是预防教育了。</p>",
+    "publish_time": "2022-11-17 11:12:52",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "为什么 Java 父类构造函数调用被重写的方法会调用到子类的",
+    "url": "https://www.v2ex.com/t/895919",
+    "summary": "movq: <pre><code class=\"language-java\">   public static void main(String[] args) {\n        class Parent {\n\n            Parent() {\n                print();\n            }\n\n            void print() {\n                System.out.println(10);\n            }\n        }\n\n        class Child extends Parent {\n\n\n            void print() {\n                System.out.println(20);\n            }\n        }\n        Parent parent = new Child();\n    }\n</code></pre>\n<p>上面这段代码输出是 20.</p>\n<p>感觉这样很奇怪，为什么父类的构造函数调用 print 给调用到子类了呢？这样难道不是一种反直觉的结果吗？</p>",
+    "publish_time": "2022-11-17 13:45:05",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
