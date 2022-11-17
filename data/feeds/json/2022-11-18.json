@@ -1380,5 +1380,107 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "它还以为自己在喝水",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AE%83%E8%BF%98%E4%BB%A5%E4%B8%BA%E8%87%AA%E5%B7%B1%E5%9C%A8%E5%96%9D%E6%B0%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "这不就是刚睡醒的我",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%8D%E5%B0%B1%E6%98%AF%E5%88%9A%E7%9D%A1%E9%86%92%E7%9A%84%E6%88%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "聋哑小伙跳4米深化粪池救男童",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%81%8B%E5%93%91%E5%B0%8F%E4%BC%99%E8%B7%B34%E7%B1%B3%E6%B7%B1%E5%8C%96%E7%B2%AA%E6%B1%A0%E6%95%91%E7%94%B7%E7%AB%A5%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "有什么好喝的咖啡推荐嘛？",
+    "url": "https://www.zhihu.com/question/479778419",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Ask HN: What's a good business model for selling standalone software",
+    "url": "https://news.ycombinator.com/item?id=33645489",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33645489\">Comments</a>",
+    "publish_time": "2022-11-18 04:52:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Punctuation and Other Ways Negotiators Have Resolved Climate Change Issues",
+    "url": "https://repository.law.umich.edu/mjeal/vol6/iss1/2/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33644637\">Comments</a>",
+    "publish_time": "2022-11-18 03:53:21",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How to Get Your Backup to Half of Its Size – ZSTD Support in XtraBackup",
+    "url": "https://www.percona.com/blog/get-your-backup-to-half-of-its-size-introducing-zstd-support-in-percona-xtrabackup/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33644798\">Comments</a>",
+    "publish_time": "2022-11-18 04:02:20",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "You Don't Need HTML",
+    "url": "https://no-ht.ml/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33645398\">Comments</a>",
+    "publish_time": "2022-11-18 04:45:26",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "99Wh Battery Linux Laptop",
+    "url": "https://www.tuxedocomputers.com/en/TUXEDO-InfinityBook-Pro-14-Gen7.tuxedo",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33644165\">Comments</a>",
+    "publish_time": "2022-11-18 03:20:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Is 40 hours a week too much?",
+    "url": "https://www.okta.com/au/identity-101/40-hour-work-week/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33645231\">Comments</a>",
+    "publish_time": "2022-11-18 04:31:57",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
