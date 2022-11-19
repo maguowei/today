@@ -1254,5 +1254,61 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "杨幂罚点球了",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E7%BD%9A%E7%82%B9%E7%90%83%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "女子6200元变卖闺蜜手机报警称被抢",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%906200%E5%85%83%E5%8F%98%E5%8D%96%E9%97%BA%E8%9C%9C%E6%89%8B%E6%9C%BA%E6%8A%A5%E8%AD%A6%E7%A7%B0%E8%A2%AB%E6%8A%A2%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "你有坚持了十年的事情吗",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%9C%89%E5%9D%9A%E6%8C%81%E4%BA%86%E5%8D%81%E5%B9%B4%E7%9A%84%E4%BA%8B%E6%83%85%E5%90%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "中国的驾驶证考试是不是全世界最难的？",
+    "url": "https://www.zhihu.com/question/488663296",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如果你进入电视剧《甄嬛传》之中，你想成为哪位角色？为什么？",
+    "url": "https://www.zhihu.com/question/563574445",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Sam Bankman-Fried Has a Savior Complex–and Maybe You Should Too",
+    "url": "https://web.archive.org/web/20221110031633/https://www.sequoiacap.com/article/sam-bankman-fried-spotlight/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33672924\">Comments</a>",
+    "publish_time": "2022-11-20 02:15:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
