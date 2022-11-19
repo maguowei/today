@@ -9,5 +9,49 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "macOS 虚拟机软件 VMware Fusion 13 正式发布：支持 TPM 2.0、 Apple Silicon Mac",
+    "url": "https://www.v2ex.com/t/896350",
+    "summary": "sanshao124: <p>11 月 18 日消息，macOS 平台虚拟机软件 VMware Fusion 13 Pro 正式版现已发布，带来了一些新特性：支持 macOS Ventura 13 、支持虚拟 TPM 2.0 模块与 Windows 11 、支持在 Apple Silicon Mac 上运行 ARM 虚拟机。</p>\n<p>[macOS 虚拟机软件 VMware Fusion 13 正式发布：支持 TPM 2.0 、Apple Silicon Mac]</p>\n<p>[macOS 虚拟机软件 VMware Fusion 13 正式发布：支持 TPM 2.0 、Apple Silicon Mac]</p>\n<p>系统要求：</p>\n<pre><code>硬件 Intel 或 Apple Silicon Mac 机型。支持 macOS 12 Monterey 或更高版本的 Mac 机型\n\n软件 macOS 12 Monterey 和 macOS 13 Ventura\n</code></pre>\n<p>支持新的客户机操作系统：</p>\n<pre><code>Microsoft Windows 11\n\nMicrosoft Windows Server 2022\n\nRHEL 9\n\nDebian 11.x\n\nUbuntu 22.04\n</code></pre>\n<p>支持 Apple Silicon Mac：</p>\n<pre><code>Fusion 现在支持在 Apple Silicon Mac 上运行 Arm 虚拟机\n</code></pre>\n<p>适用于 x86 和 Apple Silicon 的通用软件包：</p>\n<pre><code>提供适用于 Intel 和 Apple Silicon Mac 的单个通用软件包 (.dmg)\n</code></pre>\n<p>全新虚拟可信平台模块 2.0：</p>\n<pre><code>Fusion 现在提供虚拟可信平台模块（版本 2.0 ）设备，以支持 Windows 11 以及需要 TPM 的其他操作系统。\n</code></pre>\n<p>新的完全或快速加密功能：</p>\n<pre><code>现在，您可以在安全性（完全）和性能（快速）加密选项之间选择。\n</code></pre>\n<p>改进了图形支持：OpenGL 4.3：</p>\n<pre><code>Fusion 现在支持将 OpenGL 4.3 用于 Intel Mac 上的 Windows 和 Linux ，以及 Apple Silicon Mac 上的 Linux arm64 虚拟机。\n</code></pre>\n<p>支持 WDDM 1.2：</p>\n<pre><code>Fusion 现在支持将 WDDM （ Windows 显示驱动程序模型）版本 1.2 用于虚拟机。\n</code></pre>\n<p>支持 vSphere 8 和 ESXi 8：</p>\n<pre><code>除了 ESXi 主机的标准电源操作外，Fusion 13 还支持：\n\n连接到 ESXi 8 主机或 vCenter Server 8\n\n在 ESXi 和 Fusion 之间上载或下载虚拟机（目前仅限 Intel Mac ）\n\n通过本地桌面在远程服务器上创建新虚拟机\n</code></pre>\n<p><a href=\"https://www.ithome.com/0/654/907.htm\" rel=\"nofollow\">https://www.ithome.com/0/654/907.htm</a></p>",
+    "publish_time": "2022-11-19 08:42:26",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "大家有没有什么跟进热点的知识 up 主推荐呀？",
+    "url": "https://www.v2ex.com/t/896370",
+    "summary": "unii23i: <p>我常听的有吟游诗人基德、小 lin 说、半佛、最近新关注了一个智能路障</p>\n<p>然后就只知道小约翰可汗和沙盘上的战争，可惜我感觉从历史上学不到东西</p>",
+    "publish_time": "2022-11-19 10:19:31",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "外部设备能采集 iPhone 哪些用户数据？",
+    "url": "https://www.v2ex.com/t/896371",
+    "summary": "Tounea: 昨天因公司网站漏洞被网警传唤到派出所协助调查，其中一项是采集用户手机数据，坐在休息室一个人突然走过来拿走我放在桌子上的手机，直接想进我手机系统，看到设置有密码直接逼问我手机密码，我说先把手机给我，他不但不给还继续逼问密码，说真的，这种情况真的很让人懵，看这人一没穿警服，二没出示警员证，就穿个普通的衬衫，任谁遇到一个陌生人拿走你的手机叫你说开机密码，傻子才说！最后跟他去一间房才知道，他想要我开机密码，就是接到一个采集设备上，看他点的很快我没看清是否安装什么东西，只见他在信息采集平台调用一个本地软件，瞟了一眼软件是 DW-xxxxx 名字，只见他后面又操作“设置”—“隐私”—“分析与改进”—“数据分析”，然后那个设备上软件就开始采集用户手机信息，然后又去采集其他生物信息，又有其他人来采集生物信息，前前后后等了差不多块一个小时，然后在看那个软件显示，“手机用户数据采集已完成，请拔数据线”，后面信息就是把采集到本地的信息上传网警平台，拿来手机我一看，“分析数据”里全是 ips 文件，其中就有推特、电报这类明显开头文件名，我就想问他们采集 iPhone 上的信息能看到什么内容？<br /><br />说明以下，IOS 系统是 14",
+    "publish_time": "2022-11-19 10:21:25",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "公司领导礼拜六打电话过来要求所有人到公司过项目进度，这是不是一个合格的领导？",
+    "url": "https://www.v2ex.com/t/896399",
+    "summary": "unregister:",
+    "publish_time": "2022-11-19 12:17:30",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
