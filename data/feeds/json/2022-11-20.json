@@ -1154,5 +1154,105 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "爱聊用户集体婚礼",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E8%81%8A%E7%94%A8%E6%88%B7%E9%9B%86%E4%BD%93%E5%A9%9A%E7%A4%BC%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "男子当街暴打边牧还跳起双脚踩头",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BD%93%E8%A1%97%E6%9A%B4%E6%89%93%E8%BE%B9%E7%89%A7%E8%BF%98%E8%B7%B3%E8%B5%B7%E5%8F%8C%E8%84%9A%E8%B8%A9%E5%A4%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "女子攒20年硬币欲买房",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%94%9220%E5%B9%B4%E7%A1%AC%E5%B8%81%E6%AC%B2%E4%B9%B0%E6%88%BF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "你是如何治愈自己的？",
+    "url": "https://www.zhihu.com/question/567254123",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如果明知结果是失败，还有努力的意义吗？",
+    "url": "https://www.zhihu.com/question/561366168",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "US Supreme Court asked if cops can plant spy cams around homes",
+    "url": "https://www.theregister.com/2022/11/18/supreme_court_cameras_police/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33672072\">Comments</a>",
+    "publish_time": "2022-11-20 01:11:26",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Tumblr Gets the Last Laugh",
+    "url": "https://www.theatlantic.com/technology/archive/2022/11/elon-musk-twitter-tumblr-blue-check-marks/672165/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33672365\">Comments</a>",
+    "publish_time": "2022-11-20 01:34:33",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Wickr shutting down December 31, 2023",
+    "url": "https://wickr.com/our-focus-on-end-to-end-encrypted-enterprise-communications/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33671333\">Comments</a>",
+    "publish_time": "2022-11-20 00:04:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Koch-funded group sues US state agency for installing spyware on 1M Androids",
+    "url": "https://www.theregister.com/2022/11/17/kochfunded_group_sues_us_state/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33672095\">Comments</a>",
+    "publish_time": "2022-11-20 01:13:42",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Decision Fatigue",
+    "url": "https://www.antipope.org/charlie/blog-static/2022/11/decision-fatigue.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33671627\">Comments</a>",
+    "publish_time": "2022-11-20 00:33:44",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
