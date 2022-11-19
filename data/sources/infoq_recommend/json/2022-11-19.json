@@ -9,5 +9,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "IBM大型机之父、人月神话作者Fred P. Brooks去世",
+    "url": "https://www.infoq.cn/article/GERwEmsBYMk9e0QrSHEu",
+    "summary": "<p>据<a href=\"https://twitter.com/stevebellovin/status/1593414068634734592\">消息</a>\"，美国计算机架构师、软件工程师和计算机科学家&nbsp;Fred P. Brooks 于当地时间 2022 年 11&nbsp; 月 17 日去世，享年 91 岁&nbsp;(1931 年 4 月 19 日 - 2022 年 11 月 17 日)。</p><p>&nbsp;</p><p>Brooks 在20世纪60年代初不到30岁时就主持和领导了IBM System/360 系列计算机（被称为人类从原子能时代进入信息时代的标志）和 OS/360 软件支持包的开发工作，取得辉煌成功，从而名噪一时。之后他出版了<a href=\"https://en.wikipedia.org/wiki/The_Mythical_Man-Month\">《人月神话》</a>\"一书，记录总结了在 IBM 期间领导上述项目开发的过程和经验，该书是软件工程实践方面的开创性著作之一，影响深远。</p><p>&nbsp;</p><p>1976年，Brooks因“对计算机系统设计和计算机科学学术项目的贡献”当选为美国国家工程院院士，1999年Brooks获得<a href=\"https://baike.baidu.com/item/%E5%9B%BE%E7%81%B5%E5%A5%96/324645?fromModule=lemma_inlink\">图灵奖</a>\"。</p><p>&nbsp;</p><p><a href=\"https://en.wikipedia.org/wiki/Fred_Brooks\">维基百科显示</a>\"，Brooks 出生于北卡罗来纳州达勒姆，就读于杜克大学，1953 年毕业获得物理学学士学位。1956 年在哈佛大学获得应用数学（计算机科学）博士学位，师从&nbsp;Howard Aiken（美国物理学家和计算领域的先驱，IBM&nbsp;Harvard Mark I 计算机背后的原始概念设计者)。</p><p>&nbsp;</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/26/26146e20f593ed3d581ef14e6f64f3dd.png\" /></p><p></p><p>&nbsp;</p><p>Brooks 于 1956 年加入 IBM，参与了 IBM 7030 Stretch（价值 1000 万美元的科学超级计算机，其中九台已售出） 的架构设计和开发；以及为美国国家安全局设计研发的 IBM 7950 Harvest 计算机。之后，他成为 IBM System/360 系列计算机和 OS/360 软件包的开发经理。在此期间，他创造了 “computer architecture” 这一术语。</p><p>&nbsp;</p><p>1964 年，Brooks 受邀加入北卡罗来纳大学教堂山分校，创立了该大学的计算机科学系，并主持工作20余年。截至 2013 年，他仍然在那里积极参与研究工作，主要是在虚拟环境和科学可视化方面。</p><p>&nbsp;</p><p>离开 IBM 几年后，Brooks 撰写了<a href=\"https://en.wikipedia.org/wiki/The_Mythical_Man-Month\">《人月神话》</a>\"一书。时任&nbsp;IBM CEO 的Thomas Watson Jr. 在与 Brooks 的离职面谈中问道：“为什么管理软件项目比管理硬件项目难得多”，这促使Brooks产生了撰写这本书的念头。</p><p>&nbsp;</p><p>《人月神话》于 1975 年正式出版，Brooks在书中提出了一个著名的法则，即：“向进度落后的软件项目中增加人手，只会让进度更加落后”，这句话后来被称为 “Brooks 法则”。</p><p>&nbsp;</p><p>除了《人月神话》，Brooks还撰写或与人合著了许多书籍和论文，包括《自动数据处理》、《没有银弹：软件工程的本质性与附属性工作》（<a href=\"https://en.wikipedia.org/wiki/No_Silver_Bullet\">No Silver Bullet – Essence and Accident in Software Engineering</a>\"）、《计算机体系结构》和《设计原本》等。其中，发表于1987年的经典论文《没有银弹》可以说在软件工程业内无人不知，该论文强调由于软件的复杂性本质、真正的银弹并不存在，即没有任何一项技术或方法可以使软件工程的生产力在十年内提高十倍。</p><p>&nbsp;</p><p>他所获得过的奖项也不计其数，包括 1985 年因在开发 IBM/360 上的杰出贡献而获得的由时任美国总统 Ronald Reagan 颁发的国家技术奖章，1999 年的图灵奖以及 IEEE 先后颁发的三个奖项：McDowell 奖 (1970)、计算机先驱奖 (1980) 和冯・诺伊曼奖 (1993)。</p><p>&nbsp;</p><p>Brooks 曾在接受连线杂志采访时表示，他认为自己最大的技术成就在于将&nbsp;IBM&nbsp;360 系列从 6 位字节更改为 8 位字节——“我做出过的最重要的决定是将&nbsp;IBM&nbsp;360 系列从 6 位字节更改为 8 位字节，从而让小写字母的使用成为可能（lowercase letters），这一变化无处不在。”</p>",
+    "publish_time": "2022-11-19 14:03:12",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
