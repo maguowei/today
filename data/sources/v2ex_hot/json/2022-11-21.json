@@ -97,5 +97,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "做了一个快速（300M+）、不贵（$1/TB）的文件下载分发服务",
+    "url": "https://www.v2ex.com/t/896688",
+    "summary": "hzcer: <p>由于复杂的网络环境，分发大文件即痛苦又昂贵。因此做了一个快速、不贵的文件下载分发服务: <a href=\"https://zh.fastblob.com/\" rel=\"nofollow\">FastBlob</a>，目前速度可达 300M+。</p>\n<h2>📚 原理</h2>\n<p>服务端有多个遍布世界各地的节点，对源站的文件进行反向代理。客户端将下载进行分片，利用多线程进行同时下载，再通过现代浏览器的 stream 组合成一个 Response ，从而实现和 fetch 同样的接口。</p>\n<h2>✨ 特点</h2>\n<ul>\n<li>用的是你自己的域名，支持 HTTPS ，后期会支持 SNIProxy</li>\n<li>目前提供了 JavaScript SDK ，可以直接替换 fetch ，无需修改代码</li>\n<li>适应电信、联通、移动等不同运营商的网络环境</li>\n<li>设置简单，只需要将域名 CNAME 一下即可</li>\n<li>修改 Request 和 Response 的 Header 设置</li>\n<li>没有单点故障，一个节点挂掉了也没关系</li>\n<li>可以快速的扩容，不用担心用的人多了导致速度变慢</li>\n<li>IPv4 + IPv6</li>\n</ul>\n<h2>⚡ 性能</h2>\n<p>试运行阶段目前只有 <a href=\"https://zh.fastblob.com/backends\" rel=\"nofollow\">6 个节点</a>，在电信测试下载速度达到了 300M+，后期会继续增加节点，提高下载速度。</p>\n<h2>💸 价格</h2>\n<p>目前试运行期间 $1/TB ，后期会根据运行情况进行调整。注册提供 50GB 的免费流量供尝试。</p>\n<h2>📝 备注</h2>\n<p>建议使用 Cloudflare R2 来作为源站，因为 Cloudflare 不收流量费，且 R2 在全球进行分发。</p>\n<h2>🏖️ 尝试一下</h2>\n<p><a href=\"https://zh.fastblob.com/try\" rel=\"nofollow\">https://zh.fastblob.com/try</a></p>",
+    "publish_time": "2022-11-21 08:24:30",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
