@@ -86,5 +86,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "珍爱生命，远离 ToDesk",
+    "url": "https://www.v2ex.com/t/897040",
+    "summary": "Cat7373: <p>前情回顾： <a href=\"https://www.v2ex.com/t/894010\" rel=\"nofollow\">https://www.v2ex.com/t/894010</a></p>\n<p>上次深夜凌晨两点有个紧急事务，只需要操作办公室电脑五分钟，最后结果是冬天，大冷的天，凌晨两点半，来回两小时，骑摩托车去处理的。</p>\n<p>后续终联系上客服，给的解决方案是官网再下一次安装包，重新安装，能用了。</p>\n<hr />\n<p>这次因疫情隔离在家，要处理工作事务，结果：</p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://s2.loli.net/2022/11/22/hSHqJNoGcibgFdI.png\" /></p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://s2.loli.net/2022/11/22/K3vaUI7itLFbR52.jpg\" /></p>\n<p>好的，每次没啥事测试的时候都好好的，一到关键时刻准掉链子，这次隔离在家，去也没法去，只能拿 SSH + Frp 兜底 copy 文件出来，在家里电脑重新搭环境紧急处理了。</p>\n<p>作为一个远控软件，如果无法保障基本的可用性，其他再多都是虚的，还是标题那句话吧，<strong>珍爱生命，远离 ToDesk</strong>。</p>\n<p>抱歉，真有点暴躁了，话可能不大好听，昨天回家前特意拿手机测了下能连上能操作，还测了两遍，今天一早接社区通知封控，结果不能用，再来一回可受不了了，换了换了。</p>\n<hr />\n<p>设备正常在线：</p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://s2.loli.net/2022/11/22/19UJ4rfDN2Fkdla.png\" /></p>\n<p>无法连接：</p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://s2.loli.net/2022/11/22/P9MBYV5yUQvfmnW.png\" /></p>\n<p>SSH + Frp 正常通(被控端网络正常)：</p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://s2.loli.net/2022/11/22/ZCsU7Eej2brqpaM.png\" /></p>\n<hr />\n<p>已卸载，准备换 Oray 了：</p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://s2.loli.net/2022/11/22/G3gpzoAXsfdv8i2.jpg\" /></p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://s2.loli.net/2022/11/22/t9D8pRy7lEL5zkT.png\" /></p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://s2.loli.net/2022/11/22/Cpy5Egw94Ba1AH8.png\" /></p>",
+    "publish_time": "2022-11-22 12:06:36",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "兄弟们，来吹爆东哥",
+    "url": "https://www.v2ex.com/t/897106",
+    "summary": "maclon: <p>我不是 jder ，但今天东哥还是打动了我</p>",
+    "publish_time": "2022-11-22 15:17:39",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
