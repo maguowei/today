@@ -1433,5 +1433,118 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "GAI哥在做啥子",
+    "url": "https://s.weibo.com/weibo?q=%23GAI%E5%93%A5%E5%9C%A8%E5%81%9A%E5%95%A5%E5%AD%90%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "王鹤棣确认参加微博视界大会",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%A1%AE%E8%AE%A4%E5%8F%82%E5%8A%A0%E5%BE%AE%E5%8D%9A%E8%A7%86%E7%95%8C%E5%A4%A7%E4%BC%9A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "参加大学生数学建模竞赛，有哪些好用的绘图软件推荐？",
+    "url": "https://www.zhihu.com/question/39417414",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "你会做奇怪的梦吗?",
+    "url": "https://www.zhihu.com/question/568169028",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Building the PiDP-11 Dec PDP-11 Replica Minicomputer",
+    "url": "https://bigdanzblog.wordpress.com/2022/11/22/building-the-pidp-11-dec-pdp-11-replica-minicomputer/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33722906\">Comments</a>",
+    "publish_time": "2022-11-24 02:35:19",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Never use a warning when you mean undo (2007)",
+    "url": "https://alistapart.com/article/neveruseawarning/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33721930\">Comments</a>",
+    "publish_time": "2022-11-24 01:19:50",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A programmer-friendly I/O abstraction over io_uring and kqueue",
+    "url": "https://tigerbeetle.com/blog/a-friendly-abstraction-over-iouring-and-kqueue/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33721075\">Comments</a>",
+    "publish_time": "2022-11-24 00:16:16",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Per-seat pricing is off the table now",
+    "url": "https://github.com/getlago/lago/wiki/Per-Seat-pricing-is-off-the-table-now",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33721853\">Comments</a>",
+    "publish_time": "2022-11-24 01:15:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Diátaxis: A systematic framework for technical documentation authoring",
+    "url": "https://diataxis.fr/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33721314\">Comments</a>",
+    "publish_time": "2022-11-24 00:33:17",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Valve Introduces Proton Next",
+    "url": "https://linuxgamingcentral.com/posts/valve-introduces-proton-next/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33722282\">Comments</a>",
+    "publish_time": "2022-11-24 01:47:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Last.fm turns 20",
+    "url": "https://www.theverge.com/2022/11/22/23473358/lastfm-discord-bot-neil-young-spotify",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33722862\">Comments</a>",
+    "publish_time": "2022-11-24 02:32:47",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
