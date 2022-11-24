@@ -1854,5 +1854,85 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "加纳 黄牌",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8A%A0%E7%BA%B3+%E9%BB%84%E7%89%8C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "熊孩子划伤多辆汽车奶奶说没钱赔",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%86%8A%E5%AD%A9%E5%AD%90%E5%88%92%E4%BC%A4%E5%A4%9A%E8%BE%86%E6%B1%BD%E8%BD%A6%E5%A5%B6%E5%A5%B6%E8%AF%B4%E6%B2%A1%E9%92%B1%E8%B5%94%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "2022 年卡塔尔世界杯小组赛里沙利松梅开二度，巴西 2:0 塞尔维亚，如何评价本场比赛？",
+    "url": "https://www.zhihu.com/question/568640619",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "国有六大行已向 17 家房企提供意向性授信额度超 1.2 万亿，释放了什么信号？对房地产市场有何影响？",
+    "url": "https://www.zhihu.com/question/568626681",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Show HN: Have fun betting virtual (not real) money on predictions from HN users",
+    "url": "https://kudotap.com",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33736245\">Comments</a>",
+    "publish_time": "2022-11-25 05:07:50",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "StackStorm: Event-driven automation",
+    "url": "https://github.com/StackStorm/st2",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33736003\">Comments</a>",
+    "publish_time": "2022-11-25 04:42:30",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Why it’s hard to buy deodorant in Manhattan",
+    "url": "https://www.economist.com/united-states/2022/11/24/why-its-hard-to-buy-deodorant-in-manhattan",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33736076\">Comments</a>",
+    "publish_time": "2022-11-25 04:50:08",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Underrated reasons to be thankful",
+    "url": "https://dynomight.substack.com/p/thanks-2",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33735105\">Comments</a>",
+    "publish_time": "2022-11-25 03:08:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
