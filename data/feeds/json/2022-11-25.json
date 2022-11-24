@@ -1705,5 +1705,154 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "巴西半场0比0塞尔维亚",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E5%8D%8A%E5%9C%BA0%E6%AF%940%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "世界杯",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "C罗好自律",
+    "url": "https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%A5%BD%E8%87%AA%E5%BE%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "最美中轴线",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9C%80%E7%BE%8E%E4%B8%AD%E8%BD%B4%E7%BA%BF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "里沙利松倒钩",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%87%8C%E6%B2%99%E5%88%A9%E6%9D%BE%E5%80%92%E9%92%A9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "巴西2比0塞尔维亚",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF2%E6%AF%940%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "为什么有些动画里面明明感情是一种很强大的力量，但是动画中比人类高级的生命却理解不了?",
+    "url": "https://www.zhihu.com/question/568224266",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么自己的婉儿总是断大？",
+    "url": "https://www.zhihu.com/question/345697726",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Show HN: WinkNLP delivers 600k tokens/second speed on browsers (MBP M1)",
+    "url": "https://github.com/winkjs/wink-nlp",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33734147\">Comments</a>",
+    "publish_time": "2022-11-25 01:51:36",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Hiring tech lead to help solve major historical puzzle",
+    "url": "https://nat.org/puzzle",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33735503\">Comments</a>",
+    "publish_time": "2022-11-25 03:52:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Stable Diffusion v2 web interface",
+    "url": "https://getimg.ai/text-to-image",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33735565\">Comments</a>",
+    "publish_time": "2022-11-25 03:58:05",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Movetodon: Find your Twitter friends on Mastodon",
+    "url": "https://movetodon.org/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33735866\">Comments</a>",
+    "publish_time": "2022-11-25 04:29:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Cancer vaccines: the next immunotherapy frontier",
+    "url": "https://www.nature.com/articles/s43018-022-00418-6",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33735252\">Comments</a>",
+    "publish_time": "2022-11-25 03:25:35",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Pipe CEO loaned $80M to a Bitcoin mining company, didn’t tell board",
+    "url": "https://twitter.com/thogge/status/1595841911465517057",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33735966\">Comments</a>",
+    "publish_time": "2022-11-25 04:38:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Underrated Reasons to Be Thankful",
+    "url": "https://dynomight.substack.com/p/thanks-2",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33735105\">Comments</a>",
+    "publish_time": "2022-11-25 03:08:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
