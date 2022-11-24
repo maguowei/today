@@ -548,5 +548,38 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Arch Linux turns 20: Small, simple, great documentation",
+    "url": "https://www.theregister.com/2022/03/15/arch_linux_20/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33729445\">Comments</a>",
+    "publish_time": "2022-11-24 17:47:14",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Stable Diffusion 2.0 on Mac and Linux via imaginAIry Python library",
+    "url": "https://github.com/brycedrennan/imaginAIry",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33729694\">Comments</a>",
+    "publish_time": "2022-11-24 18:27:25",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Investigating a backdoored PyPI package targeting FastAPI applications",
+    "url": "https://securitylabs.datadoghq.com/articles/malicious-pypi-package-fastapi-toolkit/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33729514\">Comments</a>",
+    "publish_time": "2022-11-24 17:57:36",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
