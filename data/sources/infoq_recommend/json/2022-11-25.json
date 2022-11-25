@@ -42,5 +42,27 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "Intel Arch SIG：Intel 全新加速指令 AMX 技术介绍 | 龙蜥大讲堂45期",
+    "url": "https://www.infoq.cn/article/y99Y4KUUqx1XefVOBaZr",
+    "summary": "<p>Intel Advanced Matrix Extensions (Intel AMX)是英特尔在即将发布的第四代英特尔至强可扩展处理器上引入的全新的加速引擎，通过指令集层面的支持来显著加速深度学习算法中的张量计算。它包含一组被命名为 TILE 的二维寄存器，以及称之为 TMUL（Tile Matrix Multiply Unit）的硬件逻辑，用来实现加速基于 TILE 寄存器的矩阵运算。<br />\nIntel AMX 支持 INT8 和 BF16 这两种业界广泛应用的数据类型，拥有可扩展的硬件架构和优化的软件生态（AI Framework，Libraries &amp; Toolkits），是英特尔至强可扩展处理器内建的适配 AI 加速场景的重要构件。</p>",
+    "publish_time": "2022-11-25 16:09:17",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "资深架构师解读多架构体系下的内核与系统开发 | 龙蜥大讲堂第47期",
+    "url": "https://www.infoq.cn/article/f8hiixWIVlsjhko8jyP5",
+    "summary": "<p>从点点滴滴的迁移适配过程，分享上游社区操作系统内核，在国产化架构系统的适应、变迁与优化路径。</p>",
+    "publish_time": "2022-11-25 16:09:20",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
