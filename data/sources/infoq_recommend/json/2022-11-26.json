@@ -20,5 +20,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "Uber Freight近实时分析架构，晚点取消的比例下降了0.4%",
+    "url": "https://www.infoq.cn/article/dGwDNMwj9YuRJj6efdl7",
+    "summary": "<p><a href=\"https://www.uberfreight.com/\">Uber Freight</a>\"是Uber的一个<a href=\"https://www.uber.com/en-IT/blog/uber-freight-carrier-metrics-with-near-real-time-analytics/\">平台</a>\"，致力于为托运人和承运人提供连接服务。为托运人提供可靠的服务对Uber Freight来说至关重要，这也就是为什么他们要开发承运人记分卡（Carrier Scorecard），其中包含了准时取货/送货、跟踪自动化和晚点取消等指标。关键在于他们要在Carrier App上近乎实时地显示这些信息，而且提供这种服务的架构必须足够快，快到可以满足这些指标需求。</p><p>&nbsp;</p><p>这个<a href=\"https://www.infoq.cn/article/ylturXyuzcx1d4GQLDKq\">架构</a>\"的要求是数据新鲜度、延迟、可靠性和准确性。一旦运单完成或退回，将以较低的延迟更新绩效分数。每个承运人都可以在低延迟的情况下在应用中查看自己的绩效分数。数据的处理和服务具有较高的可靠性，如果发生了故障，整个系统可以进行优雅的恢复。性能指标必须得到精确的计算。</p><p>&nbsp;</p><p>在设计和实现最终的架构之前，他们考虑了一些潜在的解决方案，特别是在聚合指标方面。这些潜在的解决方案包括使用<a href=\"https://www.mysql.com/\">MySQL</a>\"进行动态聚合和使用MySQL进行数据预聚合。这两种解决方案都有一些缺点，主要的问题是需要批量插入或更新记录，以确保历史数据被正确更新。他们考虑的另一个解决方案是使用两张<a href=\"https://it.wikipedia.org/wiki/OLAP\">OLAP</a>\"数据库表，一张存储原始数据，然后使用事件触发器异步函数来更新另一个表中的指标，但是这个解决方案是不可伸缩的，特别是在写入流量很高的情况下。</p><p>&nbsp;</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/99/9951143413201b3fc5338eb6c6f3b297.png\" /></p><p></p><p><a href=\"https://www.uber.com/en-IT/blog/uber-freight-carrier-metrics-with-near-real-time-analytics/\">最终的架构图</a>\"</p><p>&nbsp;</p><p>最终的<a href=\"https://www.infoq.cn/article/od3c6fSHCrVVtcLjmdlx\">架构</a>\"使用了<a href=\"https://kafka.apache.org/\">Kafka</a>\"、<a href=\"https://flink.apache.org/\">Flink</a>\"和<a href=\"https://pinot.apache.org/\">Pinot</a>\"。后端服务生成的Kafka事件通过Flink来聚合。聚合的数据被摄取到Pinot中，它使用Kafka的实时摄取来保留最后三天的数据，历史数据被摄取到HDFS中。</p><p>&nbsp;</p><p>Apache Pinot提供了JSON、排序列和<a href=\"https://docs.pinot.apache.org/basics/indexing/star-tree-index\">星树</a>\"等索引优化技术，以加速查询的性能。快速查询为承运人提供了更好的交互体验。为了实现250毫秒的表查询延迟，他们在Pinot表上创建了两种索引——<a href=\"https://docs.pinot.apache.org/basics/indexing/inverted-index\">倒排索引</a>\"和<a href=\"https://docs.pinot.apache.org/basics/indexing\">排序索引</a>\"。倒排索引可以将带有WHERE子句的查询速度提高10倍，根据承运人的惟一ID对索引进行排序，将表的大小减小了一半，这也减小了查询延迟。</p><p>&nbsp;</p><p>Neutrino是用于访问Pinot数据集的查询网关，它是<a href=\"https://prestodb.io/docs/current/overview.html\">Presto</a>\"的另一种部署方式，其中协调器和Worker运行在不同的主机上，可以独立执行查询。Neutrino接受<a href=\"https://www.infoq.cn/article/WmH0WXhqsWqpHDm6PpjC\">PrestoSQL</a>\"查询，并将其翻译成Pinot查询语言。Neutrino前面添加了Redis缓存，可以存储聚合指标最多12小时，缓存命中率超过了90%。</p><p>&nbsp;</p><p>根据<a href=\"https://www.infoq.cn/article/CzZVxqt00YFa5hMehi4r\">Uber</a>\"的观察发现，自从它开始向Freight司机提供绩效信息以来，所有关键指标都有了显著提升——晚点取消的比例下降了0.4%，准时取货的比例提高了0.6%，准时卸货的比例提高了1%，自动跟踪的比例提高了1%。这些绩效改进在2021年估计节省了150万美元的成本。</p><p>&nbsp;</p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2022/11/uber-freight-analysis/\">https://www.infoq.com/news/2022/11/uber-freight-analysis/</a>\"</p>",
+    "publish_time": "2022-11-26 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
