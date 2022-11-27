@@ -570,5 +570,27 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Web Archive appears to be down",
+    "url": "https://web.archive.org",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33761361\">Comments</a>",
+    "publish_time": "2022-11-27 16:18:48",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "We ran a Unix-like OS (Xv6) on our home-built CPU with our home-built C compiler",
+    "url": "https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33761419\">Comments</a>",
+    "publish_time": "2022-11-27 16:30:11",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
