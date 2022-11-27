@@ -1536,5 +1536,87 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "莫拉塔破门",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%8B%89%E5%A1%94%E7%A0%B4%E9%97%A8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "菲尔克鲁格破门",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%B0%94%E5%85%8B%E9%B2%81%E6%A0%BC%E7%A0%B4%E9%97%A8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "退休后你有哪些想继续去实现的愿望？",
+    "url": "https://www.zhihu.com/question/568663989",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Asian faiths try to save swastika symbol corrupted by Hitler",
+    "url": "https://apnews.com/article/religion-germany-race-and-ethnicity-europe-2c28b5892381cd4148dfde5bc4fbb004",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33765744\">Comments</a>",
+    "publish_time": "2022-11-28 03:18:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "GPS vs. Glonass vs. Galileo",
+    "url": "https://www.gpsrchive.com/Shared/Satellites/GPS%20vs%20GLONASS%20vs%20Galileo.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33764903\">Comments</a>",
+    "publish_time": "2022-11-28 01:51:56",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Stack Computers: the new wave (1989) [pdf]",
+    "url": "https://users.ece.cmu.edu/~koopman/stack_computers/stack_computers_book.pdf",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33766243\">Comments</a>",
+    "publish_time": "2022-11-28 04:05:06",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Temporal Programming, a new name for an old paradigm",
+    "url": "https://github.com/aappleby/Metron/blob/master/docs/TemporalTLDR.md",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33766051\">Comments</a>",
+    "publish_time": "2022-11-28 03:46:30",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Git Notes: Git's Coolest, Most Unloved­ Feature",
+    "url": "https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33766396\">Comments</a>",
+    "publish_time": "2022-11-28 04:17:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
