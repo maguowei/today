@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Rust 1.65引入泛型关联类型，向高级类类型迈进了一步",
+    "url": "https://www.infoq.cn/article/ULQrMu8BgYDmTCEFpHOZ",
+    "summary": "<p>最新版本的Rust引入了一个功能强大的新语言特性，叫作泛型关联类型，允许开发人员为trait中的关联类型指定泛型。其他值得注意的新特性还包括let-else语句，以及对跳出标记块的支持。</p><p></p><p>经过6年的开发，泛型关联类型（GAT）可以被认为是trait类型构造函数的一种形式，可以用来定义关联类型的泛型、寿命或常量泛型。</p><p></p><p>这个特性（关联类型构造函数）解决了高级类类型最常见的用例之一，与其他形式的高级类类型多态相比，它是对类型系统的一个相对简单的扩展，并向前兼容将来可能引入的更复杂的高级类类型多态。</p><p></p><p><a href=\"https://www.infoq.cn/article/j7oW4G2WULtf8SbhGag9\">Rust</a>\"中的关联类型是定义通用trait的一种机制。例如，在下面的例子中有一个叫作Graph的trait，它的节点和边使用了两个关联类型。</p><p></p><p><code lang=\"cpp\">trait Graph {\n    type N;\n    type E;\n\n    fn has_edge(&amp;self, _: &amp;Self::N, _: &amp;Self::N) -&gt; bool;\n    fn edges(&amp;self, _: &amp;Self::N) -&gt; Vec\n}\n</code></p><p></p><p>使用关联类型提高了代码的可读性。Graph的客户端确实可以使用它，而不需要每次都指定其关联的类型是什么，这对于泛型类型来说是必需的。例如：</p><p><code lang=\"cpp\">fn distance(graph: &amp;G, start: &amp;G::N, end: &amp;G::N) -&gt; i32 { ... }</code></p><p></p><p>现在，GTA引入了一种方法来指定本身就是泛型的关联类型。例如：</p><p></p><p><code lang=\"cpp\">trait LendingIterator {\n    type Item&lt;'a&gt; where Self: 'a;\n\n    fn next&lt;'a&gt;(&amp;'a mut self) -&gt; Option<'a>&gt;;\n}<'a></code></p><p></p><p>将其与标准Iterator的定义进行比较：</p><p><code lang=\"cpp\">pub trait Iterator {\n    type Item;\n    ...\n    fn next(&amp;mut self) -&gt; Option\n    ...\n}</code></p><p></p><p>如你所见，LendingIterator使用Item&lt;'a&gt;而不是非泛型的Item相关类型，并将Self约束为类型'a。这意味着next函数将返回一个从self借用的项。</p><p></p><p>虽然乍一看有些神秘，但GAT是一个非常强大的抽象概念，许多crate已经在不稳定版本中使用了它。此外，由于GAT还不稳定，许多crate的进一步开发被阻塞。可以使用GAT构建的一些特性包括：用于从DB加载数据的零拷贝接口、通用构建模式、表示非拥有值等等。值得注意的是，在某些情况下，GAT被不安全的代码替代，并且GAT可以减少对不安全代码的使用，对于这些情况，Rust不再提供任何安全性保证。</p><p></p><p>如前所述，GAT并不是Rust 1.65唯一值得注意的新特性。特别值得一提的还有新的let-else语句和使用break跳出代码块。</p><p></p><p>let-else语句是let的扩展，它试图匹配模式，并在找不到匹配时提供要执行的else块，例如从函数中提前返回或panic。</p><p></p><p>由于循环块支持任意时候跳出循环，标记的break让已经使用只执行一次的loop块来实现的行为变得更完整了。现在，你还可以标记一个块，然后使用break &lt;块标记&gt;语句跳转到这个标记块的末尾。</p><p></p><p>如果你对Rust 1.65的详细变更感兴趣，请查看官方发布说明。</p><p></p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2022/11/rust-generic-associated-types/\">https://www.infoq.com/news/2022/11/rust-generic-associated-types/</a>\"</p><p></p><p>相关阅读：</p><p><a href=\"https://www.infoq.cn/article/wdRX0deAbrI0yl8R4OsC\">前端又开撕了：用Rust写的Turbopack，比Vite快10倍？</a>\"</p><p><a href=\"https://www.infoq.cn/article/RgA0yves4Q1FHI9dJlry\">微软首席工程师Nick Cameron：Rust要想取得更大的成功，需要解决这十大挑战</a>\"</p>",
+    "publish_time": "2022-11-28 09:29:09",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
