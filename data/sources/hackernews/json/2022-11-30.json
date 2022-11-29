@@ -328,5 +328,71 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "ffmpeg.wasm – a pure WebAssembly / JavaScript port of FFmpeg",
+    "url": "https://ffmpegwasm.netlify.app",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33794122\">Comments</a>",
+    "publish_time": "2022-11-30 06:13:45",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How Stuff Gets eXposed",
+    "url": "https://sgx.fail/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33793988\">Comments</a>",
+    "publish_time": "2022-11-30 06:01:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Firefox Translations doesn't use the cloud",
+    "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33792447\">Comments</a>",
+    "publish_time": "2022-11-30 03:59:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A collection of 88x31 pixel web buttons from the 1990s and 2000s",
+    "url": "https://anlucas.neocities.org/88x31Buttons.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33793273\">Comments</a>",
+    "publish_time": "2022-11-30 05:04:37",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Speeding up the JavaScript ecosystem, one library at a time",
+    "url": "https://marvinh.dev/blog/speeding-up-javascript-ecosystem/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33793570\">Comments</a>",
+    "publish_time": "2022-11-30 05:27:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ruby adds a core class called Data to represent simple immutable value objects",
+    "url": "https://blog.saeloun.com/2022/11/22/data-immutable-object.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33792874\">Comments</a>",
+    "publish_time": "2022-11-30 04:32:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
