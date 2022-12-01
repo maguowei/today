@@ -1622,5 +1622,96 @@
       "desc": "人民日报公众号",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
     }
+  },
+  {
+    "title": "德国无缘16强",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BD%E6%97%A0%E7%BC%9816%E5%BC%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "日本晋级16强",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%99%8B%E7%BA%A716%E5%BC%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "哥斯达黎加2比4德国",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%93%A5%E6%96%AF%E8%BE%BE%E9%BB%8E%E5%8A%A02%E6%AF%944%E5%BE%B7%E5%9B%BD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "2022 年卡塔尔世界杯小组赛德国 4:2 哥斯达黎加，依旧惨遭小组出局，如何评价本场比赛？",
+    "url": "https://www.zhihu.com/question/570014812",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "John Carmack trying to get a bunch of GPUs on Google Cloud",
+    "url": "https://twitter.com/id_aa_carmack/status/1598391619673358342",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33821959\">Comments</a>",
+    "publish_time": "2022-12-02 04:06:43",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Legacy of Peer-to-Peer Systems",
+    "url": "https://cacm.acm.org/blogs/blog-cacm/267236-the-legacy-of-peer-to-peer-systems/fulltext",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33822215\">Comments</a>",
+    "publish_time": "2022-12-02 04:25:40",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Using CRDTs for multiplayer text editing",
+    "url": "https://zed.dev/blog/crdts",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33820975\">Comments</a>",
+    "publish_time": "2022-12-02 03:03:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Gut epithelial barrier damage caused by dishwasher detergents and rinse aids",
+    "url": "https://www.jacionline.org/article/S0091-6749(22)01477-4/fulltext",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33822149\">Comments</a>",
+    "publish_time": "2022-12-02 04:21:08",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Mastering Stratego",
+    "url": "https://www.deepmind.com/blog/mastering-stratego-the-classic-game-of-imperfect-information",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33822145\">Comments</a>",
+    "publish_time": "2022-12-02 04:20:37",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]

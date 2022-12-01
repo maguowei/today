@@ -655,5 +655,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "德国无缘16强",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BD%E6%97%A0%E7%BC%9816%E5%BC%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "日本晋级16强",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%99%8B%E7%BA%A716%E5%BC%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "哥斯达黎加2比4德国",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%93%A5%E6%96%AF%E8%BE%BE%E9%BB%8E%E5%8A%A02%E6%AF%944%E5%BE%B7%E5%9B%BD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
