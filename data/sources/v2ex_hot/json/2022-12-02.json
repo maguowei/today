@@ -53,5 +53,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "He3: 开发者必备的万能工具箱",
+    "url": "https://www.v2ex.com/t/899531",
+    "summary": "hongchaodeng: <h1>He3: 开发者必备的万能工具箱</h1>\n<p>你是否也遇到过这样的情况：</p>\n<ul>\n<li>想要将一串 JSON 格式化</li>\n<li>想要将一串 JSON 转成 YAML/XML/Javascript/CSV</li>\n<li>想要将一串 String 进行 Base64 解码</li>\n<li>想要解析一份 JWT Token 的各个字段</li>\n<li>想要测试一份正则表达式</li>\n<li>...</li>\n</ul>\n<p>今天，就有这么一款工具箱，给你提供各类开发小工具，快速得到你想要的答案。这就是 He3 (<a href=\"https://he3.app/\" rel=\"nofollow\">he3.app</a>)！ He3 是一款免费的开发者工具箱，内置 200+ 工具，简单易用，智能快捷。下面就由我们来一一展示 He3 的功能特性。</p>\n<h2>安装</h2>\n<p>He3 是一款桌面端应用，支持 Mac 和 Windows 。打开官网 (<a href=\"https://he3.app/\" rel=\"nofollow\">he3.app</a>) 根据选择你所需要的安装包：</p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://files.mdnice.com/user/38351/a4830041-7831-4204-9e3e-44114f00c6b6.png\" /></p>\n<p>安装完成后，在安装路径 (Windows 是自选路径，MacOS 是应用程序目录) 下找到并打开 He3 应用。初次打开会有引导界面：</p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://files.mdnice.com/user/38351/1170ca34-2c56-4742-b268-bc729daa1fe8.png\" /></p>\n<h2>极速上手</h2>\n<p>He3 可以通过 Alt + Space (可设置) 一键唤起，通过使用搜索框快速找到工具，直接在右侧打开和关闭，所有操作在一个界面无需跳转：</p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://files.mdnice.com/user/38351/108e7f8f-588d-41b8-8748-668c88978815.png\" /></p>\n<h2>个性化首页</h2>\n<p>He3 提供了个性化首页，展示用户最近和最常使用的、收藏的的工具：</p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://files.mdnice.com/user/38351/a5f07199-6c47-46f0-99d7-f822218bd0b0.png\" /></p>\n<h2>自定义设置</h2>\n<p>你可以在 He3 里设置语言、主题、唤醒快捷键、开机自动启动等。点击左下角的设置按钮将会打开设置页面：</p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://files.mdnice.com/user/38351/e41acbcd-7ccf-4b2a-bb79-d3cf3548c5aa.png\" /></p>\n<h2>智能搜索</h2>\n<p>一个强大的搜索框，能够让用户效率显著提升。为了让用户使用起来更方便更高效，He3 提供了模糊匹配能力，让你无需输入完整即可搜到结果，达到事半功倍的效果。比如下图中，你无需输入 'format' 全文，只需输入 'fmt' 也可以：</p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://files.mdnice.com/user/38351/8ba6adb7-4d83-46d7-91d2-0345eb60bd3e.png\" /></p>\n<h2>相似关键词匹配</h2>\n<p>每个工具还定义了相关的搜索关键词，从而让搜索更加灵活。比如用户搜 'JSON Prettify' 一样可以搜到 'JSON Format' 工具：</p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://files.mdnice.com/user/38351/8b25e45d-73cf-4dbb-b1f2-481d1fe70c57.png\" /></p>\n<h2>预览效果</h2>\n<p>想要更快得到结果吗？没问题！ He3 能够在搜索结果中直接预览相关效果。比如下图中，根据你剪切板内容直接输入到工具中展示结果：</p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://files.mdnice.com/user/38351/2231c991-1456-4a85-a37a-9f37251d9553.png\" /></p>\n<h2>剪切板内容智能识别</h2>\n<p>He3 一大亮点就是会智能识别剪切板的内容。比方说，当你先复制一段 JSON 代码到剪切板，然后打开 He3 就会自动推荐跟 JSON 相关的工具 (下图中红框部分)：</p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://files.mdnice.com/user/38351/0436e3d8-823f-41d1-89f1-ebbc8cdefb07.png\" /></p>",
+    "publish_time": "2022-12-02 10:18:05",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
