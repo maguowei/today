@@ -64,5 +64,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "一个人爆肝 1 年，从 24G 大小、2100 万行代码中做出的 APP",
+    "url": "https://www.v2ex.com/t/899559",
+    "summary": "yangguang31466: <p>App 基于 Chromium 内核 107 修改而来，而这个代码量有 24G 大小，2100 万行代码。为了实现在手机上能无缝安装 Chrome 和 Edge 的扩展插件，把这些代码反复阅读理解。然后在此基础上开发出了支持安装扩展的代码。</p>\n<p>从此手机浏览器能实现那些功能呢？安装那些有用的扩展程序呢？\n1.怕被起诉的 xx 屏蔽，自行安装\n2.视频倍数播放，Video Speed Controller\n3.油猴脚本安装 4.阅读优化扩展。如简悦\n5.infinitynewtab 主页扩展\n6.密码管理器，如 Bitwarden 和 lastpass 密码管理\n7.是所有浏览器网页以暗黑模式显示，Dark Reader\n8.请求头编辑，Header Editor\n9.谷歌上网助手\n10.视频解析-猫抓\n11.Google 翻译扩展\n12.SuperCopy 超级复制\n13.Martian Aptos Wallet Sui Wallet\n14.MetaMask\n15.GitHub 加速\n16.Proxy SwitchyOmega</p>",
+    "publish_time": "2022-12-02 11:16:58",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
