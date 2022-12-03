@@ -75,5 +75,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "南方朋友开地暖了么？",
+    "url": "https://www.v2ex.com/t/899817",
+    "summary": "Hanson666: <p>江浙沪的南方朋友家里有地暖的话什么时候开啊？感觉今年还不是很冷。</p>",
+    "publish_time": "2022-12-03 16:14:11",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "golang 咋这么恶心，解压 zip 文件居然要一大串代码，这不应该是语言内置一行搞定的吗？",
+    "url": "https://www.v2ex.com/t/899827",
+    "summary": "bthulu: <p>这简直不能忍啊</p>\n<p>C#版</p>\n<pre><code>ZipFile.ExtractToDirectory(\"source\", \"target\");\n</code></pre>\n<p>Golang 版</p>\n<pre><code>func Unzip(src, dest string) error {\n    r, err := zip.OpenReader(src)\n    if err != nil {\n        return err\n    }\n    defer func() {\n        if err := r.Close(); err != nil {\n            panic(err)\n        }\n    }()\n\n    os.MkdirAll(dest, 0755)\n\n    // Closure to address file descriptors issue with all the deferred .Close() methods\n    extractAndWriteFile := func(f *zip.File) error {\n        rc, err := f.Open()\n        if err != nil {\n            return err\n        }\n        defer func() {\n            if err := rc.Close(); err != nil {\n                panic(err)\n            }\n        }()\n\n        path := filepath.Join(dest, f.Name)\n\n        // Check for ZipSlip (Directory traversal)\n        if !strings.HasPrefix(path, filepath.Clean(dest) + string(os.PathSeparator)) {\n            return fmt.Errorf(\"illegal file path: %s\", path)\n        }\n\n        if f.FileInfo().IsDir() {\n            os.MkdirAll(path, f.Mode())\n        } else {\n            os.MkdirAll(filepath.Dir(path), f.Mode())\n            f, err := os.OpenFile(path, os.O_WRONLY|os.O_CREATE|os.O_TRUNC, f.Mode())\n            if err != nil {\n                return err\n            }\n            defer func() {\n                if err := f.Close(); err != nil {\n                    panic(err)\n                }\n            }()\n\n            _, err = io.Copy(f, rc)\n            if err != nil {\n                return err\n            }\n        }\n        return nil\n    }\n\n    for _, f := range r.File {\n        err := extractAndWriteFile(f)\n        if err != nil {\n            return err\n        }\n    }\n\n    return nil\n}\n</code></pre>",
+    "publish_time": "2022-12-03 16:43:28",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
