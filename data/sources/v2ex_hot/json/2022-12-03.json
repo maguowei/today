@@ -9,5 +9,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "有没有部署自己的 homelab，都跑了什么服务，硬件配置是什么",
+    "url": "https://www.v2ex.com/t/899741",
+    "summary": "Zzzsk8: <p>突然想折腾台机器专门跑 Linux ，把公司的工作环境在家也复制一份，我的工作环境比较简单，想着装个 gitlib 管理代码，开发环境通过虚拟机或者 docker 部署。</p>\n<p>都专门搞个机器了，只跑这点东西有点太浪费了，想着问问我拿这台机器还能做出什么有意思或者有用的东西，各位大佬有没有成熟的方案给我抄一下作业。</p>\n<p>同时也给推荐下硬件配置吧，现在对电脑硬件也不了解，想通过虚拟机搭开发环境，内存尽量大点，32G 吧，价格 1000--5000 ，能满足需求尽量便宜。</p>\n<p>主要考虑的还是静音、功耗和稳定性。体积也尽量小一点</p>",
+    "publish_time": "2022-12-03 01:25:14",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
