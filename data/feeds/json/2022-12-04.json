@@ -1547,5 +1547,36 @@
       "desc": "人民日报公众号",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
     }
+  },
+  {
+    "title": "有什么书值得买？",
+    "url": "https://www.zhihu.com/question/561625738",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Gameboy Doctor: debug and fix your gameboy emulator",
+    "url": "https://robertheaton.com/gameboy-doctor/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33847905\">Comments</a>",
+    "publish_time": "2022-12-04 06:05:39",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "来了！新闻早班车",
+    "url": "https://mp.weixin.qq.com/s/jq34EGe4R11ZtHIGNRmXMg",
+    "summary": "来了！新闻早班车",
+    "publish_time": "2022-12-04 06:05:15",
+    "source": {
+      "name": "people_daily_gzh",
+      "desc": "人民日报公众号",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
+    }
   }
 ]
