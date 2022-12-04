@@ -9,5 +9,27 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "re:Invent 众多新发布，到底哪款才是开发者心中的Top1？(2)",
+    "url": "https://www.infoq.cn/article/wRENOQgi8ZWtkOyJTGhp",
+    "summary": "<p>新发布的 Amazon EventBridge Pipes 提供针对生产者、消费者的点对点流程，自动完成模块集成，避免编写“胶水”代码；Amazon SageMaker 特性更新，支持地理空间机器学习；Graviton 3E 芯片发布将工作负载提高了35%…到底那款才是开发者心中的 Top1 呢？</p>",
+    "publish_time": "2022-12-04 10:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "Flag Boot：基于范畴论的新一代极简开源微服务框架 | InfoQ《极客有约》",
+    "url": "https://www.infoq.cn/article/YoR074jiv0cOkezLUCxf",
+    "summary": "<p>近期，智源北京人工智能研究院开源了Flag Boot。Flag Boot是一个基于Scala开发的轻量级的高并发微服务框架，为类型安全、服务治理等常见问题，给出了简洁且可扩展性强的解决方案。同时，它使用了基于范畴论的Cats/Cats_Effect等框架，针对抽象代数运算有天然支持。本期InfoQ《极客有约》邀请到了清华大学交叉信息研究院助理教授袁洋和博士生杨景钦来给我们分享Flag Boot开源的二三事。</p>",
+    "publish_time": "2022-12-04 10:50:20",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
