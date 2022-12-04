@@ -736,5 +736,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "英格兰3比0塞内加尔",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E6%A0%BC%E5%85%B03%E6%AF%940%E5%A1%9E%E5%86%85%E5%8A%A0%E5%B0%94%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "英格兰晋级8强",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E6%A0%BC%E5%85%B0%E6%99%8B%E7%BA%A78%E5%BC%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
