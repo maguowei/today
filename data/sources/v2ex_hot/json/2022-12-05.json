@@ -1,0 +1,24 @@
+[
+  {
+    "title": "NAS 伴侣，电费不便宜，能省一点是一点吧",
+    "url": "https://www.v2ex.com/t/900105",
+    "summary": "YAFEIML: NAS 服务器很好，品牌的太贵，自组 NAS 性价比高，windows 又好用，但是谁也不会 24 小时使用（我不玩 PT ），一直开着就太浪费电了，毕竟每小时有 50w 呢。<br />一开始写了个脚本来控制 NAS 睡眠，但是不怎么方便，就学了几天 C#趁着疫情又肝了一段时间做出了这么一个小玩意（感谢 GOOGLE 和各路 c#大神）。<br />界面预览<br /><a href=\"https://postimg.cc/jLn4d0Vw\" rel=\"nofollow noopener\" target=\"_blank\">https://postimg.cc/jLn4d0Vw</a><br /><a href=\"https://postimg.cc/v1brz44f\" rel=\"nofollow noopener\" target=\"_blank\">https://postimg.cc/v1brz44f</a><br />具体功能：<br />添加到 IP 列表内的 IP 如果在线（ ping 返回），那么 NAS 不睡眠<br />添加到进程列表的程序如果在运行，那么 NAS 不睡眠<br />可以通过开关控制单独监控 IP 或进程。（写到这儿的时候突然发现这块逻辑有问题，又完善了下）<br />闲置逻辑并非是 5 分钟间隔检查一次进程或 IP ，而是通过刷新 IP 或进程存在时间来判断。<br /><br />通过 WoLWake 唤醒 NAS 配合操作更舒服，我的方案是 openwrt 配合 sh 脚本来判断唤醒，比如投影 IP 上线，那么就唤醒 NAS ，建议 NAS 使用睡眠方式，这样唤醒非常快，大概 3~5 秒内就通了。<br /><br /><a href=\"https://pan.baidu.com/s/1WPm2lAPsABl3ornMqu53Zg?pwd=weh5\" rel=\"nofollow noopener\" target=\"_blank\">https://pan.baidu.com/s/1WPm2lAPsABl3ornMqu53Zg?pwd=weh5</a><br />提取码: weh5<br /><br />升级计划：<br />注册为服务运行，windows 不登录也可以进行睡眠等操作。<br />会加入端口检测，比如某台设备不在 IP 名单，但是访问了 SMB 服务，那么 NAS 也会保持运行，不进行睡眠。<br />考虑接入配合硬件进行唤醒，比如接入智能家居实现语音唤醒等。<br /><br />如使用中发现任何 BUG ，欢迎回复，一定修复。<br />注意：<a href=\"http://xn--dw2at9x.net/\" rel=\"nofollow noopener\" target=\"_blank\">需要.net</a> framework 4.8 框架",
+    "publish_time": "2022-12-05 09:13:08",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "昨天杭州不再开展常态化核酸了，现在全国疫情防控慢慢放开了，那些企业会不会有开始动作找人，那我在想明年的招聘需求会不会多起来了，有没有专业人士出来说两句",
+    "url": "https://www.v2ex.com/t/900109",
+    "summary": "bam9: 就程序员这块岗位会不会多一点，有没有大佬出来说说，明天跳的话好不好找工作",
+    "publish_time": "2022-12-05 09:48:58",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  }
+]
