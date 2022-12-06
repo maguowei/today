@@ -75,5 +75,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "Solo推出完全集成的云原生应用程序网络平台",
+    "url": "https://www.infoq.cn/article/iRqrOlQ3wXarUVgBAGou",
+    "summary": "<p>近日，云原生应用网络公司<a href=\"https://www.infoq.cn/article/GqMEBjGZZX4G8mcfwSM3\">Solo.io</a>\" 推出了集成产品 <a href=\"https://www.solo.io/products/gloo-platform/\">Gloo平台</a>\"——一个模块化的解决方案，将API网关、服务网格、安全性和云原生网络技术集成到了一个统一的应用网络平台中。</p><p>&nbsp;</p><p>Gloo 平台由开源项目 Istio、Envoy 和 Cilium 提供支持，提供集成的 API 网关、Kubernetes 入口、多集群和多租户服务网格、Kubernetes 网络、安全性和可观察性。据官方数据，Gloo 平台框架可以将企业运营成本降低 30-40%。据悉，Gloo平台的功能包括：</p><p>&nbsp;</p><p>跨平台所有元素的统一控制平面和 API 访问。跨网关、网格和网络的统一安全模型，支持对服务进行一致的身份验证、授权和密码驱动的身份管理。跨平台所有元素的 Kubernetes 原生集成，适用于任何 Kubernetes 发行版（AWS EKS、Azure AKS、GCP GKE、Red Hat OpenShift、VMware Tanzu、SUSE Rancher 等）。API 网关和 Kubernetes 入口功能的可扩展性，包括 GraphQL 和 WebAssembly。跨平台所有元素的一致多集群和多云管理；跨平台所有元素的安全、多租户隔离；和自助服务 API 管理，以提高开发人员的工作效率。</p><p>&nbsp;</p><p>据悉，Gloo 平台包含以下集成组件：</p><p>&nbsp;</p><p>Gloo Gateway提供北/南（API 网关）和东/西（Kubernetes 入口）功能，并由<a href=\"https://www.globenewswire.com/Tracker?data=XSD7jsC57stDIEh62BCQnbza3yENw2bIUH6PGAaoD3w3DVU2edfbOI67YfvR26mHhoGcPR2c2YYZ4GpqS1XQPg==\">Envoy</a>\"和 <a href=\"https://www.globenewswire.com/Tracker?data=_EoNUpqqsj805Kt2HJdKIsTnb0ON7MvC6V_YSAI_UYBdHk8LyW-AwllCkaT7V9AJLO33gRI9zHHSGelNPPp95g==\">Istio</a>\" 启用。它可以部署为集成的 Gloo 平台或独立的 API 网关。Gloo Gateway 可以部署在任何云环境、任何 Kubernetes 环境或虚拟机内。Gloo Mesh 2.1为 Kubernetes 集群、VM 和微服务应用程序提供服务网格管理和服务网格功能。Gloo Mesh 由&nbsp;<a href=\"https://www.globenewswire.com/Tracker?data=_EoNUpqqsj805Kt2HJdKIoEWbwOxuKvgH5SQ65m04gznDhNhvzrl6zLIL8m2UpDwn-hffI--wDEgyUpobM0I7w==\">Istio</a>\" 启用，并扩展了&nbsp;<a href=\"https://www.globenewswire.com/Tracker?data=a-c_8d8FFA4s9v_c8IVMokyHVnaP8kH5ZphU4GJthgWUQLuhplG2FcbBgcIWBXpOUeaEuYtNxJOH_2gfpCkXx2F46uD3rfpG2Mnt4dCoyCcSgFWywULwWy3E-VXVkpZcoZwFK_sbuIU4_CjJn0toUQ5hxlVk2vU30L99ZKCuMSdDfzW_fuAeg3SMbeWsOdmoDhxPXDz7Zi6RhhiafrkKsU5rJVcrcxFEioHrzGkUnrkhxbmcIRr9rsqEYB79Asi4\">一组丰富的功能</a>\"，以提供严格的安全性、高可用性和高级路由。Gloo Network 为 Istio 和 Kubernetes 集群提供 Cilium CNI 功能，并由基于<a href=\"https://www.globenewswire.com/Tracker?data=5i5UdrqfBSD1YTV3yTL_xZaU3awmBpObHgTyj76IzBgr4g7nRC-H17Vn5PdoeVi5\">eBPF</a>\"的开源&nbsp;<a href=\"https://www.globenewswire.com/Tracker?data=2_7YyijELStC_86LapU_W_1mmv9aKXYJiEjEhhSOYoCwehIkuOV8OXdYi4XsCaPyVpJQyeJl5DfzMDzkq5PFZA==\">Cilium</a>\"项目启用。Cilium 是一个快速发展的开源项目，它为基于容器的应用程序提供增强的网络性能、安全性和细粒度可观察性。</p><p>&nbsp;</p><p>根据介绍，Gloo 平台帮助企业推动混合云和多云实践，使组织能够利用开源社区项目（Istio、Envoy、Cilium、eBPF、GraphQL、WebAssembly）的最新创新成果，同时在任何云或Kubernetes环境上持续运行原生技术。Gloo 平台还为 API 和云原生应用程序部署提供零信任安全模型，并通过自动化和 GitOps 提供 DevOps 敏捷性。</p><p>&nbsp;</p><p>参考链接：</p><p>&nbsp;</p><p><a href=\"https://www.globenewswire.com/news-release/2022/10/18/2536473/0/en/Solo-io-Unveils-Industry-s-First-Fully-Integrated-Cloud-Native-Application-Networking-Platform.html\">https://www.globenewswire.com/news-release/2022/10/18/2536473/0/en/Solo-io-Unveils-Industry-s-First-Fully-Integrated-Cloud-Native-Application-Networking-Platform.html</a>\"</p>",
+    "publish_time": "2022-12-06 18:06:50",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
