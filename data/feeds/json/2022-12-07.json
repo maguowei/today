@@ -1666,5 +1666,89 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "人最大的意义是什么？",
+    "url": "https://www.zhihu.com/question/568232563",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "初中成绩和友谊哪个最重要？",
+    "url": "https://www.zhihu.com/question/563388605",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美股三大指数集体收跌，热门中概股多数上涨",
+    "url": "https://www.36kr.com/newsflashes/2033183277575172",
+    "summary": "36氪获悉，12月6日收盘，美股三大指数集体下跌，纳指跌2%，标普500指数跌1.44%，道指跌1.03%。大型科技股表现疲软，Meta跌超6%，亚马逊跌超3%，苹果、Netflix、谷歌、微软跌超2%。热门中概股多数上涨，爱奇艺涨超5%，理想汽车、哔哩哔哩涨超4%，腾讯音乐、小鹏汽车、蔚来涨超3%。",
+    "publish_time": "2022-12-07 07:00:59",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Loopr: A Loop/Reduction Macro for Clojure",
+    "url": "https://aphyr.com/posts/360-loopr-a-loop-reduction-macro-for-clojure",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33887813\">Comments</a>",
+    "publish_time": "2022-12-07 06:08:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Quantum steampunk, a retrofuturistic field of physics",
+    "url": "https://www.popularmechanics.com/science/a32209316/quantum-steampunk-physics/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33885340\">Comments</a>",
+    "publish_time": "2022-12-07 03:07:05",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Odiggo (YC S21), a hardware startup, is looking for a tech co-founder",
+    "url": "https://news.ycombinator.com/item?id=33886973",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33886973\">Comments</a>",
+    "publish_time": "2022-12-07 05:01:00",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "OpenAI quietly launched Whisper V2 in a GitHub commit",
+    "url": "https://github.com/openai/whisper/commit/4179ed2475cc84cba66868b516232ef1b74dacdf",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33884716\">Comments</a>",
+    "publish_time": "2022-12-07 02:24:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Anomaly 6: Private spying firm targets global population with illegal spyware",
+    "url": "https://thegrayzone.com/2022/12/06/files-anomaly-6-firm-spyware/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33887783\">Comments</a>",
+    "publish_time": "2022-12-07 06:05:03",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
