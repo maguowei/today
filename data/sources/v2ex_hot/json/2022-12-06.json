@@ -42,5 +42,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "头痛后续",
+    "url": "https://www.v2ex.com/t/900399",
+    "summary": "500: <pre><code>头痛很久了，之前发帖问过“头痛去医院挂什么科室”；今年 6 月去神经内科看了，至今没有确定头痛是什么引起的。\n</code></pre>\n<p>昨天收到了颈椎 MR 平扫的结果“未见明显异常”，从就医至今我已经尝试过的药和做过的检查：</p>\n<ul>\n<li>止痛药</li>\n<li>慢性头痛药</li>\n<li>抗癫痫广谱药</li>\n<li>抗抑郁药</li>\n<li>头颅 MRI 平扫</li>\n<li>颈椎 MR 平扫</li>\n</ul>\n<p>用药顺序从上到下，头痛发生的频率、剧烈程度和持续时间反而逐渐增长：从最初每周 1~2 次可以忍受的头痛，到现在每周 4~5 次剧烈的长时间的头痛，还会伴随恶心呕吐。</p>\n<p>头颅 MRI 平扫和颈椎 MR 平扫的结果也一切正常。</p>\n<p>现在感觉很迷茫，我也不知道接下来还有什么办法去缓解我的头痛。有时候被十几个小时的头痛折磨的坐立难安又看不到好转的希望，就会觉得生活真的很令人绝望。</p>",
+    "publish_time": "2022-12-06 09:45:56",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "终于能在 macOS 上愉快的使用鼠标了",
+    "url": "https://www.v2ex.com/t/900408",
+    "summary": "MID: <p>开源项目： <a href=\"https://github.com/noah-nuebling/mac-mouse-fix/releases/\" rel=\"nofollow\">https://github.com/noah-nuebling/mac-mouse-fix/releases/</a>\n已经支持 Ventura 了，native support Apple Silicon</p>\n<p>真心太好用了，里面包含了 mos 所有的功能。以前从来不在 mac 上用鼠标，但外借显示器的话，用触摸板长期用会手疼。</p>\n<p>已经给作者 paypal 打钱支持了，如果大家觉得好用，也可以支持一下作者。</p>",
+    "publish_time": "2022-12-06 10:15:10",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "真的受不了 AC+AP 了，我要回 MESH，请问该选购哪款路由器？",
+    "url": "https://www.v2ex.com/t/900467",
+    "summary": "MilkyWayne: <p>H3C 的 AC+AP 方案，面板式 AP ，总共 6 个 AP 。</p>\n<p>刚装修的时候用的是 WIFI5 的套装，漫游慢，速度跑不满千兆，但好在稳定，不掉链子。<a href=\"https://v2ex.com/t/743770#reply74\" rel=\"nofollow\">之前吐槽过</a></p>\n<p>上个星期心血来潮，花了 3K 升级了路由器+POE 交换机+所有 AP ，现在好了，AP 轮着掉线，和 H3C 的工程师通了一早上的电话，也没解决问题。</p>\n<p>痛定思痛，我还是老老实实用 MESH 吧，起码出了问题不用排查这么多设备，现在把所有设备都排查一遍真得很烦。</p>\n<p>我对 MESH 路由器的需求：</p>\n<ol>\n<li>稳定、发热量小；</li>\n<li>在保证信号的同时，体积尽量小一些，造型尽量不要张牙舞爪的；</li>\n<li>有线回程即可；</li>\n<li>预算在 500-1000/台，打算配置 3 台。</li>\n</ol>\n<p>简单做了下功课，貌似现在推荐最多的是 TPLINK 的 5480 ，小米的 AX6000/9000 ，但这些路由器都太大了，而且发热量有点惊人…\n我比较倾向于 Linksys 的 MX5300/MX4200 搭配，但好像是 2 年前的产品了，总觉得有些过时…</p>\n<p>感谢大家！</p>",
+    "publish_time": "2022-12-06 12:37:17",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
