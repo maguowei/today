@@ -1486,5 +1486,125 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "葡萄牙6比1瑞士",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%996%E6%AF%941%E7%91%9E%E5%A3%AB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "贡萨洛拉莫斯梅开二度",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B4%A1%E8%90%A8%E6%B4%9B%E6%8B%89%E8%8E%AB%E6%96%AF%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "格雷罗破门",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%A0%BC%E9%9B%B7%E7%BD%97%E7%A0%B4%E9%97%A8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "恩里克赛前说让球员加练 1000 次点球，却倒在了点球大战上，问题出在哪？",
+    "url": "https://www.zhihu.com/question/570826449",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "摩洛哥队创造历史晋级卡塔尔世界杯 8 强，如何评价他们的表现？摩洛哥足球有着怎样的故事？",
+    "url": "https://www.zhihu.com/question/570826596",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "你认为下一个 AI 风口在何时？",
+    "url": "https://www.zhihu.com/question/557939817",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Faceting large result sets in PostgreSQL",
+    "url": "https://www.cybertec-postgresql.com/en/faceting-large-result-sets/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33886709\">Comments</a>",
+    "publish_time": "2022-12-07 04:40:42",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Postgres Tips and Tricks",
+    "url": "https://www.crunchydata.com/postgres-tips",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33886800\">Comments</a>",
+    "publish_time": "2022-12-07 04:47:43",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Publish from GitHub Actions using multi-factor authentication",
+    "url": "https://github.com/step-security/wait-for-secrets",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33884424\">Comments</a>",
+    "publish_time": "2022-12-07 02:05:00",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Apple announces ‘upgrade’ to App Store pricing, adding 700 new price points",
+    "url": "https://appleworld.today/archives/101157",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33884441\">Comments</a>",
+    "publish_time": "2022-12-07 02:06:03",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "RadTrike Electric Tricycle",
+    "url": "https://www.radpowerbikes.com/products/radtrike-electric-tricycle",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33885834\">Comments</a>",
+    "publish_time": "2022-12-07 03:40:06",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Lottie 4.0 for iOS: new render engine with significant performance improvements",
+    "url": "https://medium.com/airbnb-engineering/announcing-lottie-4-0-for-ios-d4d226862a54",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33886673\">Comments</a>",
+    "publish_time": "2022-12-07 04:37:33",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
