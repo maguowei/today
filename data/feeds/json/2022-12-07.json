@@ -1446,5 +1446,45 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "西班牙队本场状态",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99%E9%98%9F%E6%9C%AC%E5%9C%BA%E7%8A%B6%E6%80%81%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "C罗连续31场首发纪录终结",
+    "url": "https://s.weibo.com/weibo?q=%23C%E7%BD%97%E8%BF%9E%E7%BB%AD31%E5%9C%BA%E9%A6%96%E5%8F%91%E7%BA%AA%E5%BD%95%E7%BB%88%E7%BB%93%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Will we finally see Neuromancer on the screen?",
+    "url": "https://j-nelson.net/2022/12/will-we-finally-see-neuromancer-on-the-screen/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33885507\">Comments</a>",
+    "publish_time": "2022-12-07 03:17:54",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "I Taught ChatGPT to Invent a Language",
+    "url": "https://maximumeffort.substack.com/p/i-taught-chatgpt-to-invent-a-language",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33885153\">Comments</a>",
+    "publish_time": "2022-12-07 02:53:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
