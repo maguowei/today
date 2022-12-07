@@ -383,5 +383,27 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Beware of the perfect gentleman",
+    "url": "https://www.vice.com/en/article/n7zmvd/beware-of-the-perfect-gentleman",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33889407\">Comments</a>",
+    "publish_time": "2022-12-07 09:04:03",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "VSCode remote code execution advisory",
+    "url": "https://github.com/google/security-research/security/advisories/GHSA-pw56-c55x-cm9m",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33890098\">Comments</a>",
+    "publish_time": "2022-12-07 10:49:26",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
