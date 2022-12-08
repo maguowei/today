@@ -1348,5 +1348,87 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "神级挑战京多安",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%A5%9E%E7%BA%A7%E6%8C%91%E6%88%98%E4%BA%AC%E5%A4%9A%E5%AE%89%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "黄宗泽从法证忙到廉政",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AE%97%E6%B3%BD%E4%BB%8E%E6%B3%95%E8%AF%81%E5%BF%99%E5%88%B0%E5%BB%89%E6%94%BF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "钟南山院士谈奥密克戎，称其「传染性极强」致病率减弱，「我们不能用两年前的一些方法」，如何解读？",
+    "url": "https://www.zhihu.com/question/571250139",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Google Zanzibar Through Our Eyes",
+    "url": "https://authzed.com/blog/annotated-zanzibar-launch/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33910685\">Comments</a>",
+    "publish_time": "2022-12-09 01:37:49",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Airtable, last valued at $11B for its no-code software, lays off over 250",
+    "url": "https://techcrunch.com/2022/12/08/airtable-layoffs/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33911873\">Comments</a>",
+    "publish_time": "2022-12-09 03:12:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "German states and federal government agreed on nationwide 49€ ticket coming 2023",
+    "url": "https://newsrnd.com/news/2022-12-08-mpk-decides-on-germany-ticket--according-to-scholz--it-should-come-%22very-quickly%22-.H1-dBr31Oo.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33911902\">Comments</a>",
+    "publish_time": "2022-12-09 03:15:55",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Hacking on a plane: Leaking data of millions and taking over any account",
+    "url": "https://rez0.blog/hacking/2022/12/02/hacking-on-a-plane.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33911698\">Comments</a>",
+    "publish_time": "2022-12-09 03:01:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "FTC Seeks to Block Microsoft Corp.’S Acquisition of Activision Blizzard, Inc",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2022/12/ftc-seeks-block-microsoft-corps-acquisition-activision-blizzard-inc",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33912060\">Comments</a>",
+    "publish_time": "2022-12-09 03:26:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
