@@ -898,5 +898,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "美白好物年度盘点",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%99%BD%E5%A5%BD%E7%89%A9%E5%B9%B4%E5%BA%A6%E7%9B%98%E7%82%B9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "自适应跑鞋凭什么火",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%87%AA%E9%80%82%E5%BA%94%E8%B7%91%E9%9E%8B%E5%87%AD%E4%BB%80%E4%B9%88%E7%81%AB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "梅西追平巴蒂纪录",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%BF%BD%E5%B9%B3%E5%B7%B4%E8%92%82%E7%BA%AA%E5%BD%95%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
