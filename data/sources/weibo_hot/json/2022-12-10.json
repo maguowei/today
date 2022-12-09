@@ -880,5 +880,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "梅西手术刀助攻",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E6%89%8B%E6%9C%AF%E5%88%80%E5%8A%A9%E6%94%BB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "荷兰半场0比1阿根廷",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8D%B7%E5%85%B0%E5%8D%8A%E5%9C%BA0%E6%AF%941%E9%98%BF%E6%A0%B9%E5%BB%B7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
