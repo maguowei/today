@@ -53,5 +53,71 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "HTAP 数据库存储引擎技术演进 | DBTalk 技术公开课第5期",
+    "url": "https://www.infoq.cn/article/9sR6ksp2vKxMBNCWQEJf",
+    "summary": "<p>近年来 HTAP 数据库受到工业界和学术界越来越多的关注，数据库存储引擎也从以往的面向 TP 场景的行存和面向 AP 场景的列存储独立发展的道路，走向了行存 + 列存并由存储引擎根据数据冷热度自动调度数据分布的混和形式，以实现在同一份数据上同时满足 TP AP 两种需求，并且降低用户存储成本，同时结合云原生时代的廉价对象存储可以进一步降低用户成本，本次分享将带来业界在存储引擎方向兼容 TP 与 AP 能力，打造极致性能的探索与实践。</p>",
+    "publish_time": "2022-12-09 17:52:42",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "Timeplus携手亚马逊云科技 基于容器化的多租户 SaaS 实践",
+    "url": "https://www.infoq.cn/article/VhLfM7kp3ohoN8JhZgZ0",
+    "summary": "<p>11月25日，亚马逊云科技携手InfoQ、物联传媒共同打造的「这是我的架构-直播周」系列节目第三季第五集压轴登场！本集邀请到的是Timeplus 创始工程师梁智敏和亚马逊云科技解决方案架构师周爱琳，聚焦多租户SaaS&nbsp;应用场景，共同探究“多租户SaaS基于容器化的实践”。一起来看本期直播。</p><p></p><h2>Timeplus&nbsp;是谁？</h2><p></p><p></p><p>Timeplus&nbsp;是一家成立仅一年时间的初创公司，公司虽新，却拥有多位在大数据领域深耕多年的专家，Timeplus&nbsp;团队看到了实时数据分析流领域的空白，Timeplus&nbsp;流数据分析平台应运而生。Timeplus&nbsp;希望用户只用统一而简单的SQL，就可以实现数据的分析处理，并生成实时可视化组件，包括数据图表、仪表盘和告警等等。</p><p></p><h2>Timeplus&nbsp;能为用户带来什么业务价值？</h2><p></p><p></p><p>第一，智能车队管理。梁智敏以物流运输为例，物流运输公司可以通过为每辆车加装传感器，监控汽车的各种状态，如速度、油量、位置等数据。基于实时数据分析流就可以利用这些数据及时确定车辆状态，从而采取对策。</p><p>&nbsp;</p><p>第二，云基础设施/服务监控。对于云上的基础设施和服务，监测其状态必不可少，以便提供高可用、高可靠的服务。目前的大多解决方案都是定时查询状态，造成状态的滞后性。而通过&nbsp;Timeplus 不间断的流查询，能够实时监测数据，可以更及时地发现潜在问题。</p><p>&nbsp;</p><p>第三，安全方面。Timeplus&nbsp;可以实时监控敏感信息并发出发出警告，实时防止重要信息泄露，为用户提供更安全的使用环境。</p><p></p><p></p><h2>Timeplus&nbsp;为什么选择基于Amazon&nbsp;EKS&nbsp;构建容器化架构？</h2><p></p><p></p><p>“最大的原因，其实就是简单”，梁智敏回答道，“使用亚马逊云科技的技术和服务让我们无需再花成本维护集群，<a href=\"https://www.infoq.cn/article/mJxWq8XfDBHGfdefkawS\">Amazon&nbsp;EKS</a>\"&nbsp;能实现整个控制平台的自动化管理，同时提供高可用、高扩展性的保障。我们甚至只需要轻点一个按钮，就能完成集群的升级。对于Timeplus&nbsp;这样的初创团队来说，这种成本节约实在是太宝贵了！”</p><p>&nbsp;</p><p>借助<a href=\"https://xie.infoq.cn/article/49e747d4610cf26499fdd1c5a\">Karpenter</a>\"&nbsp;管理的Amazon&nbsp;EC2，Timeplus拥有高效的弹性扩缩容能力。Karpenter&nbsp;能够根据根据用户workload&nbsp;自动添加和删除计算资源。“而且 Karpenter&nbsp;本身是开箱即用的，我们只需要用CRD&nbsp;定义好资源，就能实现自动管理，这对我们初创企业来说可以说是开源节流。”</p><p></p><h2>如何基于容器化进行多租户SaaS&nbsp;设计？</h2><p></p><p></p><p>Timeplus&nbsp;每个租户的资源都保存在相互独立的work&nbsp;space&nbsp;中，从而实现多租户隔离。针对多租户共享服务，如&nbsp;Web&nbsp;应用、网页API 和控制平面，Timeplus&nbsp;使用AWS-load-balancer-controller&nbsp;管理负载均衡，使用URL&nbsp;前缀来区分不同work&nbsp;space&nbsp;的访问。在数据层面上，基于亚马逊云科技的&nbsp;ebs-csi-controller 管理数据库 persistent volumes，保障了数据的高可靠性、扩展性和安全性。</p><p>&nbsp;</p><p>至此「这是我的架构-直播周」系列节目第三季完美落下帷幕，在这一周中，现代化应用改造、快速建站、<a href=\"https://xie.infoq.cn/article/4f8a57addd922144f30c0b406\">数据分析</a>\"、多租户SaaS…让我们看到了架构创新带来的无限可能。创新迭代的脚步从未停止，亚马逊云科技也将持续耕耘，携手更多合作伙伴探索云上未来。</p>",
+    "publish_time": "2022-12-09 17:55:50",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "如何利用资源管理技术，让 HTAP 负载同时运行？| DBTalk 技术公开课第5期",
+    "url": "https://www.infoq.cn/article/IcopQLgKeZGdZbfhWPF1",
+    "summary": "<p>在 HTAP 系统内会同时存在 OLAP 和 OLTP 的负载，OLAP 场景的负载往往会占用较多的资源，包括 CPU、内存等，执行时间比较长，而 OLTP 场景的负载往往不会占用特别多的资源，执行时间比较短，但是往往对响应时间比较敏感。在这种混合负载场景下，往往会出现这样的情况：某一个或几个查询需要花费很长的时间，同时占用极多的资源，从而导致其他同时运行的查询无法争抢到相应的资源而被阻塞或运行缓慢。更严重的是，这种占用资源的查询往往并不是优先级最高的，但是足以拖累其他优先级更高的查询。本次分享，将介绍在 HTAP 数据库中，如何制定资源管理策略，从而对各种不同类型的查询进行管理，使得资源管理的方式更有弹性和更为有效。</p>",
+    "publish_time": "2022-12-09 18:15:27",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "数字化工厂：64%企业仍处转型初期，每年超1.1万亿美元投向该领域",
+    "url": "https://www.infoq.cn/article/OFXQa5YIfMpox46uAjUZ",
+    "summary": "<p></p><p>近日，普华永道思略特发布了<a href=\"https://www.strategyand.pwc.com/cn/zh/reports/2022/digital-factory-transformation-research-report-nov2022.pdf\">《2022年数字化工厂转型调研报告》</a>\"。调研收集了来自23个国家和地区的700多家企业的反馈，结果表明，面对前所未有的危机时刻，数字化转型是构建运营灵活性和弹性的可选路径，且将进一步推动卓越运营。</p><p></p><p>该报告显示，在接受调研的全球制造商中，只有10%已经完成数字化转型计划或目前处于最后阶段，64%的企业只完成了最初的试点安装甚至更少，他们仍需大量资源来完成数字化转型，现在是加大实施力度的时间节点。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/91/9162b06b6e02a08e18fac385cd2a3cb3.png\" /></p><p></p><p>距离数字“工业4.0”的概念首次出现已经有十多年时间，为什么数字转型要花这么长时间才能完成？普华永道目前的调研表明，组织、技能、规划和授权投资皆是企业现在需要加强的领域，具体而言：</p><p></p><p>转型需要正确的组织架构，支持敏捷的运营模式并增强的数字化能力；从计划变革的第一天就应预留可拓展性；纵向和横向一体化的数字主干等关键赋能因素需要高投资作为支撑；系统、流程和连接性需要进一步标准化和协调，以支持企业范围的实施。</p><p></p><p>普华永道思略特中国工业产品及服务行业主管合伙人沈宇峰表示：“新冠疫情和其他外部因素的影响，迫使领先制造商实施数字解决方案。在物料短缺和供应链不稳定情况下，转型当务之急从提高效率变为提高生产灵活性和交付韧性。同时，作为数字化工厂转型过程的一部分，<a href=\"https://www.infoq.cn/article/wK91ohatBuULkxsliMaa\">可持续发展举措</a>\"受到越来越多的关注。”</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/01/0143a2434ffe2015141ee359a1f65a67.png\" /></p><p></p><p>投资重点方面，普华永道预测，全球企业在数字化工厂转型领域的投资每年超过1.1万亿美元，其中工业制造和化工行业的投入最高。约四分之一的受访企业将至少3%的净营收用于投资数字化解决方案，并获得最高达两位数的回报。</p><p></p><p>在数字主干、用例和技术方面，普华永道表示，业务用例的范围包括从质量管理、维护、监测到数字孪生搭建，应用技术则包括设备、移动应用、机器人和<a href=\"https://www.infoq.cn/theme/150\">人工智能</a>\"。标准化的数字主干是工厂成功转型的关键基石，工厂数字主干对于协调和整合工厂内外所有数字解决方案至关重要，其主要由以下四个关键解决方案中的一个或多个组成，包括：ERP（企业资源规划解决方案）、MES（制造执行系统）/MOM（制造运营管理解决方案）、 IIoT（工业互联网平台）、 PLM（产品生命周期管理解决方案）。</p><p></p><p>对于中国市场数字化工厂的建设，普华永道基于其在中国市场的项目经验总结道，成功的智慧工厂需要遵循以下三大原则：运营管理基本原则是成功基石；规划应基于工厂战略定位、赋能核心能力建设；应结合行业、工厂及技术生态特性进行定制化建设。</p><p></p><p>报告下载地址：https://www.strategyand.pwc.com/cn/zh/reports/2022/digital-factory-transformation-research-report-nov2022.pdf</p>",
+    "publish_time": "2022-12-09 18:24:50",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "HTAP 数据库最佳实践 | DBTalk 技术公开课第5期",
+    "url": "https://www.infoq.cn/article/C1iWhJBmjyKA2oyLOP7u",
+    "summary": "<p>在对业务 HTAP 数据库越来越多的需求下，一个数据库产品如何解决数据组织，资源调度等多方面的难题，从而更好地服务客户，是 HTAP 数据库的重点。本次分享将介绍 TDSQL- PG 如何一步步实现 HTAP，帮助客户解决问题。</p>",
+    "publish_time": "2022-12-09 18:26:53",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "为了顾客体验需要投入多少成本｜第五期完整版（中）",
+    "url": "https://www.infoq.cn/article/HKkKApp6cZ5ofzlMlkHk",
+    "summary": "<p>《行知数字中国》第五期，InfoQ邀请到麦当劳中国首席信息官，对外界深入分享他眼中的“数字化金拱门”。在他看来，企业进行数字化的过程很重要的一点是：转换思考问题的角度。</p>\n<p>本视频为第五期完整版的（中）集。精剪版可进入《行知数字中国》视频栏目专辑查看。</p>",
+    "publish_time": "2022-12-09 18:39:31",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
