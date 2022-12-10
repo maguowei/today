@@ -1648,5 +1648,47 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "凯恩点球破门",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%87%AF%E6%81%A9%E7%82%B9%E7%90%83%E7%A0%B4%E9%97%A8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Fuel out of thin air: CO2 capture from air and conversion to methanol (2020)",
+    "url": "https://research.american.edu/carbonremoval/2020/09/29/fuel-out-of-thin-air-co2-capture-from-air-and-conversion-to-methanol/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33935306\">Comments</a>",
+    "publish_time": "2022-12-11 02:34:48",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Simulated Wormholes for My Real Friends, Real Wormholes for My Simulated Friends",
+    "url": "https://4gravitons.com/2022/12/09/simulated-wormholes-for-my-real-friends-real-wormholes-for-my-simulated-friends/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33936291\">Comments</a>",
+    "publish_time": "2022-12-11 04:07:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Haskell, Ada, C++, Awk: An Experiment in Prototyping Productivity (1994) [pdf]",
+    "url": "https://www.cs.yale.edu/publications/techreports/tr1049.pdf",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=33936366\">Comments</a>",
+    "publish_time": "2022-12-11 04:14:21",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
