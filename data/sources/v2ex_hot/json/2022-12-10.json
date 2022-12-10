@@ -42,5 +42,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "防止 PayPal 风控经验分享",
+    "url": "https://www.v2ex.com/t/901493",
+    "summary": "mariljacksoa: 1⃣️注册的时候账单电话和地址不要填网上教程里面的，自己在注册地区搜一个地址，比如搜一个学校地址。身份信息如实填写<br />2⃣️⚠️⚠️⚠️最重要‼️最关键的一点，使用 PayPal 的时候不要用 VPN ，你 IP 跳来跳去人家不风控你才怪，因为认为你的帐号存在风险。我的经验就是只要我使用 PayPal 我就关掉 VPN ，至今没被风控过。（注册 PayPal 也不用 VPN ，最好用微软邮箱，不用 VPN 也可以验证邮箱）<br />⚠️要防止风控就要知道风控的原理，可以去 PayPal 官网学习一下，官网有的（不要被网上的一些教程误导了，比如有些教程说注册好之后要捐钱，其实也不用）<br />3⃣️PayPal 可以绑定的银行卡应该大部分拥有外币功能的都可以（ visa 、万事达…），我推荐是浦发 ego 卡，一下子可以拥有三张外币卡，有兴趣可以了解一下，其他卡没试过。<br />4⃣️至于注册的时候手机验证问题，美区可以买 Google voice ，现在好像比较难买了；台区可以用修改代码方式用+86 手机接收验证码，其他区没试过不清楚。",
+    "publish_time": "2022-12-10 10:58:06",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
