@@ -20,5 +20,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "编程神器Copilot被官司搞怕了？月收费19美元的商业版将提供辩护服务，最高索赔50万美元",
+    "url": "https://www.infoq.cn/article/509czSmTf7Qrv2TocrAu",
+    "summary": "<p></p><blockquote><a href=\"https://www.infoq.cn/article/93kD4l5m0pye7k5CrKRT\">Copilot</a>\" 的商业化“虽迟但到”。</blockquote><p></p><p></p><h2>GitHub 推出商业版 Copilot</h2><p></p><p></p><p>据外媒 theRegister 报道，GitHub 旗下的 AI 编程神器 Copilot 现已推出商业版本，每月收费 19 美元（约合 133 元人民币）。与普通版本的区别在于，商业版能够过滤掉公共源代码，并确保其底层机器学习模型不是从互联网上直接摘抄代码自动补全建议。</p><p></p><p>Copilot 产品管理高级总监 Shuyin Zhao 在博文中解释道，“您可以轻松设置策略控制，代表组织对用户强制执行公共代码匹配设置。”</p><p></p><p>据 GitHub 介绍，大约 1% 的 Copilot 代码建议可能包含超过 150 个字符的代码片段，这与训练集中的代码完全一致，而这些代码就是根据各类软件许可，从公共在线源代码中挑选出来的。</p><p></p><p>为了避免滥用公共代码带来的风险， GitHub 早在今年 6 月就推出了面向个人用户的<a href=\"https://www.infoq.cn/article/weSmeUflc2RhAVvoR5Xt\">正式版 Copilot</a>\"，定价为每月 10 美元（约合 70 元人民币）。开发人员可以在 Visual Studio Code、JetBrains IDE、Neovim 等集成开发环境中编程时使用，Copilot 甚至可以建议复杂的算法以及样板代码并协助进行单元测试。</p><p></p><p>如今推出的商业版 Copilot 主要面向企业用户，虽然与面向个人用户的正式版 Copilot 在功能上存在交集，但定位并不一样。商业版 Copilot 面向的是拥有GitHub Enterprise Cloud 许可证的客户，负责为客户提供集中的许可证管理，主要解决大型开发者团队的使用和付费管理需求。</p><p></p><p>商业版 Copilot 承诺，无论数据来自公共代码仓库、私有代码仓库、非 GitHub 代码仓库或者是本地文件，都“不会保留代码片段，也不会存储或共享客户的代码”。所以从理论上讲，企业客户可以完全放心，企业的机密商业算法绝不会被发送至 GitHub 并用于 Copilot AI 的产品改进。</p><p></p><p>但商业版 Copilot 仍然会传输“使用数据”，与编辑操作相关的事件（例如接受或取消补全），错误，以及延迟和功能使用情况等数据，其中包括假名标识符等潜在的个人数据。</p><p></p><h2>经历过诉讼风波后，Copilot将为代码建议提供辩护和索赔</h2><p></p><p></p><p>虽然商业版 Copilot 做出了不收集代码建议的承诺，但还不清楚是否会继续收集其他数据来改善后续代码补全效果。此外，客户也会对 Copilot 的代码合规性感到担忧——Copilot 的代码建议很可能会将引发版权纠纷甚至是软件许可索赔。</p><p></p><p>毕竟这类事件已经发生过一次了。</p><p></p><p>今年 6 月，律师兼开发者 Matthew Butterick 写了一篇关于 GitHub Copilot 法律问题的文章，该文直指 Copilot 对开源许可证处理不当的问题。Butterick 在一份新闻稿中指出，Copilot 从一开始就明显存在法律问题。“作为拥有多年经验的开源程序员，我在第一次试用时就感受到了其中的问题。而且相信其他很多开发者也跟我一样，发现 Copilot 不对劲。结合自身法律背景，我觉得有必要拿起法律武器支持开源社区。”</p><p></p><p>11 月，BUtterick 宣布对 Copilot 提起<a href=\"https://www.infoq.cn/article/kxgaToQYC9Ura5L4GeuR\">诉讼</a>\"，诉讼指出，被告方使用公共 GitHub 代码仓库进行 Copilot 训练，这侵犯了众多开发人员在各类开源软件许可上的合法权利。该诉讼已提交到美国加州北区地方法院，要求法院批准 90 亿美元的法定损害赔偿金。</p><p></p><p>GitHub 显然也意识到了这种不确定性法律风险对企业客户信心的影响，因此对商业版 Copilot 产品特定条款中的 Copilot 输出约定做出调整，借此避免企业客户受到侵权索赔。</p><p></p><p>GitHub 在企业客户协议中提到：“GitHub 将为您辩护，以免无关第三方宣称您使用 GitHub Copilot 的行为涉嫌盗用商业机密，或直接侵犯了第三方的专利、版权、商标或其他知识产权，最高金额为 50 万美元、或您在索赔前 12 个月内支付的 GitHub Copilot 总使用费，以较高者为准。”</p><p></p><p>也就是说，如果企业客户因为采用了 Copilot 建议的代码而被起诉的话，GitHub 将为其提供辩护，并提供一定金额的索赔。</p><p></p><p>不过，如果涉嫌侵权的代码与 Copilot 提供的代码建议不同，或是出现以下情况，GitHub 将不会负责：未能遵循合理的软件开发审查实践；未能防止以可能侵犯第三方知识产权或其他权利的方式有意或无意地使用代码；并未启用 GitHub 的代码过滤功能。</p><p></p><p>一旦发生侵犯纠纷，Copilot 个人用户和不在企业账户下的客户得自行面对法律诉讼。GitHub 还明确提到，Copilot 用户有责任审查所建议代码的安全性和合法性。</p>",
+    "publish_time": "2022-12-12 14:18:06",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
