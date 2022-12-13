@@ -31,5 +31,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "很好奇，那些退休的高官，现在怎么预防被感染？",
+    "url": "https://www.v2ex.com/t/902109",
+    "summary": "MrCsharp: <p>不接触人？还是与他接触的人必须先做核酸检测，有结果才能与他接触？</p>",
+    "publish_time": "2022-12-13 10:05:18",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "我发现老罗的遗产：锤子便签 没有非常合适的平替",
+    "url": "https://www.v2ex.com/t/902111",
+    "summary": "chihu: 我用锤子便签主要是轻度使用并且它可以多端同步（ Android iOS web ），小巧、内容支持图片、标签内容打开即提取、复制粘贴方便、APP web 端打开迅速、按时间排序、可表星、常用文本格式方便、分类、链接可点击等。<br />最近用锤子便签它丢失我的笔记了<br />试了不少国内产品都不尽人意：<br />① OneNote： 同步有所改善 依然慢 笔记越多越慢<br />② 石墨文档： 功能过于强大 打开不够迅速 <br />③ 幕布： 有纯文本模式就好了 最近也不更新了<br />④ 语雀： 一言难尽 语雀小记挺有意思的<br />⑤ 飞书： 不适合轻度使用<br />⑥ Craft：东西不错 有些不适应 习惯还没改过来<br />⑦ 钉钉： 调用费劲 无 web 端<br />⑧ 怡氧： 哪哪都不好用 不如本家坚果云+rtf 文件<br />⑨ iOS 备忘录： 没有 Android 端 web 端打开费劲 文字格式容易出问题<br />⑩ 简书： 轻度使用不适用 <br />⑪ 小米笔记： 没有 ISO 端 web 端没用过<br />⑫ 讯飞语记： 最接近的产品 时不时的出现小毛病 我就是从讯飞迁移到锤子便签的<br />⑬ 有道笔记 为知笔记 印象笔记：APP 过于庞大  倒闭笔记大家都懂",
+    "publish_time": "2022-12-13 10:11:09",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "光猫改桥接，还有啥必要？",
+    "url": "https://www.v2ex.com/t/902139",
+    "summary": "wanmyj: <p>上海电信给我换了个贝尔 XE140W 的 SDN 光猫，我测下来千兆性能没啥问题。</p>\n<p>wifi6(单双频不清楚)，UPNP ，端口映射，DMZ ，这些功能都有了</p>\n<p>家里没有 mesh 需求。</p>\n<p>软路由选择放到内网当透明代理。<br />\n游戏？一层 NAT ，NP ！<br />\n翻墙？ NP ！<br />\nPT ？公网 NP ！<br />\n各种 Docker ？ NP ！<br />\nDDNS ？公网 NP ！<br />\nIPTV ？组播转单播，盒子也不浪费，更 NP ！</p>\n<p>总之没想到有啥必须要采用桥接的场景需求。</p>\n<p>更是避免了一些小白搞完桥接，对自己软路由一通乱搞，导致软路由内置的防火墙形同虚设，攻击面大大增加。</p>\n<p>下午师傅上门要改回来了，现在后悔还来得及，问问大家桥接的必要性在哪里？没啥必要就直接改回来，还能省一个无线 AP</p>",
+    "publish_time": "2022-12-13 11:22:05",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
