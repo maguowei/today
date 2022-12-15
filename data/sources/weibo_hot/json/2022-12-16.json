@@ -556,5 +556,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "熬夜真的无解吗",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%86%AC%E5%A4%9C%E7%9C%9F%E7%9A%84%E6%97%A0%E8%A7%A3%E5%90%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "赵美延跳了antifragile",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%BE%8E%E5%BB%B6%E8%B7%B3%E4%BA%86antifragile%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "陈乔恩说艾伦就是自己的理想型",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B9%94%E6%81%A9%E8%AF%B4%E8%89%BE%E4%BC%A6%E5%B0%B1%E6%98%AF%E8%87%AA%E5%B7%B1%E7%9A%84%E7%90%86%E6%83%B3%E5%9E%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
