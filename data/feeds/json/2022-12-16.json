@@ -1207,5 +1207,72 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "现在的智能家电有多牛",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E7%9A%84%E6%99%BA%E8%83%BD%E5%AE%B6%E7%94%B5%E6%9C%89%E5%A4%9A%E7%89%9B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何评价电影《阿凡达：水之道》（Avatar:The Way of Water）？",
+    "url": "https://www.zhihu.com/question/572276682",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "学习压力过大且长期无法放松会造成怎样的结果？",
+    "url": "https://www.zhihu.com/question/40675664",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么身负重伤的人一旦睡着就会死？",
+    "url": "https://www.zhihu.com/question/506272658",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何看待吴亦凡工作室员工遭行业唾弃，无法找到工作，愤而受访曝案件内幕？污点艺人的工作人员应该被牵连吗？",
+    "url": "https://www.zhihu.com/question/571912918",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "What Is a Query Planner?",
+    "url": "https://planetscale.com/blog/what-is-a-query-planner",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34003797\">Comments</a>",
+    "publish_time": "2022-12-16 02:45:20",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Vintage-Style Map of the Mandelbrot Set",
+    "url": "https://kottke.org/22/12/vintage-map-mandelbrot-set",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34004927\">Comments</a>",
+    "publish_time": "2022-12-16 04:06:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
