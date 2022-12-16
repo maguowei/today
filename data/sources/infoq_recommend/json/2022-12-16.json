@@ -119,5 +119,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "Kubernetes 1.26 版本正式发布：改进 Windows 支持，加强网络安全和管理功能",
+    "url": "https://www.infoq.cn/article/97LDs46oamxHYLAhp5uK",
+    "summary": "<p>近日，<a href=\"https://kubernetes.io/blog/2022/12/09/kubernetes-v1-26-release/\">Kubernetes 1.26</a>\" 正式发布。该版本总共包括 37 项增强功能：其中 11 项将升级为稳定版，10 项为毕业到 Beta，另外 16 项正在进入 Alpha 版，还有十二个功能已被弃用或删除。</p><p>&nbsp;</p><p>Kubernetes在企业中被广泛使用，这也让<a href=\"https://www.infoq.cn/article/zFR1q0chGl6SwFd1QMiD\">Kubernetes</a>\"成为黑客的攻击目标。新版本中，Kubernetes发布工件签名现已升级至beta版。此功能在v1.24版初次引入，是Kubernetes发布过程安全性方面的一大重要里程碑。新版本中，所有发布工件均使用cosign进行无密钥签名，且可验证二进制工件与镜像。</p><p>&nbsp;</p><p>新版本支持高权限<a href=\"https://www.infoq.cn/article/hhk37_UC1FgJFCQyIk7c\">容器</a>\"，允许容器以类似于主机上所运行进程的方式获取权限。Windows节点中的功能支持被称为HostProcess容器，现已升级为稳定版，允许用户通过高权限容器访问主机资源（包括网络资源）。</p><p>&nbsp;</p><p>这个版本也成为首个使用新的registry.k8s.io容器镜像注册表进行发布的版本。原先的k8s.gcr.io镜像注册表不再发布1.26版本的容器镜像标签，只会继续更新1.25及之前的版本标签。</p><p>&nbsp;</p><p>另外，随着容器运行时接口（CRI）的采用和dockershim在1.24版中被移除，CRI已经成为Kubernetes与不同容器运行时进行交互的唯一官方指定方式。各个kubelet会通过协商使用CRI版本及节点上的容器运行时。</p><p>&nbsp;</p><p>在之前的版本中，Kubernetes项目推荐使用CRI v1版本，但kubelet仍可协商使用CRI v1 alpha2，该版本已被弃用。但是，Kubernetes 1.26将不再支持CRI v1alpha2，因此如果容器运行时不支持CRI v1，则移除后kubelet将无法注册节点。也就是说，Kubernetes 1.26不再支持containerd的次要版本1.5及更早版本。如果开发者要继续使用containerd，则需要升级至containerd 1.6.0或更高版本，之后才能将节点升级至Kubernetes v1.26。同样的情况也适用于其他只支持v1alpha2的容器运行时。</p><p>&nbsp;</p><p>此外，Kubernetes的多项指标迎来改进，如指标框架扩展升级至alpha、组件健康服务水平指标（Component Health Service Level Indicators）升级至alpha。现在，各Kubernetes组件均已支持功能指标。用户可以检查组件指标端点的kubernetes_feature_enabled以跟踪是否启用了各活动功能门。</p><p>&nbsp;</p><p>更多信息查看：</p><p><a href=\"https://kubernetes.io/blog/2022/12/09/kubernetes-v1-26-release/\">https://kubernetes.io/blog/2022/12/09/kubernetes-v1-26-release/</a>\"</p>",
+    "publish_time": "2022-12-16 17:46:35",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
