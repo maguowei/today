@@ -31,5 +31,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "白嫖的 XShell 被公司禁掉，大家有啥推荐的没？",
+    "url": "https://www.v2ex.com/t/902860",
+    "summary": "kyrre: <p>首先申明，我知道 xshell 商用是不免费的，但无奈离不了它的几个功能，同时又觉得它确实有点小贵。目前觉得最好的几个功能：\ncommond button ，可以方便的把一些常用的命令浓缩成一个按钮。\nsession 的快捷方式\nsession 复制\n方便的窗口切分\n后两个用了 tmux 后也能忍，不过有时候还是挺贴心的。</p>\n<p>试了 MobeXterm ，感觉有点卡，而且其实它商用也不免费。\nputty 、kitty 也用，就只是感觉简陋。\nWindows Terminal 连 putty 个人感觉还不如 putty 。</p>",
+    "publish_time": "2022-12-16 09:21:23",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
