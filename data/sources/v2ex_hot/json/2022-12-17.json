@@ -75,5 +75,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "好奇问一下关于中国 ipv6 主根服务器的问题",
+    "url": "https://www.v2ex.com/t/903132",
+    "summary": "biguokang: <p>最近 b 站出现很多 ipv6 的介绍视频，里面有说到中国拥有 ipv6 的主根服务器，所以能独立自主不怕美国断网。</p>\n<p>然后我心想，那以后 ipv6 普及了，ipv4 取消后，那中国岂不是取代了美国的互联网霸主地位吗，全球的互联网命脉抓在中国手上，往邪恶的方面想中国也可以断美国的网了。</p>\n<p>然后我上网查了下 ipv6 主根服务器的消息，发现目前居然有 3 台 ipv6 主根服务器，分别是中国、美国、日本。</p>\n<p>我好奇的点在于，为什么 ipv6 主根服务器可以有 3 台？？？按道理主根服务器不应该只有 1 台吗，因为 dns 服务器这种互联网电话本，本身就是中心化架构的东西，无论世界各地有多少辅根、镜像服务器，最后肯定是以唯一一台主根服务器记录的信息为准吧。</p>\n<p>假设现在 ipv6 全普及，ipv4 全取消了，如果我同时向中国、美国、日本的主根服务器把一个域名指向分别不同的 ipv6 地址，那我们上网的时候是认谁的 dns 为主的？？？？如果是按当地运营商的 dns 服务器为准，那我岂不是去到不同的国家访问同一个域名有可能出现不同的网站吗？？？</p>\n<p>还是说现在的 ipv6 主根服务器也搞起了去中心化分布式？？？美中日的 ipv6 主根服务器可以相互同步信息，但是这样不会起冲突吗？？？</p>\n<p>这个问题我去 google 了很久都没找到答案，到底 ipv6 主根服务器的机制是怎样的，为什么会有多台主根服务器，多台主根服务器怎么处理优先度冲突问题的。</p>",
+    "publish_time": "2022-12-17 13:26:15",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "经济会议提到这么多利好，是不是互联网又可以了，旅游和教培也重启了？",
+    "url": "https://www.v2ex.com/t/903156",
+    "summary": "iHaooo:",
+    "publish_time": "2022-12-17 16:35:46",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
