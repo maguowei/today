@@ -1490,5 +1490,76 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "吃货型新冠让患者胃口大开",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%90%83%E8%B4%A7%E5%9E%8B%E6%96%B0%E5%86%A0%E8%AE%A9%E6%82%A3%E8%80%85%E8%83%83%E5%8F%A3%E5%A4%A7%E5%BC%80%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "山西多名保安与民工发生肢体冲突",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E5%A4%9A%E5%90%8D%E4%BF%9D%E5%AE%89%E4%B8%8E%E6%B0%91%E5%B7%A5%E5%8F%91%E7%94%9F%E8%82%A2%E4%BD%93%E5%86%B2%E7%AA%81%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "肖四一般要花多少个小时能背完？",
+    "url": "https://www.zhihu.com/question/464748787",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Show HN: Factual AI Q&A – Answers based on Huberman Lab transcripts",
+    "url": "https://huberman.rile.yt/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34030389\">Comments</a>",
+    "publish_time": "2022-12-18 02:05:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Growing a Networked Garden with Spritely Goblins",
+    "url": "https://spritely.institute/news/growing-a-networked-garden-with-spritely-goblins.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34031136\">Comments</a>",
+    "publish_time": "2022-12-18 03:17:39",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Unredacter: Never use pixelation as a redaction technique",
+    "url": "https://github.com/BishopFox/unredacter",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34031568\">Comments</a>",
+    "publish_time": "2022-12-18 03:58:37",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "British empire killed 165M Indians in 40 years: How colonialism inspired fascism",
+    "url": "https://mronline.org/2022/12/14/british-empire-killed-165-million-indians-in-40-years/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34032121\">Comments</a>",
+    "publish_time": "2022-12-18 04:53:22",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
