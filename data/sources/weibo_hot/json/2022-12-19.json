@@ -1060,5 +1060,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "因热爱加冕",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%9B%A0%E7%83%AD%E7%88%B1%E5%8A%A0%E5%86%95%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "沙特是本届世界杯唯一战胜冠军的球队",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B2%99%E7%89%B9%E6%98%AF%E6%9C%AC%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E5%94%AF%E4%B8%80%E6%88%98%E8%83%9C%E5%86%A0%E5%86%9B%E7%9A%84%E7%90%83%E9%98%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
