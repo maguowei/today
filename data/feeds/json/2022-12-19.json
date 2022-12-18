@@ -1889,5 +1889,103 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "行稳致远",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%A1%8C%E7%A8%B3%E8%87%B4%E8%BF%9C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "梅西封王",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E5%B0%81%E7%8E%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "闭幕式 好看",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%97%AD%E5%B9%95%E5%BC%8F+%E5%A5%BD%E7%9C%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "老爷爷带瘫痪老伴街头卖橙子",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E7%88%B7%E7%88%B7%E5%B8%A6%E7%98%AB%E7%97%AA%E8%80%81%E4%BC%B4%E8%A1%97%E5%A4%B4%E5%8D%96%E6%A9%99%E5%AD%90%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "为什么看球会让人这么兴奋？",
+    "url": "https://www.zhihu.com/question/571817236",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "有哪些大家不说，但需要知道的社会规则？",
+    "url": "https://www.zhihu.com/question/64351318",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "The World’s Money Problem",
+    "url": "https://www.lynalden.com/december-2022-newsletter/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34043809\">Comments</a>",
+    "publish_time": "2022-12-19 05:39:36",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "IRS accidentally releases taxpayers’ private data again",
+    "url": "https://news.bloombergtax.com/daily-tax-report/irs-accidentally-releases-112-000-taxpayers-private-data-again",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34043099\">Comments</a>",
+    "publish_time": "2022-12-19 04:45:57",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ten most(ly dead) influential programming languages (2020)",
+    "url": "https://www.hillelwayne.com/post/influential-dead-languages/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34040397\">Comments</a>",
+    "publish_time": "2022-12-19 02:04:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Twitter suspends pg's account",
+    "url": "https://twitter.com/paulg/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34044047\">Comments</a>",
+    "publish_time": "2022-12-19 06:01:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
