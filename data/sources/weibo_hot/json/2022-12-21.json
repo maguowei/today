@@ -628,5 +628,14 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "你是哪种株",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%98%AF%E5%93%AA%E7%A7%8D%E6%A0%AA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
