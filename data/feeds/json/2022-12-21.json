@@ -3729,5 +3729,554 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "2022看见平凡微光",
+    "url": "https://s.weibo.com/weibo?q=%232022%E7%9C%8B%E8%A7%81%E5%B9%B3%E5%87%A1%E5%BE%AE%E5%85%89%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "奥密克戎专攻对新冠有免疫力的人",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8E%E4%B8%93%E6%94%BB%E5%AF%B9%E6%96%B0%E5%86%A0%E6%9C%89%E5%85%8D%E7%96%AB%E5%8A%9B%E7%9A%84%E4%BA%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "女子地铁撸下口罩狂咳嗽吓坏乘客",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9C%B0%E9%93%81%E6%92%B8%E4%B8%8B%E5%8F%A3%E7%BD%A9%E7%8B%82%E5%92%B3%E5%97%BD%E5%90%93%E5%9D%8F%E4%B9%98%E5%AE%A2%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "有请60后整顿内娱",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9C%89%E8%AF%B760%E5%90%8E%E6%95%B4%E9%A1%BF%E5%86%85%E5%A8%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "薛凯琪新歌香港的夜预告",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%96%9B%E5%87%AF%E7%90%AA%E6%96%B0%E6%AD%8C%E9%A6%99%E6%B8%AF%E7%9A%84%E5%A4%9C%E9%A2%84%E5%91%8A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "张子枫说这个家的事我会查清楚的",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AD%90%E6%9E%AB%E8%AF%B4%E8%BF%99%E4%B8%AA%E5%AE%B6%E7%9A%84%E4%BA%8B%E6%88%91%E4%BC%9A%E6%9F%A5%E6%B8%85%E6%A5%9A%E7%9A%84%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "BLACKPINK韩版VOGUE杂志大片",
+    "url": "https://s.weibo.com/weibo?q=%23BLACKPINK%E9%9F%A9%E7%89%88VOGUE%E6%9D%82%E5%BF%97%E5%A4%A7%E7%89%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "张远对苏醒说我有那么多弟弟理你干嘛",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%BF%9C%E5%AF%B9%E8%8B%8F%E9%86%92%E8%AF%B4%E6%88%91%E6%9C%89%E9%82%A3%E4%B9%88%E5%A4%9A%E5%BC%9F%E5%BC%9F%E7%90%86%E4%BD%A0%E5%B9%B2%E5%98%9B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "感染新冠后168小时身体在干什么",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%E5%90%8E168%E5%B0%8F%E6%97%B6%E8%BA%AB%E4%BD%93%E5%9C%A8%E5%B9%B2%E4%BB%80%E4%B9%88%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "爸爸辅导女儿作业气晕摔断尾椎骨",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E8%BE%85%E5%AF%BC%E5%A5%B3%E5%84%BF%E4%BD%9C%E4%B8%9A%E6%B0%94%E6%99%95%E6%91%94%E6%96%AD%E5%B0%BE%E6%A4%8E%E9%AA%A8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "新冠发病1年后有人仍感肌无力心悸",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%A0%E5%8F%91%E7%97%851%E5%B9%B4%E5%90%8E%E6%9C%89%E4%BA%BA%E4%BB%8D%E6%84%9F%E8%82%8C%E6%97%A0%E5%8A%9B%E5%BF%83%E6%82%B8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "原来小猫也有异地恋",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%B0%8F%E7%8C%AB%E4%B9%9F%E6%9C%89%E5%BC%82%E5%9C%B0%E6%81%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "阿根廷足协致歉球迷",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%B6%B3%E5%8D%8F%E8%87%B4%E6%AD%89%E7%90%83%E8%BF%B7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "各大卫视2023跨年名单",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%90%84%E5%A4%A7%E5%8D%AB%E8%A7%862023%E8%B7%A8%E5%B9%B4%E5%90%8D%E5%8D%95%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "吉克隽逸回复网友P图也太吓人了兄弟",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%90%89%E5%85%8B%E9%9A%BD%E9%80%B8%E5%9B%9E%E5%A4%8D%E7%BD%91%E5%8F%8BP%E5%9B%BE%E4%B9%9F%E5%A4%AA%E5%90%93%E4%BA%BA%E4%BA%86%E5%85%84%E5%BC%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "阿根廷球迷跳大巴不慎跌落地面",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%90%83%E8%BF%B7%E8%B7%B3%E5%A4%A7%E5%B7%B4%E4%B8%8D%E6%85%8E%E8%B7%8C%E8%90%BD%E5%9C%B0%E9%9D%A2%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "三亚今起免费发放7万多粒退烧药",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BA%9A%E4%BB%8A%E8%B5%B7%E5%85%8D%E8%B4%B9%E5%8F%91%E6%94%BE7%E4%B8%87%E5%A4%9A%E7%B2%92%E9%80%80%E7%83%A7%E8%8D%AF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "阳过之后生活用品需要换吗",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%98%B3%E8%BF%87%E4%B9%8B%E5%90%8E%E7%94%9F%E6%B4%BB%E7%94%A8%E5%93%81%E9%9C%80%E8%A6%81%E6%8D%A2%E5%90%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "北京协和医院蒋明教授逝世",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%8D%8F%E5%92%8C%E5%8C%BB%E9%99%A2%E8%92%8B%E6%98%8E%E6%95%99%E6%8E%88%E9%80%9D%E4%B8%96%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "男子发现药品无人配送后注册骑手",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8F%91%E7%8E%B0%E8%8D%AF%E5%93%81%E6%97%A0%E4%BA%BA%E9%85%8D%E9%80%81%E5%90%8E%E6%B3%A8%E5%86%8C%E9%AA%91%E6%89%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "3少年闯入他人闲置房里过家家",
+    "url": "https://s.weibo.com/weibo?q=%233%E5%B0%91%E5%B9%B4%E9%97%AF%E5%85%A5%E4%BB%96%E4%BA%BA%E9%97%B2%E7%BD%AE%E6%88%BF%E9%87%8C%E8%BF%87%E5%AE%B6%E5%AE%B6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "退烧药短缺何时缓解",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%80%80%E7%83%A7%E8%8D%AF%E7%9F%AD%E7%BC%BA%E4%BD%95%E6%97%B6%E7%BC%93%E8%A7%A3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "金华一隔离酒店改成抗阳酒店几乎住满",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E5%8D%8E%E4%B8%80%E9%9A%94%E7%A6%BB%E9%85%92%E5%BA%97%E6%94%B9%E6%88%90%E6%8A%97%E9%98%B3%E9%85%92%E5%BA%97%E5%87%A0%E4%B9%8E%E4%BD%8F%E6%BB%A1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "超 80 城首套房商贷首付可低至两成，业内称改善性住房房贷仍有放松可能，哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/573452816",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "世界货币基金组织警告亚太地区房价或进一步下探，跌幅可达 5%-20％，如何看待这一结论？",
+    "url": "https://www.zhihu.com/question/572748174",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "「共和国勋章」获得者张富清在武汉逝世，他有着哪些感人事迹？",
+    "url": "https://www.zhihu.com/question/573532162",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "年味儿回来了，山东两地明确「过年期间可燃放烟花爆竹」，如何看待这一调整？你记忆中的年味儿什么样？",
+    "url": "https://www.zhihu.com/question/573446630",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么大部分人不愿意承认艺考是捷径？",
+    "url": "https://www.zhihu.com/question/566836105",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "22-23 赛季 NBA勇士 94:132 尼克斯，如何评价这场比赛？",
+    "url": "https://www.zhihu.com/question/573451999",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "多地血库告急，或将危及孕产妇、危重症患者抢救，感染新冠病毒后，何时才可以参与献血？",
+    "url": "https://www.zhihu.com/question/573457960",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "《原神》59 级深渊还经常无法满星正常吗？",
+    "url": "https://www.zhihu.com/question/573029866",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么600匹以上的家用轿车很少，甚至500匹也不常见呢?",
+    "url": "https://www.zhihu.com/question/568613958",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "2022年临近尾声，今年众多厂商发布的中端机中，哪款符合你的胃口？",
+    "url": "https://www.zhihu.com/question/573388995",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "随着国产操作系统不断进步，目前有哪些实用性高的操作系统？",
+    "url": "https://www.zhihu.com/question/573491448",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "「真金白银」促消费，江苏、福建等地发放「亿级」消费券拉动市场消费，这会带来哪些影响？",
+    "url": "https://www.zhihu.com/question/573460976",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么在《哈利·波特》中伏地魔不用麻瓜的方式搞死婴儿哈利？",
+    "url": "https://www.zhihu.com/question/565192256",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "可以留下你最喜欢的歌吗?",
+    "url": "https://www.zhihu.com/question/572067457",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "婚姻是到底是互相成就还是互相牺牲？",
+    "url": "https://www.zhihu.com/question/568684118",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "《原神》好玩吗？",
+    "url": "https://www.zhihu.com/question/380939407",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "腾讯宣布成立生物多样性专项委员会",
+    "url": "https://www.36kr.com/newsflashes/2053297186566913",
+    "summary": "36氪获悉，2022年12月21日，在《生物多样性公约》第十五次缔约方大会（COP15）第二阶段会议宣布通过“昆明-蒙特利尔全球生物多样性框架”后，腾讯正式对外发布《生物多样性声明》，并宣布成立“生物多样性专项委员会”。在《声明》中，腾讯基于“框架”提出了三大策略与方法，包括生态友好地发展公司业务、利用技术促进自然资源可持续利用和保护以及应用互联网工具提升公众的生物多样性认知。",
+    "publish_time": "2022-12-21 12:01:54",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "恒生科技指数涨0.28%，回港中概股领涨",
+    "url": "https://www.36kr.com/newsflashes/2053300569895424",
+    "summary": "36氪获悉，港股两大指数高开后窄幅震荡，香港恒生指数涨0.09%，恒生科技指数涨0.28%，电脑与外围设备、生物科技、双重主要上市中概股等行业或概念板块领涨；通信设备、彩票概念股、燃料电池、太阳能、涉矿等行业或概念板块低迷。热门个股方面，腾盛博药涨近21%，新东方在线涨超4%，小鹏汽车涨超3%，歌礼制药、三叶草生物跌超7%。",
+    "publish_time": "2022-12-21 12:05:21",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "易华录：公司提供数据要素全生命周期服务",
+    "url": "https://www.36kr.com/newsflashes/2053307376005634",
+    "summary": "36氪获悉，易华录在互动平台表示，易华录的数据湖业务已成为全国一体化大数据中心协同创新体系（“东数西算”工程）的重要组成部分。公司业务发展和国家战略高度契合，提供数据要素“收（收集）、存（存储）、治（治理）、用（应用）、易（交易）”全生命周期服务，最终走向数据交易。通过对数据要素的低成本汇聚、规范化确权、高效率治理、资产化交易和全场景应用，满足数据要素开放共享要求，为数字经济、数字政府、数字社会提供数据、算力和算法赋能。",
+    "publish_time": "2022-12-21 12:12:16",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "饿了么：北京骑手数量基本恢复到疫前水平",
+    "url": "https://www.36kr.com/newsflashes/2053308169548291",
+    "summary": "36氪获悉，由于近期多地运力紧张，12月21日， 饿了么在北京开启“城市守护者支持计划”，通过加大激励补贴、优化运力调配等方式加强服务，全力支持保供。目前，饿了么表示北京骑手数量已基本恢复到疫情前水平。在北京，持续跑单15天的新骑手平均可获得3000元额外奖励。",
+    "publish_time": "2022-12-21 12:13:04",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "微软或于2023年推进奈飞收购工作以推进游戏业务",
+    "url": "https://www.36kr.com/newsflashes/2053317197394435",
+    "summary": "据报道，微软现任首席执行官纳德拉正在积极拓展公司业务，并考虑在2023年收购奈飞。据悉，两家公司目前已经在多个领域建立了紧密合作。奈飞选择微软作为其广告合作伙伴，推出一项新的广告支持订阅服务。微软总裁布拉德・史密斯也是奈飞董事会成员。达成交易的部分原因是微软希望在多种设备上提供视频游戏流媒体服务。（新浪财经）",
+    "publish_time": "2022-12-21 12:22:15",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "塞力医疗：中标开封市中心医院医用耗材集约化（SPD）项目",
+    "url": "https://www.36kr.com/newsflashes/2053332202729986",
+    "summary": "据塞力医疗消息，公司中标开封市中心医院医用耗材集约化（SPD）项目。（证券时报）",
+    "publish_time": "2022-12-21 12:37:31",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "吉祥航空明年起陆续恢复所有国际航线与其对应每周班次的运行",
+    "url": "https://www.36kr.com/newsflashes/2053338736898568",
+    "summary": "吉祥航空对外公布2023年国际重点航线运营计划。根据航班编排计划，吉祥航空将自2023年起陆续恢复所有国际航线与其对应每周班次的运行，包括上海、南京等地前往东京、名古屋、札幌、济州岛等日韩航线，以及前往曼谷、普吉岛、卡利博等的东南亚航线。与此同时，吉祥航空还将积极规划一批远程洲际航线，包括上海至希腊雅典、比利时布鲁塞尔、澳大利亚悉尼、墨尔本等地，郑州始发至意大利米兰、法国巴黎、美国纽约等地。（澎湃）",
+    "publish_time": "2022-12-21 12:44:10",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "中国石化：仪征化纤日产熔喷布可制作300多万只KN95或N95口罩",
+    "url": "https://www.36kr.com/newsflashes/2053344346501635",
+    "summary": "中国石化消息，12月以来，中国石化仪征化纤公司快速响应市场需求变化，全力生产市场上紧缺的用于制作KN95、N95口罩的熔喷布，保障口罩企业的订单需求。仪征化纤销售服务中心负责人表示，目前仪征化纤每日生产的熔喷布可用于制作300多万只KN95或N95口罩。根据市场需求订单，仪征化纤将持续恢复更大产能，开足马力生产，全力做好市场保供工作。（证券时报）",
+    "publish_time": "2022-12-21 12:49:53",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "印尼将从2023年6月起禁止铝土矿出口",
+    "url": "https://www.36kr.com/newsflashes/2053354067227138",
+    "summary": "印尼总统佐科·维多多表示，印尼将从2023年6月起禁止铝土矿出口，旨在提高本国对这一矿产资源加工的投资力度。根据美国地质调查局今年的一份报告，印尼是世界第六大铝土矿生产国，储量位列全球第五。印尼是中国第三大铝土矿供应国，仅次于几内亚和澳大利亚。（界面）",
+    "publish_time": "2022-12-21 12:59:46",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "中国石化：扬巴公司全力保障丙酸供应，助力药企生产",
+    "url": "https://www.36kr.com/newsflashes/2053356096385538",
+    "summary": "中国石化消息，布洛芬的主要原料是丙酸，这也是很多退烧药的主要原料。中国石化扬子石化—巴斯夫公司是亚洲最大的丙酸生产商，也是目前国内产能最大的生产商。连日来，面对退烧药需求的明显增长，公司全力保生产、保供应助力药品生产。面对丙酸节假日不能上高速公路的限制，扬巴公司提前与制药企业做好到货/备货计划沟通，保证制药企业原料的平稳及时供应。另外，作为全球最大消毒剂生产基地，中国石化江汉油田盐化工加快生产运行节奏，加班加点保障消毒剂产品及时发运。（证券时报）",
+    "publish_time": "2022-12-21 13:01:50",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "W3C首席执行官Jeffrey Jaffe博士正式卸任",
+    "url": "https://www.infoq.cn/article/7CYB7X368VKhZ8syghxN",
+    "summary": "<p>W3C（World Wide Web Consortium，又称“万维网联盟”）12 月 19 日发布官博称，在担任 W3C 首席执行官 12 年后，Jeffrey Jaffe 博士正式卸任。</p><p>&nbsp;</p><p>从 2010 年 3 月到 2022 年 12 月，作为研究人员、经理和执行官，Jaffe 博士以多种不同的职业为目标和技能领导了 W3C。他负责 W3C 的所有全球运营，维护 W3C 所有利益相关者的利益，并维持合作和透明的文化，使 W3C 继续成为 Web 技术开发和管理的领先论坛。</p><p>&nbsp;</p><p>资料显示，<a href=\"https://www.infoq.cn/article/2016/07/W3C-10-web-os\">W3C</a>\" 创建于 1994 年，由 Web 的发明者 Tim Berners-Lee 创建，是 Web 技术领域最具权威和影响力的国际中立性技术标准机构。到目前为止，W3C 已发布了400多项影响深远的Web技术<a href=\"https://www.infoq.cn/article/2017/10/w3c-drm-eme-standard-eff\">标准</a>\"及实施指南，如广为业界采用的超文本标记语言（HTML）、可扩展标记语言（XML）以及帮助残障人士有效获得Web内容的信息无障碍指南（WCAG）等，有效促进了Web技术的互相兼容，对互联网技术的发展和应用起到了基础性和根本性的支撑作用。今年 4 月，W3C 曾公布了<a href=\"https://www.infoq.cn/article/7JLCSEfriy7gy97XRF4A\"> WebAssembly 2.0</a>\" 的第一批公共工作草案。</p><p>&nbsp;</p><p>在加入 W3C 之前，Jaffe 博士曾担任 Novell 的首席技术官和负责产品的执行副总裁。加入 W3C 后，Jaffe 博士的“参与度、网络潜力和会员价值”三管齐下的战略非常成功，例如将参与度提高了 10 倍、扩大了全球足迹、更强大的技术议程、提高 W3C 流程的敏捷性、解决行业和社会问题需求、成员增长以及在包容性和多样性方面取得的一些进展。</p><p>&nbsp;</p><p>Jaffe 博士卸任后，将由 Ralph Swick 担任临时 CEO，直到董事会任命永久 CEO 为止。据悉，Ralph 于 1997 年 1 月加入 W3C，致力于隐私、语义网和 RDF，自 2010 年起担任 W3C 的首席运营官。</p>",
+    "publish_time": "2022-12-21 10:12:11",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "数百万人投票赞成马斯克辞职，马斯克：Twitter没有接班人，这个“烂摊子”没人想接！",
+    "url": "https://www.infoq.cn/article/X1ElCzwpi86ylGWVevt4",
+    "summary": "<p></p><blockquote>马斯克在周日晚间就“是否辞去Twitter CEO”一事发起投票，最终投票结果现已出炉，有57.5%的投票用户赞成其辞职。</blockquote><p></p><p></p><p>当地时间12月15日晚间，<a href=\"https://www.infoq.cn/article/NmgXYDUGCySPL8lqkik1\">Twitter</a>\"在没有任何解释的情况下突然禁止了几位来自CNN、《纽约时报》、《华盛顿邮报》知名记者的账户，这几位记者在最近几周报道了Twitter CEO 埃隆·马斯克的新闻。</p><p>&nbsp;</p><p>马斯克称他之所以冻结这些账户是因为这些记者泄漏了有关他私人飞机的实时定位信息。马斯克在Twitter上表示，“整天批评我没问题，但是人肉搜索我的实时位置，伤害我的家人却不行。”</p><p>&nbsp;</p><p>这些禁令使人们对<a href=\"https://www.infoq.cn/article/6NcqULAMegQoj9GApW5X\">马斯克</a>\"所谓的言论自由承诺产生了严重质疑，还招来了欧盟和联合国的警告。欧盟委员会副主席约洛娃（Věra Jourová）也对此事表示了关注，Twitter随意封禁记者账号的行为“令人担忧”。她指出，不仅欧盟的数字服务法案（Digital Services Act）要求服务商尊重媒体自由和基本权利，企业的这一义务还得到“媒体自由法案”（&nbsp;Media Freedom Act）的强化。“马斯克应该清楚这一点。我们是有红线的，很快，也会有对应的制裁。”&nbsp;</p><p>&nbsp;</p><p>迫于各方压力，在冻结几名记者账号两天后，Twitter宣布恢复这些账号。</p><p></p><h2>超半数人赞同马斯克辞职</h2><p></p><p>&nbsp;</p><p>似乎是为了回应由于自己单方面决定引起的质疑，当地时间12月18日晚，马斯克在Twitter上发起了一项民意调查，询问网友他是否应继续担任Twitter的负责人，并表明会遵守投票结果。</p><p>&nbsp;</p><p>投票结果显示，在参与投票的约1750万人中，有57%投票者赞成他辞职。但截至目前，马斯克还未表态是否辞职。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/e6/e6d35f8b2cafcf9230b9678cd012019a.png\" /></p><p></p><p>&nbsp;事实上，这不是<a href=\"https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247578460&amp;idx=1&amp;sn=6e7d323b061e11a924bb8661c06387cd&amp;chksm=fbeb0a93cc9c8385a425a590626b24595bb0bf743d03e631e9a7e2f8c5acc6e1ca5eeb52d3e3&amp;scene=27#wechat_redirect\">马斯克</a>\"第一次将重大公司决策交给 Twitter 用户。他最近他也曾在Twitter上进行了一项关于是否恢复美国前总统特朗普的Twitter账户的民意调查，截至投票结束，该调查有超1500万次投票，51.8%投票用户支持让特朗普重新回归Twitter。投票结束后，马斯克就宣布恢复了特朗普的Twitter账号。</p><p>&nbsp;</p><p>尽管此次投票结果显示超过半数网友希望马斯克“下台”，但实际上Twitter目前没有一个很好的人选能够接替马斯克。过去几个月，Twitter几乎所有高管都被解雇或自主辞职。马斯克也在后面的Twitter发文中补充道：“真正让Twitter 保持活力不是件容易事，没有人想要这份工作”。“Twitter没有接班人，从5月开始Twitter就走上了破产的快车道。”</p><p></p><h2>Twitter的现金流还好吗？</h2><p></p><p>在收购 Twitter 后，马斯克不止一次地表示，Twitter 收入大幅下降，亏损严重。至于裁员，马斯克也将其归结为公司每天亏损超过 400 万美元上，<a href=\"https://www.infoq.cn/article/RPwfOPmddIBBdRtCueP6\">不裁员“别无选择”</a>\"。</p><p>&nbsp;</p><p>马斯克在 11 月 4 日发布的推文中称，收入下降是因为维权组织向广告商施压。</p><p>&nbsp;</p><p>此前，马斯克曾公开质疑苹果削减了在 Twitter 上的广告投放，并称苹果曾威胁要将 Twitter 从 App Store 下架。在马斯克参观完苹果总部后，他表示苹果已经全面恢复在 Twitter 上的广告投放。马斯克称：“感谢苹果全面恢复广告投放。我们看到广告商恢复在推特上做广告，这是一个好迹象。”“广告方面更令人担忧的因素是整个行业的广告投放量下降，Twitter 也无法幸免。”“尽管广告商确实恢复了广告投放，但所有公司的广告支出总体上都在下降。”</p><p>&nbsp;</p><p>在增收上，马斯克一直冲在最前面。为了获得更多收入，本月稍早前，Twitter 宣布重新推出蓝 V 认证付费服务。此前，因为有人冒充认证用户，蓝 V 认证付费服务暂停数周，目前已经重新上线。蓝 V 认证服务每月向 Web 用户收费 8 美元，向通过 App Store 购买的 iOS 用户收费 11 美元。</p><p></p><h2>马斯克的任期是一场“完美风暴”？</h2><p></p><p>&nbsp;</p><p>马斯克在其短暂的任期内引发了一系列争议。来自 Wedbush 的分析师 Dan Ives 称他的任期是一场“完美风暴”。&nbsp;</p><p>&nbsp;</p><p>Dan Ives指出，“广告商已经逃之夭夭，让 Twitter 直接陷入赤字，我们估计每年可能损失大约 40 亿美元”。</p><p>&nbsp;</p><p>最近，甚至有媒体报道，为了削减成本，Twitter已停止支付办公楼租金。</p><p>&nbsp;</p><p>据悉，由于此前 Twitter 刚经历大规模裁员，员工数骤降，马斯克的团队一直在试图重新谈判办公室的租赁费率，但谈判进展并不顺利。因此，Twitter 已经数周未支付其全球办事处及旧金山总部的租金。</p><p>&nbsp;</p><p>消息称，Twitter 已经收到了来自房地产公司的投诉，其中就包括拥有 Twitter 旧金山大楼的 Shorenstein 公司。目前，Shorenstein 和 Twitter 尚未回应置评请求。</p><p>&nbsp;</p><p>除了拖欠租金，Twitter 还开始变卖公司的办公设备和家具电器。可以说，为了省钱，马斯克把一切招数都用上了。</p><p>&nbsp;</p><p>一面是缩减开支，一面是多举措增加营收，除此之外，马斯克还出售大量特斯拉股票，今年以来合计套现数百亿美元。这些举措都将为 Twitter 的现金流提供保障。</p><p>&nbsp;</p><p>那么问题来了，使劲浑身解数“拯救”Twitter的马斯克，会尊重民意调查结果最终辞职吗？</p><p>&nbsp;</p><p>参考链接：</p><p>&nbsp;</p><p><a href=\"https://www.theregister.com/2022/12/19/elon_musk_ceo_quit_poll/\">https://www.theregister.com/2022/12/19/elon_musk_ceo_quit_poll/</a>\"</p>",
+    "publish_time": "2022-12-21 11:15:32",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "Reanimate: Build declarative animations with SVG and Haskell",
+    "url": "https://reanimate.github.io/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34074380\">Comments</a>",
+    "publish_time": "2022-12-21 07:28:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The cost of being poor: Why it costs so much to be poor in America",
+    "url": "https://finmasters.com/cost-of-being-poor/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34076305\">Comments</a>",
+    "publish_time": "2022-12-21 11:31:03",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Number Stations and Enigma Stations",
+    "url": "https://www.sigidwiki.com/wiki/Category:Numbers_Stations",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34076476\">Comments</a>",
+    "publish_time": "2022-12-21 11:59:39",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Stable Diffusion 2 Depth Guided model: architecture photos from dollhouse",
+    "url": "https://twitter.com/justlv/status/1605276764598665217",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34076077\">Comments</a>",
+    "publish_time": "2022-12-21 10:44:24",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "3M to end 'forever chemicals' output",
+    "url": "https://www.reuters.com/business/3m-stop-making-forever-chemicals-take-up-23-bln-charge-2022-12-20/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34076685\">Comments</a>",
+    "publish_time": "2022-12-21 12:33:46",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "收藏！口罩选择和佩戴全指南",
+    "url": "https://mp.weixin.qq.com/s/H8erRyytvAImdrobeJlKEw",
+    "summary": "收藏！口罩选择和佩戴全指南",
+    "publish_time": "2022-12-21 12:09:03",
+    "source": {
+      "name": "people_daily_gzh",
+      "desc": "人民日报公众号",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
+    }
   }
 ]
