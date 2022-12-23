@@ -1068,5 +1068,47 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "阳了之后你会失眠吗",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%98%B3%E4%BA%86%E4%B9%8B%E5%90%8E%E4%BD%A0%E4%BC%9A%E5%A4%B1%E7%9C%A0%E5%90%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Neural Search Frameworks: A Head-to-Head Comparison",
+    "url": "https://dmitry-kan.medium.com/neural-search-frameworks-a-head-to-head-comparison-976aa6662d20",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34107410\">Comments</a>",
+    "publish_time": "2022-12-24 00:16:42",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Rise of User-Hostile Software [2021]",
+    "url": "https://den.dev/blog/user-hostile-software/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34108692\">Comments</a>",
+    "publish_time": "2022-12-24 01:56:18",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Encased",
+    "url": "https://store.epicgames.com/en-US/p/encased",
+    "summary": "<p>A tactical sci-fi RPG set in an alt-1970's, where an enormous and inexplicable artifact –the Dome– is discovered in a remote desert. Fight enemies, explore the anomalous wasteland, level up your character &amp; join one of the forces in the ruined world.</p><img src=\"https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Copyof15days-day9-wrapped-desktop-carousel-image1_1920x1080-b90fb25c73408d477a357a1f7dbd2be7\" />",
+    "publish_time": "2022-12-24 00:00:00",
+    "source": {
+      "name": "epic_freegames",
+      "desc": "Epic Free Games",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/epic.png"
+    }
   }
 ]
