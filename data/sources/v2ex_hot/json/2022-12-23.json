@@ -20,5 +20,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "千万不要用柠檬清理！全军覆没！",
+    "url": "https://www.v2ex.com/t/904224",
+    "summary": "8eacekeep: <p>macos13 柠檬清理 5.1.0 以下的版本</p>\n<p>如果你清理的二进制文件</p>\n<p>会导致所有 app 都损坏！</p>\n<p>解决办法只有重新安装！</p>\n<p>我真他妈的吐了！</p>\n<p>重装上浏览器第一件事就是来骂这个狗日的柠檬清理！</p>",
+    "publish_time": "2022-12-23 03:35:29",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "花了两个多月做了一个 V 站客户端- AwesomeV2ex，不仅好看而且功能很齐全，已上架 AppStore",
+    "url": "https://www.v2ex.com/t/904226",
+    "summary": "iliaoliao: <h2>动机</h2>\n<p>因为之前陆续碰见有人问过我会不会 RN ，我都回这应该有手就行，但是我没写过🐶。</p>\n<p>苦于没有一个项目证明自己，而且在几年前就已经想做一个 V2 的客户端，所以在国庆结束之后，照着 RN 的文档边学边做，历经了 2 个多月，终于在这几天上线了第一个版本。</p>\n<h2>项目的那些事</h2>\n<ul>\n<li>UI 组件全由自己手写，主要是模仿几个主流 app 并抽出自己的一套规范。</li>\n<li>状态管理库由我自己开源的 <a href=\"https://github.com/liaoliao666/react-query-kit\" rel=\"nofollow\">react-query-kit</a> 结合 <a href=\"https://github.com/TanStack/query\" rel=\"nofollow\">@tanstack/react-query</a>，你会发现 app 数据缓存和请求无比丝滑</li>\n<li>支持代码高亮</li>\n<li>支持查看评论功能</li>\n<li>支持自动签到</li>\n<li>支持搜索帖子</li>\n<li>...</li>\n</ul>\n<h2>预览</h2>\n<p><img alt=\"Preview\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://files.catbox.moe/q6sy9n.gif\" /></p>\n<h2>下载</h2>\n<ul>\n<li><a href=\"https://apps.apple.com/cn/app/awesomev2ex/id1659591551?l=en\" rel=\"nofollow\">iOS App Store</a></li>\n<li><a href=\"https://github.com/liaoliao666/v2ex/releases/download/1.0.1/application-4df3dc61-5a96-4478-9aae-9ed8151122b1.apk\" rel=\"nofollow\">Android Apk</a></li>\n<li><a href=\"https://github.com/liaoliao666/v2ex\" rel=\"nofollow\">Github</a></li>\n</ul>\n<h2>TODO</h2>\n<ul>\n<li>征集一个好听点的名字⚽️⚽️</li>\n<li>Logo 需要重新设计</li>\n<li>样式方面还要再优化</li>\n<li>修复第一次登录偶尔会丢失登录态</li>\n<li>增加更多新功能</li>\n</ul>",
+    "publish_time": "2022-12-23 07:30:50",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
