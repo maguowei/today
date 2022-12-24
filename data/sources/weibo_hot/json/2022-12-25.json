@@ -565,5 +565,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "纵览2022那些国之重器",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BA%B5%E8%A7%882022%E9%82%A3%E4%BA%9B%E5%9B%BD%E4%B9%8B%E9%87%8D%E5%99%A8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "市民购买退烧药后免费赠送被查",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B8%82%E6%B0%91%E8%B4%AD%E4%B9%B0%E9%80%80%E7%83%A7%E8%8D%AF%E5%90%8E%E5%85%8D%E8%B4%B9%E8%B5%A0%E9%80%81%E8%A2%AB%E6%9F%A5%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
