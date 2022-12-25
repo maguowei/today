@@ -31,5 +31,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "Okta私有GitHub存储库遭攻击，源代码泄露",
+    "url": "https://www.infoq.cn/article/F9jxCbV36EXYP7qAg9wW",
+    "summary": "<p>近日，知名身份认证管理解决方案提供商Okta表示，其私有GitHub存储库在本月遭到黑客攻击，Okta的源代码遭窃取。</p><p>&nbsp;</p><p>早些时候，GitHub 警告 Okta 有黑客对其代码存储库进行了“可疑访问”，并确定该黑客复制了与该公司 Workforce Identity Cloud (WIC) 相关的代码，WIC 是一种面向企业的访问和身份管理工具，使员工和合作伙伴在任何地方工作。</p><p>&nbsp;</p><p>Okta在本周的一份<a href=\"https://sec.okta.com/articles/2022/12/okta-code-repositories\">声明</a>\"中表示，虽然黑客窃取了Okta的源代码，但并未访问Okta服务或客户数据。Okta的“HIPAA、FedRAMP或DoD客户”不受影响，并且该公司“不依赖其源代码的机密性作为保护其服务的手段”。因此，Okta表示，其客户无需执行任何操作。</p><p>&nbsp;</p><p>Okta 还表示，此次事件并未涉及 Auth0 客户身份云产品。Okta 去年以 65 亿美元的价格收购了 Auth0 身份管理云服务企业。收购后，Okta 和 Auth0 可以为全球大型组织、开发者，提供更多维度的身份服务。</p><p>&nbsp;</p><p>在得知可疑访问后，Okta 对访问 GitHub 存储库设置了临时限制，暂停了 GitHub 与第三方应用程序的集成。此外还审查了最近对GitHub托管的Okta软件存储库的所有访问和提交，并轮换了GitHub凭据等。Okta预计，此事件不会中断其业务或为其客户提供的服务。</p><p>&nbsp;</p><p>今年，Okta 一直是不法分子的目标。1 月份，该公司遭到备受瞩目的 Lapsus$ 勒索集团的攻击。该公司表示，如果没有实施零信任政策，攻击会更严重。</p><p>&nbsp;</p><p>8 月，网络安全公司 Group-IB<a href=\"https://blog.group-ib.com/0ktapus\">发现</a>\"了一场始于 3 月并被称为 Oktapus 的大规模网络钓鱼活动。该活动旨在从 130 多个目标组织（包括 Twilio 和 Cloudflare）的用户那里窃取Okta 身份凭证和双因素身份验证 (2FA) 代码，然后攻击他们的客户。</p><p>&nbsp;</p><p>9 月，作为独立公司运营的 Auth0 表示，在被收购之前发生了一起“<a href=\"https://auth0.com/blog/auth0-code-repository-archives-from-2020-and-earlier/\">安全事件</a>\"”，涉及2020 年 10 月及更早时间与代码有关的存储库。</p><p>&nbsp;</p><p>&nbsp;</p><p>参考链接：</p><p><a href=\"https://sec.okta.com/articles/2022/12/okta-code-repositories\">https://sec.okta.com/articles/2022/12/okta-code-repositories</a>\"</p><p><a href=\"https://www.theregister.com/2022/12/23/okta_code_copy_hack/?td=rt-3a\">https://www.theregister.com/2022/12/23/okta_code_copy_hack/?td=rt-3a</a>\"</p>",
+    "publish_time": "2022-12-25 19:55:07",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
