@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Java 的泛型能够向 golang 一样， T 可以表示多个类型？",
+    "url": "https://www.v2ex.com/t/904511",
+    "summary": "jeesk: <pre><code>func SumIntsOrFloats[K comparable, V int | float64](m map[K]V) V {\n    var s V\n    for _, v := range m {\n        s += v\n    }\n    return s\n}\n</code></pre>\n<p>比如上面这段代码？ v 表示的是两种类型。\n但是 java/kotlin 里面好像只有上限和下限。</p>\n<pre><code>    fun &lt;T : File&gt; getString(uri: T): T {\n        return uri\n    }\n</code></pre>\n<p>kotlin 里面的 T ,类型只有一种，感觉是真的不方便？ 各位大神，kotlin 或者 java 有没有其他的写法支持多种类型？</p>",
+    "publish_time": "2022-12-25 00:49:47",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  }
+]
