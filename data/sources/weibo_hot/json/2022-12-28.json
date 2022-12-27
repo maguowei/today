@@ -601,5 +601,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "谁买谁是爷",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B0%81%E4%B9%B0%E8%B0%81%E6%98%AF%E7%88%B7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "教育局回应高中男生摔猫踢猫",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E9%AB%98%E4%B8%AD%E7%94%B7%E7%94%9F%E6%91%94%E7%8C%AB%E8%B8%A2%E7%8C%AB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "曼联vs诺丁汉森林",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9B%BC%E8%81%94vs%E8%AF%BA%E4%B8%81%E6%B1%89%E6%A3%AE%E6%9E%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
