@@ -20,5 +20,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "据说护照可以随便办理了，有顺利的人吗？",
+    "url": "https://www.v2ex.com/t/905063",
+    "summary": "okrfuse: <p>昨天抖音说北京放开了护照办理，无论新申领还是换证，都畅通无阻，底下评论也说丝滑的很。\n问下 v2er 们有办理成功的吗，过程怎么样给大家讲一讲，有时候担心政策说变就变，以前从未办过，趁着开放了想赶紧办一个。（后知后觉呀）</p>",
+    "publish_time": "2022-12-28 09:18:29",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "在字符串性能上，传统 C++库被游戏业打的鼻青脸肿。",
+    "url": "https://www.v2ex.com/t/905072",
+    "summary": "tool2d: 今年 2022 C++开发者大会上，有一个写游戏的作者，写了个基于 SIMD 优化的字符串，然后对比了传统 std::string 性能，几乎是秒杀了。<br /><br />要知道 std::string 也进化了那么多年，时至今日，还是被游戏业打的找不到北，只能说游戏业对于性能的无止尽追求的欲望，实在太强了。<br /><br />作者也开源了（ <a href=\"http://www.youtube.co.jp/watch?v=fglXeSWGVDc\" rel=\"nofollow noopener\" target=\"_blank\">www.youtube.co.jp/watch?v=fglXeSWGVDc</a> ），并附上了性能对比截图：<br /><br /><a href=\"https://i.imgur.com/qevrlYr.jpg\" rel=\"nofollow noopener\" target=\"_blank\"><img class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/qevrlYr.jpg\" /></a>",
+    "publish_time": "2022-12-28 09:44:40",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "当国内疫情放开，为什么国外还要查中国旅客的核酸？",
+    "url": "https://www.v2ex.com/t/905104",
+    "summary": "0xLittleFi: <p>是这个世界太魔幻了吗，当国内紧的时候，国外却松。</p>\n<p>国内不需要核酸证明，国外又要核酸，这个世界是怎么了，只有我们一直都是对的？</p>",
+    "publish_time": "2022-12-28 11:30:56",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
