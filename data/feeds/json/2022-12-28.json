@@ -5366,5 +5366,419 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "小胖",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%83%96%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "跨年",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B7%A8%E5%B9%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "春晚押题小品",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E6%8A%BC%E9%A2%98%E5%B0%8F%E5%93%81%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "核酸检测员月薪10万降至3万",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E5%91%98%E6%9C%88%E8%96%AA10%E4%B8%87%E9%99%8D%E8%87%B33%E4%B8%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "张翰",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BF%B0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "瓦罗兰特国服过审",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%93%A6%E7%BD%97%E5%85%B0%E7%89%B9%E5%9B%BD%E6%9C%8D%E8%BF%87%E5%AE%A1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "香港取消所有入境强制核酸检测",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%8F%96%E6%B6%88%E6%89%80%E6%9C%89%E5%85%A5%E5%A2%83%E5%BC%BA%E5%88%B6%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "刘亦菲许红豆开通角色号",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E8%AE%B8%E7%BA%A2%E8%B1%86%E5%BC%80%E9%80%9A%E8%A7%92%E8%89%B2%E5%8F%B7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "无畏契约过审",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E8%BF%87%E5%AE%A1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "A股明年会迎来牛市吗",
+    "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E6%98%8E%E5%B9%B4%E4%BC%9A%E8%BF%8E%E6%9D%A5%E7%89%9B%E5%B8%82%E5%90%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "当猫咪闻几天没洗的头",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BD%93%E7%8C%AB%E5%92%AA%E9%97%BB%E5%87%A0%E5%A4%A9%E6%B2%A1%E6%B4%97%E7%9A%84%E5%A4%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "刘惜君一首歌录了17个版本",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E6%83%9C%E5%90%9B%E4%B8%80%E9%A6%96%E6%AD%8C%E5%BD%95%E4%BA%8617%E4%B8%AA%E7%89%88%E6%9C%AC%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "47岁妈妈被女儿拍成港风女神",
+    "url": "https://s.weibo.com/weibo?q=%2347%E5%B2%81%E5%A6%88%E5%A6%88%E8%A2%AB%E5%A5%B3%E5%84%BF%E6%8B%8D%E6%88%90%E6%B8%AF%E9%A3%8E%E5%A5%B3%E7%A5%9E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "阳康后如何避免二次感染",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%98%B3%E5%BA%B7%E5%90%8E%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%E4%BA%8C%E6%AC%A1%E6%84%9F%E6%9F%93%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "研究称睡不着或是眼皮的错",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%A7%B0%E7%9D%A1%E4%B8%8D%E7%9D%80%E6%88%96%E6%98%AF%E7%9C%BC%E7%9A%AE%E7%9A%84%E9%94%99%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "12月国产游戏版号公布",
+    "url": "https://s.weibo.com/weibo?q=%2312%E6%9C%88%E5%9B%BD%E4%BA%A7%E6%B8%B8%E6%88%8F%E7%89%88%E5%8F%B7%E5%85%AC%E5%B8%83%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "网传科兴三针防感染率仅 8% ，调查称「并非真实统计数据」，哪些信息值得关注？不同疫苗的效果有何区别？",
+    "url": "https://www.zhihu.com/question/575205178",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "12 月 84 款国产网游获批，宝可梦大集结、无畏契约等 45 款进口网游获版号，哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/575252957",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "男子婚礼后拒领证让临产女友退彩礼被法院驳回，此案有何警示意义？",
+    "url": "https://www.zhihu.com/question/575046608",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "你经历过最羞耻的事情是什么？",
+    "url": "https://www.zhihu.com/question/471989226",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "北京一私募基金巨亏，投资人 100 万本金 4 年仅剩 1.71 万，哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/575153613",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "国产新冠治疗口服药 SIM0417 预计最快 2023 年 2 月上市，有哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/575207336",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么Switch被部分女生认为是网红游戏机?",
+    "url": "https://www.zhihu.com/question/548420437",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "自行车运动最大的痛点是什么？",
+    "url": "https://www.zhihu.com/question/574800849",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "发烧后，吃布洛芬管用还是对乙酰氨基酚管用？",
+    "url": "https://www.v2ex.com/t/905082",
+    "summary": "Aruen:",
+    "publish_time": "2022-12-28 10:11:38",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "大佬们推荐下汽车，最近有购车需求了，落地不超过 20 万",
+    "url": "https://www.v2ex.com/t/905100",
+    "summary": "leedef703777: <ol>\n<li>有长途需求</li>\n<li>空间不想太小，家用车</li>\n<li>安全性好点</li>\n<li>suv 和轿车都能接受</li>\n<li>有个问题，这个价位需要纠结内饰吗</li>\n</ol>",
+    "publish_time": "2022-12-28 11:22:42",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "快过年了，不会还有人不懂叫亲戚吧？我的开源项目轻松解决这个问题",
+    "url": "https://www.v2ex.com/t/905121",
+    "summary": "mumuy: <p>现在大部分年轻人在城市生活，亲戚之间很少来往，一到过年很多亲戚稍微远一点，就不知道改如何称呼了！\n于是乎，我的开源项目孕育而生，专门解决各种亲戚关系问题！</p>\n<p>项目地址：\n<a href=\"https://github.com/mumuy/relationship\" rel=\"nofollow\">https://github.com/mumuy/relationship</a></p>\n<p>演示地址：\n<a href=\"https://passer-by.com/relationship/\" rel=\"nofollow\">https://passer-by.com/relationship/</a></p>",
+    "publish_time": "2022-12-28 12:35:56",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "全球最大规模“沙戈荒”风电光伏基地项目开工建设",
+    "url": "https://www.36kr.com/newsflashes/2063442229874309",
+    "summary": "库布其沙漠新能源基地项目28日在内蒙古鄂尔多斯市正式开工建设，这是在沙漠、戈壁、荒漠地区开发建设的全球最大规模风电光伏基地项目，也是我国首个开工建设的千万千瓦级新能源大基地项目。（央视新闻）",
+    "publish_time": "2022-12-28 16:01:58",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "香港恒生指数收涨1.56%，恒生科技指数涨2.14%",
+    "url": "https://www.36kr.com/newsflashes/2063450428100231",
+    "summary": "36氪获悉，香港恒生指数收涨1.56%，恒生科技指数涨2.14%；电力、光伏股领涨，中国电力涨超18%；汽车、教育、航空板块跌幅居前；蔚来跌超10%，小鹏汽车跌超9%，药明生物涨近7%；科技股多数上扬，商汤涨超6%，快手涨超5%；南向资金净流入20.53亿港元。",
+    "publish_time": "2022-12-28 16:10:19",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "李家超：香港计划于1月15日前落实通关",
+    "url": "https://www.36kr.com/newsflashes/2063466082684553",
+    "summary": "今日（28日），香港特区行政长官李家超表示，目前计划于1月15日前落实“通关”。（大湾区之声）",
+    "publish_time": "2022-12-28 16:26:14",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "华友钴业：终止2022年度非公开发行股票事项",
+    "url": "https://www.36kr.com/newsflashes/2063466615050113",
+    "summary": "36氪获悉，华友钴业发布公告称，公司原拟向浙江华友控股集团有限公司以及不超过34名特定对象发行股票募资不超177亿元。经综合考虑公司的实际情况、发展规划、GDR发行计划等因素，公司决定终止2022年度非公开发行A股股票事项，同时终止与浙江华友控股集团有限公司签署的《附生效条件的非公开发行股票认购协议》。",
+    "publish_time": "2022-12-28 16:26:47",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "赛力斯：大股东或者特定股东采取大宗交易方式减持的，受让方6个月内不得转让",
+    "url": "https://www.36kr.com/newsflashes/2063477843791747",
+    "summary": "36氪获悉，有投资者在上证互动e平台询问关于大宗交易相关事项，赛力斯集团对此回应称，根据《上海证券交易所上市公司股东及董事、监事、高级管理人员减持股份实施细则》相关规定，大股东或者特定股东采取大宗交易方式减持的，受让方在受让后6个月内，不得转让所受让的股份。",
+    "publish_time": "2022-12-28 16:38:12",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "西安饮食涨停，三机构合计净买入8299万元",
+    "url": "https://www.36kr.com/newsflashes/2063478477622920",
+    "summary": "西安饮食今日涨停，成交额30.91亿元。盘后龙虎榜数据显示，三家机构合计净买入8299万元。（证券时报）",
+    "publish_time": "2022-12-28 16:38:51",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "三菱日联将引进AI，评估初创企业融资可行性",
+    "url": "https://www.36kr.com/newsflashes/2063479024160390",
+    "summary": "据日本广播协会（NHK）报道，日本金融巨头三菱日联金融集团最快将于2023财年在日本国内引进人工智能（AI）系统，对初创企业的融资可行性进行评估。三菱日联计划引进的人工智能系统能够实时分析初创企业的日常营收、款项结付以及用户数量等，根据这些数据的变化对企业的业务发展预期等进行评估，从而提高融资审核的效率。三菱日联还打算根据人工智能的分析结果，为企业提供经营方面的建议，帮助企业实现发展。（界面）",
+    "publish_time": "2022-12-28 16:39:24",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "中公教育现4.87亿元平价大宗交易",
+    "url": "https://www.36kr.com/newsflashes/2063479573008259",
+    "summary": "中公教育今日出现4.87亿元平价大宗交易，成交价为每股4.76元，卖方为华泰证券南京郑和中路证券营业部，买方为兴业证券上海世博馆路证券营业部、光大证券杭州市心北路证券营业部、中信证券北京总部证券营业部。（证券时报）",
+    "publish_time": "2022-12-28 16:39:58",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "特斯拉大跌吸引大批韩国散户买入",
+    "url": "https://www.36kr.com/newsflashes/2063489094160263",
+    "summary": "韩国证券存管所提供的最新数据显示，截至27日，韩国超短线交易者本月新买入1.6亿美元的美国特斯拉公司股票。数据显示，即使特斯拉股票本月已下跌44%，有望成为其股价表现最差月份，韩国超短线投资者仍在持续买入。（新华社）",
+    "publish_time": "2022-12-28 16:49:39",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "乘联会：上周乘用车市场零售63.3万辆，同比增长13%",
+    "url": "https://www.36kr.com/newsflashes/2063499592273801",
+    "summary": "36氪获悉，乘联会数据显示，12月19-25日，乘用车市场零售63.3万辆，同比增长13%，环比上周增长17%，较上月同期增长70%；乘用车市场批发46.8万辆，同比下降20%，环比上周下降2%，较上月同期增长3%。12月1-25日，乘用车市场零售167.4万辆，同比去年增长9%，较上月同期增长47%；全国乘用车厂商批发141.4万辆，同比去年下降17%，较上月同期增长11%。",
+    "publish_time": "2022-12-28 17:00:20",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "企业经营中的博弈论实战 | TGO鲲鹏会",
+    "url": "https://www.infoq.cn/article/39uY4rSRbBTUa1HQ5Tkf",
+    "summary": "<p>本次分享您将收获：<br />\n1、创业经营的关键成功要素<br />\n2、TGO博弈论小组的精益运营心法<br />\n3、企业经营和博弈游戏的风险控制？<br />\n4、如何感受场域，组建共创共赢生态？</p>",
+    "publish_time": "2022-12-28 15:22:25",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "AIGC发展现状与应用展望",
+    "url": "https://www.infoq.cn/article/kxtTSYgd34dmmI8Pzb1A",
+    "summary": "<p>内容简介：AIGC（AI Generated Content)，利用人工智能技术来生成文本、图片、语音等内容，它被认为是继PGC、UGC之后的新型内容创作方式。目前，AIGC正处于技术和商业化交汇的路口。本次闭门会将分享AIGC的技术与发展现状，共同探讨AIGC的潜在商业化机遇。</p>\n<p>听众收益</p>\n<ol>\n<li>了解生成式AI(Generative AI)和AIGC的内涵</li>\n<li>了解AIGC的主要技术及发展现状</li>\n<li>了解AIGC目前国内外主要应用及玩家</li>\n<li>在开放探讨与碰撞中展望AIGC未来潜在应用领域、AIGC商业化模式，识别自身业务与AIGC的结合</li>\n</ol>",
+    "publish_time": "2022-12-28 15:36:43",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "Apollo开放平台迎来8.0版本，百度自动驾驶开放平台迈向易用性时代",
+    "url": "https://www.infoq.cn/article/x03UATveuuHTuH0TsINI",
+    "summary": "<p>12月28日，百度举行了Apollo开放平台8.0线上发布会。会上，百度面向所有开发者，正式推出了Apollo自动驾驶开放平台的全新升级版本——Apollo开放平台8.0，进一步夯实了平台的易用性，让开发者操作更简单易上手。同时，百度Apollo也面向外界分享了在自动驾驶教育、生态合作伙伴等方面的最新进展。</p><p>&nbsp;</p><p>Apollo开放平台8.0正式发布 带来多维度全新升级</p><p>&nbsp;</p><p>百度Apollo开放平台自上线以来始终保持着创新和高频的自我迭代，从最开始聚焦于基础能力的搭建，走向侧重场景能力的发展，再升级为对平台工程易用性精益求精的追求。百度自动驾驶平台生态负责人张亮表示，“Apollo开放平台8.0分别从‘新架构’、‘新能力’两个重要层面进行了全面升级，从开发者的实际需求出发进行改良，帮助开发者更好、更快地熟悉和使用百度Apollo开放平台。”</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/d6/d618c56b04895d8f74534d4671534724.png\" /></p><p></p><p>首先在平台架构层面上，Apollo开放平台8.0从面向技术分层的架构，升级为了结合技术与生态分层的架构。在“新架构”体系中，最底层为硬件设备，通过开放标准协议与认证，可助力Apollo的生态合作伙伴为开发者提供丰富的自动驾驶设备选择。在此之上是软件核心，可以提供搭建基于Apollo自动驾驶系统的最小软件子集的能力，本次升级开放了感知开发全流程，同时提供了基于本地HMI Dreamview的PnC仿真调试能力，从而提升感知和PnC的研发效率。再往上一层，是软件应用，可以为开发者提供全新的自动驾驶模块扩展能力与扩展方式，并以场景的形式开放。在架构顶层则是云端服务，新增了模型训练服务能力，并升级了实训平台与仿真能力。通过这套全新架构，Apollo开放平台8.0可以为开发者提供易用的软件核心和云服务工具，以及易扩展的硬件设备与软件场景应用。</p><p>&nbsp;</p><p><img src=\"https://static001.geekbang.org/infoq/d6/d62f3ed8d2ee71dc6fe8762b6052fc9f.png\" /></p><p></p><p>其次在平台能力构建上，Apollo开放平台8.0主要从三方面进行了升级。第一，在工程框架上引入软件包管理机制，以软件包的方式组织和管理Apollo模块，让开发者可以按需下载、减少数据量，让安装部署所需的时间从“天”级别缩短至30分钟内，大大地降低了安装与工程扩展的门槛。第二，Apollo开放平台8.0在原有基础上升级了感知框架与开发流程，一方面新引入了3个基于深度学习的模型，进一步丰富了感知模型类型，并且有效提升了精度；另一方面开放了感知的全流程开发环节，从模型的训练、部署到验证各个环节，开发者除了能选择平台自带的模型之外，更可以基于自己的需求扩展更多模型。第三，Apollo开放平台8.0采用了全新的PnC工具链，可提供PnC仿真测试的本地调试功能以及便捷的云端仿真场景管理功能，开发者通过插件即可将Apollo开放平台的场景和动力学模型下载至本地，整体可使调试效率提升1倍以上。</p><p>&nbsp;</p><p><img src=\"https://static001.geekbang.org/infoq/07/07ecd77875d69cadbffc52e3b1ed89d9.png\" /></p><p></p><p>此外Apollo开放平台8.0的另一举措，是上线了全新的针对自动驾驶的一站式学习实践社区——Apollo Studio。对于自动驾驶这一技术门槛高、学习难度大、实操成本高的领域而言，Apollo Studio可以帮助正在观望、想要进入或是想寻求突破的开发者解决部分困扰。这一社区可以为开发者提供学习课程和云端实践的机会，新手跑通一个样例Case仅需5分钟，极大降低了学习难度；同时还可以为开发者提供自动驾驶PnC、感知等一系列赛事机会，让开发者们可以与全球的同好们一同竞技、挑战自我；并且，作为一个汇聚了自动驾驶行业达人的社区，这里更可以成为开发者们与行业大牛进行深度技术交流、与同行分享和互动的绝佳窗口。</p><p>&nbsp;</p><p><img src=\"https://static001.geekbang.org/infoq/93/9377ec8598f73285d49fbff427b7e1e5.png\" /></p><p></p><p>Apollo EDU阶段性成绩亮眼 将联手北理展开新合作</p><p>&nbsp;</p><p>在百度Apollo生态中非常重要的一环，还有自动驾驶领域的教育和人才培养。过去几年间，Apollo持续与教育生态伙伴联手，培养跨学科、有交叉融合能力和创新实践能力的优秀人才，为行业“造血”。去年12月，百度发布了Apollo EDU人才培养计划，立下三年培养百万自动驾驶人才、覆盖千所院校的目标。目前，Apollo通过校企合作、师资培养、举办赛事等种种切实的行动，已经对此前定下的目标有了阶段性的兑现，Apollo EDU已覆盖自动驾驶相关技术人才超33.5万人、覆盖院校数达700多所。</p><p>&nbsp;</p><p>在与权威机构的产学研合作方面，Apollo在去年也与中国计算机学会智能汽车分会（CCF IV）携手共建了“自动驾驶国家新一代人工智能开放创新平台”，面向开发者开展技术研讨会、科学教育大讲堂等。在此次发布会上，Apollo还进一步宣布，后续将与北京理工大学展开进一步合作，共建智能网联汽车联合创新中心，未来将致力于合作培养智能网联汽车高素质复合型人才。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/5e/5e8bba72993d1da799b194310c61ad81.png\" /></p><p></p><p>事实上，除上述密集的举措之外，Apollo EDU在自动驾驶行业人才培养方面也已经摸索出一套行之有效的方案，以确保对不同类型的人才“因材施教”。面向高校人才，Apollo坚持产、学、研、用融会贯通的理念，为高校提供虚拟教研室平台、DKIT上车实践平台的全链路解决方案等。而面向产业实践型人才，则着重提供实用实战型的课程体系，培养自动驾驶集成类、测试类、运维类等应用型岗位人才，以及算法、工程技术类等研究型人才。张亮称，“未来，Apollo EDU也将与更多高校、机构展开教育方面的合作，让更多对自动驾驶有兴趣的开发者有机会入行、同时也是为行业培养源源不断的生力军。”</p><p>&nbsp;</p><p>Apollo X提出针对性共促方案 为企业规模化商业落地助力</p><p>&nbsp;</p><p>Apollo开放平台在此次发布会上也提出了专为生态伙伴打造的“企业自动驾驶能力建设地图”。基于企业自身场景应用所处的阶段特征，提供不同的共促方案，来帮助企业更好、更高效地实现自动驾驶的规模化商业落地。</p><p>&nbsp;</p><p><img src=\"https://static001.geekbang.org/infoq/d5/d56f1fa0ed9bb71651772b317ca4c16e.png\" /></p><p></p><p>对于处在早期原型搭建阶段的企业而言，Apollo X提出的方案主要从搭建所需的工具以及能力两方面下手，为企业提供包含Apollo核心系统、二次开发接口、功能安全软件能力的域控制器与推荐传感器在内的套件，以及端到端的搭建服务与技术培训咨询。</p><p>&nbsp;</p><p>对于处在中后期、具备小规模量产能力并开启启动场景运营的企业而言，Apollo X提供的方案则主要聚焦在与应用场景匹配的软件能力上，以及具备规模化算力支撑的仿真、模型训练、数据管理等研发工具平台和业务监控云工具等，主要是从规模化、成熟化的场景运营视角，帮助企业优化作业成本、风险及效率。</p><p>&nbsp;</p><p><img src=\"https://static001.geekbang.org/infoq/ea/ea43b964e6871d92e909e19d2d48d2f4.png\" /></p><p></p><p>Apollo开放平台始终秉承“开放能力、共享资源、加速创新、持续共赢”的核心理念，不断带来创新和升级。此次Apollo开放平台8.0的推出，再次让Apollo开放平台在工程易用性上向前迈进一大步，降低操作难度、操作成本的门槛，让更多开发者可以简单方便地上手Apollo开放平台、投身自动驾驶技术领域。</p><p>&nbsp;</p><p>目前，Apollo开放平台的开源代码量已超过75万行，并且汇聚了来自全球165个国家的10万多名开发者，拥有全球超220家生态合作伙伴。未来Apollo也期待与更多开发者及合作伙伴一起，不断拓展能力边界、探索自动驾驶技术和产业的更多可能性，一起“新新”向荣，聚力同行。</p>",
+    "publish_time": "2022-12-28 16:05:11",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "Taking Sex Differences in Personality Seriously (2019)",
+    "url": "https://blogs.scientificamerican.com/beautiful-minds/taking-sex-differences-in-personality-seriously/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34158727\">Comments</a>",
+    "publish_time": "2022-12-28 16:07:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Schooling improves intelligence, socioeconomic/genetic differences not affected",
+    "url": "https://www.nature.com/articles/s41539-022-00148-5",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34158895\">Comments</a>",
+    "publish_time": "2022-12-28 16:38:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
