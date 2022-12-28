@@ -610,5 +610,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "可口可乐新年欢聚夜",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90%E6%96%B0%E5%B9%B4%E6%AC%A2%E8%81%9A%E5%A4%9C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "浙江为60岁以上老人发放防疫包",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E4%B8%BA60%E5%B2%81%E4%BB%A5%E4%B8%8A%E8%80%81%E4%BA%BA%E5%8F%91%E6%94%BE%E9%98%B2%E7%96%AB%E5%8C%85%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
