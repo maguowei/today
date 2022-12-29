@@ -20,5 +20,27 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "Twitter 终究还是挂了",
+    "url": "https://www.infoq.cn/article/SEMJIMViDzxqUQ4gebBT",
+    "summary": "<p></p><blockquote>这次大规模崩溃发生在马斯克以 440 亿美元收购 Twitter 的两个月后，不确定这次宕机是否预告着一次即将发生的“完全崩溃”。</blockquote><p></p><p>&nbsp;</p><p>Twitter 用户报告了这次重大的全球中断，全球数万用户无法访问该网站或使用其主要功能。据流量跟踪网站<a href=\"https://downdetector.com/status/twitter/\">downdetector.com 称</a>\"，该网站变更为“不可用”发生在格林威治标准时间午夜。在一个小时内，该网站记录了 10,000 多份用户访问失败的报告，其中包括美国、日本、英国等多个国家的用户。</p><p>&nbsp;</p><p>总部位于伦敦的互联网监控器<a href=\"https://twitter.com/netblocks/status/1608264345498312705\">NetBlocks</a>\"表示，“Twitter 正在经历全球性中断，影响包括移动应用程序、功能（含通知）”。</p><p>&nbsp;</p><p>NetBlocks 还补充说，这次属于“广泛性”事件，与“国家级互联网中断或过滤”无关。Twitter<a href=\"https://api.twitterstat.us/\">尚未承认中断</a>\"，其<a href=\"https://api.twitterstat.us/\">状态页面</a>\"显示所有系统都在运行。</p><p>&nbsp;</p><p>一些用户反馈Twitter出现很多奇怪的错误消息，比如看到的是空白页面，或无法回复推文或关注热门话题，而另一些人是退出服务。Twitter 还向一些用户显示“速率超出限制”，这表明其服务器无法处理传入的请求。话题标签#TwitterDown 正在该平台上流行。</p><p>&nbsp;</p><p>Twitter首席执行官埃隆·马斯克表示，他仍然可以使用这项服务。“对我有用，”马斯克回应一位询问 Twitter 是否崩溃的用户时说。</p><p>&nbsp;</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/b7/b7df1cdfa815bdc06a6a74690f21d681.png\" /></p><p></p><p>12 月24日，马斯克还在炫耀Twitter的稳定性，“即使在我断开了其中一个更敏感的服务器机架的连接后，该服务仍在运行。”</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/0a/0acfbbf4fee5e3c5a930dc00265676f1.jpeg\" /></p><p></p><p></p><p>参考链接：</p><p>https://techcrunch.com/2022/12/28/twitter-down-outage/</p><p>https://www.reuters.com/technology/twitter-down-thousands-users-downdetectorcom-2022-12-29/</p><p>https://www.theguardian.com/technology/2022/dec/29/twitter-users-report-global-outage-with-many-unable-to-log-into-website-or-app</p><p>https://www.theguardian.com/technology/2022/dec/29/twitter-users-report-global-outage-with-many-unable-to-log-into-website-or-app</p><p></p>",
+    "publish_time": "2022-12-29 13:35:34",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "历时一年半，Apache Kyuubi正式毕业，成为 ASF 顶级项目",
+    "url": "https://www.infoq.cn/article/Tw95p8r6dzNJhzOjK0DC",
+    "summary": "<p></p><h2>Apache Kyuubi正式毕业</h2><p></p><p>&nbsp;</p><p>2022年12月22日，Apache 软件基金会（ASF）官方宣布<a href=\"https://www.infoq.cn/article/rlVLvAVVxJ7ym4ytgFEk\"> Apache Kyuubi</a>\" 正式毕业，成为顶级项目（TLP）。</p><p>&nbsp;</p><p>Apache Kyuubi 是一个分布式和多租户网关，用于在数据仓库和湖仓上提供无服务器SQL。项目最初由网易数帆开发并于2018年开源，2021年6月捐赠 Apache基金会，经过1年多的孵化于2022年11月通过投票，在12月顺利毕业，成为 Apache 基金会顶级开源项目。</p><p>&nbsp;</p><p>据介绍，Apache Kyuubi 在孵化过程中，<a href=\"https://mp.weixin.qq.com/s/Rm_TO-CjC0-OEoGpIe6KWw\">社区</a>\"迎来了一百多个贡献，有数千个提交，总计成功发布了九个版本。来自不同公司和国家的开发者和其他类型的贡献者在社区中度过了一段快乐的旅程。</p><p>&nbsp;</p><p>Kyuubi 目前已被全球数百家企业<a href=\"https://xie.infoq.cn/article/9e6ddbde30c7de8847ad5115b\">采用</a>\"，涉及多个行业，如云基础设施、互联网、金融、医疗、打车服务、物流、游戏和ACG，等等。像阿里巴巴、Bilibili、中国移动、携程、丁香园、eBay、爱奇艺、广发证券、kt NexR、网易、腾讯、T3、Womply、小米、雪球和知乎等公司都在使用 Apache Kyuubi。</p><p>&nbsp;</p><p>网易副总裁、网易杭州研究院执行院长汪源表示：“Kyuubi 是一个广泛使用的 SQL 门户，其无服务器设计，支持常见的 SQL 驱动，大大提升了大数据技术的使用便利性。作为客户端和底层技术之间的门户和网关，Kyuubi 也有很大的想象空间进行功能扩展，如 SQL 审计、检查、基于查询历史的优化等等。这是一个具有巨大潜力的项目。”</p><p>&nbsp;</p><p>Apache Kyuubi VP 姚琴表示：“看到社区成长并从孵化器毕业，这意味着我们已经成功地采用了 ‘Apache Way’并能够自我管理，这很有趣也很令人兴奋。作为一个 Apache 顶级项目，Kyuubi 是由全球各地的人们和组织开发和使用的。Kyuubi 帮助他们实现数据民主化，使具有任何技能水平的人都能舒适地处理数据，而不管他们的技术知识如何。”</p><p></p><h2>“九尾狐”Kyuubi</h2><p></p><p>&nbsp;</p><p>Kyuubi 的命名源自中国神话《山海经》，意为“九尾狐”。狐会喷火，象征 Spark；狐有九尾，类比多租户。这个命名也体现出了 Kyuubi 系统设计之初的主要目的——在 Spark 上实现多租户。</p><p>&nbsp;</p><p>事实上，在 Kyuubi 之前，市面上已存在具备类似能力的产品，比如 Spark ThriftServer（简称 STS）。这是 Spark 社区现有的、基于 HiveServer2 实现的 Thrift 服务，旨在无缝兼容 HiveServer2。</p><p>&nbsp;</p><p>虽然 STS 的性能极佳，但当前并不完善，尤其在企业场景下存在较多短板。比如，单 Spark 应用实现的 STS 并不能完整支持多租户，因为 STS 本质上是一个 Spark Application，整个 Application 只有全局唯一的用户名，并同时包括 Driver 端和 Executor 端。而对于像网易这样有多条产品线的互联网公司来说，每条产品线的数据在一定程度上是隔离的。因此，只有支持多租户才能满足公司对于数据安全、资源隔离、高可用以及高并发的要求。</p><p>&nbsp;</p><p>这也就促使网易内部开发了 Kyuubi。Kyuubi 在统一接口基础上，拓展了 STS 在多租户模式下的使用场景，并依托多租户概念获得了完善的资源隔离共享能力和数据安全隔离的能力。</p><p>&nbsp;</p><p>Apache Kyuubi 在各种现代计算框架之上建立了分布式SQL查询引擎，例如 Apache Spark™、Apache Flink™、Apache Doris™、Apache Hive™和Trino等，以查询分布在异质数据源的机器群上的大规模数据集。</p><p>&nbsp;</p><p>统一网关：通过一个入口点实现对任何集群资源的简化、安全访问，为终端用户部署不同的工作负载</p><p>&nbsp;</p><p>应用编程接口：支持各种API，包括Apache Thrift™、JDBC、ODBC、REST等，便于访问。多租户：支持端到端的多租户，这对集群的安全性和并发性都有利。高可用性：确保其在指定时间内连续无障碍运行，以满足商定的运行性能水平。</p><p>&nbsp;</p><p>无服务器SQL及更多：使最终用户更容易从数据宇宙中获得洞察力，并优化数据管道，无论他们的技术知识如何。它能够使用熟悉的SQL为各种工作负载提供与RDBMS相同的用户体验，在不同的数据源上提供广泛和安全的数据访问能力，并通过可扩展的计算资源为大量数据提供高性能。</p><p>&nbsp;</p><p>易用性：终端用户可以有一个优化的体验，以无服务器的方式探索他们的数据宇宙。相应的引擎，如 Spark 和Flink 的 \"超能力 \"不再是必要的。在任何地方以任何规模运行：所有的预编程引擎都有分布式后端，可以在单节点机器上或跨集群安排任务。高性能：最先进的查询引擎、服务器端的全局和持续优化等保证了整个集群的性能提升。</p><p></p>",
+    "publish_time": "2022-12-29 14:40:35",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
