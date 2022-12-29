@@ -42,5 +42,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "大家觉得现阶段 M 芯片的 Mac 还有哪些方面不如 Intel Mac 稳定",
+    "url": "https://www.v2ex.com/t/905257",
+    "summary": "nztomoto: <p>个人碰到的最大问题是外置移动硬盘掉速掉盘，拷贝大量文件经常会发生自动 eject ，拷贝出错，速度变慢等问题，相当烦人。</p>\n<p>M1 和 intel Mac 都安装了相对应的 NTFS 软件，不管是 SSD 还是 普通硬盘， 都会有此问题，但是 intel Mac 一切正常。</p>",
+    "publish_time": "2022-12-29 05:48:32",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "所以，彦祖们明天上完班去哪放松三天呢",
+    "url": "https://www.v2ex.com/t/905277",
+    "summary": "rookie333: 我前天脑子一热，买了去武汉的高铁票<br />不知道去干嘛，现在也还没搜能去干嘛<br />只知道一个吃的就是 热干面<br />然后看了下能去的地方<br />长江大桥，省博物馆，黄鹤楼在外边看看？<br />户部巷，江汉路步行街，还有个吉庆路？<br />古德寺，归元禅寺，汉口江滩会不会被冻成狗？<br />武大应该没樱花吧？<br />问一下彦祖们<br />有啥是离了武汉湖北就很难吃到正宗的本地小吃或者菜系？<br />彦祖们可以的话直接给店铺名<br />无任何忌口",
+    "publish_time": "2022-12-29 09:44:29",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "一个 14 岁初中生开发的前端工具库，轻量级高可用，各位可以体验一下",
+    "url": "https://www.v2ex.com/t/905279",
+    "summary": "dyxiaodong2022: <p>没错，我是一个 14 岁的初中生，正在为了我开源项目的 star 数发愁 awa ，如果你体验后感觉不错，不妨给个 star 吧</p>\n<p>目前暂时没有中文文档，非常抱歉，目前已经在做了，但碍于我要上学，时间真的不多所以可能出来的时间会比较晚</p>\n<ul>\n<li>Github: <a href=\"https://github.com/fastjs-team/fastjs-next\" rel=\"nofollow\">https://github.com/fastjs-team/fastjs-next</a></li>\n<li>官网: <a href=\"https://fastjs.cc/\" rel=\"nofollow\">https://fastjs.cc/</a></li>\n<li>官方文档: <a href=\"https://docs.fastjs.cc/\" rel=\"nofollow\">https://docs.fastjs.cc/</a></li>\n</ul>\n<p>同时还有专门的脚手架用于部署项目，支持纯 fastjs 和 vue 项目，而且支持多个模块，如 vuex,vue-router,antdv,element ui vue,js-cookie ，自动配置 main.js 等文件，真正意义上的开箱即用</p>\n<pre><code class=\"language-shell\">npm install -g fastjs-cli\n</code></pre>\n<pre><code class=\"language-shell\">fastjs create 项目名\n</code></pre>",
+    "publish_time": "2022-12-29 09:47:31",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
