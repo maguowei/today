@@ -1,0 +1,13 @@
+[
+  {
+    "title": "AirBnb开源动画引擎Lottie：采用Core Animation提高性能",
+    "url": "https://www.infoq.cn/article/hPFqXYhRPqjOh6CdHuYR",
+    "summary": "<p>AirBnb<a href=\"https://medium.com/airbnb-engineering/announcing-lottie-4-0-for-ios-d4d226862a54\">宣布了</a>\"其开源矢量动画引擎Lottie的第四次主要迭代。AirBnb iOS工程师Cal Stephens表示，由于采用了核心动画（Core Animation），Lottie 4.0提供了显著的性能改进，并降低了CPU负载。</p><p>&nbsp;</p><p>Lottie是一个用于iOS和Android的库，可以实时渲染After Effects动画。Lottie中的动画是通过JSON文件描述的，可以使用<a href=\"https://github.com/bodymovin/bodymovin\">Bodymovin</a>\"插件从After Effects中导出。Lottie将对JSON进行解码，并访问渲染动画所需的所有资源，就像它只是应用程序中的另一个静态资源一样。</p><p>&nbsp;</p><p>在Lottie 4.0中，AirBnb放弃了使用<a href=\"https://developer.apple.com/documentation/quartzcore/cadisplaylink\">CADisplayLink</a>\"在主CPU线程上制作图形动画的原始方法：</p><p>&nbsp;</p><p></p><blockquote>每帧一次，Lottie将在主线程上执行代码，以推进动画的进度并重新渲染其内容。这意味着动画在播放时将消耗5–20%以上的CPU，从而减少了用于应用程序其余部分的可用CPU周期。</blockquote><p></p><p>&nbsp;</p><p>根据Stephens的说法，这使得Lottie在更复杂的情况下无法维持所需的帧速并且开始丢弃帧会变得相对常见。此外，当主线程忙于一些昂贵的任务时，动画可能会出现一些抖动。</p><p>&nbsp;</p><p>切换到核心动画（Core Animation）意味着动画被卸载到GPU上，这有三个好处：利用硬件加速，减少CPU负载，并在CPU繁忙时提高帧速。</p><p>&nbsp;</p><p></p><blockquote>例如，Airbnb应用程序在首次启动时显示Lottie动画。我们在这里进行了一项实验，发现切换到新的渲染引擎可以缩短应用程序的总启动时间，同时还可以提高启动动画的帧速和用户体验。</blockquote><p></p><p>&nbsp;</p><p>除了新的基于核心动画（Core Animation）的渲染引擎外，Lottie 4.0还带来了一种<a href=\"https://dotlottie.io/\">新的文件格式</a>\"，它使用压缩将一个或多个Lottie JSON文件及其相关资源聚合到一个文件中。JSON解码管道已被重写，速度提高了约2倍。</p><p>&nbsp;</p><p>Lottie最初是用Objective-C编写的，两年前在Swift中被完全重写，最终发布了第3版。你可以从<a href=\"https://github.com/airbnb/lottie-ios\">GitHub repo</a>\"或使用包管理器（如CocoaPods、Carthage或Swift包管理器）安装它。</p><p>&nbsp;</p><p>作者简介：</p><p>Sergio De Simone是一名软件工程师。Sergio已经在一系列不同的项目和公司担任软件工程师超过15年，其中包括西门子、惠普和小型创业公司等不同的工作环境。在过去的几年里，他一直专注于移动平台和相关技术的开发。他目前就职于BigML，Inc.，负责iOS和OS X的开发。</p><p>&nbsp;</p><p>&nbsp;</p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2022/12/airbnb-lottie-4/\">https://www.infoq.com/news/2022/12/airbnb-lottie-4/</a>\"</p><p></p><p>相关阅读：</p><p><a href=\"https://xie.infoq.cn/article/c69eeb94f0023cde7bc0bf80a\">React 源码解读之 React Fiber</a>\"</p><p><a href=\"https://www.infoq.cn/article/jEs0tEhfmkjbQ1LGPkbI\">虚拟角色赛道的新“闯入者”：3D 引擎 Cocos 和它的新故事</a>\"</p>",
+    "publish_time": "2022-12-29 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
