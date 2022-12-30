@@ -31,5 +31,49 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "「AI推理」加速核心原理解析与工程实践 | 云原生 AI·技术公开课 第三期",
+    "url": "https://www.infoq.cn/article/mPJzSMJ53meqBkFT2Nku",
+    "summary": "<p>直播看点：<br />\n1、了解AI推理加速的核心原理、评估指标以及相应的优化方法<br />\n2、了解百度百舸平台的AI推理加速套件AIAK-Inference的工程实践效果</p>",
+    "publish_time": "2022-12-30 12:54:18",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "「AI训练」加速原理解析与工程实践分享 | 云原生 AI·技术公开课 第二期",
+    "url": "https://www.infoq.cn/article/tQqPUkoJ90bVbVPbW2Ee",
+    "summary": "<p>直播看点：</p>\n<ol>\n<li>系统性了解各类 AI 模型训练方案下的 AI 训练瓶颈</li>\n<li>全面掌握 AI 加速训练的各种方法的原理</li>\n<li>了解百度百舸平台的 AI 训练加速套件 AIAK-Training 的工程实践效果</li>\n</ol>",
+    "publish_time": "2022-12-30 12:54:21",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "云原生AI的资源调度和AI工作流引擎设计分享 | 云原生 AI·技术公开课 第一期",
+    "url": "https://www.infoq.cn/article/Ga3SF30ulhwVsSc8Hbyh",
+    "summary": "<p>直播看点：</p>\n<ul>\n<li>了解单机单卡、多机多卡、多机多卡等场景下云原生 AI 的资源调度方法。</li>\n<li>了解 AI 工作流引擎 PaddleFlow 打通底层资源和上层业务的架构和细节，提升 AI 工程效率。</li>\n</ul>",
+    "publish_time": "2022-12-30 12:54:23",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "视觉大模型训练与推理优化 | 云原生 AI·技术公开课 第四期",
+    "url": "https://www.infoq.cn/article/26yuRpJhQoP9INUveN4O",
+    "summary": "<p>直播看点：<br />\n1、讲解如何结合profiling工具，发现训练与推理的性能瓶颈；<br />\n2、介绍结合GPU产品特点，利用算子融合、低精度等技术，以及Faster Transformer最佳实践，提升性能并加快吞吐。</p>",
+    "publish_time": "2022-12-30 12:54:25",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
