@@ -97,5 +97,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "抽奖送话费， DTO 社区祝大家 2023 年好运连连",
+    "url": "https://www.v2ex.com/t/905509",
+    "summary": "Pipecraft: <p>马上 2023 年了，大家来参与抽奖吧，看看新年运气如何。</p>\n<h2>关于 DTO (Dev Topics Only) 社区</h2>\n<p><a href=\"https://dto.pipecraft.net/about\" rel=\"nofollow\"><strong>DTO</strong></a> 是一个类似 <a href=\"https://news.ycombinator.com/\" rel=\"nofollow\">Hacker News</a>, <a href=\"https://lobste.rs/\" rel=\"nofollow\">Lobsters</a> 的技术文章链接分享社区，是一个只讨论技术话题的程序员社区。</p>\n<p><a href=\"https://dto.pipecraft.net/\" rel=\"nofollow\"><strong>DTO</strong></a> 是一个 100% 邀请制的社区。</p>\n<h3>邀请码申请入口</h3>\n<ul>\n<li>在评论里留下你的邮箱地址。请用 Base64 或其他方式 🔐 加密 🔐 你的邮箱地址。会定期审核并发送邀请。（ ex. <code>atob('ZXhhbXBsZUBleGFtcGxlLmNvbQ==')</code> ）</li>\n<li><a href=\"https://juejin.cn/post/7182107297689108540\" rel=\"nofollow\">掘金</a></li>\n<li><a href=\"https://github.com/dev-topics-only/lobsters/issues/1\" rel=\"nofollow\">GitHub</a></li>\n</ul>\n<h2>抽奖活动规则</h2>\n<p>在以下 3 个组中各抽取 2 名（一共 6 人），各送 50 元话费。\n3 个组分别是</p>\n<ul>\n<li>本帖评论区回帖用户</li>\n<li><a href=\"https://dto.pipecraft.net/u\" rel=\"nofollow\">DTO 会员</a></li>\n<li><a href=\"https://bestxtools.zhubai.love/\" rel=\"nofollow\">好工具周刊邮箱订阅用户</a> + <a href=\"https://discuss-cn.bestxtools.com/\" rel=\"nofollow\">BestXTools 会员</a> （微信订阅者的用户名很多重复，中奖后无法直接联系，故无法参与抽奖）</li>\n</ul>\n<p>抽奖时间：</p>\n<ul>\n<li>2023 年 1 月 3 日 23 点 23 分，每个组各抽取一名</li>\n<li>2023 年 1 月 4 日 23 点 23 分，每个组各抽取一名</li>\n</ul>\n<p>抽奖方式:</p>\n<ul>\n<li>本帖评论区回帖用户去重，然后随机抽取，中奖者在评论中公布</li>\n<li><a href=\"https://dto.pipecraft.net/u\" rel=\"nofollow\">DTO 会员</a>中随机抽取，中奖者在评论中公布，邮件联系中奖者</li>\n<li>合并<a href=\"https://dto.pipecraft.net/u\" rel=\"nofollow\">好工具周刊邮箱订阅用户</a>与 <a href=\"https://discuss-cn.bestxtools.com/\" rel=\"nofollow\">BestXTools 会员</a>，从中随机抽取，中奖者在评论中公布，邮件联系中奖者，下期周刊中公布</li>\n</ul>\n<p>抽奖程序:</p>\n<ul>\n<li>代码会公开，更新在 <a href=\"https://github.com/v2hot/v2lottery\" rel=\"nofollow\">https://github.com/v2hot/v2lottery</a></li>\n<li>通过 GitHub Action 定时执行(2023 年 1 月 3 日 23 点 23 分, 2023 年 1 月 4 日 23 点 23 分) 抽奖程序，把🀄️奖结果打印在日志里</li>\n</ul>\n<h2>链接</h2>\n<ul>\n<li>DTO 社区: <a href=\"https://dto.pipecraft.net/\" rel=\"nofollow\">https://dto.pipecraft.net/</a></li>\n<li>好工具周刊 (竹白): <a href=\"https://bestxtools.zhubai.love/\" rel=\"nofollow\">https://bestxtools.zhubai.love/</a></li>\n<li>BestXTools 社区: <a href=\"https://discuss-cn.bestxtools.com/\" rel=\"nofollow\">https://discuss-cn.bestxtools.com/</a></li>\n</ul>\n<p>欢迎回帖，注册会员，订阅周刊。</p>\n<hr />\n<p>祝大家新年快乐，身体健康，烦恼清零、霉运清零、负债清零。见此帖者好运连连。</p>",
+    "publish_time": "2022-12-30 10:06:43",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
