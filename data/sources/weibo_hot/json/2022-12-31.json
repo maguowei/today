@@ -601,5 +601,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "中国航天2022精彩盘点",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A92022%E7%B2%BE%E5%BD%A9%E7%9B%98%E7%82%B9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "腊八彩虹巨无霸紫米饭团",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%85%8A%E5%85%AB%E5%BD%A9%E8%99%B9%E5%B7%A8%E6%97%A0%E9%9C%B8%E7%B4%AB%E7%B1%B3%E9%A5%AD%E5%9B%A2%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "白鹿说张彬彬头真的挺大",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E8%AF%B4%E5%BC%A0%E5%BD%AC%E5%BD%AC%E5%A4%B4%E7%9C%9F%E7%9A%84%E6%8C%BA%E5%A4%A7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
