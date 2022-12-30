@@ -1,0 +1,24 @@
+[
+  {
+    "title": "网易 2022 年度盘点：致敬每一个扛住了生活的平凡人",
+    "url": "https://www.v2ex.com/t/905479",
+    "summary": "cheshire: <div class=\"embedded_video_wrapper\"></div>",
+    "publish_time": "2022-12-30 00:02:18",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "13 岁初中生写的一个简单 Typescript mirai-api-http 对接库",
+    "url": "https://www.v2ex.com/t/905504",
+    "summary": "FurryR: <p>起因是在 QQ 群看到了，感觉很有意思就注册了一个 V2EX 账号。</p>\n<p>这个帖子是用来对标之前 14 岁初中生写的前端工具库的。前端对后端？</p>\n<p>特例独行地，我写 Bot 的时候顺带搓了一个对接框架（因为 Mirai-js 用得不是很顺手）。</p>\n<p>不久前刚过 14 岁生日，但是这个库最后一次更新是在我 13 岁的时候，那就当 13 岁吧。</p>\n<p>你可以在 <a href=\"https://github.com/FurDevsCN/mirai-foxes\" rel=\"nofollow\">这里</a> 访问这个项目（移到 org 的原因是和他们玩得很好，并且我希望有人能来帮我维护一下，即使并没有组织成员会这样做）。</p>\n<p>项目附带全中文的完整 Typescript 说明文档。并且 JSDoc 100%(?) 完成注释。你可以在 <a href=\"https://github.com/FurDevsCN/foxes-awesome\" rel=\"nofollow\">这里</a> 找到一个完整的示例。我还写了一个并不好的模块管理器，你可以在 <a href=\"https://github.com/FurDevsCN/foxes-plugin\" rel=\"nofollow\">这里</a> 下载。mirai-foxes 有一个地方可能滥用了 never ，正在为此苦恼。</p>\n<p>注意！！！因为说明文档有 FurDevsCN 成员带着写，所以会有一定的异物混入，请不要在意。</p>\n<p>我写了很多 breaking 的更新，不过短时间内这个算是变成 stable 版了，所以没有任何问题。</p>\n<p>总之，感谢 pr 的陌生人（他修正了一些文档的错误）和 FurDevsCN 的大家。</p>\n<p>如果你只是想下载这个库看看：</p>\n<pre><code>npm i mirai-foxes # 也可以使用 yarn 或者 pnpm ，应该？\n</code></pre>\n<p>如果你还没配置 mirai ？嘛，开发者文档里应该写了配置方式吧。</p>\n<p>顺便给 TLDR 的各位中文文档链接：<a href=\"https://furdevscn.github.io/mirai-foxes\" rel=\"nofollow\">Github Pages</a>。</p>\n<p>不会 OOP ，轻喷。不过我写 Bot 的时候用得顺手，这是好的。</p>\n<p>我之前还写了个对接 OneBot 的整活框架：<a href=\"https://github.com/FurryR/nobot\" rel=\"nofollow\">nobot</a>，支持 Python 和 C++，同样的我也给 Python 版注好了 typing 和 Doxygen 。不过不建议使用就是了。什么时候想写个 Rust 版，不知道 Rust 有什么好一点的 net 库？（好吧，我承认我不会 Rust 式编程，Rc&lt;RefCell&gt; 已经满天飞了。）</p>\n<p>自豪地不使用格式化（别学我）。</p>\n<p>到时候想到什么就再加吧。</p>",
+    "publish_time": "2022-12-30 09:46:24",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  }
+]
