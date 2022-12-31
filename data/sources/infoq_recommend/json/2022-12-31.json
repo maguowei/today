@@ -1,0 +1,13 @@
+[
+  {
+    "title": "GitLab发布单租户SaaS产品，实现严格的安全性和合规性",
+    "url": "https://www.infoq.cn/article/WVFywuP2fdbCFh43k3QT",
+    "summary": "<p><a href=\"https://about.gitlab.com/\">GitLab</a>\"发布了一款新产品，<a href=\"https://about.gitlab.com/blog/2022/11/30/introducing-gitlab-dedicated/\">GitLab Dedicated</a>\"，面向有严格安全和合规要求的行业客户，支持将DevOps软件解决方案从本地迁移到云上。</p><p>&nbsp;</p><p>GitLab Dedicated是一种<a href=\"https://blog.hubspot.com/service/single-vs-multi-tenant-saas\">单租户SaaS产品</a>\"，适用于那些无法选择多租户SaaS的客户。它提供了与GitLab<a href=\"https://about.gitlab.com/\">常规SaaS产品类似的功能</a>\"，但在<a href=\"https://www.hostedpci.com/what-is-data-residency/\">数据驻留</a>\"和数据管理方式方面有更多选择。GitLab Dedicated中的数据<a href=\"https://en.wikipedia.org/wiki/Data_at_rest\">在静止</a>\"和<a href=\"https://blog.avast.com/data-in-transit-encryption\">传输过程中</a>\"使用最新的加密标准进行加密，它提供了一个完全隔离的GitLab实例，<a href=\"https://en.wikipedia.org/wiki/Private_network\">具有专用网络</a>\"，而无需组织自行运行。</p><p>&nbsp;</p><p>从定义上看，GitLab面向公众的SaaS产品无法满足某些受监管环境中客户的需求，因此GitLab Dedicated提供了单一租赁的选项，并明确定义了组织数据存储的国家。此外，现在可以使用<a href=\"https://en.wikipedia.org/wiki/Geo-replication\">多个地理位置上分散的副本站点</a>\"来满足世界各地需要<a href=\"https://www.cisco.com/c/en/us/solutions/data-center/data-center-networking/what-is-low-latency.html\">低延迟</a>\"的组织需求。</p><p>&nbsp;</p><p>GitLab Dedicated的发布节奏比非专用版本晚了一个月，但包含了最新的安全版本。它带有<a href=\"https://www.cloudflare.com/learning/access-management/what-is-saml/\">SAML</a>\" OmniAuth功能，允许它连接到大多数身份提供者（<a href=\"https://www.cloudflare.com/learning/access-management/what-is-an-identity-provider/\">IdP</a>\"）。网络可以通过公共IP地址，也可以使用<a href=\"https://aws.amazon.com/privatelink/\">AWS PrivateLink</a>\"的专用连接，从而实现许多企业所需的传统<a href=\"https://www.infoq.com/articles/zero-trust-security/\">边界安全性</a>\"。</p><p>&nbsp;</p><p>&nbsp;</p><p>它仅在AWS上运行，在30个AWS区域中的24个地区可用，其余6个地区目前不支持GitLab Dedicated所需的功能。<a href=\"https://docs.gitlab.com/ee/subscriptions/gitlab_dedicated/\">它支持GitLab的大部分广泛功能</a>\"，其中不可用的功能包括服务器端Git挂钩、自定义域、多个登录提供者、自带密钥加密、GitLab页面、服务台和GitLab管理的运行程序。</p><p>&nbsp;</p><p>GitLab Dedicated目前供应有限，对于那些希望购买2000个或更多位次的组织，<a href=\"https://about.gitlab.com/dedicated/\">可以通过GitLab网站</a>\"填等待名单。基于GitLab Dedicated的可扩展性， 全面可用预计将会随之而来，尽管目前还没有公开的时间表。</p><p>&nbsp;</p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2022/12/gitlab-dedicated/\">https://www.infoq.com/news/2022/12/gitlab-dedicated/</a>\"</p><p></p><p>相关阅读：</p><p><a href=\"https://xie.infoq.cn/article/77e35ab64dd13dd314dede926\">如何利用极狐 GitLab CI/CD 完成 Jenkins 的迁移</a>\"</p>",
+    "publish_time": "2022-12-31 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
