@@ -1257,5 +1257,131 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "开局之年看中国",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B1%80%E4%B9%8B%E5%B9%B4%E7%9C%8B%E4%B8%AD%E5%9B%BD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "2023第一天来了",
+    "url": "https://s.weibo.com/weibo?q=%232023%E7%AC%AC%E4%B8%80%E5%A4%A9%E6%9D%A5%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "元旦少不了姐姐收拾弟弟",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%83%E6%97%A6%E5%B0%91%E4%B8%8D%E4%BA%86%E5%A7%90%E5%A7%90%E6%94%B6%E6%8B%BE%E5%BC%9F%E5%BC%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "On Charlie Munger (2019)",
+    "url": "https://jasonzweig.com/on-charlie-munger/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34208254\">Comments</a>",
+    "publish_time": "2023-01-02 01:15:35",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "What will happen in 2023",
+    "url": "https://avc.com/2023/01/what-will-happen-in-2023/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34207614\">Comments</a>",
+    "publish_time": "2023-01-02 00:23:06",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Mini brains grown from stem cells developed eye-like features (2021)",
+    "url": "https://www.smithsonianmag.com/smart-news/mini-brains-grown-stem-cells-developed-eyes-can-sense-light-180978478/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34208926\">Comments</a>",
+    "publish_time": "2023-01-02 02:12:27",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "FatFs – Generic FAT Filesystem Module",
+    "url": "http://elm-chan.org/fsw/ff/00index_e.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34210076\">Comments</a>",
+    "publish_time": "2023-01-02 03:48:45",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Why 536 was 'the worst year to be alive' (2018)",
+    "url": "https://www.science.org/content/article/why-536-was-worst-year-be-alive",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34209313\">Comments</a>",
+    "publish_time": "2023-01-02 02:44:55",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Casio-F-91W die-shot",
+    "url": "https://zeptobars.com/en/read/Casio-F-91W-OKI-quartz-watch",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34209985\">Comments</a>",
+    "publish_time": "2023-01-02 03:41:11",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "“Internet in space” will transform the satellite imagery industry",
+    "url": "https://joemorrison.substack.com/p/how-internet-in-space-will-transform",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34207926\">Comments</a>",
+    "publish_time": "2023-01-02 00:49:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Smalltalk-80 on Raspberry Pi: A bare metal implementation",
+    "url": "https://github.com/michaelengel/crosstalk",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34208753\">Comments</a>",
+    "publish_time": "2023-01-02 01:56:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "【夜读】2023最好的打开方式",
+    "url": "https://mp.weixin.qq.com/s/RJeaGXwwUcl-g9yBvi3J2Q",
+    "summary": "【夜读】2023最好的打开方式",
+    "publish_time": "2023-01-02 03:58:49",
+    "source": {
+      "name": "people_daily_gzh",
+      "desc": "人民日报公众号",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
+    }
   }
 ]
