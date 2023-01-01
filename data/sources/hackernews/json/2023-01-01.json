@@ -460,5 +460,38 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Ogham",
+    "url": "https://en.wikipedia.org/wiki/Ogham",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34200816\">Comments</a>",
+    "publish_time": "2023-01-01 05:14:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Compromised PyTorch-nightly dependency chain between December 25th – December 30",
+    "url": "https://pytorch.org/blog/compromised-nightly-dependency/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34202662\">Comments</a>",
+    "publish_time": "2023-01-01 09:34:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Compromised PyTorch-nightly dependency chain December 30th, 2022",
+    "url": "https://pytorch.org/blog/compromised-nightly-dependency/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34202836\">Comments</a>",
+    "publish_time": "2023-01-01 10:04:39",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
