@@ -1245,5 +1245,138 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "要维C喝刺柠吉",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%A6%81%E7%BB%B4C%E5%96%9D%E5%88%BA%E6%9F%A0%E5%90%89%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "黑暗荣耀 班主任",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%BB%91%E6%9A%97%E8%8D%A3%E8%80%80+%E7%8F%AD%E4%B8%BB%E4%BB%BB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "中学生湖边烧烤半个身子陷入淤泥",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E7%94%9F%E6%B9%96%E8%BE%B9%E7%83%A7%E7%83%A4%E5%8D%8A%E4%B8%AA%E8%BA%AB%E5%AD%90%E9%99%B7%E5%85%A5%E6%B7%A4%E6%B3%A5%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "辍学的00后都在做什么?",
+    "url": "https://www.zhihu.com/question/527366558",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "内心强大的人都有什么表现？",
+    "url": "https://www.zhihu.com/question/355778275",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Databases in 2022: A Year in Review",
+    "url": "https://ottertune.com/blog/2022-databases-retrospective/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34220524\">Comments</a>",
+    "publish_time": "2023-01-03 01:17:37",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Higher-order organization of multivariate time series",
+    "url": "https://www.nature.com/articles/s41567-022-01852-0",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34221756\">Comments</a>",
+    "publish_time": "2023-01-03 02:37:12",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Inside the 8086 Processor's Instruction Prefetch Circuitry",
+    "url": "https://www.righto.com/2023/01/inside-8086-processors-instruction.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34221374\">Comments</a>",
+    "publish_time": "2023-01-03 02:11:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Beesy: Record Google Meets for Free, No Signups, Download Locally",
+    "url": "https://chrome.google.com/webstore/detail/beesy-record-google-meets/eabicnldgjknbifdgmnieblkbnggfnde",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34221357\">Comments</a>",
+    "publish_time": "2023-01-03 02:10:33",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "English as She Is Spoke",
+    "url": "https://en.wikipedia.org/wiki/English_as_She_Is_Spoke",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34221879\">Comments</a>",
+    "publish_time": "2023-01-03 02:44:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Nintendo GBA and DS ROM hacking guide (2016)",
+    "url": "https://gbatemp.net/download/gba-and-ds-rom-hacking-guide.33419/download",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34221561\">Comments</a>",
+    "publish_time": "2023-01-03 02:24:14",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Musicians Wage War Against Evil Robots",
+    "url": "https://www.smithsonianmag.com/history/musicians-wage-war-against-evil-robots-92702721/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34221455\">Comments</a>",
+    "publish_time": "2023-01-03 02:16:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Debloating Windows 10 with one command and no internet scripts",
+    "url": "https://gabrielsieben.tech/2023/01/02/debloating-windows-10-with-one-command-and-no-scripts/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34221653\">Comments</a>",
+    "publish_time": "2023-01-03 02:30:18",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
