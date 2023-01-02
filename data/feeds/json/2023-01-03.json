@@ -1427,5 +1427,109 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "微博年货节",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E5%B9%B4%E8%B4%A7%E8%8A%82%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "你心中的 2022年漫画 TOP10 是哪些？为什么？",
+    "url": "https://www.zhihu.com/question/573150898",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "《阿凡达：水之道》全球票房达 10.30 亿美元，成为 2022 年全球票房榜亚军，如何看待这一成绩？",
+    "url": "https://www.zhihu.com/question/575478889",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Ask HN: Why did Backend development explode in complexity?",
+    "url": "https://news.ycombinator.com/item?id=34222107",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34222107\">Comments</a>",
+    "publish_time": "2023-01-03 02:58:13",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Comparison of Exercise and Pharmacologic Treatment of Depression",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5430071/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34222849\">Comments</a>",
+    "publish_time": "2023-01-03 03:58:50",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Netscape 1.0 Browser Emulator",
+    "url": "https://www.dejavu.org/1995win.htm",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34222762\">Comments</a>",
+    "publish_time": "2023-01-03 03:51:29",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Beesy – Record Google Meets for free, download locally",
+    "url": "https://chrome.google.com/webstore/detail/beesy-record-google-meets/eabicnldgjknbifdgmnieblkbnggfnde",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34221357\">Comments</a>",
+    "publish_time": "2023-01-03 02:10:33",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Inside the 8086 processor's instruction prefetch circuitry",
+    "url": "https://www.righto.com/2023/01/inside-8086-processors-instruction.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34221374\">Comments</a>",
+    "publish_time": "2023-01-03 02:11:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "English as She Is Spoke (1884) [pdf]",
+    "url": "https://www.exclassics.com/espoke/espkpdf.pdf",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34221879\">Comments</a>",
+    "publish_time": "2023-01-03 02:44:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "【夜读】2023年的开始，送给你最实在的4句话",
+    "url": "https://mp.weixin.qq.com/s/HGy8jUcRoj3IgoIKA8WPqA",
+    "summary": "【夜读】2023年的开始，送给你最实在的4句话",
+    "publish_time": "2023-01-03 04:13:14",
+    "source": {
+      "name": "people_daily_gzh",
+      "desc": "人民日报公众号",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
+    }
   }
 ]
