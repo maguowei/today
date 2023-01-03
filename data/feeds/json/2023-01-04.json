@@ -1515,5 +1515,102 @@
       "desc": "人民日报公众号",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
     }
+  },
+  {
+    "title": "曼联vs伯恩茅斯",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9B%BC%E8%81%94vs%E4%BC%AF%E6%81%A9%E8%8C%85%E6%96%AF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Lisp on Browser",
+    "url": "http://nhiro.org/learn_language/LISP-on-browser.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34237331\">Comments</a>",
+    "publish_time": "2023-01-04 04:13:20",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Microsoft.Recognizers.Text: numbers, units, and date/time in multiple languages",
+    "url": "https://github.com/microsoft/Recognizers-Text",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34234626\">Comments</a>",
+    "publish_time": "2023-01-04 01:30:05",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How ^NOT to Forge a Search Warrant",
+    "url": "https://dirtyprosecutor.org",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34237178\">Comments</a>",
+    "publish_time": "2023-01-04 04:02:05",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "AT&T's predictions of the future (1993)",
+    "url": "https://www.youtube.com/watch?v=Xm9jr0cSqZo",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34237090\">Comments</a>",
+    "publish_time": "2023-01-04 03:57:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Underappreciated challenges with Python packaging",
+    "url": "https://pypackaging-native.github.io/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34236919\">Comments</a>",
+    "publish_time": "2023-01-04 03:45:06",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Next-generation Qi2 wireless charging standard embraces Apple's MagSafe",
+    "url": "https://www.macrumors.com/2023/01/03/qi2-wireless-charging-standard-gains-magsafe/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34237207\">Comments</a>",
+    "publish_time": "2023-01-04 04:04:27",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "‘Wealth is a curse’: Hobby Lobby founder says he’s giving away his company",
+    "url": "https://archive.vn/efx0q",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34237669\">Comments</a>",
+    "publish_time": "2023-01-04 04:39:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Google researcher, long out of math, cracks devilish problem about sets",
+    "url": "https://www.quantamagazine.org/long-out-of-math-an-ai-programmer-cracks-a-pure-math-problem-20230103/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34236889\">Comments</a>",
+    "publish_time": "2023-01-04 03:43:21",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
