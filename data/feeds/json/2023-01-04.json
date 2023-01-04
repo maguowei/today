@@ -1732,5 +1732,328 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "调休",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B0%83%E4%BC%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "医生反复3次发烧依然坚持坐诊",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%8F%8D%E5%A4%8D3%E6%AC%A1%E5%8F%91%E7%83%A7%E4%BE%9D%E7%84%B6%E5%9D%9A%E6%8C%81%E5%9D%90%E8%AF%8A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "C罗亮相利雅得胜利",
+    "url": "https://s.weibo.com/weibo?q=%23C%E7%BD%97%E4%BA%AE%E7%9B%B8%E5%88%A9%E9%9B%85%E5%BE%97%E8%83%9C%E5%88%A9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "狗子感受到人类胎动歪头惊出飞机耳",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8B%97%E5%AD%90%E6%84%9F%E5%8F%97%E5%88%B0%E4%BA%BA%E7%B1%BB%E8%83%8E%E5%8A%A8%E6%AD%AA%E5%A4%B4%E6%83%8A%E5%87%BA%E9%A3%9E%E6%9C%BA%E8%80%B3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "中方将本着对等原则采取措施",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%B0%86%E6%9C%AC%E7%9D%80%E5%AF%B9%E7%AD%89%E5%8E%9F%E5%88%99%E9%87%87%E5%8F%96%E6%8E%AA%E6%96%BD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "1月21日至27日放假调休",
+    "url": "https://s.weibo.com/weibo?q=%231%E6%9C%8821%E6%97%A5%E8%87%B327%E6%97%A5%E6%94%BE%E5%81%87%E8%B0%83%E4%BC%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "灰太狼的羊被多方抢注商标",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%81%B0%E5%A4%AA%E7%8B%BC%E7%9A%84%E7%BE%8A%E8%A2%AB%E5%A4%9A%E6%96%B9%E6%8A%A2%E6%B3%A8%E5%95%86%E6%A0%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "C罗",
+    "url": "https://s.weibo.com/weibo?q=%23C%E7%BD%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "今年有了孩子之后的你，家里又添置了哪些新东西？",
+    "url": "https://www.zhihu.com/question/572346949",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "谷歌要求印度法院推翻1.6亿美元的Android反垄断罚款",
+    "url": "https://www.36kr.com/newsflashes/2072838061128584",
+    "summary": "据报道，谷歌在提交给印度一上诉法庭的文件中称，印度“竞争委员会”（CCI）之前对谷歌做出的1.6亿美元的反垄断罚款，在很大程度上抄袭了欧盟委员会的决定，因此应该撤销CCI的裁决。去年10月，印度CCI宣布对谷歌处以133.8亿卢比（约合1.6195亿美元）的罚款，原因是该公司存在与Android移动设备相关的反竞争行为。此外，CCI还要求谷歌不得向智能手机制造商提供任何激励措施，让他们独家预装谷歌的搜索服务。（新浪科技）",
+    "publish_time": "2023-01-04 07:19:54",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "“金股”扎堆，券商力荐大消费赛道",
+    "url": "https://www.36kr.com/newsflashes/2072838603259008",
+    "summary": "券商最新月度投资组合陆续出炉。据不完全统计，截至1月3日发稿时，已有超过20家券商发布2023年1月投资组合，推荐的逾150只“金股”中，有相当一部分集中在大消费赛道。在业内人士看来，中短期消费板块有望迎来持续修复，建议关注受益于春节长假因素带动的板块，此外医疗服务、数字经济等方向也值得配置和关注。（中证网）",
+    "publish_time": "2023-01-04 07:20:28",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "国内成品油价迎2023年首涨，短期将以震荡运行为主",
+    "url": "https://www.36kr.com/newsflashes/2072847906618242",
+    "summary": "2023年国内成品油迎来首个调价窗口，以“上调”开局。1月3日，国家发改委发布消息称，自2023年1月3日24时起，国内汽、柴油价格（标准品）每吨分别提高250元和240元。展望后市，国家发改委价格监测中心认为，一方面市场对全球经济及原油需求增长的忧虑情绪仍将对国际油价产生抑制作用；另一方面，俄罗斯原油出口有所缩减。因此，在多重因素影响下，短期内国际油价将以震荡运行为主。（证券日报）",
+    "publish_time": "2023-01-04 07:29:55",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "机构：增强进攻性，高仓位迎战2023年",
+    "url": "https://www.36kr.com/newsflashes/2072849605328009",
+    "summary": "经历了2022年跌宕起伏的行情后，机构逐步加快进攻节奏，以较高仓位迎接2023年。最新数据显示，截至2022年末，私募整体仓位升至八成以上，偏股主动型公募基金仓位也保持八成以上。展望2023年，多位业内人士表示，随着经济逐步复苏，美联储加息进入尾声，2023年资本市场充满结构性机会，后续投资将兼顾成长与价值。（上证报）",
+    "publish_time": "2023-01-04 07:31:39",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "上市公司竞相布局HJT电池赛道",
+    "url": "https://www.36kr.com/newsflashes/2072850306612355",
+    "summary": "异质结（HJT）电池成为众多上市公司投资的重点。近期，奥维通信、三五互联等上市公司披露了异质结电池投资计划。业内人士预计，2023年异质结电池赛道GW级项目扩产或加速。（中证网）",
+    "publish_time": "2023-01-04 07:32:22",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "韩国2022年整车本土销量创9年新低，五大车企销量减少3.1%",
+    "url": "https://www.36kr.com/newsflashes/2072850862668675",
+    "summary": "据韩联社1月3日报道，受车用芯片短缺、疫情和经济滞胀等多重因素影响，韩国整车企业2022年本土销量创下9年来最低水平，但随着海外需求复苏，总体销量有所增加。综合对韩国五大车企业绩进行分析的结果，现代汽车、起亚、雷诺韩国、双龙汽车和韩国通用去年本土销量同比减少3.1%，为1388476辆，创下2013年（1373902辆）以来最低水平。海外（含全散件组装）和总体销量同比分增5.7%和4%。（界面）",
+    "publish_time": "2023-01-04 07:32:56",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "谷歌、Meta失去美国数字广告垄断地位，合计市场份额近十年来首次低于50%",
+    "url": "https://www.36kr.com/newsflashes/2072851522813058",
+    "summary": "据《华尔街日报》1月3日报道，近十年来，谷歌和Meta两家公司首次不再占据美国数字广告收入的大部分份额，业内人士预计这种下降趋势在未来几年将持续下去。根据研究公司Insider Intelligence的统计，两家公司在2022年合计占美国数字广告市场的48.4%。Insider Intelligence表示，自2014年以来，它们在美国的市场份额合计从未低于50%，预计该数字今年将降至44.9%。（界面）",
+    "publish_time": "2023-01-04 07:33:36",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "资金面：大额净回笼下仍保持宽松",
+    "url": "https://www.36kr.com/newsflashes/2072852193295234",
+    "summary": "即使公开市场单日净回笼超5000亿元，新年首个交易日的资金面仍保持宽松态势。临近春节，央行净回笼量大、1月中旬的缴税高峰和居民取现需求增加都可能会对资金面造成扰动。对此，多位市场人士认为，央行将会加大公开市场操作力度，采用多种货币政策工具维持银行间市场流动性合理充裕，无需过度担忧资金面收紧。（上证报）",
+    "publish_time": "2023-01-04 07:34:17",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "最新A股策略出炉，百亿级私募聚焦三大关键词",
+    "url": "https://www.36kr.com/newsflashes/2072855540350081",
+    "summary": "2023新年伊始，多家知名百亿级私募年度A股策略展望陆续出炉。“经济复苏”“市场上行可期”“疫后修复”，成为了私募机构定调2023年市场的三大关键词。重阳投资、明汯投资、石锋资产、复胜资产、黑翼资产、敦和资管、星石投资等多家百亿级私募普遍认为，2023年国内经济基本面复苏可期，A股的“春天”正在来临，内需修复则成为私募机构共同看好的投资主题。（中证网）",
+    "publish_time": "2023-01-04 07:37:41",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "券商投资策略报告聚焦：新能源领域三大赛道2023年蕴藏投资新机遇",
+    "url": "https://www.36kr.com/newsflashes/2072856615959685",
+    "summary": "2023年如何进行行业配置？在梳理券商2023年A股投资策略报告时注意到，多家券商不约而同将新能源视为统筹能源领域“安全”和“发展”两大主题的关键。在平安证券、国泰君安、开源证券、华西证券等券商公布的2023年A股投资策略报告中，“新能源”均为高频词，券商普遍表示2023年新能源领域将孕育投资机会，特别看好风电、储能、新能源汽车三大细分赛道。（证券日报）",
+    "publish_time": "2023-01-04 07:38:47",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "银行理财公司展望2023年：降息降准可期，债市风险可控",
+    "url": "https://www.36kr.com/newsflashes/2072858396359809",
+    "summary": "近期，多家银行理财公司发布最新经济展望，看好2023年中国经济。对于债市，银行理财公司普遍认为债市风险趋缓，有利因素不断出现，高票息的信用债拥有配置价值。在货币政策方面，降息降准成为各家机构预期选项。交银理财表示，货币政策在2023年有望打开宽松空间。为保持流动性合理充裕和大致平稳的M2增长，预计存款准备金率有0.5至1个百分点的下调空间。（上证报）",
+    "publish_time": "2023-01-04 07:40:36",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "日媒调查：日本117家主要企业中仅56%看好2023年经济形势",
+    "url": "https://www.36kr.com/newsflashes/2072859976891271",
+    "summary": "日本共同社1月2日汇总了对日本117家主要企业的问卷调查结果。预测2023年日本国内经济趋于扩张的企业为56%，较1年前的84%大幅减少，在过去10年的调查中位列倒数第二。受访企业认为日元贬值对自身业绩有正面影响的企业占43%，超过了有负面影响的23%。（界面）",
+    "publish_time": "2023-01-04 07:42:12",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "需求旺盛，逆变器企业“出海”提速",
+    "url": "https://www.36kr.com/newsflashes/2072864492944263",
+    "summary": "欧洲多国加快新能源项目建设，中国企业充分把握商机，光伏、风电等领域产品出口不断攀升，其中逆变器增长最为显著。海关总署近期披露的数据显示，2022年1月-11月，逆变器出口金额为534.83亿元，同比增速达到82.73%。业内人士认为，逆变器板块增长确定性较强，国内厂商加大研发投入推动产品迭代，同时在成本以及全球渠道布局方面具备优势，“出海”步伐有望持续加快。（中证网）",
+    "publish_time": "2023-01-04 07:46:48",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "英媒：2023年英国将面临G7国家中最严重的经济衰退",
+    "url": "https://www.36kr.com/newsflashes/2072866520562819",
+    "summary": "据英国《金融时报》1月3日援引英国主要经济学家的话称，与其他G7国家相比，英国在2023年将面临最严重的经济衰退。在《金融时报》对英国101名主要经济学家进行的年度调查中，绝大多数经济学家表示，由新冠疫情和俄乌局势引起的通货膨胀冲击在英国的持续时间将比其他国家更长。他们认为这将迫使英格兰银行维持高利率，并迫使政府“实施更紧缩的财政政策”。（中新网）",
+    "publish_time": "2023-01-04 07:48:51",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "FTC：未与微软就收购动视暴雪案进行实质谈判",
+    "url": "https://www.36kr.com/newsflashes/2072867381410944",
+    "summary": "据报道，美国联邦贸易委员会（FTC）一名律师周二表示，拜登政府和微软公司之间没有进行“实质性”和解谈判，以解决微软以690亿美元收购游戏制造商动视暴雪公司的法律纠纷。去年12月初FTC曾要求法官阻止这笔交易，理由是这会让微软的家用电视游戏机Xbox独占动视游戏，令任天堂游戏机和索尼集团的PlayStation受到排挤。（新浪科技）",
+    "publish_time": "2023-01-04 07:49:44",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "A股迎来“开门红”，机构热盼春季行情",
+    "url": "https://www.36kr.com/newsflashes/2072868395547785",
+    "summary": "2023年A股首个交易日迎来“开门红”。3日，上证指数站上3100点，整体成交量明显放大。分析人士认为，当前主要股指处于底部区域，内外部环境均对A股市场构成支撑。在华安证券首席策略分析师郑小霞看来，1月内外部风险偏好均存在提振预期，春季行情可期。中金公司首席策略分析师王汉锋认为，当前A股处于较好布局期，随着经济持续复苏，市场有望在今年迎来趋势性投资机会。（中证网）",
+    "publish_time": "2023-01-04 07:50:46",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "机构：2022年中国300城土地出让金逾4.13万亿元，同比降近三成",
+    "url": "https://www.36kr.com/newsflashes/2072874417290371",
+    "summary": "中指研究院高级分析师张晓飞3日在一场分析会上透露，2022年，中国300个城市成交各类用地规划建筑面积18.88亿平方米，同比下降9.27%；各类用地出让金达41333.36亿元，同比下降27.73%，其中，住宅用地出让金达33730亿元，同比下降31.03%。2022年，一线城市住宅用地出让金同比下降18.9%，占全国300城土地出让金总额的比例由2018年的11%，扩大至19.0%；二线城市土地出让金占比为近五年最低，占比46.4%。（中新网）",
+    "publish_time": "2023-01-04 07:56:53",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "韩国放宽首都圈房地产监管，首尔大部地区取消预售价格上限制度",
+    "url": "https://www.36kr.com/newsflashes/2072875375754119",
+    "summary": "据韩联社，韩国国土交通部1月3日发布声明称，由于严格的法规和较高的贷款利率，韩国的住房市场面临着深度冻结的风险，除了首尔南部的江南、瑞草和松坡以及首尔中部的龙山这四个区外，首尔及其邻近的首都圈将被剔除出“投机地区”名单。目前，首尔的大部分地区和京畿道的果川、城南、哈南和光明都被指定为投机地区。为了避免房地产市场的硬着陆，韩国政府还将在整个首尔和首都地区取消预售价格上限制度，不过这一制度将在上述四个区保留。（界面）",
+    "publish_time": "2023-01-04 07:57:52",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "英国运输工人再次罢工，铁路交通几乎瘫痪",
+    "url": "https://www.36kr.com/newsflashes/2072879675095940",
+    "summary": "因薪酬、工作岗位和工作条件等方面的诉求长期未得到解决，英国铁路工人本周再次进行罢工，英国铁路系统将再次面临几乎瘫痪的状态。根据英国全国铁路、海路与公路运输工会的声明，工会成员在本周二（3日）、周三（4日）、周五（6日）和周六（7日）进行罢工。同时，英国火车司机联盟也将于本周四参与到罢工之中。罢工使得包括苏格兰和威尔士的大部分地区的火车服务陷入瘫痪，约有一半的英国铁路线被关闭，能够维持运转的线路只剩不到两成。（央视新闻）",
+    "publish_time": "2023-01-04 08:02:14",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "广发证券：地产板块及优质房企具备估值修复及投资机会",
+    "url": "https://www.36kr.com/newsflashes/2072880519150721",
+    "summary": "广发证券指出，2022年最后一周疫情影响有所减弱，各地需求政策持续改善。多因素影响下41城新房成交环比增长，其中北京、广州等此前受影响较大的城市成交明显恢复，预计未来基本面企稳回升。2022年是供给侧大洗牌的一年，强信用强投资房企表现出显著更强的基本面弹性，随着整体市场复苏，预计未来强信用强投资企业将持续领跑，强中信用弱投资企业压力缓和改善可期，板块及优质房企具备估值修复及投资机会。（证券时报）",
+    "publish_time": "2023-01-04 08:03:06",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Meta Quest Pro – Bad AR Passthrough",
+    "url": "https://kguttag.com/2023/01/03/meta-quest-pro-part-1-unbelievably-bad-ar-passthrough/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34239684\">Comments</a>",
+    "publish_time": "2023-01-04 07:32:27",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Migrating from AWS to Fly.io",
+    "url": "https://terrateam.io/blog/flying-away-from-aws",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34238150\">Comments</a>",
+    "publish_time": "2023-01-04 05:13:45",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
