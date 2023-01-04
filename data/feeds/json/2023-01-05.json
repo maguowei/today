@@ -1290,5 +1290,103 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "少爷和新家电",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%91%E7%88%B7%E5%92%8C%E6%96%B0%E5%AE%B6%E7%94%B5%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "宫胁咲良称赞Deft",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AE%AB%E8%83%81%E5%92%B2%E8%89%AF%E7%A7%B0%E8%B5%9EDeft%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "杨迪回应像人贩子",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E5%9B%9E%E5%BA%94%E5%83%8F%E4%BA%BA%E8%B4%A9%E5%AD%90%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "咱们中国男足的真实水平（不掺杂偏见）是怎么样的？",
+    "url": "https://www.zhihu.com/question/332354391",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "俄罗斯国防部称在顿涅茨克州马克耶夫卡牺牲的俄军数量升至 89 人，目前当地情况如何？",
+    "url": "https://www.zhihu.com/question/576633669",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "苗苗在综艺《妻子的浪漫旅行 6》中的表现怎么样？",
+    "url": "https://www.zhihu.com/question/574166692",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Emulating an emulator inside itself. Meet Blink",
+    "url": "https://hiro.codes/read/emulating-an-emulator-inside-itself.-meet-blink",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34250352\">Comments</a>",
+    "publish_time": "2023-01-05 03:42:36",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "AutoHotKey V2 (Breaking Upgrade)",
+    "url": "https://www.autohotkey.com/v2/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34248234\">Comments</a>",
+    "publish_time": "2023-01-05 01:06:29",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "NYC officials say they can't find EV garbage trucks powerful enough to plow snow",
+    "url": "https://gothamist.com/news/snow-go-for-nycs-electric-garbage-trucks-that-cant-handle-winter-weather",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34247577\">Comments</a>",
+    "publish_time": "2023-01-05 00:25:05",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "On-demand learning comes at the cost of conceptual understanding",
+    "url": "https://www.jernesto.com/articles/learning.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34248164\">Comments</a>",
+    "publish_time": "2023-01-05 01:02:24",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
