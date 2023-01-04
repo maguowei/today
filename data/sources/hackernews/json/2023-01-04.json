@@ -559,5 +559,27 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Get Started with Rust: Generics",
+    "url": "https://serokell.io/blog/rust-generics",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34243644\">Comments</a>",
+    "publish_time": "2023-01-04 17:21:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "MSVC: The Devourer of Const",
+    "url": "https://ibob.bg/blog/2023/01/04/msvc-allows-moving-from-const/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34243785\">Comments</a>",
+    "publish_time": "2023-01-04 17:45:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
