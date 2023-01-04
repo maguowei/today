@@ -53,5 +53,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "智能手表求推荐",
+    "url": "https://www.v2ex.com/t/906458",
+    "summary": "EmiliatanTenshi: <p>手机是 13PM ，目前出于健康考虑准备入手一款智能手表。\n要求：</p>\n<ol>\n<li>基本的健康检测功能，如心率、血氧等，如果有体温就更好了</li>\n<li>基本的运动监测能力，能支持如跑步、游泳等运动的监测。</li>\n<li>续航久一点，最好能一周一充，差一点一周两充也可以接受。之所以发求助贴而不是直接买 Apple Watch 就是因为续航问题</li>\n<li>日常的一些消息提醒、闹钟、来电显示等功能</li>\n<li>预算在 3k 以下。</li>\n</ol>\n<p>目前看起来好像华为的 GT 系列比较符合，还没有深入了解，看看 v 友有没有其他推荐的</p>",
+    "publish_time": "2023-01-04 11:21:34",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "A1Blocker - iOS 上隐藏 App 和锁定 App 来进一步保护你的隐私 ( 新年新版本 2.2.0 发布+送码)",
+    "url": "https://www.v2ex.com/t/906493",
+    "summary": "momocha: <p>大家好，</p>\n<p>之前我们<a href=\"https://www.v2ex.com/t/900941\" rel=\"nofollow\">介绍了我们的 A1Blocker 1.5.0 版本</a>，它的一个功能是隐藏 iOS 设备（ iPhone/iPad ）上 App 。因为这个新系统的功能，必须要 iOS 16 的设备才能支持。\n不少 V 友关注了我们的产品并且提出了很多宝贵的意见，我们也在探索中，尝试解决一些困扰我们用户的问题，让它更易用。\n这期间我们发布了多个版本来优化用户体验和对功能进行增强，有了我们现在的 2.2.0 版本。\n具体功能可以看我们 app store 的介绍(介绍里有两个视频是用法和效果)。</p>\n<p><a href=\"https://apps.apple.com/app/id1645472970\" rel=\"nofollow\">https://apps.apple.com/app/id1645472970</a></p>\n<p>App Store 内搜索请使用 “a1blocker hide apps”</p>\n<p><img alt=\"hide apps\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://github.com/flinteger/a1blocker/raw/master/static/a1blocker-hide-apps-cn.jpg\" />\n<img alt=\"app lock\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://github.com/flinteger/a1blocker/raw/master/static/a1blocker-applock-cn.jpg\" /></p>\n<p>这里主要想分享一下我们探索的过程。</p>\n<p>重要的变化：</p>\n<ul>\n<li>\n<p>最开始我们使用搜索的方式添加要隐藏的 app ，对一般用户的这个工作的很好。但是由于各种原因并不是每个 app 都能搜索到，为了能解决这个问题，我们推出了 2.0 版本仅使用系统的选择界面，但是这个界面确实使用不太方便而且有它自身的问题（界面卡死、重叠、白屏、黑屏等，想想看让你在一个上百项的 app 列表里找一个 app 也是一个挑战）而让人很沮丧。我们推出这个版本的初衷是希望能使用一个统一的界面找到 app ，可惜系统的这个界面不给力，我们收到了很多负面的反馈，这是出乎我们意料的。</p>\n</li>\n<li>\n<p>接下来的 2.1 版本我们重新加入了搜索的方式，并且对它做了增强。我们还采纳了我们用户的建议使用分享 App 的方式直接导入 app 信息，这非常有效的简化了搜索的流程，而且分享的 app 使用 id 唯一确定 app 的信息更准确。</p>\n</li>\n</ul>\n<p>可能你想问为什么要有不同的方法？因为如果你手机安装的 app 比较多的，使用系统的选择界面会可能遇到各种莫名的问题。但是由于这个选择的界面是系统提供的，我们无法定制。还有就是问题是系统的选择界面里某些系统 app 是没有被列出来的。为了解决这些问题，所以提供了更实用搜索和分享 app 的方式，操作更快而可以避免系统使用系统界面的问题。</p>\n<ul>\n<li>被隐藏的 app 恢复之后不会回到原来位置。这个也是系统限制，我们已经向苹果提了反馈，希望能修复这个问题，但是具体怎么处理是苹果的问题。\n为了减小这个问题对我们用户的影响，我们在 2.2 版本推出了快速启动，把可能的被隐藏的 app 做成了一个启动项，A1Blocker 内点击就可以直接打开而不用考虑它恢复之后在什么位置了，而且如果是启动项支持的 app ，现在可以在 A1Blocker 内隐藏列表上直接打开了，之前有很多 V 友提出这个需求，我们也认为非常实用，最开始我们考虑是对所有 app 的通用实现，认为不能做到，但是后来我们认为要隐藏的 app 可能是一个比较小的集合，我们就进行了定制化，成就了这个小小的快速启动功能。</li>\n</ul>\n<p>使用快速启动的一个附件好处就是实用快速启动打开的 app 在屏幕的最左上角有一个回退的按钮，可以回退到 A1Blocker ，这样当你用完了要隐藏的 app ，使用这个回退按钮回到 A1Blocker ，然后再把它所在的分组隐藏起来，这样你就只在需要使用的时候才打开 app 。</p>\n<ul>\n<li>\n<p>App 锁，这是 2.2 版本的新功能之一。这是来自我们用户的需求，希望限制 app 的使用，但是并不需要隐藏 app 。当一个 app 被锁定了且 A1Blocker 设置了密码或面容 ID ，要想继续使用被锁定的 app ，需要通过 A1Blocker 进行认证后才能使用。这个能有效的保护你的 app 只有你自己才能使用。</p>\n</li>\n<li>\n<p>丰富的快捷指令。A1Blocker 提供快捷指令可以快速隐藏 app 和锁定 app 而不用打开 A1Blocker 。我们非常重视用户的隐私，A1Blocker 也希望尽量不要询问额外的权限，比如位置权限。我们认为可以通过快捷指令的自动化完成的我们就尽量提供基本指令，用户可以自由组合，结合快捷指令的自动化，可以进行定制化的隐藏触发条件，比如打开低电量模式、飞行模式、离开或达到某个地点（位置变化）、咳嗽（声音识别）自动调用快捷指令进行隐藏。具体可以参考我们的<a href=\"https://docs.a1blocker.com/#/zh-Hans/howtos\" rel=\"nofollow\">用户文档</a>。</p>\n</li>\n</ul>\n<p>我们还提供快捷指令的执行历史，可以一目了然的知道什么时候执行了什么快捷指令。</p>\n<p>最后想说的是我们仍然在探索中，我们还有很多的计划的功能，我们也非常重视用户的反馈，我们会优先实现我们用户提出的合理的需求。请不吝向我们提出的想法和反馈，说不定某天你就可以说大家都在使用的某某功能是你提出来的 :-)</p>\n<p>最后，为了庆祝新年和我们的新版本发布，将通过抽奖方式送出 10 个终身有效的高级版本兑换码。抽奖方式为按回帖的序号随机抽取 10 个。将于两天后（ 1 月 6 日）的北京时间下午 6 点截止，抽出后会通过添加此帖的附加信息的方式在这里公布。\n请抽到的 V 友下载我们的 App 并邮件联系我们，说明你是来自 V 站的哪位幸运者（仅用于避免有重复领码的）。</p>\n<p>下载链接：</p>\n<p><a href=\"https://apps.apple.com/app/id1645472970\" rel=\"nofollow\">https://apps.apple.com/app/id1645472970</a></p>\n<p>App Store 内搜索请使用 “a1blocker hide apps”</p>\n<p><a href=\"https://apps.apple.com/app/id1645472970\" rel=\"nofollow\"><img alt=\"A1Blocker App Store 二维码\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://github.com/flinteger/a1blocker/raw/master/static/a1blocker-qrcode.jpg\" /></a></p>\n<p>欢迎大家的意见和建议。</p>\n<p>最后，如果喜欢这个 App ，希望可以帮忙在 App Store 写句好评，谢谢大家。</p>",
+    "publish_time": "2023-01-04 13:36:59",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
