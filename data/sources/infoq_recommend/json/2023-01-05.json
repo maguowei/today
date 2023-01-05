@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Grafana Labs发布跟踪查询语言TraceQL",
+    "url": "https://www.infoq.cn/article/4rQRdft9ps5mfbXu2gRs",
+    "summary": "<p>作为即将发布的<a href=\"https://www.infoq.com/news/2022/10/grafana-92-metrics-tracing/\">Grafana Tempo 2.0</a>\"的一部分，<a href=\"https://grafana.com/blog/2022/11/30/traceql-a-first-of-its-kind-query-language-to-accelerate-trace-analysis-in-tempo-2.0/\">TraceQL</a>\"是一种旨在简化交互式搜索和提取跟踪信息的查询语言。根据Grafana官方的说法，这将有助于加快诊断故障根源的过程。</p><p>&nbsp;</p><p></p><blockquote>分布式跟踪包含了丰富的信息，可以帮助开发者跟踪错误、确定故障根源、分析性能，等等。虽然一些自动增强检测工具也可以用于捕获这些数据，但从这些数据中提取有价值的信息却要困难得多。</blockquote><p></p><p>&nbsp;</p><p>根据Grafana官方的说法，如果你不知道你需要哪些跟踪信息，或者如果你想重建事件链的上下文，那么现有的跟踪解决方案在搜索跟踪信息时就没有那么灵活。这也就是为什么要从头设计TraceQL来处理跟踪信息。下面的示例展示了如何查找与耗时超过一秒的数据库插入操作相对应的跟踪信息：</p><p><code lang=\"null\">{ .db.statement =~ \"INSERT.*\"} | avg(duration) &gt; 1s</code></p><p>&nbsp;</p><p>TraceQL支持<a href=\"https://github.com/grafana/tempo/blob/main/docs/design-proposals/2022-04%20TraceQL%20Concepts.md\">使用span</a>\"、时间点和时间段来选择跟踪信息，它可以聚合同一个跟踪信息中的多个span的数据，并利用span之间的结构关系。查询由一组被选中或被丢弃的span集合的链式表达式组成，例如：</p><p><code lang=\"null\">{ .http.status = 200 } | by(.namespace) | count() &gt; 3</code></p><p>&nbsp;</p><p>它支持属性字段、包含字段的表达式、组合并聚合span集合、分组、管道，等等。下面的示例展示了如何过滤所有按照特定的顺序经过两个区域的跟踪信息：</p><p><code lang=\"null\">{ .region = \"eu-west-0\" } &gt;&gt; { .region = \"eu-west-1\" }</code></p><p>&nbsp;</p><p>TraceQL可感知数据类型，这意味着你可以使用文本、整数和其他数据类型来表示查询。此外，TraceQL兼容Tempo 2.0中的<a href=\"https://parquet.apache.org/\">Apache Parquet</a>\"存储格式。Parquet是一种列式数据文件格式，许多数据库和分析工具都支持这种格式。</p><p>&nbsp;</p><p>如上所述，TraceQL将成为Tempo 2.0的一部分，后者将在未来几周内发布，<a href=\"https://grafana.com/grafana/download/9.3.1?edition=oss&amp;mdm=rss&amp;platform=docker&amp;src=grafana\">Grafana 9.3.1</a>\"中已经内置了其预览版本。</p><p>&nbsp;</p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2022/12/grafana-traceql/\">https://www.infoq.com/news/2022/12/grafana-traceql/</a>\"</p><p></p><p>相关阅读：</p><p><a href=\"https://xie.infoq.cn/article/2723176da5693f6085c6b1e78\">一文带你了解&nbsp;Grafana&nbsp;最新开源项目 Mimir 的前世今生</a>\"</p><p><a href=\"https://www.infoq.cn/article/e2B77jUHkWSRmgN9G7uV\">Grafana、Loki 和 Tempo 更改开源协议，由 Apache License 2.0 转为 AGPL v3</a>\"</p><p><a href=\"https://www.infoq.cn/article/k2tWvtKrSIpKIxloqfdN\">Grafana&nbsp;9 在警报和用户体验方面带来巨大改进</a>\"</p>",
+    "publish_time": "2023-01-05 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
