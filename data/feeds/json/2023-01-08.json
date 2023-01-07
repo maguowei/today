@@ -1501,5 +1501,118 @@
       "desc": "人民日报公众号",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
     }
+  },
+  {
+    "title": "My Future My Hongqi",
+    "url": "https://s.weibo.com/weibo?q=%23My+Future+My+Hongqi%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "官方回应高铁站人员疑似摆拍",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%AB%98%E9%93%81%E7%AB%99%E4%BA%BA%E5%91%98%E7%96%91%E4%BC%BC%E6%91%86%E6%8B%8D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "贪官迷恋当官被中专学历骗子骗了20年",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B4%AA%E5%AE%98%E8%BF%B7%E6%81%8B%E5%BD%93%E5%AE%98%E8%A2%AB%E4%B8%AD%E4%B8%93%E5%AD%A6%E5%8E%86%E9%AA%97%E5%AD%90%E9%AA%97%E4%BA%8620%E5%B9%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "日本 60 岁宅男看动漫被打断怒杀双亲获刑 30 年，你如何看待该男子的行为？",
+    "url": "https://www.zhihu.com/question/577290110",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Schmidt Futures 2022 – end of year letter",
+    "url": "https://www.schmidtfutures.com/schmidt-futures-2022/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34292834\">Comments</a>",
+    "publish_time": "2023-01-08 05:09:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Why does private equity get to play make-believe with prices?",
+    "url": "https://www.institutionalinvestor.com/article/b1h9csrci656v4/Why-Does-Private-Equity-Get-to-Play-Make-Believe-With-Prices",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34292166\">Comments</a>",
+    "publish_time": "2023-01-08 04:12:00",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Excess management is costing the U.S. $3T per year (2016)",
+    "url": "https://hbr.org/2016/09/excess-management-is-costing-the-us-3-trillion-per-year",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34290539\">Comments</a>",
+    "publish_time": "2023-01-08 01:46:05",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Using Qt 6 under LGPLv3",
+    "url": "https://embeddeduse.com/2023/01/06/using-qt-5-15-and-qt-6-under-lgplv3/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34291701\">Comments</a>",
+    "publish_time": "2023-01-08 03:31:33",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "There Is No Software Maintenance",
+    "url": "https://henrikwarne.com/2023/01/07/there-is-no-software-maintenance/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34292099\">Comments</a>",
+    "publish_time": "2023-01-08 04:06:43",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Aral Sea has shrunk because of the re-routing of its source rivers (2022)",
+    "url": "https://www.marineinsight.com/environment/aral-sea-disaster-why-one-of-the-biggest-inland-seas-dried-up/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34291399\">Comments</a>",
+    "publish_time": "2023-01-08 03:04:14",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The i3-gaps project has been merged with i3",
+    "url": "https://github.com/Airblader/i3",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34293010\">Comments</a>",
+    "publish_time": "2023-01-08 05:26:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
