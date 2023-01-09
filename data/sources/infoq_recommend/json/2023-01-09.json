@@ -196,5 +196,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "DeepFlow Grafana插件开发实践",
+    "url": "https://www.infoq.cn/article/yBcpzIzsSQX9IYMgH46m",
+    "summary": "<p>Grafana 是一个强大的可观测性数据可视化平台，并且迭代迅速，截止目前已经支持了对指标、追踪、日志、性能剖析等四种观测信号的可视化。此次分享将会对DeepFlow Grafana插件做详细解析，介绍如何从零开始开发一个Grafana的Datasource，分享如何利用Grafana的强大插件能力构建自己的数据查询插件。</p>\n<p>同时，我们也会介绍DeepFlow Grafana 可视化Panel组件，解析内置的DeepFlow 数据可视化系统的框架结构和具体实现，并分享绘制流量拓扑图、分布式调用火焰图的实战经验。</p>",
+    "publish_time": "2023-01-09 17:32:54",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
