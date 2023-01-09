@@ -130,5 +130,60 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Data pipelines are not workflows",
+    "url": "https://dagster.io/blog/declarative-scheduling",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34313597\">Comments</a>",
+    "publish_time": "2023-01-10 02:06:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Dilution of expertise in the rise and fall of collective innovation",
+    "url": "https://www.nature.com/articles/s41599-022-01380-5",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34313078\">Comments</a>",
+    "publish_time": "2023-01-10 01:36:17",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Values and Objects in Programming Languages (1982) [pdf]",
+    "url": "https://dl.acm.org/doi/pdf/10.1145/988164.988172",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34312877\">Comments</a>",
+    "publish_time": "2023-01-10 01:24:08",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "R3 radio blackout 7:57 p.m. EDT January 5, 2023",
+    "url": "https://www.swpc.noaa.gov/news/r3-radio-blackout-757-pm-edt-january-5-2023",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34312398\">Comments</a>",
+    "publish_time": "2023-01-10 00:46:57",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "We're wasting money by only supporting gzip for raw DNA files",
+    "url": "http://www.bioinformaticszen.com/post/use-zstd-for-raw-fastq/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34313589\">Comments</a>",
+    "publish_time": "2023-01-10 02:05:17",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
