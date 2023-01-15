@@ -628,5 +628,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "兔猫拜大年",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%94%E7%8C%AB%E6%8B%9C%E5%A4%A7%E5%B9%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "赵丽颖哽咽朗诵致敬张桂梅",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%93%BD%E5%92%BD%E6%9C%97%E8%AF%B5%E8%87%B4%E6%95%AC%E5%BC%A0%E6%A1%82%E6%A2%85%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
