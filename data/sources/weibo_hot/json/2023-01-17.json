@@ -583,5 +583,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "向春而行",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%90%91%E6%98%A5%E8%80%8C%E8%A1%8C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "美国地图公司曾明确标记南沙群岛属于中国",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%9C%B0%E5%9B%BE%E5%85%AC%E5%8F%B8%E6%9B%BE%E6%98%8E%E7%A1%AE%E6%A0%87%E8%AE%B0%E5%8D%97%E6%B2%99%E7%BE%A4%E5%B2%9B%E5%B1%9E%E4%BA%8E%E4%B8%AD%E5%9B%BD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
