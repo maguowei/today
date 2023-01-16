@@ -537,5 +537,27 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Misskey: An Interplanetary Microblogging Platform",
+    "url": "https://github.com/misskey-dev/misskey",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34395814\">Comments</a>",
+    "publish_time": "2023-01-16 09:45:36",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "DataFixerUpper: Incremental building and merging of data transformations",
+    "url": "https://github.com/Mojang/DataFixerUpper",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34395916\">Comments</a>",
+    "publish_time": "2023-01-16 09:59:26",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
