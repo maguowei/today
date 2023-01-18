@@ -700,5 +700,14 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "温暖牵挂",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B8%A9%E6%9A%96%E7%89%B5%E6%8C%82%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]

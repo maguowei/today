@@ -1498,5 +1498,58 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "温暖牵挂",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B8%A9%E6%9A%96%E7%89%B5%E6%8C%82%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "My 8 Best Techniques for Evaluating Character",
+    "url": "https://tedgioia.substack.com/p/my-8-best-techniques-for-evaluating",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34432899\">Comments</a>",
+    "publish_time": "2023-01-19 04:51:03",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Codeium: Free Copilot Alternative for Vim / Neovim",
+    "url": "https://github.com/Exafunction/codeium.vim",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34432809\">Comments</a>",
+    "publish_time": "2023-01-19 04:43:57",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Burn-out, daunting work, overstretched, and it's just too much",
+    "url": "https://www.adama-platform.com/2023/01/18/daunting-over-stretched.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34432735\">Comments</a>",
+    "publish_time": "2023-01-19 04:38:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "【夜读】新的一年，一定要养成的7种生活方式",
+    "url": "https://mp.weixin.qq.com/s/AbzUwyzUaHJ787QABkeZHQ",
+    "summary": "【夜读】新的一年，一定要养成的7种生活方式",
+    "publish_time": "2023-01-19 05:08:00",
+    "source": {
+      "name": "people_daily_gzh",
+      "desc": "人民日报公众号",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
+    }
   }
 ]
