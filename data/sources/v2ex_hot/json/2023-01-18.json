@@ -20,5 +20,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "各位对个人电脑安全做到什么程度了？",
+    "url": "https://www.v2ex.com/t/909634",
+    "summary": "Tounea: 对于大部分做 IT 的人，基本是背个笔记本上班，里面不仅有公司项目代码、公司内部各种 CMS 登陆账户密码、以及各种服务器密码和数据库密码，更有大量服务器的 ssh 私钥，以及经常使用梯子文件夹信息等等，除了其他程序回去读取这些这些文件，更重要的是某天你的笔记本被公安机关拿到，交给取证公司，那这样如何防止信息泄露给取证公司？又或者说笔记本被拿去的那一刻，在限制的时间内没有输入正确的口令，系统自动删除数据，且不可恢复。<br /><br /><br />这种现在有技术能做到吗？",
+    "publish_time": "2023-01-18 09:30:06",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
