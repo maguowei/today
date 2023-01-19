@@ -628,5 +628,14 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "回家后最向往的事情",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%9B%9E%E5%AE%B6%E5%90%8E%E6%9C%80%E5%90%91%E5%BE%80%E7%9A%84%E4%BA%8B%E6%83%85%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
