@@ -1639,5 +1639,113 @@
       "desc": "人民日报公众号",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
     }
+  },
+  {
+    "title": "秦海璐燕麦色羽绒大衣",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%A7%A6%E6%B5%B7%E7%92%90%E7%87%95%E9%BA%A6%E8%89%B2%E7%BE%BD%E7%BB%92%E5%A4%A7%E8%A1%A3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Show HN: Fully LLM powered code repair – fix and explain your code in seconds",
+    "url": "http://www.useadrenaline.com",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34445297\">Comments</a>",
+    "publish_time": "2023-01-20 04:39:20",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Noam Bardin: So Why a News Feed on Post?",
+    "url": "https://post.news/article/2KYjMzTY05WmEZmxJnG3PGqyVpz",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34445888\">Comments</a>",
+    "publish_time": "2023-01-20 05:30:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "ChatRWKV, like ChatGPT but powered by the RWKV (RNN-based, open) language model",
+    "url": "https://github.com/BlinkDL/ChatRWKV",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34445873\">Comments</a>",
+    "publish_time": "2023-01-20 05:29:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Gptcommit: Never write a commit message again (with the help of GPT-3)",
+    "url": "https://zura.wiki/post/never-write-a-commit-message-again-with-the-help-of-gpt-3/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34444953\">Comments</a>",
+    "publish_time": "2023-01-20 04:08:25",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Unusual compound found in Rembrandt’s The Night Watch",
+    "url": "https://www.esrf.fr/home/news/general/content-news/general/unusual-compound-found-in-rembrandts-the-night-watch.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34446053\">Comments</a>",
+    "publish_time": "2023-01-20 05:43:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "CVE-2023-22809: Sudoedit can edit arbitrary files",
+    "url": "https://seclists.org/oss-sec/2023/q1/42",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34445602\">Comments</a>",
+    "publish_time": "2023-01-20 05:05:26",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Twitterrific Has Been Discontinued",
+    "url": "https://blog.iconfactory.com/2023/01/twitterrific-end-of-an-era/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34445702\">Comments</a>",
+    "publish_time": "2023-01-20 05:15:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ultibo – Bare-Metal Pascal for Raspberry Pi",
+    "url": "https://ultibo.org/make/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34445367\">Comments</a>",
+    "publish_time": "2023-01-20 04:45:12",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "ZeroSSL: XSS to session hijacking, stealing a private key (and password hash)",
+    "url": "https://groups.google.com/a/ccadb.org/g/public/c/kqtoGeEv5Fc",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34445305\">Comments</a>",
+    "publish_time": "2023-01-20 04:40:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
