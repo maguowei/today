@@ -64,5 +64,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "服务最好是无状态的是什么意思",
+    "url": "https://www.v2ex.com/t/910002",
+    "summary": "spr1ngs: <p>有懂的大哥吗</p>",
+    "publish_time": "2023-01-20 10:20:36",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "学费生活费预算 20w，现在还有合适的水硕项目吗",
+    "url": "https://www.v2ex.com/t/910025",
+    "summary": "nigga: <p>本人基本情况 目前从事运维工程师  全日制专科+成人非全本科学历+学位证 英语水平目前只有三级，努把力应该能够到雅思 5.5<br /></p>\n<p>需要一个 qs200 内 中留服认证  和 IT 行业只要沾点边的专业  好毕业（授课型硕无需论文） 的一年制水硕<br /></p>\n<p>有什么推荐的吗<br /></p>",
+    "publish_time": "2023-01-20 12:37:37",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "wCaptcha, 一个基于工作量证明的 CAPTCHA",
+    "url": "https://www.v2ex.com/t/910042",
+    "summary": "greensea: <p>CAPTCHA 就是所谓的验证码，不过这个基于工作量证明的验证码可以不要求用户进行操作，在后台就可以默默地完成。</p>\n<p>这个验证码的核心在于，用工作量证明的方式取代了要求用户进行一些操作，来证明客户端是一个人类。不过这个验证码其实并不能区分客户端是不是人类，它的主要目的是防止大量的恶意请求，比如爆破用户名密码、爬虫之类。</p>\n<p>对于一个普通用户来说，花几秒钟的时间做一个计算，然后再提交表单，这是完全可以接受的，可是对于爬虫或者登录接口爆破之类的机器人来说，如果每发一个请求就要花两三秒的 CPU 时间，这就完全不可接受了。</p>\n<p>工作量证明算法使用了不可并行加速的算法，也就是说，显卡加速是废的，多核计算也是废的（除非同时对一个接口发送多个请求，但这样的请求是非正常的，很容易过滤掉）。</p>\n<p>网站在这里： <a href=\"https://wcaptcha.pingflash.com/\" rel=\"nofollow\">https://wcaptcha.pingflash.com</a>\n如果担心数据安全，可以直接用源码私有化部署。</p>\n<p>至于算法细节之类的东西，都可以在网站上找到，我就不在这里废话了。</p>",
+    "publish_time": "2023-01-20 14:39:06",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
