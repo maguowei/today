@@ -262,5 +262,38 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Inherit environment variables from PID 1 by reading /proc/1/environ",
+    "url": "https://gist.github.com/milesrichardson/8f1c9c7088f8a4e889019d7ce0559ec9",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34470666\">Comments</a>",
+    "publish_time": "2023-01-22 05:20:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Names",
+    "url": "https://joostjansen.me/index",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34470287\">Comments</a>",
+    "publish_time": "2023-01-22 04:43:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Official Warning: Bryan Kirk (Zero3K)",
+    "url": "https://reactos.org/forum/viewtopic.php?t=21714",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34470767\">Comments</a>",
+    "publish_time": "2023-01-22 05:30:36",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
