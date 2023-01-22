@@ -1376,5 +1376,54 @@
       "desc": "人民日报公众号",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
     }
+  },
+  {
+    "title": "新年快乐",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "杨迪演见钱眼开好像我本人",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E6%BC%94%E8%A7%81%E9%92%B1%E7%9C%BC%E5%BC%80%E5%A5%BD%E5%83%8F%E6%88%91%E6%9C%AC%E4%BA%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "春晚是懂电脑的",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E6%98%AF%E6%87%82%E7%94%B5%E8%84%91%E7%9A%84%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "DeepMind CEO Demis Hassabis Urges Caution on AI",
+    "url": "https://time.com/6246119/demis-hassabis-deepmind-interview/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34478992\">Comments</a>",
+    "publish_time": "2023-01-23 00:29:08",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A Welsh firm breeding maggots to heal wounds",
+    "url": "https://www.theguardian.com/business/2023/jan/22/breeding-maggots-heal-wounds-welsh-firm-biomonde",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34479372\">Comments</a>",
+    "publish_time": "2023-01-23 00:57:24",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
