@@ -1115,5 +1115,127 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "英超春节大戏",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E8%B6%85%E6%98%A5%E8%8A%82%E5%A4%A7%E6%88%8F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "流浪地球 人工智能",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%83+%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "美国加州发生枪击事件，致多人伤亡，具体情况如何？为何美国频繁发生枪击事件？",
+    "url": "https://www.zhihu.com/question/580054354",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "电影《无名》有哪些容易被忽视的细节?",
+    "url": "https://www.zhihu.com/question/580039575",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么都考研，考研有啥用呢？",
+    "url": "https://www.zhihu.com/question/546768959",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Decoding Lunar Flashlight",
+    "url": "https://destevez.net/2023/01/decoding-lunar-flashlight/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34480081\">Comments</a>",
+    "publish_time": "2023-01-23 01:49:25",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Bypassing Gmail's spam filters with ChatGPT",
+    "url": "https://neelc.org/posts/chatgpt-gmail-spam/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34479648\">Comments</a>",
+    "publish_time": "2023-01-23 01:18:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Gpu.js: GPU Accelerated JavaScript",
+    "url": "https://github.com/gpujs/gpu.js",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34479643\">Comments</a>",
+    "publish_time": "2023-01-23 01:17:25",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "What the spread of universal basic-income schemes says about Americas safety net",
+    "url": "https://www.economist.com/united-states/2023/01/19/what-the-spread-of-universal-basic-income-schemes-says-about-americas-safety-net",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34479873\">Comments</a>",
+    "publish_time": "2023-01-23 01:33:41",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ask HN: Anyone doing some absurd stuff after getting laid off?",
+    "url": "https://news.ycombinator.com/item?id=34479806",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34479806\">Comments</a>",
+    "publish_time": "2023-01-23 01:29:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Microsoft Hosted Sting Performance in Davos on Night Before Announcing Layoffs",
+    "url": "https://www.wsj.com/livecoverage/davos2023/card/microsoft-hosted-sting-performance-in-davos-on-night-before-it-announced-layoffs-cRHO4k295pSWarvtfQRJ",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34480375\">Comments</a>",
+    "publish_time": "2023-01-23 02:15:42",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "“Copycat” layoffs won’t help tech companies or their employees",
+    "url": "https://www.gsb.stanford.edu/insights/why-copycat-layoffs-wont-help-tech-companies-or-their-employees",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34480314\">Comments</a>",
+    "publish_time": "2023-01-23 02:08:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
