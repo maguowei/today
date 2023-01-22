@@ -86,5 +86,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "提高网站速度的第二种思路",
+    "url": "https://www.v2ex.com/t/910229",
+    "summary": "gowl: <p>提高网站的速度最直接的思路是用更好的硬件。比如加内存、加 CPU 、加带宽、使用 CDN 、把服务器放到里用户更近的机房等。除此之外还有第二个思路：软件的思路。</p>\n<p>软件的思路意味着把网站做得更轻，这样同样可以提高网站的速度。你可以减少不必要的图片元素，使用轻量级的前端技术，将资源打包以减少一个页面的总请求数量。大多数网站的有效内容的展现，其实只需要很少的前端数据（ HTML 、JavaScript 、CSS ）（代码也是数据），如果你能让每一个网页都保持在 200 KB&nbsp;以下，并且减少每个网页首次加载完成时对服务器的请求数量到，比如说，两个，你的网站也会有不错的使用体验。</p>",
+    "publish_time": "2023-01-22 10:32:46",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
