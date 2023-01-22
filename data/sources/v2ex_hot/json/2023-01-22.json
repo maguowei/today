@@ -9,5 +9,60 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "一个很有趣的发现",
+    "url": "https://www.v2ex.com/t/910215",
+    "summary": "arvin01: 如果一个人哭，比如受委屈了，难过了等等，你想安慰他，让他不要哭了。那么正确的做法不是劝他不要哭，而是对他说，想哭就哭吧，没事，放声哭，哭出来，哭出来就好了。<br /><br />然后你会发现一件神奇的事，哭声很快就会停止，并且恢复冷静。<br /><br />这个方法百试百灵，而如果劝，那么会越哭越凶，越哭越停不下来。<br /><br />---------<br /><br />延伸：如果一个人想做一件事，而你不想让他去做，那么正确的做法不是阻止他，而是鼓励他，让他能能做个爽。这样做会得到两个结果，一个是他越做越好，那么这是他的兴趣爱好，一个是浅尝辄止，那么这就是一时兴起。<br /><br />对于前者，很高兴你让他收获了一个真正的爱好，这是难能可贵的。对于后者，你则很好的处理了一个，可能因为逆反心理造成的不归路的恶性事件（目前从一些案例来看，是有效的）。<br /><br />对于学习，或许这也是一个不错的思路，不要劝学，而是劝不要学 🤣（有点反直觉，没操作过）",
+    "publish_time": "2023-01-22 02:32:32",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "我发现高通骁龙 8Gen2 的核显都支持了光追",
+    "url": "https://www.v2ex.com/t/910225",
+    "summary": "ShadowPower: <p>可能是我火星了。</p>\n<p>骁龙 8Gen2 用台积电 4nm 工艺，在 GPU 性能方面就实现了一些人曾经的“把 M1 装进手机”的梦想。\n感觉最近高通回归台积电代工后，又回到了曾经高通的 GPU 比苹果有优势的时代了。</p>\n<p>从另一方面说明在台积电 5nm/4nm 的加持下，之前关于 MBA 玩生化危机 8 的帖子里，有人类比的“这相当于 iPad 玩 3A 大作”其实是一件很普通的事情。</p>\n<p>以后要是在移动设备上看到超越 PS4 游戏的画面效果，也没什么惊奇了。</p>",
+    "publish_time": "2023-01-22 09:43:49",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "疲于每年各种问 WiFi 密码，开发了一个扫码连 WiFi 的小程序",
+    "url": "https://www.v2ex.com/t/910232",
+    "summary": "tongda: <p>如题，逢年过节都会有人问 WiFi 密码，偶然发现微信小程序提供有 WiFi 相关的 API ，开发了一个微信扫一扫连 WiFi 的小程序，简单的页面根据 WiFi 名称和密码生成带参数的小程序码，可以直接分享给好友或者通过微信扫一扫可以直接连接 WiFi 。</p>\n<p><img alt=\"扫码联网 WiFi\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://gee.li/temp/2301/fe30ceede571fb89.jpg\" /></p>\n<p><img alt=\"根据 WiFi 名称密码生成小程序码\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://gee.li/temp/2301/af33c2897601755a.jpg\" /></p>",
+    "publish_time": "2023-01-22 10:53:30",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "过年回家开心么大家",
+    "url": "https://www.v2ex.com/t/910234",
+    "summary": "jasmineaaaaa: 家里年三十大吵一架，我跑出门于寒风细雨中嚎啕大哭，午夜听着窗外的烟花声独自羡慕。",
+    "publish_time": "2023-01-22 11:20:04",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "为什么 Electron 不推出公共运行时？",
+    "url": "https://www.v2ex.com/t/910242",
+    "summary": "a1knla: <p>根据我用 electron 做 demo 的经历来说，我猜测它从技术上是可以分离出公共运行时的吧，没必要每个成品都自带一个浏览器内核，<a href=\"http://xn--o1qx43cr1s.net/\" rel=\"nofollow\">而是像.NET</a> 一样如果运行时不存在，就引导用户下载一次，一劳永逸。还是因为我对 electron 的了解过于浅薄，实际上以上内容是无法实现的？</p>",
+    "publish_time": "2023-01-22 12:45:11",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
