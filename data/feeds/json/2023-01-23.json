@@ -1498,5 +1498,54 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "春晚舞台",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E8%88%9E%E5%8F%B0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "一条微博晒年味",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%9D%A1%E5%BE%AE%E5%8D%9A%E6%99%92%E5%B9%B4%E5%91%B3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何评价2023春晚沈腾小品《坑》？",
+    "url": "https://www.zhihu.com/question/579930087",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "The Guide to Software Architecture Documentation",
+    "url": "https://www.workingsoftware.dev/software-architecture-documentation-the-ultimate-guide/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34482836\">Comments</a>",
+    "publish_time": "2023-01-23 06:19:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "ChatGPT Has Passed the United States Medical Licensing Examination (Usmle)",
+    "url": "https://www.medrxiv.org/content/10.1101/2022.12.19.22283643v2",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34483030\">Comments</a>",
+    "publish_time": "2023-01-23 06:40:35",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
