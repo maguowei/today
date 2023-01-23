@@ -42,5 +42,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "探索出了 oldubil 入金最简单的方法",
+    "url": "https://www.v2ex.com/t/910321",
+    "summary": "aceinnes: <p>注册两个 huobi 账户，注册输入国籍（建议外国籍）等信息，不会验证信息真伪可完成 L1 认证，并且获得多米尼克数字公民身份。</p>\n<p>其中一个账户第一笔交易用于 CNY 购买 USDT ，另一个账户第一笔交易用于 USDT 兑换 TRY ，充值到 oldubil 中。</p>\n<p>近期 huobi 规则改动，账户第一笔交易将作为分区的准则，不再以国籍分区账户。</p>\n<p><a href=\"https://imgloc.com/i/29OOV\" rel=\"nofollow\"><img alt=\"29OOV.md.png\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.328888.xyz/2023/01/16/29OOV.md.png\" /></a></p>\n<p>当两个账户完成第一笔交易后，就拥有 CNY 区，TRY 区账户各一个。以后也能随时给 oldubil 充钱，用于低阶订阅或游戏购买。</p>\n<p>注意的是 oldubil 没实名，转账入金需要手续费。我的卡已实名，所以具体多少百分比手续费不太清楚。</p>\n<p><a href=\"https://imgloc.com/i/29HZN\" rel=\"nofollow\"><img alt=\"29HZN.md.jpeg\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.328888.xyz/2023/01/16/29HZN.md.jpeg\" /></a></p>\n<p>另外 oldubil 实名有两个，第一个是身份认证（免手续费），需要土耳其全套信息可完成认证；第二个是账户认证（作用不详），需要土耳其 ID 正反面，住宅账单，以及誊抄一份土耳其语证明。</p>\n<p><a href=\"https://imgloc.com/i/29KKt\" rel=\"nofollow\"><img alt=\"29KKt.md.png\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.328888.xyz/2023/01/16/29KKt.md.png\" /></a></p>",
+    "publish_time": "2023-01-23 10:41:28",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "软件年费制到底是谁先带头搞起来的",
+    "url": "https://www.v2ex.com/t/910344",
+    "summary": "nztomoto: <p>现在微软 365 年费制，photoshop 年费制，甚至连以前能买断的大量 iOS app 也开始搞每年或每月续费制，请问这个天才想法是哪个公司带头先搞出来的。</p>",
+    "publish_time": "2023-01-23 15:06:01",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "请教获取设备唯一 id 的方式",
+    "url": "https://www.v2ex.com/t/910357",
+    "summary": "iloveMonica: <p>iPhone 手机，最近用了拼多多，在删除软件之后，重新下载，发现首页全是之前买或者搜过的东西。有些商品下面还有‘你收藏的商品’，我确实收藏了这些，但是我没有登录账号，它是怎么知道的。\n手机没有登录 icloud ，没有开定位。甚至手动清空了本地钥匙链，<a href=\"https://zhidao.baidu.com/question/1997710251233455947.html\" rel=\"nofollow\">https://zhidao.baidu.com/question/1997710251233455947.html</a> 。拔卡重启，换 wifi 之后仍然推送之前的商品。不得感叹现在追踪技术真的很厉害了。\n阅读了拼多多的隐私协议：“包括设备标识符（ IMEI 、IDFA 、Android ID 、IMSI 、OAID 及其他设备识别信\n息）、MAC 地址、设备参数及系统信息（设备类型、设备型号、操作系统及硬件相关信息）、\n应用信息（移动应用列表、应用程序版本及其他应用相关信息）、设备网络环境信息（ IP 地\n址，WiFi 信息，基站信息及其他网络相关信息）、设备所在位置相关信息（包括您授权的 GPS\n位置信息以及 WLAN 接入点、蓝牙和基站传感器信息）。具体以实际收集情况为准。” 现在 ios 系统的 app 可以获取哪些东西？\n有一个私有方法获取设备 id ，<a href=\"https://iosre.com/t/%E4%B8%80%E7%A7%8D%E6%A3%80%E6%B5%8B%E6%98%AF%E5%90%A6%E8%B6%8A%E7%8B%B1%E8%8E%B7%E5%8F%96%E8%AE%BE%E5%A4%87%E5%94%AF%E4%B8%80%E8%AF%86%E5%88%AB%E7%A0%81%E7%9A%84%E6%96%B9%E5%BC%8F%E6%9B%B4%E6%96%B0/19590\" rel=\"nofollow\">https://iosre.com/t/%E4%B8%80%E7%A7%8D%E6%A3%80%E6%B5%8B%E6%98%AF%E5%90%A6%E8%B6%8A%E7%8B%B1%E8%8E%B7%E5%8F%96%E8%AE%BE%E5%A4%87%E5%94%AF%E4%B8%80%E8%AF%86%E5%88%AB%E7%A0%81%E7%9A%84%E6%96%B9%E5%BC%8F%E6%9B%B4%E6%96%B0/19590</a> 如果用这个方法，应该没办法避免了。</p>",
+    "publish_time": "2023-01-23 16:49:40",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
