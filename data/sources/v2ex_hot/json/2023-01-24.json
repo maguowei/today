@@ -75,5 +75,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "吐槽下现在的羞羞视频",
+    "url": "https://www.v2ex.com/t/910418",
+    "summary": "life90: <blockquote>\n<p><strong>我觉得现在很多这视频，没有老羞羞视频的张弛有度。</strong></p>\n</blockquote>\n<blockquote>\n<p><strong>既没故事情节，也没在行动上体现情欲的表达。只是简单的机械运动。</strong></p>\n</blockquote>\n<blockquote>\n<p><strong>过多的裸露。以前没太多这种镜头，也能感受代入。现在只想跳过。</strong></p>\n</blockquote>\n<blockquote>\n<p><strong>无论是画面，镜头，背景，声乐。以前都能保持和谐应景。</strong></p>\n</blockquote>\n<p>本来是征求电影，结果变成了吐槽。 @<a href=\"https://www.v2ex.com/member/lived\">lived</a> 麻烦换到生活节点</p>",
+    "publish_time": "2023-01-24 10:19:51",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "jellyfin/emby/plex/kodi 的最佳实践是什么?",
+    "url": "https://www.v2ex.com/t/910440",
+    "summary": "kyonn: <p>nas 上安装了 emby/jellyfin/plex 配合安卓手机 kodi 进行各种组合验证, 总是不合心意. 不知道大家的最佳实践是什么?个人的需求很简单, 只需要串流 + 海报墙, 不需要转码. 原来的 samba 共享方案在媒体内容多了后不太好管理.</p>\n<h2>jellyfin + kodi</h2>\n<p>手机上只能安装 kodi20, 以前老版本不支持 120HZ. 装完后配合 jellyfin, 为了自定义每个栏目的内容, 比如让 movie 显示 jellyfin 的内容, 不得不安装皮肤插件.</p>\n<p>试验了 embuary matrix 插件, 界面是挺好看, 不知道为什么调不出 setting, 不知道是不是因为是手机的原因? 只能在 TV 上用遥控器调出设置界面? 手机上左右 /上下任意滑动都调不出设置界面.</p>\n<p>另外试验了 Estuary MODE V2 Nexus 插件, 可以自定义菜单内容了, 但是这个插件非常卡, 且会导致 KODI 经常闪退.</p>\n<h2>emby + kodi</h2>\n<p>不知道为什么播放会间歇性卡顿, 卡顿时间很短, 能听到音乐顿挫声.</p>\n<h2>plex + kodi</h2>\n<p>搭配 plex 插件 KODI 无法启动.</p>",
+    "publish_time": "2023-01-24 14:09:27",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
