@@ -583,5 +583,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "这就是中国人的春节浪漫",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E6%98%A5%E8%8A%82%E6%B5%AA%E6%BC%AB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "舞龙不要站第二个位置",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%88%9E%E9%BE%99%E4%B8%8D%E8%A6%81%E7%AB%99%E7%AC%AC%E4%BA%8C%E4%B8%AA%E4%BD%8D%E7%BD%AE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
