@@ -647,5 +647,27 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Newsboat: an RSS/Atom feed reader for the text console",
+    "url": "https://newsboat.org/index.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34527485\">Comments</a>",
+    "publish_time": "2023-01-26 11:52:39",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Nostr: Notes and Other Stuff Transmitted by Relays",
+    "url": "https://www.nostr.net/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34526562\">Comments</a>",
+    "publish_time": "2023-01-26 09:15:33",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
