@@ -1272,5 +1272,54 @@
       "desc": "人民日报公众号",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
     }
+  },
+  {
+    "title": "10岁女孩自学烘焙成品令人垂涎",
+    "url": "https://s.weibo.com/weibo?q=%2310%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%87%AA%E5%AD%A6%E7%83%98%E7%84%99%E6%88%90%E5%93%81%E4%BB%A4%E4%BA%BA%E5%9E%82%E6%B6%8E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "你见过最浪漫的诗句是什么？",
+    "url": "https://www.zhihu.com/question/579046773",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "一个人能否同时精通数学、物理学、计算机、电子、力学（结构）、经济学和哲学（基础领域）以及小说和电影？",
+    "url": "https://www.zhihu.com/question/21323541",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Ask HN: Why are so many PHP projects moving to Node?",
+    "url": "https://news.ycombinator.com/item?id=34536041",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34536041\">Comments</a>",
+    "publish_time": "2023-01-27 02:15:56",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Librandombytes – a public domain library for generating randomness",
+    "url": "https://randombytes.cr.yp.to/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34536605\">Comments</a>",
+    "publish_time": "2023-01-27 02:46:06",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
