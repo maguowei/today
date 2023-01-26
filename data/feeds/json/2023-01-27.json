@@ -1321,5 +1321,56 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "一直被妈妈念叨的狗狗",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%9B%B4%E8%A2%AB%E5%A6%88%E5%A6%88%E5%BF%B5%E5%8F%A8%E7%9A%84%E7%8B%97%E7%8B%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "佩斯科夫回应「末日时钟被拨快」时称，「局势令人担忧，没有缓和迹象」，如何解读？",
+    "url": "https://www.zhihu.com/question/580624681",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Next Rust Compiler",
+    "url": "https://matklad.github.io/2023/01/25/next-rust-compiler.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34537969\">Comments</a>",
+    "publish_time": "2023-01-27 04:06:27",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Nelua, AOT statically typed Lua",
+    "url": "https://nelua.io/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34537820\">Comments</a>",
+    "publish_time": "2023-01-27 03:56:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Digitec Galaxus now displays warranty score and return rate",
+    "url": "https://www.galaxus.ch/en/page/refreshingly-honest-digitec-galaxus-now-displays-warranty-score-and-return-rate-25950",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34536344\">Comments</a>",
+    "publish_time": "2023-01-27 02:32:07",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
