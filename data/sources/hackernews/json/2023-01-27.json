@@ -713,5 +713,27 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Attacker with access to XML config can trigger keepass.exe to obtain passwords",
+    "url": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-24055",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34545010\">Comments</a>",
+    "publish_time": "2023-01-27 19:47:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Erlang's not about lightweight processes and message passing",
+    "url": "https://github.com/stevana/armstrong-distributed-systems/blob/main/docs/erlang-is-not-about.md",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34545061\">Comments</a>",
+    "publish_time": "2023-01-27 19:56:12",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
