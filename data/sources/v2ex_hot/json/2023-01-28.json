@@ -1,0 +1,35 @@
+[
+  {
+    "title": "实验室想要实现让一台机器只能访问内网不能访问公网，应该用什么技术实现？",
+    "url": "https://www.v2ex.com/t/910930",
+    "summary": "Richard14: <p>实验室计划新采购一台运算机，但是为了限制研究用途，希望实现的效果是运算机与内网各节点可以顺利互相访问，但运算机无法访问外网（无法向外访问）。</p>\n<p>实验室现有一台消费级路由器。</p>\n<p>因为我们实验室都是菜鸡，想问一下 v 友们这个需求应该用什么技术实现，应该在什么层级实现，比如是应该在路由器界面里限制某局域网 IP 的连接（我看了下似乎并没有禁止互联网但允许局域网的选项）？还是应该用比如 exsi 等技术开虚拟机，并禁止虚拟机访问互联网？还是说直接在虚拟机的系统内部通过某种设置的方式禁止防火墙的所有放行？（机器基本需要 linux ，如果用虚拟化的话需要显卡直通）</p>\n<p>有无大佬讲讲，谢谢了。</p>",
+    "publish_time": "2023-01-28 00:16:51",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "现在随便买个飞机都是几百块一年佛了",
+    "url": "https://www.v2ex.com/t/910931",
+    "summary": "yescola: <p>记得以前飞机一百多 /年都有挺不错的。刚才去某药看了一下，随便哪个飞机都是几大百一年，这种节奏谁带起来的。而且速度也没有那么好，能跑个 200Mbps 都谢天谢地，还时不时给你玩个跑路</p>\n<p>现在还适合自己造个飞机吗？阿里腾讯云？</p>",
+    "publish_time": "2023-01-28 00:31:08",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "大家今天开工收到啥礼物（钱）了？",
+    "url": "https://www.v2ex.com/t/910951",
+    "summary": "zhoudaiyu: 我先说了，国企，啥都没有。",
+    "publish_time": "2023-01-28 08:22:24",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  }
+]
