@@ -108,5 +108,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "「🎉福利送码」Wins - 极简的窗口管理工具",
+    "url": "https://www.v2ex.com/t/911060",
+    "summary": "Shentx: <p>Hello👋  MacApp 分享频道和 V 站的小伙伴们，我是 Wins 的主要开发者，非常高兴能有机会在这里和你们见面，这真是 Wins 的幸运。</p>\n<p>如你所知 macOS 的窗口管理非常混乱，纵使已经到了 macOS 13 Ventura ，Apple 提供了 Stage Manager, 但很多人依然不喜欢这个功能。有许多软件尝试解决这个问题，但是总不能让我满意，作为一个数字极简主义者和一个果粉，怀揣着对于 Apple 的信仰，我们尝试以 Apple 的产品思维开发了 Wins 。</p>\n<p>下面介绍 Wins 的主要功能和特点。</p>\n<hr />\n<h2>动画效果</h2>\n<p>Apple 的产品最善于做符合人类直觉的动画效果，\"为软件赋予生命就让软件动起来\" Wins 提供了分屏预览动画，我们认为动画是软件的灵魂。</p>\n<h2>悬浮分屏</h2>\n<p>Wins 预设好了常用的分屏布局，当你拖动一个窗口时，在顶部会展示出悬浮分屏面板，当你拖动窗口到悬浮分屏后，可以快速按照对应的布局调整窗口。</p>\n<p>![分屏 1.jpeg]( <a href=\"https://raw.githubusercontent.com/ClassmateShen/image/main/%E5%88%86%E5%B1%8F\" rel=\"nofollow\">https://raw.githubusercontent.com/ClassmateShen/image/main/分屏</a> 1.jpeg)</p>\n<h2>快速分屏</h2>\n<p>只需要将窗口快速拖动到屏幕边缘，即可触发分屏，这是最简单和符合普通人直觉的操作逻辑。</p>\n<p><img alt=\"分屏动画.gif\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://raw.githubusercontent.com/ClassmateShen/image/main/%E5%88%86%E5%B1%8F%E5%8A%A8%E7%94%BB.gif\" /></p>\n<h2>系统级集成</h2>\n<p>Wins 直接集成在系统设置 App 中，没有额外的窗口，不会出现在 Dock 栏， 也不会占用你宝贵的 Menu Bar 。Wins 会像系统功能一样，为 macOS 做窗口管理的能力增强。</p>\n<p><img alt=\"settings.png\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://raw.githubusercontent.com/ClassmateShen/image/main/settings.png\" /></p>\n<h2>一键隐藏全部窗口</h2>\n<p>当你沉浸在工作学习中时，会突然发现开启的窗口太多了，简直太凌乱了，这时候可以使用 Wins 一键最小化所有窗口，让你回到熟悉的桌面。</p>\n<p><img alt=\"hidden_all_windows_zh.gif\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://raw.githubusercontent.com/ClassmateShen/image/main/hidden_all_windows_zh.gif\" /></p>\n<p>视频： <a href=\"https://raw.githubusercontent.com/ClassmateShen/image/main/hidden_all_windows_zh.mp4\" rel=\"nofollow\">https://raw.githubusercontent.com/ClassmateShen/image/main/hidden_all_windows_zh.mp4</a></p>\n<h2>摇晃窗口隐藏其他窗口</h2>\n<p>同样，你现在开启了很多窗口，这时候你只想聚焦在当前的窗口上，想把其他窗口都最小化。你可以在 Wins 中开启这一功能，然后抖动一下当前窗口，其他的窗口都会自动隐藏。</p>\n<p><img alt=\"shakeToHideOthers.gif\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://raw.githubusercontent.com/ClassmateShen/image/main/shakeToHideOthers.gif\" /></p>\n<p>视频： <a href=\"https://raw.githubusercontent.com/ClassmateShen/image/main/shakeToHideOthers.mp4\" rel=\"nofollow\">https://raw.githubusercontent.com/ClassmateShen/image/main/shakeToHideOthers.mp4</a></p>\n<h2>低功耗</h2>\n<p>我们认为 Wins 要常驻进程，跟随 Mac 启动，不能为系统造成额外负担，让用户有心理焦虑。 所以我们非常在意功耗，内存占用低于 30M ，CPU 使用率低于 10%，大多数情况仅占用 0.1%。</p>\n<p><img alt=\"HighEfficiency1.png\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://raw.githubusercontent.com/ClassmateShen/image/main/HighEfficiency1.png\" /></p>\n<hr />\n<h2>总结</h2>\n<p>这就是 Wins 当下的主要功能，我们想做一个简单易用、界面统一、没有存在感、符合人类直觉、超低功耗.....</p>\n<p>Wins 是一个很新的软件，我们是一个很小的团队，但是我们对它的期望很高，有太多的思绪飞扬和激动人心的功能在我们的规划当中，今年可能无法全部完成，但是明年一定可以，无论 Wins 卖的怎么样，我们都会将那些用户和我们所期待的功能带给大家，因为我们心中充满了对于软件的热爱❤️‍🔥。</p>\n<hr />\n<h2>下载&amp;福利</h2>\n<p>最后就是下载+福利啦！</p>\n<p>如果有小伙伴还有其他的需求，在日常的使用过程中，不趁手的，可通过直接在下方留言评论，Wins 将持续迭代优化这块，争取做到 macOS 分屏软件中的翘楚。</p>\n<p>当然 Wins 都来网站了，老规矩，还是要送福利啦！在底下评论区留下你和 Wins 的故事，内容包括但不限于<code>对软件的评价</code>、<code>对软件的意见和建议</code>、<code>bug 反馈</code>、<code>你与 Wins 的故事</code>。</p>\n<p>我们会根据大家在 <code>2023/1/30 24:00</code> 前的留下的评论，选出 <code>6</code> 位朋友（这次有福利加码哦！开发者说啦，<code>如果有有价值、特别中意的评论，可以再额外增加</code>）送上 Wins 永久版激活码。欢迎有兴趣的朋友，试用并留言评论，参与到这次的活动中来！</p>\n<p><code>注意，灌水评论无效，将会被删除。</code></p>\n<h3>注意！本次活动在 MacApp 分享频道进行，在 V 站评论的留言将不会计入获奖名单</h3>\n<p>最后就是 Wins 的官网和下载地址啦！欢迎大家多多支持 Wins 哦！</p>\n<p>参与活动： <a href=\"https://macapp.org.cn/wins-2023.html\" rel=\"nofollow\">https://macapp.org.cn/wins-2023.html</a></p>\n<p>Wins 官网链接： <a href=\"https://wins.cool/\" rel=\"nofollow\">https://wins.cool</a></p>\n<p>下载 Wins： <a href=\"https://macapp.org.cn/app/wins.html\" rel=\"nofollow\">https://macapp.org.cn/app/wins.html</a></p>\n<p><strong>我们还给大家拿到了 Wins 的优惠购买折扣哦！</strong> <br />\n<strong>Wins 七折优惠购买折扣码：<code><a href=\"http://macapp.org.cn/\" rel=\"nofollow\">MacApp.org.cn</a></code></strong> <br />\n<strong>官网购买下单前输入折扣码即可享受折扣！</strong></p>",
+    "publish_time": "2023-01-28 14:33:06",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "跪求大佬帮我给年迈的老妈选个合适的手机",
+    "url": "https://www.v2ex.com/t/911088",
+    "summary": "James107: 今年过年回家以后，我妈（ 50 多岁）的手机很旧了，一直用的是多年前买的华为 P30 ，想给我妈换个手机，我妈不喜欢苹果手机的系统<br /><br />年前从公司临时借用了一个 vivo nex3s 作为测试机用，过年的时候我妈好奇用了一下，升降前置摄像头的设计不错，再加上给家里人、同学和其他人视频的时候美颜增亮效果让我妈显得年轻不少，我妈非常开心，问能不能先用着，我查了一下网上 nex3s 的价格，小四千块了，感觉还不如加点钱买个新的手机，毕竟 nex3s 也是旧款了。<br /><br />我妈的使用习惯：自己经营一个小柜台，平常接打客户电话，最常用的软件是微信，刷刷短视频啥的，看看新闻短片，不玩游戏，偶尔听听歌。买新衣服了喜欢拍拍照，和老同学、亲戚视频一下聊天。出去转圈的时候喜欢拍个照啥的作为留念。不会用复杂的软件，微信也是调成最大字看<br /><br />我自己感觉的刚性需求是：<br />1.安卓厂商的旗舰系列型号<br />2.拍照要好，特别是前置摄像头，给别人视频的时候看起来年轻一些<br />3.信号要好，我妈经营个小店，不能让顾客联系不上，我妈是中国移动卡<br /><br />加分需求：<br />1.非曲面屏、折叠屏、翻转屏，容易误触，玩不转，最好是直板手机<br />2.电池容量大，耐使，最好有快充，快充功率大小不限，有时候我妈晚上忘了充电就要去忙，早上最好冲一会儿不耽误上午接打电话和回微信<br />3.厂家的 UI 交互设计好一些，整体体验要好，我妈不太会玩太复杂的设置操作，最好是我收到手机给她设置好，她以后就一劳永逸<br />4.机身坚固性好一些，不要太薄的手机，但也不要太沉太厚<br /><br />有没有大佬能帮忙参考一下的，预算 1W 以下都行，想买个能用四五年不卡的。看我妈越来越老了，年轻的时候条件不允许，什么都只能将就，这年龄大了不能再将就了。跪求各位大佬帮忙了~",
+    "publish_time": "2023-01-28 15:56:04",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
