@@ -619,5 +619,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "开始7天渡劫",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%A7%8B7%E5%A4%A9%E6%B8%A1%E5%8A%AB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "不想上班",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%83%B3%E4%B8%8A%E7%8F%AD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
