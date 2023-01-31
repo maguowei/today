@@ -119,5 +119,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "用AI对抗AI！斯坦福研究人员推出 DetectGPT，专门检测 ChatGPT 等模型生成的文本",
+    "url": "https://www.infoq.cn/article/tQMKFz2uRpy2eUBitrgv",
+    "summary": "<p>过去两个月，<a href=\"https://www.infoq.cn/article/AWWsrfb54zTvglZ0I5qS\">ChatGPT</a>\"火爆全网，写代码、编故事、构建虚拟机……ChatGPT几乎无所不能。在“硬币的另一面”，有学生开始用ChatGPT<a href=\"https://www.infoq.cn/article/K9uYlvh3u6q7ag1Z8hoD\">写作业、写论文</a>\"。根据最新研究，学者们也可能会被 ChatGPT 欺骗，误以为 ChatGPT 生成的<a href=\"https://www.infoq.cn/article/U5xfFfPULVbkDSLR3PAQ\">虚假科学摘要</a>\"来自顶级研究期刊上发表的真实医学论文。</p><p>&nbsp;</p><p>近日，斯坦福大学研究团队提出了一种名为DetectGPT的新方法，旨在成为首批打击高等教育中LLM生成文本的工具之一。相关研究论文已发表在预印本网站arXiv上。据悉，这是一种使用模型的对数概率函数的局部曲率检测预训练大型语言模型样本的方法，该方法或对检测验证产业带来积极影响。</p><p>&nbsp;</p><p>该方法基于的原理是：由大型语言模型生成的文本通常在模型的对数概率函数的负曲率区域的特定区域徘徊。通过这个发现，该团队开发了一种新的指标，用于判断文本是否是机器生成的，并且不需要训练人工智能或收集大型数据集来比较文本。</p><p>&nbsp;</p><p>研究人员表示，随着大型语言模型(LLMs)的流畅性和知识积累程度不断增强，人们对于检测一段文本是否由机器编写的需求日益旺盛。比如，一些学生使用大型语言模型来完成书面作业，以至于教师无法准确地评估学生的学习情况。</p><p>&nbsp;</p><p>研究人员首先证明了从大型语言模型中采样的文本倾向于占据模型的对数概率函数的负曲率区域。利用这一观察结果，定义了一个新的基于曲率的标准，用于判断是否从给定的LLM生成通道。这种方法即为DetectGPT——不需要训练单独的分类器，不需要收集真实或生成的段落的数据集，也不需要显式地为生成的文本加水印，它只使用由感兴趣的模型计算的对数概率，和来自另一个通用预训练语言模型(例如T5)的文章随机扰动。</p><p>&nbsp;</p><p>研究发现DetectGPT比现有的零帧模型样本检测方法更具鉴别性，显著提高了20B参数GPT-NeoX生成的假新闻文章的检测能力，从最强零帧基线的0.81 AUROC提高到DetectGPT的0.95 AUROC。</p><p>&nbsp;</p><p>然而，这一方法也存在一定的局限性。例如，如果现有的掩模填充模型不能很好地表示有意义的改写空间，则某些域的性能可能会降低，从而降低曲率估计的质量；DetectGPT相比其他检测方法需要更大的计算量等。</p>",
+    "publish_time": "2023-01-31 18:03:22",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
