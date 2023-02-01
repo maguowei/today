@@ -1221,5 +1221,101 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "多地发力拼经济新春开门稳",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%8F%91%E5%8A%9B%E6%8B%BC%E7%BB%8F%E6%B5%8E%E6%96%B0%E6%98%A5%E5%BC%80%E9%97%A8%E7%A8%B3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "二月",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8C%E6%9C%88%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "这个挑食是情有可原的",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E6%8C%91%E9%A3%9F%E6%98%AF%E6%83%85%E6%9C%89%E5%8F%AF%E5%8E%9F%E7%9A%84%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何评价《原神》3.4深渊？",
+    "url": "https://www.zhihu.com/question/581567687",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价 iG 新人上单选手 yskm？",
+    "url": "https://www.zhihu.com/question/579255820",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么提到《原神》2023新春短篇「鱼灯」，会有人认为是游戏宣传传统文化、而不是蹭传统文化热度?",
+    "url": "https://www.zhihu.com/question/581359716",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "比尔•盖茨：AI颇具革命性，不太看好Web3和元宇宙，你看好吗？",
+    "url": "https://www.zhihu.com/question/578465450",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Release engineering is exhausting so here's cargo-dist",
+    "url": "https://blog.axo.dev/2023/02/cargo-dist",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34614497\">Comments</a>",
+    "publish_time": "2023-02-02 01:50:50",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Same.energy: Image Search by Similarity",
+    "url": "https://same.energy",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34614449\">Comments</a>",
+    "publish_time": "2023-02-02 01:48:06",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "ChatGPT Plus",
+    "url": "https://openai.com/blog/chatgpt-plus/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34614796\">Comments</a>",
+    "publish_time": "2023-02-02 02:08:48",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
