@@ -1268,5 +1268,129 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "流浪地球2",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%832%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "菜鸟驿站为什么那么多转让的？",
+    "url": "https://www.zhihu.com/question/458627547",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "单身的时候回家，该怎么应对家人的催恋催婚？",
+    "url": "https://www.zhihu.com/question/579248385",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "读研最大的感受是什么？",
+    "url": "https://www.zhihu.com/question/265574839",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Twitter API Pricing",
+    "url": "https://developer.twitter.com/en/pricing/search-30day",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34632185\">Comments</a>",
+    "publish_time": "2023-02-03 04:00:03",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "ChatGPT's breakout moment and the race to put AI to work",
+    "url": "https://www.forbes.com/sites/alexkonrad/2023/02/02/inside-chatggpts-breakout-moment-and-the-race-for-the-future-of-ai/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34631095\">Comments</a>",
+    "publish_time": "2023-02-03 02:35:54",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Git archive generation meets Hyrum's law",
+    "url": "https://lwn.net/SubscriberLink/921787/949cf79f2599f734/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34631275\">Comments</a>",
+    "publish_time": "2023-02-03 02:47:29",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Trey Parker and Matt Stone’s deep fake company announces $20M investment",
+    "url": "https://www.deepvoodoo.com/press/trey-parker-and-matt-stones-deep-fake-company-deep-voodoo-announces-20-million-investment",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34631781\">Comments</a>",
+    "publish_time": "2023-02-03 03:25:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Paperspace (YC W15) Is Hiring an Engineering Manager – AI Cloud",
+    "url": "https://www.paperspace.com/careers",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34632943\">Comments</a>",
+    "publish_time": "2023-02-03 05:00:29",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Carving the scheduler out of our orchestrator",
+    "url": "https://fly.io/blog/carving-the-scheduler-out-of-our-orchestrator/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34628889\">Comments</a>",
+    "publish_time": "2023-02-03 00:30:28",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Math breakdown: Anime homing missiles",
+    "url": "https://blog.littlepolygon.com/posts/missile/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34630730\">Comments</a>",
+    "publish_time": "2023-02-03 02:14:42",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "【夜读】保持幸福的6个习惯，养成受用一生",
+    "url": "https://mp.weixin.qq.com/s/2uyUJS-Z0gay06SId07eXQ",
+    "summary": "【夜读】保持幸福的6个习惯，养成受用一生",
+    "publish_time": "2023-02-03 04:04:34",
+    "source": {
+      "name": "people_daily_gzh",
+      "desc": "人民日报公众号",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
+    }
   }
 ]
