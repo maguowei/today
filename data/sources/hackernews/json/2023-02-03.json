@@ -636,5 +636,38 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Bir Tawil",
+    "url": "https://en.wikipedia.org/wiki/Bir_Tawil",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34633274\">Comments</a>",
+    "publish_time": "2023-02-03 05:22:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Improving Rust compile times to enable adoption of memory safety",
+    "url": "https://www.memorysafety.org/blog/remy-rakic-compile-times/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34639070\">Comments</a>",
+    "publish_time": "2023-02-03 17:22:36",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Small SaaS banned by Cloudflare after 4 years of being paying customer",
+    "url": "https://news.ycombinator.com/item?id=34639212",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34639212\">Comments</a>",
+    "publish_time": "2023-02-03 17:47:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
