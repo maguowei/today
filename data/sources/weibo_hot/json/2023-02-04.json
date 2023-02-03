@@ -628,5 +628,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "为什么要咬春",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%92%AC%E6%98%A5%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "买旧相机发现15年前北京奥运留影",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B9%B0%E6%97%A7%E7%9B%B8%E6%9C%BA%E5%8F%91%E7%8E%B015%E5%B9%B4%E5%89%8D%E5%8C%97%E4%BA%AC%E5%A5%A5%E8%BF%90%E7%95%99%E5%BD%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
