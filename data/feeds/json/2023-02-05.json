@@ -1255,5 +1255,118 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "还你十年",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%98%E4%BD%A0%E5%8D%81%E5%B9%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "70后丁克夫妻回应质疑",
+    "url": "https://s.weibo.com/weibo?q=%2370%E5%90%8E%E4%B8%81%E5%85%8B%E5%A4%AB%E5%A6%BB%E5%9B%9E%E5%BA%94%E8%B4%A8%E7%96%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "我参加了妈妈的婚礼",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%8F%82%E5%8A%A0%E4%BA%86%E5%A6%88%E5%A6%88%E7%9A%84%E5%A9%9A%E7%A4%BC%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "《流浪地球》的导演郭帆并没有什么厚重的履历，为什么突然能拍出这么好的影片？",
+    "url": "https://www.zhihu.com/question/581744313",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Seawater split to produce green hydrogen",
+    "url": "https://www.adelaide.edu.au/newsroom/news/list/2023/01/30/seawater-split-to-produce-green-hydrogen",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34656461\">Comments</a>",
+    "publish_time": "2023-02-05 01:57:40",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Libostree",
+    "url": "https://ostreedev.github.io/ostree/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34656736\">Comments</a>",
+    "publish_time": "2023-02-05 02:28:49",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "yq: command-line YAML, JSON, XML, CSV and properties processor",
+    "url": "https://github.com/mikefarah/yq",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34656022\">Comments</a>",
+    "publish_time": "2023-02-05 01:09:33",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "ChatGPT Passes Google Coding Interview for Level 3 Engineer with $183K Salary",
+    "url": "https://www.pcmag.com/news/chatgpt-passes-google-coding-interview-for-level-3-engineer-with-183k-salary",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34656591\">Comments</a>",
+    "publish_time": "2023-02-05 02:10:35",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Mantis shrimp eyes",
+    "url": "https://ryanblakeley.net/p/mantis-shrimp-eyes",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34655832\">Comments</a>",
+    "publish_time": "2023-02-05 00:51:03",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A Solar Kiln to dry wood. Overview, design and build (2019)",
+    "url": "https://www.adrianpreda.com/blog/solar-kiln",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34656183\">Comments</a>",
+    "publish_time": "2023-02-05 01:26:44",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Scalability Is Overrated",
+    "url": "https://waseem.substack.com/p/scalability-is-overrated",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34656776\">Comments</a>",
+    "publish_time": "2023-02-05 02:32:48",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
