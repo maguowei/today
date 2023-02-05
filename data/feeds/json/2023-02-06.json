@@ -1300,5 +1300,76 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "汤圆",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B1%A4%E5%9C%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "高中你们最怀念的一个瞬间是什么？",
+    "url": "https://www.zhihu.com/question/581761442",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如果当时雨隐村探情报的不是自来也，而是纲手，她可以得到情报并且活着回来吗？",
+    "url": "https://www.zhihu.com/question/461027356",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "What We Learned from Building GovSlack",
+    "url": "https://slack.engineering/what-we-learned-from-building-govslack/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34667077\">Comments</a>",
+    "publish_time": "2023-02-06 02:00:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Don’t teach during code reviews",
+    "url": "https://www.michaelagreiler.com/teach-during-code-reviews/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34667708\">Comments</a>",
+    "publish_time": "2023-02-06 02:55:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Circumnavigators (2017)",
+    "url": "https://qrp-labs.com/circumnavigators.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34666311\">Comments</a>",
+    "publish_time": "2023-02-06 00:42:36",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How to build a Linux-based wireless router out of spare parts (1998)",
+    "url": "http://www.rage.net/wireless/wireless_howto.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34666142\">Comments</a>",
+    "publish_time": "2023-02-06 00:27:20",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
