@@ -9,5 +9,49 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "35+的程序员，你们还好吗？",
+    "url": "https://www.v2ex.com/t/913468",
+    "summary": "JeffyChen: <p>去年年中开始，好多大中小厂都开启了裁员模式。作为年龄超 35 岁的高位人群，你们状态怎么样？</p>",
+    "publish_time": "2023-02-06 08:53:05",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "一起来分享一些曾让你茅塞顿开的 Vim 命令",
+    "url": "https://www.v2ex.com/t/913470",
+    "summary": "akring: <p>我先抛个砖，想看看大家的分享：</p>\n<pre><code>ciw    （删除当前单词并进入编辑模式）\n\n\nci{    （删除 {} 内的内容并进入编辑模式，同理可用于括号，双引号等，重写函数的时候非常好用）\n\n\nctrl o （编辑模式下暂时切换到 normal 模式，可以执行一条非编辑模式下的命令）\n</code></pre>",
+    "publish_time": "2023-02-06 09:10:56",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "小县城的各种问题",
+    "url": "https://www.v2ex.com/t/913477",
+    "summary": "Aggie: <p>1：春节期间，发现四川小县城的几大超市物价比成都还高，且存在假冒产品。\n2：车费如成都到小县城价格 50 ，小县城到成都 60 ； 交通行业乱象。\n3：邻居摩托车在监控附近被盗，查了监控几乎是停滞界面，职业责任心相当弱，躺平吃官饭。</p>\n<p>这是目前春节期间发现的问题，想知道大家都遇到哪些问题？</p>",
+    "publish_time": "2023-02-06 09:26:37",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "你们开车喜欢用哪个导航，为什么？",
+    "url": "https://www.v2ex.com/t/913486",
+    "summary": "kylebing: <p>基础知识：国内 iPhone 自带地图的信息取自高德。</p>\n<p>骑摩托车的时候用高德的很好用，因为我只听语言提示。它的语音导航挺好。\n开汽车的时候高德就不怎么好用了，路线的展示不如 iPhone 自带的明晰，尤其是在路口的时候，看高德导航错过过两个路口了，就不再喜欢用高德了。</p>\n<p>我的选择：</p>\n<ul>\n<li>高速： 我喜欢用 iPhone 自带的</li>\n<li>市区： 首选 iPhone 自带的，其次是高德</li>\n</ul>",
+    "publish_time": "2023-02-06 09:49:04",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
