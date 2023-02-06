@@ -1313,5 +1313,56 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "东北公主的下午茶有多优雅",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E5%85%AC%E4%B8%BB%E7%9A%84%E4%B8%8B%E5%8D%88%E8%8C%B6%E6%9C%89%E5%A4%9A%E4%BC%98%E9%9B%85%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "程序员如何在实力不强的情况下在几年之内实现逆袭?",
+    "url": "https://www.zhihu.com/question/439893308",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "One common behavior seen in “mature” software engineers",
+    "url": "https://www.luu.io/posts/mature-engineer",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34683689\">Comments</a>",
+    "publish_time": "2023-02-07 04:17:39",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Making SQLite extensions pip install-able",
+    "url": "https://observablehq.com/@asg017/making-sqlite-extensions-pip-install-able",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34683237\">Comments</a>",
+    "publish_time": "2023-02-07 03:50:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "【夜读】处理复杂问题最高明的方式",
+    "url": "https://mp.weixin.qq.com/s/lNe4RSNae_hiVmyO2T7yPw",
+    "summary": "【夜读】处理复杂问题最高明的方式",
+    "publish_time": "2023-02-07 04:09:49",
+    "source": {
+      "name": "people_daily_gzh",
+      "desc": "人民日报公众号",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
+    }
   }
 ]
