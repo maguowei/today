@@ -20,5 +20,49 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "Go 的特色不是语法的便捷，而是在工程",
+    "url": "https://www.v2ex.com/t/914114",
+    "summary": "GopherDaily: <p>Envoy 这样的工程构建已经是非常复杂了，当然 Go 大型工程也不简单。\n但是入门写 Go 基本就一条路，入门 C++ 就很依赖人的主观判断。</p>\n<p>学了两天 bazel ，又学了一天 cmake ，加深了这个想法。</p>",
+    "publish_time": "2023-02-08 01:00:55",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "必应和 ChatGPT 合体后的新必应开放预约了",
+    "url": "https://www.v2ex.com/t/914134",
+    "summary": "vsitebon: <ul>\n<li>相关文章： <a href=\"https://www.theverge.com/2023/2/7/23587454/microsoft-bing-edge-chatgpt-ai\" rel=\"nofollow\">https://www.theverge.com/2023/2/7/23587454/microsoft-bing-edge-chatgpt-ai</a></li>\n<li>预约链接： <a href=\"https://bing.com/new\" rel=\"nofollow\">https://bing.com/new</a></li>\n</ul>",
+    "publish_time": "2023-02-08 08:50:44",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "各位哥哥姐姐，想组一个家庭服务器，预算 2000 左右（预算不能再超过 200），尽量省电（24 小时开机）",
+    "url": "https://www.v2ex.com/t/914204",
+    "summary": "EliStone: <p>用处：装 PVE ，开一个 openwrt 旁路由，一个 CentOS 作为在家里开发用的服务器（跑 docker 、中间件、数据库、Git 仓库等），最近开始学 k8s （ 3 台虚拟机就够了），目前就这么多的学习内容，后续可能会学一下大数据处理，这个估计要很久以后了......</p>\n<p>网络条件：无公网 IP ，出租房房东的宽带，基本是在家使用了</p>\n<p>已有硬件：16g 2666 内存条、128g （普通 m.2 硬盘） + 512g （ 970 evo plus ）</p>\n<p>也搜过 v2 的帖子，但是看了一下近期的帖子没有我心中想要的</p>\n<p>方案一：</p>\n<ul>\n<li>13400 散片   1270</li>\n<li>华南 b660m-itx 485</li>\n<li>sktc a01 机箱 152</li>\n<li>散热器 100 左右</li>\n<li>DC 电源 150 元左右</li>\n</ul>\n<p>方案二：</p>\n<ul>\n<li>5600g 散片 730</li>\n<li>昂达 b550sd4itx 479</li>\n<li>sktc a01 机箱 152</li>\n<li>散热器 100 左右</li>\n<li>DC 电源 150 左右</li>\n</ul>\n<p>方案一：性能对我来说目前是过剩的（个人不是太想折腾，这个可以使用的更久？），比方案二多了 500 元（超了一点预算，价格只是大致挑一下，还没在 pdd 看，不过超 200 以内问题不大），方案一的话，暂时就不加其它的东西了（后续可以再加内存和硬盘）,但是考虑到 Intel 的大小核，装 PVE 开虚拟机不知道有什么坑没</p>\n<p>方案二：可以再加一条 32g 内存条，个人感觉我的使用用途方案二性能就足够了，比较青睐这个，这两个来说待机耗电量应该差不多的？</p>\n<p>或者哥哥姐姐们有什么其它的推荐么？\n要求：itx + 安静，自己租的房子很小，桌面已经有一个机箱了</p>",
+    "publish_time": "2023-02-08 11:29:32",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "第一次网恋,初面应该做些什么,恳请各位彦祖们指点迷津",
+    "url": "https://www.v2ex.com/t/914216",
+    "summary": "jameszhangqk1: 本人男，27 岁，母单，和她在 b 站认识，聊了 10 天左右，能感觉到对方对我有好感，已约定本周末初面，我没啥经验，真诚请教各位彦祖们初次见面应该做啥？包括在哪？说些什么？做些什么？<br />我能想到的就是在她住的地方附近找个咖啡馆这种比较安静的地方，点两杯喝的，一些甜食（她喜欢甜食），肯德基这些不知道行不行，说些啥感觉只能随机应变了，因为前期该聊的基本都清楚了，做完这些是不是邀请去吃饭？如果受邀了是否代表有戏？是否送她回去？<br />同事建议送束花，但不要表达太刻意的那种，比如玫瑰。那应该是什么呢？，不是花应该是好号呢？还是应该第二次送呢？<br />btw ，我是奔着结婚去的。她之前有三段经历，最近这次是 21 年底（异地）分的。比我大 2 岁。坐标北京，两人均非土著。双方更看重人品，性格，情绪稳定真诚这些。",
+    "publish_time": "2023-02-08 12:25:11",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
