@@ -1324,5 +1324,67 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "你们粉丝整活有够荒谬的",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BB%AC%E7%B2%89%E4%B8%9D%E6%95%B4%E6%B4%BB%E6%9C%89%E5%A4%9F%E8%8D%92%E8%B0%AC%E7%9A%84%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "除了鸡胸肉外，还有哪些适合减脂期吃的肉类？",
+    "url": "https://www.zhihu.com/question/581114641",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Boss' Dilemma: Taking Responsibility Signals Cooperation",
+    "url": "https://tidyfirst.substack.com/p/signaling-cooperation-employees-dilemma",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34711054\">Comments</a>",
+    "publish_time": "2023-02-09 01:05:48",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Windows 11: a spyware machine out of users' control",
+    "url": "https://www.techspot.com/news/97535-windows-11-spyware-machine-out-users-control.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34712640\">Comments</a>",
+    "publish_time": "2023-02-09 02:39:54",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Reddit Mods and Scaling Problems in Social Control",
+    "url": "https://maximumeffort.substack.com/p/scaling-problems-in-social-control",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34713553\">Comments</a>",
+    "publish_time": "2023-02-09 03:31:27",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "FDroid debating Aves Libre app TOS as reason for removal",
+    "url": "https://gitlab.com/fdroid/fdroiddata/-/issues/2893",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34713133\">Comments</a>",
+    "publish_time": "2023-02-09 03:09:56",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
