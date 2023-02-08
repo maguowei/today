@@ -1,0 +1,13 @@
+[
+  {
+    "title": "架构师（2023年2月）",
+    "url": "https://www.infoq.cn/article/O5ZoSNhBmSoOY9XVC7Sb",
+    "summary": "<h2>卷首语</h2>\n<p><strong>作者：蔡芳芳</strong></p>\n<p>最近在朋友圈和技术新闻里频频看到 ChatGPT 的身影，自 11 月 30 日发布之后，关于它的报道几乎从未断过。如今的 ChatGPT 和 AIGC，有点像一年前的 Web3，科技圈无人不知无人不晓。从绘画、写作到编程，延展至职业咨询、情感咨询，ChatGPT 在应对超百万使用者的花式提问中展现出了相当令人惊艳的强大能力。</p>\n<p>比如 InfoQ 最新这篇<a href=\"https://mp.weixin.qq.com/s/2Gski7lQ2ZqCLUqpuRRpaA\">报道</a>，在近期一项研究中，ChatGPT 尝试查找示例代码中的 bug 并给出修复建议，整体表现优于现有同类程序，成功修复了 40 个 bug 中的 31 个。</p>\n<p>面对编程能力越来越强大的 AI，不少人再次忧心忡忡：“AI 会取代程序员吗？”更有相当激进的<a href=\"https://cacm.acm.org/magazines/2023/1/267976-the-end-of-programming/fulltext\">声音</a>认为，在人工智能驱动的未来，“编写程序的传统想法即将消失”。</p>\n<p>人们常常倾向于高估短期变化，而低估长期变化。我们并不认为短期内 ChatGPT 会完全取代程序员，但长期来看，它确有可能颠覆一部分简单的编程工作。从 2017 年前端智能化兴起，到 2021 年 GitHub Copilot 火爆，再到现在的 ChatGPT，AI 毫无疑问正在改变编程工作流，这已经不是会不会的问题，而是改变的程度到底会有多大的问题。未来程序员们势必需要学习如何在工作中跟 AI “协作”、如何基于 AI 更好更高效地完成自己的工作，所以程序现在最要紧的是让自己做好准备迎接可能到来的软件开发新范式，而不是焦虑恐慌或嗤之以鼻。</p>\n<p>除了可能革新编程工作流，ChatGPT 又会对科技行业格局带来什么样的影响？这也是近期科技创投圈的热议话题。不久前在一篇<a href=\"https://mp.weixin.qq.com/s/7HLtL5fkIkFNe2ZGxMwJ2g\">文章</a>中看到一个挺有意思的观点，作者认为：OpenAI 会颠覆亚马逊云在内的计算平台。可 ChatGPT（以及 OpenAI 的其他产品）本身跑在微软的 Azure 云平台上，怎么理解 “OpenAI 会颠覆亚马逊云在内的计算平台”呢？该文章作者认为，这取决于未来 10-20 年人们是否还会主要基于亚马逊云平台构建软件，他更倾向于会出现一个新的“智能平台层”。</p>\n<p>业内还有另一个相对普遍的观点认为，微软（云服务）的未来会取决于 OpenAI。国外知名科技圈投资机构 a16z 在 1 月 19 日发布的文章<a href=\"https://a16z.com/2023/01/19/who-owns-the-generative-ai-platform/\">《Who Owns the Generative AI Platform?》</a>中表示，基础架构供应商（其实就是云厂商）可能是 AIGC 市场迄今为止的最大赢家，据他们猜测当下 AIGC 市场总收入的 10-20% 流向了云提供商。恰恰最近微软也宣布将把 ChatGPT 加入 Azure 云服务，未来云计算市场格局会如何变化？或许我们可以有更加大胆的想象。</p>\n<h2>目录</h2>\n<h3>热点 | Hot</h3>\n<p>每个月在云上“狂烧”180 万，Ruby On Rails 之父：我们要直接买硬件！</p>\n<p>用自研 Pingora 替代 Nginx 后，Cloudflare 成为了最受欢迎 Web 服务器</p>\n<p>44.7 GB ！遭前雇员“叛变”，俄版百度 Yandex 几乎所有源代码泄露</p>\n<p>为降低“遗留技术成本” ，Capital One 裁掉了整个敏捷部门，可能涉及 1100 人</p>\n<p>GraalVM Java 编译器将于 2023 年加入，与 OpenJDK 的发布节奏和流程保持一致</p>\n<p>React 18：新玩具、新陷阱以及新可能性</p>\n<h3>访谈文章 | Interview</h3>\n<p>指导了上百万程序员，《代码大全》之父和你聊聊软件开发素养｜独家探访“编程圣经”背后故事</p>\n<p>DevOps 缺少定义，平台工程需要指导性路线图</p>\n<h3>案例研究 | Case Study</h3>\n<p>我用 Rust 改写了自己的 C++ 项目：这两个语言都很折磨人！</p>\n<p>从ClickHouse到StarRocks，易点天下数仓平台建设</p>\n<p>漫谈钉钉单元化</p>\n<h3>推荐文章 | Article</h3>\n<p>一个科技新时代开启，硅谷五巨头将何去何从</p>\n<p>为什么谷歌和苹果都要杀死移动 Web？资深工程师揭秘大厂从吹捧到扼杀“内幕”</p>\n<p>Cloud IDE 是不是一个伪命题</p>\n<p>2023 中国技术成熟度评估曲线发布，六大发展趋势将影响软件研发行业</p>\n<h3>特别专题｜ ChatGPT 内幕故事</h3>\n<p>全球爆红的 ChatGPT 是如何诞生的？（上）</p>\n<p>全球爆红的 ChatGPT 是如何诞生的？（中）</p>\n<p>全球爆红的 ChatGPT 是如何诞生的？（下）</p>",
+    "publish_time": "2023-02-08 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
