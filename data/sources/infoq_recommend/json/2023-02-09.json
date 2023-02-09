@@ -20,5 +20,27 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "谷歌版ChatGPT首秀“翻车”，公司市值蒸发7000多亿元",
+    "url": "https://www.infoq.cn/article/PX7hUhtJmshxACEaYYgE",
+    "summary": "<p>本周一，谷歌宣布其人工智能聊天机器人 Bard&nbsp;将“在未来几周内更广泛地向公众开放”。作为<a href=\"https://www.infoq.cn/article/ZWixRo76hFsOw38tRHNF\">OpenAI </a>\"ChatGPT的竞争对手，Bard的一举一动都备受关注。</p><p>&nbsp;</p><p>但让谷歌尴尬的是，该机器人的首次出场并不顺利，专家指出 Bard 在其Demo首秀中犯了一个事实错误。</p><p>&nbsp;</p><p>谷歌分享的一张GIF显示，在回答问题“关于詹姆斯韦伯太空望远镜（JWST）有哪些新发现，我可以告诉我 9 岁孩子哪些内容？”时，<a href=\"https://www.infoq.cn/article/z30mE0bxrvItO9Mm52Nw\">Bard </a>\"提供了三个要点，其中一个指出该望远镜“拍摄了我们太阳系外行星的第一张照片。”</p><p>&nbsp;</p><p>然而，许多天文学家在<a href=\"https://www.infoq.cn/article/9jYdCOGBkoioO6zm1fVG\"> Twitter </a>\"上指出这是不正确的，据NASA网站上所述，第一张系外行星图像是在 2004 年拍摄的。</p><p>&nbsp;</p><p>天体物理学家 Grant Tremblay 在 Twitter 上写道：“我相信Bard会令人印象深刻，但郑重声明：JWST 并没有拍下‘我们太阳系外行星的第一张图片’” 。</p><p>&nbsp;</p><p>加州大学圣克鲁兹分校天文台主任 Bruce Macintosh 也指出了这个错误。“作为一个在 JWST 发射前 14 年拍摄系外行星的人，感觉你应该找到一个更好的例子。”</p><p>&nbsp;</p><p><img src=\"https://static001.geekbang.org/infoq/a9/a964f4761be7267dcf4beee2fc855d5c.png\" /></p><p></p><p>在后续推文中，Tremblay 补充道：“我非常喜欢并感谢地球上最强大的公司之一正在使用 JWST 搜索来宣传他们的 LLM。这非常好！但是 <a href=\"https://www.infoq.cn/article/FRcz5vjOvl3bM2d57opX\">ChatGPT</a>\"等大模型虽然令人印象深刻，但经常犯错却盲目自信。未来，如果能看到LLM 进行自我错误检查将会很有趣。”</p><p>&nbsp;</p><p>正如 Tremblay 所指出的，ChatGPT 和 Bard 等<a href=\"https://www.infoq.cn/article/3ykO49FEVYiGOTpLq3lC\"> AI 聊天机器人</a>\"的一个主要问题是它们倾向于自信地将不正确的信息陈述为事实。这些系统经常“产生幻觉”——即编造信息——因为它们本质上是自动完成系统。</p><p>&nbsp;</p><p>他们不是查询已证实事实的数据库来回答问题，而是接受大量文本语料库的训练并分析模式以确定任何给定句子中的下一个单词。换句话说，它们是概率性的，而不是确定性的——这一特征导致一位著名的 AI 教授将它们称为“废话生成器”。</p><p>&nbsp;</p><p>当然，互联网上已经充斥着虚假和误导性信息，但微软和谷歌希望将这些工具用作搜索引擎，可能会使问题变得更加复杂。</p><p>&nbsp;</p><p>也正是由于Bard在首秀上的失误表现，导致其母公司Alphabet股价暴跌8%，市值缩水7000多亿元。</p><p>&nbsp;</p><p>参考链接：</p><p><a href=\"https://www.theverge.com/2023/2/8/23590864/google-ai-chatbot-bard-mistake-error-exoplanet-demo\">https://www.theverge.com/2023/2/8/23590864/google-ai-chatbot-bard-mistake-error-exoplanet-demo</a>\"</p>",
+    "publish_time": "2023-02-09 10:43:16",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "用户无法正常发推文，马斯克：暂停新功能开发， API 免费访问延长四天",
+    "url": "https://www.infoq.cn/article/A1iUa4p4FZgz4giXhiMQ",
+    "summary": "<p>近日，推特全球用户再次遇到了一个持续了约 90 分钟的故障，他们无法正常发送推文，而是收到一条自动消息，说他们“超过了每天发送推文的限制”，甚至当天一次还没有发布过用户都收到了该消息。</p><p>&nbsp;</p><p>据悉，Twitter 的帮助中心表示，每天的推文数量上限为 2,400 条。中断不仅影响了新推文发布，还影响了推文的转发和回复。</p><p>&nbsp;</p><p>美国科技出版物 The Information<a href=\"https://twitter.com/erinkwoo/status/1623460140036026369\">报道称</a>\"，马斯克告诉推特员工暂停“新功能开发”，以在中断期间最大限度地提高平台的稳定性。</p><p>&nbsp;</p><p>推特的开发团队在<a href=\"https://twitter.com/TwitterDev\">出现故障后发推文称</a>\"，对其 API 的免费访问将再延长四天。但目前尚不清楚这次故障是否与 API 更改有关。 同时，开发团队还表示，在当地时间 2 月 13 日将弃用 Premium API。如果用户订阅了高级版，则可以申请企业版以继续使用这些端点。</p><p>&nbsp;</p><p>推特此前在2月3日表示，将开始对API访问收费。该公司表示，从2月9日开始，将提供一个付费的基础层面来访问其应用程序编程接口，即API，开发人员可以使用它来分析包括推文在内的一些内部数据，并用它来构建工具。Twitter未透露将收取多少费用，但表示将在下周分享更多细节。Twitter目前提供免费和付费版本的API，对最活跃的用户每月收费高达2,499美元。</p><p>&nbsp;</p><p>有<a href=\"https://www.reddit.com/r/technology/comments/10xgkmo/elon_musk_emails_twitter_staff_to_pause_new/\">网友分享了一组数据</a>\"，推特的订阅制度仅为其带来了 200 万美元的收入（自马斯克接任以来，他们的新订阅者不到 100,000 人），而同比损失的运营广告收入超过 4 亿美元。</p><p>&nbsp;</p>",
+    "publish_time": "2023-02-09 11:08:35",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
