@@ -583,5 +583,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "可以不穿但是不能没有",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%AF%E4%BB%A5%E4%B8%8D%E7%A9%BF%E4%BD%86%E6%98%AF%E4%B8%8D%E8%83%BD%E6%B2%A1%E6%9C%89%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "风再起时惊喜感",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%A3%8E%E5%86%8D%E8%B5%B7%E6%97%B6%E6%83%8A%E5%96%9C%E6%84%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "2只火凤凰为了求偶上演风骚走位",
+    "url": "https://s.weibo.com/weibo?q=%232%E5%8F%AA%E7%81%AB%E5%87%A4%E5%87%B0%E4%B8%BA%E4%BA%86%E6%B1%82%E5%81%B6%E4%B8%8A%E6%BC%94%E9%A3%8E%E9%AA%9A%E8%B5%B0%E4%BD%8D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
