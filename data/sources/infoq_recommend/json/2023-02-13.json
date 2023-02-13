@@ -1,0 +1,13 @@
+[
+  {
+    "title": "谷歌AI发布新的文本至图像Transformer模型Muse",
+    "url": "https://www.infoq.cn/article/Qm3cdLptAtho0RjMXHkW",
+    "summary": "<p><a href=\"https://arxiv.org/abs/2301.00704\">谷歌AI发布</a>\"了一篇关于<a href=\"https://muse-model.github.io/\">Muse</a>\"的研究论文，这是一种新的文本至图像生成技术，它基于掩码生成（Masked Generative）Transformer，可以生成与<a href=\"https://openai.com/dall-e-2/\">DALL-E 2</a>\"和<a href=\"https://imagen.research.google/\">Imagen</a>\"等竞争对手相媲美的高质量图片，但是速度要快得多。</p><p></p><p>Muse被训练为预测随机掩码图像的token，它会使用业已训练过的大型语言模型所生成的嵌入式文本。这项工作涉及在离散的token空间中进行掩码建模。Muse使用一个9亿个参数的模型，称为<a href=\"https://masked-generative-image-transformer.github.io/\">掩码生产transformer（masked generative transformer）</a>\"，以创造视觉效果，而不是采用<a href=\"https://en.wikipedia.org/wiki/Stable_Diffusion\">像素空间扩散</a>\"或<a href=\"https://en.wikipedia.org/wiki/Autoregressive_model\">自回归</a>\"模型。</p><p></p><p>谷歌声称，借助TPUv4芯片，可以在0.5秒内创建一个256*256的图像，而使用Imagen则需要9.1秒，根据谷歌的说法，Imagen使用的扩散模型提供了“前所未有的逼真程度”和“深度的语言理解”。<a href=\"https://en.wikipedia.org/wiki/Tensor_Processing_Unit\">TPU</a>\"，即张量处理单元（Tensor Processing Unit），是谷歌开发的定制芯片，专门用作AI的加速器。</p><p></p><p>根据研究，谷歌AI已经训练了一系列不同规模的Muse模型，参数从6.32亿到30亿不等，研究发现，预先训练好的大型语言模型，对于生成逼真的高质量图像至关重要。</p><p></p><p>Muse的性能也超过了最先进的自回归模型<a href=\"https://parti.research.google/\">Parti</a>\"，因为它使用了并行解码，在推理时间上比Imagen-3B或Parti-3B模型快10倍以上，根据使用同等硬件的测试，比&nbsp;<a href=\"https://stablediffusionweb.com/\">Stable Diffusion</a>\"&nbsp;v1.4快3倍。</p><p></p><p>Muse创建的视觉效果与输入中的各种语义成分相对应，如名词、动词和形容词。此外，它还展示了视觉风格和多对象特性的知识，如合成性（compositionality）和基数（cardinality）。</p><p></p><p>近年来，由于新的训练方法和改进的深度学习架构，<a href=\"https://en.wikipedia.org/wiki/Generative_model\">图像生成模型</a>\"有了长足的进步。这些模型有能力生成非常详尽和逼真的图像，在广泛的行业和应用中，它们正在成为越来越强大的工具。</p><p></p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2023/01/google-muse-text-to-image/\">Google AI Unveils Muse, a New Text-To-Image Transformer Model</a>\"</p><p></p><p>相关阅读：</p><p><a href=\"https://www.infoq.cn/article/fQLOmK09dZIErQOQrDwD\">OpenAI 宣布 DALL·E 开放测试版：面向 100 万用户，有文字就能生成图片</a>\"</p><p><a href=\"https://www.infoq.cn/article/QhKzahCQ9bdTgAUobYUg\">谷歌最新 Imagen AI 在文本至图像生成方面优于&nbsp;DALL-E</a>\"</p>",
+    "publish_time": "2023-02-13 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
