@@ -1509,5 +1509,80 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "什么迹象表明你该换工作了？",
+    "url": "https://www.zhihu.com/question/583554905",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "DuckDuckGPT brings ChatGPT to search results",
+    "url": "https://github.com/adamlui/userscripts/tree/master/chatgpt/duckduckgpt",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34781418\">Comments</a>",
+    "publish_time": "2023-02-14 06:05:17",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Fast Debian package builds using sbuild, mmdebstrap and apt-cacher-ng",
+    "url": "https://stephan.lachnit.xyz/posts/2023-02-08-debian-sbuild-mmdebstrap-apt-cacher-ng/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34778921\">Comments</a>",
+    "publish_time": "2023-02-14 03:29:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Coffee won’t give you extra energy, just borrow a bit that you’ll pay for later",
+    "url": "https://theconversation.com/nope-coffee-wont-give-you-extra-energy-itll-just-borrow-a-bit-that-youll-pay-for-later-197897",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34781417\">Comments</a>",
+    "publish_time": "2023-02-14 06:05:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Retaliation: Pranking My Roommate with Targeted Facebook Ads",
+    "url": "http://ghostinfluence.com/the-ultimate-retaliation-pranking-my-roommate-with-targeted-facebook-ads/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34780696\">Comments</a>",
+    "publish_time": "2023-02-14 05:19:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "GPU Video acceleration in the Windows Subsystem for Linux now available",
+    "url": "https://devblogs.microsoft.com/commandline/d3d12-gpu-video-acceleration-in-the-windows-subsystem-for-linux-now-available/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34781163\">Comments</a>",
+    "publish_time": "2023-02-14 05:48:13",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Whois server for .SH TLD unresponsive, redirects to IIS page",
+    "url": "https://whois.nic.sh/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34781525\">Comments</a>",
+    "publish_time": "2023-02-14 06:12:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
