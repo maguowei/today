@@ -1922,5 +1922,550 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "诺如病毒",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%AF%BA%E5%A6%82%E7%97%85%E6%AF%92%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "女性面试被HR反复盘问性别歧视肉眼可见",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%80%A7%E9%9D%A2%E8%AF%95%E8%A2%ABHR%E5%8F%8D%E5%A4%8D%E7%9B%98%E9%97%AE%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86%E8%82%89%E7%9C%BC%E5%8F%AF%E8%A7%81%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "为什么年轻人都存不到钱",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%83%BD%E5%AD%98%E4%B8%8D%E5%88%B0%E9%92%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "美国脱轨列车上有毒化学品就地排放燃烧",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%84%B1%E8%BD%A8%E5%88%97%E8%BD%A6%E4%B8%8A%E6%9C%89%E6%AF%92%E5%8C%96%E5%AD%A6%E5%93%81%E5%B0%B1%E5%9C%B0%E6%8E%92%E6%94%BE%E7%87%83%E7%83%A7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "东极岛海誓山盟石碑碎了",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%9E%81%E5%B2%9B%E6%B5%B7%E8%AA%93%E5%B1%B1%E7%9B%9F%E7%9F%B3%E7%A2%91%E7%A2%8E%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "小学生满分作文跑题老师含泪打5分",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%BB%A1%E5%88%86%E4%BD%9C%E6%96%87%E8%B7%91%E9%A2%98%E8%80%81%E5%B8%88%E5%90%AB%E6%B3%AA%E6%89%935%E5%88%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "调降存量房贷利率呼声高涨",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B0%83%E9%99%8D%E5%AD%98%E9%87%8F%E6%88%BF%E8%B4%B7%E5%88%A9%E7%8E%87%E5%91%BC%E5%A3%B0%E9%AB%98%E6%B6%A8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "苹果iOS16.3.1正式版发布",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9CiOS16.3.1%E6%AD%A3%E5%BC%8F%E7%89%88%E5%8F%91%E5%B8%83%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "女性求职被问是否愿意3年不生娃",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%80%A7%E6%B1%82%E8%81%8C%E8%A2%AB%E9%97%AE%E6%98%AF%E5%90%A6%E6%84%BF%E6%84%8F3%E5%B9%B4%E4%B8%8D%E7%94%9F%E5%A8%83%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "情人节早晨北京现粉红色朝霞",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BA%BA%E8%8A%82%E6%97%A9%E6%99%A8%E5%8C%97%E4%BA%AC%E7%8E%B0%E7%B2%89%E7%BA%A2%E8%89%B2%E6%9C%9D%E9%9C%9E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "半莲池 罗云熙杨超越",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8A%E8%8E%B2%E6%B1%A0+%E7%BD%97%E4%BA%91%E7%86%99%E6%9D%A8%E8%B6%85%E8%B6%8A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "今天拍到爱情了",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E6%8B%8D%E5%88%B0%E7%88%B1%E6%83%85%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "人民日报社论",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E7%A4%BE%E8%AE%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "多省明确试点现房销售",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E7%9C%81%E6%98%8E%E7%A1%AE%E8%AF%95%E7%82%B9%E7%8E%B0%E6%88%BF%E9%94%80%E5%94%AE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "俄亥俄州氯乙烯泄漏当地有动物死亡",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E4%BA%A5%E4%BF%84%E5%B7%9E%E6%B0%AF%E4%B9%99%E7%83%AF%E6%B3%84%E6%BC%8F%E5%BD%93%E5%9C%B0%E6%9C%89%E5%8A%A8%E7%89%A9%E6%AD%BB%E4%BA%A1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "张元英LoveDive舞台",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%85%83%E8%8B%B1LoveDive%E8%88%9E%E5%8F%B0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "杜兰特太阳首次训练",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%85%B0%E7%89%B9%E5%A4%AA%E9%98%B3%E9%A6%96%E6%AC%A1%E8%AE%AD%E7%BB%83%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "美俄亥俄州列车脱轨有毒气体扩散",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BF%84%E4%BA%A5%E4%BF%84%E5%B7%9E%E5%88%97%E8%BD%A6%E8%84%B1%E8%BD%A8%E6%9C%89%E6%AF%92%E6%B0%94%E4%BD%93%E6%89%A9%E6%95%A3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "情人节怎么过最柠檬",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BA%BA%E8%8A%82%E6%80%8E%E4%B9%88%E8%BF%87%E6%9C%80%E6%9F%A0%E6%AA%AC%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "像徐江会做的事",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%83%8F%E5%BE%90%E6%B1%9F%E4%BC%9A%E5%81%9A%E7%9A%84%E4%BA%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "美俄亥俄州大量动物突然死亡",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BF%84%E4%BA%A5%E4%BF%84%E5%B7%9E%E5%A4%A7%E9%87%8F%E5%8A%A8%E7%89%A9%E7%AA%81%E7%84%B6%E6%AD%BB%E4%BA%A1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "公司回应基金经理称「上海 1000 万资产是穷人」，称系「断章取义」，如何看待这一事件？",
+    "url": "https://www.zhihu.com/question/583753136",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么内存组双通道要求大小，频率一样？",
+    "url": "https://www.zhihu.com/question/583505168",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "哪些游戏的新手引导做得好？",
+    "url": "https://www.zhihu.com/question/30709011",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "建筑设计以后是否有可能引进AI，最多能够相对于现在改变多少?",
+    "url": "https://www.zhihu.com/question/554447621",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么宇宙恰好是三维的，不是二维也不是四维？",
+    "url": "https://www.zhihu.com/question/582970615",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "26 层的世界单体面积最大养猪大楼引热议，年出栏 120 万头，哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/583727273",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "当 AIGC 遇到「爱」，AI 与人类之间会产生感情吗？ChatGPT 能解决人类的情感「问题」吗？",
+    "url": "https://www.zhihu.com/question/583812777",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "网传扶风县多名拆迁人员持械与村民发生冲突，官方通报「内容与事实不符」，如何看待此事？",
+    "url": "https://www.zhihu.com/question/583550723",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "《斗破苍穹》中在有凌老的保护下，萧炎是怎么给熏儿温养经脉的?",
+    "url": "https://www.zhihu.com/question/580449835",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "中金：热泵出口短期回落，长期市场空间广阔",
+    "url": "https://www.36kr.com/newsflashes/2130931844082949",
+    "summary": "中金公司在研报中表示，产业在线数据显示，2022年国内空气源热泵出口额64亿元，同比+48.7%，2019-2022年CAGR 63%，出口市场逐步扩大，但2022年11-12月热泵出口增速短期出现回落，出货节奏放缓；在全球碳中和目标下，高效节能的热泵产品长期市场广阔，目前渗透率仍有较大提升空间。我们看好以欧洲需求为代表的全球热泵市场的长期空间。（证券时报）",
+    "publish_time": "2023-02-14 08:15:58",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "2022年中国钢铁企业利润总额同比下降超七成",
+    "url": "https://www.36kr.com/newsflashes/2130936247348482",
+    "summary": "中国钢铁工业协会最新数据显示，2022年，重点统计会员钢铁企业实现营业收入65875亿元，同比下降6.35%；实现利润总额982亿元，同比下降72.27%。中国钢铁工业协会党委书记、执行会长何文波表示，2022年，中国钢材价格指数年度平均值为122.78点，同比下降13.55%，总体震荡下行，年末出现企稳回升态势。受全球通胀压力上升、国际大宗商品价格波动加剧影响，钢铁生产用燃料价格快速上涨。（中新网）",
+    "publish_time": "2023-02-14 08:20:26",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "中国连锁经营协会：春节商超调研结果出炉，实体商超消费市场回暖",
+    "url": "https://www.36kr.com/newsflashes/2130941536038144",
+    "summary": "36氪获悉，中国连锁经营协会（CCFA）发布2023年春节超市品类销售数据调查快报称，2023兔年春节假期消费市场回暖迹象明显，以商超为代表的实体消费市场被重新激活。CCFA采购专业委员会对全国54家商超企业开展了2023年春节实际销售数据调查工作。调查显示，样本企业春节实际销售情况整体好于去年。今年春节销售高峰较往年提前两天，春节期间销售取得大幅增长。",
+    "publish_time": "2023-02-14 08:25:49",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "机构：ChatGPT有望拉动GPU等硬件千亿元投资",
+    "url": "https://www.36kr.com/newsflashes/2130946256415748",
+    "summary": "招商证券报告称，ChatGPT带动超算算力需求3年或将提升超过10倍。ChatGPT未来3年或将拉动千亿级ICT硬件投资需求。（财联社）",
+    "publish_time": "2023-02-14 08:30:37",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "宁德时代回应与福特将在美国建电池工厂：属实",
+    "url": "https://www.36kr.com/newsflashes/2130952171924488",
+    "summary": "有消息称，美国福特汽车和宁德时代计划在美国密歌根州共同建设动力电池工厂，投资将数以十亿美元计。从宁德时代相关负责人处获悉，“宁德时代已接受美国福特公司的合作邀约，将为其在密歇根州的电池工厂提供筹建和运营服务，并就电池专利技术进行许可。”（中证网）",
+    "publish_time": "2023-02-14 08:36:38",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "中文在线：Chatgpt等AI模型均需要海量数据支撑",
+    "url": "https://www.36kr.com/newsflashes/2130953519295744",
+    "summary": "36氪获悉，中文在线在互动平台表示，在人工智能时代，数据是组成AIGC的核心生产要素，以Chatgpt为代表的AI模型均需要海量数据支撑才可完成训练，公司可为AI模型提供核心生产要素。公司已与股东方腾讯系、百度系在元宇宙业务、数字内容、改编权授权及影视剧、动画制作等方面进行合作。",
+    "publish_time": "2023-02-14 08:38:01",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "腾讯游戏：未成年人保护升级4.0阶段",
+    "url": "https://www.36kr.com/newsflashes/2130958484777984",
+    "summary": "“2022年中国游戏产业年会未成年人守护分论坛暨提升未成年人网络素养研讨会”日前在广州召开。会上，腾讯游戏宣布升级“未成年人保护4.0”阶段，在技术严管同时，超越“限制主义”，通过“智体双百”等方式探索落地更具建设性的解决方案。（中青网）",
+    "publish_time": "2023-02-14 08:43:04",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "2022年我国充电基础设施数量达到520万台，同比增长近100%",
+    "url": "https://www.36kr.com/newsflashes/2130961303563268",
+    "summary": "据国家能源局新闻发言人梁昌新介绍，2022年我国充电基础设施数量达到520万台，同比增长近100%。其中，公共充电基础设施增长约65万台，累计数量达到180万台；私人充电基础设施增长约190万台，累计数量超过340万台。梁昌新称，我国充电市场呈现出多元化发展态势，目前各类充电桩运营企业3000余家。电动汽车充电量持续增长，2022年全年充电量超过400亿千瓦时，同比增长85%以上。（上证报）",
+    "publish_time": "2023-02-14 08:45:56",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "周黑鸭：2022年净利润不少于人民币2000万元，同比降约90%",
+    "url": "https://www.36kr.com/newsflashes/2130965186948101",
+    "summary": "36氪获悉，周黑鸭在港交所发布公告称，预计2022年净利润不少于人民币2000万元，而2021年同期净利润为人民币3.424亿元，同比降约90%；报告期间总收入预计同比下降20%左右，而2021年同期总收入为人民币28.70亿元。",
+    "publish_time": "2023-02-14 08:49:53",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "天风证券：AIGC迎发展快车道，关注相关场景应用拓展",
+    "url": "https://www.36kr.com/newsflashes/2130967518473478",
+    "summary": "天风证券研报认为，1、AIGC加速发展，根据国外商业咨询机构预测，若考虑下一代互联网对内容需求的迅速提升，2030年AIGC市场规模将达到1100亿美元；2、数字内容旺盛需求下，关注相关场景应用拓展。3、AIGC领域投资机会建议关注：具备底层技术沉淀能力的昆仑万维、神州泰岳；拥有应用场景延伸拓展的中文在线、视觉中国、浙文互联、蓝色光标。（证券时报）",
+    "publish_time": "2023-02-14 08:52:15",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "华泰证券：今年种业及生猪链的盈利高增趋势有望持续",
+    "url": "https://www.36kr.com/newsflashes/2130968357219330",
+    "summary": "华泰证券研报指出，2022年种子板块及生猪产业链板块（生猪养殖、动保和饲料）盈利逐步改善，其中22Q4生猪养殖板块同比扭亏、动保及饲料板块受益于养殖盈利的持续回暖而实现了盈利增速的抬升、种子板块扣除个例后整体盈利高增。预计中期猪价或维持强势，今年种业及生猪链的盈利高增趋势有望持续。（证券时报）",
+    "publish_time": "2023-02-14 08:53:06",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "两市融资余额增加62.73亿元",
+    "url": "https://www.36kr.com/newsflashes/2130969703492866",
+    "summary": "截至2月13日，上交所融资余额报7751.16亿元，较前一交易日增加29.39亿元；深交所融资余额报7017.89亿元，较前一交易日增加33.34亿元；两市合计14769.05亿元，较前一交易日增加62.73亿元。（第一财经）",
+    "publish_time": "2023-02-14 08:54:28",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "10家上市公司股票遭重要股东减持，国芯科技减持金额最高",
+    "url": "https://www.36kr.com/newsflashes/2130971898080261",
+    "summary": "Wind数据显示，按变动截止日期为基准，2月13日，1家上市公司股票获重要股东增持，莱尔科技重要股东共计增持4.46万股，增持金额约为100.86万元。10股遭重要股东减持，国芯科技遭重要股东减持240万股，减持金额最高，为1.3亿元。（第一财经）",
+    "publish_time": "2023-02-14 08:56:42",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "​华泰证券：关注ChatGPT四大应用主线",
+    "url": "https://www.36kr.com/newsflashes/2130973004803078",
+    "summary": "华泰证券研报指出，相比过往的AI应用，我们认为ChatGPT的应用呈现出两大新特点：1\n生产性应用+生成型AI的突破；2、服务型AI应用升级。在AI应用实际落地的过程中，需要算力、算法、数据、场景、应用的共同配合，我们认为ChatGPT的出现本质是算法环节的突破，有望进一步带动AI产业景气周期来临。ChatGPT的应用有望沿着独立工具、嵌入生产工具、融合服务应用、垂直领域赋能四大主线持续推进。（证券时报）",
+    "publish_time": "2023-02-14 08:57:50",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "中信建投：深远海发展将为海上风电装备制造带来新的发展机遇",
+    "url": "https://www.36kr.com/newsflashes/2130974357482755",
+    "summary": "中信建投研报指出，据国家能源局委托水电总院牵头开展的全国深远海海上风电规划，预计深远海海上风电总容量约达290GW。我们认为十五五期间深远海风市场空间将进一步打开，有望开发150-200GW，海上风电有十倍的广阔成长空间。风电向深远海发展是必然产业趋势，我们认为，深远海发展将为海上风电装备制造带来新的发展机遇。（证券时报）",
+    "publish_time": "2023-02-14 08:59:12",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "中信证券：预计2025年国内电动重卡的销量可达19万辆",
+    "url": "https://www.36kr.com/newsflashes/2130980301581316",
+    "summary": "中信证券研报指出，国内电动重卡行业方兴未艾，2022年累计渗透率约5%。电动重卡有着低排放、环保、可大幅降低使用成本等优势，重卡新能源化是双碳战略及环保政策下的必然趋势。在特斯拉作为行业龙头的标杆效应下，以及三电新技术的进一步发展叠加充换电基础设施的进一步完善，电动重卡加速渗透的奇点已至，在未来3年有望快速提升。我们预计2025年电动重卡的销量可达19万辆，渗透率约16%。（财联社）",
+    "publish_time": "2023-02-14 09:05:15",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "中信证券：行业底部明确，看好消费电子拐点向上",
+    "url": "https://www.36kr.com/newsflashes/2130984247110920",
+    "summary": "中信证券研报指出，消费电子目前景气底部明确，需求端看好2023~24年“L”型回暖，供给端库存正逐步去化，且部分公司22Q4计提减值释放风险，供需两侧有望共振推动行业拐点向上，看好复苏预期下的行业性投资机会，建议布局整条产业链。（证券时报）",
+    "publish_time": "2023-02-14 09:09:16",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "恒指开盘涨0.34%，汽车、半导体板块领涨",
+    "url": "https://www.36kr.com/newsflashes/2131000499776777",
+    "summary": "36氪获悉，恒指开盘涨0.34%，恒生科技指数涨0.48%；汽车、半导体板块领涨，知乎涨4.54%，理想汽车涨3.66%。",
+    "publish_time": "2023-02-14 09:25:48",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "A股三大指数集体高开",
+    "url": "https://www.36kr.com/newsflashes/2131003173268744",
+    "summary": "中航电测打开一字涨停，集合竞价高开5.45%；计算机、电力设备、农业领涨，餐饮旅游、工程机械跌幅居前；沪指高开0.15%，深成指高开0.24%，创业板指高开0.5%。",
+    "publish_time": "2023-02-14 09:28:31",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "离开快手，宿华最新创业或是芯片？快手：严重不实",
+    "url": "https://www.36kr.com/newsflashes/2131003552443648",
+    "summary": "2月13日，某自媒体发文称“离开快手500天，宿华最新创业或是芯片”。对此，快手方面独家回应36氪称，严重不实。公开信息显示，宿华为快手科技董事长，持有快手科技总股本9.87%的股份，拥有38.08%的投票权，为公司控股股东。",
+    "publish_time": "2023-02-14 09:28:54",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "pix2pix-zero: Zero-Shot Image-to-Image Translation",
+    "url": "https://pix2pixzero.github.io/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34782287\">Comments</a>",
+    "publish_time": "2023-02-14 07:08:13",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "U.S. Copyright Office Tells Judge That AI Artwork Isn’t Protectable",
+    "url": "https://petapixel.com/2023/02/09/u-s-copyright-office-tells-judge-that-ai-artwork-isnt-protectable/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34783366\">Comments</a>",
+    "publish_time": "2023-02-14 08:35:39",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Google’s Fully Homomorphic Encryption Compiler – A Primer",
+    "url": "https://jeremykun.com/2023/02/13/googles-fully-homomorphic-encryption-compiler-a-primer/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34783447\">Comments</a>",
+    "publish_time": "2023-02-14 08:40:46",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Bigscreen Beyond – The Smallest VR Headset",
+    "url": "https://www.bigscreenvr.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34782148\">Comments</a>",
+    "publish_time": "2023-02-14 06:56:46",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The retaliation: Pranking my roommate with targeted Facebook ads (2014)",
+    "url": "http://ghostinfluence.com/the-ultimate-retaliation-pranking-my-roommate-with-targeted-facebook-ads/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34780696\">Comments</a>",
+    "publish_time": "2023-02-14 05:19:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
