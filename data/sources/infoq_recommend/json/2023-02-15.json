@@ -1,0 +1,13 @@
+[
+  {
+    "title": "改变游戏规则，微软推出TTS语言模型VALL-E",
+    "url": "https://www.infoq.cn/article/YSD6qEoeH0TQZE2EtNGy",
+    "summary": "<p>微软推出了<a href=\"https://valle-demo.github.io/\">VALL-E</a>\"，这是一种用于<a href=\"https://en.wikipedia.org/wiki/Speech_synthesis\">文本到语音合成</a>\"（TTS）的新型语言模型方法，它使用音频编解码器代码作为中间表示，只需听三秒钟的音频录音，即可复制任何人的声音。</p><p>&nbsp;</p><p>VALL-E是一种神经编解码器语言模型，其中AI对语音进行标记，并使用其算法利用这些标记来构建听起来像演讲者的波形，包括保持演讲者的音色和情绪基调等。</p><p>&nbsp;</p><p>根据<a href=\"https://arxiv.org/abs/2301.02111\">该研究论文</a>\"，VALL-E只需作为声音刺激的间接演讲者的三秒注册录音，就可以产生高质量的个性化语音。这样做不需要额外的结构工程、预先设计的声学特征或微调。它支持上下文学习和基于提示的<a href=\"https://en.wikipedia.org/wiki/Zero-shot_learning\">零样品</a>\"TTS方法。</p><p>&nbsp;</p><p>VALL-E提供了AI模型的音频演示。样例之一的“Speaker Prompt”是VALL-E必须复制的三秒钟听觉提示。为了便于比较，“Ground Truth”是同一位演讲者使用特定短语（有点像实验中的“对照组”）录制的摘录。“Baseline”样例代表了一个典型的文本到语音合成的示例，“VALL-E”样例代表了VALL-E模型的输出。</p><p>&nbsp;</p><p>根据评估数据，与最先进的零样本TTS系统相比，VALL-E在<a href=\"https://paperswithcode.com/dataset/librispeech\">LibriSpeech</a>\"和<a href=\"https://paperswithcode.com/dataset/vctk\">VCTK</a>\"上的表现要好得多。在LibriSpeech和VCTK上，VALL-E甚至产生了最尖端的零样本TTS结果。</p><p>&nbsp;</p><p>近年来，由于神经网络和端到端建模的发展，语音合成领域取得了显著的进展。目前，声码器和声学模型通常用于级联的文本到语音（TTS）系统，其中<a href=\"https://en.wikipedia.org/wiki/Mel-frequency_cepstrum\">mel谱图</a>\"作为中间表示。来自单个演讲者或一组演讲者的高质量语音可以由复杂的TTS系统合成。</p><p>&nbsp;</p><p>TTS技术已经被集成到广泛的应用程序和设备中，如亚马逊的Alexa和谷歌助手等虚拟助理、导航应用程序和电子学习平台等。它还被用于娱乐、广告和客户服务等行业，以创造更具吸引力和个性化的体验。</p><p>&nbsp;</p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2023/01/microsoft-text-to-speech-valle/\">https://www.infoq.com/news/2023/01/microsoft-text-to-speech-valle/</a>\"</p><p></p><p>相关阅读：</p><p><a href=\"https://www.infoq.cn/article/oE48Dili0Oa9NSd0yY4W\">微软 Azure Neural TTS 新增对 9 个“小语种”语言及口音支持</a>\"</p><p><a href=\"https://www.infoq.cn/article/TVY7hNIN8BjvLm6G0mYU\">微软联合浙江大学提出全新 TTS 模型 FastSpeech，语音生成速度提高 38 倍</a>\"</p>",
+    "publish_time": "2023-02-15 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
