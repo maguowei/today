@@ -1,0 +1,13 @@
+[
+  {
+    "title": "谷歌改进gVisor提高沙箱容器文件系统性能",
+    "url": "https://www.infoq.cn/article/NIqyIMorP3VMhsoFLMFT",
+    "summary": "<p>谷歌<a href=\"https://cloud.google.com/blog/products/containers-kubernetes/gvisor-file-system-improvements-for-gke-and-serverless/\">改进</a>\"了<a href=\"https://github.com/google/gvisor\">gVisor</a>\"中的文件系统实现，gVisor是一个开源隔离层，用于面向商业容器的产品，如App Engine、Cloud Run和Cloud Functions。根据谷歌工程师Ayush Ranjan和Fabricio Voznika的说法，新的gVisor文件系统被称为VFS2，可以将文件密集型工作负载的性能提高大约50%-75%。</p><p>&nbsp;</p><p>gVisor的主要目标是在容器和底层内核之间提供一个隔离层，该隔离层由运行在同一节点上的所有容器共享。为了防止恶意或易受攻击的容器危及整个节点的安全，gVisor实现了Linux系统表层的很大一部分，包括一个名为 runsc 的符合开放容器倡议（OCI）的兼容运行时，该运行时在应用程序和主机内核之间提供隔离边界。</p><p>&nbsp;</p><p></p><blockquote>由于gVisor内核不可信任，因此它不能直接访问文件系统。文件系统操作由代理（称为Gofer）来代理操作，该代理与可能的恶意工作负载相隔离。像open、create和stat这样的操作被转发到代理，经过审核，然后再由代理执行。</blockquote><p></p><p>&nbsp;</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/ae/ae5544961b4795e7d056166753d8038a.png\" /></p><p></p><p>&nbsp;</p><p>谷歌工程师发现，gVisor Gofer文件系统通过将路径解析委派给底层文件系统（每个路径组件使用一个RPC调用）来处理路径解析的方式对性能有害。对于频繁执行文件操作的工作负载，例如构建任务或运行带有大量导入的Python和NodeJS程序时，情况尤其如此。</p><p>&nbsp;</p><p></p><blockquote>要解决这个问题，需要启用gVisor的Sentry，使其能够将路径解析直接委托给文件系统。......例如，在VFS1 stat（/foo/bar/baz）中，至少生成三个到gofer（foo，bar，baz）的RPC，而VFS2仅生成一个。</blockquote><p></p><p>&nbsp;</p><p>此外，谷歌还借此机会创建了一个用于在gVisor沙箱和Gofer之间进行通信的新协议。该新协议名为<a href=\"https://github.com/google/gvisor/tree/master/pkg/lisafs\">LISAFS</a>\"（(Linux Sandbox File system protoco，Linux沙箱文件系统协议），它既减少了RPC调用的数量，也减少了它的内存使用量，改善了多路径组件的遍历，并加快了文件I/O。</p><p>&nbsp;</p><p>Ranjan和Voznika表示，由于这些变化， 根据许多不同的度量指标，runsc引入的开销减少了50%-75%。</p><p>&nbsp;</p><p>与在根文件系统或内存文件系统中托管源代码相比，使用绑定装载时的改进最大。这些结果是通过运行官方bazel基准测试构建gRPC和Abeil而获得的。</p><p>&nbsp;</p><p>基准测试的结果基本上得到了实验数据的证实，实验数据表明，整个平台上的Google App Engine冷启动时间提高了25%以上，这一数据包括了所有类型的工作负载，而不仅仅是文件系统密集型的工作负载。</p><p>&nbsp;</p><p>&nbsp;</p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2023/01/gvisor-file-system-improvements/\">https://www.infoq.com/news/2023/01/gvisor-file-system-improvements/</a>\"</p><p></p><p>相关阅读：</p><p><a href=\"https://www.infoq.cn/article/2011/09/app-engine-price-hike\">Google App Engine 涨价，开发者深受打击</a>\"</p><p><a href=\"https://www.infoq.cn/articles/2015/07/JavaScript-GitHub\">Google 发布 App Engine 的 Go 语言通用版</a>\"</p>",
+    "publish_time": "2023-02-16 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
