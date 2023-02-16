@@ -1228,5 +1228,87 @@
       "desc": "Epic Free Games",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/epic.png"
     }
+  },
+  {
+    "title": "2023LCK春季赛",
+    "url": "https://s.weibo.com/weibo?q=%232023LCK%E6%98%A5%E5%AD%A3%E8%B5%9B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如果让你在 iPad 后面激光镌刻一行文字，你会写些什么？",
+    "url": "https://www.zhihu.com/question/22300509",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价电影《蚁人与黄蜂女：量子狂潮》？",
+    "url": "https://www.zhihu.com/question/578258358",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Why 10BASE-T1S Is the Missing Ethernet Link for Automotive Communications",
+    "url": "https://www.analog.com/en/thought-leadership/why-10base-t1s-is-the-missing-ethernet-link.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34821818\">Comments</a>",
+    "publish_time": "2023-02-17 01:23:08",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The new Bing will happily give you citations for a pile of nonsense",
+    "url": "https://twitter.com/arbuge/status/1626283571294896128",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34823002\">Comments</a>",
+    "publish_time": "2023-02-17 02:19:16",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Web Push for Web Apps on iOS and iPadOS",
+    "url": "https://webkit.org/blog/13878/web-push-for-web-apps-on-ios-and-ipados/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34823402\">Comments</a>",
+    "publish_time": "2023-02-17 02:36:41",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Tesla recalls 362,758 vehicles, says full self-driving beta may cause crashes",
+    "url": "https://www.cnbc.com/2023/02/16/tesla-recalls-362758-vehicles-says-full-self-driving-beta-software-may-cause-crashes.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34822414\">Comments</a>",
+    "publish_time": "2023-02-17 01:52:54",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Moving my PC into my rack in a 2U case",
+    "url": "https://www.jeffgeerling.com/blog/2023/moving-my-pc-my-rack-2u-case",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34822455\">Comments</a>",
+    "publish_time": "2023-02-17 01:54:24",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
