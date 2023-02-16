@@ -4671,5 +4671,469 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "石家庄",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%9F%B3%E5%AE%B6%E5%BA%84%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "中国伊朗联合声明",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BC%8A%E6%9C%97%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "石家庄机场确有延误和备降情况",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%9F%B3%E5%AE%B6%E5%BA%84%E6%9C%BA%E5%9C%BA%E7%A1%AE%E6%9C%89%E5%BB%B6%E8%AF%AF%E5%92%8C%E5%A4%87%E9%99%8D%E6%83%85%E5%86%B5%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "A股",
+    "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "俄罗斯",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "女子丽江60元买2串烧烤仅8只虫",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%BD%E6%B1%9F60%E5%85%83%E4%B9%B02%E4%B8%B2%E7%83%A7%E7%83%A4%E4%BB%858%E5%8F%AA%E8%99%AB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "北京多个地铁口有人扫码送大鹅",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%A4%9A%E4%B8%AA%E5%9C%B0%E9%93%81%E5%8F%A3%E6%9C%89%E4%BA%BA%E6%89%AB%E7%A0%81%E9%80%81%E5%A4%A7%E9%B9%85%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "MH370失踪事件纪录剧预告",
+    "url": "https://s.weibo.com/weibo?q=%23MH370%E5%A4%B1%E8%B8%AA%E4%BA%8B%E4%BB%B6%E7%BA%AA%E5%BD%95%E5%89%A7%E9%A2%84%E5%91%8A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "00后社恐女生选择当守墓人",
+    "url": "https://s.weibo.com/weibo?q=%2300%E5%90%8E%E7%A4%BE%E6%81%90%E5%A5%B3%E7%94%9F%E9%80%89%E6%8B%A9%E5%BD%93%E5%AE%88%E5%A2%93%E4%BA%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "石家庄机场客运航班起降已恢复正常",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%9F%B3%E5%AE%B6%E5%BA%84%E6%9C%BA%E5%9C%BA%E5%AE%A2%E8%BF%90%E8%88%AA%E7%8F%AD%E8%B5%B7%E9%99%8D%E5%B7%B2%E6%81%A2%E5%A4%8D%E6%AD%A3%E5%B8%B8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "股市",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%82%A1%E5%B8%82%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "当爱如火遇上EXO",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BD%93%E7%88%B1%E5%A6%82%E7%81%AB%E9%81%87%E4%B8%8AEXO%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "王鹤棣说白马帅是彩虹色",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%AF%B4%E7%99%BD%E9%A9%AC%E5%B8%85%E6%98%AF%E5%BD%A9%E8%99%B9%E8%89%B2%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "江苏中小学生首次使用碳中和文具",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E9%A6%96%E6%AC%A1%E4%BD%BF%E7%94%A8%E7%A2%B3%E4%B8%AD%E5%92%8C%E6%96%87%E5%85%B7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "联合国称无权调查北溪爆炸事件",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%B0%E6%97%A0%E6%9D%83%E8%B0%83%E6%9F%A5%E5%8C%97%E6%BA%AA%E7%88%86%E7%82%B8%E4%BA%8B%E4%BB%B6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "黄奕回应演丈母娘",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%A5%95%E5%9B%9E%E5%BA%94%E6%BC%94%E4%B8%88%E6%AF%8D%E5%A8%98%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "和疯驴子一起滑雪",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%92%8C%E7%96%AF%E9%A9%B4%E5%AD%90%E4%B8%80%E8%B5%B7%E6%BB%91%E9%9B%AA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "警方回应邢台男子背后飞踹拾荒老人",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E9%82%A2%E5%8F%B0%E7%94%B7%E5%AD%90%E8%83%8C%E5%90%8E%E9%A3%9E%E8%B8%B9%E6%8B%BE%E8%8D%92%E8%80%81%E4%BA%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "租房和买房你会选择哪个",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%A7%9F%E6%88%BF%E5%92%8C%E4%B9%B0%E6%88%BF%E4%BD%A0%E4%BC%9A%E9%80%89%E6%8B%A9%E5%93%AA%E4%B8%AA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "张若昀接魏晨的梗",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E6%8E%A5%E9%AD%8F%E6%99%A8%E7%9A%84%E6%A2%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "今日多个飞往石家庄的航班备降其他机场或返航，机场人员回应「确有临时空中管制」，还有哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/584392282",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "「Not even wrong」是什么意思？",
+    "url": "https://www.zhihu.com/question/341026031",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "俄乌冲突一周年之际，俄军宣布突破乌东两道防线逼退乌军，战况发生了哪些变化？为什么俄军最近攻势这么猛烈？",
+    "url": "https://www.zhihu.com/question/584373811",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "《狂飙》中老默到底有没有杀程程？程程还活着吗？",
+    "url": "https://www.zhihu.com/question/580579038",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何看待 DeepMind 缺席这场 GPT 盛宴？是否说明它将会成为这个时代的头号输家？",
+    "url": "https://www.zhihu.com/question/583900343",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "西电今年本科就业形势咋样？",
+    "url": "https://www.zhihu.com/question/41227605",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美国《华盛顿邮报》前执行编辑称新闻业应摒弃对「新闻客观性」的追求，如何看待其观点？",
+    "url": "https://www.zhihu.com/question/584153605",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "你最近在读什么书？能不能推荐一下?",
+    "url": "https://www.zhihu.com/question/578671032",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "考驾照在学校还是回家考更好？",
+    "url": "https://www.zhihu.com/question/584344270",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如果你中了500万，你最想干什么？",
+    "url": "https://www.zhihu.com/question/583305820",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么装修中要区分餐厅和客厅？",
+    "url": "https://www.zhihu.com/question/578256264",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "买房过程中，你捡过什么漏？",
+    "url": "https://www.zhihu.com/question/576926302",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "硅业分会：近期交付相对紧张，本周硅片价格持稳运行",
+    "url": "https://www.36kr.com/newsflashes/2134164746185990",
+    "summary": "36氪获悉，据中国有色金属工业协会硅业分会消息，本周硅片价格持稳运行。M10单晶硅片（182 mm /150μm）价格区间在6-6.22元/片，成交均价维持在6.22元/片，周环比持平；G12单晶硅片（210 mm/150μm）价格区间在8-8.2元/片，成交均价维持在8.2元/片，周环比持平。本周硅片价格持稳运行的主要原因是专业化企业近期交付相对紧张，订单执行统一价格。",
+    "publish_time": "2023-02-16 15:04:38",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "A股三大指数集体收跌，沪深两市尾盘快速跳水",
+    "url": "https://www.36kr.com/newsflashes/2134167676251401",
+    "summary": "36氪获悉，A股三大指数集体收跌，沪深两市尾盘快速跳水，沪指跌0.96%，深成指跌1.3%，创业板指跌1.36%，两市超4500只个股下跌，北向资金大举买入67.94亿元；CPO、Chiplet概念板块跌幅居前，歌尔股份跌超4%，华润微跌超2%；医药、游戏板块领涨，百洋医药跌超1%，神州泰岳跌超4%。",
+    "publish_time": "2023-02-16 15:07:37",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "谷歌和亚马逊获得印度支付聚合许可证",
+    "url": "https://www.36kr.com/newsflashes/2134171746331653",
+    "summary": "据报道，印度央行“印度储备银行”（RBI）公布了一份32家实体名单，允许这些实体充当在线支付聚合器的角色。这其中包括Google Pay、Amazon Pay和Reliance Payment Solutions等。印度储备银行在其网站上表示，公布这些名字是为了“传播信息，确保更大的透明度”。印度储备银行还称，还有其他18家公司的申请仍在评估中，它们暂时可以继续作为支付聚合器运营。（新浪科技）",
+    "publish_time": "2023-02-16 15:11:46",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "理想汽车成立能源售电公司",
+    "url": "https://www.36kr.com/newsflashes/2134178685168641",
+    "summary": "36氪获悉，天眼查App显示，近日，北京车和家能源售电有限公司成立，法定代表人孙广敏，注册资本3000万人民币，经营范围含供电业务；太阳能发电技术服务；电动汽车充电基础设施运营；软件开发；新兴能源技术研发；节能管理服务等。股东信息显示，该公司由理想汽车关联公司北京车和家能源科技有限公司全资持股。",
+    "publish_time": "2023-02-16 15:18:49",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "飞常准：今日石家庄机场确有延误以及备降情况",
+    "url": "https://www.36kr.com/newsflashes/2134180820773889",
+    "summary": "今日，有消息称多个飞往石家庄的航班备降其他机场或返航。对此，飞常准确认：今天石家庄机场是有延误备降的情况。（财联社）",
+    "publish_time": "2023-02-16 15:20:59",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "民航局：今年春运民航运输旅客同比增长38.7%",
+    "url": "https://www.36kr.com/newsflashes/2134182410710272",
+    "summary": "民航局在新闻发布会上介绍，作为疫情防控进入新阶段后的第一个春运，今年春运民航旅客运量大幅增长，重点物资运输畅通，航班运行平稳有序。春运40天，民航运输旅客5521.4万人次，同比增长38.7%，恢复至疫情前（2019年）的76%。保障航班53.6万班，日均1.3万班，同比增长15%，恢复比例超过八成。平均客座率74%，同比提高10个百分点。航班正常率96%，与去年持平，比疫情前提高16个百分点。（央视新闻）",
+    "publish_time": "2023-02-16 15:22:36",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "特斯拉解雇数十名试图组织工会的员工",
+    "url": "https://www.36kr.com/newsflashes/2134192861555712",
+    "summary": "据工会组织Workers United称，特斯拉周三在纽约布法罗工厂解雇了数十名员工。此前一天，该厂的自动驾驶系统工人宣布发起一场工会运动，目标是组建特斯拉的首个工会。在提交给美国国家劳动关系委员会的一份文件中，该组织指控特斯拉非法解雇员工，“以报复工会活动并打击工会活动”。工会要求劳工委员会寻求联邦法院的禁令，“以防止特斯拉的非法行为对员工权利造成不可挽回的破坏”。（新浪财经）",
+    "publish_time": "2023-02-16 15:33:14",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "洲际航班恢复，大兴机场即将开通多条国际航线",
+    "url": "https://www.36kr.com/newsflashes/2134198486789377",
+    "summary": "2月16日，由俄罗斯航空（Aeroflot-Russian Airlines）执飞的SU204航班顺利抵达大兴机场，标志着大兴机场恢复国际航班后的首条洲际航线正式开通。近期大兴机场将迎来新一批国际及地区航线恢复，进一步便利跨境旅客出行往来，推动区域经济快速发展。俄罗斯航空初期计划北京大兴至莫斯科航线每周3班往返，后续根据市场情况增班加密。（北京日报）",
+    "publish_time": "2023-02-16 15:38:58",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "奈雪的茶创始人任乐乐茶董事",
+    "url": "https://www.36kr.com/newsflashes/2134206119635977",
+    "summary": "36氪获悉，天眼查App显示，2月15日，乐乐茶关联公司上海茶田餐饮管理有限公司发生工商变更，法定代表人由郭楠变更为李明博；董事新增奈雪的茶创始人彭心、赵林以及奈雪的茶COO邓彬等；股东新增上海茶祥企业管理咨询中心（有限合伙）；公司注册资本由约5089.29万人民币增至约5779.73万人民币，增幅约13.57%。",
+    "publish_time": "2023-02-16 15:46:43",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "中汽协：预计一季度终端市场仍将承受较大压力",
+    "url": "https://www.36kr.com/newsflashes/2134213296712965",
+    "summary": "36氪获悉，据中国汽车工业协会统计分析，2023年1月，乘用车市场受部分消费提前透支和传统燃油车购置税及新能源汽车补贴政策退出影响，加之1月恰逢我国春节假期，有效经营时间较正常月份有所减少，1月份整体销量明显下滑。国内有效需求不足致使汽车消费恢复还比较滞后，预计一季度终端市场仍将承受较大压力。",
+    "publish_time": "2023-02-16 15:54:02",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "乘联会崔东树：1月车市零售属于正常性的市场调整",
+    "url": "https://www.36kr.com/newsflashes/2134214339881991",
+    "summary": "36氪获悉，乘联会秘书长崔东树在其微信公众号发文，虽然1月有18个工作日，但最后一天仍是初十，节前生产和销售时间仅有正常的60%。2022年12月的乘用车购置税减半政策退出和新能源车补贴退出前已经透支了1月部分需求，1月车市零售属于正常性的回归极度低迷。",
+    "publish_time": "2023-02-16 15:55:05",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "穷人的 API",
+    "url": "https://www.infoq.cn/article/Xd171zBPrIY4zTeujQ1m",
+    "summary": "<p>创建成熟的API需要资源，包括时间和金钱。你需要考虑模型、设计、REST原则等方面的东西。大多数情况下，你不知道这样做是否值得：你只是想要做出一个最小可行性产品，然后基于这个产品开始迭代。现在，我想向你展示如何在不编写一行代码的情况下实现它。</p><p></p><h2>解决方案</h2><p></p><p>&nbsp;</p><p>解决方案的主要要求是使用PostgreSQL数据库，这是一个功能完善的开源SQL数据库。</p><p>&nbsp;</p><p>我们不编写REST API，而是使用PostgREST组件。</p><p>&nbsp;</p><p></p><blockquote>PostgREST是一个独立的Web服务器，可以将PostgreSQL数据库直接转换成REST API。数据库的结构约束和权限决定了API有哪些端点和操作。&nbsp;—— PostgREST官网</blockquote><p></p><p>&nbsp;</p><p>我们将在一个简单的场景中使用它。下面是一张我想通过CRUD API暴露出来的product数据表。</p><p><img src=\"https://static001.geekbang.org/infoq/1d/1df0304c66045f1307ddf28d37f11b03.png\" /></p><p></p><p>&nbsp;</p><p>PostgREST的入门指南（<a href=\"https://postgrest.org/en/stable/tutorials/tut0.html\">https://postgrest.org/en/stable/tutorials/tut0.html</a>\"）提供了完整的内容，不过我没有找到现成的Docker镜像，所以自己创建了一个。</p><p>&nbsp;</p><p>Dockerfile：</p><p><img src=\"https://static001.geekbang.org/infoq/86/863eb61c711328de75680f717add4b10.png\" /></p><p></p><p>基于最新的Debian。参数化构建。获取二进制包。安装依赖项并解压二进制包。</p><p>&nbsp;</p><p>Docker镜像的/postgrest文件夹中有一个postgrest可执行文件。我们可以通过Docker Compose来“部署”。</p><p>&nbsp;</p><p>docker-compose.yml：</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/83/83ea6a75d7ccf32adc2bbc9c317ffe93.png\" /></p><p></p><p>构建上面的Dockerfile。共享配置文件。运行postgrest可执行文件。使用配置文件。初始化Schema、权限和数据。</p><p>&nbsp;</p><p>这个时候，我们可以查询product表：</p><p><code lang=\"null\">curl localhost:3000/product</code></p><p>&nbsp;</p><p>我们会立即得到结果：</p><p><code lang=\"null\">[{\"id\":1,\"name\":\"Stickers pack\",\"description\":\"A pack of rad stickers to display on your laptop or wherever you feel like. Show your love for Apache APISIX\",\"price\":0.49,\"hero\":false},\n {\"id\":2,\"name\":\"Lapel pin\",\"description\":\"With this \\\"Powered by Apache APISIX\\\" lapel pin, support your favorite API Gateway and let everybody know about it.\",\"price\":1.49,\"hero\":false},\n {\"id\":3,\"name\":\"Tee-Shirt\",\"description\":\"The classic geek product! At a conference, at home, at work, this tee-shirt will be your best friend.\",\"price\":9.99,\"hero\":true}]</code></p><p>&nbsp;</p><p>真是立竿见影！</p><p></p><h2>改进解决方案</h2><p></p><p>&nbsp;</p><p>虽然这个解决方案是有效的，但还有很大的改进空间。例如，虽然用户不能修改数据，但每个人都可以访问到它。对于产品相关的数据，这可能不是一个大问题，但对于医疗数据呢？</p><p>&nbsp;</p><p>PostgREST文档提到了这个问题，并明确建议使用反向代理：</p><p>&nbsp;</p><p></p><blockquote>PostgREST是快速构造REST API的一种方法，默认情况下非常适合用于构建开发脚手架。它也可以进入到生产环境，只要你需要采取一些预防措施。PostgREST只是一个用于实现API到数据库映射的小工具，我们需要依靠像Nginx这样的反向代理来提供额外的安全性保障。&nbsp;—— PostgREST官网</blockquote><p></p><p>&nbsp;</p><p>不过我们没有使用Nginx，而是一个成熟的API网关——Apache APISIX。我们把它添加到Docker Compose中。</p><p>&nbsp;</p><p>docker-compose.yml</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/d3/d3fdf5f094f16a428aaaf455607b36ac.png\" /></p><p></p><p>&nbsp;</p><p>使用Apache APISIX。APISIX将配置存储在etcd中。</p><p>&nbsp;</p><p>我们先配置Apache APISIX，用它来代理对postgrest的调用：</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/14/1460d15e976f4f0759c2b6f22033b326.png\" /></p><p></p><p>&nbsp;</p><p>应该运行在其中一个Docker节点上，因此使用Docker镜像名称。或者也可以使用localhost，但一定要公开端口。创建可重用的上游。指向PostgREST节点。创建到上游的路由。</p><p>&nbsp;</p><p>现在，我们可以通过APISIX来查询端点：</p><p><code lang=\"null\">curl localhost:9080/product</code></p><p>&nbsp;</p><p>它返回与之前相同的结果。</p><p></p><h2>DDoS攻击保护</h2><p></p><p>&nbsp;</p><p>我们还没有加入任何东西，不过我们已经做好准备了。我们首先需要保护API免受DDoS攻击。Apache APISIX是基于插件架构而设计的，为了防止DDoS攻击，我们将使用一个插件。我们可以在创建路由时设置插件，也可以在每个路由上设置插件。如果是第二种情况，就变成了全局规则。我们希望默认保护每一个路由，因此我们将使用第二种方式。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/0e/0e793097a7335378fa062d219181273a.png\" /></p><p></p><p>limit-count限制一个时间窗口内的调用次数。限制为每5秒调用1次，这只是为了演示。返回“429 Too Many Requests”，默认值为503。</p><p>&nbsp;</p><p>现在，如果我们发送了太多请求，Apache APISIX会保护上游：</p><p>&nbsp;</p><p><code lang=\"null\">curl localhost:9080/product\n\n\n\n429 Too Many Requests\n\n</code></p><center><h1><code lang=\"null\">429 Too Many Requests</code></h1></center><code lang=\"null\">\n<hr /><center>openresty</center>\n\n</code><p></p><p>&nbsp;</p><p></p><h2>路由授权</h2><p></p><p>&nbsp;</p><p>PostgREST还提供了一个root的Open API端点，因此我们有两个路由：/用于遵循Open API规范，/product是产品的相关端点。假设我们想禁止未经授权的人访问我们的数据，即普通用户可以访问产品信息，admin用户可以访问Open API规范和产品信息。</p><p>&nbsp;</p><p>APISIX提供了几种身份验证方法。我们将使用最简单的key-auth。它依赖了消费者抽象，key-auth需要一个特定的标头：插件对标头中的值进行反向查找，并找到对应的消费者。</p><p>&nbsp;</p><p>下面演示如何创建一个消费者：</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/85/85357d3d7c8e472ed139b4630479f478.png\" /></p><p></p><p>创建新的消费者。消费者的名字。消费者的键值。</p><p>&nbsp;</p><p>我们也为消费者user和键user做同样的事情。现在，我们可以创建一个路由并配置它，只让来自admin的请求通过：</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/ba/bada96e42d8096c93eb1347522b0346e.png\" /></p><p></p><p>创建一个新的路由。使用key-auth和消费者限制插件。只有管理员认证的请求才能调用路由。</p><p>&nbsp;</p><p>我们来尝试一下：</p><p><code lang=\"null\">curl localhost:9080</code></p><p>&nbsp;</p><p>无法调用，因为我们没有通过API标头进行身份验证：</p><p><code lang=\"null\">{\"message\":\"Missing API key found in request\"}</code></p><p>&nbsp;</p><p><code lang=\"null\">curl -H \"apikey: user\" localhost:9080</code></p><p>&nbsp;</p><p>也无法调用，因为我们使用了user的身份，但路由只授权给了admin身份。</p><p>&nbsp;</p><p><code lang=\"null\">{\"message\":\"The consumer_name is forbidden.\"}</code></p><p>&nbsp;</p><p><code lang=\"null\">curl -H \"apikey: admin\" localhost:9080</code></p><p>&nbsp;</p><p>这一次，它像预期的那样返回Open API规范。</p><p></p><h2>监控</h2><p></p><p>&nbsp;</p><p>任何一个软件系统都有一个被低估的特性，那就是监控。在将组件部署到生产环境中后，我们就必须监控其运行状况。现在，我们有许多服务可用于监控。我们将使用Prometheus，因为它是开源的，经过了实战的考验，并已被广泛使用。为了显示监控数据，我们将使用Grafana。我们把组件添加到Docker Compose文件中。</p><p>&nbsp;</p><p>docker-compose.yml</p><p><img src=\"https://static001.geekbang.org/infoq/02/02bea5ec8fd61b033bd405b663cf59e6.png\" /></p><p></p><p>&nbsp;</p><p>Prometheus镜像。Prometheus的配置。可以在这里（<a href=\"https://github.com/ajavageek/poor-man-api/blob/master/prometheus/prometheus.yml\">https://github.com/ajavageek/poor-man-api/blob/master/prometheus/prometheus.yml</a>\"）查看完整的文件。Grafana镜像。Grafana的配置。其中大部分来自APISIX提供的配置（<a href=\"https://github.com/apache/apisix/blob/master/docs/assets/other/json/apisix-grafana-dashboard.json\">https://github.com/apache/apisix/blob/master/docs/assets/other/json/apisix-grafana-dashboard.json</a>\"）。将默认端口3000改为3001，避免与PostgREST服务冲突。</p><p>&nbsp;</p><p>有了监控基础设施之后，我们只需要APISIX按照Prometheus期望的格式提供数据即可。我们可以通过配置和一个新的全局规则来实现。</p><p>&nbsp;</p><p>config.yaml</p><p><img src=\"https://static001.geekbang.org/infoq/5e/5e50b891ffc5dfa5b29cc8769ee2c96a.png\" /></p><p></p><p>&nbsp;</p><p>绑定到任意地址。绑定到9091端口。Prometheus的指标信息可参考<a href=\"http://apisix:9091/apisix/prometheus/metrics\">http://apisix:9091/apisix/prometheus/metrics</a>\"。</p><p>&nbsp;</p><p>我们可以创建全局规则：</p><p><code lang=\"null\">curl http://apisix:9080/apisix/admin/global_rules/2 -H 'X-API-KEY: 123xyz' -X PUT -d '\n{\n  \"plugins\": {\n    \"prometheus\": {}\n  }\n}'</code></p><p>&nbsp;</p><p>发送几个查询并打开Grafana仪表板，看起来应该像这样：</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/74/74ec99b5d860bfd065c3fb640c9ff290.png\" /></p><p></p><p></p><h2>结论</h2><p></p><p>&nbsp;</p><p>创建一个完整的REST API是一项巨大的投资。我们可以通过PostgREST将数据库暴露成CRUD API，进行快速简单的测试。当然，这样的架构并不适用于生产环境。</p><p>&nbsp;</p><p>要解决这个问题，我们需要在PostgREST前面设置一个门面，可以是反向代理或API网关。Apache APISIX提供了很多特性，包括授权和监控等。有了它，我们就可以用较低的成本快速验证API需求。</p><p>&nbsp;</p><p>在验证了需求后，我们可以保留现有的门面，并用定制开发的API替换PostgREST。</p><p>&nbsp;</p><p>这篇文章相关的完整源代码可以在Github（<a href=\"https://github.com/ajavageek/poor-man-api\">https://github.com/ajavageek/poor-man-api</a>\"）上找到。</p><p>&nbsp;</p><p>原文链接：</p><p><a href=\"https://blog.frankel.ch/poor-man-api/\">https://blog.frankel.ch/poor-man-api/</a>\"</p><p></p><p>推荐阅读：</p><p><a href=\"https://www.infoq.cn/article/UCaTitOegreb3NGiX24m\">一个架构师在 2023 年需要掌握哪些“必杀技”？</a>\"</p>",
+    "publish_time": "2023-02-16 14:24:48",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "ASML指控前中国员工窃取芯片相关数据，不涉及核心技术但被迫开始调查",
+    "url": "https://www.infoq.cn/article/Lh48QkNvj0BIhP4Tihll",
+    "summary": "<p>荷兰的 ASML是世界上最重要的半导体公司之一。在近日<a href=\"https://www.asml.com/en/investors/annual-report/2022/highlights#ceo-message\">公布的年度报告</a>\"中，ASML 表示：“我们在中国经历了一名(现)前员工未经授权盗用与专有技术有关的数据。我们迅速启动了全面的内部审查。”</p><p>&nbsp;</p><p>根据初步调查结果，ASML 认为这次事件对其业务不存在重大影响，然而这可能已违反了某些出口管制条例。因此，ASML已向有关部门报告了该事件。针对这一事件，ASML 正在实施额外的补救措施。</p><p>&nbsp;</p><p>对于被盗用的数据涉及文件，ASML 没有详细说明。不过根据<a href=\"https://www.bnnbloomberg.ca/asml-stolen-data-came-from-detailed-repository-for-chip-machines-1.1884443\">彭博社的报道</a>\"，该漏洞发生在一个存储库中，该存储库包含了对生产一些世界上最先进的芯片至关重要的光刻系统的详细信息。</p><p>&nbsp;</p><p>据报道，这些数据来自一个名为Teamcenter的产品生命周期管理程序，Teamcenter工具用于内部共享信息。</p><p>&nbsp;</p><p>根据提供该软件的西门子网站介绍，Teamcenter 充当技术信息的共享仓库，允许不同的员工团队协作和管理他们的产品开发。据该网站称，它允许“共同访问所有与产品相关的知识、数据和流程的单一存储库”。据悉，ASML使用该程序存储有关其机器的详细信息。</p><p>&nbsp;</p><p>据另一位知情人士透露，ASML 最近的数据泄露涉及技术信息而非硬件，并且是在过去几个月由一名男性员工实施的。这位不愿透露姓名的人士表示，美国当局已收到通知，因为调查仍在进行中。</p><p>&nbsp;</p><p>荷兰对外贸易和发展合作部长 Liesje Schreinemacher 表示，ASML 已将此事告知政府，目前正在进行调查。</p><p></p><h2>ASML的关键角色</h2><p></p><p>&nbsp;</p><p>ASML在芯片供应链中占有独特的地位。ASML 不生产芯片，相反它制造并向台积电等半导体制造商销售价值 2 亿美元的极紫外 (EUV) 光刻机。这些制造商需要使用这些机器来制造世界上最先进的芯片，而 ASML 实际上在这个领域处于垄断地位，因为ASML 是世界上唯一一家生产这种套件的公司。</p><p>&nbsp;</p><p>根据 ASML 首席执行官 Peter Wennink&nbsp; 的说法，ASML 在过去十年中总共售出了大约 140 套 EUV 系统，每套成本高达 2 亿美元，而其下一台名为High NA 的机器价格将超过 3 亿美元。</p><p>&nbsp;</p><p>根据最新财报，ASML第四季度净销售额达到64亿欧元，毛利率51.5%，净利润达18亿欧元。第四季度订单金额为63亿欧元，其中包括34亿欧元的EUV系统。2022全年净销售额达到212亿欧元，毛利率为50.5%，净利润为56亿欧元。</p><p>&nbsp;</p><p>ASML 的主导地位是近些年才形成的。十年前，该公司的EUV研究能力取决于英特尔、三星和台积电的重大投资。&nbsp;</p><p>&nbsp;</p><p>“我们没有钱，”1999 年加入 ASML 的 Wennink 表示，“所以我们出去寻找合作伙伴，这实际上是我们建立公司方式的基础。所以我们被迫成为系统架构师和系统集成商。”</p><p>&nbsp;</p><p>ASML 于 1984 年开始作为荷兰电子巨头飞利浦的子公司运行，它推出了第一台用于半导体光刻的机器。“第一台光刻工具真的看起来像一台投影仪，”ASML EUV 执行副总裁 Christophe Fouquet 表示，“基本上有一个掩模版，保存着你想要投射的图像。然后是一个光学系统，它将拍摄这个图像并将其投射到晶圆上。”</p><p>&nbsp;</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/8b/8b8eef3840773b5432238fc02f92bfc3.png\" /></p><p></p><p>ASML 于 1984 年在荷兰Eindhoven飞利浦办公大楼外的一个漏水棚子里开发了第一台光刻系统</p><p>&nbsp;</p><p>即将出版的《芯片战争：争夺世界上最关键技术的战争》一书的作者Miller&nbsp;表示，“当业界准备进入极紫外辐射研究的早期阶段时，没有一家美国公司准备冒险进行这项昂贵且有风险的提议，但ASML准备好了。”“ASML是一家荷兰公司，但它也是一家非常依赖美国零部件的荷兰公司，尤其是在其机器方面。”</p><p></p><h2>出口管制“不是我们的选择”</h2><p></p><p>&nbsp;</p><p>这起安全事件发生在荷兰政府与美国外交的敏感时期，荷兰政府处于中美科技霸权的漩涡之中，半导体是这场竞争的重要组成部分。</p><p>&nbsp;</p><p>EUV 由数个模块组成，包含了数十万个组件，它们来自全球近 800 家供应商。每个模块都在 ASML全球<a href=\"https://www.asml.com/en/company/about-asml/locations\">60 个地点之一建造，然后运往 Veldhoven 进行组装。</a>\"每台组装好的机器经过测试后，会被拆开运往芯片制造商。运输需要 20 辆卡车和三架满载的<a href=\"https://www.cnbc.com/quotes/BA/\">波音</a>\"747s。&nbsp;但 ASML 不会将其 EUV 技术运送到的国家是中国。</p><p>&nbsp;</p><p>自 2018 年以来，美国向荷兰政府施压，要求其停止 ASML 向中国运送 EUV 机器。ASML 便从此未将工具运送到中国。上个月，<a href=\"https://www.bloomberg.com/news/articles/2023-01-27/biden-wins-deal-with-dutch-japan-on-china-chip-export-controls\">彭博社</a>\"报道称，美国与日本和荷兰达成协议，限制向中国出口先进芯片制造设备。</p><p>&nbsp;</p><p>对此，ASML回应称：“我们了解到，已经采取的措施将涵盖先进的光刻工具以及其他类型的设备。该协议的条款尚未公开披露，目前仍处于保密状态。我们预计政府将需要数月时间才能编写和制定新规则。”</p><p>&nbsp;</p><p>如今，ASML 仅将机器出售给五家芯片制造商。其中，台积电、三星和英特尔在 2021 年为其贡献了将近 84%的收入。</p><p>&nbsp;</p><p>“全球有 42 个国家同意对其实施出口管制措施，”Wennink 表示，“所以这不是我们的选择，而是政府的选择。”</p><p>&nbsp;</p><p>据外媒CNBC称，ASML 在以另一种身份与中国打交道。该公司翻新了称为深紫外线或 DUV 的旧光刻系统，并将其中许多系统出口给了中国。Wennink 表示， ASML 售出的所有机器中有 96% 仍在工作。根据报告，2022 年中国占ASML 销售额的 15% 左右，今年将达到“相似”的水平。</p><p>&nbsp;</p><p></p><h2>结束语</h2><p></p><p>&nbsp;</p><p>有美国媒体指出，这次与中国相关的数据盗用事件并不是第一次。</p><p>&nbsp;</p><p><a href=\"https://www.asml.com/en/investors/annual-report/2021\">ASML 在2021年的年度报告中指出，一家名为东方晶源电子的公司</a>\"“在中国积极销售可能侵犯 ASML 知识产权的产品。”ASML提到，东方晶源与一家已经破产的美国公司XTAL存在关联，2019年美国法院曾判定XTAL侵犯ASML知识产权。</p><p>&nbsp;</p><p>根据报道，东方晶源申请了146件国内外发明专利，其中70%的员工都是研究人员，其中博士占8%，硕士研究生占53%。去年11月份，东方晶源宣布完成新一轮近10亿元股权融资。东方晶源后来发表声明否认了这些报道，之后该事件暂无新的进展。</p><p>&nbsp;</p><p>但对于ASML 来说，技术垄断也意味着树大招风。ASML 在另一份声明中表示，看到越来越多的攻击者试图窃取其技术。</p><p>&nbsp;</p><p>ASML发言人称，“由于 ASML 的独特地位和半导体行业日益加剧的地缘政治紧张局势，我们看到安全风险不断上升：从勒索软件和网络钓鱼攻击，到试图获取知识产权或破坏业务连续性。”</p><p>&nbsp;</p><p>参考资料：</p><p><a href=\"https://www.cnbc.com/2023/02/15/critical-chip-firm-asml-says-former-china-employee-misappropriated-data.html\">https://www.cnbc.com/2023/02/15/critical-chip-firm-asml-says-former-china-employee-misappropriated-data.html</a>\"</p><p><a href=\"https://www.bnnbloomberg.ca/asml-stolen-data-came-from-detailed-repository-for-chip-machines-1.1884443\">https://www.bnnbloomberg.ca/asml-stolen-data-came-from-detailed-repository-for-chip-machines-1.1884443</a>\"</p><p><a href=\"https://www.cnbc.com/2022/03/23/inside-asml-the-company-advanced-chipmakers-use-for-euv-lithography.html\">https://www.cnbc.com/2022/03/23/inside-asml-the-company-advanced-chipmakers-use-for-euv-lithography.html</a>\"</p><p></p><p>今日推荐：</p><p><a href=\"https://www.infoq.cn/article/UCaTitOegreb3NGiX24m\">一个架构师在 2023 年需要掌握哪些“必杀技”？</a>\"</p>",
+    "publish_time": "2023-02-16 14:33:05",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "蚂蚁自研图数据库TuGraph国际权威测评再创纪录，已全面支持国产软硬件",
+    "url": "https://www.infoq.cn/article/KwyY33CqqageY9LyjLch",
+    "summary": "<p>在最近一次国际权威图数据库基准测评“LDBC SNB”测评中，蚂蚁集团自研图数据库 TuGraph 采用国产CPU，打破了官方审计纪录蝉联世界第一。基于自身性能优势以及对国产 CPU 的良好适配，测评结果较上一次提升了31%。这意味着 TuGraph 已经全面支持了国产软硬件，且领先性得到了权威验证。</p><p>&nbsp;</p><p><img src=\"https://static001.geekbang.org/infoq/e1/e12c541fe36dc5a49ad477027c13eecd.png\" /></p><p>（图注：LDBC公布蚂蚁集团TuGraph打破LDBC SNB测评纪录）</p><p>&nbsp;</p><p>本次测评 TuGraph 采用的是国产倚天 710&nbsp;ARM 架构CPU，这是中国首个云上大规模应用的自研CPU。TuGraph对新硬件进行了适配调优，在大规模100GB的数据集上，TuGraph的吞吐率较上一次官方纪录提升了31%，云端机器开销降低了40%，大大提升了资源能效。</p><p></p><p>ARM架构的 CPU 拥有轻量化、功耗小的优势，近年来基于 ARM 架构的 CPU 越来越普遍。据统计，个人PC行业苹果 M1/M2 芯片均采用 ARM 架构，手机行业 ARM 芯片已占90%以上份额，在服务器领域华为鲲鹏、飞腾等 ARM 架构 CPU 也逐步被接纳。</p><p></p><p>作为开源的图数据库产品，TuGraph需要兼容国内外软硬件，更需要充分发挥出国产新型软硬件的优势。本次测评不仅验证了 TuGraph 对于 ARM 架构的兼容性，成为对 X86 和 ARM 架构均完整适配的图数据库，也使得 TuGraph 继麒麟、鲲鹏、海光等国产操作系统和处理器之后，实现了对国产软硬件的全面支持，为用户的机器选型提供更多选择。</p><p></p><p>近年来 TuGraph 在技术迭代、产品化等方面持续突破，并通过开源开放的形式与社会共享。去年9月，TuGraph单机版在世界人工智能大会上开源，可提供完备的图数据库基础功能。去年12月，TuGraph上线阿里云计算巢，用户可一键部署，快速打造图数据库应用。据悉，本次测评的代码和流程已在 GitHub 开源，开发者可在云上复现测评流程。下一步，TuGraph计划接入亚马逊云，为全球用户提供领先的图计算服务。</p><p></p><p>&nbsp;“国际关联数据基准委员会（LDBC）”是由高校、研究所、企业联合组成的非盈利组织，其中企业成员包括Intel、Oracle、Neo4j、蚂蚁集团等国内外知名图数据库厂商，致力于推进行业的规范标准化。SNB是LDBC主导的基于社交网络的基准测评，是国际图数据库领域公认的权威测评，为评估图数据库的性能和使用选型提供了专业、客观的参考标准。</p>",
+    "publish_time": "2023-02-16 14:48:35",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "The rise and fall of Microsoft’s new Bing",
+    "url": "https://garymarcus.substack.com/p/the-rise-and-fall-of-microsofts-new",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34815839\">Comments</a>",
+    "publish_time": "2023-02-16 14:52:18",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Xerox copier flaw changes numbers in scanned docs (2013)",
+    "url": "https://www.theregister.com/2013/08/06/xerox_copier_flaw_means_dodgy_numbers_and_dangerous_designs/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34815391\">Comments</a>",
+    "publish_time": "2023-02-16 13:25:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
