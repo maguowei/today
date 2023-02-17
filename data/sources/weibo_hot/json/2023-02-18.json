@@ -466,5 +466,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "爬完泰山全都老实了",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%88%AC%E5%AE%8C%E6%B3%B0%E5%B1%B1%E5%85%A8%E9%83%BD%E8%80%81%E5%AE%9E%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "张杰把校园霸凌写进歌里",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E6%8A%8A%E6%A0%A1%E5%9B%AD%E9%9C%B8%E5%87%8C%E5%86%99%E8%BF%9B%E6%AD%8C%E9%87%8C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
