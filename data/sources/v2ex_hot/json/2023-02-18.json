@@ -75,5 +75,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "笔记本选购求助",
+    "url": "https://www.v2ex.com/t/917128",
+    "summary": "skrbug: <blockquote>\n<p>现在手上用的是 2019 年联想小新 pro （ i5 10200U 16GiB)，替换网卡后，刷的 macOS 用起来还不错，一直陪了我三年多，不过经常能感觉到卡顿，不知道是积灰还是硬件跟不上了。最近在看轻薄本</p>\n</blockquote>\n<h4>需求</h4>\n<ul>\n<li>windows 本，目前不打算 mac</li>\n<li>内存 32GiB ，后端开发</li>\n<li>Linux 友好型</li>\n<li>预算 7k 内都可以接受</li>\n</ul>\n<h4>候选</h4>\n<ul>\n<li>thinkbook 14pro 2023 (amd 7735H 32GiB 512GB 90Hz) 拓展性要比下面的好，能多装一块硬盘吧</li>\n<li>小新 14 pro  2023 (intel i13 13500H 32GiB 1TB 120Hz) 性价比楼上的好，同价格多 512G 硬盘，多 30hz 的高刷,无法加装硬盘</li>\n<li>大佬们推荐下</li>\n</ul>\n<h4>纠结的点</h4>\n<ul>\n<li>续航能力，我手上的电脑现在开会开的长的话（ 2h ）基本上就没电了，所以这次会想着考虑用 amd</li>\n<li>是否要等 7000 zen4 的笔记本，手头上的还可以继续用着。挺期待 7840HS 笔记本的，但又怕后面 zen4 会捆绑着独显一起卖。</li>\n<li>联想最近的低温锡影响挺差的</li>\n<li>linux 现在大小核调度之前听说有点问题？\n有没有懂哥给点建议</li>\n</ul>",
+    "publish_time": "2023-02-18 11:06:49",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
