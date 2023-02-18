@@ -1361,5 +1361,76 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "现在的大学生开学",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%BC%80%E5%AD%A6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "我想摆摊卖无骨鸡爪，怎样经营？",
+    "url": "https://www.zhihu.com/question/583688713",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美多方追问「毒列车」事件答案，「还有多少真相被隐瞒」？该事件背后折射出哪些问题？",
+    "url": "https://www.zhihu.com/question/584585535",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Watchmaking: Machining a 0.6 mm Screw [video]",
+    "url": "https://www.youtube.com/watch?v=wKVqLTzh_z4",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34849110\">Comments</a>",
+    "publish_time": "2023-02-19 01:51:48",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Mozilla solves the Manifest V3 puzzle to save ad blockers",
+    "url": "https://blog.mozilla.org/addons/2022/11/17/manifest-v3-signing-available-november-21-on-firefox-nightly/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34849739\">Comments</a>",
+    "publish_time": "2023-02-19 02:45:37",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Babel is used by millions, so why are we running out of money? (2021)",
+    "url": "https://babeljs.io/blog/2021/05/10/funding-update",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34850396\">Comments</a>",
+    "publish_time": "2023-02-19 03:54:47",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "【夜读】人生要全力以赴，但不必太过慌张",
+    "url": "https://mp.weixin.qq.com/s/tdH-MhClNZqo3Zt8oY7qnA",
+    "summary": "【夜读】人生要全力以赴，但不必太过慌张",
+    "publish_time": "2023-02-19 04:00:09",
+    "source": {
+      "name": "people_daily_gzh",
+      "desc": "人民日报公众号",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
+    }
   }
 ]
