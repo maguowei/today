@@ -1379,5 +1379,45 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "小时候的塌天大事",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%97%B6%E5%80%99%E7%9A%84%E5%A1%8C%E5%A4%A9%E5%A4%A7%E4%BA%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "萧寒何冉处处吻",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%90%A7%E5%AF%92%E4%BD%95%E5%86%89%E5%A4%84%E5%A4%84%E5%90%BB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "美股三大指数收盘涨跌不一，热门中概股多数下跌",
+    "url": "https://www.36kr.com/newsflashes/2139350088108166",
+    "summary": "36氪获悉，2月17日收盘，美股三大指数收盘涨跌不一，道指涨0.39%，纳指跌0.58%，标普500指数跌0.28%。大型科技股涨跌不一，特斯拉涨超3%，微软、谷歌跌超1%；热门中概股多数下跌，知乎跌超9%，微博跌超5%，百度跌超4%，阿里巴巴、拼多多、B站、唯品会跌超3%，京东、理想汽车 、36氪跌超2%。",
+    "publish_time": "2023-02-20 06:59:26",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "IBM Research&#x27;s Vela Is an AI Supercomputer in the Cloud – IBM Research Blog",
+    "url": "https://research.ibm.com/blog/AI-supercomputer-Vela-GPU-cluster",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34862432\">Comments</a>",
+    "publish_time": "2023-02-20 06:18:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
