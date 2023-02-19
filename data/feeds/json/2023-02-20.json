@@ -1153,5 +1153,107 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "肯德基自信推荐瀑布芝士",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%82%AF%E5%BE%B7%E5%9F%BA%E8%87%AA%E4%BF%A1%E6%8E%A8%E8%8D%90%E7%80%91%E5%B8%83%E8%8A%9D%E5%A3%AB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "日本一男子拉面店舔筷子后放回",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E7%94%B7%E5%AD%90%E6%8B%89%E9%9D%A2%E5%BA%97%E8%88%94%E7%AD%B7%E5%AD%90%E5%90%8E%E6%94%BE%E5%9B%9E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "虞书欣冷到鹅叫",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%86%B7%E5%88%B0%E9%B9%85%E5%8F%AB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "关于外星人你们知道多少？",
+    "url": "https://www.zhihu.com/question/555012992",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Meta selling new “Meta Verified” blue badge for $12-15&#x2f;month",
+    "url": "https://www.facebook.com/zuck/posts/pfbid02979GyAHwTKsMd7ngCiHTRCHyeTCEHwYe9Evq3YV2ffvxUY7fKVb9TGyKEUFBeo3kl",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34859919\">Comments</a>",
+    "publish_time": "2023-02-20 01:48:06",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Domestic violence hotline calls will soon be invisible on your family phone plan",
+    "url": "https://arstechnica.com/tech-policy/2023/02/domestic-violence-hotline-calls-will-soon-be-invisible-on-your-family-phone-plan/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34860204\">Comments</a>",
+    "publish_time": "2023-02-20 02:14:06",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Writing an Engineering Strategy",
+    "url": "https://lethain.com/eng-strategies/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34859979\">Comments</a>",
+    "publish_time": "2023-02-20 01:53:48",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A Docker footgun led to a vandal deleting NewsBlur&#x27;s MongoDB database (2021)",
+    "url": "https://blog.newsblur.com/2021/06/28/story-of-a-hacking/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34860226\">Comments</a>",
+    "publish_time": "2023-02-20 02:16:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Lessons learnt while trying to modernize some C code",
+    "url": "https://dorinlazar.ro/220710-trying-to-modernize-goaccess.en/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34860073\">Comments</a>",
+    "publish_time": "2023-02-20 02:02:35",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Talk-to-ChatGPT",
+    "url": "https://github.com/C-Nedelcu/talk-to-chatgpt",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34859781\">Comments</a>",
+    "publish_time": "2023-02-20 01:37:17",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
