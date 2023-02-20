@@ -511,5 +511,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "二月二龙抬头",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8C%E6%9C%88%E4%BA%8C%E9%BE%99%E6%8A%AC%E5%A4%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "孙俪 保佑我不要一紧张拉出猪叫",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA+%E4%BF%9D%E4%BD%91%E6%88%91%E4%B8%8D%E8%A6%81%E4%B8%80%E7%B4%A7%E5%BC%A0%E6%8B%89%E5%87%BA%E7%8C%AA%E5%8F%AB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "当我开始给妆容做减法",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BD%93%E6%88%91%E5%BC%80%E5%A7%8B%E7%BB%99%E5%A6%86%E5%AE%B9%E5%81%9A%E5%87%8F%E6%B3%95%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]

@@ -1145,5 +1145,128 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "二月二龙抬头",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8C%E6%9C%88%E4%BA%8C%E9%BE%99%E6%8A%AC%E5%A4%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "孙俪 保佑我不要一紧张拉出猪叫",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA+%E4%BF%9D%E4%BD%91%E6%88%91%E4%B8%8D%E8%A6%81%E4%B8%80%E7%B4%A7%E5%BC%A0%E6%8B%89%E5%87%BA%E7%8C%AA%E5%8F%AB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "当我开始给妆容做减法",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BD%93%E6%88%91%E5%BC%80%E5%A7%8B%E7%BB%99%E5%A6%86%E5%AE%B9%E5%81%9A%E5%87%8F%E6%B3%95%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "土博现在毕业去高校的可能性大吗？",
+    "url": "https://www.zhihu.com/question/341258879",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "25 岁，有哪些健康的生活习惯值得养成？",
+    "url": "https://www.zhihu.com/question/296374184",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何才能管理好团队？",
+    "url": "https://www.zhihu.com/question/547223691",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如果你的朋友圈没有了朋友，那你还会发吗?",
+    "url": "https://www.zhihu.com/question/584301043",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "2023，你期待的生活是什么颜色？",
+    "url": "https://www.zhihu.com/question/585094460",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "可以分享一下你的减肥经历吗？你是怎么坚持下来的？",
+    "url": "https://www.zhihu.com/question/583578187",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "吃增肌粉和蛋白粉对健身增肌有多大帮助？",
+    "url": "https://www.zhihu.com/question/583785936",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Ask HN: What is the most barebone back end solution?",
+    "url": "https://news.ycombinator.com/item?id=34869884",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34869884\">Comments</a>",
+    "publish_time": "2023-02-21 00:49:26",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Simulating Softbody Dynamics in Vlang",
+    "url": "https://l-m.dev/cs/softbody-dynamics-terminal/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34870190\">Comments</a>",
+    "publish_time": "2023-02-21 01:12:41",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Running large language models like ChatGPT on a single GPU",
+    "url": "https://github.com/Ying1123/FlexGen",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34869960\">Comments</a>",
+    "publish_time": "2023-02-21 00:55:03",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
