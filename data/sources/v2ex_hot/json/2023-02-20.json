@@ -64,5 +64,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "Apple TV 盒子 + Sony 电视 + NAS Emby 瞎折腾",
+    "url": "https://www.v2ex.com/t/917538",
+    "summary": "Exp: <p>没有什么资深爱好，放松休息的时候喜欢瞎看见美剧、大片电影之类的。</p>\n<h2>前情提示</h2>\n<h3>家里目前观影设备：</h3>\n<ul>\n<li>索尼（ SONY ）电视 KD-65X9100H</li>\n<li>索尼（ SONY ） HT-Z9F + Z9R</li>\n<li>Qnap 453Dmini</li>\n<li>Apple TV 4K 2022 128G</li>\n</ul>\n<h3>历史故事</h3>\n<p>搬入新家之后购买的 Sony 电视，同时购入了 Sony HT-Z9F Soundbar ，当时 Z9R 无货。Qnap 453Dmini 是搬入新家后添置的，原来有一台 451A 一并留着作为备份机了。</p>\n<p>本人有一定程度的片源收藏癖。当时购入 NAS 后，折腾来折腾去，为了能整理手头已有的影音资源、实现一个漂亮的海报墙，尝试过 Plex ，jellyfin ，Emby 。最后在 21 年 11 月份左右买了个 Emby Lifetime Premiere ，在 Sony 电视上安装一个 Emby 的 Android TV 客户端，观影效果也不错，相对好看的海报墙 + 4K HDR 10 / 杜比视界 效果都实现了。</p>\n<h3>主角登场</h3>\n<p>22 年底苹果发布了第三代 Apple TV 4K ，看网上一堆吹苹果盒子优秀的文章视频，心里也痒痒。想整一台瞅瞅啥样儿。一开始首发，在日亚订购了一台，没想到<a href=\"https://www.v2ex.com/t/895844\" rel=\"nofollow\">被海关退回</a>。后来就一直等到本月，前些日子看到京东海购价格降了一点就买了一台。</p>\n<p>机器到手后，照葫芦画瓢的玩了玩儿。本以为装上 Apple TV 版的 Emby 后可以实现 Apple TV 华丽系统界面和优质观影的双重体验，没想到在 Apple TV 上的 Emby 观影，画面一片发白，调整了 Apple TV 设置中的各种解析方案也都无效。还一度怀疑是不是自己的便宜 HDMI 4K 线缆的问题，差点购买了贼贵的 Belkin 。后来网上搜索，从 Emby 论坛看到这两个讨论：<a href=\"https://emby.media/community/index.php?/topic/114937-native-versus-mpv/\" rel=\"nofollow\">Native versus MPV?</a>、<a href=\"https://emby.media/community/index.php?/topic/106000-can-not-play-4k-hdr-videos-anymore-on-apple-tv-4k/\" rel=\"nofollow\">Can not play 4K HDR videos anymore on Apple TV 4K</a>，直接傻眼。难道 Apple TV 上的 Emby 客户端是残血版？</p>\n<p>到这一步，想起了网上吹神的 Infuse ，下来试试吧。装上后，发现体验真的很经验，界面就不说了。重点是还能够直接连接 Emby server ，Emby 上整理好的影音库分类就可以直接用了，这是我没有想到的。先点了试用一周解锁其观影权限。体验了一下播放流畅度非常好，也正常解析了片源 4K HDR10 。</p>\n<h2>如此，达到了一个比较尴尬的境地：</h2>\n<ul>\n<li>\n为了实现正常观影本地资源，有两种选择：<ul>\n<li>1080p 渣画质的 Sony 系统界面 + Android TV 版 Emby 正常观影；</li>\n<li>额外付出 618? RMB 购买 Infuse ，实现 Apple TV 优秀系统界面画质 + 正常本地资源解析 -&gt; 花钱；</li>\n</ul>\n</li>\n<li>\n基于 Apple TV 实现观影各种流媒体的效果，就必须满足以下两点：<ul>\n<li>在需要的流媒体平台订阅 -&gt; 花钱；</li>\n<li>提供质量足够的上网方案 -&gt; 花钱；</li>\n</ul>\n</li>\n<li>Apple TV 上目前没有实现观看国内爱优腾资源的方案？</li>\n<li>Apple TV 上比较好的国内资源观看，目前只知道这个：<a href=\"https://github.com/yichengchen/ATV-Bilibili-demo\" rel=\"nofollow\">\nATV-Bilibili-demo</a>，参考了视频 <a href=\"https://www.youtube.com/watch?v=0lS04uK3eQc\" rel=\"nofollow\">Apple TV 也可以舒服看 B 站，有了这款 1MB 多的 B 站客户端，错过 Miao Project 和 Cheers 不用急。</a> 搞定，但是据说需要一周更新一次证书？</li>\n<li>Apple TV 上为了实现观看电视台直播资源，需要配置直播源，质量好 -&gt; 需要花钱;</li>\n<li>据说 Apple TV 搭配双 HomePod 更香，但是初步了解其需要 Apple TV 与 Sony 电视上的 eARC HDMI 口相连，但是目前我的电视已经与 Sony HT-Z9F Soundbar 作了 eARC 连接。是否还能同时设置 HomePod 呢？</li>\n</ul>\n<h2>Apple TV 的好处目前看来：</h2>\n<ul>\n<li>iOS 生态，家里的手机、电脑互动操作方便；</li>\n<li>系统界面好看，好看也是一种视觉上的享受；</li>\n<li>系统性能强大，后期升级使用可能障碍更小；</li>\n</ul>\n<h2>结论</h2>\n<p>综合来看，好像目前的 Apple TV 购买是个错误？</p>",
+    "publish_time": "2023-02-20 11:02:32",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "日本 1990：当宏大叙事消失之后",
+    "url": "https://www.v2ex.com/t/917541",
+    "summary": "vitoliu: <p><a href=\"https://m.huxiu.com/article/798587.html\" rel=\"nofollow\">https://m.huxiu.com/article/798587.html</a>\n算是最近难得的一篇看起来让人觉得压抑的文章。\n似乎是作者刻意在影射中国，又或者是中国的进程真的跟日本高度重合？</p>\n<p>唉，不知道大家怎么想的</p>",
+    "publish_time": "2023-02-20 11:09:05",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
