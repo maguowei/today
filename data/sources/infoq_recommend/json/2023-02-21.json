@@ -97,5 +97,27 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "预告｜ 2月24日不见不散！开源治理专场约定你",
+    "url": "https://www.infoq.cn/article/12b7819b1335b2c022b899a65",
+    "summary": "<p>如今，开源开放已经成为推动技术持续进步的行业共识和重要驱动力量。随着“开源”首次列入“十四五”发展计划，相信开源精神与文化将获得全社会更多关注与支持，我国开源生态也将进入更加快速的建设周期。</p><p></p><p>行业联盟作为我国开源生态中的中坚力量，能够有效推动各行业、各领域的广泛交流与开源合作，来满足日益增长的行业开源需求。在前行的路上，道阻且长，开源治理发展机遇与挑战并存，行业面临的挑战也层出不穷。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/57/57759f2991adfd25af707ee1d161e2b4.jpeg\" /></p><p></p><p></p><p>对此，2月24日，第四届OpenI/O启智开发者大会在深圳人才研修院智汇中心负一楼湖畔沙龙开设了开源治理专场。本次专场汇聚国内外知名开源组织进行巅峰对话，全方位聚焦开源生态及制度建设、引领性开源平台及软硬件基础设施、开源教育等备受关注的议题展开研讨，从专业领域出发分享独到见解和真知灼见。</p><p></p><p>此次专场我们也将致力于联合成立粤港澳大湾区开源生态联合体，建设立足粤港澳大湾区、辐射全国、面向国际的国有综合型技术转移转化高端枢纽平台，推进产学研用开源合作，倡导开源理念与文化，为我国开源生态繁荣贡献力量。</p><p></p><p>专场希望充分发挥各自优势，以推动开源产业的共建、开源人才的培养，达成开源生态的产学研战略合作，建造一个互利共赢的“朋友圈”。</p><p></p><p>听到这里你还不心动吗？这个“朋友圈”可不能缺少你的身影！2月24日下午，我们在这里将共同探讨有关于开源的一切可能！让我们一起构建开源联合体，一同共建开源新生态！</p>",
+    "publish_time": "2023-02-21 11:12:26",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "Linux 6.2正式发布：首次原生支持苹果M1芯片",
+    "url": "https://www.infoq.cn/article/8sRHowzeI0IEgDSxH6hS",
+    "summary": "<p>当地时间2月20日，Linux 创始人 Linus Torvalds发布了稳定的 Linux 6.2 内核更新，他将该版本描述为：“也许它不像 6.1 那样是一个性感的LTS版本，但还是希望这版普通的内核得到更多测试人员的偏爱。”</p><p>&nbsp;</p><p>这是Linux在2023年的第一个主要内核版本<a href=\"https://archsummit.infoq.cn/202303/beijing/track/1453\">更新</a>\"。</p><p>&nbsp;</p><p>为了做到真正的开箱即用，Linux 6.2 提升了 Intel Arc Graphics（DG2/Alchemist）的稳定性。英特尔的 On Demand 驱动<a href=\"https://archsummit.infoq.cn/202303/beijing/track/1449\">程序</a>\"现在状态良好，已适用于第 4 代 Xeon 可扩展“Sapphire Rapids”CPU，并且初步支持 NVIDIA GeForce RTX 30 系列“Ampere”显卡，还可以使用 Nouveau 开源代码加速图形。</p><p>&nbsp;</p><p>此外，开发人员 Asahi Linux 指出，基于 Linux 的操作系统现在已经可以广泛地支持 <a href=\"https://www.infoq.cn/article/QkWjO4twAq64iIXw7fXQ\">Apple系列芯片</a>\"，包括 M1 Pro、M1 Max 和 M1 Ultra 芯片。</p><p>&nbsp;</p><p>新版本还合并了深度呼叫跟踪以帮助提纲旧<a href=\"https://www.infoq.cn/article/YMaAfipUq5wux6ceIBm5\">英特尔</a>\" Skylake 时代 PC 的性能，因为 Retbleed 比启用 IBRS 成本更低、各种文件系统驱动程序增强功能、安全性也均有改进。</p><p>&nbsp;</p><p>NTFS3 内核驱动程序的更新包括一个新的 Hidedotfiles 挂载选项（在 Windows 上查看时隐藏文件）；一个新的 nocase 不区分大小写的挂载选项，用于启用不区分大小写的文件夹/文件；和一个新的 windows_names 挂载选项，可防止文件/文件夹被赋予 Windows 中不允许的名称。</p><p>&nbsp;</p><p>在“新驱动程序”方面，Playstation HID 驱动程序支持 Sony DualShock 4 游戏手柄；支持 OneXPlayer 游戏手持设备中的传感器和风扇；支持 Havana Labs 的 <a href=\"https://www.infoq.cn/article/eN7XDIOthLtDr8Zkxpdh\">Gaudi2 AI 加速器</a>\"；以及华硕主板中的大量硬件监控传感器，包括 Rogue Crosshair VIII Xtem。</p><p>&nbsp;</p><p>Linux 6.2 中的其他显着特性包括：</p><p>&nbsp;</p><p>Nouveau 中早期的 Nvidia RTX 30/Ampere GPU 支持更新的 Zstd 压缩代码其他 Btrfs 性能增强Squashfs 文件系统的新挂载选项支持 Wi-Fi 7 和 800 Gbps 网络的基本功能在 exFAT 驱动程序中更快地创建文件/文件夹RISC-V 对持久性内存设备的支持英特尔 IFS 驱动程序现已稳定Intel Elder Lake N/Raptor Lake P 略有节电USB 4 连接唤醒/断开支持支持 ChromeOS 人体存在传感器 (HPS)Raspberry Pi 4K @ 60Hz 显示支持</p><p>&nbsp;</p><p>参考链接：</p><p><a href=\"https://www.omgubuntu.co.uk/2023/02/linux-kernel-6-2-new-features/amp\">https://www.omgubuntu.co.uk/2023/02/linux-kernel-6-2-new-features/amp</a>\"</p><p>&nbsp;</p>",
+    "publish_time": "2023-02-21 17:21:09",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
