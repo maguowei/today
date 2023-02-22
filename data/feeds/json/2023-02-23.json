@@ -1404,5 +1404,94 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "要支持青年科技人才挑大梁担重任",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%A6%81%E6%94%AF%E6%8C%81%E9%9D%92%E5%B9%B4%E7%A7%91%E6%8A%80%E4%BA%BA%E6%89%8D%E6%8C%91%E5%A4%A7%E6%A2%81%E6%8B%85%E9%87%8D%E4%BB%BB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "大学生吐槽洗澡太贵一次18元",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%90%90%E6%A7%BD%E6%B4%97%E6%BE%A1%E5%A4%AA%E8%B4%B5%E4%B8%80%E6%AC%A118%E5%85%83%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "小学生看到2岁男童独行一路护送",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E7%9C%8B%E5%88%B02%E5%B2%81%E7%94%B7%E7%AB%A5%E7%8B%AC%E8%A1%8C%E4%B8%80%E8%B7%AF%E6%8A%A4%E9%80%81%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "有哪些有趣的经典逻辑题？",
+    "url": "https://www.zhihu.com/question/571373524",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "执念太深了，怎么可以放下？",
+    "url": "https://www.zhihu.com/question/584109933",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "The US Supreme Court doesn’t understand the internet",
+    "url": "https://www.wired.com/story/the-supreme-court-section-230-the-internet/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34898288\">Comments</a>",
+    "publish_time": "2023-02-23 00:42:21",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: We’re open-sourcing our session replay tool",
+    "url": "https://github.com/highlight/highlight",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34897645\">Comments</a>",
+    "publish_time": "2023-02-23 00:02:26",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Google Stopping Coding Competitions",
+    "url": "https://developers.googleblog.com/2023/02/celebrate-googles-coding-competitions.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34900402\">Comments</a>",
+    "publish_time": "2023-02-23 02:34:24",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The dystopian underworld of South Africa’s illegal gold mines",
+    "url": "https://www.newyorker.com/magazine/2023/02/27/the-dystopian-underworld-of-south-africas-illegal-gold-mines",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34899606\">Comments</a>",
+    "publish_time": "2023-02-23 01:49:17",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
