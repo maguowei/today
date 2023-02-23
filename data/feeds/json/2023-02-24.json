@@ -1279,5 +1279,56 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "雷锋精神永不过时",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E9%94%8B%E7%B2%BE%E7%A5%9E%E6%B0%B8%E4%B8%8D%E8%BF%87%E6%97%B6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "实探上海巴奴火锅土豆11元6片",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AE%9E%E6%8E%A2%E4%B8%8A%E6%B5%B7%E5%B7%B4%E5%A5%B4%E7%81%AB%E9%94%85%E5%9C%9F%E8%B1%8611%E5%85%836%E7%89%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Stanford Faculty Say Anonymous Student Bias Reports Threaten Free Speech",
+    "url": "https://www.wsj.com/articles/stanford-faculty-moves-to-stop-students-from-reporting-bias-anonymously-cbac78ed",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34915535\">Comments</a>",
+    "publish_time": "2023-02-24 03:52:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Making It Legal to Play Outside: “Reasonable Childhood Independence” Bills",
+    "url": "https://letgrow.org/childhood-independence-bills-update/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34914913\">Comments</a>",
+    "publish_time": "2023-02-24 03:06:55",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Days Since Last Elon",
+    "url": "https://dayssincelastelon.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34916104\">Comments</a>",
+    "publish_time": "2023-02-24 04:34:22",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
