@@ -1534,5 +1534,96 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "写实到可怕的电影",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%86%99%E5%AE%9E%E5%88%B0%E5%8F%AF%E6%80%95%E7%9A%84%E7%94%B5%E5%BD%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "为什么说当下汽车出行，混动是更优技术选择?",
+    "url": "https://www.zhihu.com/question/586096292",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "家里要装修，如何在家里打造一个儿童阅读角？",
+    "url": "https://www.zhihu.com/question/584280917",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "能推荐一首好听的歌吗?",
+    "url": "https://www.zhihu.com/question/586055186",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Hamiltonian Monte Carlo",
+    "url": "https://bjlkeng.github.io/posts/hamiltonian-monte-carlo/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34928245\">Comments</a>",
+    "publish_time": "2023-02-25 02:47:42",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "One Year into the War in Ukraine",
+    "url": "https://acoup.blog/2023/02/24/collections-one-year-into-the-war-in-ukraine/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34929761\">Comments</a>",
+    "publish_time": "2023-02-25 04:36:21",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Sail a historical full-rigged ship in real global weather",
+    "url": "https://thapen.itch.io/painted-ocean",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34929968\">Comments</a>",
+    "publish_time": "2023-02-25 04:52:14",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How to Weaponize the Yubikey",
+    "url": "https://www.blackhillsinfosec.com/how-to-weaponize-the-yubikey/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34929309\">Comments</a>",
+    "publish_time": "2023-02-25 04:01:03",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Charge Robotics (YC S21) is hiring meches to build robots that build solar farms",
+    "url": "https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34930053\">Comments</a>",
+    "publish_time": "2023-02-25 05:00:00",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
