@@ -565,5 +565,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "曼联夺冠",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9B%BC%E8%81%94%E5%A4%BA%E5%86%A0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "钝评我是小妖怪",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%92%9D%E8%AF%84%E6%88%91%E6%98%AF%E5%B0%8F%E5%A6%96%E6%80%AA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
