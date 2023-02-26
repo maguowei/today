@@ -31,5 +31,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "你们认为 25 年内生产力是否会爆发式，指数级暴涨？",
+    "url": "https://www.v2ex.com/t/919198",
+    "summary": "8520ccc: 我认为生产力=人力+机械+自动化<br /><br />并且高度自动化后几乎可以不需要人力（不需要打螺丝的了！<br /><br />那么，今天人工智能有了新的突破（ chatGPT 应该算吧？<br /><br />是否会因此带来再一次的生产力爆发？<br /><br />并且是否有可能在未来的 25 年内一次又一次出现类似 ChatGPT 这种在大众意料之外的突破",
+    "publish_time": "2023-02-26 01:36:20",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "请问自己家里公网开 wireguard 或者 l2tp 有没有喝咖啡的风险",
+    "url": "https://www.v2ex.com/t/919218",
+    "summary": "lawse: <p>1.因为有不少资料需要出差随时访问,所以用 ros 搭了 l2tp+ipsec,还有 wireguard\n但是家里路由设置了出国线路,所以我在外面手机直接连家里的 wireguard,就能出国\n如果是这样的话,被运营商识别后有没有人才能风险?\n2.再请教一个问题,我家宽带是电信千兆,但是用电脑直接接光猫桥接拨号,或者用 N5105ros 拨号,都只有 500 兆左右,运维的小哥来了用他的那坨设备测试又说有 900 兆,我可以继续 10000 号投诉吗?</p>",
+    "publish_time": "2023-02-26 09:48:55",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
