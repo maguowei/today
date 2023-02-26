@@ -1406,5 +1406,85 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "让我改变的选择",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%AE%A9%E6%88%91%E6%94%B9%E5%8F%98%E7%9A%84%E9%80%89%E6%8B%A9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "男子吃完饭发现车被新装护栏挡住",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%90%83%E5%AE%8C%E9%A5%AD%E5%8F%91%E7%8E%B0%E8%BD%A6%E8%A2%AB%E6%96%B0%E8%A3%85%E6%8A%A4%E6%A0%8F%E6%8C%A1%E4%BD%8F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "泽连斯基展示过去一年住所房间",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%B1%95%E7%A4%BA%E8%BF%87%E5%8E%BB%E4%B8%80%E5%B9%B4%E4%BD%8F%E6%89%80%E6%88%BF%E9%97%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "被一只小狗碰瓷了",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%B8%80%E5%8F%AA%E5%B0%8F%E7%8B%97%E7%A2%B0%E7%93%B7%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Tech’s hottest new job: Prompt engineer",
+    "url": "https://www.washingtonpost.com/technology/2023/02/25/prompt-engineers-techs-next-big-job/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34947153\">Comments</a>",
+    "publish_time": "2023-02-27 01:09:41",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Inmos and the Transputer (1998)",
+    "url": "https://www.transputer.net/fbooks/iandt/inmos_transputer.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34948894\">Comments</a>",
+    "publish_time": "2023-02-27 04:13:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Video games for dogs aim to help aging canine brains",
+    "url": "https://www.axios.com/2022/11/28/dogs-video-games-joipaw",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34947942\">Comments</a>",
+    "publish_time": "2023-02-27 02:27:29",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Relic: Functional relational programming for Clojure(Script)",
+    "url": "https://github.com/wotbrew/relic",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34948816\">Comments</a>",
+    "publish_time": "2023-02-27 04:03:21",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
