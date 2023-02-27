@@ -1184,5 +1184,65 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "丫丫",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "宝可梦",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%8F%AF%E6%A2%A6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如果可以，35岁的你会对25岁的自己说些什么？",
+    "url": "https://www.zhihu.com/question/508559232",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Show HN: Natural Language Git (Gitgpt)",
+    "url": "https://github.com/Hesse/gitgpt",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34959565\">Comments</a>",
+    "publish_time": "2023-02-28 01:50:50",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Unit Testing PDF Generation",
+    "url": "https://nibblestew.blogspot.com/2023/02/unit-testing-pdf-generation.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34959670\">Comments</a>",
+    "publish_time": "2023-02-28 01:57:44",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Diffusion with Offset Noise: Finetuning SD to generate very dark or light images",
+    "url": "https://www.crosslabs.org//blog/diffusion-with-offset-noise",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34959639\">Comments</a>",
+    "publish_time": "2023-02-28 01:55:44",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
