@@ -1791,5 +1791,78 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "建议给3岁以下婴幼儿家庭发育儿补贴",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E7%BB%993%E5%B2%81%E4%BB%A5%E4%B8%8B%E5%A9%B4%E5%B9%BC%E5%84%BF%E5%AE%B6%E5%BA%AD%E5%8F%91%E8%82%B2%E5%84%BF%E8%A1%A5%E8%B4%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "2 月 27 日举办的宝可梦直面发布会有哪些看点？",
+    "url": "https://www.zhihu.com/question/586601321",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "TCG TPM2.0 implementations vulnerable to memory corruption",
+    "url": "https://kb.cert.org/vuls/id/782720",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34974406\">Comments</a>",
+    "publish_time": "2023-03-01 04:31:08",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "OpenAI&#x27;s Foundry leaked pricing says a lot",
+    "url": "https://cognitiverevolution.substack.com/p/openais-foundry-leaked-pricing-says",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34973654\">Comments</a>",
+    "publish_time": "2023-03-01 03:26:45",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A spellchecker used to be a major feat of software engineering (2008)",
+    "url": "https://prog21.dadgum.com/29.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34971924\">Comments</a>",
+    "publish_time": "2023-03-01 01:17:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Offshore Networks of Oligarchs",
+    "url": "https://academic.oup.com/pnasnexus/advance-article/doi/10.1093/pnasnexus/pgad051/7059318",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34971717\">Comments</a>",
+    "publish_time": "2023-03-01 01:02:37",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Jailbreak Chat: A collection of ChatGPT jailbreaks",
+    "url": "https://www.jailbreakchat.com",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34972791\">Comments</a>",
+    "publish_time": "2023-03-01 02:19:21",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
