@@ -482,5 +482,16 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Blog: KWOK: Kubernetes WithOut Kubelet",
+    "url": "https://www.kubernetes.dev/blog/2023/03/01/introducing-kwok/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34978264\">Comments</a>",
+    "publish_time": "2023-03-01 11:04:07",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
