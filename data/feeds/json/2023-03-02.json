@@ -1545,5 +1545,107 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "刘耀文三月随拍",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E4%B8%89%E6%9C%88%E9%9A%8F%E6%8B%8D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "成毅巴黎时装周停车场大片",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8%E5%81%9C%E8%BD%A6%E5%9C%BA%E5%A4%A7%E7%89%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "子女受父母胁迫结婚可申请撤销",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AD%90%E5%A5%B3%E5%8F%97%E7%88%B6%E6%AF%8D%E8%83%81%E8%BF%AB%E7%BB%93%E5%A9%9A%E5%8F%AF%E7%94%B3%E8%AF%B7%E6%92%A4%E9%94%80%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "比北极熊娇小的北极狐，为什么能长期生活在北极？",
+    "url": "https://www.zhihu.com/question/586758033",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "90% of Kidnappings in São Paulo result from dates on Tinder and similar apps",
+    "url": "https://restofworld.org/2023/tinder-robberies-dating-apps-brazil/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34987317\">Comments</a>",
+    "publish_time": "2023-03-02 03:47:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The SPAC Fad Is Ending in a Pile of Bankruptcies and Fire Sales",
+    "url": "https://www.bloomberg.com/news/articles/2023-02-28/spac-era-ends-as-companies-that-ipo-d-struggle",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34988166\">Comments</a>",
+    "publish_time": "2023-03-02 04:52:33",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Service Weaver: A Framework for Writing Distributed Applications",
+    "url": "https://opensource.googleblog.com/2023/03/introducing-service-weaver-framework-for-writing-distributed-applications.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34986267\">Comments</a>",
+    "publish_time": "2023-03-02 02:25:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Lost at C: A user study on the security of LLM coding assistants",
+    "url": "https://arxiv.org/abs/2208.09727",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34987130\">Comments</a>",
+    "publish_time": "2023-03-02 03:32:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Twilight of the Libraries: What Gets Lost When Books Go Off-Site and Online (2022)",
+    "url": "https://thewalrus.ca/library-digitization/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34986903\">Comments</a>",
+    "publish_time": "2023-03-02 03:15:56",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "You cannot have exactly-once delivery (2015)",
+    "url": "https://bravenewgeek.com/you-cannot-have-exactly-once-delivery/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=34986691\">Comments</a>",
+    "publish_time": "2023-03-02 02:52:43",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
