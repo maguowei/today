@@ -1474,5 +1474,171 @@
       "desc": "知乎热榜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
     }
+  },
+  {
+    "title": "黄绮珊状态",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%BB%AE%E7%8F%8A%E7%8A%B6%E6%80%81%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如果装修可以重来一次，你会特别注意哪些细节？",
+    "url": "https://www.zhihu.com/question/585164275",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "法国传奇球星方丹去世享年 89 岁，创造世界杯单届进球数纪录至今无人打破，如何评价他的足坛成就？",
+    "url": "https://www.zhihu.com/question/586936743",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "城市中单程 35 公里通勤，有折叠自行车值得推荐吗？",
+    "url": "https://www.zhihu.com/question/585538030",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "有哪些滚筒洗衣机值得推荐，好的滚筒洗衣机要怎么选择？",
+    "url": "https://www.zhihu.com/question/584026189",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美股三大指数集体收涨，热门中概股普涨",
+    "url": "https://www.36kr.com/newsflashes/2154922197311233",
+    "summary": "36氪获悉，3月1日收盘，美股三大指数集体上涨，道指涨1.05%，标普500指数涨0.76%，纳指涨0.73%。大型科技股涨跌不一，特斯拉跌近6%，谷歌、微软涨近2%，Meta、苹果小幅上涨。热门中概股普涨，哔哩哔哩涨超9%，爱奇艺涨超8%，拼多多、小鹏汽车涨超5%，百度、富途控股、网易涨超4%，理想汽车涨超3%，蔚来、京东、腾讯音乐涨超2%。",
+    "publish_time": "2023-03-03 07:00:13",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Scaling to millions of users with Google Sheets as a back end",
+    "url": "https://www.levels.fyi/blog/scaling-to-millions-with-google-sheets.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35002222\">Comments</a>",
+    "publish_time": "2023-03-03 05:18:43",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Inverse Jim Cramer ETF",
+    "url": "https://www.nasdaq.com/articles/inverse-cramer-etf-is-coming-to-the-real-world",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35000195\">Comments</a>",
+    "publish_time": "2023-03-03 03:03:29",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Stop the Medicare “Advantage” Scam Before Medicare Is Dead",
+    "url": "https://hartmannreport.com/p/stop-the-medicare-advantage-scam",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35001728\">Comments</a>",
+    "publish_time": "2023-03-03 04:40:46",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Nutlope&#x2f;roomGPT: open-source clone of Interior.AI",
+    "url": "https://github.com/Nutlope/roomGPT",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35001046\">Comments</a>",
+    "publish_time": "2023-03-03 03:55:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Aviator (YC S21) Is hiring senior engineers interested in dev productivity",
+    "url": "https://www.ycombinator.com/companies/aviator/jobs",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35002019\">Comments</a>",
+    "publish_time": "2023-03-03 05:01:16",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A highly replicable decline in mood during rest and simple tasks",
+    "url": "https://www.nature.com/articles/s41562-023-01519-7",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35002942\">Comments</a>",
+    "publish_time": "2023-03-03 06:24:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Rows 2.0: The easiest way to use data on a spreadsheet",
+    "url": "https://rows.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35002720\">Comments</a>",
+    "publish_time": "2023-03-03 06:04:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "My manager spent $1M on a backup server that I never used",
+    "url": "https://blog.dijit.sh//that-time-my-manager-spend-1m-on-a-backup-server",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35001272\">Comments</a>",
+    "publish_time": "2023-03-03 04:11:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "New F-Droid repository format for faster and smaller updates",
+    "url": "https://f-droid.org/2023/03/01/new-repo-format-faster-smaller-updates.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35002983\">Comments</a>",
+    "publish_time": "2023-03-03 06:28:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "来了！新闻早班车",
+    "url": "https://mp.weixin.qq.com/s/1on_0Zl_YcyS4nk6R_hjtA",
+    "summary": "来了！新闻早班车",
+    "publish_time": "2023-03-03 06:10:08",
+    "source": {
+      "name": "people_daily_gzh",
+      "desc": "人民日报公众号",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
+    }
   }
 ]
