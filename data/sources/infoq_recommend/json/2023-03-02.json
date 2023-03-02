@@ -1,0 +1,13 @@
+[
+  {
+    "title": "eBay开发新的推荐模型，从数据中挖掘商机",
+    "url": "https://www.infoq.cn/article/fDOk6qFWhhRr5ppQGDd8",
+    "summary": "<p>eBay基于自然语言处理（<a href=\"https://en.wikipedia.org/wiki/Natural_language_processing\">NLP</a>\"）技术，特别是<a href=\"https://arxiv.org/abs/1810.04805\">BERT</a>\"模型开发了一个<a href=\"https://tech.ebayinc.com/engineering/how-ebay-created-a-language-model-with-three-billion-item-titles/\">新的推荐模型</a>\"。这个被称为“Ranker”的新模型使用词袋之间的距离得分作为特征，从语义角度分析商品标题信息。与之前的模型相比，Ranker帮助eBay将原生应用（Android和iOS）和Web平台上的购买、点击和广告指标分别提升了3.76%、2.74%和4.06%。</p><p>&nbsp;</p><p>eBay Promoted Listing Similar Reccomendation Model（<a href=\"https://dl.acm.org/doi/10.1145/2959100.2959166\">PLSIM</a>\"）由三个阶段组成。其中获取Promoted Listing Similar，也就是所谓的“召回集”，是最为相关的。应用使用离线历史数据训练过的Ranker，根据购买的可能性对召回集进行排序，通过合并卖家广告率对列表进行重新排序。这个模型的特征包括：推荐商品历史数据、推荐商品与种子商品的相似性、产品类别、国家和用户个性化特征。使用<a href=\"https://en.wikipedia.org/wiki/Gradient_boosting\">梯度提升树</a>\"对模型进行连续训练，根据相对购买概率对商品进行排序。在相似度检测中加入基于深度学习的特征显著提升了性能。</p><p>&nbsp;</p><p>之前的推荐排名模型使用Term Frequency-Inverse Document Frequency（<a href=\"https://en.wikipedia.org/wiki/Tf%E2%80%93idf\">TF-IDF</a>\"）和<a href=\"https://en.wikipedia.org/wiki/Jaccard_index\">Jaccard</a>\"<a href=\"https://www.iaeng.org/publication/IMECS2013/IMECS2013_pp380-384.pdf\">相似度</a>\"来评估产品标题。这种基于节点标记的方法存在最基本的局限性，并且它不会考虑句子的上下文和同义词。相反，基于深度学习的BERT在语言理解方面表现出色。由于eBay语料库不同于书籍和维基百科，eBay工程师引入了eBERT，一种BERT变体，使用eBay商品标题数据进行了预训练。它使用维基百科的2.5亿个句子和eBay的30亿个多语言标题进行了训练。在离线评估中，这个eBERT模型在eBay的一组标记任务上的表现显著优于开箱即用的BERT模型，F1得分为88.9。</p><p>&nbsp;</p><p>eBERT架构对于高吞吐量推断来说太重了，可能无法及时推送推荐结果。为了解决这个问题，eBay开发了另一个模型microBERT，它是BERT的另一个轻量级版本，并针对CPU推理进行了优化。microBERT将eBERT作为训练阶段的老师，使用了知识蒸馏过程。通过这种方式，microBERT保留了相当于eBERT 95%到98%的推理质量，而时间减少了300%。</p><p>&nbsp;</p><p>最后，microBERT使用了叫作<a href=\"https://arxiv.org/abs/1807.03748v2\">InfoNCE</a>\"的对比损失函数进行微调。商品标题被编码成词袋向量，模型的训练目标为增加已知彼此相关的这些向量（表示标题的词袋）之间主题距离的余弦相似度，同时降低迷你批次中所有其他商品标题对的余弦相似度。</p><p>&nbsp;</p><p>这种新的排名模型在购买排名（售出商品的平均排名）方面有3.5%的改进，但其复杂性导致难以进行实时的推荐。这就是为什么要通过日批处理作业生成标题词袋，并存储在NuKV（eBay的云原生键值存储）中，将商品标题作为键，词袋作为值。通过这种方法，eBay能够满足其在延迟方面的要求。</p><p>&nbsp;</p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2023/01/ebay-recommendations-odel/\">https://www.infoq.com/news/2023/01/ebay-recommendations-odel/</a>\"</p><p></p><p>相关阅读：</p><p><a href=\"https://www.infoq.cn/article/gxIEsqB7HZmhjEG7qjGH\">构建生产可用的推荐系统需要注意哪些问题？</a>\"</p><p><a href=\"https://www.infoq.cn/video/bxRbfmTSRolVeV6oyc9u\">京东电商推荐系统的应用实践|InfoQ 公开课</a>\"</p><p><a href=\"https://www.infoq.cn/article/3eRgwJ2zgciEvGu73XGs\">推荐系统的未来发展</a>\"</p>",
+    "publish_time": "2023-03-02 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
