@@ -1348,5 +1348,25 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "美国一州设毒品安全注射点方便吸毒者",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E5%B7%9E%E8%AE%BE%E6%AF%92%E5%93%81%E5%AE%89%E5%85%A8%E6%B3%A8%E5%B0%84%E7%82%B9%E6%96%B9%E4%BE%BF%E5%90%B8%E6%AF%92%E8%80%85%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "AirPods causing tinnitus?",
+    "url": "https://discussions.apple.com/thread/250886390",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35023808\">Comments</a>",
+    "publish_time": "2023-03-05 03:42:05",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
