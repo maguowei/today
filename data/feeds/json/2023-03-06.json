@@ -1055,5 +1055,118 @@
       "desc": "人民日报公众号",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
     }
+  },
+  {
+    "title": "震后松毛虫大规模入侵土耳其",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9C%87%E5%90%8E%E6%9D%BE%E6%AF%9B%E8%99%AB%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%85%A5%E4%BE%B5%E5%9C%9F%E8%80%B3%E5%85%B6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "两会",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%BC%9A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "苹果手表续航为什么那么差?",
+    "url": "https://www.zhihu.com/question/547876737",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "《明日方舟：终末地》即将一测，各位对这款游戏有什么期待吗？",
+    "url": "https://www.zhihu.com/question/587733303",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "How to hire engineering talent without the BS",
+    "url": "https://jes.al/2023/03/how-to-hire-engineering-talent-without-the-bs/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35031474\">Comments</a>",
+    "publish_time": "2023-03-06 01:03:49",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Achieving High-Performance the Functional Way",
+    "url": "https://dl.acm.org/doi/pdf/10.1145/3408974",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35030796\">Comments</a>",
+    "publish_time": "2023-03-06 00:05:25",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Self Hosted SaaS Alternatives",
+    "url": "https://tedium.co/2023/03/04/self-hosted-saas-app-alternatives/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35031109\">Comments</a>",
+    "publish_time": "2023-03-06 00:35:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "7 Weeks AI Alignment Curriculum",
+    "url": "https://www.agisafetyfundamentals.com/ai-alignment-curriculum",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35031023\">Comments</a>",
+    "publish_time": "2023-03-06 00:25:25",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Old Wisdom on Daily Meal Frequency",
+    "url": "https://theiflife.com/wisdom-day-meal-frequency/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35031284\">Comments</a>",
+    "publish_time": "2023-03-06 00:48:12",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Why does the all 0 public key have a known private key in SR25519 and ED25519?",
+    "url": "https://substrate.stackexchange.com/questions/982/why-does-the-all-0-public-key-have-a-known-private-key-in-sr25519-and-ed25519",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35031405\">Comments</a>",
+    "publish_time": "2023-03-06 00:58:22",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "After Dark Screensavers in CSS",
+    "url": "https://www.bryanbraun.com/after-dark-css/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35031545\">Comments</a>",
+    "publish_time": "2023-03-06 01:10:55",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]

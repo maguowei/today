@@ -511,5 +511,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "震后松毛虫大规模入侵土耳其",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9C%87%E5%90%8E%E6%9D%BE%E6%AF%9B%E8%99%AB%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%85%A5%E4%BE%B5%E5%9C%9F%E8%80%B3%E5%85%B6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "两会",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%BC%9A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
