@@ -1423,5 +1423,58 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "长安深蓝首秀惊艳巴黎",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%AE%89%E6%B7%B1%E8%93%9D%E9%A6%96%E7%A7%80%E6%83%8A%E8%89%B3%E5%B7%B4%E9%BB%8E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "How ChatGPT was built from the people who made it",
+    "url": "https://www.technologyreview.com/2023/03/03/1069311/inside-story-oral-history-how-chatgpt-built-openai/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35032451\">Comments</a>",
+    "publish_time": "2023-03-06 02:30:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Lifting Discrete Logarithm Based Cryptography to Post-Quantum Cryptography",
+    "url": "https://eprint.iacr.org/2023/318",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35032922\">Comments</a>",
+    "publish_time": "2023-03-06 03:18:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Depression, Anxiety, and Stress Spread Through Employee Mobility",
+    "url": "https://journals.sagepub.com/doi/epub/10.1177/00018392211014819",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35032286\">Comments</a>",
+    "publish_time": "2023-03-06 02:13:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: A HN clone writen in go",
+    "url": "https://remoterenters.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35033368\">Comments</a>",
+    "publish_time": "2023-03-06 04:02:00",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
