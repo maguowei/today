@@ -185,5 +185,27 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Learning to Summarize from Human Feedback",
+    "url": "https://arxiv.org/abs/2009.01325",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35025221\">Comments</a>",
+    "publish_time": "2023-03-05 06:41:17",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Boehm-Demers-Weiser Garbage Collector",
+    "url": "https://github.com/ivmai/bdwgc",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35023833\">Comments</a>",
+    "publish_time": "2023-03-05 03:44:48",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
