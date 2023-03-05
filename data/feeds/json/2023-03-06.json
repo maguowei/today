@@ -1283,5 +1283,145 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "速览2023年政府工作报告",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%80%9F%E8%A7%882023%E5%B9%B4%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "中国菌 太空芯",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%8F%8C+%E5%A4%AA%E7%A9%BA%E8%8A%AF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "国家医保局回应患者15天必须出院",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%8C%BB%E4%BF%9D%E5%B1%80%E5%9B%9E%E5%BA%94%E6%82%A3%E8%80%8515%E5%A4%A9%E5%BF%85%E9%A1%BB%E5%87%BA%E9%99%A2%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "浙江渔民误捕疑海猪后果断放生",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E6%B8%94%E6%B0%91%E8%AF%AF%E6%8D%95%E7%96%91%E6%B5%B7%E7%8C%AA%E5%90%8E%E6%9E%9C%E6%96%AD%E6%94%BE%E7%94%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "22-23 赛季英超利物浦 7:0 曼联，如何评价这场比赛？",
+    "url": "https://www.zhihu.com/question/587776542",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "到底有哪些补品真正有用？",
+    "url": "https://www.zhihu.com/question/367477647",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么说《塞尔达传说：荒野之息》难以复制？",
+    "url": "https://www.zhihu.com/question/586628150",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "ChatGPT broke the EU plan to regulate AI",
+    "url": "https://www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35032746\">Comments</a>",
+    "publish_time": "2023-03-06 03:01:18",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Lander, a lunar lander style web game",
+    "url": "https://ehmorris.com/lander/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35032506\">Comments</a>",
+    "publish_time": "2023-03-06 02:35:12",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A Criticism of JavaScript Cryptography",
+    "url": "https://blog.bren2010.io/blog/criticism-of-javascript-crypto",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35032638\">Comments</a>",
+    "publish_time": "2023-03-06 02:47:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Tufte CSS",
+    "url": "https://edwardtufte.github.io/tufte-css/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35032334\">Comments</a>",
+    "publish_time": "2023-03-06 02:18:35",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "RailsCasts Retrospective Part 1: The Fuel",
+    "url": "https://rbates.dev/railscasts-retrospective-part-1-the-fuel",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35032650\">Comments</a>",
+    "publish_time": "2023-03-06 02:50:13",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: TuringJest – Pretend to be an AI and spot the real one",
+    "url": "https://www.turingjest.app/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35032634\">Comments</a>",
+    "publish_time": "2023-03-06 02:47:37",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Safety and Soundness in Rust",
+    "url": "https://jacko.io/safety_and_soundness.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35032915\">Comments</a>",
+    "publish_time": "2023-03-06 03:18:26",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
