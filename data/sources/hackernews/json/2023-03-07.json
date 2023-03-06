@@ -119,5 +119,49 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Cities: Skylines II",
+    "url": "https://store.steampowered.com/app/949230/Cities_Skylines_II/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35044355\">Comments</a>",
+    "publish_time": "2023-03-07 01:41:06",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Rux: A JSX-inspired way to render view components in Ruby",
+    "url": "https://github.com/camertron/rux",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35045138\">Comments</a>",
+    "publish_time": "2023-03-07 02:18:37",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Rapid growth, lessons learned and improvements at Fly.io",
+    "url": "https://community.fly.io/t/reliability-its-not-great/11253",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35044516\">Comments</a>",
+    "publish_time": "2023-03-07 01:47:28",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Bevy 0.10: data oriented game engine built in Rust",
+    "url": "https://bevyengine.org/news/bevy-0-10/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35045224\">Comments</a>",
+    "publish_time": "2023-03-07 02:23:06",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
