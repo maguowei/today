@@ -1750,5 +1750,65 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "U20亚洲杯",
+    "url": "https://s.weibo.com/weibo?q=%23U20%E4%BA%9A%E6%B4%B2%E6%9D%AF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "轻型甲流患者一周左右可自愈",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BD%BB%E5%9E%8B%E7%94%B2%E6%B5%81%E6%82%A3%E8%80%85%E4%B8%80%E5%91%A8%E5%B7%A6%E5%8F%B3%E5%8F%AF%E8%87%AA%E6%84%88%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "《狂飙》中为什么徐江这么容易被扳倒，但是高启强却能维持二十年不倒？",
+    "url": "https://www.zhihu.com/question/583429203",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美股三大指数收盘涨跌不一，热门中概股普跌",
+    "url": "https://www.36kr.com/newsflashes/2160558213095682",
+    "summary": "36氪获悉，3月6日收盘，美股三大指数涨跌不一，道指涨0.12%，纳指跌0.11%，标普500指数涨0.07%。大型科技股涨跌不一，苹果、谷歌涨超1%，微软涨0.62%，特斯拉跌超2%，亚马逊跌1.21%，Netflix跌1%；热门中概股普跌，知乎、B站、微博跌超4%，新东方跌超3%，百度、拼多多、蔚来、小鹏汽车、唯品会跌超2%，京东、36氪涨近1%。",
+    "publish_time": "2023-03-07 07:00:22",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Taiwan is a vital island that is under serious threat",
+    "url": "https://www.economist.com/special-report/2023/03/06/taiwan-is-a-vital-island-that-is-under-serious-threat",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35047983\">Comments</a>",
+    "publish_time": "2023-03-07 05:35:39",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Roku devices don&#x27;t support IPv6 in 2023 and it&#x27;s costing ISPs",
+    "url": "https://community.roku.com/t5/Features-settings-updates/It-s-2022-and-still-no-IPv6/m-p/854673/highlight/true#M35732",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35047624\">Comments</a>",
+    "publish_time": "2023-03-07 05:09:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
