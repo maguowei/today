@@ -108,5 +108,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "说说我的买手机策略",
+    "url": "https://www.v2ex.com/t/922236",
+    "summary": "wangweitung: <h1>仅分享想法，非引战。</h1>\n<h2>我的观点</h2>\n<ol>\n<li>手机现在本来就性能过剩。故没有必要非去买安卓或苹果的旗舰机。</li>\n<li>技术每年更新换代。每 1 年 /1.5 年换新是可以的。</li>\n<li>手机也是消耗品，如果买的太贵，摔了、丢了都很心疼，不如放弃执念，随便用。</li>\n<li>应该减法生活，及时处理淘汰的旧手机。而非放一抽屉旧手机。</li>\n</ol>\n<h2>我的做法</h2>\n<p>现阶段选择可以刷机的红米 Note 系列。买之前先看有无台湾版 ROM 。买完后，7 天解锁 bootloader 。然后刷机。也可以刷入 Magisk ，再用 Lsposed 可以用很多插件。我基本从红米 Note7-&gt;红米 Note9-&gt;红米 Note11 。还准备继续这么买下去。假如有天红米 Note 不支持解锁 bl 了，再去考虑换其他系列。</p>\n<h2>这么做的原因：</h2>\n<ol>\n<li>手机便宜，通常是 1000-1500 左右。</li>\n<li>刷机后无广告，可以使用 Google 全家桶。</li>\n<li>假如摔了、丢了不心疼。</li>\n<li>使用 1-1.5 年，然后京东爱回收卖掉。一般可以卖 200-300 元。这样基本可以年年换新，成本价格大概是 700-1200 元 /台。</li>\n<li>若是买安卓或苹果的旗舰级，一般在 5000-8000 。也就用 1-2 年。若按照以上的价格买，可以用 5-8 年，而且基本年年换新。</li>\n</ol>",
+    "publish_time": "2023-03-08 14:00:10",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
