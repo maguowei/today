@@ -1252,5 +1252,83 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "成毅英雄志吊威亚路透",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E8%8B%B1%E9%9B%84%E5%BF%97%E5%90%8A%E5%A8%81%E4%BA%9A%E8%B7%AF%E9%80%8F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "2023年德国羽毛球公开赛",
+    "url": "https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E5%BE%B7%E5%9B%BD%E7%BE%BD%E6%AF%9B%E7%90%83%E5%85%AC%E5%BC%80%E8%B5%9B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "北溪管道被炸是亲乌团体所为",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%BA%AA%E7%AE%A1%E9%81%93%E8%A2%AB%E7%82%B8%E6%98%AF%E4%BA%B2%E4%B9%8C%E5%9B%A2%E4%BD%93%E6%89%80%E4%B8%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "3 月 8 日 A 股三大指数小幅下跌，6G、光刻胶板块大涨，两市超3500股上涨，如何看待今日行情？",
+    "url": "https://www.zhihu.com/question/588255949",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "所以，读书的意义是什么？",
+    "url": "https://www.zhihu.com/question/588157649",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Room-temperature superconductor discovery meets with resistance",
+    "url": "https://www.quantamagazine.org/room-temperature-superconductor-discovery-meets-with-resistance-20230308/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35070643\">Comments</a>",
+    "publish_time": "2023-03-09 00:01:49",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "FTC bars GoodRx from sharing consumers’ sensitive health info for advertising",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2023/02/ftc-enforcement-action-bar-goodrx-sharing-consumers-sensitive-health-info-advertising",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35072058\">Comments</a>",
+    "publish_time": "2023-03-09 01:35:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: CodeGPT.nvim – ChatGPT plugin for Neovim",
+    "url": "https://github.com/dpayne/CodeGPT.nvim",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35071755\">Comments</a>",
+    "publish_time": "2023-03-09 01:15:00",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
