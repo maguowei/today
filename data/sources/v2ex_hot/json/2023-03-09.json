@@ -20,5 +20,49 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "纳税汇算清缴填赡养老人被拒了",
+    "url": "https://www.v2ex.com/t/922473",
+    "summary": "chenpei466: 楼主独生子女，父亲已过世，所以每月会固定打钱孝敬奶奶<br /><br />汇算清缴填赡养老人被拒，要求补充独生子女证，从小到大没见过这玩意。<br /><br />他妈的，想从他们嘴里拿点东西真是难于登天",
+    "publish_time": "2023-03-09 09:41:16",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "别人恐惧我加仓，新人一枚，刚刚养鸡，抄底新能源，有一起的吗，或者有好🐔推荐没",
+    "url": "https://www.v2ex.com/t/922486",
+    "summary": "happyoneday:",
+    "publish_time": "2023-03-09 10:03:12",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "小白真诚求问， Java web 开发究竟啥场景需要用到多线程各种天花烂醉锁？",
+    "url": "https://www.v2ex.com/t/922519",
+    "summary": "GraySoul: <p>本人是个啥都会点的多栈开发。\n最近在准备面试，看到 java 面试题里考各种并发各种锁，一脸懵逼。\n我写了这么多年 web 就没用过多线程，感觉自己属实弱，我单纯地觉得，真有那么多耗时需求扔消息队列里不就行了么？现在 java web 到底都在开发啥玩意，为啥这些都是面试重点呢？</p>\n<p>没别的意思，是真不懂。。想问问具体有哪些场景。别的语言的程序员朋友们也欢迎指教，我写其他语言的 web 也没用过。。。我可能就是传说中的 crud 工程师= =</p>",
+    "publish_time": "2023-03-09 11:00:54",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "以前感觉 HTTPS 很安全，现在有一点点改变看法了。",
+    "url": "https://www.v2ex.com/t/922534",
+    "summary": "tool2d: HTTPS 安全是因为有 SSL 加密，网管直接抓包是看不到具体内容的。<br /><br />但是，我发现 chrome 会把很安全的 SSL 密钥导出到明文，仅仅只需要设置一个系统环境变量(SSLKEYLOGFILE)，就能轻易做到！<br /><br />这意味着，公司网管只要在我机器上简简单单配置一个环境变量，我电脑上 chrome 浏览的所有网站，用户密码，他都能直接看到。并且 chrome 浏览器毫无风险提示信息，让人非常没有安全感。",
+    "publish_time": "2023-03-09 11:50:25",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
