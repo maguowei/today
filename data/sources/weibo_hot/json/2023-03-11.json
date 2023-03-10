@@ -457,5 +457,41 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "全国两会时光",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E4%B8%A4%E4%BC%9A%E6%97%B6%E5%85%89%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "韩剧TV崩了",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%89%A7TV%E5%B4%A9%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "邓超遇见冰雪甄嬛",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E9%81%87%E8%A7%81%E5%86%B0%E9%9B%AA%E7%94%84%E5%AC%9B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "妍珍的笑",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A6%8D%E7%8F%8D%E7%9A%84%E7%AC%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
