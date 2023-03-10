@@ -75,5 +75,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "兄弟们，三星现在最新的 tf 卡顺序读写速度只有 20MB/s 正常吗？是不是买到残次品了？",
+    "url": "https://www.v2ex.com/t/922764",
+    "summary": "Richard14: <p>如题，扩展手机买了个 SD 卡，回家往里拷大文件反复试了多次，无论读取还是写入速度都只有 20MB/s ，反复尝试了多个读卡器，多台电脑，多个 USB3.0 插口，其中还有一次原生接到树莓派上用 dd 测试，不经过读卡器，结果都是 20MB/s 。</p>\n<p>三星标称读写是 130MBps ，我睁大眼睛看了看他写的是 MB 不是 Mb 吧。另外它卡上标的 U3-A30 ，也就是说就算是老化卡，最起码也要保证 30MB/s 的读写速度，我这现在连 30 都没有，是不是买到残次品了？</p>\n<p>上个月买过同型号的卡也是类似的情况，读写只有 30M ，问题在于这确实是天猫官方旗舰店买的，还是所有卡都这样，给我整的有点不自信了，是不是我测试方法出错了？</p>\n<p>上个月我还吐槽这怎么虚标这么多，因为 128G 的卡没多少钱，我以为就是运气不好踩雷了，所以打个差评也就完事了，这回看视频研究了研究还是三星的标称参数最好，又买的是 512G 的卡，大几百块钱，速度慢成这样，实在是有点生气了。</p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/p72W5nS.png\" /></p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/cZBNv37.png\" /></p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/rZ8NQs7.png\" /></p>",
+    "publish_time": "2023-03-10 09:02:40",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "今天开始停缴社保了",
+    "url": "https://www.v2ex.com/t/922817",
+    "summary": "8eacekeep: <p>刚刚收到社保局的短信</p>\n<p>感觉这辈子是领不到退休金了</p>",
+    "publish_time": "2023-03-10 11:04:07",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
