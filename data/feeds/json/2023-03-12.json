@@ -1414,5 +1414,45 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "上班时最崩溃的事",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E7%8F%AD%E6%97%B6%E6%9C%80%E5%B4%A9%E6%BA%83%E7%9A%84%E4%BA%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "《黑暗荣耀》里为什么朴妍珍不跟孩子的生父全在俊在一起？",
+    "url": "https://www.zhihu.com/question/576773829",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "How to Insure Your Money When You’re Banking over $250K (2022)",
+    "url": "https://www.nerdwallet.com/article/banking/how-to-insure-your-money-when-youre-banking-over-250k",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35109420\">Comments</a>",
+    "publish_time": "2023-03-12 00:00:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Large language models are having their Stable Diffusion moment",
+    "url": "https://simonwillison.net/2023/Mar/11/llama/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35111646\">Comments</a>",
+    "publish_time": "2023-03-12 03:19:19",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
