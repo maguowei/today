@@ -86,5 +86,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "内地移动号漫游 hk，谷歌可用？",
+    "url": "https://www.v2ex.com/t/923297",
+    "summary": "dream0689: <p>内地移动号目前正在 hk 漫游，意外发现某哥可通，地图也可用，走的阿里云？其他 v 站，脸书，油管不通。\n手机网页版不能传图？</p>",
+    "publish_time": "2023-03-12 09:30:37",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "通知滤盒 FilterBox 新功能：纯 Android 端的机器学习过滤（送码）",
+    "url": "https://www.v2ex.com/t/923401",
+    "summary": "little_cup: <h1>通知滤盒</h1>\n<p>通知滤盒 FilterBox 是我开发的，一个老牌的 Android 端的综合通知管理器：</p>\n<ul>\n<li>国内请访问酷安下载: <a href=\"https://coolapk.com/apk/com.catchingnow.np\" rel=\"nofollow\">https://coolapk.com/apk/com.catchingnow.np</a></li>\n<li>国外请访问 Google Play: <a href=\"https://play.google.com/store/apps/details?id=com.catchingnow.np\" rel=\"nofollow\">https://play.google.com/store/apps/details?id=com.catchingnow.np</a></li>\n</ul>\n<p><img alt=\"通知滤盒介绍\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.v2ex.co/p89OL4Eg.png\" /></p>\n<h1>机器学习过滤</h1>\n<p>最近很花了一番功夫，新增了基于机器学习的通知过滤功能。基于广大网友们投喂的通知样本进行训练，提供了最适合简中互联网环境的，开箱即用的过滤体验。</p>\n<p><img alt=\"机器学习功能介绍\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.v2ex.co/VZCHDghR.png\" /></p>\n<p>无论是营销短信，还是烦人的 app 推送，通知栏可见的，都可过滤。</p>\n<p><img alt=\"机器学习判断举例\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.v2ex.co/9Ra50VH7.png\" /></p>\n<h1>设备端学习</h1>\n<p>与众不同的是，它还支持<strong>设备端学习</strong>，可以持续学习你的使用习惯，为你提供独一无二的个性化策略。</p>\n<p>举个栗子，默认不过滤应用商店更新提示。但只要你在通知历史里点大约 2-3 次「是骚扰通知」，它就学懂你的意思了。</p>\n<p>这里有一段我录的<a href=\"https://iceboxdoc.catchingnow.cn/files/%E5%BD%95%E5%B1%8F-%E9%80%9A%E7%9F%A5%E6%BB%A4%E7%9B%92-%E8%AE%BE%E5%A4%87%E7%AB%AF%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.mp4\" rel=\"nofollow\"> [演示手机截屏] </a></p>\n<h1>隐私</h1>\n<p>无论通知过滤还是个性化学习，所有机器学习相关的功能都是<strong>完全运行在手机上的</strong>。当然也欢迎大家开启设置中的分享数据选项<strong>（默认关闭）</strong>，为 App 的后续建设添砖加瓦。</p>\n<h1>哪里下载？</h1>\n<ul>\n<li>国内请访问酷安下载: <a href=\"https://coolapk.com/apk/com.catchingnow.np\" rel=\"nofollow\">https://coolapk.com/apk/com.catchingnow.np</a></li>\n<li>国外请访问 Google Play: <a href=\"https://play.google.com/store/apps/details?id=com.catchingnow.np\" rel=\"nofollow\">https://play.google.com/store/apps/details?id=com.catchingnow.np</a></li>\n</ul>\n<h1>送码</h1>\n<p>Google Play 下载的版本才能使用兑换码，兑换链接 <a href=\"https://play.google.com/redeem\" rel=\"nofollow\">https://play.google.com/redeem</a></p>\n<p>活动和上次一样，包含 3 个部分，首先是直接送 10 个，手慢无</p>\n<pre><code>KET0RNYV3YZDRY5YZZLEZ61\n751B34AD8VMJQ8WXFF6273T\n96NR9T7CCZ21Q6VN4B9CZRZ\nMMAP1D2YGDJ0WU3PSBC4XW7\nG7ZX1W35HT72S0ENYD07WNP\n3CJJGZWHXQZV6DNWHDM2247\nJH2FBM8UQA8V7G9Z08FRAAL\nECC7HTLPNDRS5A6XNU28QSJ\nMND9U3V56J9TYLKZHL3SF5Y\nB9Y7LL9C6J7QNTZKDBL25GV\n</code></pre>\n<p>第二是抽奖，将于周二（ 3 月 14 日）晚 10 点随机抽取 20 个回复楼层 at 出来，到时候请被抽到的大家发邮件，附上 V2EX 的 mention 提醒截图到 <a href=\"mailto:filterbox@catchingnow.com\">filterbox@catchingnow.com</a> 来领取。</p>\n<p>第三在抽奖结束后视活动热度再发少量。</p>\n<p>对没抽到的朋友，App 也提供了长达 30 天的免费试用期，相信比绝大多数工具类 App 都长了。</p>\n<h1>致谢</h1>\n<p>最后，额外感谢熊猫吃短信的作者 @<a href=\"https://www.v2ex.com/member/waylybaye\">waylybaye</a> ，虽然我没有 iPhone 也没有用过他的 app 。但这个点子确实是受其启发而来的。\n也感谢 ChatGPT 帮我清洗数据和萃取，拯救了眼花缭乱的我 :)</p>",
+    "publish_time": "2023-03-12 17:30:18",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
