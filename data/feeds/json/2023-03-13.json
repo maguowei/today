@@ -1453,5 +1453,47 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "据传苹果A17原型的GB6单核性能接近4000分，这意味着什么？",
+    "url": "https://www.zhihu.com/question/589025354",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Sapphire Rapids: Golden Cove Hits Servers",
+    "url": "https://chipsandcheese.com/2023/03/12/a-peek-at-sapphire-rapids/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35126110\">Comments</a>",
+    "publish_time": "2023-03-13 04:52:06",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "John&#x27;s Lambda Calculus and Combinatory Logic Playground",
+    "url": "https://tromp.github.io/cl/cl.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35125828\">Comments</a>",
+    "publish_time": "2023-03-13 04:29:20",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Don&#x27;t Share Java FileChannels",
+    "url": "https://pkolaczk.github.io/dont-share-file-channels/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35125962\">Comments</a>",
+    "publish_time": "2023-03-13 04:39:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
