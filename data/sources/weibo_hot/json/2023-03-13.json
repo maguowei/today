@@ -457,5 +457,41 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "征途向未来",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BE%81%E9%80%94%E5%90%91%E6%9C%AA%E6%9D%A5%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "一加Ace2V",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%8A%A0Ace2V%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "乘风2023 嘉宾",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B9%98%E9%A3%8E2023+%E5%98%89%E5%AE%BE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "九霄寒夜暖又he又be",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B9%9D%E9%9C%84%E5%AF%92%E5%A4%9C%E6%9A%96%E5%8F%88he%E5%8F%88be%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
