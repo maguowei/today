@@ -42,5 +42,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "Zenlayer 这家公司好让人失望",
+    "url": "https://www.v2ex.com/t/923728",
+    "summary": "Calen: <p>这两年时不时也会关注这家公司，主要觉得公司官网做的比较简洁活泼，因此一直很期待他们家的云服务。</p>\n<p>前几天试用 Ucloud 香港机器，网速非常快，IP 显示 Zenlayer 机房，于是毫不犹豫去 Zenlayer 官网下单购买了香港区的 VM ，1 核 2G ，带宽按量付费，一个月大概 20 美金，虽然很心疼，但还是很期待。开机后 ping 值延迟超高，北京 300ms 左右（全国最慢四川成都[电信] 433ms 平均 276.7ms ）。于是关机取消订阅，然后联系客服申请退款。</p>\n<p>今天得到客服回复说预付费模式不支持退款，赶忙打电话过去解释了充分的退款理由，客服就只会说不退款，反正明确告诉你就是退不了（客服原话）。第一次碰到不能退款的云服务，对个人用户谁家不是预付费的？基本都是随用随退。早期的腾讯阿里退款机制不完善时联系客服也能退款，Zenlayer 没有免费试用不说，初次购买又那么贵居然收了钱就别想要回来。真是失望透顶，格局连小 VPS 厂商都比不过。</p>\n<p>今天的真实经历，发出来希望大家不要踩坑！</p>",
+    "publish_time": "2023-03-14 00:07:22",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "Brave 是当下我认为最好的浏览器",
+    "url": "https://www.v2ex.com/t/923789",
+    "summary": "charlieethan: <p>因为我是个多平台的使用者（ Windows 、Linux 、Android 、iOS ），所以浏览器对我而言首先需要多平台数据同步，其次才是浏览器在各平台的特色功能，因此先排除了 Safari 、Kiwi 这些只能在单个平台上运行的浏览器。Firefox 因为内核的问题，性能确实和 Chromium 内核的浏览器有差距，在网站兼容性上也有些许问题，因此也被我排除在外。</p>\n<p>先说 Brave 的缺点：</p>\n<p>浏览器内置很多虚拟货币和 web3 相关的内容，例如 Brave 钱包、Brave 奖励等等内容，这对于不使用虚拟货币、不对 web3 感兴趣的人是一种“骚扰”。不过这些功能都可以在设置里禁用，在主界面也可以隐藏这些图标</p>\n<p>再说 Brave 的特色功能：</p>\n<p>1.全平台集成 AdBlock ，这个 AdBlock 是 Brave 自己实现的： <a href=\"https://github.com/brave/adblock-rust\" rel=\"nofollow\">https://github.com/brave/adblock-rust</a> ，不受到 Manifest V3 升级带来的影响，内置常用的规则列表，在除 iOS 端以外都可以自行添加规则列表\n<img alt=\"01\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/s7bhCsR.png\" /></p>\n<p><img alt=\"02\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/XRoVr6Z.png\" /></p>\n<p>2.Speedreader 模式：这个功能默认开启，可以极大地缩短网页加载的时间，适配大部分的资讯类网站，这个功能和其他浏览器的 “阅读模式” 不太一样，其他浏览器的阅读模式需要自己每次手动点一下开启，而且排版不怎么好看，Brave 的这个模式会在网页加载前就获取网页的内容并重新排版，不仅速度快，而且省流量，效果看图（用到的网页链接 <a href=\"https://9to5google.com/2023/03/13/microsoft-bing-users\" rel=\"nofollow\">https://9to5google.com/2023/03/13/microsoft-bing-users</a> ）：\n<img alt=\"03\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/uMVKpx0.png\" /></p>\n<p>开启后：</p>\n<p><img alt=\"04\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/QJwBZ52.png\" /></p>\n<p>3.Brave 会一直支持 Manifest V2 的扩展： <a href=\"https://twitter.com/brave/status/1574822799700541446\" rel=\"nofollow\">https://twitter.com/brave/status/1574822799700541446</a> ，uBlock Origin 和我常用的 Bypass Paywalls Chrome Clean 都可以在未来继续使用</p>\n<p>4.安卓和 iOS 可以开启 黑暗模式 和 音频后台播放，前者类似于 dark reader 插件，可以让网页强制变为深色，后者可以在锁屏或者切换到其他应用后保持音频的播放，例如在听 YouTube 节目时可以锁屏收听</p>",
+    "publish_time": "2023-03-14 09:52:50",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]

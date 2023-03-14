@@ -64,5 +64,27 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "直播教学！20 分钟开发可视化「智能门铃」丨RTE 开发实战课 • 第一期",
+    "url": "https://www.infoq.cn/article/b1a289cb5c2d0370878e824e3",
+    "summary": "<p></p><p><img src=\"https://static001.geekbang.org/infoq/88/882df46d275b9f3491a951e5dcf329e7.jpeg\" /></p><p></p><p>&nbsp;</p><p>智能门铃是智能硬件中最早成熟的技术领域之一，目前已经有了非常广泛的应用。声网提供智能门铃传输解决方案，包括适用于设备端的 SDK 和客户端 SDK，提供实时音视频和可靠信令的全场景服务。</p><p>&nbsp;</p><p>本次活动中，来自声网技术栈支持组的工程师 @刘应 和@王嘉鑫 将用 20 分钟的时间，基于声网 SDK 快速集成泛 IPC 类可视化智能门铃场景功能，实现在手机上查看门铃/门锁的视频画面，手机客户端和摄像机设备端语音双向对讲。</p><p>&nbsp;</p><p>欢迎大家在线围观、互动交流。扫描下方二维码，即可填加小助手微信，进入活动直播群：</p><p></p><p></p><p><img src=\"https://static001.geekbang.org/infoq/0d/0d1b12e3a4cb24a2e2ea9905013e0a71.png\" /></p><p>扫描上方二维码，即可报名直播</p><p><img src=\"https://static001.geekbang.org/infoq/9f/9ff6ded94777f2be1c3d3459e47ced6b.jpeg\" /></p><p>扫描上方二维码，添加小助手微信入群</p><p></p><p></p><p></p><p><img src=\"https://static001.geekbang.org/infoq/0f/0f49d0fd37b656bdd1ceb5221f5c79c4.jpeg\" /></p><p></p><p></p><p></p><p></p><h2>声网智能门铃 PaaS 方案介绍</h2><p></p><p></p><p>声网提供智能门铃传输解决方案，包括适用于设备端的 SDK 和客户端 SDK，提供实时音视频和可靠信令的全场景服务。其中设备端 SDK 适用于可视门铃等轻量级嵌入式设备；客户端 SDK 适用于移动端（Android/iOS）、桌面端（macOS/Windows）、Web 端 或小程序应用。通过接入声网的 SD-RTN™ ，可以实现设备端和客户端应用的实时互动。</p><p>&nbsp;</p><p>例如，在使用智能门铃的场景中，用户可以在手机上查看门铃的视频画面，手机客户端和门铃设备端可以语音双向对讲等。</p><p></p><p></p><p></p><h4>1、功能列表</h4><p></p><p>智能门铃 PaaS 方案支持以下功能：</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/e2/e25331eb7a27303119d49367841d13e1.jpeg\" /></p><p></p><p></p><h4>2、技术方案</h4><p></p><p>声网提供 RTSA Lite SDK 、 实时音视频（RTC）SDK 和&nbsp;云信令（RTM）SDK 共同搭建智能门铃场景。（红色部分需开发者自行实现）</p><p><img src=\"https://static001.geekbang.org/infoq/f8/f88bfba5f5527331f519b0df04d17645.png\" /></p><p></p><p></p><h4>3、方案优势</h4><p></p><p>全场景解决方案轻量级设备端 SDK兼容性强易用性佳超低延时稳定可靠极致弱网对抗能力质量透明</p><p>更多方案细节，可访问声网官方文档站：</p><p>https://docs.agora.io/cn/smart_doorbell/landing-page</p>",
+    "publish_time": "2023-03-14 11:21:12",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "极客圆桌派：ChatGPT点燃AI狂潮 | InfoQ《极客有约》",
+    "url": "https://www.infoq.cn/article/So2yItKrdYsDZpEG7DjS",
+    "summary": "<p>ChatGPT“军备竞赛”已渐入高潮，尤其是大型科技公司间的 AI 竞赛日趋白热化。ChatGPT 爆火也让大模型卷了起来，已有多位 AI 大牛宣布杀入大模型领域创业。</p>\n<p>上个月，InfoQ 发起了极客有约特别栏目之《极客圆桌派：狂飙的 ChatGPT 》，一起探讨了 ChatGPT 到底“是什么”和“为什么”的问题；<br />\n3 月 10 日，InfoQ 联合微软发起了《极客圆桌派：ChatGPT 点燃 AI 狂潮》直播，邀请了 4 位技术大咖再聊 ChatGPT。这一次，我们更聚焦 ChatGPT 的真正的最大价值。</p>\n<p>我们试图回答这样一些问题：ChatGPT 到底能为企业和开发者带来什么？企业如何借力和追赶 LLM/ChatGPT 创造出实际的价值？ChatGPT 所卷起的 AI 大模型热潮将如何影响开发者和企业？ChatGPT 背后的伦理挑战和风险问题又该如何应对？</p>\n<p><strong>直播核心议题：</strong></p>\n<p>ChatGPT 真正的最大价值是什么？<br />\n企业和 LLM/ChatGPT 的关系<br />\n哪些企业需要自己的 LLM，垂直行业如何应对？<br />\n小语种如何应对 LLM 的冲击<br />\n如何评判一个大模型？<br />\n链接大模型与领域模型的方法<br />\n为什么全世界都在“跟风”ChatGPT？<br />\n风暴过去，什么会留下来？<br />\nChatGPT 在中国会出现吗？如果没有出现会怎样？<br />\n从 ChatGPT 看负责任的生成式 AI<br />\n终局预测：会有几个大模型一统江湖？</p>",
+    "publish_time": "2023-03-14 13:41:58",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
