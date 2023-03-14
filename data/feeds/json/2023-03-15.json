@@ -1143,5 +1143,98 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "陈伟霆一天官宣两部电影",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E4%B8%80%E5%A4%A9%E5%AE%98%E5%AE%A3%E4%B8%A4%E9%83%A8%E7%94%B5%E5%BD%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "杨幂新片预计今年完成制作",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%96%B0%E7%89%87%E9%A2%84%E8%AE%A1%E4%BB%8A%E5%B9%B4%E5%AE%8C%E6%88%90%E5%88%B6%E4%BD%9C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "被大陆海警救起的台军失踪士兵向家人报平安，「人在厦门，吃好睡好」，后续将如何发展？",
+    "url": "https://www.zhihu.com/question/589590740",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "MNT Pocket Reform open for orders",
+    "url": "https://www.crowdsupply.com/mnt/pocket-reform",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35156029\">Comments</a>",
+    "publish_time": "2023-03-15 02:16:27",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "MathGPT&#x27;s superior for numerical modeling in math and science",
+    "url": "https://github.com/meiyulee/MathGPT",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35156134\">Comments</a>",
+    "publish_time": "2023-03-15 02:22:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "MQTT vs. Kafka: An IoT Advocate&#x27;s Perspective",
+    "url": "https://www.influxdata.com/blog/mqtt-vs-kafka-iot-advocates-perspective-part-1/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35156380\">Comments</a>",
+    "publish_time": "2023-03-15 02:36:24",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Evals: a framework for evaluating OpenAI models and a registry of benchmarks",
+    "url": "https://github.com/openai/evals",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35154614\">Comments</a>",
+    "publish_time": "2023-03-15 01:01:21",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Mountpoint – file client for S3 written in Rust, from AWS",
+    "url": "https://github.com/awslabs/mountpoint-s3",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35155944\">Comments</a>",
+    "publish_time": "2023-03-15 02:12:30",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Khan Academy integrates GPT-4 as every student’s customized tutor",
+    "url": "https://openai.com/customer-stories/khan-academy",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35155684\">Comments</a>",
+    "publish_time": "2023-03-15 02:00:27",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
