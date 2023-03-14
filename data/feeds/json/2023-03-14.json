@@ -2069,5 +2069,568 @@
       "desc": "人民日报公众号",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
     }
+  },
+  {
+    "title": "人民日报社论",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E7%A4%BE%E8%AE%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "甲流抗原售价已超新冠抗原10倍",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%B2%E6%B5%81%E6%8A%97%E5%8E%9F%E5%94%AE%E4%BB%B7%E5%B7%B2%E8%B6%85%E6%96%B0%E5%86%A0%E6%8A%97%E5%8E%9F10%E5%80%8D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "iPhone15若限充电速度或违反欧盟法律",
+    "url": "https://s.weibo.com/weibo?q=%23iPhone15%E8%8B%A5%E9%99%90%E5%85%85%E7%94%B5%E9%80%9F%E5%BA%A6%E6%88%96%E8%BF%9D%E5%8F%8D%E6%AC%A7%E7%9B%9F%E6%B3%95%E5%BE%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "李梦宣布加盟华盛顿神秘人",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%A2%A6%E5%AE%A3%E5%B8%83%E5%8A%A0%E7%9B%9F%E5%8D%8E%E7%9B%9B%E9%A1%BF%E7%A5%9E%E7%A7%98%E4%BA%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "硅谷银行开门储户大排长龙取款",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%A1%85%E8%B0%B7%E9%93%B6%E8%A1%8C%E5%BC%80%E9%97%A8%E5%82%A8%E6%88%B7%E5%A4%A7%E6%8E%92%E9%95%BF%E9%BE%99%E5%8F%96%E6%AC%BE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "大连理工出版社回应图片选取不当",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%BF%9E%E7%90%86%E5%B7%A5%E5%87%BA%E7%89%88%E7%A4%BE%E5%9B%9E%E5%BA%94%E5%9B%BE%E7%89%87%E9%80%89%E5%8F%96%E4%B8%8D%E5%BD%93%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "妈妈绣22米长清明上河图送女儿",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E7%BB%A322%E7%B1%B3%E9%95%BF%E6%B8%85%E6%98%8E%E4%B8%8A%E6%B2%B3%E5%9B%BE%E9%80%81%E5%A5%B3%E5%84%BF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "美国两家银行接连关闭",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%A4%E5%AE%B6%E9%93%B6%E8%A1%8C%E6%8E%A5%E8%BF%9E%E5%85%B3%E9%97%AD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "恢复审发外国人各类赴华签证",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%81%A2%E5%A4%8D%E5%AE%A1%E5%8F%91%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%90%84%E7%B1%BB%E8%B5%B4%E5%8D%8E%E7%AD%BE%E8%AF%81%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "花粉过敏与感冒如何区分",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8A%B1%E7%B2%89%E8%BF%87%E6%95%8F%E4%B8%8E%E6%84%9F%E5%86%92%E5%A6%82%E4%BD%95%E5%8C%BA%E5%88%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "黑暗荣耀花絮",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%BB%91%E6%9A%97%E8%8D%A3%E8%80%80%E8%8A%B1%E7%B5%AE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "硅谷银行破产最惨踩雷机构",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%A1%85%E8%B0%B7%E9%93%B6%E8%A1%8C%E7%A0%B4%E4%BA%A7%E6%9C%80%E6%83%A8%E8%B8%A9%E9%9B%B7%E6%9C%BA%E6%9E%84%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "我国民间乒乓球藏龙又卧虎",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%B0%91%E9%97%B4%E4%B9%92%E4%B9%93%E7%90%83%E8%97%8F%E9%BE%99%E5%8F%88%E5%8D%A7%E8%99%8E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "感染甲流后哪种情况需就医",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%84%9F%E6%9F%93%E7%94%B2%E6%B5%81%E5%90%8E%E5%93%AA%E7%A7%8D%E6%83%85%E5%86%B5%E9%9C%80%E5%B0%B1%E5%8C%BB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "苹果首款头显零件照片曝光",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E9%A6%96%E6%AC%BE%E5%A4%B4%E6%98%BE%E9%9B%B6%E4%BB%B6%E7%85%A7%E7%89%87%E6%9B%9D%E5%85%89%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "贾昊回应杜锋被驱逐风波",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B4%BE%E6%98%8A%E5%9B%9E%E5%BA%94%E6%9D%9C%E9%94%8B%E8%A2%AB%E9%A9%B1%E9%80%90%E9%A3%8E%E6%B3%A2%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "库里35岁生日",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BA%93%E9%87%8C35%E5%B2%81%E7%94%9F%E6%97%A5%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "为什么篮球运动员退役后经常有「球衣退役」，足球却非常稀少？",
+    "url": "https://www.zhihu.com/question/588441037",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何看待2023奥斯卡获奖名单？",
+    "url": "https://www.zhihu.com/question/589265707",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "中国新能源汽车如何领跑世界？",
+    "url": "https://www.zhihu.com/question/588736876",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价韩剧《黑暗荣耀》第二季中的河道英？",
+    "url": "https://www.zhihu.com/question/589129519",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "大学生为了学东西有必要买平板嘛？",
+    "url": "https://www.zhihu.com/question/589421160",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "今年房地产、养老、新能源汽车、旅游等重点领域市场潜力是否会被激发？房地产市场消费会进一步扩大吗？",
+    "url": "https://www.zhihu.com/question/587911817",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "你在工作中有没有过令人「腿软」的瞬间？",
+    "url": "https://www.zhihu.com/question/582624863",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "春季脸部过敏需要注意什么？",
+    "url": "https://www.zhihu.com/question/584047767",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价《从 Letme 到严君泽》这本书？",
+    "url": "https://www.zhihu.com/question/588666728",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "大学生无纸化学习，除了平板电脑还有哪些惊艳你的好物？",
+    "url": "https://www.zhihu.com/question/587132189",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "在 2k 档位兼具性能与质感的一加 Ace 2V ，能否成为学生党的「首选真香机」？",
+    "url": "https://www.zhihu.com/question/589255287",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "每天跑步 3 公里正常饮食能瘦吗？",
+    "url": "https://www.zhihu.com/question/588467459",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "有什么运动是你没怎么在意，但接触后感觉真香的？",
+    "url": "https://www.zhihu.com/question/588119316",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "什么样的运动适合内向的人参与？",
+    "url": "https://www.zhihu.com/question/587744053",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "要怎样才不能辜负此生，人生不留遗憾?",
+    "url": "https://www.zhihu.com/question/338326114",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "沪深港通标的双向扩容，资金流通效率持续提升",
+    "url": "https://www.36kr.com/newsflashes/2170589155897606",
+    "summary": "3月13日，沪深港通股票标的双向扩容实施。扩容首日，新纳入互联互通标的的多只股票涨停，半数实现上涨，两地投资者交易活跃度持续提升。业内人士指出，此次互联互通股票标的范围扩大，是资本市场积极服务构建新发展格局、推进高水平双向开放的重要举措，对便利境外投资者投资A股市场、促进两地资本市场协同发展具有积极意义。（中证网）",
+    "publish_time": "2023-03-14 08:45:22",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "中信证券：硅谷银行倒闭事件风险蔓延暂告段落，预计美联储降息仍未可期",
+    "url": "https://www.36kr.com/newsflashes/2170597737722120",
+    "summary": "36氪获悉，中信证券研报表示，硅谷银行已停业，美联储已在周一亚洲市场开市前决定保护硅谷银行所有储户的存款，并推出银行定期融资计划（BTFP）。美国监管机构的果断反应是避免流动性危机蔓延的关键，可避免储户与市场恐慌情绪的蔓延。硅谷银行倒闭事件的风险蔓延暂告段落，预计美联储将在3月加息25bps而非50bps, 降息仍未可期。",
+    "publish_time": "2023-03-14 08:46:12",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "利率下调仍受热捧，年内首批储蓄国债开售即告罄",
+    "url": "https://www.36kr.com/newsflashes/2170593082962185",
+    "summary": "2023年第一期、第二期储蓄国债（凭证式）已于近日正式发售。调查发现，尽管此次储蓄国债利率有所下降，但仍受投资者追捧，部分银行网点额度开售当天就已售罄。（证券日报）",
+    "publish_time": "2023-03-14 08:47:24",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "投融资领域从传统基建拓展至新基建，公募REITs市场规模逼近千亿",
+    "url": "https://www.36kr.com/newsflashes/2170595936317957",
+    "summary": "首批新能源REITs获批后迅速启动发售事宜，募资规模有望超过百亿元。加上已上市的基础设施REITs总市值，公募REITs市场规模将逼近千亿元。近期两只新能源REITs正式发行，意味着公募REITs投融资领域成功实现了从传统基建向新基建的跨越。与此同时，各方参与公募REITs的积极性大幅提升，深圳、济南、重庆等地鼓励REITs发展，公募REITs有望多点开花，在全国范围加速盘活基础设施资产。（上证报）",
+    "publish_time": "2023-03-14 08:50:18",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "外媒：毕马威因对硅谷银行和签名银行的审计而面临审查",
+    "url": "https://www.36kr.com/newsflashes/2170599231828233",
+    "summary": "据报道，硅谷银行在毕马威给该贷款机构开具健康证明后仅14天就倒闭了。签名银行在该会计师事务所签署其审计报告11天后也宣布倒闭。毕马威对这两家银行的财务状况了解多少，它漏掉了什么，都可能成为监管部门审查和诉讼的对象。（中新经纬）",
+    "publish_time": "2023-03-14 08:53:39",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "“DeepVerse幻量科技”完成数千万元种子轮融资",
+    "url": "https://www.36kr.com/newsflashes/2170600910909955",
+    "summary": "36氪获悉，近日，人工智能新材料研发公司“幻量科技”宣布已完成数千万元种子轮融资，本轮融资由红杉中国种子基金领投，巢生资本、真格基金和Newlight跟投，资金将用于持续的技术研发和人才吸引。",
+    "publish_time": "2023-03-14 08:55:22",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "大尺寸面板价格已上涨，或将持续到第三季度",
+    "url": "https://www.36kr.com/newsflashes/2170601057399049",
+    "summary": "“不仅是中小尺寸，大尺寸面板2月份也已经涨价了。”国内某头部面板厂的人士表示，TV面板已经全线涨价，且有望持续到第三季度。近日，面板企业群创光电、友达光电披露2月份营收增长，面板回暖再度成为热门话题。记者采访获悉，在预期整体下游增长、终端品牌商淡季补库存、面板厂限产等多因素下，TV中小尺寸面板价格率先触底反弹，大尺寸产品也于2月份跟上涨价；部分尺寸IT面板的价格已经止跌，有望在第二季度开启涨价。（上证报）",
+    "publish_time": "2023-03-14 08:56:30",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "把脉外贸稳量提质，政策料出新招",
+    "url": "https://www.36kr.com/newsflashes/2170603589808392",
+    "summary": "出口是拉动经济增长的“三驾马车”之一，在支撑经济增长方面发挥着重要作用。政府工作报告指出，继续发挥进出口对经济的支撑作用。专家表示，今年外贸整体上面临较大压力，需通过稳规模、优结构，在保住外贸规模基本盘的同时，增强外贸综合竞争力。各项稳外贸政策效果持续显现，将为进出口保稳提质、产业链供应链稳定提供强有力支撑。（中证网）",
+    "publish_time": "2023-03-14 08:58:04",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "比亚迪：“特斯拉叫停与比亚迪合作”为不实信息",
+    "url": "https://www.36kr.com/newsflashes/2170610601996544",
+    "summary": "针对外媒有关“特斯拉叫停与比亚迪在电池上的合作”的报道，比亚迪最新回应表示，此为“不实信息，与实际情况不符。”（财联社）",
+    "publish_time": "2023-03-14 08:59:17",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "中信证券：供应格局优化，龙头厂商稳筑ERP生态",
+    "url": "https://www.36kr.com/newsflashes/2170612297724420",
+    "summary": "36氪获悉，中信证券研报表示，《数字中国建设整体布局规划》指出，建设数字中国是数字时代推进中国式现代化的重要引擎，ERP作为企业数字化转型的重要组成部分，在信创产业政策的催化下，叠加云化和泛化的趋势，将迎来新增长空间。伴随着供给结构优化和部分厂商出清，看好国内头部第三方厂商以用友网络、金蝶国际为首的公司作为主体构建的ERP生态体系。",
+    "publish_time": "2023-03-14 09:01:00",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "艾美疫苗：不知悉任何导致H股股份价格及成交量不寻常波动的原因",
+    "url": "https://www.36kr.com/newsflashes/2170606252290564",
+    "summary": "36氪获悉，艾美疫苗在港交所公告称，注意到公司上市的H股价格及成交量于2023年3月13日均有所增加，经作出适当查询后，董事会确认，其并不知悉任何导致其H股股份价格及成交量不寻常波动的原因，亦不知悉为避免公司证券出现虚假市场而须予公布的任何资料，或根据香港法例须予披露的任何内幕消息。",
+    "publish_time": "2023-03-14 09:01:11",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Micro LED显示技术厂商“麦沄显示”获数千万人民币Pre-A轮融资，",
+    "url": "https://www.36kr.com/newsflashes/2170617480098312",
+    "summary": "36氪获悉，Micro LED显示技术厂商“麦沄显示”已完成数千万人民币Pre-A轮融资，投资方为容亿投资，星涵资本担任独家财务顾问。据介绍，麦沄显示即将实现Micro-LED产品量产落地，并已与行业头部客户达成战略合作。",
+    "publish_time": "2023-03-14 09:06:17",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "优步和Lyft在美国加州胜诉，被认定有权将司机视为独立承包商",
+    "url": "https://www.36kr.com/newsflashes/2170607429513473",
+    "summary": "优步和Lyft等公司在美国加州取得胜利。加州法院的裁决保留了这些企业在该州的独立承包商模式，并可能推动它们在其他地方保持这种模式。加州第一区上诉法院推翻下级法院的裁决，后者的裁决认为加州22号提案投票措施非法。22号提案于2020年11月通过，允许优步和Lyft等公司继续将其司机视为独立承包商。（界面）",
+    "publish_time": "2023-03-14 09:07:56",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "传艺科技：钠离子电池项目将试生产，与头部企业产品性能基本相当",
+    "url": "https://www.36kr.com/newsflashes/2170619648651529",
+    "summary": "36氪获悉，传艺科技在互动平台表示，公司钠离子电池项目进展顺利，项目一期量产设备已全部到厂完成安装，正极、负极、电芯技术路线、生产工艺全部顺利通过验证。目前，公司钠离子电池一期项目产线贯通调试已完成，配套设施已准备就绪，即将进行试生产。",
+    "publish_time": "2023-03-14 09:08:29",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "我国科学家实现百兆比特率量子密钥分发",
+    "url": "https://www.36kr.com/newsflashes/2170620430201353",
+    "summary": "近日，中国科学技术大学潘建伟、徐飞虎等与上海微系统所、济南量子技术研究院、哈尔滨工业大学等单位的科研人员合作，通过发展高保真度集成光子学量子态调控、高计数率超导单光子探测等关键技术，首次在国际上实现百兆比特率的实时量子密钥分发，实验结果将此前的成码率纪录提升一个数量级。该成果于3月14日在线发表于国际学术期刊《自然-光子学》。（央视新闻）",
+    "publish_time": "2023-03-14 09:09:17",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "理想汽车“逆降价潮”推保价：购车90天内降价将返还差价",
+    "url": "https://www.36kr.com/newsflashes/2170622874890754",
+    "summary": "网络流传信息称，理想汽车推出保价政策，自定购日起90天内，若所购车型官方售价有降价情形，理想汽车将主动返还差价。理想汽车相关销售人员表示，目前L7、L8、L9均可享受这一政策，主要是为了向消费者明确理想汽车确定不会降价。（澎湃）",
+    "publish_time": "2023-03-14 09:11:46",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "保时捷IPO后首份财报出炉：2022年营业利润68亿欧元",
+    "url": "https://www.36kr.com/newsflashes/2170627557274113",
+    "summary": "保时捷发布了IPO之后的首份财报。数据显示，保时捷在2022财年营业收入约为376亿欧元，同比增长13.6%；营业利润约为68亿欧元，同比增长27.4%；销售回报率约为18%，同比增长2个百分点。在销量方面，保时捷在2022年约交付30.99万辆，同比增长2.6%。其中，Cayenne销量约为9.6万辆，同比增长15%；Panamera销量约为3.4万辆，同比增长13%；911车型销量约为4万辆，同比增长5%。（每经网）",
+    "publish_time": "2023-03-14 09:16:32",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "3月14日人民币对美元中间价调升426个基点",
+    "url": "https://www.36kr.com/newsflashes/2170629498286595",
+    "summary": "3月14日，人民币对美元中间价调升426个基点，报6.8949，上一交易日中间价6.9375。（证券时报）",
+    "publish_time": "2023-03-14 09:18:30",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "恒指开盘跌0.87%，银行板块领跌",
+    "url": "https://www.36kr.com/newsflashes/2170634036916744",
+    "summary": "36氪获悉，恒指开盘跌0.87%，恒生科技指数跌0.5%；科技、银行板块领跌，渣打银行跌超5%，汇丰控股跌超3%，阿里巴巴跌超2%、腾讯、百度跌超1%；汽车、半导体板块涨幅居前，高伟电子涨超2%，比亚迪、理想汽车涨超1%。",
+    "publish_time": "2023-03-14 09:23:07",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "央行今日进行290亿元7天期逆回购操作",
+    "url": "https://www.36kr.com/newsflashes/2170634483626502",
+    "summary": "央行今日进行290亿元7天期逆回购操作，中标利率为2.00%，与此前持平。今日有30亿元逆回购到期。（证券时报）",
+    "publish_time": "2023-03-14 09:23:34",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "基于契约的开发：通过明确需求优化软件开发流程",
+    "url": "https://www.infoq.cn/article/g6D7e4ki76V3dRBWkrrK",
+    "summary": "<p>独立开发和部署单个微服务的能力是成功采用微服务策略最关键的指标。然而，大多数团队在部署微服务之前必须经历大量的集成测试。这是因为集成测试已经成为识别微服务之间兼容性问题的必要条件，因为单元和组件或API测试没有覆盖微服务之间的交互。</p><p>&nbsp;</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/15/1501bd86ea9dbb41a22fc9fceb57e36e.png\" /></p><p></p><p>&nbsp;</p><p>首先，集成测试是一种发现兼容性问题的后期反馈机制。修复这些问题的成本随着发现时间的推移而成倍增加（如上图底部的热图所示）。</p><p>&nbsp;</p><p>此外，这可能会导致客户端和服务端团队做大量的返工工作，严重影响特性交付的可预测性，因为团队不得不兼顾常规的特性开发和集成错误修复。</p><p>&nbsp;</p><p>集成环境可能非常脆弱。由于两个组件或服务之间的兼容性问题，即使是单个中断的交互也会导致整个环境受到损害，这意味着即使是其他不相关的功能和微服务也无法测试。</p><p>&nbsp;</p><p>这给生产交付造成了阻碍，即使是对关键问题的修复，而且会让整个交付过程陷入停顿，我们称之为“集成地狱”。</p><p>&nbsp;</p><p></p><h2>集成测试——了解这头野兽</h2><p></p><p>&nbsp;</p><p>在终结集成测试之前，我们先来了解它到底是什么。这个词经常被用在不恰当的地方。</p><p>&nbsp;</p><p>测试应用程序不仅仅是测试每个函数、类或组件的逻辑。应用程序的功能是这些单独的逻辑片段与其对应部分交互产生的结果。如果两个组件之间的服务边界或API没有理清楚，就会导致通常所说的集成问题。例如，如果函数A只使用一个参数调用函数B，而函数B需要两个必填的参数，那么这两个函数之间就存在集成或兼容性问题。这种快速的反馈有助于我们尽早纠正并立即解决问题。</p><p>&nbsp;</p><p>然而，当我们在微服务级别（服务边界位于HTTP、消息传递或事件级别）识别兼容性问题时，单元和组件或API测试都无法立即识别出任何偏离或违反服务边界的行为。微服务必须与所有实际对应的服务一起测试，才能验证是否存在中断的交互。这些被广泛地（在某种程度上错误地）归类为集成测试。</p><p>&nbsp;</p><p>集成测试这个词被用来描述很多类型的检查：</p><p>&nbsp;</p><p>两个或多个组件之间的兼容性；工作流测试——涉及交互编排的整个功能；与其他依赖项（如存储、消息传递基础设施等）的交互；还有更多，生产基础设施的端到端测试除外。</p><p>&nbsp;</p><p>需要明确说明的是，当我们说终结“集成测试”时，我们说的是消除对“集成测试”的依赖，不要将其作为识别微服务之间兼容性问题的唯一方法。但其他东西，例如工作流测试，可能仍然是必要的。</p><p></p><h2>确定拐点——知道从哪里下手</h2><p></p><p>&nbsp;</p><p>当所有代码都属于一个单体，方法签名可能就可以作为服务边界的API规范。我们可以通过编译时检查等机制强制执行方法签名检查，从而为开发人员提供早期反馈。</p><p>&nbsp;</p><p>然而，当一个服务的组件被拆分为多个微服务，服务边界变为接口（如HTTP REST API）时，这种早期的反馈就不会有了。在之前作为方法签名进行文档化的API规范现在需要被显式地文档化，描述清楚正确的调用方法。如果API文档不是机器可解析的，还可能会导致团队之间的沟通混乱。</p><p>&nbsp;</p><p>如果没有良好文档化的服务边界：</p><p>&nbsp;</p><p>只能使用近似模拟的服务端来构建客户端，而手动模拟和存根技术通常会导致存根过期的问题，即存根无法真正表示服务端。对于服务端来说，无法模拟客户端。</p><p>&nbsp;</p><p>这意味着我们必须采用缓慢的串行化开发风格，即在开始开发另一个组件之前必须等待其中一个组件构建完成。如果需要快速发布特性，这就不是一种高效的方法。</p><p>&nbsp;</p><p>转向微服务后，我们失去了两个关键的能力：</p><p>&nbsp;</p><p>清楚地表示两个组件之间服务边界的API规范；强制执行描述服务边界的API规范。</p><p>&nbsp;</p><p>我们需要另一种方法来弥补这两方面的缺失。</p><p></p><h2>API规范</h2><p></p><p>&nbsp;</p><p>如果想要恢复清晰且按照机器可解析的方式来表示API签名的能力，采用API规范标准（如OpenAPI或AsyncAPI）就变得至关重要。虽然这增加了开发人员创建和维护这些规范的工作量，但利大于弊。</p><p>&nbsp;</p><p>尽管如此，API规范，顾名思义，也只是有助于描述API签名。在开发过程中，为了获得早期的反馈，又该如何强制执行它们呢？这一部分仍然是缺失的。</p><p></p><h2>代码/文档生成——无效且不可持续</h2><p></p><p>&nbsp;</p><p>我们可以认为，我们可以通过代码生成技术来生成和维护API规范。从表面上看，如果代码是基于规范生成的，就不会偏离规范。</p><p>&nbsp;</p><p>然而，这里存在一些难点：</p><p>&nbsp;</p><p>正在进行中的开发——大多数代码生成工具/技术为服务器端和客户端代码生成脚手架，并要求我们在这个脚手架/模板中填写业务逻辑。问题是，当规范发生变化时，我们通常需要重新生成脚手架，从旧版本的代码中提取业务逻辑，并再次粘贴到新的脚手架中，这增加了犯人为错误的可能性。数据类型不匹配——代码生成工具/技术必须支持每一种编程语言。在多语言环境中，生成的脚手架在不同编程语言之间的数据类型（或其他东西）可能不一致。如果我们为一种编程语言生成文档（基于服务端代码生成API规范），然后利用生成的规范进一步为客户端代码生成脚手架，这将进一步加剧这种情况的恶化。</p><p>&nbsp;</p><p>数据类型不匹配——代码生成工具/技术必须支持每一种编程语言。在多语言环境中，生成的脚手架在不同编程语言之间的数据类型（或其他东西）可能不一致。如果我们为一种编程语言生成文档（基于服务端代码生成API规范），然后利用生成的规范进一步为客户端代码生成脚手架，这将进一步加剧这种情况的恶化。</p><p>&nbsp;</p><p>总的来说，代码生成和文档生成只能满足有限的场景。虽然它们最初可能通过生成代码为团队提供快捷的构建应用程序的方法，但这种技术的持续成本会让团队不堪重负。</p><p>&nbsp;</p><p>因此，我们需要另一种方法来执行API规范。</p><p></p><h2>契约驱动开发——API规范作为可执行契约</h2><p></p><p>&nbsp;</p><p>方法签名可以由编译器强制执行，在开发人员偏离方法签名时向他们提供早期反馈。那么API也能实现类似的效果吗？</p><p>&nbsp;</p><p>契约测试就是实现这种效果的一种尝试。<a href=\"https://docs.pact.io/\">Pact.io的文档</a>\"中写道：</p><p>&nbsp;</p><p></p><blockquote>契约测试是一种测试集成点的技术，它会单独检查每个应用程序，确保它们发送或接收的消息符合记录在“契约”中的内容。</blockquote><p></p><p>&nbsp;</p><p>不过需要注意的是，契约测试本身也包含了几种方式，例如客户端驱动的契约测试（<a href=\"https://pact.io/\">Pact.io</a>\"）、服务端驱动的契约测试（生产者契约测试方法中的<a href=\"https://spring.io/projects/spring-cloud-contract\">Spring云契约</a>\"）、双向契约测试（<a href=\"https://pactflow.io/\">Pactflow.io</a>\"）等等。在大多数这些测试方法中，API契约是独立于API规范的文档。例如，在Pact.io中，JSON就是API契约。Spring云契约也有用于定义契约的DSL。与其维护两个不同的工件（可能会导致不同步），不如利用API规范本身作为API契约，在开发人员偏离API规范导致客户端出现问题时为他们提供早期反馈，这样会不会更好？</p><p>&nbsp;</p><p><a href=\"https://specmatic.in/\">Specmatic</a>\"就是这样做的。Specmatic是一个开源的基于契约驱动开发的工具。它将客户端和服务端之间的交互划分为独立可验证的单元。考虑下面两个微服务之间的交互，目前只在更大级别的测试环境中进行验证。</p><p>&nbsp;</p><p><code lang=\"null\">ServiceA &lt;-&gt; ServiceB</code></p><p>&nbsp;</p><p>CDD可以将这种交互分解成连续的组成部分：</p><p>&nbsp;</p><p><code lang=\"null\">ServiceA &lt;-&gt; Contract as Stub {API spec of ServiceB}\n             Contract as Test {API spec of ServiceB} &lt;-&gt; ServiceB</code></p><p>&nbsp;</p><p>现在我们来仔细研究一下。</p><p>&nbsp;</p><p>左边：ServiceA =&gt; <a href=\"https://specmatic.in/#contract-as-stub\">Contract as Stub</a>\"我们为客户端（ServiceA）模拟服务端（ServiceB），这样客户端应用程序开发就可以独立于服务端进行。由于Contract as Stub（智能Mock）是基于双方约定的API规范，因此能够真正作为服务端（ServiceB）的Mock，它会在客户端（ServiceA）调用API并偏离API规范时给出反馈/抛出错误。右边：<a href=\"https://specmatic.in/#contract-as-test\">Contract as Test</a>\" =&gt; ServiceB为服务端（ServiceB）模拟客户端（ServiceA），并验证响应是否符合双方约定的API规范。Contract as Test将在服务端（ServiceB）应用程序开发人员偏离规范时立即向他们提供反馈。</p><p>&nbsp;</p><p>既然我们可以在组件级别让客户端（ServiceA）和服务端（ServiceB）应用程序遵守API规范，同时又可以独立构建，那么就没有必要将它们部署在一起来测试它们的交互。这样我们就不需要再依赖集成测试来识别兼容性问题。</p><p>&nbsp;</p><p><a href=\"https://specmatic.in/\">Specmatic</a>\"就是这样利用API规范作为<a href=\"https://specmatic.in/#executable-contracts\">可执行契约</a>\"。</p><p>&nbsp;</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/1d/1d4b65ae3b3faa062a53b314ce9a1494.png\" /></p><p></p><p></p><h2>契约即代码</h2><p></p><p>&nbsp;</p><p>这里的关键是API规范本身，它可以让API提供者和使用者分离并独立地驱动各自组件的开发和部署，同时保持所有组件的一致性。</p><p>&nbsp;</p><p>为了成功地进行契约驱动开发，我们需要采用API优先的方法，即API提供者和使用者需要先协作设计和记录API规范。这意味着他们需要使用现代的可视化编辑器之一，如Swagger、Postman、Stoplight等来编写API规范，在开始独立构建各自的部分之前专注于API设计，并确保所有利益相关者保持同步。</p><p>&nbsp;</p><p>习惯于基于代码生成API规范的团队可能会对这种先编写API规范的反向流程感到不适应。CDD需要类似测试驱动开发的心态转变。在进行测试驱动开发时，我们需要通过先手写测试来指导/驱动代码设计。类似地，在CDD中，我们需要先手工编写API规范，然后使用Specmatic等工具将它们转换为可执行的契约测试。</p><p>&nbsp;</p><p>我发现，对于基于代码生成API规范的方法来说，API设计处于次要地位，变得更像是事后的想法，或者是偏向于客户端或服务端。此外，由于发布时间的压力，在采用API规范优先的方式时，我们能够并行独立开发客户端和服务端组件，而基于代码生成API规范这种方式是不可能做到这一点的（客户端必须等待服务端代码完成并生成了规范）。</p><p>&nbsp;</p><p>在就公共API规范达成了共识之后，让这些API规范有一个单一的真实来源就变得非常重要。如果这些规范出现了多个副本，会导致客户端和服务端团队在实现方面出现分歧。</p><p>&nbsp;</p><p>CDD建立在三个基础支柱之上。“契约即存根（Contract as Stub）”和“契约即测试（Contract as Test）”让客户端和服务端团队保持一致，但将一切联系在一起的粘合剂是第三个支柱——“<a href=\"https://specmatic.in/#contract-as-code\">中央契约存储库</a>\"”。</p><p>&nbsp;</p><p>API规范是机器可解析的代码，所以还有什么地方比版本控制系统更适合存储它们的呢？将它们存储在版本控制系统（如Git）中，我们就可以通过添加Pull/Merge请求过程来为它们的构建过程增加一些严格性。理想情况下，Pull/Merge请求应该包括以下步骤：</p><p>&nbsp;</p><p>语法检查，确保一致性；<a href=\"https://specmatic.in/#backward-compatibility\">向后兼容性</a>\"检查，确定是否有任何重大变更；最后的评审和合并。</p><p>&nbsp;</p><p>强烈建议将规范存储在同一个中心位置，这适用于大多数情况（甚至是大型企业）。除非绝对有必要，否则不建议跨多个存储库存储规范。</p><p>&nbsp;</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/33/33ad3c54b25ca7a4fe03e186a2e61d53.png\" /></p><p></p><p>&nbsp;</p><p>等到规范被存储到了中央存储库中，它们就可以被：</p><p>&nbsp;</p><p>客户端和服务端团队使用，分别进行独立的开发；发布到API网关。</p><p></p><h2>集成测试的终结</h2><p></p><p>&nbsp;</p><p>我们已经消除了对通过集成测试来识别应用程序兼容性问题的需求，那么系统测试和工作流测试呢？</p><p>&nbsp;</p><p>CDD为更大级别的测试环境铺平了道路，因为所有兼容性问题都在开发的更早阶段（在本地和CI等环境中）被识别出来，在这些环境中修复问题的成本要低得多。我们可以通过系统测试和工作流测试在稳定的更大级别的环境中验证复杂的编排问题。另外，由于我们已经不需要通过集成测试来识别兼容性问题，在更大级别的环境中测试套件的总体运行时间也缩短了。</p><p>&nbsp;</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/47/4766b5a4916e83a558b3caa59f785364.png\" /></p><p></p><p>&nbsp;</p><p>原文链接：</p><p><a href=\"https://www.infoq.com/articles/contract-driven-development/\">https://www.infoq.com/articles/contract-driven-development/</a>\"</p>",
+    "publish_time": "2023-03-14 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "Nearly Every Person in Iraq Is an Illegal Streaming Pirate, Sources Say",
+    "url": "https://torrentfreak.com/nearly-every-person-in-iraq-is-a-pirate-sources-say-230313/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35145402\">Comments</a>",
+    "publish_time": "2023-03-14 08:24:16",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Counter – Simple and free web analytics",
+    "url": "https://counter.dev/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35143052\">Comments</a>",
+    "publish_time": "2023-03-14 05:29:21",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Building a Second Income Stream by Writing a Book",
+    "url": "https://fatsoftwareengineer.substack.com/p/building-a-second-income-stream-by",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35145920\">Comments</a>",
+    "publish_time": "2023-03-14 09:10:33",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Relationship Hero (YC S17) Is Hiring Sales Associates (Remote)",
+    "url": "https://relationshiphero.com/careers?role=salesAssociate",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35145810\">Comments</a>",
+    "publish_time": "2023-03-14 09:00:19",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
