@@ -1032,5 +1032,116 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "电影梅根中国首映",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E6%A2%85%E6%A0%B9%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%98%A0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "《原神》为什么都出到3.5版本了还不能跳过剧情？",
+    "url": "https://www.zhihu.com/question/589217712",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美的电热水器怎么样？如何正确挑选电热水器？",
+    "url": "https://www.zhihu.com/question/589530200",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "去客厅化设计可以搭配哪些高颜值品质家电？",
+    "url": "https://www.zhihu.com/question/589318081",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "2023 年度国考成绩公布，大家考得如何？面试应该怎样准备？",
+    "url": "https://www.zhihu.com/question/587283956",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Russian aircraft collides into US unmanned system in international waters",
+    "url": "https://www.eucom.mil/pressrelease/42314/russian-aircraft-collides-into-us-unmanned-system-in-international-waters",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35155313\">Comments</a>",
+    "publish_time": "2023-03-15 01:39:47",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The new Bing runs on OpenAI’s GPT-4",
+    "url": "https://blogs.bing.com/search/march_2023/Confirmed-the-new-Bing-runs-on-OpenAI%E2%80%99s-GPT-4",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35155198\">Comments</a>",
+    "publish_time": "2023-03-15 01:33:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Duolingo Max, a learning experience powered by GPT-4",
+    "url": "https://blog.duolingo.com/duolingo-max/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35154870\">Comments</a>",
+    "publish_time": "2023-03-15 01:15:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Certifications create wrong incentives for engineers and recruiters",
+    "url": "https://interviewing.io/blog/why-you-shouldnt-list-certifications-on-linkedIn",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35154275\">Comments</a>",
+    "publish_time": "2023-03-15 00:39:41",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "PropelAuth (YC W22) Is Hiring Engineers",
+    "url": "https://www.ycombinator.com/companies/propelauth/jobs",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35154599\">Comments</a>",
+    "publish_time": "2023-03-15 01:00:41",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "OpenAI: Evals",
+    "url": "https://github.com/openai/evals",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35154614\">Comments</a>",
+    "publish_time": "2023-03-15 01:01:21",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
