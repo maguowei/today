@@ -350,5 +350,27 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "FibJS: Based on V8, uses fibers instead of async",
+    "url": "https://fibjs.org/en/docs/guide/about.md.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35175173\">Comments</a>",
+    "publish_time": "2023-03-16 05:46:56",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "OpenAI, Scaling Kubernetes to 7,500 nodes",
+    "url": "https://openai.com/research/scaling-kubernetes-to-7500-nodes",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35174655\">Comments</a>",
+    "publish_time": "2023-03-16 05:01:14",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
