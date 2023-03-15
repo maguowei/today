@@ -31,5 +31,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "信息检索顶会WSDM CUP 2023揭榜，腾讯获两项任务冠军，成果基于混元AI大模型和太极机器学习平台实现",
+    "url": "https://www.infoq.cn/article/6XPmgbG2sSW51frlfIZj",
+    "summary": "<p>近日，信息检索领域国际顶级学术会议WSDM（Web Search and Data Mining）宣布了WSDM CUP 2023竞赛成绩，来自腾讯的研究团队基于大模型预训练、搜索排序以及集成学习等技术上的突破，在无偏排序学习和互联网搜索预训练模型赛道上的两项任务中获得冠军。</p><p>&nbsp;&nbsp;</p><p>ACM WSDM（Web Search and Data Mining） 会议是信息检索领域顶级会议之一，由SIGIR、SIGKDD、SIGMOD和SIGWEB四个专委会协调筹办，在互联网搜索、数据挖掘领域享有较高学术声誉。第16 届 ACM 国际 WSDM 会议于 2023 年 2 月 27 日至 3 月 3 日在新加坡举行，论文的接收率为17.8%。</p><p>&nbsp;</p><p>WSDM Cup由 WSDM 会议举办，本届 WSDM Cup 共计400余支队伍参加，分别来自中国、美国、新加坡、日本、印度等国家的知名高校和公司，大赛共设置三个赛道：无偏排序学习和互联网搜索预训练模型赛道（Unbiased Learning to Rank and Pre-training for Web Search）、跨语言连续体的多语言信息检索赛道（Multilingual Information Retrieval Across a Continuum of Languages）和视觉问答挑战赛道（Visual Question Answering Challenge）。</p><p>&nbsp;</p><p>此次腾讯「参赛队名：腾讯机器学习平台部搜索团队（TMLPS）」参加了无偏排序学习和互联网搜索预训练模型赛道，并在该赛道的两项子任务中（Pre-training for Web Search和Unbiased Learning to Rank）获得冠军。</p><p>&nbsp;</p><p>目前两项成果代码和论文均已发布到Github上（见：GitHub - lixsh6/Tencent_wsdm_cup2023）</p><p>&nbsp;</p><p>在深度学习领域，数据标注的质量对于模型的效果有着较为显著的影响，但是较高的标注数据成本一直是研究团队的阻碍之一，如何从技术上利用无标注的数据训练模型自然成为了成为学术界和工业界关注的热点。</p><p>&nbsp;</p><p><img src=\"https://static001.geekbang.org/infoq/46/4619faee409940ca42bd431d14f4907f.png\" /></p><p></p><p>&nbsp;</p><p>论文：Multi-Feature Integration for Perception-Dependent Examination-Bias Estimation</p><p>地址：https://arxiv.org/pdf/2302.13756.pdf</p><p>&nbsp;</p><p><img src=\"https://static001.geekbang.org/infoq/2c/2cef11ea0093d51f0c49a406efc8e1f4.png\" /></p><p></p><p>本次比赛，针对基于搜索的预训练任务（Pre-training for Web Search），腾讯团队通过大模型训练、用户行为特征去噪等方法，在点击日志上进行基于搜索排序的模型预训练，进而使模型有效地应用到下游相关性排序的检索任务。通过预训练、模型微调、集成学习等多方面的优化，在人工标注的相关性排序任务上取得了较大的领先优势。</p><p>&nbsp;</p><p><img src=\"https://static001.geekbang.org/infoq/19/19a320d0a016fab483e8fedef5b17469.png\" /></p><p></p><p>论文：Pretraining De-Biased Language Model with Large-scale Click Logs for Document Ranking</p><p>地址：https://arxiv.org/pdf/2302.13498.pdf</p><p>&nbsp;</p><p>在本次比赛的另一赛道无偏排序学习任务（Unbiased Learning to Rank）中，团队通过深入挖掘点击日志信息，充分利用包括文档媒体类型、文档展示高度和点击后的滑屏次数等特征对文档相关性进行无偏估计，提出了一种能够集成多种偏置因素的多特征集成模型，有效地提升了搜索引擎中文档排序的效果。</p><p>&nbsp;</p><p>据了解，夺冠团队的成果均基于腾讯混元AI大模型（下文简称“HunYuan”）和太极机器学习平台实现。目前，通过联合微信搜索团队，两项技术已经在微信搜一搜的多个场景落地相关技术，并取得了显著的效果提升。</p><p>&nbsp;</p><p>AI大模型（又称预训练模型）是指预先训练好，具有相对通用性的“一套算法”，具有“巨量数据、巨量算力、巨量模型”等特性。大模型通过学习样本数据的内在规律和表达层次，发展出接近、超越人类水平的“智能”，具备分析推理能力，能够识别文字、图像和声音等。</p><p>&nbsp;</p><p>2022年4月，腾讯首次对外披露HunYuan大模型研发进展。HunYuan集CV（计算机视觉）、NLP（自然语言理解）、多模态理解能力于一体，先后在MSR-VTT、MSVD等五大权威数据集榜单中登顶，实现跨模态领域的大满贯。2022年5月，在国际公认的CLUE（中文语言理解评测集合）三个榜单同时登顶。近日，HunYuan又迎来全新进展，推出国内首个低成本、可落地的NLP万亿大模型，并再次登顶CLUE。</p><p>&nbsp;</p><p>腾讯太极机器学习平台是集模型训练和在线推理于一身的高性能机器学习平台，具备万亿参数模型的训练和推理能力，为AI大模型预训练推理和应用落地提供了完整的端到端工程能力支撑，一站式解决算法工程师在 AI 应用过程中特征处理、模型训练、模型服务等工程问题。</p>",
+    "publish_time": "2023-03-15 14:23:03",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
