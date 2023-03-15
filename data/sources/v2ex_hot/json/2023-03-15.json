@@ -75,5 +75,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "让 chatGPT 对十万级数据批处理的 Excel 插件，我后悔免费了 ！",
+    "url": "https://www.v2ex.com/t/924065",
+    "summary": "jianson2006: 亲爱的 V2 大神们，我后悔免费了，真的写代码把脑子写进水了；<br /><br />喏~~ 这是我们插件安装地址： <a href=\"https://alphasheet.app/\" rel=\"nofollow noopener\" target=\"_blank\">https://alphasheet.app</a><br /><br />使用问题反馈，或想骂我的，你们都到社区来骂吧，官网里有我们的 Dicord 入口。<br /><br />这次我要交的作业是，AlphaSheet 是一款可以智能化处理十万级数据量的 Excel 批处理插件，使用它可以节省人力和时间，让人更长寿，AlphaSheet 是否变成付费插件，听听大伙意见，我们是否将 AlphaSheet 打造成收费插件？<br /><br />故事都是写在开始，我们团队为朋友的跨境电商中型公司开发的，他们的痛点十分的明确，下面是朋友的原话：<br /><br />“ 我们就是经常从多家店铺后台中，导出巨量的商品评论数据，或者产品使用反馈来做分析，工作中就发挥快速阅读的能力，能快提取评论中的价值，这真是一件极其痛苦，而又不得不做的工作，数据的杂乱有时让人每次都想口吐芬芳（ WTF ），相信这是很多产品或电商运营人的共同感受。”<br /><br />是的，就是这么恶心且浪费生命的事情，对于很多产品、电商运营人员都是家常便饭了，Excel 对数据的承载，超过万级，客户端则卡死，完全拼机子的配置了，好一点公司会配置系统，可以让运营人员上去查与分析数据，像我们这样中型企业，无论从业务量与系统使用率上，都达不到这种高配怎么办呢？<br /><br />面对十万级的数据量，通过 Excel 来处理简直是一个噩梦, 上班比上坟难受阿！<br /><br />有些扛精又会说，运营人员，自己可以学习一点 Python 、R ，数据库语言来处理，这样就不会这么烦了，现在的运营人员真的都快变半个开发与数据库专家了，要是不懂点技术都上不了台面，要是不写两段代码手都在发痒，但这是理想状态，到底有多少运营人员可以做到这样，时间允许么？<br /><br />如果可以，公司节省开发的钱，让运营来。<br /><br />因此我们团队认真的对朋友的需求做了场景扩展与分析，遇到这样问题的人群还是蛮多的，因此我们认真梳理了一下应用场景都有哪些？<br /><br />1 、产品研发公司，批量导出产品使用反馈或用户建议，能快速提取用户的建议与重要反馈；<br />2 、传统电商公司，批量导出的商品评论，快速获取产品的使用洞察，节省人力时间去捕获商品的问题。<br />3 、跨境电商公司，批量导出用户生日，可快速总结个性节日的问候，做到每个人都不一样。<br />4 、服务类型公司，批量导出用户对服务满意度等评价，进行情绪分析，让你快速洞见并了解客户。<br />5 、股票分析公司，批量对股票的历史表现、近期投资或并购事件， 都能快速挖掘投资价值。<br />6 、其实还有很多...<br /><br />我们越发挖掘，可以发掘更多的具体使用场景，那么我们到底解决了什么问题呢，我总结如下：<br />1 、解决以往透过人力阅读上的内容审查工作。<br />2 、解决以往透过人力对内容阅读后的价值总结。<br />3 、解决以往透过人力对不同内容进行特定的回复。<br /><br />最后，大家都十分关心，我们有哪些功能，不费大家时间，我们功能如下：<br />一句话功能介绍 :<br />1 、（ Free Prompt ）功能，可基于 Excel 中的既定数据内容，按指定的表格批量输出总结或新见解。<br />2 、（ Extract ）功能，对指定数据，快速提取出目标数据（比如：地址信息中提取邮编码）。<br />3 、（ Categorize ）功能，对杂乱无章的数据，可按指定的分类批量处理。<br />4 、（ Infer ）功能，对用户反馈或评论数据，基于自动匹配数据可智能推断出价值亮点。<br />4 、（ Infer ）功能，可基于已审查结果的内容，对未审查内容进行批处理推断操作并将结果回填对应内容。<br />5 、（ Write ）功能，基于既定数据内容来，快速完成内容的创作，员工表扬信、入申请书、学员点评等。<br />6 、（ Find Insights ）功能，基于 Excel 中的既定数据内容来，快速得出有价值的分析洞见。<br />7 、（ Auto Fill ）功能，目前是 Beta 阶段，基于数据列中的关键信息，来对其他信息的自动填充。<br /><br /><br />------- 即将推出小作品 ------- <br />我们即将推出：网络会客室，一款帮助人们进行远程沟通协作的小应用，也受到海外用户喜欢。<br />Demo： <a href=\"https://felo.circleo.me/mys-yghw-wbe\" rel=\"nofollow noopener\" target=\"_blank\">https://felo.circleo.me/mys-yghw-wbe</a>  <br /><br /><br />------- 我们其他的小作品 --------<br /><a href=\"https://www.v2ex.com/t/920411?p=2#reply106\" rel=\"nofollow noopener\" target=\"_blank\">https://www.v2ex.com/t/920411?p=2#reply106</a><br /><a href=\"https://www.v2ex.com/t/921487#reply8\" rel=\"nofollow noopener\" target=\"_blank\">https://www.v2ex.com/t/921487#reply8</a><br /><a href=\"https://www.v2ex.com/t/921518#reply2\" rel=\"nofollow noopener\" target=\"_blank\">https://www.v2ex.com/t/921518#reply2</a>",
+    "publish_time": "2023-03-15 08:58:16",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "前 B 站前端架构师 - TeamLeader -10 年全栈求撩",
+    "url": "https://www.v2ex.com/t/924183",
+    "summary": "edward32tnt208: <h2>关于我目前</h2>\n<p>Nodejs, React, Vue 都是主要技术栈。</p>\n<p>去年 12 月已从 B 站离职，在工作中主要涉及到的项目</p>\n<ul>\n<li>vue-ssr 项目重构</li>\n<li>视频播放页 播放首针优化</li>\n<li>jinkela-core 主导架构及开发</li>\n<li>jinkela-pipeline 主导架构及开发</li>\n</ul>\n<h2>希望工作方向</h2>\n<ul>\n<li>web3</li>\n<li>Economic</li>\n<li>Game</li>\n</ul>\n<h2>关于工作形式</h2>\n<ul>\n<li>英语 /中文</li>\n<li>全职 /远程 /兼职</li>\n</ul>\n<p>最后简历及个人网站请访问： <a href=\"https://portfolio-edward32tnt.vercel.app/\" rel=\"nofollow\">https://portfolio-edward32tnt.vercel.app</a></p>",
+    "publish_time": "2023-03-15 13:51:44",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
