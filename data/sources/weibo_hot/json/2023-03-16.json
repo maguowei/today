@@ -574,5 +574,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "总书记点赞新农人逐梦沃野",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%82%B9%E8%B5%9E%E6%96%B0%E5%86%9C%E4%BA%BA%E9%80%90%E6%A2%A6%E6%B2%83%E9%87%8E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "LNG战胜AL",
+    "url": "https://s.weibo.com/weibo?q=%23LNG%E6%88%98%E8%83%9CAL%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
