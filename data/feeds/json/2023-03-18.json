@@ -1543,5 +1543,36 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "我国首次发现奥密克戎新亚型",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E6%AC%A1%E5%8F%91%E7%8E%B0%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8E%E6%96%B0%E4%BA%9A%E5%9E%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Windows Market Share Drops to 57% in the US",
+    "url": "https://www.technobugg.com/windows-losing-market-share-in-the-united-states/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35200866\">Comments</a>",
+    "publish_time": "2023-03-18 02:21:18",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Godot Arrives in the Epic Games Store",
+    "url": "https://godotengine.org/article/godot-arrives-in-the-epic-games-store/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35202548\">Comments</a>",
+    "publish_time": "2023-03-18 04:33:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
