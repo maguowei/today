@@ -273,5 +273,49 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Deep Dive into ZGC: A Modern Garbage Collector in OpenJDK [pdf]",
+    "url": "https://dl.acm.org/doi/pdf/10.1145/3538532",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35203683\">Comments</a>",
+    "publish_time": "2023-03-18 06:24:30",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "UBS in talks to acquire Credit Suisse",
+    "url": "https://www.ft.com/content/17892f24-4ca0-417f-9093-289b019a0852",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35203775\">Comments</a>",
+    "publish_time": "2023-03-18 06:33:20",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The LLM Problem",
+    "url": "https://www.tbray.org/ongoing/When/202x/2023/03/14/Binging",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35203262\">Comments</a>",
+    "publish_time": "2023-03-18 05:38:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "PostgreSQL Logical Replication Explained",
+    "url": "https://www.postgresql.fastware.com/blog/inside-logical-replication-in-postgresql",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35203571\">Comments</a>",
+    "publish_time": "2023-03-18 06:10:20",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
