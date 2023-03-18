@@ -570,5 +570,38 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "PHP 8.2.4 Released",
+    "url": "https://www.php.net/index.php",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35207053\">Comments</a>",
+    "publish_time": "2023-03-18 15:49:06",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Tracking the Fake GitHub Star Black Market",
+    "url": "https://dagster.io/blog/fake-stars",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35207020\">Comments</a>",
+    "publish_time": "2023-03-18 15:42:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Klint: Compile-Time Detection of Atomic Context Violations for Kernel Rust Code",
+    "url": "https://www.memorysafety.org/blog/gary-guo-klint-rust-tools/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35207157\">Comments</a>",
+    "publish_time": "2023-03-18 16:04:43",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
