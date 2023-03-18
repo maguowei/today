@@ -1211,5 +1211,56 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "山东乳山发现大型金矿床",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%B9%B3%E5%B1%B1%E5%8F%91%E7%8E%B0%E5%A4%A7%E5%9E%8B%E9%87%91%E7%9F%BF%E5%BA%8A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "华为P60手机外观公布",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAP60%E6%89%8B%E6%9C%BA%E5%A4%96%E8%A7%82%E5%85%AC%E5%B8%83%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Build Your Own Redis with C&#x2f;C++",
+    "url": "https://build-your-own.org/redis/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35212660\">Comments</a>",
+    "publish_time": "2023-03-19 04:11:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Desiderata: Original Text",
+    "url": "https://www.desiderata.com/desiderata.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35212450\">Comments</a>",
+    "publish_time": "2023-03-19 03:47:27",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "JPEG-XL vs. AVIF and Others: 27 Images Compared",
+    "url": "https://giannirosato.com/blog/post/image-comparison/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35212522\">Comments</a>",
+    "publish_time": "2023-03-19 03:56:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
