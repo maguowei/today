@@ -86,5 +86,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "异地组网方案求推荐",
+    "url": "https://www.v2ex.com/t/925039",
+    "summary": "HackerTerry: <p>如题，本人电信家宽有公网 ipv4+ipv6 ，爱快主路由+op 旁路由；老家移动家宽没有公网 ip ，主路由是梅林固件。现在想从有公网 ip 的家里访问老家局域网内的设备，请问有哪些异地组网方案可供选择？如果能用 wireguard 就最好了，因为有公网 ip 的家宽已经搭建好了 wireguard 服务端</p>",
+    "publish_time": "2023-03-18 10:55:17",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
