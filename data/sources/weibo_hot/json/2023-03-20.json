@@ -601,5 +601,14 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "你没听过的一些声音",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%B2%A1%E5%90%AC%E8%BF%87%E7%9A%84%E4%B8%80%E4%BA%9B%E5%A3%B0%E9%9F%B3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
