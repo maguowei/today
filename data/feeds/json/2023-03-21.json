@@ -1362,5 +1362,96 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "习近平对俄罗斯进行国事访问",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E4%BF%84%E7%BD%97%E6%96%AF%E8%BF%9B%E8%A1%8C%E5%9B%BD%E4%BA%8B%E8%AE%BF%E9%97%AE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "大数据不会无缘无故推给我",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%B8%8D%E4%BC%9A%E6%97%A0%E7%BC%98%E6%97%A0%E6%95%85%E6%8E%A8%E7%BB%99%E6%88%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "蒸馏水可以涂在脸上补水吗？",
+    "url": "https://www.zhihu.com/question/585068935",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么老一辈的人多数不会对猫狗等宠物产生感情？",
+    "url": "https://www.zhihu.com/question/587231008",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Show HN: Recursive LLM Prompts",
+    "url": "https://github.com/andyk/recursive_llm",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35234276\">Comments</a>",
+    "publish_time": "2023-03-21 00:38:55",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "ChatGPT is down",
+    "url": "https://status.openai.com/incidents/jq9232rcmktd",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35236467\">Comments</a>",
+    "publish_time": "2023-03-21 02:38:40",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "UBS got Credit Suisse for almost nothing",
+    "url": "https://www.bloomberg.com/opinion/articles/2023-03-20/ubs-got-credit-suisse-for-almost-nothing",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35236043\">Comments</a>",
+    "publish_time": "2023-03-21 02:14:07",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Tell HN: MailChimp blacklists your IP if you open the browser&#x27;s dev tools",
+    "url": "https://news.ycombinator.com/item?id=35235732",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35235732\">Comments</a>",
+    "publish_time": "2023-03-21 01:56:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A world to win: WebAssembly for the rest of us",
+    "url": "https://www.wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35236272\">Comments</a>",
+    "publish_time": "2023-03-21 02:27:22",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
