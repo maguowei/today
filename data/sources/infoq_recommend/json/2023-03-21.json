@@ -53,5 +53,27 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "基于 KubeVela 实践应用交付的平台工程新玩法 | InfoQ《极客有约》",
+    "url": "https://www.infoq.cn/article/Lwx1Xiq9CQb1qu3WpPqL",
+    "summary": "<p>传统意义上的运维岗位，未来会被平台替代掉？平台工程也会危及DevOps相关联的其它岗位吗？大公司是如何进行持续交付的？为什么阿里还会在GitOps基础上开发出KubeVela平台？</p>",
+    "publish_time": "2023-03-21 13:57:49",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "IBM公有云：聚焦国内出海企业，重点打造行业云",
+    "url": "https://www.infoq.cn/article/69a7zS7vfptq4azqGkq5",
+    "summary": "<p></p><p>&nbsp;在近日的IBM大中华区云平台事业部的分享会上，IBM方面表示，其国内的目标客户主要锁定在出海企业，包括互联网行业和传统行业。</p><p>&nbsp;</p><p>IBM大中华区云计算平台产品及生态总监崔海涛表示，与其他厂商不同，<a href=\"https://www.infoq.cn/article/2017/11/ibm-cloud-private\">IBM</a>\"既有公有云的产品，也有咨询的能力，能够提供“从业务策略制定，业务流程落地，再到技术实现”的一站式服务。&nbsp;IBM还打造了专属的行业云，通过金融云、卫星云、电信云等，释放不同行业的不同能力。</p><p>&nbsp;</p><p>根据介绍，出海对于企业来说，面临着技术、网络安全和合规三方面的问题。而云厂商在帮助出海企业解决这三个问题时，通常也会有一些挑战：</p><p>&nbsp;</p><p>要有全球布局。公有云是个重资产低利润的行业，更多面临的是风险合规问题。中国出海的本地公有云有十几家，但通常集中布局在东南亚地区。企业要找的公有云起码要覆盖全球几个大的地区和国家，比如北美、欧洲、东南亚、拉丁美洲有站点，这样才能有效支持企业的海外业务。云计算要稳定可靠。比如游戏行业最好的上新时间是暑假和春节，这期间一旦宕机将损失惨重。网络安全。安全不仅仅是黑客的问题，有时候内部员工也会带来风险。根据IBM的调查，70%的网络安全来自企业内部，是企业员工用U盘把客户信息带走而导致的数据泄露。开源开放。大家越来越认识到一定要选择开放、相对比较透明的平台，防止被锁定。海量存储。数据爆炸带来了存储成本的爆炸式增长。</p><p>&nbsp;</p><p>那么，IBM如何满足这些要求呢？</p><p>&nbsp;</p><p>2013年，IBM收购了公有云供应商SoftLayer。被IBM收购前，SoftLayer已经在为中国企业出海提供全球的公有云服务。2017年，IBM将私有云和PaaS平台建立在SoftLayer的平台之上。2019年，IBM以340亿美金收购了<a href=\"https://www.infoq.cn/article/hsIG5kluBjjc0hZgQAwE\">红帽</a>\"，基于红帽OpenShift把基础设施、AI、私有云、公有云以及边缘计算的解决方案整合在一起，构建了一个完整、开放和提供一致性服务的混合云平台。自此之后，IBM Cloud&nbsp;Platform （即IBM的公有云平台）具有了更强的开放性：有虚机也有裸机，还有VMware专属机、SAP专属机、Power专属芯片的专属机等。</p><p></p><p><img src=\"https://static001.infoq.cn/resource/image/06/7e/06b2a293844a96354df8a9dbf523a47e.png\" /></p><p>&nbsp;</p><p>IBM通过覆盖全球的数据中心，为云提供高性能、可持续性、强弹性。IBM云有传统的x86服务器，还有新的Power10处理器，每核算力提高2.5倍，能耗较上年降低52%。实现主机上云的LinuxONE架构比x86每年可减75%能耗，节约50%空间。</p><p></p><p><img src=\"https://static001.infoq.cn/resource/image/06/55/0680711c8705843f5yy085ee7e876e55.png\" /></p><p></p><p>&nbsp;</p><p><a href=\"https://www.infoq.cn/article/2016/09/IBM-Launches-Blockchain-Cloud\">IBM云</a>\"在达沃斯部署了60个机柜的<a href=\"http://m.zhiding.cn/article/3147388.htm\">Vela</a>\"超级计算设施，以应对AI算力需求。通过IBM云，每个节点上部署了大约8个英伟达A100加速计算卡。同时，IBM将这项能力与其云上两、三百个不同的应用串联在一起，可以更好更快速地研究AI基础模型。通过这些基础模型，IBM来研发更精准、更适合2B业务的AI模型。</p><p>&nbsp;</p><p>安全方面，IBM大型机的安全技术都可以放到IBM公有云上。IBM公有云使用FIPS140-2（NIST发布的针对密码模块的安全需求标准，作为联邦信息处理标准被政府机构广泛采用）四级标准，也是目前业界最高的安全标准。</p><p>&nbsp;</p><p>开放性上，IBM表示，技术上以行业开放标准优先并开放接口，底层计算等资源既支持其他云厂商管理，也开放给客户自己管理，用户的工作负载可以在不同的环境之间进行迁移。</p><p>&nbsp;</p><p>存储方面，IBM认为其对象存储提供了业界最优的技术和成本优势。IBM云对象存储通过内置的高速文件传输功能、跨区域产品和集成服务支持指数级数据增长和云原生工作负载。</p><p><img src=\"https://static001.infoq.cn/resource/image/01/48/018b74a59181343254786def1ce79448.png\" /></p><p></p><p>IBM为出海企业提供的产品矩阵</p><p>&nbsp;</p><p>与亚马逊云科技相比，崔海涛认为IBM与其最大的区别在于亚马逊云科技有很多超级客户，比如TikTok等。IBM的用户比较平均，美国的银行、航空公司、汽车公司，还有可口可乐这样的公司都是其客户。而且，IBM云更重视中台和后台的技术赋能。</p><p>&nbsp;</p>",
+    "publish_time": "2023-03-21 14:21:45",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
