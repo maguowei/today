@@ -1519,5 +1519,120 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "习主席出访俄罗斯",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B9%A0%E4%B8%BB%E5%B8%AD%E5%87%BA%E8%AE%BF%E4%BF%84%E7%BD%97%E6%96%AF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "极星把豪华玩明白了",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9E%81%E6%98%9F%E6%8A%8A%E8%B1%AA%E5%8D%8E%E7%8E%A9%E6%98%8E%E7%99%BD%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "《原神》同样是嘴臭，为什么查耶维奇和小雀儿被那么多人骂，散兵反而受到了很多人的欢迎？",
+    "url": "https://www.zhihu.com/question/590333194",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "PeerTube 5.1 Is Out",
+    "url": "https://joinpeertube.org/news/release-5.1",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35249317\">Comments</a>",
+    "publish_time": "2023-03-22 01:17:55",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Top highest-earning Substack newsletters generate over $22M a year",
+    "url": "https://pressgazette.co.uk/newsletters/highest-earning-substacks/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35251505\">Comments</a>",
+    "publish_time": "2023-03-22 03:45:28",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "uBlock Origin 1.48 adds readiness status, code viewer, and other fixes",
+    "url": "https://github.com/gorhill/uBlock/releases/tag/1.48.0",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35248517\">Comments</a>",
+    "publish_time": "2023-03-22 00:28:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Typst, a new markup-based typesetting system, is now open source",
+    "url": "https://github.com/typst/typst",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35250210\">Comments</a>",
+    "publish_time": "2023-03-22 02:18:00",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "DPReview.com to close",
+    "url": "https://www.dpreview.com/news/5901145460/dpreview-com-to-close",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35248296\">Comments</a>",
+    "publish_time": "2023-03-22 00:14:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "“Off switch” makes explosives safer",
+    "url": "https://physics.aps.org/articles/v16/44",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35248188\">Comments</a>",
+    "publish_time": "2023-03-22 00:07:00",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Grover&#x27;s Algorithm Offers No Quantum Advantage",
+    "url": "https://arxiv.org/abs/2303.11317",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35251677\">Comments</a>",
+    "publish_time": "2023-03-22 03:58:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "So you&#x27;ve installed `fzf` – now what?",
+    "url": "https://andrew-quinn.me/fzf/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35248098\">Comments</a>",
+    "publish_time": "2023-03-22 00:01:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
