@@ -86,5 +86,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "迎战ChatGPT，谷歌聊天机器人Bard正式开放测试",
+    "url": "https://www.infoq.cn/article/4i445bkgQvd6yoNSGu5v",
+    "summary": "<p></p><p>3月21日晚间，谷歌开放了其聊天机器人 Bard 的测试。</p><p></p><p>Bard 最初将可供美国和英国的部分用户使用，用户可以在<a href=\"http://bard.google.com/\">bard.google.com</a>\"上注册申请测试。</p><p></p><p>不过谷歌表示推出速度会很慢，且没有提供完全公开访问的日期。</p><p></p><p>自 OpenAI 的 ChatGPT 推出后，谷歌就在加紧研发人工智能聊天机器人Bard ，谷歌也对这款ChatGPT竞品寄予厚望。谷歌希望借助 Bard，巩固其在 AI 聊天机器人领域的地位，同时保持其在搜索引擎市场的主导地位。</p><p></p><p><a href=\"https://www.theverge.com/2022/12/8/23499728/ai-capability-accessibility-chatgpt-stable-diffusion-commercialization\">与OpenAI 的 ChatGPT</a>\"和<a href=\"https://www.theverge.com/2023/2/8/23590873/microsoft-new-bing-chatgpt-ai-hands-on\">微软的 Bing 聊天机器人</a>\"一样，Bard 为用户提供了一个空白文本框，用户可以就他们喜欢的任何话题提问。</p><p></p><p>下图展示了Bard 如何回答问题：</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/a2/a28f2ebebbd98ad156d16a0a22ab746c.png\" /></p><p></p><p>Bard由研究型大型语言模型 (LLM) 提供支持—— LaMDA 的轻量级优化版本。LaMDA 是两年前在 2021 年谷歌 I/O 主题演讲中<a href=\"https://searchengineland.com/googles-lamda-will-enable-open-ended-voice-conversations-348729\">宣布的，作为谷歌的下一代语言和对话功能。</a>\"</p><p></p><p>LaMDA建立在 <a href=\"https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html\">Transformer</a>\" 上，由这个架构生成的模型可以训练阅读许多单词（例如，一个句子或段落），注意这些单词之间的关系，然后预测它认为接下来会出现什么单词。但与其他大多数语言模型不同的是，LaMDA 接受的是对话训练。在训练过程中，它发现一些区别于其他语言形式的开放式对话的细微差异。LaMDA现在被用在Bard 上为用户创建答案。</p><p></p><p>谷歌表示， LaMDA 的轻量级模型版本，意味着LaMDA 需要“显著更少的计算能力”，这将使LaMDA 能够扩展到更多用户，同时也允许获得更多反馈。</p><p></p><p>谷歌强调 Bard ，不是其搜索引擎的替代品，而是谷歌搜索的补充&nbsp;，旨在提高生产力、加速创意并培养好奇心，用户可以从中“反弹”想法、生成的机器人写草稿，或者只是聊聊生活。 Bard允许用户检查其响应或探索网络上的资源。作为一个独立的网页运行，BARD 由一个单一的问题框组成，而不是集成到谷歌的搜索引擎中。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/35/359512346b687ea49bbc1cde73e76b51.png\" /></p><p></p><p>此图展示了Google 如何很快将 AI 生成的答案直接集成到 Google 搜索。</p><p></p><p>皮采表示，很快，用户将在谷歌搜索中看到 AI 支持的功能，这些功能将复杂的信息和多个视角提炼成易于理解的格式，帮助用户可以快速了解全局并从网络上了解更多信息。</p><p></p><p>在该项目的两位负责人 Sissie Hsiao 和 Eli Collins 撰写的博客文章中，他们谨慎地将 Bard 描述为“一项早期实验......旨在帮助人们提高生产力，加速他们的想法，并激发他们的好奇心。”&nbsp;他们还将Bard描述为一种让用户“与生成人工智能协作”的产品。</p><p></p><p>谷歌还表示，在 Bard 上的工作以 AI 原则为指导，专注于质量和安全，该公司使用人工反馈和评估来增强其系统，并为Bard实施了护栏，例如限制对话中的交流次数，以保持互动有益和切合主题。</p>",
+    "publish_time": "2023-03-22 17:49:31",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
