@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Lyft如何检测生产中安卓的内存泄漏",
+    "url": "https://www.infoq.cn/article/MuATtLq6R00gEssCOwzj",
+    "summary": "<p>尽管现代的安卓和iOS工具都能通过本地构建检测内存泄露风险，但应用程序在生产环境中的内存表现却依旧得不到百分百的保障。生产环境中的程序可能在各种条件下运行在各种设备上，为此，<a href=\"https://eng.lyft.com/detecting-android-memory-leaks-in-production-29e9c97e2ba1\">Lyft的工程师将A/B测试与内存可观察性相结合</a>\"，从而检测可能造成内存泄漏的应用功能。</p><p></p><p></p><blockquote>在发布大型且复杂的功能点时，我们需要特别关注其在内存使用方面是否会造成回归。这点在包含本地C/C++代码的功能发布时更为关键，因为这部分代码更易于引入内存泄漏。</blockquote><p></p><p></p><p>在一般情况下，Lyft工程师所遵循的方式是用测量的应用程序的标准内存行为基线，对比在A/B测试中所采集的特定功能受众子群数据。在评估应用的整体内存使用上，Lyft工程师考虑了几款<a href=\"https://developer.android.com/topic/performance/memory-management\">安卓上可用来检索内存使用指标的API</a>\"：比例集大小（PSS）、唯一集大小（USS）、常驻内存大小（RSS）。其中RSS因其在性能方面的特点，以及可以不受采样率限制的特性而脱颖而出。其他Lyft工程师们感兴趣的指标，如JVM堆和本地堆大小等，都支持在安卓运行时直接采集。</p><p></p><p>内存指标的重要采集场景有两种：每次UI界面关闭时，以及用户在同一界面长时间停留的情况下每分钟的采集间隔。</p><p></p><p>因此，为判断一项功能是否会造成内存回归，Lyft工程师对比了用户群组在运行禁用该功能时的原始版本，与启用该功能应用版本的情况。内存使用情况随用户而异，故而将应用内存使用足迹以曲线形式显示，如果两种情况下内存足迹曲线出现，则表示可能存在内存回归情况，如下图表示：</p><p></p><p><img src=\"https://imgopt.infoq.com/news/2023/01/lyft-android-memory-leaks/en/resources/1lyft-memory-leaks-production-1674813678638.jpg\" /></p><p></p><p>一个有趣的发现是，内存泄漏只影响一小部分用户。因此，除了百分比较高的部分（取决于用户群组大小），内存足迹曲线实际是会几乎重合的。如下图中所示，内存泄漏只会发生在极特殊的情况下，仅影响用户群组的最后一段百分比。</p><p></p><p><img src=\"https://imgopt.infoq.com/news/2023/01/lyft-android-memory-leaks/en/resources/1lyft-memory-leaks-prod-2-1674813678638.jpg\" /></p><p></p><p>Lyft的工程师称，这种方式已被证明可以有效检测内存泄漏，尤其是特殊情况下极易在本地测试时遗漏的内存泄露。还请不要错过Lyft原文中的全部细节。</p><p></p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2023/01/lyft-android-memory-leaks/\">How Lyft Detects Android Memory Leaks in Production</a>\"</p><p></p><p>相关阅读：</p><p><a href=\"https://www.infoq.cn/article/pz1YayKHBuqqtvHQpbOC\">探索 Android 14：首个开发者预览版的新功能与特性</a>\"</p><p><a href=\"https://www.infoq.cn/article/DQRTjfuXwqDQCbwAtVYl\">Spotify 移动工程平台迁移：将 Android 和 iOS 代码库迁移到 Bazel</a>\"</p>",
+    "publish_time": "2023-03-22 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
