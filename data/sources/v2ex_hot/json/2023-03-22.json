@@ -75,5 +75,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "markdown 语法-插入图片",
+    "url": "https://www.v2ex.com/t/926148",
+    "summary": "gangster: <h3>刚刚学习了 markdown 的图片语法</h3>\n<h4>关联记忆法：将 Markdown 语法与已知概念进行关联。例如，在 Markdown 语法中，感叹号 (!) 可以代表“看！”的意思，而方括号 ([ ]) 可以让你想到“描述”，圆括号 ( ( ) ) 可以让你想到“URL”。通过这种关联，你可以更容易地记住图片的 Markdown 语法：<code>![图片描述](图片 URL)。</code></h4>\n<h3>在这里试一试</h3>\n<p><img alt=\"这是一张 500px.com 的风景图片\" class=\"embedded_image\" rel=\"noreferrer\" src=\"http://many-video.oss-cn-beijing.aliyuncs.com/photos/2023_0322_123418_386ar7z5.png\" /></p>",
+    "publish_time": "2023-03-22 12:36:25",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
