@@ -1463,5 +1463,103 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "和毛晓彤一起绽放我所爱",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%92%8C%E6%AF%9B%E6%99%93%E5%BD%A4%E4%B8%80%E8%B5%B7%E7%BB%BD%E6%94%BE%E6%88%91%E6%89%80%E7%88%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "刘耀文蓝天随拍",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E8%93%9D%E5%A4%A9%E9%9A%8F%E6%8B%8D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "杭州狂摇樱花树网红公司道歉",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E7%8B%82%E6%91%87%E6%A8%B1%E8%8A%B1%E6%A0%91%E7%BD%91%E7%BA%A2%E5%85%AC%E5%8F%B8%E9%81%93%E6%AD%89%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "2023 LPL 春季常规赛最佳阵容应该有谁？",
+    "url": "https://www.zhihu.com/question/591315041",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "你什么时候发现你曾经看过的日本动画、漫画作品已经是“时代的眼泪”了？",
+    "url": "https://www.zhihu.com/question/381135092",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "友谊赛：中国亚运代表队 0:2 新西兰 U23，何宇鹏送点，韩佳奇屡次救险，如何评价本场比赛？",
+    "url": "https://www.zhihu.com/question/591379900",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "How to use Alpaca-LoRA to fine-tune a model like ChatGPT",
+    "url": "https://replicate.com/blog/fine-tune-alpaca-with-lora",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35279656\">Comments</a>",
+    "publish_time": "2023-03-24 02:59:33",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "AI’s compute fragmentation: what matrix multiplication teaches us",
+    "url": "https://www.modular.com/blog/ais-compute-fragmentation-what-matrix-multiplication-teaches-us",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35279274\">Comments</a>",
+    "publish_time": "2023-03-24 02:34:03",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The heaviest bicycle in the world is 4800 lb",
+    "url": "https://driverscoops.com/the-heaviest-bicycle-in-the-world-4800-lb/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35279349\">Comments</a>",
+    "publish_time": "2023-03-24 02:38:14",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Launch HN: Helicone.ai (YC W23) – Open-source logging for OpenAI",
+    "url": "https://news.ycombinator.com/item?id=35279155",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35279155\">Comments</a>",
+    "publish_time": "2023-03-24 02:25:45",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
