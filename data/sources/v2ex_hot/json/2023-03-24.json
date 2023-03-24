@@ -1,0 +1,35 @@
+[
+  {
+    "title": "感觉前途无望，十分焦虑",
+    "url": "https://www.v2ex.com/t/926716",
+    "summary": "detached: <p>最近两天事都不想做，处于躺尸状态。</p>\n<p>原因在于：自己特别想读博。</p>\n<p>我的情况是：本科中流 985 ，研究生 top2 研一下在读。top2 考研考上的，本科纯摆烂了，GPA 3.3 ，科班。</p>\n<p>外面看起来情况还不错。但是实验室的老师属于十年都没发过论文了，实验室的方向又特别难出成果。</p>\n<p>我感觉自己就算剩下的时间 all in 科研，也出不了成果。全靠自己，没人指导，自己又没正儿八经做过科研，方向又难，debuff 叠满了。</p>\n<p>这样就面临着，硕士毕业了啥成果都没有，去申博没有任何竞争力。</p>\n<p>各位老哥有什么建议吗？</p>",
+    "publish_time": "2023-03-24 08:58:25",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "这种繁琐的付款方式为什么仍然是支付的主流？",
+    "url": "https://www.v2ex.com/t/926718",
+    "summary": "airbotgo: 国外很多网站付款时，发现付款页面需要填写大量的敏感个人信息，包含信用卡号码、CVC 号码，还有个人姓名、地址等信息。<br /><br />我遇到这样的付款方式，第一反应是抵触的，尤其是信用卡号码+CVC 被泄露了，那盗刷不就成了家常便饭？<br /><br />1 、为什么弊端明显，在国外这种付款时需要填写大量敏感信息的支付方式仍然是主流？<br />2 、桌面 web 淘宝+支付宝手机扫码省时、安全、高效，PayPal 为什么没有发挥类似支付宝的这种功能？<br />（换个问题，ChatGPT plus 为什么不提供 PayPal 支付？不直接暴露个人银行卡信息更安全）<br />3 、ChatGPT plus 支付页面提供了银联支付，你成功使用了吗？<br /><br />（ ChatGPT plus 已支持银联支付，个人未尝试）<br /><a href=\"https://i.imgur.com/Jot6ItS.png\" rel=\"nofollow noopener\" target=\"_blank\"><img class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/Jot6ItS.png\" /></a>",
+    "publish_time": "2023-03-24 09:02:23",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "你们 mac 多久重启一次",
+    "url": "https://www.v2ex.com/t/926735",
+    "summary": "movq: <p>感觉 macOS 的内存管理依托答辩一样，用久了就会狂写 ssd 。比如我 16G RAM ，开软件多了，swap 到 10 个 G 。这时候我把耗内存多的软件都退出了，swap 还是 10 个 G ，而且磁盘疯狂写入</p>\n<p>重启（勾选重新打开所有 app ）之后 swap 就降下来了，磁盘也不疯狂写入了</p>\n<p>iCloud 同步也是，重启之后疯狂同步，因为重启之前 iCloud 实际上没同步好，发生了故障</p>\n<p>macOS 的 bug 真多啊</p>",
+    "publish_time": "2023-03-24 09:50:12",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  }
+]
