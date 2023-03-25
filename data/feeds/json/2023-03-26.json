@@ -1567,5 +1567,87 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "超声炮攻略详解",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B6%85%E5%A3%B0%E7%82%AE%E6%94%BB%E7%95%A5%E8%AF%A6%E8%A7%A3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "笑容逐渐消失的狗子",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%AC%91%E5%AE%B9%E9%80%90%E6%B8%90%E6%B6%88%E5%A4%B1%E7%9A%84%E7%8B%97%E5%AD%90%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "生物书为什么要说“人和动物…”，既然人也是动物，那这不算语义重复吗？",
+    "url": "https://www.zhihu.com/question/591732916",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "OpenAI&#x27;s ChatGPT plugins may revolutionise the traditional customer journey",
+    "url": "https://tevfik.xyz/posts/chatgpt-plugins/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35306601\">Comments</a>",
+    "publish_time": "2023-03-26 03:56:43",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Management structures at various large companies [image]",
+    "url": "https://goomics.net/62/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35306042\">Comments</a>",
+    "publish_time": "2023-03-26 03:15:17",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Proposed dam to protect NL, DE, DK, SE from rising sea levels",
+    "url": "https://haaksezeedijk.com/dhz/dijkenbekkens/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35306312\">Comments</a>",
+    "publish_time": "2023-03-26 03:36:30",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Open-Source GPT-4 Platform for Markdown",
+    "url": "https://markprompt.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35307250\">Comments</a>",
+    "publish_time": "2023-03-26 04:55:37",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "An EEVDF CPU Scheduler for Linux",
+    "url": "https://lwn.net/Articles/925371/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35306506\">Comments</a>",
+    "publish_time": "2023-03-26 03:51:29",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
