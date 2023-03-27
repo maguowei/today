@@ -768,5 +768,60 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "GitHub issue - resolved",
+    "url": "https://www.githubstatus.com/incidents/52z0j6phhnjs",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35325709\">Comments</a>",
+    "publish_time": "2023-03-27 20:19:30",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Zig and Rust",
+    "url": "https://matklad.github.io/2023/03/26/zig-and-rust.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35325556\">Comments</a>",
+    "publish_time": "2023-03-27 20:02:07",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "My Best Friend Died from Loneliness",
+    "url": "https://www.thefp.com/p/my-best-friend-died-from-loneliness",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35326105\">Comments</a>",
+    "publish_time": "2023-03-27 20:58:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Jsonnet – The Data Templating Language",
+    "url": "https://jsonnet.org/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35325488\">Comments</a>",
+    "publish_time": "2023-03-27 19:52:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Benchmarking Cheap SSDs for Fun, No Profit",
+    "url": "https://louwrentius.com/benchmarking-cheap-ssds-for-fun-no-profit-be-warned.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35325883\">Comments</a>",
+    "publish_time": "2023-03-27 20:38:12",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
