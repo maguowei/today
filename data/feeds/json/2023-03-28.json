@@ -1583,5 +1583,67 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "他是谁聂宝华反杀",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BB%96%E6%98%AF%E8%B0%81%E8%81%82%E5%AE%9D%E5%8D%8E%E5%8F%8D%E6%9D%80%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "科技部启动「人工智能驱动的科学研究」专项部署工作，释放了哪些信号？",
+    "url": "https://www.zhihu.com/question/592157178",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Artificial Intelligence Searches for Extraterrestrial Intelligence",
+    "url": "https://www.supercluster.com/editorial/artificial-intelligence-searches-for-extraterrestrial-intelligence/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35331372\">Comments</a>",
+    "publish_time": "2023-03-28 03:43:45",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Apple Detection of Flashing Lights",
+    "url": "https://github.com/apple/VideoFlashingReduction",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35332531\">Comments</a>",
+    "publish_time": "2023-03-28 05:00:25",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Defaulting on Single Page Applications",
+    "url": "https://www.zachleat.com/web/single-page-applications/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35332314\">Comments</a>",
+    "publish_time": "2023-03-28 04:47:19",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Prospect of an AI Winter",
+    "url": "https://www.erichgrunewald.com/posts/the-prospect-of-an-ai-winter/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35332537\">Comments</a>",
+    "publish_time": "2023-03-28 05:00:39",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
