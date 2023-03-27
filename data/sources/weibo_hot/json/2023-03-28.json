@@ -520,5 +520,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "华为FreeBuds 5耳边秀场",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAFreeBuds+5%E8%80%B3%E8%BE%B9%E7%A7%80%E5%9C%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "非凡内护 敢随心动",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9D%9E%E5%87%A1%E5%86%85%E6%8A%A4+%E6%95%A2%E9%9A%8F%E5%BF%83%E5%8A%A8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "首个国产新冠药停产",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%A6%96%E4%B8%AA%E5%9B%BD%E4%BA%A7%E6%96%B0%E5%86%A0%E8%8D%AF%E5%81%9C%E4%BA%A7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
