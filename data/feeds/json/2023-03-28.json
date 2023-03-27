@@ -1408,5 +1408,65 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "周笔畅回应转型",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E7%AC%94%E7%95%85%E5%9B%9E%E5%BA%94%E8%BD%AC%E5%9E%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "IGN公布了游戏《鸣潮》 11 分钟实机演示视频，看后你有什么想说的，有哪些期待？",
+    "url": "https://www.zhihu.com/question/592104329",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "选择相爱的人在新城市重新开始，还是选择舒适的生活失去相爱的人？",
+    "url": "https://www.zhihu.com/question/591308119",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Disney Layoffs 7000 People",
+    "url": "https://www.cnn.com/2023/03/27/media/disney-layoffs/index.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35331154\">Comments</a>",
+    "publish_time": "2023-03-28 03:25:49",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "WebKit Features in Safari 16.4",
+    "url": "https://webkit.org/blog/13966/webkit-features-in-safari-16-4/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35329961\">Comments</a>",
+    "publish_time": "2023-03-28 01:56:03",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Employees Are Feeding Sensitive Biz Data to ChatGPT, Raising Security Fears",
+    "url": "https://www.darkreading.com/risk/employees-feeding-sensitive-business-data-chatgpt-raising-security-fears",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35330438\">Comments</a>",
+    "publish_time": "2023-03-28 02:32:37",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
