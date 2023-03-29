@@ -1,0 +1,13 @@
+[
+  {
+    "title": "开源软件包ngrok-go致力于让Ingress更容易地嵌入到Go应用中",
+    "url": "https://www.infoq.cn/article/H1pfOQDy4642xHG59I2D",
+    "summary": "<p><a href=\"https://blog.ngrok.com/posts/ngrok-go\">Ngrok-go</a>\"是一个地道的（idiomatic）的Go软件包，它使Go应用程序能够通过ngrok的ingress即服务（ingress-as-a-service）平台安全地接收网络请求，就像监听本地端口一样。</p><p></p><p>ngrok-go旨在简化网络ingress的创建，它负责处理网络栈中不同层的一些低级网络基元（primitive），这些基元目前需要由开发人员来设置，以启用网络ingress。它们包括DNS、TLS证书、网络级CIDR策略、IP与子网路由、负载均衡、VPN和NAT。</p><p></p><p>ngrok-go可以看作一种将ngrok代理打包并嵌入Go应用程序的方式，从而为捆绑ngrok来创建网络ingress的应用消除了巨大的复杂性，例如物联网设备、CI/CD流水线等。</p><p></p><p></p><blockquote>ngrok-go让开发人员只需一行代码就能将Go应用发布到互联网上，而无需设置IP、证书、负载均衡器甚至端口等低级别的网络基元!</blockquote><p></p><p></p><p>要通过ngrok将ingress嵌入Go应用，开发人员只需调用ngrok-go提供的ngrok.Listen原语即可。如果你的环境有ngrok authtoken的话，对Listen的调用将初始化与ngrok的安全和持久连接，并传输你所指定的配置需求，包括URL、认证、IP限制等，例如：</p><p></p><p><code lang=\"go\">ngrok.Listen(ctx, \n       config.HTTPEndpoint(\n        config.WithDomain(\"my-app.ngrok.io\"),\n        config.WithAllowCDIRString(\"192.30.252.0/22\"),\n        config.WithCircuigBreaker(0.8),\n        config.WithCompression(),\n        config.WithOAuth(\"github\")\n       ), \n       ngrok.WithAuthtokenFromEnv(),\n)</code></p><p></p><p>调用Listen时指定的所有策略都由ngrok执行，它在边缘处拒绝所有未经授权的请求，这意味着只有有效的请求才能到达Go应用。</p><p></p><p>使用ngrok-go的另一个优势是它在ingress方面的“可移植性”。这意味着使用它的应用将以同样的方式运行，与底层平台无关，无论是裸机、虚拟机、AWS、Azure、Kubernetes等均是如此。</p><p></p><p>虽然ngrok选择Go作为第一个支持的语言，但对其他语言的支持已经在进行中，包括<a href=\"https://github.com/ngrok/ngrok-rs\">Rust</a>\"和<a href=\"https://github.com/ngrok/ngrok-js\">JavaScript</a>\"。对其他语言（如Java、C#、Python和Ruby）的支持预计很快就会纳入路线图，这也会基于用户的反馈。</p><p></p><p>如果你有兴趣尝试，<a href=\"https://github.com/ngrok/ngrok-go\">ngrok-go可以在GitHub上找到</a>\"，<a href=\"https://ngrok.com/docs/using-ngrok-with/go/\">官方的入门指南</a>\"是一个很好的起点。</p><p></p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2023/03/ngrok-go-ingress-package/\">Open-Source Package ngrok-go Aims to Make it Easier to Embed Ingress into Go Apps</a>\"</p>",
+    "publish_time": "2023-03-29 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
