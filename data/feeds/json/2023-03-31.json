@@ -1456,5 +1456,107 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "王鹤棣的悦享时刻",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%9A%84%E6%82%A6%E4%BA%AB%E6%97%B6%E5%88%BB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "成功企业的背后都有TA",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%90%E5%8A%9F%E4%BC%81%E4%B8%9A%E7%9A%84%E8%83%8C%E5%90%8E%E9%83%BD%E6%9C%89TA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "普鲁士最伟大的文化输出是什么？",
+    "url": "https://www.zhihu.com/question/589073393",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么别人越来越优秀，而我们却总是很迷茫？",
+    "url": "https://www.zhihu.com/question/592071092",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Vicuna: An open-source chatbot impressing GPT-4 with 90% ChatGPT quality",
+    "url": "https://vicuna.lmsys.org/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35378683\">Comments</a>",
+    "publish_time": "2023-03-31 04:52:49",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "E3 Has Been Canceled",
+    "url": "https://www.ign.com/articles/e3-has-been-canceled",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35378997\">Comments</a>",
+    "publish_time": "2023-03-31 05:24:49",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Can we hide the orange dot without disabling SIP?",
+    "url": "https://notes.alinpanaitiu.com/Can%20we%20hide%20the%20orange%20dot%20without%20disabling%20SIP",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35377105\">Comments</a>",
+    "publish_time": "2023-03-31 02:34:00",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "When Google paid websites to promote Firefox",
+    "url": "https://leonidasv.com/til-google-paid-websites-for-referring-firefox/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35378758\">Comments</a>",
+    "publish_time": "2023-03-31 04:59:29",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Why not tell people to “simply” use pyenv, poetry or anaconda",
+    "url": "https://bitecode.substack.com/p/why-not-tell-people-to-simply-use",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35379008\">Comments</a>",
+    "publish_time": "2023-03-31 05:25:42",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "My kids and I just played D&amp;D with ChatGPT4 as the DM",
+    "url": "https://obie.medium.com/my-kids-and-i-just-played-d-d-with-chatgpt4-as-the-dm-43258e72b2c6",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35379136\">Comments</a>",
+    "publish_time": "2023-03-31 05:38:08",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
