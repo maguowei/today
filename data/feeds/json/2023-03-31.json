@@ -1354,5 +1354,107 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Note12 Turbo今日开售",
+    "url": "https://s.weibo.com/weibo?q=%23Note12+Turbo%E4%BB%8A%E6%97%A5%E5%BC%80%E5%94%AE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "魏牌蓝山开启预订",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%AD%8F%E7%89%8C%E8%93%9D%E5%B1%B1%E5%BC%80%E5%90%AF%E9%A2%84%E8%AE%A2%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "中国说唱巅峰对决",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%AF%B4%E5%94%B1%E5%B7%85%E5%B3%B0%E5%AF%B9%E5%86%B3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "丫丫",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "RFdiffusion: Diffusion model generates protein backbones",
+    "url": "https://github.com/RosettaCommons/RFdiffusion",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35377926\">Comments</a>",
+    "publish_time": "2023-03-31 03:48:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Faiss: A library for efficient similarity search",
+    "url": "https://github.com/facebookresearch/faiss",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35378521\">Comments</a>",
+    "publish_time": "2023-03-31 04:37:56",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "You probably shouldn&#x27;t use OpenAI&#x27;s embeddings",
+    "url": "https://iamnotarobot.substack.com/p/should-you-use-openais-embeddings",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35377935\">Comments</a>",
+    "publish_time": "2023-03-31 03:49:28",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "GPT-4 Says an Open-Source Chatbot Vicuna Reaches 90% ChatGPT Quality",
+    "url": "https://vicuna.lmsys.org/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35378683\">Comments</a>",
+    "publish_time": "2023-03-31 04:52:49",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Developer Tools 2.0",
+    "url": "https://www.sequoiacap.com/article/ai-powered-developer-tools/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35377826\">Comments</a>",
+    "publish_time": "2023-03-31 03:38:30",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: RoboPianist, a piano playing robot simulation in the browser",
+    "url": "https://kevinzakka.github.io/robopianist-demo/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35376138\">Comments</a>",
+    "publish_time": "2023-03-31 01:22:24",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
