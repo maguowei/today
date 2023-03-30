@@ -1301,5 +1301,58 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "魅族20好看好用",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%AD%85%E6%97%8F20%E5%A5%BD%E7%9C%8B%E5%A5%BD%E7%94%A8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "The Anatomy of Your Salary",
+    "url": "https://philipjoubert.com/why-are-you-paid/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35377794\">Comments</a>",
+    "publish_time": "2023-03-31 03:34:50",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Get Instant Feedback and Help for LeetCode&#x2f;HackerRank with ChatGPT",
+    "url": "https://github.com/Liopun/leet-chatgpt-extension",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35377665\">Comments</a>",
+    "publish_time": "2023-03-31 03:21:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Tiny Tapeout: From idea to chip design in minutes!",
+    "url": "https://tinytapeout.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35376645\">Comments</a>",
+    "publish_time": "2023-03-31 01:56:46",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Switching to Fedora from Ubuntu",
+    "url": "https://evertpot.com/switching-to-fedora/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35377584\">Comments</a>",
+    "publish_time": "2023-03-31 03:13:42",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
