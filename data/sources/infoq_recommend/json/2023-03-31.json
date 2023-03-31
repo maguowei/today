@@ -163,5 +163,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "OpenCloudOS首个社区全自研版本发布：使用内核 Kernel 6.1，提供多体系架构与新硬件支持",
+    "url": "https://www.infoq.cn/article/Epaw0GXBomUsfvzJK9iE",
+    "summary": "<p>3月31日，国产操作系统开源社区<a href=\"https://www.infoq.cn/article/h4g17zGGfVYHzpvrj2gD\">OpenCloudOS</a>\"正式发布首个全自研社区9.0版本（以下简称“OC9.0”）。据了解，该版本由腾讯等十余家企业共同开发并长期维护，其内核及用户态软件均为自主选型、独立演进，在操作系统发行版的全链路均实现自主可控。</p><p>&nbsp;</p><p>早在2010年，腾讯就已经推出自研操作系统<a href=\"https://www.infoq.cn/article/xCqT3fohahahw7gLdFAR\">TencentOS</a>\"。TencentOS Server在资源调度弹性、容器支持、系统性能及安全方面均有升级，更适合云环境。目前该操作系统已经覆盖了腾讯所有的业务。</p><p></p><p>2021年，OpenCloudOS操作系统开源社区正式诞生，致力于研发国产化、自主可控的下一代云原生操作系统 OpenCloudOS。2022 年 6 月 22 日，在 OpenCloudOS 社区开放日上，国产开源操作系统 OpenCloudOS 正式发布首个源社区（L1）项目及全量软件包（L3）版本，并披露其技术研发路线图。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/dc/dcbb6ead9c79409f52c2708d3daa4703.png\" /></p><p></p><p>当前，<a href=\"https://xie.infoq.cn/article/f3caeaae4fbd1dcf2a67a4274\">服务器操作系统</a>\"发行版包含从L1到L3的不同层级。其中，L1基于Linux内核及核心组件构建，是最上游的“源社区”版本；L2企业版基于L1源社区版本加固，提供企业级的技术支持及服务，可用于真实业务场景，是稳定可靠的发行版本；L3社区版基于L2企业版进一步优化，是代码完全开源、生态全面开放的发行版本。</p><p><img src=\"https://static001.geekbang.org/infoq/55/555e2faccbd0e7f414c18162a4dc7bd1.png\" /></p><p></p><p>&nbsp;</p><p>此前，OpenCloudOS 社区 TOC 主席、腾讯云副总裁郭振宇曾表示：“如果把操作系统发行版的供应链比作一条河流，L1 相当于上游，它是在对源头进行成千上万次梳理后的结果，属于底层版本；L2 则相当于河流下游，它能被稳定地应用于企业级场景，直接产生效益；L3 则相当于河流的下游支流，在经过 L2 的反复验证之后，免费发布到社区，然后被广泛运用到各种场景。只有以这样的开发模式，才能真正摆脱对国外操作系统产品的外部依赖，从源头自主可控，保障研发供应链的安全。”</p><p>&nbsp;</p><p>OpenCloudOS以打造从L1到L3全覆盖的操作系统发行版为特色，致力于研发自主可控的下一代云原生操作系统，并以社区为依托，建设操作系统开源生态。</p><p>&nbsp;</p><p>今年1月，L1源社区的 OpenCloudOS Stream正式发布，在云原生、稳定性、性能等方面均有支撑，可以全面地支持所有硬件平台，提供自主创新的上游版本。</p><p>&nbsp;</p><p>本次发布的L3社区版OC9.0，是基于L1源社区的 OpenCloudOS Stream优化推出，由腾讯与Intel、北京红旗、中兴、龙芯、中科方德等二十余家单位共同研发。</p><p>&nbsp;</p><p><img src=\"https://static001.geekbang.org/infoq/9f/9f69c55332b0a7a191232c3d7a83e29d.png\" /></p><p></p><p>OC9使用上游社区最新内核 Kernel 6.1，提供多体系架构和新硬件支持，多核性能优化，混部隔离特性增强。同时，MGLRU、Mapple Tree 等特性提升内存管理效率，具备完善的 Cgroup V2 支持、多架构热补丁支持，并提供细致化的调优与系统适配。除了高性能、安全稳定、支持多硬件平台的特性外，OC9.0还将为云原生、大数据、人工智能等领域的开发者和用户提供更好的基础环境和服务能力。</p><p>&nbsp;</p><p>开放原子开源基金会业务发展部部长朱其罡表示：“操作系统是数字基础设施的底座，也是推动我国产业数字化、智能化发展的核心力量。在这一过程中，繁荣的开源生态必不可少。我们高兴地看到，OpenCloudOS在全链路自研方面取得了显著进步，成为研发下一代云原生操作系统的重要力量。未来，基金会将继续助力OpenCloudOS操作系统的孵化发展，将其打造成为国际一流开源操作系统社区。”</p><p>&nbsp;</p><p>据悉，自2021年成立至今，OpenCloudOS 社区成员增长迅速，目前已有600余家生态伙伴加入，覆盖操作系统厂商、芯片厂商、整机厂商等11 大行业和领域。其中超过60家企业单位、高校及机构深度参与OpenCloudOS社区的共建 ，腾讯、英特尔、中兴、九州云、网迅科技、绿芯、麒麟软件、京东云、宝德、北京红旗、飞腾、浪潮、龙芯中科、OPPO、中科方德、兆芯、清华大学、北京大学等都是社区重要成员。</p><p>&nbsp;</p><p>目前，OpenCloudOS社区及衍生版本装机量累计超过1000万节点，覆盖了银行、保险、证券等12大行业，并经历了海量场景长时间的考验。</p><p>&nbsp;</p><p>针对中小企业面临的痛点问题，OpenCloudOS社区还于近期推出“千百双扶”计划，从迁移服务、生态资源、联盟体系、投资孵化等维度，助力千百家中小企业快速实现国产操作系统的平滑升级和迁移。未来，OpenCloudOS社区将继续坚持多元化的技术输入、长期主义的技术路线，助力国产操作系统在开源共建中壮大成长。</p>",
+    "publish_time": "2023-03-31 19:53:14",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
