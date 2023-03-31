@@ -42,5 +42,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "最近上班路上遇到不少乱开车的，全给举报了，心情十分舒畅。",
+    "url": "https://www.v2ex.com/t/928700",
+    "summary": "xtx: <p>疫情放开之后，不知道怎么的，路上多了一堆车出来，比疫情前还要堵，看到的违法行为也越来越多，包括但不限于，变道转弯不打灯，实线变道，走非机动车道右转。<br /><br />每天都要打开 app 看看审核有没有通过，这里吐槽一下上海交警审核的速度太慢了，最长的一次过了 20 天才通过，看到别人扣三分两百，比我自己得两百还高兴。<br /><br />顺便请大家推荐一个夜视好点的行车记录仪，我现在用的，白天还行，前两天晚上碰到一个闯红灯的，到家拉了视频，结果看不清车牌号，很气。<br /><br />我开车只有三年多，目前也只开了 3 万多公里，自认为不算老手，所以路上开车规规矩矩，到现在也没有吃过一次罚单，所以见不得这些乱开车的人，只要他们被罚过一次，我相信他们下次违章前，多多少少会触发被罚款扣分的记忆，整治道路交通环境，从我做起。</p>",
+    "publish_time": "2023-03-31 10:55:19",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "使用 Typora 的小伙伴可以看看这个主题样式，非常适合中文写作",
+    "url": "https://www.v2ex.com/t/928701",
+    "summary": "ligz: <p>仓库地址： <a href=\"https://github.com/guangzhengli/typora-ladder-theme\" rel=\"nofollow\">https://github.com/guangzhengli/typora-ladder-theme</a></p>\n<p><img alt=\"MXWrA0\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://cdn.jsdelivr.net/gh/guangzhengli/PicURL@master/uPic/MXWrA0.png\" /></p>",
+    "publish_time": "2023-03-31 10:56:21",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "回馈福利，送 GPT 的 API KEY 啦～基于 GPT-3.5-Turbo 模型的问答机器人，使用 Next.js 搭建， Vercel 一键部署",
+    "url": "https://www.v2ex.com/t/928719",
+    "summary": "afit: <p>Light-GPT 是一个基于 GPT-3.5-Turbo 模型的交互式网站项目，使用 Next.js 框架构建，使用 Vercel 云平台部署，是一个纯前端的轻量级应用。</p>\n<p><a href=\"https://github.com/riwigefi/light-gpt\" rel=\"nofollow\">Github</a></p>\n<p><a href=\"https://light-gpt.vercel.app/\" rel=\"nofollow\">Demo 演示</a></p>\n<h2>站点预览</h2>\n<p><img alt=\"dark-gpt.png\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://s2.loli.net/2023/03/31/AyWQ2LK8VHnJSoC.png\" /></p>\n<p><img alt=\"light-gpt.png\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://s2.loli.net/2023/03/31/atdiysf4IqlAELX.png\" /></p>\n<h2>站点功能</h2>\n<ol>\n<li>纯前端应用，基于 GPT-3.5-Turbo 模型，使用 API KEY 在前端请求 OpenAI 的对话接口，支持流式数据，页面以打字机效果显示机器人回复。</li>\n<li>部署后，用户在前端页面设置自己的 API KEY ，科学上网的情况下，问答速度会很快。用户设置的 API KEY 将保存在客户端，完全没有泄漏风险。</li>\n<li>支持新的主题对话和查看历史主题对话。所有对话数据都存储在浏览器的 IndexedDB 中，也就是说对话数据记录是保存在本地的，不会有数据泄漏风险。</li>\n<li>AI 回复支持多种语法高亮和一键复制代码功能，针对编程相关问题。对话支持图片和 PDF 导出。</li>\n<li>应用适配了 PC 和 Mobile 设备，方便使用。</li>\n<li>支持 DIY ，支持设置用户头像和 AI 头像。</li>\n<li>支持根据文字生成图片</li>\n</ol>\n<p>之前发了帖子，得到了不少 v 友支持，这次更新一部分功能后，决定回馈 v 友，<strong>在评论区随机抽 6 个 v 友，赠送 18$额度的 API KEY ，直接体验。</strong>下午五点来开奖，开奖楼层由 GPT 来生成，再次感谢 V 友的支持，给予了我这个小项目的鼓励～</p>",
+    "publish_time": "2023-03-31 11:44:15",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
