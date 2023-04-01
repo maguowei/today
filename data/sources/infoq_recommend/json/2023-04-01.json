@@ -20,5 +20,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "弃用Electron，微软重新设计Microsoft Teams：速度提升2倍，内存减少50%",
+    "url": "https://www.infoq.cn/article/uHD15zM6RUaMUPWq6rlf",
+    "summary": "<p>微软宣布以公共预览版的形式，在 Win10 / Win11 系统上推出新版 Microsoft Teams 应用程序。</p><p>&nbsp;</p><p>微软协作应用程序和平台总裁 Jeff Teper 在一篇博文中表示，新版应用的设计核心是速度和易用性，“我们始终听取用户的反馈，于是我们围绕着速度、性能、灵活性和智能，重头构建了 Teams 应用。运行速度提高了 2 倍，同时使用的内存减少 50%，因此您可以节省时间并更有效地协作。”此外，该公司还重新设计了整体用户体验。</p><p>&nbsp;</p><p>微软在 1 月份的财报中指出，Teams 现在有 2.8 亿月活跃用户。 2021 年 7 月Teams的月活跃用户为 2.5 亿， 2022 年 1 月为 2.7 亿，虽然有所增加，但疫情初期快速采用协作软件的日子显然已经结束。</p><p>&nbsp;</p><p>该公司计划在今年晚些时候向所有用户提供这个新版本的 Teams，现在只选择向加入微软公共预览计划的 Windows 用户推出。</p><p>&nbsp;</p><p><a href=\"https://www.infoq.cn/article/4fpdRPuriCoBwyNMbhhl\">微软表示</a>\"，他们此次优化了 Teams 数据、网络、聊天和视频架构。功能增强的一个重要部分还源于该应用程序从 Electron 过渡到 Microsoft 的 Edge WebView 2 渲染引擎。微软还指出，它已从使用 AngularJS 作为 Teams 的 Web 开发框架转向使用 React 来构建用户界面，并在微软的Fluent UI/UX 控件上进行了标准化。</p><p>&nbsp;</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/89/894b111b51f79d4abeea3b496018b261.png\" /></p><p></p><p>&nbsp;</p><p>“ 2015 年，我们开始开发 Teams 时，选择Electron等框架可使跨平台 Web 和桌面客户端的快速交付成为可能，”该公司的公司工程副总裁 Sumi Singh 在今天的博客文章中解释道。“然而，随着 Teams 的功能不断扩展，给设备资源带来了压力。认识到这一点后，我们开始分析可用技术、进行基准测试、构建原型并设计了一个在内部称为北极星的新架构。”</p><p>&nbsp;</p><p>微软邀请了第三方基准测试公司GigaOm，在三台不同的机器（低端、通用和高性能）上测试了新旧 Teams 的性能，新版本性能明显更为优异：</p><p>启动应用程序的速度提高 2 倍加入会议的速度提高 2 倍切换聊天/频道的速度提高了 1.7 倍消耗的内存最多减少 50%占用的磁盘空间最多减少 70%</p><p>&nbsp;</p><p>另外，微软还计划在 Teams 中加入更多支持 AI 的功能。该公司本月早些时候已经为 Microsoft Teams 推出了 Copilot——我们很可能会看到一系列其他基于 AI 的功能，毕竟这就是微软最近最关注的内容。</p>",
+    "publish_time": "2023-04-01 21:22:24",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
