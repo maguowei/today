@@ -31,5 +31,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "求推荐一款性价比的 NAS",
+    "url": "https://www.v2ex.com/t/928903",
+    "summary": "Damow: 目前用的是群晖 DS220+，双盘位小了。用 2 块 4T 。平时放下资料，最近弄了媒体库发现不够用了。😏<br />所以有个想法，买多一台 NAS ，专门放电影。求推荐",
+    "publish_time": "2023-04-01 00:32:40",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "Microsoft Authenticator 存的密码全消失了",
+    "url": "https://www.v2ex.com/t/928913",
+    "summary": "YuxiangLuo: <p>浏览器插件和安卓 app 里面都只剩下我 1 小时前加的一个密码，之前存的 200 个密码都没了。</p>\n<p>1 小时前在浏览器插件里的操作：因为 Microsoft Authenticator 把我新注册的网站的验证码当成了用户名，我就点击管理密码，然后搜索网站域名，删掉了刚才自动保存的，手动加了一个正确的用户名和密码。</p>\n<p>清了一遍 cookie ，刚登陆 b 站发现没有自动填充了，打开插件一看，就剩一个密码了，注销重新登录还是这样。再看手机 app ，也只剩一个密码。</p>\n<p>面如死灰。</p>",
+    "publish_time": "2023-04-01 04:40:12",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "Vim 爱好者是不是大概率是手动档爱好者？",
+    "url": "https://www.v2ex.com/t/928942",
+    "summary": "rpish: 刚刚看一个关于 Vim 的视频，发现使用 Vim/IDE 和手动档 /自动挡有异曲同工之妙。<br />前者有掌控感更强的操作体验，后者更加舒适。<br />不自觉产生个疑问就是，会不会 Vim 爱好者更有可能是手动档的爱好者？<br />有没有老哥献身说法一下？",
+    "publish_time": "2023-04-01 11:02:34",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
