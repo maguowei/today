@@ -1053,5 +1053,34 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "张智霖发视频悼念张国荣",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%BA%E9%9C%96%E5%8F%91%E8%A7%86%E9%A2%91%E6%82%BC%E5%BF%B5%E5%BC%A0%E5%9B%BD%E8%8D%A3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何评价靳东、王丽坤主演的谍战剧《无间》？",
+    "url": "https://www.zhihu.com/question/540275200",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Deepest fish ever caught on camera off Japan",
+    "url": "https://www.bbc.co.uk/news/science-environment-65148876",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35401968\">Comments</a>",
+    "publish_time": "2023-04-02 01:10:40",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
