@@ -1472,5 +1472,78 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "你会忍着拥挤的烦恼出游吗",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BC%9A%E5%BF%8D%E7%9D%80%E6%8B%A5%E6%8C%A4%E7%9A%84%E7%83%A6%E6%81%BC%E5%87%BA%E6%B8%B8%E5%90%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "你在带孩子去植物园前，会提前准备一些知识和孩子分享吗？",
+    "url": "https://www.zhihu.com/question/589885918",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Byte Mini PC Powered by AMD – Get notified when available",
+    "url": "https://starlabs.systems/pages/byte",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35445179\">Comments</a>",
+    "publish_time": "2023-04-05 04:04:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: A readable macroassembler that no one asked for",
+    "url": "https://github.com/akalenuk/milasm",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35444300\">Comments</a>",
+    "publish_time": "2023-04-05 02:52:21",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Launch HN: GradientJ (YC W23) – Build NLP Applications Faster with LLMs",
+    "url": "https://news.ycombinator.com/item?id=35445097",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35445097\">Comments</a>",
+    "publish_time": "2023-04-05 03:56:25",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Creator of Catan, Klaus Teuber, has died",
+    "url": "https://www.dicebreaker.com/games/catan-1/news/catan-creator-passes-away",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35443976\">Comments</a>",
+    "publish_time": "2023-04-05 02:27:48",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Bell Labs gave up its roof to patch the Statue of Liberty",
+    "url": "https://nickvsnetworking.com/the-time-bell-labs-brought-the-statue-of-liberty-under-its-roof-literally/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35443585\">Comments</a>",
+    "publish_time": "2023-04-05 01:59:47",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
