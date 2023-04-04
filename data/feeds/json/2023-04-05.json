@@ -1282,5 +1282,119 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "英雄之光",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E4%B9%8B%E5%85%89%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "大学生在打一种很新的卡",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9C%A8%E6%89%93%E4%B8%80%E7%A7%8D%E5%BE%88%E6%96%B0%E7%9A%84%E5%8D%A1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "泉州有哪些风味独特的「非遗美食」？",
+    "url": "https://www.zhihu.com/question/592476244",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么你每次想辞职，最后却选择憋着？",
+    "url": "https://www.zhihu.com/question/593110282",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "驻洛杉矶总领馆发言人称坚决反对台湾当局领导人以「过境」为名搞「台独」分裂活动、破坏中美关系，如何解读？",
+    "url": "https://www.zhihu.com/question/593567600",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "4 月份春季有什么适合新手，又容易栽培的花卉植物？",
+    "url": "https://www.zhihu.com/question/592552971",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "部分游戏可以与严肃文学相提并论吗？",
+    "url": "https://www.zhihu.com/question/593511448",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "同样有灭国之功，李靖的结局为什么和韩信不一样？",
+    "url": "https://www.zhihu.com/question/593197608",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "公募基金产品去年亏 1.47 万亿，主动权益类是「重灾区」，哪些原因导致？对市场会产生哪些影响？",
+    "url": "https://www.zhihu.com/question/593474095",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Maybe we can have a specific tab for submitted contents about GPT and AI",
+    "url": "https://news.ycombinator.com/item?id=35444018",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35444018\">Comments</a>",
+    "publish_time": "2023-04-05 02:31:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Creator of Catan, Klaus Teuber, has passed away at the age of 70",
+    "url": "https://www.dicebreaker.com/games/catan-1/news/catan-creator-passes-away",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35443976\">Comments</a>",
+    "publish_time": "2023-04-05 02:27:48",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Microsoft tests Windows account menu error badge when Microsoft Account not used",
+    "url": "https://twitter.com/thebookisclosed/status/1638607997952987137",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35443361\">Comments</a>",
+    "publish_time": "2023-04-05 01:45:19",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
