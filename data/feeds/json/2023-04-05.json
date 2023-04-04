@@ -1607,5 +1607,83 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "落实重大发展战略开创事业新局",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%90%BD%E5%AE%9E%E9%87%8D%E5%A4%A7%E5%8F%91%E5%B1%95%E6%88%98%E7%95%A5%E5%BC%80%E5%88%9B%E4%BA%8B%E4%B8%9A%E6%96%B0%E5%B1%80%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Amber小跑和黄晓明握手",
+    "url": "https://s.weibo.com/weibo?q=%23Amber%E5%B0%8F%E8%B7%91%E5%92%8C%E9%BB%84%E6%99%93%E6%98%8E%E6%8F%A1%E6%89%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "最食人间烟火色",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9C%80%E9%A3%9F%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB%E8%89%B2%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "OMG团战",
+    "url": "https://s.weibo.com/weibo?q=%23OMG%E5%9B%A2%E6%88%98%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "你看过哪些有趣好看的历史题材绘画或其他类型艺术品？",
+    "url": "https://www.zhihu.com/question/592873369",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Mario Is Moving Away from Mobile Games, Reveals Nintendo’s Shigeru Miyamoto",
+    "url": "https://variety.com/2023/digital/news/shigeru-miyamoto-new-mario-games-mobile-apps-nintendo-1235562472/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35446175\">Comments</a>",
+    "publish_time": "2023-04-05 05:37:16",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Brave Launches Self-Serve Ads Program",
+    "url": "https://brave.com/self-serve-ads/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35445900\">Comments</a>",
+    "publish_time": "2023-04-05 05:10:17",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Build your own agents which are controlled by LLMs",
+    "url": "https://github.com/mpaepper/llm_agents",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35446171\">Comments</a>",
+    "publish_time": "2023-04-05 05:37:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
