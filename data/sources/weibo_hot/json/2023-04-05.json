@@ -511,5 +511,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "我没忘记你就还在",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E6%B2%A1%E5%BF%98%E8%AE%B0%E4%BD%A0%E5%B0%B1%E8%BF%98%E5%9C%A8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "世界的尽头",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E7%9A%84%E5%B0%BD%E5%A4%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
