@@ -1497,5 +1497,107 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "吴昕大侦探皮衣造型",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%98%95%E5%A4%A7%E4%BE%A6%E6%8E%A2%E7%9A%AE%E8%A1%A3%E9%80%A0%E5%9E%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "《年轻人加班报告》显示「经常加班者达 76.1 %，仅1 成人敢下班后不回消息」，如何看待此数据?",
+    "url": "https://www.zhihu.com/question/593818231",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何收纳才能做到「一次整理，永不复乱」？",
+    "url": "https://www.zhihu.com/question/593486070",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "焚烧秸秆到底是千百年来就有，还是近几年才出现的？",
+    "url": "https://www.zhihu.com/question/26086960",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美股三大指数收盘涨跌不一，大型科技股普遍下跌",
+    "url": "https://www.36kr.com/newsflashes/2203051721501826",
+    "summary": "36氪获悉，4月5日收盘，美股三大指数涨跌不一，纳指跌1.07%，标普500指数跌0.25%，道指涨0.24%。大型科技股普遍下跌，特斯拉跌超3%，亚马逊跌超2%，苹果、Meta跌超1%。人工智能概念股延续昨日跌势，BigBear.ai控股跌超18%，C3.ai跌超15%。热门中概股多数下跌，新东方、爱奇艺跌超5%，微博、知乎跌超4%，腾讯音乐跌超3%，阿里巴巴、百度、蔚来、理想汽车跌超2%。",
+    "publish_time": "2023-04-06 07:00:06",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Indie Hackers is indie again",
+    "url": "https://www.indiehackers.com/product/indie-hackers/indie-hackers-is-indie-again--NSIAlb7LggSjzTavQZb",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35460375\">Comments</a>",
+    "publish_time": "2023-04-06 05:05:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "TPU v4 provides exaFLOPS-scale ML with efficiency gains",
+    "url": "https://cloud.google.com/blog/topics/systems/tpu-v4-enables-performance-energy-and-co2e-efficiency-gains",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35460219\">Comments</a>",
+    "publish_time": "2023-04-06 04:52:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Dang is going to have 65,535 karma points soon",
+    "url": "https://news.ycombinator.com/user?id=dang",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35460732\">Comments</a>",
+    "publish_time": "2023-04-06 05:38:55",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Bitcoin whitepaper is hidden in every copy of macOS",
+    "url": "https://waxy.org/2023/04/the-bitcoin-whitepaper-is-hidden-in-every-modern-copy-of-macos/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35461011\">Comments</a>",
+    "publish_time": "2023-04-06 06:03:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "I’m an doctor: Here’s what I found when I asked ChatGPT to diagnose my patients",
+    "url": "https://inflecthealth.medium.com/im-an-er-doctor-here-s-what-i-found-when-i-asked-chatgpt-to-diagnose-my-patients-7829c375a9da",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35461062\">Comments</a>",
+    "publish_time": "2023-04-06 06:07:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
