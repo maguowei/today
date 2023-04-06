@@ -1,0 +1,13 @@
+[
+  {
+    "title": "甲骨文推出新的Java SE通用订阅",
+    "url": "https://www.infoq.cn/article/R4gOIJ1ILgX1KF8vU4Y2",
+    "summary": "<p>甲骨文（Oracle）推出了新的Java SE<a href=\"https://www.oracle.com/us/corporate/pricing/price-lists/java-se-subscription-pricelist-5028356.pdf\">通用订阅和定价</a>\"，从2023年1月开始取代现在遗留的Java SE和Java SE桌面订阅。根据甲骨文发布的<a href=\"https://www.oracle.com/java/technologies/java-se-subscription-faq.html\">常见问题解答</a>\"，这一新变化将简化许可证环境的跟踪和管理，桌面、服务器和第三方云上通用。</p><p>&nbsp;</p><p>在过去的几年中，甲骨文已经多次更改其许可证和策略。2019年，甲骨文宣布Java SE将不再免费。2020年，甲骨文为JDK 17及后续版本推出了NFTC（免费条款和条件），允许在某些用例中免费使用。</p><p>&nbsp;</p><p>运行Oracle JDK 8和11的应用程序不需要更新，可以使用这些版本继续不间断地运行，无论是免费的个人使用还是付费更新。对于想要更新这些旧版本的用户来说，唯一的途径是在续订时选择最新的Java SE通用（Java SE Universa）订阅。</p><p>&nbsp;</p><p>使用最新LTS版本Java 17的开发人员可以继续使用Java 17的更新路径，直到下一个LTS版本Java 21，该版本计划于2023年9月发布。甲骨文于2021年9月15日发布了<a href=\"https://www.oracle.com/news/announcement/oracle-releases-java-17-2021-09-14/\">Java 17</a>\"。从那时起，已经进行了八次小版本更新。</p><p>&nbsp;</p><p>对于Java SE通用订阅，甲骨文还允许免费使用多达50000个处理器（甲骨文定义的处理器）。这主要适用于服务器部署。这只适用于新客户许可模式。甲骨文在定价文件中指出，任何超过该限额的客户都应联系甲骨文以获得特价。然而，这笔赠款是迈向简化的一步。</p><p>&nbsp;</p><p>这些新的变化解决了运行多个Java版本的任何组织在许可方面的复杂性。正如<a href=\"https://blogs.idc.com/2023/01/30/oracle-java-subscription-changes-what-is-the-impact-to-customers/\">IDC</a>\"和<a href=\"https://houseofbrick.com/\">House of Brick</a>\"首席执行官<a href=\"https://www.linkedin.com/in/nathanbiggs/\">Nathan Biggs</a>\"在<a href=\"https://houseofbrick.com/blog/oracle-java-pricing/\">这篇博客文章中</a>\"所解释的那样，在某些情况下，简化的成本可能高于以前的许可证模式。</p><p>&nbsp;</p><p>&nbsp;</p><p>虽然甲骨文的许可证更改可能是朝着简化OracleJDK许可证的方向迈出了一步，但商业替代方案确实存在。自Java 8以来，OpenJDK一直都是Java的上游社区。它包括许多供应商，他们与甲骨文一起致力于使Java成为一种支持数十亿设备并为全球数百万开发人员提供服务的企业语言。如今，OracleJDK和OpenJDK之间几乎没有技术上的差异。</p><p>&nbsp;</p><p>甲骨文许可政策的具体内容可能很复杂，而且可能会发生变化。客户应咨询甲骨文，以确定适合其特定需求的最佳许可选项。</p><p>&nbsp;</p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2023/03/new-java-licensing-by-oracle/\">https://www.infoq.com/news/2023/03/new-java-licensing-by-oracle/</a>\"</p><p></p><p>相关阅读：</p><p><a href=\"https://www.infoq.cn/article/NxuqQb5Xt6VaPu1mEWIG\">Oracle 将 GraalVM 贡献给 OpenJDK，以解决“采用障碍”</a>\"</p><p><a href=\"https://www.infoq.cn/article/2a4wyAUCqEjD2ilr0s41\">Oracle正式发布MySQL Heatwave on AWS</a>\"</p><p></p>",
+    "publish_time": "2023-04-06 09:53:36",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
