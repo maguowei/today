@@ -1547,5 +1547,91 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "翟欣欣",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BF%9F%E6%AC%A3%E6%AC%A3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Show HN: Machato — A native macOS client for ChatGPT",
+    "url": "https://untimelyunicorn.gumroad.com/l/machato",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35471091\">Comments</a>",
+    "publish_time": "2023-04-07 00:52:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Please don&#x27;t use GPT for Security Guidance",
+    "url": "https://decodebytes.substack.com/p/please-dont-use-gpt-for-security",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35474424\">Comments</a>",
+    "publish_time": "2023-04-07 05:04:28",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Illustrations of ‘Unseen’ Japanese Maintenance Trains That Only Work at Night",
+    "url": "https://www.spoon-tamago.com/toei-project-unseen-maintenance-trains/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35474895\">Comments</a>",
+    "publish_time": "2023-04-07 05:39:33",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Are your memory-bound benchmarking timings normally distributed?",
+    "url": "https://lemire.me/blog/2023/04/06/are-your-memory-bound-benchmarking-timings-normally-distributed/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35474172\">Comments</a>",
+    "publish_time": "2023-04-07 04:47:28",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Flexport (YC W14) Is Hiring",
+    "url": "https://flexport.com/careers",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35474365\">Comments</a>",
+    "publish_time": "2023-04-07 05:00:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Buck2: Our open source build system",
+    "url": "https://engineering.fb.com/2023/04/06/open-source/buck2-open-source-large-scale-build-system/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35470371\">Comments</a>",
+    "publish_time": "2023-04-07 00:05:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Wikipedia’s “Supreme Court” to review Polish-Jewish history during WWII",
+    "url": "https://slate.com/technology/2023/04/how-wikipedia-covers-the-history-of-the-holocaust-in-poland.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35473596\">Comments</a>",
+    "publish_time": "2023-04-07 04:02:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
