@@ -1219,5 +1219,67 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "新家入住请扣111",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%AE%B6%E5%85%A5%E4%BD%8F%E8%AF%B7%E6%89%A3111%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "我才是自己的幸运星",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E6%89%8D%E6%98%AF%E8%87%AA%E5%B7%B1%E7%9A%84%E5%B9%B8%E8%BF%90%E6%98%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Ask HN: Is it appropriate to ask a startup to let me see their cap table?",
+    "url": "https://news.ycombinator.com/item?id=35485552",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35485552\">Comments</a>",
+    "publish_time": "2023-04-08 02:57:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "LOLDrivers – Living Off the Land Drivers",
+    "url": "https://www.loldrivers.io/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35486277\">Comments</a>",
+    "publish_time": "2023-04-08 03:57:14",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: ChatGDB – GPT-Powered GDB Assistant",
+    "url": "https://github.com/pgosar/ChatGDB",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35483933\">Comments</a>",
+    "publish_time": "2023-04-08 00:56:35",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ask Wirecutter: Can you recommend a not-smart TV for me?",
+    "url": "https://www.nytimes.com/wirecutter/blog/ask-wirecutter-dumb-tvs/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35484594\">Comments</a>",
+    "publish_time": "2023-04-08 01:50:18",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
