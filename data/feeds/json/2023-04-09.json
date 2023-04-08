@@ -1322,5 +1322,45 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "陈鑫海卢洋洋互相介绍对方",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E9%91%AB%E6%B5%B7%E5%8D%A2%E6%B4%8B%E6%B4%8B%E4%BA%92%E7%9B%B8%E4%BB%8B%E7%BB%8D%E5%AF%B9%E6%96%B9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "周末可以做的N件事",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9C%AB%E5%8F%AF%E4%BB%A5%E5%81%9A%E7%9A%84N%E4%BB%B6%E4%BA%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Dooble Web Browser",
+    "url": "https://textbrowser.github.io/dooble/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35497728\">Comments</a>",
+    "publish_time": "2023-04-09 05:17:25",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "New Orleans Teenagers Found a New Proof of the Pythagorean Theorem",
+    "url": "https://keith-mcnulty.medium.com/heres-how-two-new-orleans-teenagers-found-a-new-proof-of-the-pythagorean-theorem-b4f6e7e9ea2d",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35497696\">Comments</a>",
+    "publish_time": "2023-04-09 05:13:39",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
