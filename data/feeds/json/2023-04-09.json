@@ -1073,5 +1073,90 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "春天里我们都是奋斗者",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%98%A5%E5%A4%A9%E9%87%8C%E6%88%91%E4%BB%AC%E9%83%BD%E6%98%AF%E5%A5%8B%E6%96%97%E8%80%85%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "养宠新手更需要美团外卖",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%BB%E5%AE%A0%E6%96%B0%E6%89%8B%E6%9B%B4%E9%9C%80%E8%A6%81%E7%BE%8E%E5%9B%A2%E5%A4%96%E5%8D%96%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "李佳航李晟看毛不易演唱会",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E8%88%AA%E6%9D%8E%E6%99%9F%E7%9C%8B%E6%AF%9B%E4%B8%8D%E6%98%93%E6%BC%94%E5%94%B1%E4%BC%9A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "胡歌问虚拟人没电了怎么办",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E9%97%AE%E8%99%9A%E6%8B%9F%E4%BA%BA%E6%B2%A1%E7%94%B5%E4%BA%86%E6%80%8E%E4%B9%88%E5%8A%9E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "当代女生对丑甲的执念",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BB%A3%E5%A5%B3%E7%94%9F%E5%AF%B9%E4%B8%91%E7%94%B2%E7%9A%84%E6%89%A7%E5%BF%B5%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "c++中函数参数里，是否能用 const reference 的地方尽量都用？",
+    "url": "https://www.zhihu.com/question/594059514",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "你的编程能力从什么时候开始突飞猛进？",
+    "url": "https://www.zhihu.com/question/356351510",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Electricity Prices by Country",
+    "url": "https://www.electricrate.com/data-center/electricity-prices-by-country/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35495579\">Comments</a>",
+    "publish_time": "2023-04-09 01:29:29",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Making an Alphorn from Scratch (2020)",
+    "url": "https://www.argobuilder.com/making-an-alphorn.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35495865\">Comments</a>",
+    "publish_time": "2023-04-09 01:54:50",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
