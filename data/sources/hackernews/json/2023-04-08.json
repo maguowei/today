@@ -713,5 +713,38 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Trashcan – web based service for indexing scientific papers, or other documents",
+    "url": "https://gitlab.com/mildlyparallel/trashcan",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35492067\">Comments</a>",
+    "publish_time": "2023-04-08 18:29:14",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Garbage Collection Handbook, 2nd Edition",
+    "url": "https://www.routledge.com/The-Garbage-Collection-Handbook-The-Art-of-Automatic-Memory-Management/Jones-Hosking-Moss/p/book/9781032218038",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35492307\">Comments</a>",
+    "publish_time": "2023-04-08 19:28:20",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Custom Allocators in Rust",
+    "url": "https://nical.github.io/posts/rust-custom-allocators.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35491936\">Comments</a>",
+    "publish_time": "2023-04-08 17:53:35",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
