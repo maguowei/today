@@ -1271,5 +1271,56 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "EXO将5月回归",
+    "url": "https://s.weibo.com/weibo?q=%23EXO%E5%B0%865%E6%9C%88%E5%9B%9E%E5%BD%92%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "你是哪种旅行咖",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%98%AF%E5%93%AA%E7%A7%8D%E6%97%85%E8%A1%8C%E5%92%96%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Substack’s CEO says Musk’s claims are false",
+    "url": "https://twitter.com/kenklippenstein/status/1644713355242881024",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35497433\">Comments</a>",
+    "publish_time": "2023-04-09 04:45:56",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A 1.5GB String",
+    "url": "https://blog.backslasher.net/1.5GB-string.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35496712\">Comments</a>",
+    "publish_time": "2023-04-09 03:26:55",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "GNU+Linux laptops with Libreboot preinstalled, based on coreboot",
+    "url": "https://minifree.org/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35496651\">Comments</a>",
+    "publish_time": "2023-04-09 03:18:40",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
