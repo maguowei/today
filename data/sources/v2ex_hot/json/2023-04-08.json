@@ -86,5 +86,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "调查下各地运营商光纤宽带分配的 IPv6 PD 前缀的长度",
+    "url": "https://www.v2ex.com/t/930849",
+    "summary": "rio: 请按 [运营商 /地区 /前缀长度] 格式回复，示例：深圳 /联通 /64<br /><br />PS: PD 前缀长度查看需要看路由器的 WAN 口",
+    "publish_time": "2023-04-08 17:14:32",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
