@@ -1158,5 +1158,76 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "春耕农忙正当时",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%80%95%E5%86%9C%E5%BF%99%E6%AD%A3%E5%BD%93%E6%97%B6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "华晨宇杭州演唱会",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%9D%AD%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "想买一辆电动汽车，有必要将智能作为购车决策要素吗，哪辆智能电动车值得购买？",
+    "url": "https://www.zhihu.com/question/593134345",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Ask HN: Tell me about how you bombed a technical interview",
+    "url": "https://news.ycombinator.com/item?id=35496107",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35496107\">Comments</a>",
+    "publish_time": "2023-04-09 02:21:19",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Writing a Simple Garbage Collector in C (2020)",
+    "url": "http://maplant.com/gc.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35495886\">Comments</a>",
+    "publish_time": "2023-04-09 01:56:54",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A Rubyist&#x27;s Walk Along the C-Side (Part 10): Benchmarking",
+    "url": "https://blog.peterzhu.ca/ruby-c-ext-part-10/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35495670\">Comments</a>",
+    "publish_time": "2023-04-09 01:37:16",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Why and How We Retired Elm at Culture Amp",
+    "url": "https://kevinyank.com/posts/on-endings-why-how-we-retired-elm-at-culture-amp/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35495910\">Comments</a>",
+    "publish_time": "2023-04-09 01:59:27",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
