@@ -262,5 +262,27 @@
       "desc": "36kr快讯",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
     }
+  },
+  {
+    "title": "清华大学长聘副教授黄民烈：ChatGPT无法实现非0即1的精确计算",
+    "url": "https://www.36kr.com/newsflashes/2206421757424261",
+    "summary": "由中国人工智能学会主办的“人工智能大模型技术高峰论坛”主论坛在杭州萧山启幕。论坛上，清华大学长聘副教授、聆心智能创始人、国家杰青获得者黄民烈发表了演讲。黄民烈表示，ChatGPT存在不足和缺陷，比如，无法实现数学计算和符号推理，具体表现为无法实现非0即1的精确计算。因为ChatGPT本质上是一个语言模型，其体现的能力来源于对训练数据的拟合；其运行机制中并没有显式的逻辑推理与判断。此外，ChatGPT还存在准确性、安全性等方面的问题。（证券时报）",
+    "publish_time": "2023-04-08 16:08:16",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "京东集团何晓冬：京东将在今年发布新一代产业大模型",
+    "url": "https://www.36kr.com/newsflashes/2206448962237062",
+    "summary": "4月8日召开的人工智能大模型技术高峰论坛上，京东集团副总裁何晓冬表示，针对真实的产业需求，京东将在今年发布新一代产业大模型，言犀是“京东版”ChatGPT，言犀大模型预训练参数达到千亿级，品类覆盖3000+，人工审核通过率95%+、生成文字30亿+。（证券时报）",
+    "publish_time": "2023-04-08 16:35:57",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
   }
 ]
