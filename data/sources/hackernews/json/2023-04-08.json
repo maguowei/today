@@ -680,5 +680,38 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Knit: Making a Better Make",
+    "url": "https://zyedidia.github.io/blog/posts/3-knit-better-make/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35491590\">Comments</a>",
+    "publish_time": "2023-04-08 16:24:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How to avoid correctness space leaks on a lazy setting in Haskell",
+    "url": "https://epicandmonicisnotiso.blogspot.com/2023/04/how-to-avoid-correctness-space-leaks-on.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35492036\">Comments</a>",
+    "publish_time": "2023-04-08 18:20:14",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Spotify streaming GDPR dump local analyzer",
+    "url": "https://github.com/pldubouilh/spotify-gdpr-dump-analysis",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35492137\">Comments</a>",
+    "publish_time": "2023-04-08 18:46:42",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
