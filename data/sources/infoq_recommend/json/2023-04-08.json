@@ -1,0 +1,13 @@
+[
+  {
+    "title": "架构师（2023年4月）",
+    "url": "https://www.infoq.cn/article/sihSN688wdNINfNNTWKu",
+    "summary": "<h2>卷首语：全球都为ChatGPT疯狂，它到底是风口还是虚火？</h2>\n<p>作者 | 刘燕</p>\n<p>自去年11月底正式发布以来，OpenAI  最新的 AI 聊天机器人 ChatGPT 火出天际，成为现象级应用，在全网话题度狂飙。</p>\n<p>瑞银发布的研究报告称， ChatGPT 推出后，今年 1 月的月活跃用户估计已达 1 亿，成为历史上用户增长最快的消费应用。</p>\n<p>达摩院基础视觉负责人赵德丽在接受 InfoQ 采访时表示，传统搜索引擎只会寻找已经存在的信息，而 ChatGPT 的应用实现了从信息的搜索到信息的创造的范式转变。清华大学计算机科学与技术系长聘副教授黄民烈认为，“ ChatGPT 宣示着无缝人机交互时代的来临。</p>\n<p>过去conversation as a service （caas）还停留在纸面，但今天无论是开放域聊天，还是通用任务助理（ ChatGPT ）都表明这一概念已经走向现实”。短期来看， ChatGPT 有望成为传统信息检索的强有力辅助工具；长期来看，它可能发展成为 AI 系统级的综合服务平台。</p>\n<p>自 ChatGPT 走红后，全球互联网大厂、创业公司纷纷加码布局，一场关于 ChatGPT 的军备竞赛已然拉开。谷歌加急推出了 ChatGPT 的竞争对手——人工智能聊天机器人 Bard Bard；微软已经宣布推出了由 OpenAI  提供技术支持的最新版必应搜索引擎。在国内，百度近日已经推出对标 ChatGPT 的产品——文心一言。</p>\n<p>让全网沸腾的 ChatGPT 到底有什么魔力？ ChatGPT 具有哪些颠覆性的创新？在业内一些专家看来，ChatGPT 最亮眼的地方在于它的世界模型和生成能力。</p>\n<p>在世界模型方面，我们可以借助 ChatGPT 的常识推理器来实现更加智能的知识推导和应用，这可以帮助我们更好地发掘 ChatGPT 在专业领域的应用潜力。在生成能力方面，ChatGPT 可以通过巧妙的方式解决个性化模板的困难，从而实现更加智能、个性化的应答能力，这可以帮助我们更好地应对不同场景和需求的挑战。</p>\n<p>无论怎样，对话式AI已经取得了超乎人们想象的进展。相信在未来，通过更多的数据驱动，ChatGPT 这类技术将得到进一步升级，实现更高水平的人工智能。</p>\n<h2>目录</h2>\n<p><strong>热点 | Hot</strong><br />\nChatGPT 联网终极进化！插件系统正式开放、无需编码就能上手，网友：这是我见过最疯狂的系统<br />\n2023 第一家倒下的自动驾驶公司：七年没开展实际业务，百亿估值靠吹出来，上市 16 个月破产了<br />\n集成 GPT-4 的编程神器来了，GitHub 发布 Copilot X：编程 30 年，突然就不需要手敲代码了？！<br />\n唯一维护 API 的普通工程师轻松搞垮 Twitter，马斯克：我们重写代码吧</p>\n<p><strong>访谈文章 | Interview</strong></p>\n<p>微服务先行者 James Lewis：别纠结单体还是微服务，面向服务才是正解</p>\n<p>开源泰斗陆首群教授：开源创新已成为数字化转型、智能化重构的基础</p>\n<p><strong>案例研究 | Case Study</strong><br />\nApache Doris 在美联物业的数据仓库应用实践</p>\n<p>存储量扩大千倍，Discord 是如何使用 Rust 语言和 ScyllaDB 数据库来改进架构的？</p>\n<p>全国首个政企采购云平台：政采云的混合云跨网方案实践</p>\n<p>网易伏羲私有云基于 eBPF 的云原生网络可观测性探索与实践</p>\n<p>从公有云方案转向谷歌开源 Knative，网易云音乐的 Severless 演进实践</p>\n<p><strong>推荐文章 | Article</strong></p>\n<p>轨迹规划算法提升复杂路口通过安全性与合理性，接近人类驾驶水平 | 自动驾驶论文解读</p>\n<p>落地 4 年，工商银行如何进行 Serverless 架构迭代</p>\n<p>消除数据孤岛、筑起 Snowflake“护城河”，数据云是中台的下一站吗？</p>\n<p>平台工程的 2023：助力云原生重构研发组织文化与组织架构</p>\n<p>API 网关和负载均衡器，到底怎么选？</p>\n<p><strong>特别专题｜Topic</strong></p>\n<p>GPT-4 重磅发布，吊打 ChatGPT！编程能力牛到让我睡不着：10 秒做出一个网站，1 分钟开发一个游戏</p>\n<p>微软抛出王炸，GPT-4 接入 Office 全家桶！PPT 一键生成，又一批打工人要下岗了？</p>\n<p>Meta 版 ChatGPT 惨遭“开源”？最新大模型 LLaMA 被泄露，已在 GitHub 收获 7k+ 星</p>\n<p>程序员教 AI 写代码，反被 AI 取代？谷歌工程主管：AIGC 将在 3 年内终结编程</p>\n<p>ChatGPT 开源平替来了，开箱即用！200 亿参数，采用 4300 万条指令集微调模型</p>\n<p>ChatGPT 联网终极进化！插件系统正式开放、无需编码就能上手，网友：这是我见过最疯狂的系统</p>\n<p><strong>视频推荐 | Video</strong><br />\n本月，这些视频值得一看！</p>",
+    "publish_time": "2023-04-08 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
