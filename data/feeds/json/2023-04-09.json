@@ -1229,5 +1229,47 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "爱不爱钓鱼的看完都沉默了",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E4%B8%8D%E7%88%B1%E9%92%93%E9%B1%BC%E7%9A%84%E7%9C%8B%E5%AE%8C%E9%83%BD%E6%B2%89%E9%BB%98%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Dad says glitch in ‘Find My iPhone’ app directs angry strangers to his home",
+    "url": "https://nypost.com/2023/04/06/find-my-iphone-app-glitch-sends-strangers-to-mans-home/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35496365\">Comments</a>",
+    "publish_time": "2023-04-09 02:49:36",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: A ChatGPT TUI with custom bots",
+    "url": "https://www.askmarvin.ai/guide/concepts/tui/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35496558\">Comments</a>",
+    "publish_time": "2023-04-09 03:10:11",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "FCC Warns Portland Church to Shut Down Pirate FM Operating Under Its Steeple",
+    "url": "https://www.insideradio.com/free/fcc-warns-portland-church-to-shut-down-pirate-fm-operating-under-its-steeple/article_f89e2ebc-cf96-11ed-9c83-4b0d056dd422.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35496871\">Comments</a>",
+    "publish_time": "2023-04-09 03:43:21",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
