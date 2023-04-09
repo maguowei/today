@@ -1285,5 +1285,105 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "飞猪AI广告引发热议",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%A3%9E%E7%8C%AAAI%E5%B9%BF%E5%91%8A%E5%BC%95%E5%8F%91%E7%83%AD%E8%AE%AE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "春日AI花神妆",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%97%A5AI%E8%8A%B1%E7%A5%9E%E5%A6%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "看得出来她是真的喜欢讲话",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%9C%8B%E5%BE%97%E5%87%BA%E6%9D%A5%E5%A5%B9%E6%98%AF%E7%9C%9F%E7%9A%84%E5%96%9C%E6%AC%A2%E8%AE%B2%E8%AF%9D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "原神",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "22-23 赛季英超利物浦 2:2 阿森纳，如何评价这场比赛？",
+    "url": "https://www.zhihu.com/question/594623569",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "The Interoperable Europe Act Needs a “Free Software First” Approach",
+    "url": "https://fsfe.org/news/2023/news-20230323-02.en.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35504786\">Comments</a>",
+    "publish_time": "2023-04-10 01:37:56",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "UnicodePlots",
+    "url": "https://github.com/JuliaPlots/UnicodePlots.jl",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35505591\">Comments</a>",
+    "publish_time": "2023-04-10 03:22:07",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Spherical tokamak achieves crucial plasma temperatures",
+    "url": "https://www.eetimes.com/spherical-tokamak-achieves-crucial-plasma-temperatures/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35505342\">Comments</a>",
+    "publish_time": "2023-04-10 02:49:48",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Closing a stale SSH connection",
+    "url": "https://davidisaksson.dev/posts/closing-stale-ssh-connections/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35504402\">Comments</a>",
+    "publish_time": "2023-04-10 00:54:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Sailcargo",
+    "url": "https://www.sailcargo.inc",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35505647\">Comments</a>",
+    "publish_time": "2023-04-10 03:28:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
