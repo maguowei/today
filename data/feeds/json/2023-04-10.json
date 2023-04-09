@@ -1129,5 +1129,96 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "刘雨昕169肌密官宣",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%A8%E6%98%95169%E8%82%8C%E5%AF%86%E5%AE%98%E5%AE%A3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "极限挑战",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9E%81%E9%99%90%E6%8C%91%E6%88%98%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "顾客称吃85度C三明治发现番茄长毛",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E7%A7%B0%E5%90%8385%E5%BA%A6C%E4%B8%89%E6%98%8E%E6%B2%BB%E5%8F%91%E7%8E%B0%E7%95%AA%E8%8C%84%E9%95%BF%E6%AF%9B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "《诡秘之主》的宇宙中是否存在类似于七神一样的友善的外神？",
+    "url": "https://www.zhihu.com/question/594115711",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "C Rival &#x27;Zig&#x27; Cracks Tiobe Index Top",
+    "url": "https://developers.slashdot.org/story/23/04/09/008243/c-rival-zig-cracks-tiobe-index-top-50-go-remains-in-top-10",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35504558\">Comments</a>",
+    "publish_time": "2023-04-10 01:12:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Inline in Rust",
+    "url": "https://matklad.github.io/2021/07/09/inline-in-rust.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35504351\">Comments</a>",
+    "publish_time": "2023-04-10 00:48:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Swin Transformer: Hierarchical Vision Transformer Using Shifted Windows",
+    "url": "https://arxiv.org/abs/2103.14030",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35504052\">Comments</a>",
+    "publish_time": "2023-04-10 00:12:18",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Closing a Stale SSH Connection",
+    "url": "https://davidisaksson.dev/posts/closing-stale-ssh-connections/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35504402\">Comments</a>",
+    "publish_time": "2023-04-10 00:54:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The LLama Effect: Leak Sparked a Series of Open Source Alternatives to ChatGPT",
+    "url": "https://thesequence.substack.com/p/the-llama-effect-how-an-accidental",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35504428\">Comments</a>",
+    "publish_time": "2023-04-10 00:57:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
