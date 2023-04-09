@@ -601,5 +601,14 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "开局加把劲",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B1%80%E5%8A%A0%E6%8A%8A%E5%8A%B2%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
