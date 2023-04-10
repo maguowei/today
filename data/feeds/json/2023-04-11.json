@@ -1323,5 +1323,54 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "多个商家注册竹筒奶茶店",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E4%B8%AA%E5%95%86%E5%AE%B6%E6%B3%A8%E5%86%8C%E7%AB%B9%E7%AD%92%E5%A5%B6%E8%8C%B6%E5%BA%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "网剧藏药令杀青",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%89%A7%E8%97%8F%E8%8D%AF%E4%BB%A4%E6%9D%80%E9%9D%92%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "长空之王雷宇和父母对话好心酸",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%A9%BA%E4%B9%8B%E7%8E%8B%E9%9B%B7%E5%AE%87%E5%92%8C%E7%88%B6%E6%AF%8D%E5%AF%B9%E8%AF%9D%E5%A5%BD%E5%BF%83%E9%85%B8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "JEP 445: Flexible Main Methods and Anonymous Main Classes (Preview)",
+    "url": "https://openjdk.org/jeps/445",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35514985\">Comments</a>",
+    "publish_time": "2023-04-11 01:41:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Keycloak with PostgreSQL on Kubernetes",
+    "url": "https://blog.brakmic.com/keycloak-with-postgresql-on-kubernetes/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35515873\">Comments</a>",
+    "publish_time": "2023-04-11 02:48:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
