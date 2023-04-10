@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Docker+Wasm第2个技术预览版发布，新增3个运行时引擎支持",
+    "url": "https://www.infoq.cn/article/1WdmawdEDTcLLLdwq7tg",
+    "summary": "<p>Docker<a href=\"https://www.docker.com/blog/announcing-dockerwasm-technical-preview-2/\">宣布</a>\"了Docker+Wasm的第2个技术预览版，旨在简化Wasm工作负载的运行，并扩展运行时支持，包括<a href=\"https://www.infoq.com/news/2022/11/Fermyon-cloud-webassembly/\">Fermyon的spin</a>\"，<a href=\"https://deislabs.io/tags/slight/\">Deislabs的slight</a>\"和<a href=\"https://www.infoq.com/news/2020/10/bytecode-alliance-one-year/\">Bytecode Alliance的wasmtime</a>\"运行时引擎。</p><p>&nbsp;</p><p>Docker+Wasm中新增支持的3个Wasm引擎使其支持的运行时总数达到了4个，其中包括在<a href=\"https://www.infoq.com/news/2022/11/docker-webassembly/\">Docker+Wasm第1个技术预览版</a>\"中已经支持的WasmEdge。它们都基于runwasi库。<a href=\"https://www.infoq.com/news/2023/02/containerd-wasi/\">该库最近加入了containerd 项目</a>\"。</p><p>&nbsp;</p><p>runwasi是一个Rust库，它支持运行通过containerd管理的wasm工作负载。因此，除了containerd最初支持的Linux容器之外，它还为新的容器类型创建了一个有效的抽象。顾名思义，runwasi是基于WASI的。WASI是WebAssembly的模块化系统接口，为Wasm运行时提供了一个公共平台。也就是说，如果一个程序被编译为目标WASI，那么它就可以在任何符合WASI标准的运行时上运行。</p><p>&nbsp;</p><p>通常，Wasm容器只包含一个编译好的Wasm字节码文件，而且不需要任何额外的二进制库，这使得容器小很多。这也意味着Wasm容器的启动速度通常比Linux容器更快，而且可移植性更好。例如，正如WasmEdge联合创始人<a href=\"https://twitter.com/juntao/status/1620547819546480640?s=20\">Michael Yuan在Twitter上所说的那样</a>\"，Linux上“最小”的Python容器镜像超过40MB，而<a href=\"https://twitter.com/juntao/status/1620547819546480640\">对应的Wasm容器镜像不到7MB</a>\"。</p><p>&nbsp;</p><p>作为containerd直接支持的Wasm容器，要在Docker Desktop的最新版本中尝试Docker+Wasm的第2个技术预览版，唯一需要做的事情是启用开发 &gt; Settings &gt; Features下的“Use containerd”选项。</p><p>&nbsp;</p><p>使用wasmtime运行Wasm容器，可以执行以下命令：</p><p><code lang=\"shell\">$ docker run --rm --runtime=io.containerd.wasmtime.v1 \n--platform=wasi/wasm secondstate/rust-example-hello:latest</code></p><p>&nbsp;</p><p>正因为如此，借助Docker Compose或其他编排平台（如Kubernetes），Wasm容器可以与Linux容器并行运行。此外，通过在OCI容器中嵌入Wasm运行时，Docker Desktop还可以将Wasm应用程序打包到OCI容器中，从而可以通过DockerHub等容器注册中心来共享Wasm应用程序。</p><p>&nbsp;</p><p>&nbsp;</p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2023/03/docker-wasm-containers-preview-2/\">https://www.infoq.com/news/2023/03/docker-wasm-containers-preview-2/</a>\"</p><p></p><p>相关阅读：</p><p><a href=\"https://www.infoq.cn/article/XNAGHzotjohTSqoWDE9S\">部署太慢，我们用 Warm Docker 容器将速度提高了 5 倍</a>\"</p><p><a href=\"https://www.infoq.cn/article/8lGiLHiAfbyateIF9Blr\">Docker正在淘汰开源组织，CTO硬刚开发者，网友：想赚钱可以，但沟通方式烂透了</a>\"</p>",
+    "publish_time": "2023-04-10 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
