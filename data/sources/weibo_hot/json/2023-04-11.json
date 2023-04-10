@@ -601,5 +601,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "聚焦第三届消博会",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%81%9A%E7%84%A6%E7%AC%AC%E4%B8%89%E5%B1%8A%E6%B6%88%E5%8D%9A%E4%BC%9A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "马力欧黄山寻梅大冒险",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%8A%9B%E6%AC%A7%E9%BB%84%E5%B1%B1%E5%AF%BB%E6%A2%85%E5%A4%A7%E5%86%92%E9%99%A9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
