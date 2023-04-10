@@ -64,5 +64,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "eSIM 体验总结",
+    "url": "https://www.v2ex.com/t/931149",
+    "summary": "F1ySyn: 由于工作需求一直都需要海外的手机号来注册一些服务，但是之前一直都是用 Pixel 当备用机来插海外实体卡的，前几天 Pixel 不知道怎么回事直接变砖了就干脆买了台 13 Mini 美版无锁当备用机。由于主力机是 14PM 的话，开启短信转发还是挺方便的。<br /><br />目前 13 Mini 的主卡是 T-Mobile 的 eSIM （本来想上实体卡，顺丰寄丢了转的 eSIM ）。然后搞了个 ClubSIM 以及 3 DIY 还有马来西亚的 Digi 、英国的 LycaMobile 、瑞士的 Lebara 。其实除了 Digi 都是可以支持 esim 线上开卡的，只是套餐问题，有部分还需要额外的实名认证才能激活。<br /><br />但由于本人有极度强迫症，不希望海外的卡还是显示境内的运营商，因此 Wi-Fi Calling 也是个超级需求。但是不少预付（ Prepaid 或者 Pay As You Go ）卡是不支持 Wi-Fi Calling 的，即使支持也不一定支持 Wi-Fi Calling 漫游。目前支持漫游裸连也可以开启的运营商只知道 T-Mobile 和马来西亚的 Digi 是完全没有问题的。<br /><br />但这也不是没办法解决，像 ClubSIM 只需要把 VoWifi 的规则加进去路由器的猫咪就能解决问题，我现在就单独把对应地区的规则加进对应的猫咪地区，同时也要记得去 GPS 设置里关掉 Wi-Fi Calling 的定位权限。但是 3 DIY 是压根就不支持。<br /><br />而且如果能完善 Wi-Fi Calling 的话不仅可以做到运营商名字正常显示，还可以做到飞行模式接收短信，这样的话就完全不使用蜂窝网络，13 Mini 亲测待机能极度省电到 20 小时+。<br /><br />目前计划把英国的 LycaMobile 转成 EE 或者沃达丰，但是这两个似乎都不支持线上开卡，所以还想再墨迹一下。目前似乎 EE 是最完美的漫游卡了，因为跟 T-Mobile 一样可以通过 iCloud 走 Wi-Fi Calling ，出门了即使没带那台手机也可以用 Mac 直接打电话，做好规则处理就完全不产生漫游费。但最大缺陷是 EE 必须要求第一次英国当地激活，然后才能漫游。所以就只能蹲蹲沃达丰后续会不会支持线上开卡了。<br /><br />整体来说 Wi-Fi Calling 是真的挺方便的，目前中国电信也要在深圳开展 Wi-Fi Calling 测试了，期待后续国内运营商也能普及这个接近十几年的技术吧。<br /><br />然后 eSIM 的体验也是挺不错的，换卡啊什么的都非常方便，至于 TikTok 问题也很好解决，把 T-Mobile 设置为主卡然后关闭蜂窝数据，第二张卡哪怕是国内的也能直接用了。<br /><br />后面看看还有什么地区的卡可以玩一下的，也看看 V 友有没有什么可以补充的体验",
+    "publish_time": "2023-04-10 10:39:15",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "年度找骂话题#今年五一连休五天#又来了",
+    "url": "https://www.v2ex.com/t/931154",
+    "summary": "euph: <p>不出所料，官媒所谓的#今年五一连休五天#话题又来了。明明知道发出来会被骂，他还是要发。</p>",
+    "publish_time": "2023-04-10 10:47:56",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
