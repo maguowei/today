@@ -547,5 +547,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "米粉节特惠最高2000元",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%B1%B3%E7%B2%89%E8%8A%82%E7%89%B9%E6%83%A0%E6%9C%80%E9%AB%982000%E5%85%83%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "薄冰全员替身文学",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%96%84%E5%86%B0%E5%85%A8%E5%91%98%E6%9B%BF%E8%BA%AB%E6%96%87%E5%AD%A6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "城市巡游记",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%9F%8E%E5%B8%82%E5%B7%A1%E6%B8%B8%E8%AE%B0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
