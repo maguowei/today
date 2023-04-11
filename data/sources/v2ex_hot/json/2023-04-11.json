@@ -9,5 +9,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "编写业务时，枚举用中文真的不好吗",
+    "url": "https://www.v2ex.com/t/931494",
+    "summary": "Hbisedm: <p>如一些业务状态，我用枚举定义</p>\n<pre><code class=\"language-ts\">export enum selfDeliveryStepListEnum {\n  顾客下单,\n  顾客付款,\n  商家接单,\n  顾客取货,\n  评价,\n}\n</code></pre>\n<p>那么我判断时候，取<code>selfDeliveryStepListEnum.顾客下单</code> 这样的写法</p>\n<p>我觉得对于英语不好的人，维护性不是很好吗，老是纠结英语中文这些真的好吗。 </p>\n<p>我编程水平也不是很好，所以求大佬指导下！！</p>",
+    "publish_time": "2023-04-11 11:20:10",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "我用我的 10 万条微信聊天记录和 280 篇博客文章，做了我自己的数字克隆 AI",
+    "url": "https://www.v2ex.com/t/931521",
+    "summary": "graetdk: 详细的训练过程，用到的开源项目都在博文里：<br /><br /><a href=\"https://greatdk.com/1908.html\" rel=\"nofollow noopener\" target=\"_blank\">https://greatdk.com/1908.html</a><br /><br />在线体验： <a href=\"https://ai.greatdk.com/\" rel=\"nofollow noopener\" target=\"_blank\">https://ai.greatdk.com/</a> （只有一台服务器在跑，人多会卡<br /><br /><br />几张对话截图：<br /><br /><a href=\"https://www.v2ex.com/i/lae82880.jpeg\" rel=\"nofollow noopener\" target=\"_blank\" title=\"在新窗口打开图片 lae82880.jpeg\"><img class=\"embedded_image\" src=\"https://i.v2ex.co/lae82880.jpeg\" /></a><br /><br /><a href=\"https://www.v2ex.com/i/rkMNd540.jpeg\" rel=\"nofollow noopener\" target=\"_blank\" title=\"在新窗口打开图片 rkMNd540.jpeg\"><img class=\"embedded_image\" src=\"https://i.v2ex.co/rkMNd540.jpeg\" /></a><br /><br /><a href=\"https://www.v2ex.com/i/E50nhKkY.jpeg\" rel=\"nofollow noopener\" target=\"_blank\" title=\"在新窗口打开图片 E50nhKkY.jpeg\"><img class=\"embedded_image\" src=\"https://i.v2ex.co/E50nhKkY.jpeg\" /></a><br /><br /><a href=\"https://www.v2ex.com/i/61NVRsRT.png\" rel=\"nofollow noopener\" target=\"_blank\" title=\"在新窗口打开图片 61NVRsRT.png\"><img class=\"embedded_image\" src=\"https://i.v2ex.co/61NVRsRT.png\" /></a><br /><br /><a href=\"https://www.v2ex.com/i/0ugZls3f.png\" rel=\"nofollow noopener\" target=\"_blank\" title=\"在新窗口打开图片 0ugZls3f.png\"><img class=\"embedded_image\" src=\"https://i.v2ex.co/0ugZls3f.png\" /></a><br /><br /><br />总的来说是一个在很多地方和口头用语上有点像我（虽然对我的信息并不了解），有点傻，比较容易爆粗口，更有人味儿的 bot",
+    "publish_time": "2023-04-11 12:22:47",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
