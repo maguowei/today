@@ -31,5 +31,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "支持支付宝付款的代理来啦！ OpenAI 接口国内代理（ChatGPT），按量付费，用多少付多少",
+    "url": "https://www.v2ex.com/t/931431",
+    "summary": "MarkIV: <p>上个月的时候，我开源了一个可以将任意 openai 请求转为 azure 请求的代理 <a href=\"https://github.com/diemus/azure-openai-proxy\" rel=\"nofollow\">diemus/azure-openai-proxy</a> ，让很多使用 azure 的小伙伴们可以轻松对接各位大神开发的 web 前端项目，收货了不少 star ，但是也遇到很多朋友反馈 Azure 的服务很难申请，一个是需要美元信用卡，一个是需要公司的身份，最终还是没能申请下来。再加上 4 月份以来 openai 开始大规模封号，国内小伙伴们使用 chatgpt 的难度又上升了不少。所以我就在想，我能不能基于上次开源的代理项目，搞一个接口代理服务，直接让大家人民币付款就完了，于是就有了这么一个项目。</p>\n<h2>官网地址</h2>\n<p><a href=\"https://console.openai-asia.com/\" rel=\"nofollow\">https://console.openai-asia.com</a></p>\n<h2>针对人群</h2>\n<ol>\n<li>\n<p>技术人员。可以直接 api 调用，接口和原生 openai 接口完全一致，支持 gpt3.5 ，davinci-003 ，embedding 3 种模型，后续也可能会支持 gpt4 ，可以直接在 langchain 等 python 库里使用，也可以配置到自己喜欢的开源 chatgpt 前端项目中使用。</p>\n</li>\n<li>\n<p>小白用户。提供了基于开源项目搭建的一个默认 chatgpt ，小白用户可以登录后直接使用，无需各种复杂的 API 配置。</p>\n</li>\n</ol>\n<h2>收费</h2>\n<p>按使用 tokens 数量收费，和 openai 官网算法保持一致，用多少收多少，RMB 付款，最低 1 元起充，没有套路，注册后登录可见各模型具体价格。</p>\n<h2>功能亮点</h2>\n<ol>\n<li>灵活度高，模拟原生 Openai API ，可以在各种 python 库里使用</li>\n<li>无需复杂配置，打开即用的 ChatGPT</li>\n<li>默认的 ChatGPT 页面支持 PWA ，可以直接生成桌面应用及手机端应用，媲美原生 App 体验</li>\n<li>无月租</li>\n<li>最低 1 元起充，也可以当个备用账号临时使用</li>\n<li>独立虚拟 sk ，不用担心自己的 sk 在开源项目泄露，这个 sk 只在我们这里有效。</li>\n<li>无需自己花钱租服务器部署 azure-openai-proxy 代理</li>\n</ol>\n<p>其实核心的代理模块已经在 <a href=\"https://github.com/diemus/azure-openai-proxy\" rel=\"nofollow\">https://github.com/diemus/azure-openai-proxy</a> 开源过了，这次的项目只不过是加了一个多租户管理还有多账号负载均衡之类的功能，对于有 Azure 账号的朋友们，建议直接使用我开源的代理就 ok 了</p>\n<h2>默认聊天界面 <a href=\"https://github.com/Yidadaa/ChatGPT-Next-Web\" rel=\"nofollow\">ChatGPT-Next-Web</a></h2>\n<p><img alt=\"主界面\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://raw.githubusercontent.com/Yidadaa/ChatGPT-Next-Web/main/docs/images/cover.png\" /></p>\n<p>此页面可通过 PWA 转换为桌面和收集应用程序，类似小程序一样使用，不喜欢这个风格的朋友们也可以自己找开源项目搭建。</p>\n<h2>其他</h2>\n<p>项目刚刚上线，难免有一些 bug ，后续会逐步优化</p>\n<ul>\n<li>对于项目接口代理相关的 bug 的问题，以及功能建议等，大家可以在我之前开源的 <a href=\"https://github.com/diemus/azure-openai-proxy\" rel=\"nofollow\">diemus/azure-openai-proxy</a>上直接提 issue ，底层的代理核心逻辑都是一套。</li>\n<li>其他交流意见等，可以到 tg 上交流： <a href=\"https://t.me/+tB8Vt6wLLkkyNzA1\" rel=\"nofollow\">https://t.me/+tB8Vt6wLLkkyNzA1</a></li>\n</ul>",
+    "publish_time": "2023-04-11 09:07:08",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "京东眼镜节 4 月 10-15 号，有什么推荐的吗",
+    "url": "https://www.v2ex.com/t/931458",
+    "summary": "RobinHu: 有一副眼镜，几年前配的，最近想换。<br />经常看到 V 友推荐 JD 镜宴这家店，加购了几件。<br /><br />镜框 + 依视路 1.60 折射率 钻晶 A4 = 400~500<br /><br />已验光，有瞳距等数据。<br />请问有什么要注意的事项吗？<br /><br />tip:最大优惠值=擦镜纸+墨镜+选中的眼镜 （三件满减）",
+    "publish_time": "2023-04-11 10:10:12",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "关于 Mac 内存多少才够用",
+    "url": "https://www.v2ex.com/t/931465",
+    "summary": "wu67: <p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/s1HxePB.png\" /></p>\n<p>反正每次都有人说 8G 够用, 我就贴一下我的吧...</p>\n<p>chrome 12 个标签;\nvscode 4 个项目, 其中一个公司的, 3 个自己写的小项目, 文件不多;\ndocker 分了 2.5G\n其他应用都在 dock 栏了</p>",
+    "publish_time": "2023-04-11 10:19:43",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
