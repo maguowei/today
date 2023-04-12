@@ -1535,5 +1535,85 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "何广智说尘封十三载好看",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%B9%BF%E6%99%BA%E8%AF%B4%E5%B0%98%E5%B0%81%E5%8D%81%E4%B8%89%E8%BD%BD%E5%A5%BD%E7%9C%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "一个人逛街、旅游，很奇怪吗？",
+    "url": "https://www.zhihu.com/question/594335047",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "购买新车时，你会考虑购车的哪些因素，其中哪一项最重要？",
+    "url": "https://www.zhihu.com/question/593122351",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价史蒂文元、黄阿丽主演的 Netflix 剧集《怒呛人生》？",
+    "url": "https://www.zhihu.com/question/590731536",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Fullscreen apps above the MacBook notch",
+    "url": "https://notes.alinpanaitiu.com/Fullscreen%20apps%20above%20the%20MacBook%20notch",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35546068\">Comments</a>",
+    "publish_time": "2023-04-13 04:12:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Firefox rolls out Total Cookie Protection by default to more users",
+    "url": "https://blog.mozilla.org/en/mozilla/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35545809\">Comments</a>",
+    "publish_time": "2023-04-13 03:54:22",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "OneSignal (YC S11) Is Hiring Engineers",
+    "url": "https://onesignal.com/careers",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35546845\">Comments</a>",
+    "publish_time": "2023-04-13 05:01:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Use io_uring for network I&#x2f;O",
+    "url": "https://developers.redhat.com/articles/2023/04/12/why-you-should-use-iouring-network-io",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35547316\">Comments</a>",
+    "publish_time": "2023-04-13 05:35:48",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
