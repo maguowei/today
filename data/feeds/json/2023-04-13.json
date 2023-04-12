@@ -1143,5 +1143,50 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "三丽鸥明星人气评选",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%B8%BD%E9%B8%A5%E6%98%8E%E6%98%9F%E4%BA%BA%E6%B0%94%E8%AF%84%E9%80%89%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "泼水节 拔拖鞋",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B3%BC%E6%B0%B4%E8%8A%82+%E6%8B%94%E6%8B%96%E9%9E%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "安徽爷孙离奇失联10天",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BE%BD%E7%88%B7%E5%AD%99%E7%A6%BB%E5%A5%87%E5%A4%B1%E8%81%9410%E5%A4%A9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "90 所大学撤销公共事业管理专业，76 所大学撤销服装设计专业，为何是这些专业？哪些专业还将被淘汰？",
+    "url": "https://www.zhihu.com/question/595242187",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价《原神》3.6版本纳西妲传说任务「归乡」？",
+    "url": "https://www.zhihu.com/question/595109939",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
   }
 ]
