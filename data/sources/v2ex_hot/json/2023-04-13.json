@@ -75,5 +75,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "写在 Kubernetes1.24 正式弃用 Docker 一年后",
+    "url": "https://www.v2ex.com/t/932173",
+    "summary": "galtjay: <p>2022 年 4 月 7 日 Kubernetes1.24 版本正式删除和弃用 dockershim ，刚好一年过去了，到底有多少人真的明白，这背后真正蕴含的含义？我们聊一聊吧。</p>\n<p><a href=\"https://watermelonwater.tech/%e5%86%99%e5%9c%a8kubernetes1-24%e6%ad%a3%e5%bc%8f%e5%bc%83%e7%94%a8docker%e4%b8%80%e5%b9%b4%e5%90%8e/\" rel=\"nofollow\">https://watermelonwater.tech/%e5%86%99%e5%9c%a8kubernetes1-24%e6%ad%a3%e5%bc%8f%e5%bc%83%e7%94%a8docker%e4%b8%80%e5%b9%b4%e5%90%8e/</a></p>",
+    "publish_time": "2023-04-13 10:49:06",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
