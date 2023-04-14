@@ -31,5 +31,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "闲来无事， 20 分钟水了一个贷款计算器（Chatgpt 协助下），发现了房贷的 3 个秘密",
+    "url": "https://www.v2ex.com/t/932456",
+    "summary": "lyzhang1999: <h1>闲来无事，20 分钟水了一个贷款计算器（ Chatgpt 协助下），发现了房贷的 3 个秘密</h1>\n<p>在搞定这款房贷神器之后，我发现了房贷的三个大坑：</p>\n<ul>\n<li>30 年按揭，总利息竟然几乎等于贷款本金，贷 100 万，竟然要还 200 万！</li>\n<li>等额本息还款方式在很长一段时间里，都在还利息，简直就是在“养银行”；</li>\n<li>如果你打算购房后短期内卖房，可以考虑等额本金还款方式，它比等额本息要还更多本金哦。</li>\n</ul>\n<p>对于像我这样在深圳打拼的小伙伴来说，深圳的房价简直就是个天文数字，就算勉强上车也得债台高筑。在这种情况下，一个合理的还款计划就显得尤为重要了。</p>\n<p>搞定这款贷款计算器后，我震惊地发现，以等额本息方式还款，在很长的时间里，你所还的简直都是“利息贡献”！</p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://fastly.jsdelivr.net/gh/filess/img3@main/2023/04/14/1681437217307-9983065c-b5df-4bd4-b948-42dee5a44807.png\" /></p>\n<p>贷款的头几年，利息占据了还款额的大头，被称为“贷款前期压力期”。随着时间的推移，贷款本金逐渐减少，利息在还款额中的比例也开始下降。但是，在头几年里，你可能会觉得房子好像不太属于你，更像是在“租房”而不是“买房”，因为每期还款的本金微乎其微。</p>\n<h2>本金和利息的陷阱</h2>\n<p>如果把计算出的结果导出分析，你会得出更直观的结论：<strong>银行真是一本万利</strong></p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://fastly.jsdelivr.net/gh/filess/img5@main/2023/04/14/1681437324399-b22044e1-542a-42a4-b432-7b6e087d3e44.png\" /></p>\n<p>从这张图我们可以看出，还款利息在最开始的时候是最高的，而还款本金则是最低的。随着时间推移，大概在中间位置交叉，然后每期还款的本金超过了利息。</p>\n<p><strong>所以，这张图也解释了为什么银行不太喜欢提前还款的客户：利息吃少了。</strong></p>\n<p>再举个例子，如果你在贷款 5 年后因为某些原因决定出售房子时，你会发现这五年里，你所还的本金其实非常少。以贷款 1000 万为例，5 年 60 期共还款 300 万，其中本金只占 90 万左右，5 年后，还欠银行 910 万本金。</p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://fastly.jsdelivr.net/gh/filess/img19@main/2023/04/14/1681437545815-b226a5ab-68bb-4e8f-bf05-f9fae6fd8fb2.png\" /></p>\n<h2>如何使用贷款计算器</h2>\n<p>如果你也想测算一下按揭贷款，你可以打开链接使用贷款计算器： <a href=\"https://t.he3app.com/?8jaz\" rel=\"nofollow\">https://t.he3app.com/?8jaz</a></p>\n<p><strong>如果你还没有下载 He3 工具箱，需要先从官网 <a href=\"https://he3.app/\" rel=\"nofollow\">https://he3.app</a> 下载才能使用哦。</strong></p>\n<h2>这款工具是怎么开发的？</h2>\n<p>贷款计算器是基于 <a href=\"https://he3.app/\" rel=\"nofollow\">He3</a> 工具箱开发，从开发到发布大概花了 20 分钟左右，开发过程非常顺滑。</p>\n<p>感兴趣的同学可以参考我的源码： <a href=\"https://github.com/he3-app/tools-example/tree/main/loan-calculator\" rel=\"nofollow\">https://github.com/he3-app/tools-example/tree/main/loan-calculator</a></p>\n<p>如果你也想开发自己的工具，或者是团队的效率工具，可以参考官网教程： <a href=\"https://docs.he3app.com/guide/\" rel=\"nofollow\">https://docs.he3app.com/guide/</a> ，如果你熟悉 VUE ，几分钟时间就可以开发并发布自己的跨平台（ Win 、macOS 、Linux ）工具，发布后就可以得到一个访问链接。</p>\n<h2>He3 工具箱介绍</h2>\n<p>He3 是一个包含近 400 种工具的终极开发者工具箱，涵盖了前后端开发者的日常所需，例如：JSON 、YAML 、编码工具、图片工具、时间戳工具、颜色工具、CSS 工具、加密工具、网络工具、编程工具等。</p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://fastly.jsdelivr.net/gh/filess/img4@main/2023/04/14/1681438704808-637de68e-1ce4-47b1-8bb2-422e2b80b9e4.18\" /></p>\n<p>此外，He3 还为开发者提供了开放平台，使用 VUE 几分钟就能开发并发布一款小工具，任何安装了 He3 客户端的人都能通过链接打开你开发的工具。</p>\n<p>目前 He3 商店里已经有 400 多款开发者小工具，你可以通过这个链接来查看： <a href=\"https://portal.he3app.com/tools?page=1\" rel=\"nofollow\">https://portal.he3app.com/tools?page=1</a></p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://fastly.jsdelivr.net/gh/filess/img8@main/2023/04/14/1681438246504-cf9dde79-99e7-478a-910f-d9deb4ad49ed.png\" /></p>",
+    "publish_time": "2023-04-14 11:13:12",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "震惊！我从为见过如此恶劣的就业环境， 8K 招 3-5 年前端内卷之激烈久久不能平静",
+    "url": "https://www.v2ex.com/t/932520",
+    "summary": "Yokin: 我们只是一个小公司，想招一个前端，要求 3-5 年本科以上，薪资挂 8-10K ，昨天发布在 BOSS 的岗位，HR 说两小时内就有 100+私聊，她说聊不过来只能点顺眼的先聊，今天估计也有几百个私聊，地点深圳南山<br /><br />1.现在就业环境究竟为啥如此恶劣？引人深思，<br /><br />2.金三银四已成为历史,前端已死，互联网已死",
+    "publish_time": "2023-04-14 14:40:45",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
