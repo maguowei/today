@@ -1634,5 +1634,54 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "你好星期六新预告好费脸",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E6%96%B0%E9%A2%84%E5%91%8A%E5%A5%BD%E8%B4%B9%E8%84%B8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "布林肯称期待在「条件成熟时」访华，美方「不寻求遏制中国」，对此如何解读？",
+    "url": "https://www.zhihu.com/question/595107256",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "继A站集体抵制AI绘画，再到现在集体取AI图，你们有什么看法？",
+    "url": "https://www.zhihu.com/question/595580694",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "The FAA has granted SpaceX permission to launch its Starship rocket",
+    "url": "https://arstechnica.com/science/2023/04/green-light-go-spacex-receives-a-launch-license-from-the-faa-for-starship/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35575298\">Comments</a>",
+    "publish_time": "2023-04-15 05:54:28",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A photon-recycling incandescent lighting device",
+    "url": "https://www.science.org/doi/10.1126/sciadv.adf3737",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35575213\">Comments</a>",
+    "publish_time": "2023-04-15 05:46:47",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
