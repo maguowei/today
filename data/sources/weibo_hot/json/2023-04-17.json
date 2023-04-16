@@ -655,5 +655,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "敢梦的人改变世界",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%95%A2%E6%A2%A6%E7%9A%84%E4%BA%BA%E6%94%B9%E5%8F%98%E4%B8%96%E7%95%8C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "做自己的执健人",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%81%9A%E8%87%AA%E5%B7%B1%E7%9A%84%E6%89%A7%E5%81%A5%E4%BA%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "极限挑战",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9E%81%E9%99%90%E6%8C%91%E6%88%98%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
