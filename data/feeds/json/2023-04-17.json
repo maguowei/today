@@ -1256,5 +1256,100 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "中国式现代化既造福中国人民又促进世界共同发展",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E6%97%A2%E9%80%A0%E7%A6%8F%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%8F%88%E4%BF%83%E8%BF%9B%E4%B8%96%E7%95%8C%E5%85%B1%E5%90%8C%E5%8F%91%E5%B1%95%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "金像奖",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E5%83%8F%E5%A5%96%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Do looks matter for an academic career in economics?",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3805308",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35592728\">Comments</a>",
+    "publish_time": "2023-04-17 02:18:46",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Google devising radical search changes to beat back A.I. rivals",
+    "url": "https://www.nytimes.com/2023/04/16/technology/google-search-engine-ai.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35591568\">Comments</a>",
+    "publish_time": "2023-04-17 00:37:25",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Peak LLM?",
+    "url": "https://ihavemanythoughts.substack.com/p/peak-llm",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35591337\">Comments</a>",
+    "publish_time": "2023-04-17 00:15:17",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Space Invaders creator reveals game’s origin story",
+    "url": "https://www.wired.com/story/space-invaders-45-years-tomohiro-nishikado/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35592439\">Comments</a>",
+    "publish_time": "2023-04-17 01:50:35",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Unwinding the Stack the Hard Way",
+    "url": "https://lesenechal.fr/en/linux/unwinding-the-stack-the-hard-way",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35592446\">Comments</a>",
+    "publish_time": "2023-04-17 01:51:03",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "I Used Stable Diffusion and Dreambooth to Create an Art Portrait of My Dog",
+    "url": "https://www.shruggingface.com/blog/how-i-used-stable-diffusion-and-dreambooth-to-create-a-painted-portrait-of-my-dog",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35592847\">Comments</a>",
+    "publish_time": "2023-04-17 02:29:47",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "AT&amp;T Wireless traffic shaping apparently making some websites unusable",
+    "url": "https://adriano.fyi/post/2023/2023-04-16-att-traffic-shaping-makes-websites-unusable/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35592607\">Comments</a>",
+    "publish_time": "2023-04-17 02:06:49",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
