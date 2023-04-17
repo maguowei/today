@@ -2447,5 +2447,337 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "调休",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B0%83%E4%BC%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "沈月易梦玲路透",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%9C%88%E6%98%93%E6%A2%A6%E7%8E%B2%E8%B7%AF%E9%80%8F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "CBA",
+    "url": "https://s.weibo.com/weibo?q=%23CBA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "小美人鱼主演地广海报",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%BE%8E%E4%BA%BA%E9%B1%BC%E4%B8%BB%E6%BC%94%E5%9C%B0%E5%B9%BF%E6%B5%B7%E6%8A%A5%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "这周日上班",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%91%A8%E6%97%A5%E4%B8%8A%E7%8F%AD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "李龙馥ELLE5月刊封面",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%BE%99%E9%A6%A5ELLE5%E6%9C%88%E5%88%8A%E5%B0%81%E9%9D%A2%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "aespa将公开先行曲",
+    "url": "https://s.weibo.com/weibo?q=%23aespa%E5%B0%86%E5%85%AC%E5%BC%80%E5%85%88%E8%A1%8C%E6%9B%B2%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "哈妮克孜欢迎大家来家乡新疆",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%93%88%E5%A6%AE%E5%85%8B%E5%AD%9C%E6%AC%A2%E8%BF%8E%E5%A4%A7%E5%AE%B6%E6%9D%A5%E5%AE%B6%E4%B9%A1%E6%96%B0%E7%96%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "黄河入海流真是辽阔啊",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B2%B3%E5%85%A5%E6%B5%B7%E6%B5%81%E7%9C%9F%E6%98%AF%E8%BE%BD%E9%98%94%E5%95%8A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "《原神》3.6 版本已更新，你的体验如何？",
+    "url": "https://www.zhihu.com/question/595118408",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价 2023 阿里巴巴数学竞赛题目？",
+    "url": "https://www.zhihu.com/question/596006339",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "今年「五一」国内游订单已追平 2019 年同期，同比增长超 7 倍，你抢到火车票了吗？准备去旅游吗？",
+    "url": "https://www.zhihu.com/question/595946824",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "宝妈梦到七个月儿子流血，查监控见保姆多次殴打儿子，如何看待此事？起到了什么警示作用？",
+    "url": "https://www.zhihu.com/question/595930360",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "人类是不是自然界最适合慢跑的生物？",
+    "url": "https://www.zhihu.com/question/595503263",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "家里人遭遇过什么病痛让你最揪心？",
+    "url": "https://www.zhihu.com/question/586676694",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "x86 汇编并没有多线程之类的并行指令，那操作系统的多线程是如何实现的？",
+    "url": "https://www.zhihu.com/question/594531181",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "《名侦探柯南》按原作毛利兰应该怎么塑造，才能和灰原媲美？",
+    "url": "https://www.zhihu.com/question/594522500",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "人到中年，该如何努力？",
+    "url": "https://www.zhihu.com/question/267633362",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "22-23 赛季英超西汉姆联连追两球 2:2 阿森纳，热苏斯厄德高破门萨卡失点，如何评价这场比赛？",
+    "url": "https://www.zhihu.com/question/595963430",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "作为东吴唯一有战略眼光的大战略家鲁肃，提出借地时为什么没有考虑到以后会刘备拖欠不还？",
+    "url": "https://www.zhihu.com/question/594913010",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "22-23 赛季英超诺丁汉森林 0:2 曼联，安东尼传射达洛特破门，如何评价这场比赛？",
+    "url": "https://www.zhihu.com/question/595991605",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "A股三大指数集体低开，一季报业绩预增股大幅高开",
+    "url": "https://www.36kr.com/newsflashes/2218768679809664",
+    "summary": "36氪获悉，A股三大指数集体低开，沪指低开0.03%，深成指低开0.14%，创业板指低开0.33%。白酒、工业机械、餐饮旅游板块领涨；黄金、传媒板块跌幅居前；一季报业绩预增股大幅高开，长虹美菱、海信家电、小熊电器等涨停。贵州茅台涨1.55%，一季度净利润同比增长19%左右。",
+    "publish_time": "2023-04-17 09:28:13",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "黄金板块大幅低开",
+    "url": "https://www.36kr.com/newsflashes/2218771102888580",
+    "summary": "36氪获悉，黄金板块大幅低开，四川黄金、园城黄金双双跌超7%，山东黄金、中金黄金跌超4%。",
+    "publish_time": "2023-04-17 09:30:40",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "机器人概念股开盘拉升，绿的谐波涨超10%",
+    "url": "https://www.36kr.com/newsflashes/2218773763716487",
+    "summary": "36氪获悉，机器人概念股开盘拉升，绿的谐波涨超10%，丰立智能、汉宇集团、中大力德、昊志机电等跟涨。",
+    "publish_time": "2023-04-17 09:33:23",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "光伏板块大幅反弹，钧达股份涨停",
+    "url": "https://www.36kr.com/newsflashes/2218776052675974",
+    "summary": "36氪获悉，光伏板块早盘大幅反弹，截至发稿，钧达股份涨停，旗滨集团、罗博特科、三孚新科大涨超8%，宝馨科技涨超6%。",
+    "publish_time": "2023-04-17 09:35:43",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "券商股快速拉升，东北证券涨停",
+    "url": "https://www.36kr.com/newsflashes/2218786327999876",
+    "summary": "36氪获悉，券商股快速拉升，东北证券涨停，中泰证券涨超7%，申万宏源、东方证券、信达证券、西部证券等跟涨。",
+    "publish_time": "2023-04-17 09:46:10",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "白酒股震荡走高，舍得酒业涨近6%",
+    "url": "https://www.36kr.com/newsflashes/2218788926714500",
+    "summary": "36氪获悉，白酒股震荡走高，舍得酒业、青海春天涨近6%。迎驾贡酒、老白干酒、口子窖、泸州老窖、贵州茅台等跟涨。",
+    "publish_time": "2023-04-17 09:48:48",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "恒生科技指数涨超1%，新能源汽车股领涨",
+    "url": "https://www.36kr.com/newsflashes/2218793583064449",
+    "summary": "36氪获悉，恒生科技指数涨超1%，新能源汽车股领涨，小鹏汽车涨超8%，理想汽车、蔚来均涨超5%。",
+    "publish_time": "2023-04-17 09:53:33",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "LVMH或将启用LV前CEO执掌时尚集团",
+    "url": "https://www.36kr.com/newsflashes/2218794191417985",
+    "summary": "奢侈品情报和媒体Miss Tweed援引接近LVMH的人士报道称，路易威登前首席执行官迈克尔·博克已成为LVMH时尚集团董事会主席兼首席执行官的热门人选。LVMH时尚集团拥有Céline、Kenzo和Loewe等品牌。据报道，博克将接替Sidney Toledano，后者将成为LVMH首席执行官阿诺特的顾问，并继续管理该集团旗下包括Moynat在内的几个品牌。（界面）",
+    "publish_time": "2023-04-17 09:54:10",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "AI概念股继续调整，传媒、游戏、电商等方向领跌",
+    "url": "https://www.36kr.com/newsflashes/2218804580906376",
+    "summary": "36氪获悉，AI概念股继续调整，传媒、游戏、电商等应用方向领跌，返利科技、中国科传触及跌停，世纪天鸿跌超10%，天下秀、芒果超媒、宣亚国际等多股跌逾8%。",
+    "publish_time": "2023-04-17 10:04:44",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "风电板块震荡拉升，恒润股份涨超7%",
+    "url": "https://www.36kr.com/newsflashes/2218806918116744",
+    "summary": "36氪获悉，风电板块震荡拉升，恒润股份涨超7%，思源电气、金雷股份、大金重工涨超5%，中材科技、振江股份、泰胜风能等跟涨。",
+    "publish_time": "2023-04-17 10:07:06",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "印尼投资部长：大众将与福特、华友钴业等公司合作，在印尼投资汽车电池产业",
+    "url": "https://www.36kr.com/newsflashes/2218807963546244",
+    "summary": "彭博4月16日消息，印尼投资部长巴赫利尔在德国发布的视频声明中表示，大众汽车将与淡水河谷、福特和华友钴业等公司合作，向印尼汽车电池生态系统投资。巴赫利尔称，部分伙伴关系将采取合资公司的形式，一些则涉及原材料供应交易。（界面）",
+    "publish_time": "2023-04-17 10:08:10",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "使用Application Insights提升Logic Apps（标准版）工作流的可观测性",
+    "url": "https://www.infoq.cn/article/PezBFEd0bajj98i5F2xL",
+    "summary": "<p>微软最近<a href=\"https://techcommunity.microsoft.com/t5/integrations-on-azure-blog/application-insights-enhancements-for-azure-logic-apps-standard/ba-p/3758909\">宣布</a>\"在Application Insights中发布<a href=\"https://docs.microsoft.com/en-us/azure/logic-apps/single-tenant-overview-compare\">Logic Apps标准版</a>\"的公开预览增强。这些增强特性将会为开发人员提供对标准Logic Apps的性能和健康情况的更深入洞察，使其更易于诊断问题和优化性能。</p><p></p><p>Logic Apps是微软的自动化工作流产品，其Logic App标准层允许开发人员在任何地方运行工作流。标准版是2021年6月份<a href=\"https://www.infoq.com/news/2021/06/azure-logic-apps-standard/\">正式发布</a>\"的。</p><p></p><p><a href=\"https://learn.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview?tabs=net\">Application Insights</a>\"是一项Azure服务，允许用户监控其应用的性能和使用情况。通过Logic Apps（标准版）的公开预览增强功能，开发人员能够更深入地了解Logic Apps的性能，包括监控和分析Logic App内单个action的执行情况。</p><p></p><p>利用这项新功能，开发人员可以从Azure Portal或通过修改Application Settings为其Logic Apps（标准版）项目启用Application Insights集成。该特性需要<a href=\"https://techcommunity.microsoft.com/t5/integrations-on-azure-blog/azure-logic-apps-standard-now-supports-azure-functions-v4/ba-p/3656072\">Functions V4运行时</a>\"，并对新的Logic Apps（标准版）实例自动启用。</p><p></p><p>启用后，开发人员可以查看其Logic Apps（标准版）工作流的各种度量和日志，如运行次数、失败次数、触发器、action和自定义事件。此外，他们还可以使用Application Insights查询语言（<a href=\"https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/\">Kusto</a>\"）来分析和可视化数据。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/d6/d6833a45906cea7f457f849d409fb52f.png\" /></p><p></p><p><a href=\"https://techcommunity.microsoft.com/t5/integrations-on-azure-blog/application-insights-enhancements-for-azure-logic-apps-standard/ba-p/3758909\">图片来源</a>\"</p><p></p><p>此外，用户可以利用Application Insights的<a href=\"https://learn.microsoft.com/en-us/azure/azure-monitor/app/distributed-tracing\">分布式跟踪特性</a>\"来跟踪跨多个服务和组件的Logic Apps（标准版）工作流的端到端流程。该特性提供了工作流程执行和每个步骤的持续时间、状态和依赖关系的图形化展示。</p><p></p><p>来自微软的Logic Apps的首席项目经理<a href=\"https://twitter.com/wearsy\">Kent Weare</a>\"告诉InfoQ：</p><p></p><p></p><blockquote>我们根据客户的反馈增强了Azure Logic Apps（标准版）的遥测方式。客户希望对事件的发布方式以及用于发布的模式有更多的控制。Application Insights存储是客户必须要承担的成本，所以我们希望尽可能高效，并让他们能够在源头上控制过滤哪些遥测数据。</blockquote><p></p><p></p><p>此外，他还补充到：</p><p></p><p></p><blockquote>我感到特别兴奋的一个特性是，我们会为正在发布的事件添加连接器元数据（connector metadata）。连接器是我们价值的重要组成部分，组织可能希望了解正在使用哪些连接器，以及它们被哪些工作流所使用。如果在一个简单的查询中提供这种类型的库存数据，将会使客户的管理和维护变得更加简洁明了。</blockquote><p></p><p></p><p>这项新功能目前处于公开预览阶段，可用于支持Logic Apps（标准版）的所有区域。此外，微软鼓励开发者通过<a href=\"https://feedback.azure.com/d365community/forum/cb47c115-7926-ec11-b6e6-000d3a4f032c\">Logic Apps User Voice</a>\"提供反馈和改进建议。</p><p></p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2023/03/logic-apps-application-insights/\">Improve Logic Apps (Standard) Workflows Observability with Application Insights</a>\"</p><p></p><p>相关阅读：</p><p><a href=\"https://www.infoq.cn/article/Zp4AN1SWYva38kqG7DDL\">微博增值团队可观测性落地实践与回顾 - 上篇</a>\"</p><p><a href=\"https://www.infoq.cn/article/YxIvZSIsLrXioeW9MFvO\">微软云 Azure 的容器平台能给游戏后端开发带来什么？</a>\"</p>",
+    "publish_time": "2023-04-17 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "ATC staff shortages: 11,000 Flights Cut from NYC and DCA in Summer 2023",
+    "url": "https://www.flyertalk.com/articles/over-11000-flights-cut-from-new-york-and-washington-schedules-for-summer-2023.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35595745\">Comments</a>",
+    "publish_time": "2023-04-17 09:15:33",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
