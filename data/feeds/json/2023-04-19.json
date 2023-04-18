@@ -1453,5 +1453,67 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "汤唯亮相智己展台",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B1%A4%E5%94%AF%E4%BA%AE%E7%9B%B8%E6%99%BA%E5%B7%B1%E5%B1%95%E5%8F%B0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何向孩子科普「人类和动物都学到了哪些本领，应用在了生活中」？",
+    "url": "https://www.zhihu.com/question/594677432",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "PlanD: Plan9 from Containerspace",
+    "url": "https://github.com/rvs/planD",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35618878\">Comments</a>",
+    "publish_time": "2023-04-19 03:32:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Skybox: Open-Source Graphic Rendering on Programmable RISC-V GPUs",
+    "url": "https://dl.acm.org/doi/pdf/10.1145/3582016.3582024",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35619119\">Comments</a>",
+    "publish_time": "2023-04-19 03:51:54",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Meta is about to start its next round of layoffs",
+    "url": "https://www.vox.com/technology/2023/4/18/23688627/meta-layoffs-mark-zuckerberg-facebook-instagram-whatsapp",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35620407\">Comments</a>",
+    "publish_time": "2023-04-19 05:22:35",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Clock",
+    "url": "https://oimo.io/works/clock/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35620291\">Comments</a>",
+    "publish_time": "2023-04-19 05:14:39",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
