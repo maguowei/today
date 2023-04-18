@@ -658,5 +658,27 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "OpenWRT 22.03.4",
+    "url": "https://github.com/openwrt/openwrt/releases/tag/v22.03.4",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35611662\">Comments</a>",
+    "publish_time": "2023-04-18 17:13:21",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Marginalia: Search the Internet",
+    "url": "https://search.marginalia.nu/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35611923\">Comments</a>",
+    "publish_time": "2023-04-18 17:53:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
