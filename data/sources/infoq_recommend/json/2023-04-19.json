@@ -9,5 +9,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "中国企业研发高效能白皮书-企业级架构篇",
+    "url": "https://www.infoq.cn/article/0afBoBh4lBtoWOdzSOZW",
+    "summary": "<h3>研究背景</h3>\n<p>近年来中国企业研发正在从粗放型走向精益型，研发工作的“高效能”成为几乎每个研发团队共同的追求。<br />\n中国软件服务产业也在近 5-10 年中得到了飞速发展，技术服务的边界不断拓展，赋能研发高效的产品层出不穷，适合中国研发环境的技术服务体系在不断完善。从结果上看，中国企业正在高效能研发的路径上快速前进。</p>\n<p>本份报告以中国高效能研发企业为研究对象，尝试解读市场中具有代表性的高效能研发解决方案。本次报告由五个篇章组成，如 CI/CD、企业级软件架构、价值流管理等主题。研究小组期待可以通过研究，帮助中国企业研发团队获得高效能研发新知。</p>\n<p>企业级软件架构篇是本次报告的第三篇章，主要研究了企业级软件架构是如何帮助研发团队提升效率。该篇章不仅说明了企业级软件架构的概念和技术结构，而且对不同企业和团队的研发场景适配的产品形式进行解读。</p>\n<p>同时，报告中也解读了极狐 GitLab 企业级软件架构的实例，并且预测了未来企业级软件架构未来的发展方向。</p>\n<h3>报告目录</h3>\n<ul>\n<li>关于企业级软件架构概念</li>\n<li>常见的企业级软件架构方案</li>\n<li>极狐 GitLab 企业级软件架构</li>\n<li>极狐 GitLab 企业级软件架构最佳实践</li>\n<li>企业级软件架构市场发展趋势展望</li>\n</ul>",
+    "publish_time": "2023-04-19 09:53:38",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
