@@ -1295,5 +1295,74 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "益禾堂董事长述职报告",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%9B%8A%E7%A6%BE%E5%A0%82%E8%91%A3%E4%BA%8B%E9%95%BF%E8%BF%B0%E8%81%8C%E6%8A%A5%E5%91%8A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "泰国保险公司或将赔付1500万泰铢",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E4%BF%9D%E9%99%A9%E5%85%AC%E5%8F%B8%E6%88%96%E5%B0%86%E8%B5%94%E4%BB%981500%E4%B8%87%E6%B3%B0%E9%93%A2%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "预算不多，有什么又特别又实用而且「老少皆宜」的礼物？",
+    "url": "https://www.zhihu.com/question/596553521",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "丈夫拒绝为无收入妻子支付医疗费，婚姻中的女性需要保持经济独立吗？",
+    "url": "https://www.zhihu.com/question/596332434",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Community Phone (YC W19): Hiring engineers to manage VoLTE, low latency systems",
+    "url": "https://www.ycombinator.com/companies/community-phone-company/jobs/QpIGSM1-product-engineer",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35630550\">Comments</a>",
+    "publish_time": "2023-04-20 01:00:45",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "JEP Draft: Integrity and Strong Encapsulation",
+    "url": "https://openjdk.org/jeps/8305968",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35631072\">Comments</a>",
+    "publish_time": "2023-04-20 01:44:50",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "EleutherAI: Transformer Math 101",
+    "url": "https://blog.eleuther.ai/transformer-math/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35631546\">Comments</a>",
+    "publish_time": "2023-04-20 02:23:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
