@@ -1424,5 +1424,65 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "2023小米徕卡影像大赛",
+    "url": "https://s.weibo.com/weibo?q=%232023%E5%B0%8F%E7%B1%B3%E5%BE%95%E5%8D%A1%E5%BD%B1%E5%83%8F%E5%A4%A7%E8%B5%9B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "有没有喜欢大熊猫的朋友，可以一人说一个大熊猫的冷科普吗？",
+    "url": "https://www.zhihu.com/question/596312141",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "快五一了，想要囤点好用的防晒，哪里能便宜点买到正品？",
+    "url": "https://www.zhihu.com/question/596483593",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "User: Junnn11",
+    "url": "https://en.wikipedia.org/wiki/User:Junnn11",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35630423\">Comments</a>",
+    "publish_time": "2023-04-20 00:50:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Substack Is the Biggest Threat to Newsletters Ever",
+    "url": "https://notes.ghed.in/posts/2023/substack-threat-newsletters/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35632658\">Comments</a>",
+    "publish_time": "2023-04-20 04:06:05",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Qantas is bringing back Airbus A380s from the California desert",
+    "url": "https://www.smh.com.au/business/companies/california-to-sydney-how-do-you-wake-an-a380-after-1000-days-in-the-desert-20221227-p5c8zp.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35632058\">Comments</a>",
+    "publish_time": "2023-04-20 03:10:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
