@@ -328,5 +328,38 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "No DNS address record found for repo.maven.apache.org",
+    "url": "https://www.nslookup.io/domains/repo.maven.apache.org/dns-records/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35635538\">Comments</a>",
+    "publish_time": "2023-04-20 10:08:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Incidents of AIs going rogue and killing all the humans",
+    "url": "https://aiincidentsreport.vercel.app/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35635633\">Comments</a>",
+    "publish_time": "2023-04-20 10:27:27",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Only one pair of integers satisfy the equation m^n = n^m",
+    "url": "https://keith-mcnulty.medium.com/only-one-pair-of-distinct-integers-satisfy-this-equation-76ea45469a96",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35635491\">Comments</a>",
+    "publish_time": "2023-04-20 09:59:48",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
