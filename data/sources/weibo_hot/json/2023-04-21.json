@@ -529,5 +529,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "微博云祈福",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%BA%91%E7%A5%88%E7%A6%8F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "仁科 哈佛",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BB%81%E7%A7%91+%E5%93%88%E4%BD%9B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "光遇",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%89%E9%81%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
