@@ -526,5 +526,16 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Show HN: We built a stateful Kafka connector and tips for creating yours",
+    "url": "https://bytewax.io/blog/custom-input-connector",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35648791\">Comments</a>",
+    "publish_time": "2023-04-21 09:26:56",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
