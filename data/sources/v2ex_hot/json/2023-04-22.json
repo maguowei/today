@@ -1,0 +1,46 @@
+[
+  {
+    "title": "想请教 windows 上如何阅读 epub？",
+    "url": "https://www.v2ex.com/t/934493",
+    "summary": "sjmcefc2: <p>以前浏览器可以阅读 epub ，现在不行了。\n用过不少第三方软件，都是挺差的，是不是必须适配一个 iPad 呢？</p>",
+    "publish_time": "2023-04-22 08:01:33",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "老美实体清单为啥我们没对等反制只能骂骂咧咧, 只能不满和遗憾?",
+    "url": "https://www.v2ex.com/t/934497",
+    "summary": "binbinjp0915: <p>RT 估计荣耀也快了,老美拿准了天朝命脉,制裁你企业,衙门只能骂骂咧咧,不敢对等反制,苹果特斯拉微软照样逍遥</p>",
+    "publish_time": "2023-04-22 09:27:29",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "在天猫超市买的牛奶喝了胃疼该怎么办呀？",
+    "url": "https://www.v2ex.com/t/934498",
+    "summary": "DemianL: 我 6 点多吃了晚饭 之后啥东西都没有吃了 就 10 点左右喝了那个牛奶<br />喝完之后就躺床上睡觉了 然后就胃一直感觉好像有什么东西拉扯着疼<br />我只能从床上坐起来 就那样一直不舒服了好久<br />我一直都喝着牛奶的 这种情况第一次出现 是买的一箱 12L 昨天刚开第一盒<br />不敢继续喝了 我都开封了也不知道能不能退 <br />要我给出证明是那个牛奶的问题的话 我也不知道怎么弄 <br />牛奶是安佳 anchor 纯牛奶 12L 一箱那个",
+    "publish_time": "2023-04-22 09:44:47",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "把家用文件服务器开放到公网，有什么手段可以避免被攻击？",
+    "url": "https://www.v2ex.com/t/934526",
+    "summary": "Cineray: <p>上周叫师傅开通了家用公网，一个月 20 块钱。</p>\n<p>想搭建一个 samba 或者 webdav 服务器，给公司和外出作文件分享使用。</p>\n<p>先前的方案是坚果云，无奈空间太小价格太贵，其他的网盘又担心资源和谐问题。</p>\n<p>有没有什么方法可以既保证一定安全的情况下，又可以自己舒服的同步和传输文件?</p>\n<p>目前已经设置的：</p>\n<ol>\n<li>open 端口设置为非常用端口，5 位数，应该可以避免一定扫描。</li>\n<li>samba 密码复杂度包括大小写字母，数字和符号。</li>\n<li>禁止 guest 访问。</li>\n<li>使用 samba 2.0/3.0 ，关闭 samba 1.0 协议。</li>\n</ol>\n<p>但是除此之外就不知道还需要如何设置了。</p>\n<p>或者有什么更好的文件服务器部署方式，可以推荐以下。</p>",
+    "publish_time": "2023-04-22 12:47:53",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  }
+]
