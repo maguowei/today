@@ -1734,5 +1734,56 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "美团外卖",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%A2%E5%A4%96%E5%8D%96%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何做到不被情绪裹挟，做一个自由的人？",
+    "url": "https://www.zhihu.com/question/499341847",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "ChatGPT creates mostly insecure code, but won&#x27;t tell you unless you ask",
+    "url": "https://www.theregister.com/2023/04/21/chatgpt_insecure_code/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35680600\">Comments</a>",
+    "publish_time": "2023-04-24 05:03:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Incognito ChatGPT with no account required",
+    "url": "https://anonchatgpt.com",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35680029\">Comments</a>",
+    "publish_time": "2023-04-24 04:11:46",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Git bundles of Eaglercraft repositories disabled due to DMCA takedown",
+    "url": "https://github.com/enten/eaglercraft-ashes",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35679946\">Comments</a>",
+    "publish_time": "2023-04-24 04:02:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
