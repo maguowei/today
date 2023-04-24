@@ -1426,5 +1426,85 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "中国航天叩问苍穹",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%8F%A9%E9%97%AE%E8%8B%8D%E7%A9%B9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "首批中国公民撤离苏丹画面",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%A6%96%E6%89%B9%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%92%A4%E7%A6%BB%E8%8B%8F%E4%B8%B9%E7%94%BB%E9%9D%A2%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "新冠",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%A0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "猫咪吃冻干猫粮好还是普通猫粮好？",
+    "url": "https://www.zhihu.com/question/485833243",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Digital Addiction: Focusing on the Cure, Not the Disease",
+    "url": "https://louison.substack.com/p/digital-addiction-focusing-on-the",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35692242\">Comments</a>",
+    "publish_time": "2023-04-25 03:49:12",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "OpenAI has applied for “GPT” trademark with USPTO",
+    "url": "https://tmsearch.uspto.gov/bin/showfield?f=doc&state=4802:jtelqq.2.16",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35692476\">Comments</a>",
+    "publish_time": "2023-04-25 04:08:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Reader Revenue Manager (Google)",
+    "url": "https://readerrevenue.withgoogle.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35692790\">Comments</a>",
+    "publish_time": "2023-04-25 04:31:35",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Gorillaz turn the world into a stage with augmented reality",
+    "url": "https://blog.google/products/google-ar-vr/gorillaz-maps-music-video/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35692829\">Comments</a>",
+    "publish_time": "2023-04-25 04:34:07",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
