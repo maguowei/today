@@ -9,5 +9,49 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "原神为什么会这么火？十几年二次元昨天第一次玩，感觉这游戏毫无创新，玩了半小时就腻了",
+    "url": "https://www.v2ex.com/t/935202",
+    "summary": "benrezzagmehamed:",
+    "publish_time": "2023-04-25 00:35:04",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "Google Authenticator 可以备份到 Google 账号了",
+    "url": "https://www.v2ex.com/t/935204",
+    "summary": "dingwen07: <p>安卓和 iOS 都支持，安卓似乎还没推送到所有设备。<br /><br /></p>",
+    "publish_time": "2023-04-25 00:41:26",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "老项目使用 8081 端口提供 app 的接口服务,到底有没有问题",
+    "url": "https://www.v2ex.com/t/935265",
+    "summary": "gy123: <p>今天又跟前端同事争辩了一下,说 http 使用 8081 端口是否会导致 app 端网络请求出异常,我当然解释了不会~</p>\n<p>因为后期新项目我都采用的 https 服务端口号默认 443,老项目由于老版本 app 都用的非 80 及 443 的,也没什么问题,也就不用改动~</p>\n<p>目前已知会出现的问题:\n(1)使用非 https 会相对的不安全,但是我们 app 也不需要这个相对安全\n(2)使用非 80 端口,对导致访问域名需要加端口号 8081,但是我们这个是 app 调用的,没有这个顾虑\n(3)没法使用 http2 技术,导致请求慢,但是我 http 少了加密验证这步</p>\n<p>所以网络大佬们,提供对外的 http 协议服务,端口号非 80 及 443,真的有什么客户端导致请求异常的问题吗?</p>",
+    "publish_time": "2023-04-25 10:23:55",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "姓赵，帮孩子起个名字吧。",
+    "url": "https://www.v2ex.com/t/935271",
+    "summary": "taolinxs: 不知道性别，是起个通用的还是各取一个备用呢",
+    "publish_time": "2023-04-25 10:35:35",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
