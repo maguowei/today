@@ -636,5 +636,38 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Sserangecoding: Fast vectorized (SSE 4.1) range coder for 8-bit alphabets",
+    "url": "https://github.com/richgel999/sserangecoding",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35697232\">Comments</a>",
+    "publish_time": "2023-04-25 14:38:55",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Distractions Cause Bad Code",
+    "url": "https://ntietz.com/blog/distractions-cause-bad-code/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35696111\">Comments</a>",
+    "publish_time": "2023-04-25 11:08:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Strlcpy and Strlcat – Consistent, Safe, String Copy and Concatenation (1999) [pdf]",
+    "url": "https://www.openbsd.org/papers/strlcpy-paper.pdf",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35697869\">Comments</a>",
+    "publish_time": "2023-04-25 16:21:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
