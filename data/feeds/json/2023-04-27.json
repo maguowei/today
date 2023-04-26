@@ -1623,5 +1623,56 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "看综艺直播1分钱抢好货",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%9C%8B%E7%BB%BC%E8%89%BA%E7%9B%B4%E6%92%AD1%E5%88%86%E9%92%B1%E6%8A%A2%E5%A5%BD%E8%B4%A7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "大通G90明星同款保姆车",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%80%9AG90%E6%98%8E%E6%98%9F%E5%90%8C%E6%AC%BE%E4%BF%9D%E5%A7%86%E8%BD%A6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Compound (YC S19) is hiring to build a modern wealth manager",
+    "url": "https://withcompound.com/company/about",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35719928\">Comments</a>",
+    "publish_time": "2023-04-27 05:00:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Microsoft TableTransformer",
+    "url": "https://github.com/microsoft/table-transformer",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35720157\">Comments</a>",
+    "publish_time": "2023-04-27 05:18:56",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "DeepDoctection",
+    "url": "https://github.com/deepdoctection/deepdoctection",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35719937\">Comments</a>",
+    "publish_time": "2023-04-27 05:00:46",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
