@@ -1462,5 +1462,92 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "和杨洋一起打卡美学之旅",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%92%8C%E6%9D%A8%E6%B4%8B%E4%B8%80%E8%B5%B7%E6%89%93%E5%8D%A1%E7%BE%8E%E5%AD%A6%E4%B9%8B%E6%97%85%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "华为nova11联名Manner咖啡",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAnova11%E8%81%94%E5%90%8DManner%E5%92%96%E5%95%A1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "美国GDP",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BDGDP%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "大熊猫吃竹笋根本停不下来",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%90%83%E7%AB%B9%E7%AC%8B%E6%A0%B9%E6%9C%AC%E5%81%9C%E4%B8%8D%E4%B8%8B%E6%9D%A5%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "看到一位大佬的跑步数据感到很震惊，这种配速和心率要怎样才能练出来？",
+    "url": "https://www.zhihu.com/question/597622040",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "大学学光学一直有个疑问，就是如果两束相干光相差半个波长，那他们相消，那么能量不就凭空消失了吗？",
+    "url": "https://www.zhihu.com/question/413998514",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "NormCap: OCR powered screen-capture tool",
+    "url": "https://github.com/dynobo/normcap",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35733508\">Comments</a>",
+    "publish_time": "2023-04-28 03:41:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "XTDB 2.x Early Access",
+    "url": "https://www.xtdb.com/v2",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35733515\">Comments</a>",
+    "publish_time": "2023-04-28 03:42:17",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "【夜读】人生的3把钥匙：自省、自律、自洽",
+    "url": "https://mp.weixin.qq.com/s/nKNyF2GZp7QyicUuy0Id1g",
+    "summary": "【夜读】人生的3把钥匙：自省、自律、自洽",
+    "publish_time": "2023-04-28 04:33:15",
+    "source": {
+      "name": "people_daily_gzh",
+      "desc": "人民日报公众号",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
+    }
   }
 ]
