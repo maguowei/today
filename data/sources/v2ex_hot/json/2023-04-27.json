@@ -53,5 +53,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "找一个程序员大佬当师傅。求师",
+    "url": "https://www.v2ex.com/t/935872",
+    "summary": "wei417739:",
+    "publish_time": "2023-04-27 11:49:27",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "惊魂一刻！被某讯云的计费系统吓得差点提桶跑路",
+    "url": "https://www.v2ex.com/t/935883",
+    "summary": "cy18: <p>搞了个高并发的优化算法，自己机器上跑太慢了，发现某讯云的云函数还不错，每个地区都可以搞 500+的并发，同时开 5 个地区这不就是 2500 的并发了么，估算了下，总共两三百万 GBs 估计算法也就跑完了，免费配额 100 万，接下来单价 0.00011108 元 /GBs ，算下来也就一两百块钱，四舍五入等于不要钱！公司刚好有个腾讯云账号，还有几百块余额，直接拿来用，计划通！</p>\n<p>折腾了一两天代码，然后开跑，嗯嗯，效果还不错，比自己机器上跑快多了，来来，让我看看资源使用量怎么样：</p>\n<p><img alt=\"i9UZiH.png\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.328888.xyz/2023/04/27/i9UZiH.png\" /></p>\n<p>嗯？跑了几分钟资源使用量咋就红了？算法出问题了？被 DDoS 了？</p>\n<p>嗯嗯？？咋用了 2 亿多 GBs ，我靠，100 万 GBs 就要 100 多块钱，2 亿多岂不是要 20000 块钱了，不管结果没存下，先把算法停掉再说！呼，总算停下来了，来来，我算算花了多少钱。掏出计算器，0.00011108*200000000 ，8 个零，没错。我靠，22216 块钱？？准备提桶跑路！</p>\n<p>嗯嗯嗯？？？那个好像不是小数点，是逗号！！不是 2 亿多 GBs ，是 2621 亿 GBs ，我算算......0.00011108*262100000000=29114068......这......我还跑得掉么？</p>\n<p>嗯嗯嗯嗯？？？？我这撑死两千五的并发，几分钟怎么跑出来这么多的？被 DDoS 也跑不了这么多使用量！看来是计费系统的问题......吧？先把系统冻结了，问问客服啥情况。</p>\n<hr />\n<p>那么问题来了，如果是计费系统的问题，我跑了一半的计算结果有的赔么？我的精神损失费有的赔么？</p>",
+    "publish_time": "2023-04-27 12:20:59",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
