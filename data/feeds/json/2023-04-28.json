@@ -1549,5 +1549,56 @@
       "desc": "人民日报公众号",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
     }
+  },
+  {
+    "title": "为什么人到绝境后会大彻大悟？",
+    "url": "https://www.zhihu.com/question/565062536",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "刘慈欣作品中哪一部改编起来最容易？",
+    "url": "https://www.zhihu.com/question/597625980",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Knowledge retrieval architectures for LLMs (2023)",
+    "url": "https://mattboegner.com/knowledge-retrieval-architecture-for-llms/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35734685\">Comments</a>",
+    "publish_time": "2023-04-28 05:13:16",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Firezone (YC W22) is hiring Rust systems engineers (SF &#x2f; US remote)",
+    "url": "https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-backend-systems-engineer",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35734516\">Comments</a>",
+    "publish_time": "2023-04-28 05:00:57",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Hotspot performance engineering fails",
+    "url": "https://lemire.me/blog/2023/04/27/hotspot-performance-engineering-fails/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35730764\">Comments</a>",
+    "publish_time": "2023-04-28 00:40:50",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
