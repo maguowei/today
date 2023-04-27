@@ -1142,5 +1142,136 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "文旅市场活力迸发",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%96%87%E6%97%85%E5%B8%82%E5%9C%BA%E6%B4%BB%E5%8A%9B%E8%BF%B8%E5%8F%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "苏醒赛图斯嗨唱一夏",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E8%B5%9B%E5%9B%BE%E6%96%AF%E5%97%A8%E5%94%B1%E4%B8%80%E5%A4%8F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "青岛白啤我的生活美学",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E7%99%BD%E5%95%A4%E6%88%91%E7%9A%84%E7%94%9F%E6%B4%BB%E7%BE%8E%E5%AD%A6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "蔡依林演唱会",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%94%A1%E4%BE%9D%E6%9E%97%E6%BC%94%E5%94%B1%E4%BC%9A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "面试被问到不懂的东西，是直接说不懂还是坚持狡辩一下？",
+    "url": "https://www.zhihu.com/question/537844401",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "低头看电脑导致的脖子疼，可以通过什么运动来缓解？",
+    "url": "https://www.zhihu.com/question/594591711",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "The future of programming: Research at CHI 2023",
+    "url": "https://austinhenley.com/blog/futureofprogramming2023.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35731539\">Comments</a>",
+    "publish_time": "2023-04-28 01:26:18",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Andy Warhol Copyright Case That Could Transform Generative AI",
+    "url": "https://www.wired.com/story/andy-warhol-fair-use-prince-generative-ai/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35731856\">Comments</a>",
+    "publish_time": "2023-04-28 01:45:29",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Hotspot Performance Engineering Fails",
+    "url": "https://lemire.me/blog/2023/04/27/hotspot-performance-engineering-fails/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35730764\">Comments</a>",
+    "publish_time": "2023-04-28 00:40:50",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Jerry Springer, influential US talkshow host, dies aged 79",
+    "url": "https://www.theguardian.com/us-news/2023/apr/27/jerry-springer-talkshow-host-dies-79",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35731672\">Comments</a>",
+    "publish_time": "2023-04-28 01:34:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Middleware (YC W23) Is Hiring Founding Engineer",
+    "url": "https://www.ycombinator.com/companies/middleware/jobs",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35731138\">Comments</a>",
+    "publish_time": "2023-04-28 01:00:56",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Apple Releases App Store Monthly Active User Counts for EU to Comply with DSA",
+    "url": "https://www.apple.com/legal/more-resources/dsa/mt/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35731285\">Comments</a>",
+    "publish_time": "2023-04-28 01:11:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Brave Search removes last remnant of Bing from search results page",
+    "url": "https://brave.com/search-independence/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35730711\">Comments</a>",
+    "publish_time": "2023-04-28 00:37:55",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
