@@ -1380,5 +1380,87 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "有一种向往是更好相伴",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%B8%80%E7%A7%8D%E5%90%91%E5%BE%80%E6%98%AF%E6%9B%B4%E5%A5%BD%E7%9B%B8%E4%BC%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "崩坏星穹铁道",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B4%A9%E5%9D%8F%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "为什么跑步会成为减肥的代名词？",
+    "url": "https://www.zhihu.com/question/594742398",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Wind and solar are now beating coal in the US",
+    "url": "https://electrek.co/2023/04/27/wind-and-solar-are-now-beating-coal-in-the-us/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35732900\">Comments</a>",
+    "publish_time": "2023-04-28 02:54:12",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "NASA Power Hack Extends 45-Year Voyager 2 Mission Even Longer",
+    "url": "https://gizmodo.com/nasa-power-hack-extends-voyager-2-mission-science-1850378890",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35731898\">Comments</a>",
+    "publish_time": "2023-04-28 01:48:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "New nanoparticles can perform gene editing in the lungs",
+    "url": "https://news.mit.edu/2023/new-nanoparticles-can-perform-gene-editing-lungs-0330",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35733190\">Comments</a>",
+    "publish_time": "2023-04-28 03:16:45",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Lessons Learned Reproducing a Deep Reinforcement Learning Paper (2018)",
+    "url": "http://amid.fish/reproducing-deep-rl",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35732843\">Comments</a>",
+    "publish_time": "2023-04-28 02:49:55",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Founders’ Email to Clubhouse Employees",
+    "url": "https://blog.clubhouse.com/april-27-2023/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35732225\">Comments</a>",
+    "publish_time": "2023-04-28 02:07:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
