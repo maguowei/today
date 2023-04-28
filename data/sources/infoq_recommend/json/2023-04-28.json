@@ -20,5 +20,49 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "被吹爆的 ChatGPT 真如传说中那么“强悍”吗？ | InfoQ 测评室",
+    "url": "https://www.infoq.cn/article/BFb0AxXaUUIZToGuEsjR",
+    "summary": "<p>从去年底至今，大规模语言模型 ChatGPT 引发了几乎所有科技领域从业者的高度关注。ChatGPT 凭借其更接近人的思考方式被广泛称为“最强 AI”。为便于各方全面多维了解 ChatGPT 能力，lnfoQ 测评室参考中国信息通信研究院联合中国人工智能产业发展联盟相关标准中的指标要求和评估方法，从功能、性能、用户体验等方面对 ChatGPT 进行了评估，我们一起来看看这款应用是不是真如传说中那么强悍吧！</p>",
+    "publish_time": "2023-04-28 12:11:27",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "局部超越 ChatGPT？百度文心一言测评来了！ | InfoQ 测评室",
+    "url": "https://www.infoq.cn/article/jLsGCgZpCfvGF5a5pE5M",
+    "summary": "<p>“种花家独苗”文心一言一经问世便引发广泛关注！InfoQ 测评室有幸收到内测邀请码，我们一起来看看那些 ChatGPT 搞砸过的问题，文心一言能搞定吗？从技术视角设计评测，文心一言到底表现如何？</p>",
+    "publish_time": "2023-04-28 12:18:22",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "进入中国第23年，InterSystems宣布新战略：互联互通构筑医疗数字化转型的新范式",
+    "url": "https://www.infoq.cn/article/eGbLfql5FdfxIbIiJchp",
+    "summary": "<p></p><p>近日，数据技术提供商InterSystems亚太区总经理卢侠亮（Luciano Brustia）自疫情后首次返回中国，与InfoQ等少数媒体沟通交流。卢侠亮介绍了InterSystems在国内的发展情况、在产品和服务上的持续投入，以及持续创新的产品与解决方案。</p><p></p><p>InterSystems创立于1978年，是为医疗、金融、制造、供应链等行业提供企业级数字化转型下解决方案的供应商。</p><p></p><h2>进军中国市场23年</h2><p></p><p></p><p>卢侠亮表示：“作为一家扎根中国市场超过20年的企业，InterSystems致力于为中国这一关键市场提供先进的技术、创新的解决方案与卓越的服务。&nbsp;三年来，我们不断增强在中国的业务，研发了针对中国用户的InterSystems&nbsp;IRIS医疗版互联互通套件等产品，接下来，将继续与中国医疗机构紧密合作，期待为中国的医疗数字化转型带来更大价值。”</p><p></p><p>据悉，InterSystems的产品矩阵已落地北京协和医院、四川大学华西医院、武汉同济医院、和睦家医疗集团、美中宜和妇儿医院等国内500余家医疗机构，其中三级医院占比超过70%。</p><p></p><p>据卢侠亮介绍，InterSystems针对中国市场推出的产品矩阵包括：</p><p></p><p>InterSystems IRIS医疗版互联互通套件2020年，新版《国家医疗健康信息医院信息互联互通标准化成熟度测评方案（2020年版）》发布，在“以评促建”的标准引领下，InterSystems剖析评测标准，凭借多年来在医疗信息化领域的经验和医疗数据平台积累，于2021年推出了专为中国医疗机构打造的InterSystems IRIS医疗版互联互通套件，满足医院快速落地互联互通标准化成熟度测评涉及到的标准化改造需求。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/96/96e8ab2dd97a0194d968d813a170e6eb.png\" /></p><p></p><p>2023年，InterSystems&nbsp;IRIS医疗版互联互通套件已升级至3.0版，打通了国内互联互通生态与FHIR生态，以更好的互操作性服务能力提升数据利用价值，提供了更为丰富的校验和实施工具以及多样化的最佳实践用例库，进一步提升了互联互通建设中的用户体验和价值实现。</p><p></p><p>卢侠亮强调，InterSystems IRIS医疗版的技术和开发都是基于FHIR标准的，互联互通套件的开发也是基于FHIR标准。</p><p></p><p>目前，中国一些大医院已经有较强的互联互通意识，且已经具备了互联互通的功能要求。“我们现在来到了一个特殊的时代，未来对于互联互通的要求会更高”。</p><p></p><p>现在医疗数据的质量和标注一直是一个比较难的问题，在提高数据质量方面，卢侠亮向InfoQ表示，首先会进行数据清洗，确保进来的数据是好的。在这个过程中，实际上最难的并不是技术问题，只要建立了一系列的制度和过程，数据清理就可以完成。即使有了强大的平台，还是需要相关的政策来进行数据清理。因此，InterSystems IRIS提供了一系列的工具。“我们不仅仅是数据库，我们还是一个平台。IRIS的平台可以存储数据，它也有互联互通的功能，另外它还有FHIR的引擎作为它底层的架构和驱动。所以如果这时引入了不好的数据，它会被存储到平台的数据库，当要进行数据调取来分析时，拿到的数据就是清洗过的数据”。</p><p></p><p>截至目前，InterSystems技术已成功助力150余家医院顺利通过医院互联互通标准化成熟度评测，其中五级乙等近30家。</p><p></p><p>InterSystems&nbsp;TrakCare统一的医疗信息系统 。</p><p></p><p>这是一个灵活而强大的医疗信息系统，用于医疗服务的提供、管理和改革。TrakCare定位为中国高端私立医疗机构数字化变革提供支持。最新应用数据显示，在中国，TrakCare目前服务于和睦家、美中宜和、曜影医疗等国内高端私立医疗机构，为14个城市的50多个院区/诊所提供信息化支撑，服务患者数量已超2000万。</p><p></p><p>InterSystems开发者社区中文版开发者和技术用户的培养与成长是InterSystems关注的方向。2021年，<a href=\"https://cn.community.intersystems.com/\">InterSystems开发者社区中文版</a>\"于正式上线。该社区为使用InterSystems技术的开发者们提供了一个分享技术心得、实践交流的平台，目前已有注册用户近800人，社区定期举办开发者编程大赛与征文大赛，提升开发者的实战能力。</p><p></p><p>2023年4月，为中国用户定制的“InterSystems中国技术培训认证”上线，确保用户可从快速发展的InterSystems技术中获益，以更好地服务于医疗行业数字化转型与发展。</p>",
+    "publish_time": "2023-04-28 12:38:08",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "金融服务场景化背后的业务创新与技术升级",
+    "url": "https://www.infoq.cn/article/rOARbiN1flkQTADUpBdc",
+    "summary": "<p><img alt=\"unpreview\" src=\"https://static001.infoq.cn/resource/image/db/82/db1f10c6c20691ff4bffdfb3ffbec482.jpg\" /></p>",
+    "publish_time": "2023-04-28 12:45:16",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
