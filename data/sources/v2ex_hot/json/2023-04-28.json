@@ -75,5 +75,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "卷起来了，看 V2EX Polish 又推广，俺也再次推荐一下我的油猴脚本： V2EX - 超级增强",
+    "url": "https://www.v2ex.com/t/936203",
+    "summary": "zyronon: <h2>两个脚本(插件)的功能基本一样，我就不再次介绍了，点这里查看<a href=\"https://greasyfork.org/zh-CN/scripts/458024\" rel=\"nofollow\">详细功能</a>，只说下区别</h2>\n<h2>◉ 俺脚本的优点：</h2>\n<ul>\n<li>\n<p><strong>跨平台</strong>，支持 Tampermonkey ，也支持 safari 上的 Userscripts</p>\n</li>\n<li>\n<p>楼中楼，<strong>正确无误的解析，主打的就是一个楼中楼回复🥰</strong></p>\n<ul>\n<li>V2EX Polish 及其他脚本：只解析当前页，如果有很多页回复，楼中楼就会前言不搭后语莫名其妙的</li>\n<li>本脚本：加载所有回复然后再解析楼中楼，保证回复解析正确</li>\n<li>支持按感谢排序</li>\n</ul>\n</li>\n<li>\n<p>弹框显示正文和回复，<strong>不需要你的 Token</strong></p>\n<ul>\n<li>V2EX Polish 是需要 Token 才能预览，然后预览时正文还需要加载。俺脚本打开弹框正文直接就显示了，只有回复才需要加载。</li>\n</ul>\n</li>\n<li>\n<p>设置用户标签，<strong>数据保存在你的 V2EX 的记事本里面，换浏览器也能显示</strong></p>\n<ul>\n<li>几乎所有给 V 站用户打标签的脚本都无法同步数据</li>\n</ul>\n</li>\n<li>\n<p>UI 上<strong>更贴合 V 站风格</strong>，也没有修改 V 站原本的样式</p>\n<ul>\n<li>不可否认 V2EX Polish 的样式改动很优秀很好看，但似乎配色上太白太淡了，给人一种刺眼的感觉</li>\n</ul>\n</li>\n<li>\n<p>所有功能都支持单独关闭</p>\n<ul>\n<li>只想要楼中楼，可以！</li>\n<li>只想要预览，可以！</li>\n</ul>\n</li>\n</ul>\n<h2>◉ 安装和使用</h2>\n<ul>\n<li>\n<p>Greasyfork：<a href=\"https://greasyfork.org/zh-CN/scripts/458024\" rel=\"nofollow\">https://greasyfork.org/zh-CN/scripts/458024</a></p>\n</li>\n<li>\n<p>源代码： <a href=\"https://github.com/zyronon/v2ex-script\" rel=\"nofollow\">v2ex-script</a>，<strong>哥哥们求个 Star🥰</strong></p>\n</li>\n<li>\n<p>反馈和建议：<a href=\"https://github.com/zyronon/v2ex-script/discussions/7\" rel=\"nofollow\">v2ex-script/discussions</a></p>\n</li>\n</ul>\n<h2>◉ 功能截图</h2>\n<table>\n<thead>\n<tr>\n<th>楼中楼嵌套回复<img alt=\"楼中楼\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/eLUdyHk.png\" /></th>\n<th>片卡式预览<img alt=\"预览\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/F7WIEEv.png\" /></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>个性化设置<img alt=\"个性化设置\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/7f1RMFA.png\" /></td>\n<td>对用户打标签<img alt=\"对用户打标签\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/5060xQq.png\" /></td>\n</tr>\n<tr>\n<td>划词 base64 解码<img alt=\"base64\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/DX6d35H.png\" /></td>\n<td><img alt=\"其他\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/S9sWghL.png\" /></td>\n</tr>\n</tbody></table>",
+    "publish_time": "2023-04-28 13:42:17",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
