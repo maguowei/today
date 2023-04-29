@@ -262,5 +262,27 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Revealing example of self-attention, the building block of transformer AI models",
+    "url": "https://github.com/jostmey/NakedAttention",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35757802\">Comments</a>",
+    "publish_time": "2023-04-30 06:17:36",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: All GitHub repos shared on HN",
+    "url": "https://news.ycombinator.com/from?site=github.com",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35758031\">Comments</a>",
+    "publish_time": "2023-04-30 06:49:14",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
