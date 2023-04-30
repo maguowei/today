@@ -1238,5 +1238,100 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "曼联vs阿斯顿维拉",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9B%BC%E8%81%94vs%E9%98%BF%E6%96%AF%E9%A1%BF%E7%BB%B4%E6%8B%89%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "各位亲，能不能给我看看你们的兔兔？",
+    "url": "https://www.zhihu.com/question/438375860",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Function multi-versioning in GCC 6 (2016)",
+    "url": "https://lwn.net/Articles/691932/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35764212\">Comments</a>",
+    "publish_time": "2023-05-01 00:38:35",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "More people are getting away with murder. Unsolved killings reach a record high",
+    "url": "https://www.npr.org/2023/04/29/1172775448/people-murder-unsolved-killings-record-high",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35765921\">Comments</a>",
+    "publish_time": "2023-05-01 03:39:11",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "AI has hacked the operating system of human civilisation",
+    "url": "https://www.economist.com/by-invitation/2023/04/28/yuval-noah-harari-argues-that-ai-has-hacked-the-operating-system-of-human-civilisation",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35765373\">Comments</a>",
+    "publish_time": "2023-05-01 02:42:11",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: The pure Python SaaS starter kit",
+    "url": "https://pysaas.io",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35764635\">Comments</a>",
+    "publish_time": "2023-05-01 01:22:42",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The RISC Wars Part 1: The Cambrian Explosion",
+    "url": "https://thechipletter.substack.com/p/the-risc-wars-part-1-the-cambrian-c55",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35765177\">Comments</a>",
+    "publish_time": "2023-05-01 02:20:33",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Whisper.cpp v1.4.0",
+    "url": "https://github.com/ggerganov/whisper.cpp/releases/tag/v1.4.0",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35765882\">Comments</a>",
+    "publish_time": "2023-05-01 03:35:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Pure Sh Bible",
+    "url": "https://github.com/dylanaraps/pure-sh-bible",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35765707\">Comments</a>",
+    "publish_time": "2023-05-01 03:16:41",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
