@@ -64,5 +64,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "压力给到了前端这边： app 如何获取应用唯一标识？",
+    "url": "https://www.v2ex.com/t/936530",
+    "summary": "nathanleeinph: <p>通常一个设备的 udid 在目前移动端操作系统的限制下是无法真正识别用户的，比如应用卸载重装就会发生改变。</p>\n<p>但是最近发现市面上有些 app 能真正识别到一个设备。</p>\n<p>这个唯一标识不受应用卸载重装、网络状态改变、IP 地址改变、显示分辨率改变、禁止访问剪贴板、禁止获取定位、禁止获取 imei 信息等影响，始终能识别是初次安装的设备及注册的用户信息</p>\n<p>有人知道大概实现的原理吗？</p>",
+    "publish_time": "2023-04-30 08:34:14",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "有人使用 GraalVM 编译 SpringBoot 程序了吗？",
+    "url": "https://www.v2ex.com/t/936538",
+    "summary": "ThinkStu: OP 从去年开始关注 GraalVM 的发展，前天开始想把我之前写的一些小应用转为可执行的二进制文件，原因当然是服务器的内存不够用。  <br /><br />实测在 MacOS 系统上普通 SpringBoot 程序大约占用内存 200MB ，转为可执行文件后内存占用大约 30MB 。<br /><br />现在最大的问题是，GraalVM + image-native 这一套东西不支持跨端编译！也就是在 Mac 系统上编译出来的程序无法再 Linux 上直接运行。op 曾考虑过将代码转移到 Linux 服务器上进行编译，结果因为许多依赖问题，一直报错，前前后后折腾了两三天也没能想到好方法。🥲",
+    "publish_time": "2023-04-30 09:54:10",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "没有爱过！你爱过几次？",
+    "url": "https://www.v2ex.com/t/936549",
+    "summary": "love19888888888: <p>我一个同事，30 多岁，长得有一点点丑，单身，他说他一辈子还没有爱过，也不知道恋爱的滋味，更没拖过女孩子的手。。。。</p>\n<p>听说现在都是小学就开始谈恋爱的了，你们爱过几次？？？</p>",
+    "publish_time": "2023-04-30 10:56:53",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
