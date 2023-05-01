@@ -97,5 +97,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "HDR 电影的正确打开方式",
+    "url": "https://www.v2ex.com/t/936690",
+    "summary": "hubayi: <p>很多人在不支持 HDR 的设备上，观看 HDR 电影发现效果还不如 SDR 。\nwindows 平台下，很多人使用 potplayer 播放电影，而 potplayer 打开 HDR 电影，默认把 HDR 转 SDR ，而效果不佳，画面黑不溜秋的，还不如直接看 SDR 。而 windows 平台下正确的打开方式是 madvr ，效果几乎和 SDR 一样。\n安卓平台下，很多人使用 MXPLAYER ，而它和 potplayer 一样，默认 HDR 转 SDR 画面太黑了，目前找不到堪比 MADVR 的方案。\n还有很多人搭建 EMBY 服务器，而 EMBY 主打全平台使用，这就不得不讲到转码，EMBY 转码支持 HDR 转 SDR ，但和上述一样，画面太黑不如 SDR 。\n所有大家的最终解决方案是。。。。。</p>",
+    "publish_time": "2023-05-01 10:36:00",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
