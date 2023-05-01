@@ -9,5 +9,49 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "想找一个肉身国外的朋友，互通有无",
+    "url": "https://www.v2ex.com/t/936663",
+    "summary": "AlkaidHe: 坐标东北公网 ipv4/6 双桟，玩 linux<br />希望对方国外 ipv4/6 双桟，玩 linux<br /><br />你我互为节点，我是你回国线路，你是我出国线路。<br />纯技术无 hui 产，不谈政治，交朋友。<br />TG 好友<br />bas64：QWxrYWlkSGU=",
+    "publish_time": "2023-05-01 00:18:52",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "jQuery 流行的年代，是如何做后台管理系统的页面切换功能的？",
+    "url": "https://www.v2ex.com/t/936685",
+    "summary": "manyfreebug: <p>jQuery 流行的年代，是如何做后台管理系统的页面切换功能的？</p>\n<p>看了一些以前的“左侧侧边栏、右侧内容区域的结构”的项目，似乎有 3 种途径：</p>\n<pre><code>1 、借助 iframe\n    事件监听左侧侧边栏的菜单，当用户点击某个菜单项时，获取它的 href 属性值，并且将它赋值给右边内容区域的 iframe 元素的 src 属性，这样就可以实现内容页面的切换。\n    \n2 、借助 Ajax\n监听左侧侧边栏的点击事件，当用户点击某个菜单项时，使用 ajax 请求对应的内容页面，并将返回的数据替换右边内容区域的容器中\n    \n3 、不借助 js\n    直接把侧边栏的菜单写在每一个 html 页面里，如果需要菜单高亮，在每个 html 页面对应的菜单里添加.active 等\n</code></pre>\n<p>这三种方式在点击菜单时，都会网络请求对应的 html 页面，而现在的 vue 、react 等框架，是不需要的。</p>\n<p>有网络请求的情况下切换页面时观感上会没那么快，一般会用哪些手段提升体验。</p>",
+    "publish_time": "2023-05-01 10:07:01",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "什么值得买凉透了么",
+    "url": "https://www.v2ex.com/t/936711",
+    "summary": "yjim: <p>好久没上了，昨天刷了一下全是纯帖子 已经一个评论都没有了，连显示‘值%’的地方都是‘--’，没有人投票了</p>",
+    "publish_time": "2023-05-01 13:19:48",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "现在国内消费水平这么高了吗？",
+    "url": "https://www.v2ex.com/t/936713",
+    "summary": "LxExExl: <p>楼主作为土人一个，和老婆回国玩一个月。第一站在北京中转，我老婆说想买衣服，就来大悦城逛。</p>\n<p>首先我们觉得款式都很好，样式也很新颖。\n其次我咋觉得这么贵呢？</p>\n<p>一件短袖大几百，裙子一千，连衣裙快 2000 ？</p>\n<p>就算换成美元，在三番 /西雅图 mall 里面买我也觉得挺贵了？</p>\n<p>是五年没回国，我变土了吗？\n如果按这个节奏，一个月买 2 件，2000 。一年光买衣服就花 2 万多？</p>\n<p>还是我们去的地方不对，溢价太高？</p>\n<p>当然我知道老婆愿意，我没啥说的，所以我就来 v2 问问，是不是我该更新观念了。</p>",
+    "publish_time": "2023-05-01 13:47:06",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
