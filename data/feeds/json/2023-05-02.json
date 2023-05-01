@@ -1336,5 +1336,63 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "好日子都是靠奋斗来的",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%BD%E6%97%A5%E5%AD%90%E9%83%BD%E6%98%AF%E9%9D%A0%E5%A5%8B%E6%96%97%E6%9D%A5%E7%9A%84%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "歌剧演员四重唱一开口就是青春的模样",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%AD%8C%E5%89%A7%E6%BC%94%E5%91%98%E5%9B%9B%E9%87%8D%E5%94%B1%E4%B8%80%E5%BC%80%E5%8F%A3%E5%B0%B1%E6%98%AF%E9%9D%92%E6%98%A5%E7%9A%84%E6%A8%A1%E6%A0%B7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "周深唱向光而行又暖又燃",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%94%B1%E5%90%91%E5%85%89%E8%80%8C%E8%A1%8C%E5%8F%88%E6%9A%96%E5%8F%88%E7%87%83%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "年轻时是挣钱重要还是舒服重要?",
+    "url": "https://www.zhihu.com/question/595109955",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Agave (YC W22) is hiring a founding engineer to work on our construction API",
+    "url": "https://news.ycombinator.com/item?id=35775687",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35775687\">Comments</a>",
+    "publish_time": "2023-05-02 01:00:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "You and Your Research (1986)",
+    "url": "https://www.cs.virginia.edu/~robins/YouAndYourResearch.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35776480\">Comments</a>",
+    "publish_time": "2023-05-02 01:47:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
