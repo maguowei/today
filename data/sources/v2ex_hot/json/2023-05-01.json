@@ -75,5 +75,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "领导无脑 ssr、ssg",
+    "url": "https://www.v2ex.com/t/936720",
+    "summary": "rozbo: <p>最近领导沉迷上了 next.js 。我懂一个情节，就是刚学会某项技能，总是想把它用在方方面面，比如他这次想在中台上用 ssr ，理由是 next.js 生态很好，使用方便，基础设施，（尤其是 next auth ）能节省很多时间。</p>\n<p>我的看法是，ssr 、ssg 这类技术对于现代网站(中古 seo)除外，简直是本末倒置，彷佛 csr 一文不值，而忽略了 csr 的许多优势</p>\n<ul>\n<li>页面切换速度，（ csr 切换页面时，只需要向服务端请求一个短短的 api ，整体速度迅速且流畅，而且消耗的带宽很小）</li>\n<li>而 ssr 、ssg 每次切换页面，都要重新拉取完整的页面，ssr 甚至都重新计算，速度和带宽占用都不如 csr 表现出色。</li>\n<li>ssr 、ssg 的 css 问题，如果使用了 css-in-js 这类的 ui 框架，那就更惨了，如果不进行 css 预提取，那将导致客户端闪屏(css 由 js 计算，而 js 异步加载，页面在 js 加载完毕后会闪动一下以应用新的 css 样式)，如果进行的 css 的提前烘培，则客户端会拉取双倍的 css(即拉取的预烘培的 css ，以及后续 js 里的 css)。</li>\n</ul>\n<p>我实在不理解为什么还有人鼓吹 ssr 和 ssg 的性能，难道仅仅就是把 js 的一部分执行时间放在服务器上，性能就变好了？是服务端的性能好了，还是客户端的性能好了。。这中间导致的 FOUC 、css double 、page reload 以及带宽带来的损失，又该向谁说理去</p>",
+    "publish_time": "2023-05-01 14:41:19",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "为啥 js 语言里面 那么喜欢嵌套，匿名",
+    "url": "https://www.v2ex.com/t/936734",
+    "summary": "yagamil: <p>作为一个后端，算法的开发者，平时会写点简单的页面。</p>\n<p>不过看着 js,vue 的一些语法，感觉可读性非常差，函数喜欢用匿名的，在一个函数传参里面，把函数作为参数传入，导致的是，这个函数的参数 入参 非常冗长，不用 IDE ，根本不清楚这个匿名函数在哪里结束，因为里面可能还嵌套里其他参数。</p>\n<p>好好定义一个函数名，设置一个好的名称，好好写，不行么？</p>\n<p>还有链式调用有点泛滥。</p>\n<p>这样做的原因是做什么？</p>",
+    "publish_time": "2023-05-01 16:34:42",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
