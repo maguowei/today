@@ -1315,5 +1315,96 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "戴燕妮红衣造型",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%B4%E7%87%95%E5%A6%AE%E7%BA%A2%E8%A1%A3%E9%80%A0%E5%9E%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "五一",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%80%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "严浩翔H舞台",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94H%E8%88%9E%E5%8F%B0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "立陶宛总统称「俄乌冲突结束前，乌克兰无法加入北约」，如何解读其表态？",
+    "url": "https://www.zhihu.com/question/598619777",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "NYPD urges citizens to buy AirTags to fight surge in car thefts",
+    "url": "https://arstechnica.com/gadgets/2023/05/nypd-urges-citizens-to-buy-airtags-to-fight-surge-in-car-thefts/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35791947\">Comments</a>",
+    "publish_time": "2023-05-03 02:19:05",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Org-assistant.el – Org Babel extension for Chat Assistant APIs",
+    "url": "https://github.com/tyler-dodge/org-assistant",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35790132\">Comments</a>",
+    "publish_time": "2023-05-03 00:31:56",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Jsonformer: A bulletproof way to generate structured output from LLMs",
+    "url": "https://github.com/1rgs/jsonformer",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35790092\">Comments</a>",
+    "publish_time": "2023-05-03 00:29:36",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Borges and $: The Parable of the Literary Master and the Coin (2016)",
+    "url": "https://longreads.com/2016/06/14/borges-and-money/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35790758\">Comments</a>",
+    "publish_time": "2023-05-03 01:05:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How to Reduce Stress and Overcome Anxiety as a Software Developer",
+    "url": "https://andreizgirvaci.com/blog/how-to-reduce-stress-and-overcome-anxiety-as-a-software-developer",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35790647\">Comments</a>",
+    "publish_time": "2023-05-03 00:58:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
