@@ -42,5 +42,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "AI 热下被忽视的编程语言",
+    "url": "https://www.v2ex.com/t/936806",
+    "summary": "dayeye2006199: <p>最近观察 AI 热下的一些项目使用的编程语言趋势。\n第一大语言不用说自然是 python ，langchain, autogpt 之流都是 python 写的。\n还有一大类就是 c++，几个模型推理的硬核项目</p>\n<ul>\n<li><a href=\"https://github.com/ggerganov/whisper.cpp\" rel=\"nofollow\">https://github.com/ggerganov/whisper.cpp</a> （ ASR ）</li>\n<li><a href=\"https://github.com/ggerganov/llama.cpp\" rel=\"nofollow\">https://github.com/ggerganov/llama.cpp</a> （ LLM ）\n还有一些浏览器模型部署（涉及 ASM ），都走了 C++这条路子。</li>\n</ul>\n<p>自己有时候进去这些 repo 想看看是怎么弄的，无奈和个傻子似的看不懂 C++，也不太熟悉工具链，想要从头编译，直挠头。</p>\n<p>这波 AI 潮下，会 C++我觉得算是一个优势</p>",
+    "publish_time": "2023-05-02 06:20:45",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
