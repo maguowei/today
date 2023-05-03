@@ -1147,5 +1147,85 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "让青春鲜活一场",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%AE%A9%E9%9D%92%E6%98%A5%E9%B2%9C%E6%B4%BB%E4%B8%80%E5%9C%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "通往群星的轨道",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%80%9A%E5%BE%80%E7%BE%A4%E6%98%9F%E7%9A%84%E8%BD%A8%E9%81%93%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "广东最有排面的一道菜",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%9C%80%E6%9C%89%E6%8E%92%E9%9D%A2%E7%9A%84%E4%B8%80%E9%81%93%E8%8F%9C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "电影《人生路不熟》，你对该影片有哪些评价？",
+    "url": "https://www.zhihu.com/question/598114943",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "25% of jobs set to be disrupted in the next 5 years – A.I. could play a key role",
+    "url": "https://www.cnbc.com/2023/05/02/nearly-25percent-of-jobs-are-set-to-be-disrupted-in-the-next-five-years-wef.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35804808\">Comments</a>",
+    "publish_time": "2023-05-04 01:02:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Three failed US banks had one thing in common: KPMG",
+    "url": "https://www.ft.com/content/feb33914-493e-467c-b67e-28fcd1b3814d",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35804759\">Comments</a>",
+    "publish_time": "2023-05-04 00:59:07",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Steve Jobs and the Usable Computer (6 October 2011 by Tim Berners-Lee)",
+    "url": "https://www.w3.org/blog/2011/10/steve-jobs/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35804721\">Comments</a>",
+    "publish_time": "2023-05-04 00:57:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How Does an FPGA Work?",
+    "url": "https://learn.sparkfun.com/tutorials/how-does-an-fpga-work/all",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35804935\">Comments</a>",
+    "publish_time": "2023-05-04 01:11:47",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]

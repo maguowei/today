@@ -601,5 +601,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "让青春鲜活一场",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%AE%A9%E9%9D%92%E6%98%A5%E9%B2%9C%E6%B4%BB%E4%B8%80%E5%9C%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "通往群星的轨道",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%80%9A%E5%BE%80%E7%BE%A4%E6%98%9F%E7%9A%84%E8%BD%A8%E9%81%93%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "广东最有排面的一道菜",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%9C%80%E6%9C%89%E6%8E%92%E9%9D%A2%E7%9A%84%E4%B8%80%E9%81%93%E8%8F%9C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
