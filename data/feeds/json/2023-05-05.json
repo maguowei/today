@@ -1338,5 +1338,45 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "男子头疼自己在家针灸扎破心脏",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%A4%B4%E7%96%BC%E8%87%AA%E5%B7%B1%E5%9C%A8%E5%AE%B6%E9%92%88%E7%81%B8%E6%89%8E%E7%A0%B4%E5%BF%83%E8%84%8F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "杭州西湖水域不允许擅自下水",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E8%A5%BF%E6%B9%96%E6%B0%B4%E5%9F%9F%E4%B8%8D%E5%85%81%E8%AE%B8%E6%93%85%E8%87%AA%E4%B8%8B%E6%B0%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Fixing Hallucination with Knowledge Bases",
+    "url": "https://www.pinecone.io/learn/langchain-retrieval-augmentation/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35821695\">Comments</a>",
+    "publish_time": "2023-05-05 04:34:40",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Googlers angry about CEO’s $226M pay after cuts in perks and 12,000 layoffs",
+    "url": "https://arstechnica.com/tech-policy/2023/05/googlers-angry-about-ceos-226m-pay-after-cuts-in-perks-and-12000-layoffs/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35821927\">Comments</a>",
+    "publish_time": "2023-05-05 04:54:42",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
