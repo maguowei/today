@@ -938,5 +938,88 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "美妆博主都囤TA",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%A6%86%E5%8D%9A%E4%B8%BB%E9%83%BD%E5%9B%A4TA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "请撕下插队婆孙表情包",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%AF%B7%E6%92%95%E4%B8%8B%E6%8F%92%E9%98%9F%E5%A9%86%E5%AD%99%E8%A1%A8%E6%83%85%E5%8C%85%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "男子被流浪狗咬伤后踩死4只幼崽",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E6%B5%81%E6%B5%AA%E7%8B%97%E5%92%AC%E4%BC%A4%E5%90%8E%E8%B8%A9%E6%AD%BB4%E5%8F%AA%E5%B9%BC%E5%B4%BD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "蔡依林被问到新专辑的表情",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%94%A1%E4%BE%9D%E6%9E%97%E8%A2%AB%E9%97%AE%E5%88%B0%E6%96%B0%E4%B8%93%E8%BE%91%E7%9A%84%E8%A1%A8%E6%83%85%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何评价漫威电影《银河护卫队 3》？",
+    "url": "https://www.zhihu.com/question/594328175",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何处理不舒服的同事关系？",
+    "url": "https://www.zhihu.com/question/48131824",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "对于刚参加工作的大学生来说，哪些数码装备是必备之选？",
+    "url": "https://www.zhihu.com/question/597444858",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "成年之后，性格还可以改变吗？",
+    "url": "https://www.zhihu.com/question/269167656",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Replit (YC W18) Is Hiring Engineers and Designers",
+    "url": "https://replit.com/careers",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35818616\">Comments</a>",
+    "publish_time": "2023-05-05 01:00:47",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
