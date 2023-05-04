@@ -1262,5 +1262,81 @@
       "desc": "人民日报公众号",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
     }
+  },
+  {
+    "title": "人和香蕉的基因有50%相似",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%92%8C%E9%A6%99%E8%95%89%E7%9A%84%E5%9F%BA%E5%9B%A0%E6%9C%8950%25%E7%9B%B8%E4%BC%BC%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "韩总统称要懂得对美国感恩",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E6%80%BB%E7%BB%9F%E7%A7%B0%E8%A6%81%E6%87%82%E5%BE%97%E5%AF%B9%E7%BE%8E%E5%9B%BD%E6%84%9F%E6%81%A9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "你在周末的哪些习惯和爱好，会觉得自己「童心未泯」？",
+    "url": "https://www.zhihu.com/question/594792133",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么《黑豹2》中瓦甘达科技那么发达了大部分士兵还在使用冷兵器？",
+    "url": "https://www.zhihu.com/question/583342136",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何看待 Modular 提出的 mojo 语言？",
+    "url": "https://www.zhihu.com/question/598832787",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "工作不方便用电脑，入手折叠屏会是最优解吗？最近发布的 vivo X Fold2 合适吗？",
+    "url": "https://www.zhihu.com/question/598973257",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Apple reports Q2 2023 results",
+    "url": "https://www.apple.com/newsroom/2023/05/apple-reports-second-quarter-results/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35821864\">Comments</a>",
+    "publish_time": "2023-05-05 04:50:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "America’s first high-volume ‘PFAS Annihilator’ is up and running in W. Michigan",
+    "url": "https://www.woodtv.com/news/kent-county/americas-first-high-volume-pfas-annihilator-is-up-and-running-in-west-michigan/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35821128\">Comments</a>",
+    "publish_time": "2023-05-05 03:47:56",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
