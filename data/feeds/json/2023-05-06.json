@@ -1527,5 +1527,96 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "大熊猫萌兰用新玩具越狱又失败了",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E8%90%8C%E5%85%B0%E7%94%A8%E6%96%B0%E7%8E%A9%E5%85%B7%E8%B6%8A%E7%8B%B1%E5%8F%88%E5%A4%B1%E8%B4%A5%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "瓦格纳",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "梅西发布视频道歉：本以为比赛后有休息日，向队友和俱乐部道歉并等待处理，如何看待此事的发展？",
+    "url": "https://www.zhihu.com/question/599327462",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "你们都是怎么拥有的小猫咪啊？",
+    "url": "https://www.zhihu.com/question/439341620",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Bluesky&#x27;s AT Protocol - Federation Architecture Overview",
+    "url": "https://blueskyweb.xyz/blog/5-5-2023-federation-architecture",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35834106\">Comments</a>",
+    "publish_time": "2023-05-06 03:33:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Hard feelings over mission change for NASA’s Pluto spacecraft",
+    "url": "https://www.nature.com/articles/d41586-023-01530-y",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35833073\">Comments</a>",
+    "publish_time": "2023-05-06 02:12:05",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "At Musk’s brain-chip startup, animal-testing panel is rife with conflicts",
+    "url": "https://www.reuters.com/technology/musks-brain-chip-startup-animal-testing-panel-is-rife-with-potential-conflicts-2023-05-04/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35834918\">Comments</a>",
+    "publish_time": "2023-05-06 04:43:37",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Dump these insecure phone adapters because we&#x27;re not fixing them, says Cisco",
+    "url": "https://www.theregister.com/2023/05/05/cisco_phone_adapter_vulnerabilitty/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35835240\">Comments</a>",
+    "publish_time": "2023-05-06 05:16:18",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "eBay’s Fast Billion-Scale Vector Similarity Engine",
+    "url": "https://tech.ebayinc.com/engineering/ebays-blazingly-fast-billion-scale-vector-similarity-engine/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35835059\">Comments</a>",
+    "publish_time": "2023-05-06 04:56:11",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]

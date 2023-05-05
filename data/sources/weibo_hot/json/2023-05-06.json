@@ -628,5 +628,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "大熊猫萌兰用新玩具越狱又失败了",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E8%90%8C%E5%85%B0%E7%94%A8%E6%96%B0%E7%8E%A9%E5%85%B7%E8%B6%8A%E7%8B%B1%E5%8F%88%E5%A4%B1%E8%B4%A5%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "瓦格纳",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
