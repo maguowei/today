@@ -1382,5 +1382,54 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "年轻人的第一桶金怎么来的",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E7%AC%AC%E4%B8%80%E6%A1%B6%E9%87%91%E6%80%8E%E4%B9%88%E6%9D%A5%E7%9A%84%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "白宫官员回应「一些国家正放弃使用美元，是否有对策」，称「对此没有一个好的答案」，这透露出哪些信息？",
+    "url": "https://www.zhihu.com/question/599201029",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "22-23 赛季 NBA 西部半决赛湖勇大战，两队会拼到抢 7 大战吗？",
+    "url": "https://www.zhihu.com/question/598795291",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "US crypto mining used more power last year than all the computers",
+    "url": "https://www.pcgamer.com/so-youre-telling-me-that-us-crypto-mining-used-more-power-last-year-than-all-the-computers/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35833700\">Comments</a>",
+    "publish_time": "2023-05-06 02:57:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The core problem with hamburger menus",
+    "url": "https://bt.ht/hamburgers/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35833163\">Comments</a>",
+    "publish_time": "2023-05-06 02:18:41",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
