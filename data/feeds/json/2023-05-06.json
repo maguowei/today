@@ -1329,5 +1329,58 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "龚琳娜妈宝女",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%BE%9A%E7%90%B3%E5%A8%9C%E5%A6%88%E5%AE%9D%E5%A5%B3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "OpenAI ignored the ‘have a problem to solve’ rule, says president Greg Brockman",
+    "url": "https://fortune.com/2023/05/04/openai-success-chatgpt-business-technology-rule-greg-brockman/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35832540\">Comments</a>",
+    "publish_time": "2023-05-06 01:34:40",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Stop Using Hamburger Menus",
+    "url": "https://bt.ht/hamburgers/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35833163\">Comments</a>",
+    "publish_time": "2023-05-06 02:18:41",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Google co-founder Larry Page subpoena in Jeffrey Epstein case",
+    "url": "https://www.cnbc.com/2023/05/04/google-co-founder-larry-page-can-get-jeffrey-epstein-case-service.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35833060\">Comments</a>",
+    "publish_time": "2023-05-06 02:11:22",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Unlimiformer: Long-Range Transformers with Unlimited Length Input",
+    "url": "https://arxiv.org/abs/2305.01625",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35832802\">Comments</a>",
+    "publish_time": "2023-05-06 01:53:50",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
