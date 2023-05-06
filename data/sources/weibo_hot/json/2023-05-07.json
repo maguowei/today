@@ -682,5 +682,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "周深白鹿友情",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E7%99%BD%E9%B9%BF%E5%8F%8B%E6%83%85%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "一只不爱睡觉的熊猫",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%8F%AA%E4%B8%8D%E7%88%B1%E7%9D%A1%E8%A7%89%E7%9A%84%E7%86%8A%E7%8C%AB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "巴厘岛情侣",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%8E%98%E5%B2%9B%E6%83%85%E4%BE%A3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
