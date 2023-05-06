@@ -1370,5 +1370,74 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "魏大勋在最不该做好人的时候做好人",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%9C%A8%E6%9C%80%E4%B8%8D%E8%AF%A5%E5%81%9A%E5%A5%BD%E4%BA%BA%E7%9A%84%E6%97%B6%E5%80%99%E5%81%9A%E5%A5%BD%E4%BA%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "你好星期六",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "中国「从 0 到 1」的原始创新实力已经实现了怎样的跃升？科研人正为此做着哪些努力？",
+    "url": "https://www.zhihu.com/question/597257399",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为何多地开始解禁路边摊？「淄博模式」带来了哪些思考？是否可以在其他城市复用？",
+    "url": "https://www.zhihu.com/question/599411897",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Language Learning with Netflix",
+    "url": "https://languagelearningwithnetflix.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35843639\">Comments</a>",
+    "publish_time": "2023-05-07 01:46:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Progress on running Haiku OS on VisionFive 2 RISC-V dev board",
+    "url": "https://discuss.haiku-os.org/t/progress-on-running-haiku-on-visionfive-2/13369?page=2",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35843775\">Comments</a>",
+    "publish_time": "2023-05-07 02:04:16",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Intel OEM Private Key Leak: A Blow to UEFI Secure Boot Security",
+    "url": "https://securityonline.info/intel-oem-private-key-leak-a-blow-to-uefi-secure-boot-security/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35843566\">Comments</a>",
+    "publish_time": "2023-05-07 01:39:14",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
