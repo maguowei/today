@@ -1347,5 +1347,45 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "李佳琦跨国探秘",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E8%B7%A8%E5%9B%BD%E6%8E%A2%E7%A7%98%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "校方回应男生被老师丈夫刺伤",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E7%94%9F%E8%A2%AB%E8%80%81%E5%B8%88%E4%B8%88%E5%A4%AB%E5%88%BA%E4%BC%A4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Five Books: The best books on everything",
+    "url": "https://fivebooks.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35853131\">Comments</a>",
+    "publish_time": "2023-05-08 00:33:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The first planetarium projector was unveiled 100 years ago",
+    "url": "https://planetarium100.org/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35853588\">Comments</a>",
+    "publish_time": "2023-05-08 01:24:42",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
