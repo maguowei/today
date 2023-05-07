@@ -31,5 +31,49 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "想为即将出生的娃搞个 nas 存照片，直接上群晖 DS923+是否有必要？",
+    "url": "https://www.v2ex.com/t/937975",
+    "summary": "yswape:",
+    "publish_time": "2023-05-07 05:29:25",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "“国产化” 大家选择什么数据库？人大金仓？",
+    "url": "https://www.v2ex.com/t/937986",
+    "summary": "idragonet: <p>有免费的“国产”数据库推荐吗？</p>",
+    "publish_time": "2023-05-07 09:14:51",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "window 云服务器如何防止被黑被勒索",
+    "url": "https://www.v2ex.com/t/937991",
+    "summary": "tohert: 我写 c#的，用的 window 服务器，部署到 iis 上，数据库用的 sqlserver 。现在服务器的远程端口 3389 和数据库端口 1433 我都改了，没有用默认的了。 然后打开了 window 的安全中心。没有做其他的设置了。<br /><br />最近在事件查看器里面查看，总有不同的 ip 尝试登录 sqlserver （事件 id：18456 ）和远程连接(事件 id：4625)，我不知道怎么去防范和禁止这些行为，云服务器的防火墙我只设置了几个特定端口。<br /><br />现在每天都要进服务器看下，生怕被黑了被勒索。 年初的时候服务器开的默认端口就被黑过 。。。",
+    "publish_time": "2023-05-07 10:30:10",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "国内大部分网站都刷不下去了，都是高强度地喷/团建，越看越闹心。",
+    "url": "https://www.v2ex.com/t/938022",
+    "summary": "stark123: <p>国内网站，尤其是文字类型的网站，比如知乎微博，现在好好说话、有效输出的少，高强度地喷 /团建的很多。</p>\n<p>比如下面这个话题，一水地团建 /反团建，有价值的回答没几个。\n歼-20 已经入空军序列 6 周年，这 6 年来，你觉得最令你难忘的是什么？ - 知乎: <a href=\"https://www.zhihu.com/question/588450473\" rel=\"nofollow\">https://www.zhihu.com/question/588450473</a></p>\n<p>微博上呢，煽动男女对立情绪的非常多</p>\n<p>B 站稍微好点，毕竟知乎微博会打字就行，制作视频就很费劲，但 B 站的评论区 /弹幕的质量也开始有这种趋势。</p>\n<p>真的是看不下去了，越看越闹心。</p>",
+    "publish_time": "2023-05-07 13:37:17",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
