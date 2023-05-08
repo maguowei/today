@@ -9,5 +9,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "Swift 5.8新特性预览：支持函数向后部署",
+    "url": "https://www.infoq.cn/article/QAEbWTtfJg0IUUKs7tcg",
+    "summary": "<p><a href=\"https://www.swift.org/blog/swift-5.8-released/\">Swift的最新版本</a>\"支持即将到来的新特性，让开发人员可以开始使用将在Swift 6中变成稳定版本的特性。此外，它还提供了一种方法，让开发人员可以在早期操作系统中使用新功能。</p><p>&nbsp;</p><p>Swift 5.8之所以支持即将到来的语言特性，主要是为了让开发人员可以开始为程序迁移做准备。Swift团队成员Alexander Sandberg说，考虑到Swift 6的许多特性造成了某种程度的源代码不兼容，这一点尤其重要。此外，支持新特性还可以帮助苹果收集早期用户的反馈。</p><p>&nbsp;</p><p>新的编译器标志-enable- coming-feature X可以控制是否启用对即将到来的特性的支持，其中X是要启用的特性。目前，在Swift 5.8中，有4个即将到来的特性可以选择性地启用：<a href=\"https://github.com/apple/swift-evolution/blob/main/proposals/0274-magic-file.md\">简略魔法文件名</a>\"、尾随闭包前向扫描匹配、<a href=\"https://github.com/apple/swift-evolution/blob/main/proposals/0335-existential-any.md\">存在类型any</a>\"，以及<a href=\"https://github.com/apple/swift-evolution/blob/main/proposals/0354-regex-literals.md\">正则表达式字面量</a>\"。</p><p>&nbsp;</p><p>在使用即将到来的特性之前，可以使用新增的#if 检查确保它确实可用：#if hasFeature(ImplicitOpenExistentials)。需要的时候，可以将它与compiler(&gt;=x.y) 检查一起使用。</p><p>&nbsp;</p><p>Swift 5.8还引入了对@backDeployed属性的支持，目的是为了方便开发人员将新功能向后移植到框架的旧版本。例如，可以通过扩展添加新功能，并使用众所周知的@available和新增的@backDeployed属性进行注解：</p><p><code lang=\"swift\">extension FrameworkAPI {\n  @available(FrameworkAPIVersion 1.0, *)\n  @backDeployed(before: FrameworkAPIVersion 2.0)\n  public func newCapability(...) -&gt; ResultType { ... }\n}</code></p><p>&nbsp;</p><p>在所提供的示例中，newCapability函数仅在FrameworkAPI的2.0版本中有原生支持，但是使用@backDeployed属性，开发人员可以提供该功能的实现，并注入到框架的先前版本中。</p><p>&nbsp;</p><p>这个新特性旨在方便开发人员创建弹性库，并且只能应用于函数、方法、下标和计算属性。例如，这种机制不支持新类型。此外，向后部署的函数体必须遵守与@inlinable函数相同的限制，例如，它们只能引用客户端可访问的声明，如public和@usableFromInline声明。</p><p>&nbsp;</p><p>Swift 5.8带来的另一项重大变化修改结果构建器实现，改进了它的编译时性能、代码补全结果和诊断。具体来说，新实现利用了Swift 5.7的<a href=\"https://github.com/apple/swift-evolution/blob/main/proposals/0326-extending-multi-statement-closure-inference.md\">扩展多语句闭包推断</a>\"，优化了编译器类型推断和错误消息。特别是，它<a href=\"https://github.com/apple/swift-evolution/blob/main/proposals/0373-vars-without-limits-in-result-builders.md\">移除</a>\"了在结果构建器中声明局部变量的几个限制，例如需要有初始化器，而且没有提供对计算变量、观察器和属性封装器的支持。</p><p>&nbsp;</p><p>Swift 5.8还带来了很多变化，要了解完整细节，请查阅官方公告。</p><p>&nbsp;</p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2023/04/swift-5-8-released/\">https://www.infoq.com/news/2023/04/swift-5-8-released/</a>\"</p><p></p><p>相关阅读：</p><p><a href=\"https://www.infoq.cn/article/AHUamwkJ3fqljoliPKHa\">苹果现已支持&nbsp;Swift&nbsp;包索引</a>\"</p><p><a href=\"https://xie.infoq.cn/article/e6e0811181133d4895e2041ac\">Rust、Go&nbsp;和&nbsp;Swift&nbsp;在性能和并发性方面有何差异？</a>\"</p><p><a href=\"https://www.infoq.cn/article/fm6b2sg8QHUrDS6GhK48\">Swift&nbsp;2023：所有权、宏和 C++ 互操作</a>\"</p>",
+    "publish_time": "2023-05-08 09:45:39",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
