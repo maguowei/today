@@ -691,5 +691,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "和易烊千玺奇妙出发",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%92%8C%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%A5%87%E5%A6%99%E5%87%BA%E5%8F%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "大熊猫竟然可以抱膝坐",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E7%AB%9F%E7%84%B6%E5%8F%AF%E4%BB%A5%E6%8A%B1%E8%86%9D%E5%9D%90%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "赵露思后浪剧组氛围大师",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%90%8E%E6%B5%AA%E5%89%A7%E7%BB%84%E6%B0%9B%E5%9B%B4%E5%A4%A7%E5%B8%88%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]

@@ -1597,5 +1597,118 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "和易烊千玺奇妙出发",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%92%8C%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%A5%87%E5%A6%99%E5%87%BA%E5%8F%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "大熊猫竟然可以抱膝坐",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E7%AB%9F%E7%84%B6%E5%8F%AF%E4%BB%A5%E6%8A%B1%E8%86%9D%E5%9D%90%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "赵露思后浪剧组氛围大师",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%90%8E%E6%B5%AA%E5%89%A7%E7%BB%84%E6%B0%9B%E5%9B%B4%E5%A4%A7%E5%B8%88%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "22-23 赛季欧冠皇家马德里 1:1 曼城，如何评价这场比赛？",
+    "url": "https://www.zhihu.com/question/600070883",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Pain points of teaching computer science",
+    "url": "https://austinhenley.com/blog/teachingpainpoints.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35879409\">Comments</a>",
+    "publish_time": "2023-05-10 03:40:16",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Segment anything and Stable Diffusion showcase app",
+    "url": "https://www.editanything.ai",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35880700\">Comments</a>",
+    "publish_time": "2023-05-10 05:36:37",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Spotify-Qt",
+    "url": "https://github.com/kraxarn/spotify-qt",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35880376\">Comments</a>",
+    "publish_time": "2023-05-10 05:04:44",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The AT protocol is the most obtuse crock of s*",
+    "url": "https://urbanists.social/@sam/110339902538138997",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35881170\">Comments</a>",
+    "publish_time": "2023-05-10 06:28:44",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Apple just lost its lawsuit trying to ban iOS virtual machines",
+    "url": "https://www.techradar.com/news/apple-just-lost-its-lawsuit-trying-to-ban-ios-virtual-machines",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35880466\">Comments</a>",
+    "publish_time": "2023-05-10 05:14:13",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Twenty Years of Blogging",
+    "url": "https://eli.thegreenplace.net/2023/twenty-years-of-blogging/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35880517\">Comments</a>",
+    "publish_time": "2023-05-10 05:18:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The last days of a 350-year-old family farm",
+    "url": "https://www.smithsonianmag.com/arts-culture/these-intimate-photos-capture-a-family-farms-bittersweet-final-years-180982139/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35880997\">Comments</a>",
+    "publish_time": "2023-05-10 06:08:13",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
