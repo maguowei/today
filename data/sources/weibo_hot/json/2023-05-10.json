@@ -655,5 +655,14 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "你有点肆意了",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%9C%89%E7%82%B9%E8%82%86%E6%84%8F%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
