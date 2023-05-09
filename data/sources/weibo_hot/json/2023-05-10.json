@@ -628,5 +628,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "淘宝20岁啦",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B7%98%E5%AE%9D20%E5%B2%81%E5%95%A6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "我们身上的故事",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E8%BA%AB%E4%B8%8A%E7%9A%84%E6%95%85%E4%BA%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "周杰伦演唱会男孩仰头大睡",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E7%94%B7%E5%AD%A9%E4%BB%B0%E5%A4%B4%E5%A4%A7%E7%9D%A1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]

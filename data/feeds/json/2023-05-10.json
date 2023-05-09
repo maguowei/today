@@ -1293,5 +1293,96 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "淘宝20岁啦",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B7%98%E5%AE%9D20%E5%B2%81%E5%95%A6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "我们身上的故事",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E8%BA%AB%E4%B8%8A%E7%9A%84%E6%95%85%E4%BA%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "周杰伦演唱会男孩仰头大睡",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E7%94%B7%E5%AD%A9%E4%BB%B0%E5%A4%B4%E5%A4%A7%E7%9D%A1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "报道称巴基斯坦前总理伊姆兰·汗被捕，哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/599987027",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Chaos Communication Camp 2023 – Call for Participation",
+    "url": "https://events.ccc.de/2023/05/09/camp23-call-for-participation/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35878998\">Comments</a>",
+    "publish_time": "2023-05-10 03:08:48",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Card game where players write their own cards that get parsed into code",
+    "url": "https://app.wordbots.io/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35879278\">Comments</a>",
+    "publish_time": "2023-05-10 03:31:00",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "In Erlang&#x2f;OTP 27, +0.0 will no longer be equal to -0.0",
+    "url": "https://erlangforums.com/t/in-erlang-otp-27-0-0-will-no-longer-be-exactly-equal-to-0-0/2586",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35879628\">Comments</a>",
+    "publish_time": "2023-05-10 03:58:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Is sequential IO dead in the era of the NVMe drive?",
+    "url": "https://jack-vanlightly.com/blog/2023/5/9/is-sequential-io-dead-in-the-era-of-the-nvme-drive",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35878961\">Comments</a>",
+    "publish_time": "2023-05-10 03:05:48",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Syncthing: A continuous file synchronization program",
+    "url": "https://syncthing.net/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=35879039\">Comments</a>",
+    "publish_time": "2023-05-10 03:12:00",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
