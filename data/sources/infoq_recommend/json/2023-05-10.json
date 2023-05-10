@@ -9,5 +9,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "新型数据库技术交流，就在QCon全球软件开发大会",
+    "url": "https://www.infoq.cn/article/MTipgwYIlIb7AYsRgIOz",
+    "summary": "<p>近些年来，数据库领域飞速发展，涌现了云数据库、分布式数据库等多种新型数据库。</p><p>&nbsp;</p><p>在5月26-27日，QCon全球软件开发大会（广州站）即将落地，我们策划了【<a href=\"https://qcon.infoq.cn/2023/guangzhou/track/1516\">新型数据库</a>\"】专题，邀请了Datafuse Labs 联合创始人张雁飞、Greptime联合创始人庄晓丹共同联合出品，与此同时，我们很荣幸邀请到了以下四位分享嘉宾：</p><p>&nbsp;</p><p><a href=\"https://qcon.infoq.cn/2023/guangzhou/presentation/5259\">冯家纯</a>\"，Greptime 联合创始人，他先后在阿里巴巴，蚂蚁集团工作多年，长期从事中间件、时序数据库产品研发，曾负责蚂蚁集团统一监控存储层，对时序存储相关技术有丰富的实践经验。他将为我们带来题为《云原生时序数据库的挑战和架构设计》的演讲。他将分享在实现 GreptimeDB 这个分布式、云原生的时序数据库过程中所面临的挑战，并给出他们的设计选择和背后的思考。</p><p>&nbsp;</p><p><a href=\"https://qcon.infoq.cn/2023/guangzhou/presentation/5260\">游致远</a>\"，字节跳动 ByteHouse 资深研发工程师，拥有多年大数据计算引擎、分布式系统相关研发经历。将为我们带来题为《ByConity：基于云原生架构的开源实时数仓系统》的演讲。他将介绍 ByConity 的整体架构和核心功能，并结合字节内部的应用案例，阐述实时数仓面对的主要挑战和解决方案。</p><p>&nbsp;</p><p><a href=\"https://qcon.infoq.cn/2023/guangzhou/presentation/5257\">张雁飞</a>\"，Datafuse Labs 联合创始人，将为我们带来题为《Databend: Chat with Your Data Using AI》的演讲。他将探讨云数仓与大模型（LLMs）中有哪些融合点，并分享如何基于自有数据集开发一个类 ChatGPT 的智能问答/搜索系统。</p><p>&nbsp;</p><p><a href=\"https://qcon.infoq.cn/2023/guangzhou/presentation/5268\">刘达</a>\"，蚂蚁集团高级开发工程师，曾任职于 IBM CSL 存储部。先后参与过 IBM Storwize、阿里云 PoV 等存储产品的研发，目前主要在蚂蚁集团参与 AntKV 的研发以及性能调优工作。将为我们带来题为《AntKV:：蚂蚁实时计算 KV 分离 5x 性能提升实践》的演讲。</p><p>&nbsp;</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/69/694e1fce1c010f3c44db606e23b5816f.png\" /></p><p></p><p>&nbsp;</p><p>欢迎大家参加本次专题演讲，与我们一起探讨新型数据库领域的最新发展。</p><p>&nbsp;</p><p>活动推荐：</p><p>&nbsp;</p><p>在5月26-27日，QCon全球软件开发大会（广州）站即将落地，在此峰会上，共有十二个专题，近五十余场分享。其中包括稳定性即生命线、编程语言实战、DevOps vs 平台工程、AGI 与 AIGC 落地、下一代软件架构、数据驱动业务、出海的思考、云成本优化、现代数据架构、AIGC浪潮下的效能智能化、新型数据库、大前端技术探索。欢迎与你一起交流，更多详细信息可扫描下方海报二维码了解。</p><p><img src=\"https://static001.infoq.cn/resource/image/cf/29/cfcd3fcbdac33fa9d712124034c31a29.jpg\" /></p><p></p>",
+    "publish_time": "2023-05-10 10:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
