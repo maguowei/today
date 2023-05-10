@@ -108,5 +108,27 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "蚂蚁数科开发者大会 2023 数据要素分论坛",
+    "url": "https://www.infoq.cn/article/AygCQmdhYIuUIWywfTHS",
+    "summary": "<p>创新技术与数字经济的发展加速渗透融合，产业应用驱动科技加速变迁和跃升，技术探索者迎来黄金时代。</p>\n<p>我们看到，以CHATGPT为代表的AI技术已经无处不在；元宇宙的沉浸感即将成为现实；依托WEB3和区块链技术的应用，越来越多的去中心化产品和服务涌现出来…数字技术的融合创新发展，为产业数字化带来无限的想象力。</p>\n<p>为此，蚂蚁集团数字科技事业群携手广大同行者，于2023 年4 月 26 日在杭州举办的数字科技开发者大会，邀请到学术界、产业界多位技术领袖及众多WEB3、元宇宙等技术方向的开发者，围绕数据要素市场趋势研判、WEB3前瞻技术探索、元宇宙创新体验等热点话题展开讨论。</p>",
+    "publish_time": "2023-05-10 18:00:39",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "16年等待，再见 SQL Boy，这一次数据库交互形态彻底被颠覆了！",
+    "url": "https://www.infoq.cn/article/XLYpBmBcFcYEtiJBUNpo",
+    "summary": "<p>对于程序员来说，通过 SQL 操作数据库是日常工作中经常会遇到的任务，算得上是一项基本技能。但即便是专业人员面对 SQL 编写任务也往往会头疼不已，更不要说在这一领域经验不足的初学者了。ChatGPT 大火之后，其辅助程序员编写代码的能力受到了很大关注。那么，类似<a href=\"https://www.infoq.cn/video/So2yItKrdYsDZpEG7DjS\"> ChatGPT </a>\"这种能力能否用在数据库操作上，帮助程序员甚至是缺乏代码经验的普通业务人员，使用自然语言来完成过去需要 SQL 才能做的事情呢？在近日举办的亚马逊云开发者 Tech Talk 上，<a href=\"https://xie.infoq.cn/article/83d0bb375b5e3c012280f6dea\">Bytebase</a>\" 联合创始⼈/CEO 陈天舟就介绍了这样一款产品——基于亚马逊云科技的云服务架构，可以用自然语言与数据库交互的 <a href=\"https://xie.infoq.cn/article/0c3421e65a8bb5e1c26c6fe8d\">SQL Chat</a>\"。InfoQ 将本场演讲内容整理成文，希望对大家有所帮助。</p><p></p><p></p><h2>软件交互范式的演进：从命令行到 CUI</h2><p></p><p></p><p>回顾软件行业的交互范式演进史，大致上是从桌面到 Web 端，再到移动端。在上世纪 70 年代，用户一般通过命令后界面（CLI）与计算机交互。发展到 1979 年出现了 VisiCalc， VisiCalc 首次引入了表格布局交互界面，具有革命性的意义。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/c3/c303b42f263dc693be18efcf2e74723e.png\" /></p><p></p><p>这款软件还带火了 Apple 2 电脑，让很多个人用户开始采购这款 PC 来制作表格。之后到了 1984 年，苹果发布了 Macintosh，搭配键盘、鼠标并采用了 GUI 界面，这也是现代 PC 所采用的标准界面的起源。再到 1993 年，第一款网页浏览器 Mosaic 诞生。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/2e/2e9aa880b8cd2e19f08e2f9687a18766.png\" /></p><p></p><p>这款浏览器开启了 Web 端的时代。继续向前来到 2007 年，iPhone 的发布则开启了现代智能手机时代。这样来看，命令行 CLI 交互大概从 70 年代流行到 1984 年，GUI 的发展则分了三个阶段，首先是 1984-1993 年是桌面端，1993-2007 年是 Web 端，2007 年到现在则是移动端，每一次换代间隔大约 13 年左右。</p><p></p><p>而到了 2023 年的今天，ChatGPT 横空出世。ChatGPT 的交互方式可以称为 Chat User Interface（CUI）。从 2007 年到 2023 年，历经 16 年的等待，软件行业终于迎来了交互范式的又一场革新。</p><p></p><h2>数据库交互与 CUI 革命</h2><p></p><p></p><p>软件交互范式的进化自然也会影响数据库的操作方式。以 SQL 客户端这个具体场景来为例，今天的 SQL 客户端还有很多命令行的交互工具，但业内也存在很多起源于 Windows 的 GUI 工具，比如 Navicat 等。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/c6/c661edac859dd41d4e1690bfb462382f.png\" /></p><p></p><p>如今，基于 CUI 的全新交互方式就完全不一样了。CUI 没有大量控件组合，只有一个简单直接的输入框。用户用自然语言问数据库问题，它会神奇地写出对应的 SQL 语句同数据库交互。这种进化能让人想到谷歌诞生之前的雅虎。彼时雅虎在做黄页目录，用户通过线上黄页查找信息；之后谷歌直接推出了搜索框，一个搜索框就能找到互联网的所有内容。现在的数据库交互软件有众多复杂的控件、树、表单，而到了 CUI 时代，所有这些元素都消失了，用户只需一个对话框来输入问题，机器人就能给出回答。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/e0/e013ae3706758b086d0996571a0dd1d2.png\" /></p><p></p><p></p><h2>SQL Chat：用自然语言和数据库交互的全新工具</h2><p></p><p></p><p>所谓 SQL Chat，顾名思义就是用聊天的方式写 SQL，跟数据库打交道。下图是整个产品的界面。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/66/66b4a278e326e4cdf680a6988b6f7523.png\" /></p><p></p><p>例如向 SQL Chat 提问，问用户组织里面哪个部门有最多的员工，这个工具就能直接给出对应的 SQL 语句，还会解释这个语句的含义。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/8a/8a2e4f872020551803a1780f3eb39212.png\" /></p><p></p><p>如果用户对结果不满意还能纠正它，可以说这个语句不是自己想要的，给出理由让它重新尝试，它会根据用户的反馈再做调整。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/5f/5fd88b29d3cbb717316fbd1d3d287eff.png\" /></p><p></p><p></p><p><img src=\"https://static001.geekbang.org/infoq/63/63870ba5a57ddfb49d37ec4c08795aa7.png\" /></p><p></p><p>它的交互方式是很自然的，就像用户在和人类对话一样。例如，用户可以创建一个 Amazon Aurora 的 HR 数据库，之后先问一些基本的问题，让它回答数据库有哪些表。SQL Chat 会知道用户对员工的薪资和职称是最感兴趣的，又知道部门和员工之间是生产关系，知道员工个人信息是个人隐私。</p><p></p><p>如果提问哪个部门的员工平均薪水最高，它不仅会给出 SQL 语句，还会解释这条 SQL 是什么操作。再来问它哪个经理手下人员最多，列出 SQL 代码，它会给出查询语句查到手下员工最多的经理。如果用户对这条查询不是那么满意，还想看一下这位经理到底有多少个员工，请机器人把他的员工数也包含在内，它就会给出修正的查询。</p><p></p><p>但目前 SQL Chat 涉及子查询的时候还是会出现一些问题，可能会报错，提示内容未指定等。这反映出它使用的模型还是有一些局限性，陈天舟表示，这类问题在未来随着调优是可以解决的。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/76/764cba1b264cac9c73d9a93f7e01d1ef.png\" /></p><p></p><p>未来，开发团队会收集一些交互数据，把这些数据进行脱敏匿名化处理后放到 Amazon S3 上，再把它灌到 Amazon SageMaker，在 Amazon SageMaker 里做整个模型的训练调优。陈天舟预计，半年后再演示新版 SQL Chat 时就能比较好地解决子查询的问题了。</p><p></p><p>SQL Chat 背后的公司叫做 Bytebase，主要做数据库管理工具。如果企业需要 Schema 的数据结构变更、数据查询，或者团队之间需要有一套标准的审批流，做数据安全治理，Bytebase 的主产品都可以满足。它主要面向团队和企业级，是开源的。下图左边的二维码是亚马逊云开发者社区，右边是 SQL Chat 自己的用户群。SQL Chat 在 GitHub 上是完全开源的 (<a href=\"https://github.com/sqlchat/sqlchat\">https://github.com/sqlchat/sqlchat</a>\")，接下来也会有很快的迭代速度。最后，SQL Chat 后期还有望支持多模态输入，希望大家持续关注。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/96/96a2d890db6a5afccf11640284e8dad8.png\" /></p><p></p>",
+    "publish_time": "2023-05-10 19:08:15",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
