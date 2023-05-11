@@ -9,5 +9,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "软件架构会走向哪里 ？ ｜QCon",
+    "url": "https://www.infoq.cn/article/Piv7iBXVxwlvzBrkP1OO",
+    "summary": "<p>软件架构的发展大致经历了从单体架构、垂直架构、SOA架构到微服务架构的过程。下一代的软件架构会是什么？架构又会向什么方向演进？在 5月25-26日 QCon全球软件开发大会（广州站）上，我们策划了【<a href=\"https://qcon.infoq.cn/2023/guangzhou/track/1513\">下一代软件架构</a>\"】专题，邀请了阿里云分布式事务产品负责人，Seata 开源项目创始人季敏（清铭），为我们对议题分享质量进行把控。于此同时，我们也邀请了多位专家来分享他们的技术实践，下面是详细介绍：</p><p>&nbsp;</p><p><a href=\"https://qcon.infoq.cn/2023/guangzhou/presentation/5281\">季敏（清铭）</a>\"，阿里云分布式事务产品负责人，Seata 开源项目创始人，将为我们带来题为《下一代微服务架构的实践与探索》的演讲。他将分享阿里巴巴在微服务架构领域的实践经验和未来发展方向，包括微服务架构在阿里巴巴电商中的实践、开源生态的发展和下一代微服务架构的探索；</p><p>&nbsp;</p><p><a href=\"https://qcon.infoq.cn/2023/guangzhou/presentation/5280\">韩聪聪</a>\"，美团履约平台技术专家，将为我们带来题为《美团履约平台调度引擎架构》的演讲。他将从履约调度的业务场景出发，阐述美团调度系统相关的技术方案及选型。他将分享如何提升算力天花板，通过算力的提升支持算法更大的寻优解空间，实现履约调度系统的高吞吐，并在此基础上能够同时完成缩减成本，降本增效，提升计算效能；</p><p>&nbsp;</p><p><a href=\"https://qcon.infoq.cn/2023/guangzhou/presentation/5274\">蔡东赟</a>\"，腾讯高级工程师，将为我们带来题为《零信任安全架构实践》的演讲。他将介绍零信任安全催生的业务背景，落地的通用模型架构，落地场景用户访问服务资源的场景风险、服务场景场景风险。他将分享用户访问服务资源的实践，腾讯的业务背景，解决方案思路以及实现架构技术详解；</p><p>&nbsp;</p><p><a href=\"https://qcon.infoq.cn/2023/guangzhou/presentation/5263\">李杨</a>\"，平安资管科技平台交易系统团队开发组负责人，将为我们带来题为《平安资管投资交易系统架构变革之路》的演讲。他将分享平安资管内部投资交易团队在架构变革过程中如何拆分不同的阶段、采用螺旋式的方式升级的原因、以及如何融合即有的服务、保证架构变革的计划稳步推进等；</p><p>&nbsp;</p><p><a href=\"https://qcon.infoq.cn/2023/guangzhou/presentation/5272\">伍活欣</a>\"，大参林医药集团股份有限公司信息中心部门总监，将为我们带来题为《大参林 POS 系统的稳定性优化实践》的演讲。他将分享大参林如何在基础架构薄弱且历史技术债务沉重的基础下，顺利地对一个“庞然大物”进行技术加固，并最终过渡到完全的自研和自主可控。他将分享他们是如何通过管理加固和技术加固结合，实现了上万家门店的实时监控，实现了机房云端双活，整体稳定性提升了 12 倍的；</p><p>&nbsp;</p><p><a href=\"https://qcon.infoq.cn/2023/guangzhou/presentation/5273\">周健</a>\"，虎牙中间件负责人，将为我们带来题为《虎牙多云接入实践》的演讲。</p><p>&nbsp;</p><p><img src=\"https://static001.geekbang.org/infoq/71/71f5301fc9a144e9e58437a087e03ec6.png\" /></p><p></p><p><img src=\"https://static001.geekbang.org/infoq/b8/b8232038724456793b8dd97709c83ed2.png\" /></p><p>&nbsp;</p><p>更多精彩议题持续上线中...</p><p>&nbsp;</p><p>活动推荐：</p><p>&nbsp;</p><p>在5月25-26日，QCon全球软件开发大会（广州）站即将落地，在此峰会上，共有十二个专题，近五十余场分享。其中包括稳定性即生命线、编程语言实战、DevOps vs 平台工程、AGI 与 AIGC 落地、下一代软件架构、数据驱动业务、出海的思考、云成本优化、现代数据架构、AIGC浪潮下的效能智能化、新型数据库、大前端技术探索。欢迎与你一起交流，更多详细信息可扫描下方海报二维码了解。</p><p></p><p><img src=\"https://static001.infoq.cn/resource/image/3c/a0/3c21d43ec150b044a957aabd296833a0.jpg\" /></p><p></p><p></p>",
+    "publish_time": "2023-05-11 10:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
