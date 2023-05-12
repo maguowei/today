@@ -119,5 +119,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "这是我开发的编程语言 nature",
+    "url": "https://www.v2ex.com/t/939430",
+    "summary": "weiwenhao: <p>当正式版本发布时，nature 会有稳定语法 API 、类型系统、GC 、协程、泛型、包管理、基础标准库。</p>\n<p>nature 支持交叉编译，可以编译到 linux/darwin &amp; amd64/riscv64/wasm ，同样也可以解释到 nature-vm 执行。</p>\n<p>这是官网 <a href=\"https://nature-lang.org/\" rel=\"nofollow\">https://nature-lang.org</a> 你可以在这里得到更多的信息以及它的文档</p>\n<p>代码仓库 <a href=\"https://github.com/nature-lang/nature\" rel=\"nofollow\">https://github.com/nature-lang/nature</a> </p>\n<p>我不想也不能说 nature 解决了 xxx 问题，或者比 xxx 快多少。实际上 nature 只是我在学习<strong>计算机程序的构造与解释</strong>时产生的一颗种子。然后在过去的某个时刻，我决定让它发芽 🌱，所以我尽可能的将它完善并发布了出来。接下来我也将继续推动 nature 直到首个正式版本发布 🌳。</p>\n<p>v2ex 是我目前唯一关注的程序员相关的论坛了，所以选择在这里发布。虽然 nature 目前还不能帮助大家做什么，但是我依旧希望能够得到大家的支持(求 star)，大家如果有摸鱼群也可以帮忙分享一下，谢谢大家了。</p>\n<blockquote>\n<p>另外早上发布过一次，但是节点选错了，不知道沉到哪里去了，我就厚着脸皮再发一次 🙏</p>\n</blockquote>",
+    "publish_time": "2023-05-12 10:52:49",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
