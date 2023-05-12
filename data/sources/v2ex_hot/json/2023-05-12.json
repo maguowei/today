@@ -31,5 +31,49 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "组装 Linux 主机，求配置推荐",
+    "url": "https://www.v2ex.com/t/939353",
+    "summary": "Janan: <p>想组装一台 Linux 主机玩，用来熟悉熟悉 Linux (计划装 Ubuntu 或者 Arch Linux)。会在上面跑一些爬虫和自动化脚本。不玩游戏。用浏览器，看看视频。</p>\n<p>预算 5000 以内，求配置推荐。</p>\n<p>几点：</p>\n<ol>\n<li>不需要 GPU</li>\n<li>不需要屏幕（已有）</li>\n<li>需要：CPU （ AMD 性价比高？），主板，电源，内存，硬盘，散热，机箱</li>\n<li>支持 4K 60Hz 视频输出</li>\n<li>似乎有些硬件（网卡？）在 Linux 支持较差？怕踩坑。</li>\n<li>其他组装 Linux 的坑？求大佬指点。</li>\n</ol>",
+    "publish_time": "2023-05-12 02:56:46",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "威联通 QNAP 系统优缺点汇总贴",
+    "url": "https://www.v2ex.com/t/939371",
+    "summary": "Marasati: <p>受到 <a href=\"https://www.v2ex.com/t/938995\" rel=\"nofollow\">群晖 Synology DSM 操作系统软件使用功能缺点汇总讨论帖</a> 启发，也想在 V2EX 发一个威联通的汇总贴。</p>\n<p>威联通的用户群体相对较少，更需要各位的互帮互助。</p>",
+    "publish_time": "2023-05-12 09:05:55",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "不开车的话，你使用高德地图还是百度地图？",
+    "url": "https://www.v2ex.com/t/939401",
+    "summary": "ThinkStu: op 坐标北京，是一名高校学生，日常出行都是共享自行车+公交+地铁，之前一直使用百度地图，体验还算可以。最近一段时间发现身边不少朋友其实在使用高德地图，于是想切换到高德地图体验下，不得不说高德的很多产品逻辑比较人性化。<br />但是在今天，我使用高德地图进行第一次骑行导航，它竟然连续给我导错了 3 次路！第一次，路口经过 100 米才提醒右转；第二次直行时提示右转，发现并没有路；第三次正常骑行，突然提醒路线正在重新规划； op 使用的手机是 iphone 12mini ，不知道是不是手机的问题导致了导航不精确。总之这次导航体验给 op 感觉特别糟糕，最后不得不选择停止骑行，选择打车。<br /><br />最后，op 想问一下大家，如果不开车的话，你在日常生活中使用最多的是高德地图还是百度地图？",
+    "publish_time": "2023-05-12 10:03:30",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "你的终端管理软件是什么？",
+    "url": "https://www.v2ex.com/t/939408",
+    "summary": "random1221: <p>用过 Xshell 、MobaXterm 、SecureCRT 、git bash 、putty ，换来换去感觉还是 xshell 最好用</p>\n<p>SecureCRT 界面丑陋，感觉是上个世纪的软件</p>\n<p>MobaXterm 界面清新可爱、功能强大，但是感觉略微臃肿，不够稳定</p>\n<p>所以最后花了 100 美元买了 xshell 的正版（公司不让用盗版，会有律师函）</p>\n<p>git bash 、putty 不提了，简单用用还成，不适用连接多个 tab</p>",
+    "publish_time": "2023-05-12 10:18:18",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
