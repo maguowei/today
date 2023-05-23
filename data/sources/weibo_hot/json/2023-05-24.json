@@ -691,5 +691,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "养乐多小金瓶",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%BB%E4%B9%90%E5%A4%9A%E5%B0%8F%E9%87%91%E7%93%B6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "影后咏梅的包",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BD%B1%E5%90%8E%E5%92%8F%E6%A2%85%E7%9A%84%E5%8C%85%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
