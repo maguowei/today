@@ -97,5 +97,27 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "英特尔发布万亿参数AI大模型，比ChatGPT大近6倍",
+    "url": "https://www.infoq.cn/article/EDSy8OCKbCRc9TiB48PI",
+    "summary": "<p>5月23日，英特尔发布了一款生成式<a href=\"https://www.infoq.cn/article/kps1yUUKJU1dSLI68lZz\"> AI 模型</a>\"Aurora genAI。据悉，Aurora genAI具有1万亿个参数，几乎是 ChatGPT 免费和公共版本的六倍（ChatGPT此前宣称具有1750亿参数）。它将接受来自生物学、化学、材料科学、物理学、医学和其他来源的一般文本、代码、科学文本和结构化科学数据的训练。</p><p></p><p>该模型英特尔是与阿贡国家实验室和 HPE 合作开发的，它是一个纯粹以科学为中心的生成式 AI 模型，它将潜在应用于系统生物学、癌症研究、气候科学、宇宙学、高分子化学与材料和科学等领域。</p><p></p><p>除了科研之外，Aurora genAI还具有在<a href=\"https://qcon.infoq.cn/2023/guangzhou/track/1520\">自然语言处理</a>\"、机器翻译、<a href=\"https://qcon.infoq.cn/2023/guangzhou/track/1520\">图像识别</a>\"、语音识别、金融建模等商业领域的应用潜力。</p><p></p><p>“该项目旨在充分利用 Aurora 超级计算机的全部潜力，产生可用于能源部实验室下游科学并与其他机构合作的资源，”阿贡实验室副主任 Rick Stevens 说道。</p><p></p><p>英特尔 Aurora genAI 的开发依赖于 Megatron 和 DeepSpeed 框架。这些结构增强了模型的强度和容量。英特尔的目标是到 2024 年完成Aurora genAI 模型的构建。</p><p></p><p>在AI军备竞赛进展得如火如荼之际，英特尔虽然也亮出了自家<a href=\"https://www.infoq.cn/article/M4oBLcDHp7reGbveMud8\">AI大模型</a>\"，但它的实际用途却与ChatGPT不同。Aurora genAI 模型与在众多科学和实践进步方面具有巨大潜力。一些潜在的好处包括：</p><p></p><p>加速科学研究：凭借其强大的计算能力，Aurora genAI 有望加快科学研究进程。通过分析大量数据并产生有价值的见解，它可以为突破性发现铺平道路。推进药物发现和材料科学：该模型分析和解释复杂数据集的能力有助于新药物和材料的开发。这有可能彻底改变药物研究并推动材料科学领域的创新。加强气候变化研究：气候研究可以通过英特尔 Aurora genAI 的能力得到改善。通过分析气候数据和模拟情景，该模型可以增强对气候变化动态的理解，促进更好的决策。促进AI算法开发：Aurora genAI对于推动AI算法的开发至关重要。生成充足的训练数据并提供有价值的见解可以推动创建新的 AI 模型并改进现有模型。</p><p></p><p>参考链接：</p><p></p><p>https://wccftech.com/intel-aurora-genai-chatgpt-competitor-generative-ai-model-with-1-trillion-parameters/</p>",
+    "publish_time": "2023-05-24 15:49:59",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "AIGC时代，数据库将受到哪些冲击？| 直播推荐",
+    "url": "https://www.infoq.cn/article/ZHEc8CIgw6G3CNijckQV",
+    "summary": "<p>AIGC 的爆火引发各界对人工智能广泛关注，人工智能持续掀起一场新的生产力革命。政策层面，我国陆续出台了一系列指导意见，持续加强对于人工智能场景创新的统筹指导，规范加强人工智能应用建设，实现人工智能与其他技术的深度融合。技术层面，以 AIGC 为代表的人工智能技术正在持续与<a href=\"https://xie.infoq.cn/article/9472adf321bcce7bc4835eee6\">数据库</a>\"技术融合发展，从业人员对 AIGC 技术在数据库的应用开发、系统管理、运维优化等方面所碰撞出的火花也充满期待。<a href=\"https://www.infoq.cn/article/oSzWsNREGzLyXI364qTQ\">AIGC</a>\" 时代，数据库发展将走向何方？供给侧在技术发展方向着力点在哪里？应用侧在百花齐放的产品中又该如何选择？都值得我们深入探讨。</p><p></p><p></p><h2>直播介绍</h2><p></p><p></p><p></p><h4>&nbsp;直播主题</h4><p></p><p></p><p>《AIGC 时代，数据库将走向何方？》</p><p></p><p></p><h4>直播时间</h4><p></p><p></p><p>2023 年 5 月 25 日 15:00-16:30</p><p></p><p></p><h4>直播嘉宾</h4><p></p><p></p><p>特邀主持：</p><p>InfoQ 极客传媒总经理 汪丹（主持人）</p><p></p><p>嘉宾（排名不分先后）：</p><p>中国信息通信研究院云计算与大数据研究所副所长 魏凯</p><p>华东师范大学副校长、资深数据库学者 周傲英</p><p>阿里云 智能数据库事业部总负责人 李飞飞</p><p>PingCAP 副总裁 刘松</p><p></p><p></p><h2>直播亮点</h2><p></p><p></p><p>全球数据库领域的技术进展有哪些？</p><p></p><p>当前，数据库与 AI 技术正在发生哪些结合（AI for DB 和 DB for AI）？</p><p></p><p>AIGC 的火爆对开源数据库安全带来了哪些挑战？</p><p></p><p>可信数据库遵循哪些标准？</p><p></p><p></p><h2>如何看直播？</h2><p></p><p></p><p>扫描下图海报【二维码】，或戳直播预约按钮，预约 InfoQ 视频号直播。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/27/2763f37584e3f019cf6029f5b904b2ae.png\" /></p><p></p><p>此外，围绕数据库可信生态的构建情况、标准、技术进展，以及这些进展将如何与产业做结合，各行业在实践层面的最佳方法论等话题，中国信息通信研究院、中国通信标准化协会指导，中国通信标准化协会大数据技术标准推进委员会（CCSA TC601）、InfoQ 极客传媒联合主办的 <a href=\"https://www.infoq.cn/article/2tULPkizxIKXG6a8Uzv4\">2023 可信数据库发展大会</a>\"将邀请知名院士、行业协会领导、数据库学术大咖、产业链各环节数据库负责人、资深技术专家等深入探讨并针对性解决上述产业发展中的痛点。</p><p></p><p>本届大会将于 7 月 4 - 5 日在北京国际会议中心隆重召开，目前议题正在火热征集中，如果你希望成为可信数据库标准及生态建设的重要力量，并让自己的技术创新成果和最佳实践被行业广泛认可，与业内专家深入探讨产业跃迁路径，与信通院 &amp; InfoQ 一道建设可信数据库生态，欢迎参与【议题征集】。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/94/94f2676df52735579d30a90126089954.jpeg\" /></p><p></p>",
+    "publish_time": "2023-05-24 16:06:50",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
