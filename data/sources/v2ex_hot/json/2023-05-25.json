@@ -75,5 +75,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "请教一下大伙，一年 Java 准备跳槽需要哪些？",
+    "url": "https://www.v2ex.com/t/942767",
+    "summary": "xuzb0312: <p><strong>说一下我自己的情况。</strong></p>\n<p>现在在的一家公司是做一些政府项目，相对稳定。早八点半到五点半，双休，工资较低。\n工作也不忙，从来不加班，适合养老，用的框架比较老。SSH. 不过刚更新了新框架，部门准备用新框架做一个新项目。</p>\n<p>近一年得工作就是维护已经上线得老项目，改一下 bug ，增加一下新模块啥的，crud 工程师吧，连 redis 和 mq 这些都没用到，我实在不知道怎么将这个项目写在我的简历上，所以我想先用新框架做完一个新项目之后再跳，但是这段时间我也想要开始准备。</p>\n<p>现在时间比较充裕，每天上午几乎都是自己的时间，下午再去做一些工作上的事情，因为做的比较快，需求也不是很着急，所以比较自由。现在每天上午就是看看面经，刷刷算法，有没有必要做一些开源的项目呢？</p>\n<p>因为用不到一些技术栈，所以学过的什么 mq ，cloud ，redis 啥的都快忘完了，现在每天晚上都会去看视频进行充电以及复习，还是觉得很迷茫，感觉需要准备的东西很多。。。。。。</p>\n<p><strong>特来问问大家有没有什么好的建议，指点一下。</strong></p>\n<p>还有就是问一下大家，推荐再等等还是时刻准备跳。</p>\n<p><strong>写的比较乱，大家见谅</strong></p>",
+    "publish_time": "2023-05-25 09:56:43",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "面试人用 ChatGPT 怎么办？",
+    "url": "https://www.v2ex.com/t/942778",
+    "summary": "bagel: <p>远程算法面试（外企全英文），候选人共享屏幕，直接拖进来一个浏览器放旁边开着 ChatGPT ，是公开地在使用。之前公司的政策面试过程中是可以 Google 的。如果让你拍板，禁不禁？</p>\n<p>另外感觉这个候选人也挺有意思，故意公开用，感觉在反向筛选公司。</p>",
+    "publish_time": "2023-05-25 10:15:21",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "618 组装台 ITX 小主机怎么样？",
+    "url": "https://www.v2ex.com/t/942799",
+    "summary": "code4world: <p>笔记本性能还是弱，U 系列的 cpu + 核显，小游戏都玩不了，配置高点价格还昂贵。</p>\n<p>NUC 也用过，U 系列的 CPU + 核显，略微高负载，噪声就比较大</p>\n<p>所以 ITX 小主机看起来不错，因为就一个 2282 的 SSD ，两条内存，一个 PCI 口(单风扇或者双风扇 4060 显卡)，性能大概就是 13600K + 4060 就够，但是听说 ITX 组装麻烦，很奇怪，都没有什么外设，怎么会组装很麻烦？</p>",
+    "publish_time": "2023-05-25 10:58:26",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
