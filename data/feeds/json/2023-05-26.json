@@ -1226,5 +1226,130 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "我选猫更省",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E9%80%89%E7%8C%AB%E6%9B%B4%E7%9C%81%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "日本网友吐槽国泰航空服务",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E5%9B%BD%E6%B3%B0%E8%88%AA%E7%A9%BA%E6%9C%8D%E5%8A%A1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "男子争当榜一大哥账户剩下4分钱",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%BA%89%E5%BD%93%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E8%B4%A6%E6%88%B7%E5%89%A9%E4%B8%8B4%E5%88%86%E9%92%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "俄乌战争到底会怎样收场？",
+    "url": "https://www.zhihu.com/question/602478834",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "熬夜最伤害哪里？",
+    "url": "https://www.zhihu.com/question/498308126",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "几千块的投影仪跟几百块的区别在哪？",
+    "url": "https://www.zhihu.com/question/326706826",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "有哪些高质量的历史书籍值得推荐？",
+    "url": "https://www.zhihu.com/question/596930934",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "你们打耳洞父母同意吗？",
+    "url": "https://www.zhihu.com/question/594573210",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "中美商务部长将会面，就中美经贸关系和双方共同关注的问题和美方交流，有哪些值得关注的信息？",
+    "url": "https://www.zhihu.com/question/602952461",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Intel mulls cutting 16 and 32-bit support, booting straight into 64-bit mode",
+    "url": "https://www.theregister.com/2023/05/25/intel_proposes_dropping_16_bit_mode/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36073379\">Comments</a>",
+    "publish_time": "2023-05-26 01:15:00",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Kissinger&#x27;s killing fields",
+    "url": "https://theintercept.com/series/henry-kissinger-killing-fields/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36073020\">Comments</a>",
+    "publish_time": "2023-05-26 00:48:06",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Gorilla: LLM Connected with APIs",
+    "url": "https://gorilla.cs.berkeley.edu/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36073241\">Comments</a>",
+    "publish_time": "2023-05-26 01:05:00",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Finley (YC W21) is hiring to reimagine the debt capital markets (US remote)",
+    "url": "https://www.finleycms.com/careers/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36073467\">Comments</a>",
+    "publish_time": "2023-05-26 01:21:24",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
