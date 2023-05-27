@@ -328,5 +328,27 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "[418] I&#x27;m a Teapot",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36090344\">Comments</a>",
+    "publish_time": "2023-05-27 06:43:54",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Raspberry Pi&#x2f;PlatformIO conflict blocks support for Pico-Arduino toolchain",
+    "url": "https://github.com/platformio/platform-raspberrypi/pull/36",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36090536\">Comments</a>",
+    "publish_time": "2023-05-27 07:13:17",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
