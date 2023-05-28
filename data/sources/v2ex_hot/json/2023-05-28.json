@@ -31,5 +31,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "请教一个基础的 Docker 问题，关于容器自动创建文件夹和文件,如图所示",
+    "url": "https://www.v2ex.com/t/943534",
+    "summary": "helphelp: <p>首先，在我 Linux 的 home 目录下面，一开始是没有任何的文件夹和文件的</p>\n<p>下面两部分代码，一个是 linuxserver 的 nginx 镜像，一个是官方版</p>\n<pre><code>docker run -d \\\n  --name=nginx \\\n  -e PUID=1000 \\\n  -e PGID=1000 \\\n  -e Asia/Shanghai \\\n  -p 80:80 \\\n  -p 443:443 \\\n  -v /home/nginx:/config \\\n  --restart unless-stopped \\\n  lscr.io/linuxserver/nginx:latest\n</code></pre>\n<pre><code>docker run -d \\\n    --name nginx1 \\\n    --log-opt max-size=1m \\\n    -v /home/nginx1:/etc/nginx \\\n    --restart unless-stopped \\\n    nginx\n</code></pre>\n<p>运行之后，</p>\n<p>linuxserver 会在 /home/nginx 里自动创建文件夹和文件（注意是文件夹和配置文件都自动创建了），</p>\n<p><strong>而官方版的不会自动创建文件。</strong></p>\n<p>如图：\n<img alt=\"nginx\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://file.uhsea.com/2305/ca4cd2e176ce4d798b225b4d5e97db6534.png\" /></p>\n<p><strong>请问：</strong></p>\n<p><strong>1.为啥官方版的 Nginx 不会自动创建文件呢？</strong></p>\n<p><strong>2.怎么让官方版的自动创建文件呢？就是 nginx.conf 这些配置文件。</strong></p>",
+    "publish_time": "2023-05-28 08:35:20",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "不景气下感受差别还挺大的",
+    "url": "https://www.v2ex.com/t/943572",
+    "summary": "davelm: <p>这是主要 jjt 的 GD.P 增长率，除了 z ，g ，其他都是发达经济体：</p>\n<p><a href=\"http://data.worldbank.org.cn/share/widget?end=2021&amp;indicators=NY.GDP.MKTP.KD.ZG&amp;locations=US-GB-JP-KR-FR-DE-CN-CA-IT-AU&amp;start=1989\" rel=\"nofollow\">data.worldbank.org.cn/share/widget?end=2021&amp;indicators=NY.GDP.MKTP.KD.ZG&amp;locations=US-GB-JP-KR-FR-DE-CN-CA-IT-AU&amp;start=1989</a></p>\n<p>只有 z 。g 的 GD.P 是完全碾压其他发达经济体，发达经济体能有 2-3%的增长率，那就是国 a 泰 b 民 c 安 d 风 e 调 f 雨顺了，但是去年 z ，g 的 gdp 还有 3%，很多行业就感觉完全不，行了，有的行业想 juan 都不行了</p>\n<p>但是，我和在德，加和澳的朋友以及我本人在美的感受，经济是不景气，但是影响不大，被裁员之后想找一份新的工作是很容易的，薪金也不会降低很多，可能还会上涨一点，总体上看平均薪资是在上涨的，并且 shiyelv 现在很低</p>\n<p>但是，和国内的朋友聊，感觉不一样，都很焦虑，感觉随时会被毕业掉，毕业之后也找不到新的，要不就大幅降薪。然后就是看到报道，现在 z 。g 青年 shiyelv 已经到 20%</p>\n<p>虽然说疫情影响很大，但是疫情之后，怎么从 IC.U 出来的发达 gj ，和从普通病房出来的 z ，g ，整个身体状况差别这么大</p>\n<p>这几天要做一个相关的 presentation ，越分析下来，感觉可以说的就越多，脑袋都要炸了</p>\n<p>我只是想做个 presentation ，不想写本书啊</p>\n<p>ps：差点就不想发了，改了三四次，不知道有啥关键词不行，以后尽量少说</p>",
+    "publish_time": "2023-05-28 12:07:02",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
