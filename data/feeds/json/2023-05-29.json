@@ -1379,5 +1379,45 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "C919机票",
+    "url": "https://s.weibo.com/weibo?q=%23C919%E6%9C%BA%E7%A5%A8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "不怕压力不生癌",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%80%95%E5%8E%8B%E5%8A%9B%E4%B8%8D%E7%94%9F%E7%99%8C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Health officials delayed report linking fluoride to brain harm",
+    "url": "https://www.salon.com/2023/03/16/health-officials-delayed-report-linking-fluoride-to-brain-harm_partner/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36106925\">Comments</a>",
+    "publish_time": "2023-05-29 03:24:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Mysterious 50 Ohm Impedance: Where It Came from and Why We Use It (2021)",
+    "url": "https://resources.altium.com/p/mysterious-50-ohm-impedance-where-it-came-and-why-we-use-it",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36107139\">Comments</a>",
+    "publish_time": "2023-05-29 03:50:21",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]

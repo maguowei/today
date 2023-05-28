@@ -637,5 +637,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "C919机票",
+    "url": "https://s.weibo.com/weibo?q=%23C919%E6%9C%BA%E7%A5%A8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "不怕压力不生癌",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%80%95%E5%8E%8B%E5%8A%9B%E4%B8%8D%E7%94%9F%E7%99%8C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
