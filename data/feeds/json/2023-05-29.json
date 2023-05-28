@@ -1182,5 +1182,76 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "56岁保安写出40余万字长篇小说",
+    "url": "https://s.weibo.com/weibo?q=%2356%E5%B2%81%E4%BF%9D%E5%AE%89%E5%86%99%E5%87%BA40%E4%BD%99%E4%B8%87%E5%AD%97%E9%95%BF%E7%AF%87%E5%B0%8F%E8%AF%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "新疆草莓音乐节",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E8%8D%89%E8%8E%93%E9%9F%B3%E4%B9%90%E8%8A%82%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "高考完，应该去打工还是出去玩？",
+    "url": "https://www.zhihu.com/question/603534784",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Ian Hacking has died",
+    "url": "https://www.nytimes.com/2023/05/28/science/ian-hacking-dead.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36106044\">Comments</a>",
+    "publish_time": "2023-05-29 01:31:54",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Bayes is guaranteed to overfit",
+    "url": "https://www.yulingyao.com/blog/2023/overfit/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36105572\">Comments</a>",
+    "publish_time": "2023-05-29 00:35:45",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How to Get Started with Tree-Sitter",
+    "url": "https://www.masteringemacs.org/article/how-to-get-started-tree-sitter",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36106421\">Comments</a>",
+    "publish_time": "2023-05-29 02:18:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The halting problem is decidable on a set of asymptotic probability one (2006)",
+    "url": "https://projecteuclid.org/journals/notre-dame-journal-of-formal-logic/volume-47/issue-4/The-Halting-Problem-Is-Decidable-on-a-Set-of-Asymptotic/10.1305/ndjfl/1168352664.full",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36105717\">Comments</a>",
+    "publish_time": "2023-05-29 00:52:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
