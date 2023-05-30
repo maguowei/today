@@ -119,5 +119,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "Rust 正式分叉出新的 Crab 语言",
+    "url": "https://www.infoq.cn/article/Vi8CwvOv0jfe9PhCCycC",
+    "summary": "<p>在<a href=\"https://www.infoq.cn/article/rJzSoNk3t5aNHccTa9Hh\">Rust 基金会商标新规</a>\"“闹剧“下，Rust 社区里愤愤不平的成员以 Crab 的名义<a href=\"https://github.com/crablang/crab\">分叉了</a>\"该语言，以抗议该组织近期准备为 Rust 和 Cargo 商标使用制定的新规范。</p><p>&nbsp;</p><p>4 月 7 日，Rust 基金会发布了新政策草案，并通过谷歌文档征求意见，截止日期为 4 月 16 日。这可能会对广泛的 Rust 社区产生严重影响，因为该基金会限制包括禁止在 Rust 相关工具或用 Rust 编写的软件的名字中使用 Rust，甚至在域名或子域名的部分也禁止使用 Rust。</p><p>&nbsp;</p><p>虽然后来Rust 基金会<a href=\"https://blog.rust-lang.org/inside-rust/2023/04/12/trademark-policy-draft-feedback.html\">发表声明</a>\"试图平息这一最新事件，但愤怒的社区还是对Rust做了分叉。</p><p>&nbsp;</p><p>GitHub地址：</p><p><a href=\"https://github.com/crablang/crab\">https://github.com/crablang/crab</a>\"</p><p>&nbsp;</p><p>“Crab&nbsp;（也称 CrabLang）社区分叉的创建是为了对社区内日益增长的、对公司影响和基金会提出的限制性商标政策的担忧，而作出的轻松而慎重的回应。这不是‘下意识’反应，也不是试图散布恐惧或引起恐慌。虽然基金会起草的文件确实导致了分叉，但我们认为这是对已经存在问题的逾期解决方案，并解决了许多社区成员一段时间以来遇到的一些问题。”CrabLang<a href=\"https://crablang.org/\">官网介绍道</a>\"。</p><p>&nbsp;</p><p>Crab方面还表示，首先也是最重要的：CrabLang 并不是要取代大家钟爱的语言。“如果您对现状感到满意，我们鼓励您继续使用您选择的语言。我们的目标不是分裂社区，而是为那些与我们有共同担忧并希望在使用、创造和推广语言方面有更多自由，而不必担心与商标侵权相关诉讼的人提供另一种选择。”</p><p>&nbsp;</p><p>Crab方面强调，Crab与项目或原始语言并不矛盾。Crab的主要分支将继续与上游代码库保持同步。</p><p>&nbsp;</p><p>“这里有您喜欢的所有内存安全功能，但现在完全没有那套官僚主义作风了！”Crab官网上写道。</p>",
+    "publish_time": "2023-05-30 17:39:43",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]

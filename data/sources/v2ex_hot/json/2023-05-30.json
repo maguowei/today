@@ -64,5 +64,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "观《我在北邮被偷喜茶后的 161 个小时》后有感",
+    "url": "https://www.v2ex.com/t/944085",
+    "summary": "AnYongMaple: <p>美团是出于什么角度做了信用开柜这样毫无用户信息校验的功能，这样的产品合格吗？还是对自己体系的信用分过于自信导致误判，属于大厂的傲慢？</p>",
+    "publish_time": "2023-05-30 09:44:18",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "移动宽带在整治爱奇艺与迅雷？",
+    "url": "https://www.v2ex.com/t/944089",
+    "summary": "YaNanGe: 如标题，坐标河南郑州<br /><br />朋友家用的也是移动宽带，最近才开始卡顿的。我怀疑一是近期修改成 NAT4 导致的<br /><br />结果人维修人员打过来电话说是因为他们在整治爱奇艺跟迅雷。。。<br /><br />只要他们后台检测到有使用这俩软件就给你限速，然后关掉再重启光猫后限速就解除了。。。<br /><br />有这么一回事？就算有 那应该是爱奇艺跟迅雷用用户设备搞 PCDN ？",
+    "publish_time": "2023-05-30 09:55:56",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "android 新手， hello world 无法编译。。",
+    "url": "https://www.v2ex.com/t/944131",
+    "summary": "chopin1998519: <p>操作系统是 Linux</p>\n<p>android studio 从空模板创建工程后， 均无法编译</p>\n<p>显示 Gradle project sync failed. Basic functionality (e.g. editing, debugging) will not work properly</p>\n<p>搜索过很多帖子， 装过 Android Studio Flamingo 和电摇， 清过 cache, 重新试过多个版本的 gradle ， 还是一样。</p>\n<p>还可能是什么错误呢？</p>",
+    "publish_time": "2023-05-30 11:13:41",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
