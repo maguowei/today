@@ -922,5 +922,38 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Show HN: Front end-Only-Authorization – A new web standard",
+    "url": "https://foaz.io/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36138957\">Comments</a>",
+    "publish_time": "2023-05-31 22:41:46",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A Friday Email Incident",
+    "url": "https://dev.37signals.com/a-friday-email-incident/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36138762\">Comments</a>",
+    "publish_time": "2023-05-31 22:23:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "When LIMIT 9 works but LIMIT 10 hangs: A short debugging story",
+    "url": "https://neon.tech/blog/when-limit-9-works-but-limit-10-hangs",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36138642\">Comments</a>",
+    "publish_time": "2023-05-31 22:11:49",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
