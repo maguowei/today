@@ -1,0 +1,24 @@
+[
+  {
+    "title": "咨询下兄弟们电源 750w 够吗",
+    "url": "https://www.v2ex.com/t/944383",
+    "summary": "bjm1996: 现在是 13600k 超 5.6g 电压 1.265 ring48 ，主板微星 z690-a d4 wifi ，显卡换了 3080ti pgf ，360rgb 水冷，内存 32g 双通道超 4000 电压 1.43 ，机箱风扇 3 把静音无光，长城 g7 750 额定够用吗，看了好多测评是峰值功率高，推荐 850w ，有必要换吗",
+    "publish_time": "2023-05-31 08:58:51",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "记一次怪怪的面试经历",
+    "url": "https://www.v2ex.com/t/944385",
+    "summary": "imxiaoi: <p>我是去面试 c++，从一开始面试官就趾高气昂的</p>\n<h2>问题 1：</h2>\n<p><strong>面试官：</strong> 给一个 char 赋值 500 会不会报错</p>\n<p><strong>我的回答：</strong> 具体会不会报错取决于编译器实现，有可能会有警告</p>\n<p><strong>面试官：</strong> 肯定会报错，不信去试，因为 char 的取值范围是-127-128 （然后就被鄙视了<strong>按说不应该是 -128-127 么，我并没有反驳</strong>）</p>\n<h2>问题 2：</h2>\n<p>tcp 粘包问题，这个问题我都没听说过，算是我孤落寡闻吧，不过我搜了一下，这不是最基础的 tcp 通信原理问题么，定义好应用层的就没问题啊。</p>\n<h2>问题三</h2>\n<p><strong>面试官：</strong>你们用什么 linux</p>\n<p><strong>我的回答：</strong>debian</p>\n<p><strong>面试官：</strong> 哦，我们不用那个,我们用 ubuntu （<strong>也不知道是我发音不准，面试官不知道这个，我作为一个 arch/debian 9 年用户 再一次被鄙视</strong>）</p>\n<p>最后面试官说我是初级程序员水平，虽然可能我水平本身不是很高，但单凭这种问题就能判断么，我是不是可以怀疑面试官的水平了？</p>",
+    "publish_time": "2023-05-31 09:01:02",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  }
+]
