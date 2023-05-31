@@ -1474,5 +1474,103 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "少年志",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%91%E5%B9%B4%E5%BF%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "华为618什么值得买",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA618%E4%BB%80%E4%B9%88%E5%80%BC%E5%BE%97%E4%B9%B0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "阿娇为陈妍希庆生",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%A8%87%E4%B8%BA%E9%99%88%E5%A6%8D%E5%B8%8C%E5%BA%86%E7%94%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "马斯克脑机接口公司人体临床试验获批，未来是否有可能利用这一技术恢复人类视力、恢复偏瘫病人肢体功能？",
+    "url": "https://www.zhihu.com/question/603928802",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么猫咪好奇心那么强什么都想碰一碰？它们是不是故意的？",
+    "url": "https://www.zhihu.com/question/602877225",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么说大模型训练很难？",
+    "url": "https://www.zhihu.com/question/498271491",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "I decided not to commercialize nbdev",
+    "url": "https://hamel.dev/blog/posts/nbdev/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36142763\">Comments</a>",
+    "publish_time": "2023-06-01 03:19:16",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Historical code from reddit.com",
+    "url": "https://github.com/reddit-archive/reddit",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36142971\">Comments</a>",
+    "publish_time": "2023-06-01 03:30:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Developer says Reddit will charge him $20M&#x2f;yr API fees to keep his app working",
+    "url": "https://www.theverge.com/2023/5/31/23743993/reddit-apollo-client-api-cost",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36143308\">Comments</a>",
+    "publish_time": "2023-06-01 03:52:54",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Had a call with Reddit to discuss pricing",
+    "url": "https://old.reddit.com/r/apolloapp/comments/13ws4w3/had_a_call_with_reddit_to_discuss_pricing_bad/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36141083\">Comments</a>",
+    "publish_time": "2023-06-01 01:30:39",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
