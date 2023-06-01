@@ -64,5 +64,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "帮忙给起个公司名字",
+    "url": "https://www.v2ex.com/t/944763",
+    "summary": "tysb777: <p>最近准备做电商，起名字这一块真烦。</p>\n<p>需求  2-3 字，名字里包含 “泰” 或者谐音都可以。</p>\n<p>陕西 XXX 商贸有限公司</p>",
+    "publish_time": "2023-06-01 08:59:30",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "独立开发尝试失败之后，我又做了新的东西，给女朋友开发了一个工具，但是最终产生了信任危机",
+    "url": "https://www.v2ex.com/t/944872",
+    "summary": "751327: <p>前一段时间自己做的几个小玩具都失败了，详情看到之前的帖子<a href=\"https://www.v2ex.com/t/911924#reply46\" rel=\"nofollow\">《关于我 尝试独立开发的失败经历》 </a>\n吸取到了一些经验：</p>\n<ol>\n<li>要么解决痛点</li>\n<li>要么有技术壁垒</li>\n<li>要么设计特别牛逼</li>\n<li>要么直击人性</li>\n</ol>\n<p>2/3/4 点我是暂时做不到了，哈哈哈，太难了，我想着能不能做个什么东西解决什么痛点。说实话，凭空去想疼点也挺难的，从身边的人开始吧，看看身边的人有什么疼点，那必须从女朋友开始。</p>\n<p>女朋友是亚马逊运营，经常下班之后看她还在处理一些表格，而且是手动处理，表格还蛮复杂的，有销量的、流量的、库存的等等。刚开始我是有点疑惑的，他们公司有 erp 系统的呀，为啥 erp 系统不能直接导出这些东西呢？后面了解到，他们主管有一套自己的运营方式，erp 中的数据不满足他主管，这就导致他手下的运营需要手动将亚马逊导出的原始数据转化成符合主管要求的 Excel ！太痛了！我找到了痛点！我找到了痛点！真的比发工资还开心</p>\n<p>亚马逊原始数据转化成特定格式的 Excel ，我是 Java 开发，这对我来说就是小菜一碟，干吧。了解需求、确定技术方案、学习 vue 、本地开发、部署服务，一气呵成，毫无障碍，看看成果吧。\n<img alt=\"image.png\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://cdn.nlark.com/yuque/0/2023/png/375413/1685592368604-8639e645-97ff-4b5f-a0c2-a227be35c6c1.png#averageHue=%23f8f6ea&amp;clientId=u2cd17093-7e8f-4&amp;from=paste&amp;height=672&amp;id=u9f2d5dc5&amp;originHeight=1344&amp;originWidth=2702&amp;originalType=binary&amp;ratio=2&amp;rotation=0&amp;showTitle=false&amp;size=868251&amp;status=done&amp;style=none&amp;taskId=u5abf21b7-d4ea-43d1-95ab-017dea3bd06&amp;title=&amp;width=1351\" /></p>\n<p>做完之后，女朋友确实在使用了，效率提升巨大，只需要导入原始数据，就能导出想要的 Excel ，但是也产生了一些矛盾，不知道该如何解决：</p>\n<ol>\n<li>我想把这个推给她公司其他运营使用，她认为自己用就行了，没必要让别人知道，她甚至不在公司使用，自己自在家里用，她有点怕主管</li>\n<li>他们在用的 erp 系统里有亚马逊原始数据，我想问她要账号密码，然后直接从 erp 系统里自动拉取原始数据，这样就不需要她手动导入了，这样她就能完全摆脱这一部分工作。她不愿意把账号给我，怕我搞出什么事情，影响 erp 系统，不相信我</li>\n</ol>\n<p>说实话，第 2 点我心里有点难受的，真的是不相信我，宁愿自己手动导入，这已经不是软件的问题了，我有点不想帮她做了，这几天心情有点抑郁，哎</p>",
+    "publish_time": "2023-06-01 12:19:36",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
