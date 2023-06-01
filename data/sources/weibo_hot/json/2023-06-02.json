@@ -619,5 +619,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "今天竟然也有疯狂星期四",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E7%AB%9F%E7%84%B6%E4%B9%9F%E6%9C%89%E7%96%AF%E7%8B%82%E6%98%9F%E6%9C%9F%E5%9B%9B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "臭宝有料carry全场",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%87%AD%E5%AE%9D%E6%9C%89%E6%96%99carry%E5%85%A8%E5%9C%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "2023足球冠军行",
+    "url": "https://s.weibo.com/weibo?q=%232023%E8%B6%B3%E7%90%83%E5%86%A0%E5%86%9B%E8%A1%8C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
