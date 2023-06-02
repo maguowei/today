@@ -1594,5 +1594,127 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "小龙虾自由全靠美团外卖",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%BE%99%E8%99%BE%E8%87%AA%E7%94%B1%E5%85%A8%E9%9D%A0%E7%BE%8E%E5%9B%A2%E5%A4%96%E5%8D%96%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "周深说一起跟着热热身吧",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E8%AF%B4%E4%B8%80%E8%B5%B7%E8%B7%9F%E7%9D%80%E7%83%AD%E7%83%AD%E8%BA%AB%E5%90%A7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "《明日方舟》发布新 PV「空想花庭」，你有哪些评价？",
+    "url": "https://www.zhihu.com/question/604399669",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "蒙牛优益 C 怎么样，好喝吗？除了直接饮用，还有哪些创意喝法？",
+    "url": "https://www.zhihu.com/question/558873791",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "高考结束是一种什么感觉?",
+    "url": "https://www.zhihu.com/question/604211864",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "In vitro biological system of cultured brain cells has learned to play Pong",
+    "url": "https://www.nature.com/articles/s42256-023-00666-w",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36169486\">Comments</a>",
+    "publish_time": "2023-06-03 03:13:17",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A new attack can unmask anonymous users on any major browser (2022)",
+    "url": "https://www.wired.com/story/web-deanonymization-side-channel-attack-njit/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36169513\">Comments</a>",
+    "publish_time": "2023-06-03 03:16:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "US military has been observing ‘metallic orbs’ making extraordinary ‘maneuvers’",
+    "url": "https://thehill.com/opinion/national-security/4030026-us-military-has-been-observing-metallic-orbs-making-extraordinary-maneuvers/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36170105\">Comments</a>",
+    "publish_time": "2023-06-03 04:09:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Moratorium on freaking out about AI",
+    "url": "https://kyledrake.com/writings/ai",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36169999\">Comments</a>",
+    "publish_time": "2023-06-03 03:57:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Kenneth Anger has died",
+    "url": "https://dangerousminds.net/comments/kenneth_anger_rip_the_magus_of_american_cinema_dead_at_96",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36167694\">Comments</a>",
+    "publish_time": "2023-06-03 00:58:37",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "He made linear algebra fun",
+    "url": "https://news.mit.edu/2023/gilbert-strang-made-linear-algebra-fun-0531",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36168068\">Comments</a>",
+    "publish_time": "2023-06-03 01:23:18",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Brute.Fail: Watch brute force attacks fail in real time",
+    "url": "https://brute.fail/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36169954\">Comments</a>",
+    "publish_time": "2023-06-03 03:49:56",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
