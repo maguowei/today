@@ -174,5 +174,27 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "浪潮之巅，如何让大语言模型走向金融应用新纪元｜InfoQ 极客有约",
+    "url": "https://www.infoq.cn/article/eJmFPe7oGOoQi4flItDe",
+    "summary": "<p>AIGC时代曾经的 AI 落地难题，是否还有新的突破？金融领域优秀的大模型应该具备哪些特征？如何选择适合不同场景的大语言模型？本期《极客有约》特邀3位资深技术专家与你深入探讨AI在金融领域的应用前景，解决落地难题以及优秀的金融领域大模型的特征和选型。</p>\n<h1>访谈对象</h1>\n<p>王恒 众安保险/数据科学应用中心算法部负责人<br />\n卢亿雷 白海科技创始人兼 CEO，TGO 北京董事会成员<br />\n刘洪涛 度小满  NLP 专家研究员</p>\n<h1>直播亮点</h1>\n<p>AIGC 时代，曾经的 AI 落地难问题是否依旧存在？<br />\n金融领域优秀的大模型该具备怎样的特征？<br />\n不同场景，如何进行大语言模型选型？<br />\nAIGC 和自身技术路线融合应优先考虑哪些问题？</p>",
+    "publish_time": "2023-06-02 18:30:12",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "红帽推出生成式AI服务 Ansible Lightspeed",
+    "url": "https://www.infoq.cn/article/LpXhfIXrBZqRIfTaorme",
+    "summary": "<p>开源解决方案供应商红帽日前宣布推出搭载 IBM Watson Code Assistant 的 Ansible Lightspeed。</p><p>&nbsp;</p><p>据悉，Ansible Lightspeed 是为实现 Ansible 自动化而推出的一项新的生成式人工智能服务。该服务旨在推动企业以一致的方式精准部署自动化技术，让新手用户更容易实现任务自动化，同时可以帮助经验丰富的自动化人员减轻创建低级别任务的负担。</p><p></p><p>在行业形势不断变化、且经济不确定的时代，企业面临着用更少的资源实现更多目标的挑战。企业需要多样化的人才来保持弹性，推动创新，并实现混合云和自动化投资的全部价值。然而，缺乏关键 IT 技能可能会威胁到这些想法的实现。</p><p></p><p>根据 IDC 的数据，“到 2025 年，90%的全球组织将面临 IT 技能危机，”这意味着“到 2026 年，如果企业不能有效地解决内部人才和数字技能差距的问题，会让他们失去 20%的收入增长机会。”但是，“由于技能缺乏，到 2025 年，投资数字采用平台和自动化学习技术的 CIO 将能够把生产力提高 40%，从而驱动他们以更快的速度学习专业知识。”</p><p></p><p>Ansible Lightspeed 代表 Wisdom 计划的下一个阶段，旨在使用户、贡献者、客户和红帽合作伙伴生态系统都容易使用。该服务使用自然语言处理技术，并与 Watson Code Assistant 集成（预计将于今年晚些时候正式推出），以访问 IBM 基础模型并快速构建自动化代码。Watson Code Assistant（技术预览阶段）为企业带来的价值在于：消除技能差距和提高效率，以加速自动化价值的实现。</p><p></p><p>Ansible Lightspeed 在设计时考虑到了开发人员和运维人员的需求，允许 Ansible 用户输入简单的英语提示，从而显著提高他们的生产力，同时，用户更容易将其领域的专业知识转化为用于创建或编辑 Ansible 操作手册的 YAML 代码。据悉，为帮助训练模型，用户也可以提供反馈意见。</p>",
+    "publish_time": "2023-06-02 18:42:14",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
