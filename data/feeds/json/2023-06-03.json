@@ -1716,5 +1716,56 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "德克萨斯",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%85%8B%E8%90%A8%E6%96%AF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "你见过最冷静的人是怎么样的？",
+    "url": "https://www.zhihu.com/question/315251005",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Photography's new bag of tricks (1984)",
+    "url": "https://www.nytimes.com/1984/11/04/magazine/photography-s-new-bag-of-tricks.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36170657\">Comments</a>",
+    "publish_time": "2023-06-03 04:58:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Systems explained by Humberto Maturana",
+    "url": "https://www.open.edu/openlearn/money-management/management/leadership-and-management/managing/systems-explained-humberto-maturana",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36169523\">Comments</a>",
+    "publish_time": "2023-06-03 03:16:44",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "OneSignal (YC S11) is hiring a data and analytics specialist",
+    "url": "https://onesignal.com/careers/4007708006",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36170689\">Comments</a>",
+    "publish_time": "2023-06-03 05:00:46",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
