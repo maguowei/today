@@ -1318,5 +1318,85 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "神十五航天员回地球",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E4%BA%94%E8%88%AA%E5%A4%A9%E5%91%98%E5%9B%9E%E5%9C%B0%E7%90%83%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "五月天第二十场鸟巢",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%9C%BA%E9%B8%9F%E5%B7%A2%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "刘敏涛岳云鹏演夫妻",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E6%95%8F%E6%B6%9B%E5%B2%B3%E4%BA%91%E9%B9%8F%E6%BC%94%E5%A4%AB%E5%A6%BB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "注射死刑对比枪决，是技术上的进步还是人道主义上的进步？",
+    "url": "https://www.zhihu.com/question/479274751",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "How Reddit became the enemy [video]",
+    "url": "https://www.youtube.com/watch?v=Ypwgu1BpaO0",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36177876\">Comments</a>",
+    "publish_time": "2023-06-04 00:15:56",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ask HN: What’s the deal with random people sending me money over PayPal?",
+    "url": "https://news.ycombinator.com/item?id=36179196",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36179196\">Comments</a>",
+    "publish_time": "2023-06-04 02:26:41",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ben Eater: Running Apple 1 software on a breadboard computer (Wozmon) [video]",
+    "url": "https://www.youtube.com/watch?v=HlLCtjJzHVI",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36178332\">Comments</a>",
+    "publish_time": "2023-06-04 01:02:13",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Classic components could be replaced by rubber in next-gen loudspeakers",
+    "url": "https://www.polytechnique-insights.com/en/columns/science/loudspeakers-new-materials-in-acoustics/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36179111\">Comments</a>",
+    "publish_time": "2023-06-04 02:18:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
