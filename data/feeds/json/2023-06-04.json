@@ -1493,5 +1493,36 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "高叶 常州",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%8F%B6+%E5%B8%B8%E5%B7%9E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Nvidia Started in a Denny’s. Now It’s Worth $1T",
+    "url": "https://www.wsj.com/articles/nvidia-ai-chips-jensen-huang-dennys-d3226926",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36178885\">Comments</a>",
+    "publish_time": "2023-06-04 01:57:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Sick Workers Connected to 41 Percent of Food Poisoning Outbreaks, CDC Reports",
+    "url": "https://www.smithsonianmag.com/smart-news/sick-workers-connected-to-41-percent-of-food-poisoning-outbreaks-cdc-reports-180982283/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36180026\">Comments</a>",
+    "publish_time": "2023-06-04 04:03:46",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
