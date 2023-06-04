@@ -1411,5 +1411,138 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "不愧是冠军亚军的实力",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%84%A7%E6%98%AF%E5%86%A0%E5%86%9B%E4%BA%9A%E5%86%9B%E7%9A%84%E5%AE%9E%E5%8A%9B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "暑假神剧西游记",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9A%91%E5%81%87%E7%A5%9E%E5%89%A7%E8%A5%BF%E6%B8%B8%E8%AE%B0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "700多年前满是花花的画太惊艳",
+    "url": "https://s.weibo.com/weibo?q=%23700%E5%A4%9A%E5%B9%B4%E5%89%8D%E6%BB%A1%E6%98%AF%E8%8A%B1%E8%8A%B1%E7%9A%84%E7%94%BB%E5%A4%AA%E6%83%8A%E8%89%B3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "一定要靠读书才能出人头地吗？",
+    "url": "https://www.zhihu.com/question/602090050",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "作为数学系的学生，你在本科期间都自学了什么课程？",
+    "url": "https://www.zhihu.com/question/603636271",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美股三大指数集体收涨，热门中概股普涨",
+    "url": "https://www.36kr.com/newsflashes/2287987463821063",
+    "summary": "36氪获悉，6月2日收盘，美股三大指数集体收涨，道指涨2.12%，纳指涨1.07%，标普500指数涨1.45%。大型科技股多数上涨，特斯拉涨超3％，亚马逊涨超1％，微软涨0.85％，谷歌涨0.77％，苹果涨0.48％，Meta平收，Netflix跌0.66％。热门中概股普涨，爱奇艺、虎牙、携程涨超6％，小鹏汽车、唯品会涨超5％，名创优品涨超3％，京东、百度、微博、腾讯音乐涨超2％，阿里巴巴、知乎涨超1％，理想汽车、蔚来、拼多多小幅上涨。",
+    "publish_time": "2023-06-05 07:01:12",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Blink 1.0",
+    "url": "https://github.com/jart/blink/releases/tag/1.0.0",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36189920\">Comments</a>",
+    "publish_time": "2023-06-05 05:48:56",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Power outages and sweltering heat in Vietnam, people struggling to cope",
+    "url": "https://vietnam.postsen.com/local/352866/Continuous-power-outage-people-struggling-to-cope-with-the-heat.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36189980\">Comments</a>",
+    "publish_time": "2023-06-05 05:56:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "eBPF for Cybersecurity – Part 1",
+    "url": "https://blog.cloudnativefolks.org/ebpf-for-cybersecurity-part-1",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36189821\">Comments</a>",
+    "publish_time": "2023-06-05 05:36:39",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Wonky – An exploration of rhythm and grooves that break the rules",
+    "url": "https://pudding.cool/2023/06/groove/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36189583\">Comments</a>",
+    "publish_time": "2023-06-05 05:07:55",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Do We Need Copyright?",
+    "url": "https://lemire.me/blog/2012/03/22/do-we-need-copyright/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36190184\">Comments</a>",
+    "publish_time": "2023-06-05 06:28:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The culture map: How to navigate foreign cultures in business",
+    "url": "https://ahalbert.com/reviews/2023/06/04/the_culture_map.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36190015\">Comments</a>",
+    "publish_time": "2023-06-05 06:02:20",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Social media for AI bots: “No humans allowed”",
+    "url": "https://www.fry-ai.com/p/social-media-no-humans-allowed",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36189962\">Comments</a>",
+    "publish_time": "2023-06-05 05:54:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
