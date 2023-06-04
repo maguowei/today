@@ -1169,5 +1169,107 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "全新雅阁来电首秀",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E6%96%B0%E9%9B%85%E9%98%81%E6%9D%A5%E7%94%B5%E9%A6%96%E7%A7%80%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "梦中的那片海塑造的女性",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%A2%A6%E4%B8%AD%E7%9A%84%E9%82%A3%E7%89%87%E6%B5%B7%E5%A1%91%E9%80%A0%E7%9A%84%E5%A5%B3%E6%80%A7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "梅西回应内马尔",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E5%9B%9E%E5%BA%94%E5%86%85%E9%A9%AC%E5%B0%94%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "《塞尔达传说：王国之泪》地下世界感觉有点压抑，怎么玩比较好？",
+    "url": "https://www.zhihu.com/question/600762687",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Warner Discovery CEO made $498M in the last 5 years– 384x the average writer",
+    "url": "https://www.cnbc.com/2023/06/01/top-hollywood-exec-made-498-million-in-5-years-while-writer-pay-fell.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36187706\">Comments</a>",
+    "publish_time": "2023-06-05 01:50:33",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: SQL Dry Runs with SQL Simulator",
+    "url": "https://www.tribalknowledge.tech/blog/top-6-questions-about-doing-a-sql-dry-run-with-sql-simulator",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36187556\">Comments</a>",
+    "publish_time": "2023-06-05 01:33:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "AMD’s RX 7600: Small RDNA 3 Appears",
+    "url": "https://chipsandcheese.com/2023/06/04/amds-rx-7600-small-rdna-3-appears/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36187744\">Comments</a>",
+    "publish_time": "2023-06-05 01:55:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Popular Subreddits are organizing a strike on 2023-06-12 b/c high API prices",
+    "url": "https://old.reddit.com/r/LifeProTips/comments/140b6q6/rlifeprotips_will_be_going_dark_from_june_1214_in/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36187705\">Comments</a>",
+    "publish_time": "2023-06-05 01:50:21",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "It’s infuriatingly hard to understand how closed models train on their input",
+    "url": "https://simonwillison.net/2023/Jun/4/closed-model-training/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36187994\">Comments</a>",
+    "publish_time": "2023-06-05 02:16:40",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "WFH – Watched from Home: Office 365 and workplace surveillance creep",
+    "url": "https://privacyinternational.org/long-read/4909/wfh-watched-home-office-365-and-workplace-surveillance-creep",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36187550\">Comments</a>",
+    "publish_time": "2023-06-05 01:33:24",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
