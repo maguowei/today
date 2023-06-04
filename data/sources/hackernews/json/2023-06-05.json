@@ -141,5 +141,27 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Redream: Realtime Diffusion, Using Automatic1111 Stable Diffusion API",
+    "url": "https://github.com/Fictiverse/Redream",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36189027\">Comments</a>",
+    "publish_time": "2023-06-05 04:01:46",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Crun: Fast and lightweight OCI runtime and C library for running containers",
+    "url": "https://github.com/containers/crun",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36189107\">Comments</a>",
+    "publish_time": "2023-06-05 04:09:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
