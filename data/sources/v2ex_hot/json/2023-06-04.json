@@ -9,5 +9,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "不知不觉买了一堆便宜 VPS，买服务器居然会成瘾",
+    "url": "https://www.v2ex.com/t/945609",
+    "summary": "vincent7245: <p>买服务器居然也会上瘾，看到有便宜的就想买，不知不觉手里已经囤了一堆了。</p>\n<table>\n<thead>\n<tr>\n<th>服务商</th>\n<th>配置</th>\n<th>费用</th>\n<th>用途</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>腾讯轻量无忧</td>\n<td>1C2G</td>\n<td>190/年</td>\n<td>备案的网站、笔记、Bitwarden 、Gitea</td>\n</tr>\n<tr>\n<td>腾讯云首单优惠</td>\n<td>2C4G</td>\n<td>158 马上到期了</td>\n<td>闲置</td>\n</tr>\n<tr>\n<td>狗云香港</td>\n<td>1C1G</td>\n<td>100/ 年</td>\n<td>魔法、建站</td>\n</tr>\n<tr>\n<td>狗云香港</td>\n<td>1C1G</td>\n<td>100/年</td>\n<td>魔法</td>\n</tr>\n<tr>\n<td>野草云</td>\n<td>2C8G</td>\n<td>266/年</td>\n<td>开发测试环境</td>\n</tr>\n<tr>\n<td>racknerd</td>\n<td>2C3G</td>\n<td>$32/年</td>\n<td>邮箱服务、魔法</td>\n</tr>\n<tr>\n<td>racknerd</td>\n<td>1C 0.5G</td>\n<td>$10/年</td>\n<td>魔法</td>\n</tr>\n</tbody></table><p>除了国内的腾讯云轻量，其他的服务器负载很低，几户算是闲置了，还能再搭建什么服务让其物尽其用呢。</p>",
+    "publish_time": "2023-06-04 10:13:25",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
