@@ -1060,5 +1060,114 @@
       "desc": "知乎热榜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
     }
+  },
+  {
+    "title": "守护一平米清风林",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AE%88%E6%8A%A4%E4%B8%80%E5%B9%B3%E7%B1%B3%E6%B8%85%E9%A3%8E%E6%9E%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "卡车司机车内搭窝收养三只小猫",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8D%A1%E8%BD%A6%E5%8F%B8%E6%9C%BA%E8%BD%A6%E5%86%85%E6%90%AD%E7%AA%9D%E6%94%B6%E5%85%BB%E4%B8%89%E5%8F%AA%E5%B0%8F%E7%8C%AB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "不应该丧失对感情的信心",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%BA%94%E8%AF%A5%E4%B8%A7%E5%A4%B1%E5%AF%B9%E6%84%9F%E6%83%85%E7%9A%84%E4%BF%A1%E5%BF%83%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "梦中的那片海版换乘恋爱",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%A2%A6%E4%B8%AD%E7%9A%84%E9%82%A3%E7%89%87%E6%B5%B7%E7%89%88%E6%8D%A2%E4%B9%98%E6%81%8B%E7%88%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "在县城，公务员晋升正科难吗？",
+    "url": "https://www.zhihu.com/question/597393632",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "22-23 赛季法甲巴黎圣日耳曼 2:3 克莱蒙，梅西拉莫斯告别姆巴佩点射夺金靴，如何评价这场比赛？",
+    "url": "https://www.zhihu.com/question/604675441",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Compress-a-Palooza: Unpacking 5B Varints in Only 4B CPU Cycles",
+    "url": "https://www.bazhenov.me/posts/rust-stream-vbyte-varint-decoding/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36187102\">Comments</a>",
+    "publish_time": "2023-06-05 00:46:44",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Llama.cpp can do 40 tok/s on M2 Max, 0% CPU usage, using all 38 GPU cores",
+    "url": "https://twitter.com/natfriedman/status/1665402680376987648",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36187466\">Comments</a>",
+    "publish_time": "2023-06-05 01:24:17",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Optery (YC W22) Hiring in Sales, Marketing, Customer Success, Business Ops",
+    "url": "https://www.ycombinator.com/companies/optery/jobs",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36187786\">Comments</a>",
+    "publish_time": "2023-06-05 01:59:18",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Dennis Ritchie’s page on Bell Labs website",
+    "url": "https://www.bell-labs.com/usr/dmr/www/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36187174\">Comments</a>",
+    "publish_time": "2023-06-05 00:55:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "World’s oceans at record high temperature for 80 consecutive days",
+    "url": "https://climatereanalyzer.org/clim/sst_daily/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36187203\">Comments</a>",
+    "publish_time": "2023-06-05 00:58:28",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
