@@ -736,5 +736,14 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "选品质就是选生活",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%80%89%E5%93%81%E8%B4%A8%E5%B0%B1%E6%98%AF%E9%80%89%E7%94%9F%E6%B4%BB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]

@@ -1691,5 +1691,65 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "选品质就是选生活",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%80%89%E5%93%81%E8%B4%A8%E5%B0%B1%E6%98%AF%E9%80%89%E7%94%9F%E6%B4%BB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "你觉得生活重要，还是工作重要？",
+    "url": "https://www.zhihu.com/question/595503975",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "修仙小说能否反着来，开始是最高等级，每过一个劫会下降一个等级?",
+    "url": "https://www.zhihu.com/question/603426949",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "AI Does Not Help Programmers",
+    "url": "https://cacm.acm.org/blogs/blog-cacm/273577-ai-does-not-help-programmers/fulltext",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36202543\">Comments</a>",
+    "publish_time": "2023-06-06 03:51:50",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Some Blogging Myths",
+    "url": "https://jvns.ca/blog/2023/06/05/some-blogging-myths/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36201821\">Comments</a>",
+    "publish_time": "2023-06-06 03:12:44",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Is there a wider internet outage today?",
+    "url": "https://www.thousandeyes.com/outages/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36203204\">Comments</a>",
+    "publish_time": "2023-06-06 04:34:57",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
