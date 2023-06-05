@@ -42,5 +42,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "XDM，遇到 SB 同事怎么破",
+    "url": "https://www.v2ex.com/t/945806",
+    "summary": "leeggco: <p>旁边的同事经常性的自言自语，不管是打代码时还是摸鱼的时候。\n叽叽喳喳的，语气跌宕起伏，什么 giao ，我艹混在其中，整得我快神经衰弱了</p>\n<p>有什么方法可以破？</p>",
+    "publish_time": "2023-06-05 09:38:36",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "Java 出活真的快吗",
+    "url": "https://www.v2ex.com/t/945809",
+    "summary": "javak: <p>经常看到有人说，做自己的项目用 php 、python 、ruby 等等或者其他的什么框架，出活贼快。想具体讨论下。</p>\n<p>正好最近我接了一个私活，是做一个 app 的后端+一个简单的后台管理系统的后端，因为 app 和前端对方已经找到相应的人了。</p>\n<p>有个有个朋友找到我，我就选了 Java ，因为我只会用 springboot ，选别的还得重头学。</p>\n<p>是从 0 开始搭建一个后端服务，对方给到我的内容：</p>\n<ul>\n<li>设计稿和需求文档</li>\n<li>服务器的 ip 和基本权限，服务器上什么软件都没有，需要我自己去安装。</li>\n</ul>\n<p>功能点包括：</p>\n<ul>\n<li>用户注册登录：微信+手机，个人信息维护</li>\n<li>选课+学习（类似得到那种买课然后上课）</li>\n<li>一个极简版的商城（展示的内容，都是人工在管理平台配置）</li>\n<li>学习过程中的积分体系（类似 V2EX 的铜板）</li>\n<li>一些场景展示的广告配置。</li>\n</ul>\n<p>我只做了一个服务，把 app 端的功能和管理平台的功能都放到这同一个服务里面。\n我做的事情包括：</p>\n<ul>\n<li>部署 nginx （因为前端也要用到，我就顺便一起弄了） + java server(就是下载一个 jdk + maven), 然后通过 java -jar 运行起来。</li>\n<li>设计所有的数据表</li>\n<li>从 0 开始，搭建服务框架（包括可以跟踪的 log 系统，就是每个 log 都带上 traceid ），然后 CURD 。</li>\n</ul>\n<p>我做的过程中，都用了计时统计，全部弄好上线，一共花了 20 小时。（这是纯纯的动手时间，和上班那种一天 8 小时，5 小时在划水的，8 小时工作不是同一个意思。）</p>\n<hr />\n<p>如果上面这些事，用 php 、python 、ruby 熟手，需要花多久时间呢？</p>",
+    "publish_time": "2023-06-05 09:40:26",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
