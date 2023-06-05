@@ -1602,5 +1602,94 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "AppleVisionPro售价",
+    "url": "https://s.weibo.com/weibo?q=%23AppleVisionPro%E5%94%AE%E4%BB%B7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "蛋仔派对",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%9B%8B%E4%BB%94%E6%B4%BE%E5%AF%B9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何评价苹果WWDC23新发布的Apple Vision Pro？",
+    "url": "https://www.zhihu.com/question/604992942",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "这次《暗黑破坏神 4》游戏评分很高，为什么还有很多人批评？",
+    "url": "https://www.zhihu.com/question/604399227",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何让英语能力达到英语母语者的水平？",
+    "url": "https://www.zhihu.com/question/276101963",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "苹果发布首款MR头显设备“Apple Vision Pro”，售价3499美元",
+    "url": "https://www.36kr.com/newsflashes/2289130126513929",
+    "summary": "36氪获悉，苹果发布首款MR头显设备“Apple Vision Pro”，售价为3499美元，将于2024年初开售。该设备具有外部摄像头，允许用户在混合现实中与数字内容互动。截至发稿，苹果涨幅重新扩大至1.3%。",
+    "publish_time": "2023-06-06 02:23:34",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "macOS 14 will support JPEG XL",
+    "url": "https://twitter.com/jonsneyers/status/1665792517613256705",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36202088\">Comments</a>",
+    "publish_time": "2023-06-06 03:23:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Apple Vision Pro",
+    "url": "https://www.apple.com/apple-vision-pro/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36201608\">Comments</a>",
+    "publish_time": "2023-06-06 03:06:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Apple Vision Pro: Apple’s first spatial computer",
+    "url": "https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36201593\">Comments</a>",
+    "publish_time": "2023-06-06 03:04:46",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
