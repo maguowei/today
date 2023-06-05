@@ -1829,5 +1829,96 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "钢笔还给我爸爸",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%92%A2%E7%AC%94%E8%BF%98%E7%BB%99%E6%88%91%E7%88%B8%E7%88%B8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何评价苹果于 2023 年 6 月 6 日发布的新款 Mac Pro?",
+    "url": "https://www.zhihu.com/question/604990649",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "缺爱的人该如何弥补？",
+    "url": "https://www.zhihu.com/question/336101733",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "你最喜欢哪个城市的建筑风格和氛围？为什么？",
+    "url": "https://www.zhihu.com/question/602755182",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美股三大指数集体收跌，大型科技股涨跌不一",
+    "url": "https://www.36kr.com/newsflashes/2289402190764035",
+    "summary": "36氪获悉，6月5日收盘，美股三大指数集体下跌，道指跌0.59%，纳指跌0.09%，标普500指数跌0.2%。大型科技股涨跌不一，特斯拉、谷歌涨超1%，亚马逊涨近1%，苹果跌近1%。热门中概股涨跌互现，京东、理想汽车涨超2%，蔚来涨超1%；哔哩哔哩、拼多多跌超2%，微博跌超1%。",
+    "publish_time": "2023-06-06 07:00:20",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Flora Incognita – free AI-supported plant identification university project",
+    "url": "https://floraincognita.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36201143\">Comments</a>",
+    "publish_time": "2023-06-06 02:48:21",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Poor people often don’t survive to become seniors who vote",
+    "url": "https://nymag.com/intelligencer/2018/05/poor-people-often-dont-survive-to-become-seniors-who-vote.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36205117\">Comments</a>",
+    "publish_time": "2023-06-06 06:37:57",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Building a programming language in twenty-four hours",
+    "url": "https://ersei.net/en/blog/diy-programming-language",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36198566\">Comments</a>",
+    "publish_time": "2023-06-06 00:19:06",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Demo: Fully P2P and open source Reddit alternative",
+    "url": "https://plebbit-test.netlify.app",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36203610\">Comments</a>",
+    "publish_time": "2023-06-06 05:09:26",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
