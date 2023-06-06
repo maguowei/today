@@ -1388,5 +1388,101 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "我多少是懂点省钱的",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%A4%9A%E5%B0%91%E6%98%AF%E6%87%82%E7%82%B9%E7%9C%81%E9%92%B1%E7%9A%84%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "男明星的牙",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E6%98%8E%E6%98%9F%E7%9A%84%E7%89%99%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "光与夜之恋周年庆",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%89%E4%B8%8E%E5%A4%9C%E4%B9%8B%E6%81%8B%E5%91%A8%E5%B9%B4%E5%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "《原神》中散兵为什么选择冲进世界树？",
+    "url": "https://www.zhihu.com/question/600824378",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "高考在你人生中起到了什么关键性的作用？",
+    "url": "https://www.zhihu.com/question/604701022",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "外交部表示「不欢迎北约把触角伸向亚洲，不允许任何冷战热战重演」，透露了哪些信息？",
+    "url": "https://www.zhihu.com/question/604877619",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价 vivo S 系列在人像拍照上的探索，最近的 vivo S17 系列值得在 618 入手吗？",
+    "url": "https://www.zhihu.com/question/605040010",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "International Obfuscated Python Code Competition: Submissions Open",
+    "url": "https://pyobfusc.com",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36217302\">Comments</a>",
+    "publish_time": "2023-06-07 02:45:35",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The C Standard Library Function Isspace() Depends on Locale",
+    "url": "https://www.evanjones.ca/isspace_locale.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36216389\">Comments</a>",
+    "publish_time": "2023-06-07 01:40:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Early dispersal of domestic horses into the Great Plains and northern Rockies",
+    "url": "https://fermatslibrary.com/s/early-dispersal-of-domestic-horses-into-the-great-plains-and-northern-rockies",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36217746\">Comments</a>",
+    "publish_time": "2023-06-07 03:17:57",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
