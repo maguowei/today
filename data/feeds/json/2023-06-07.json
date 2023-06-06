@@ -1154,5 +1154,105 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "杨洋同款荣耀90开售",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E5%90%8C%E6%AC%BE%E8%8D%A3%E8%80%8090%E5%BC%80%E5%94%AE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "高考期间最忌减主食",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4%E6%9C%80%E5%BF%8C%E5%87%8F%E4%B8%BB%E9%A3%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "一句话祝福2023高考生",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%A5%9D%E7%A6%8F2023%E9%AB%98%E8%80%83%E7%94%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "加油高考生",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%B9%E9%AB%98%E8%80%83%E7%94%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "QD-OLED是OLED的天花板吗？和普通OLED有什么不同？",
+    "url": "https://www.zhihu.com/question/597923725",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Twitch: New TOS bans multi-streaming/simulcasting",
+    "url": "https://www.twitch.tv/p/en/legal/terms-of-service/#11-simulcasting",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36216438\">Comments</a>",
+    "publish_time": "2023-06-07 01:43:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "RedPajama 7B (an Apache 2.0-licensed LLaMa) is now available",
+    "url": "https://www.together.xyz/blog/redpajama-7b",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36216056\">Comments</a>",
+    "publish_time": "2023-06-07 01:17:56",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Modern Image Processing Algorithms Implementation in C",
+    "url": "https://sod.pixlab.io/articles/modern-image-processing-algorithms-implementation.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36215924\">Comments</a>",
+    "publish_time": "2023-06-07 01:07:43",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Motion (YC W20) Is Hiring Front End Engineers",
+    "url": "https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36215816\">Comments</a>",
+    "publish_time": "2023-06-07 01:00:18",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Reddit permanently bans account of user advocating Lemmy migration",
+    "url": "https://lemmy.ml/post/1152281",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36215914\">Comments</a>",
+    "publish_time": "2023-06-07 01:06:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
