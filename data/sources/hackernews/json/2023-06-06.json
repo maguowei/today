@@ -933,5 +933,60 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "We reported a security issue in AWS CDK’s eks.Cluster component",
+    "url": "https://garden.io/blog/aws-security-issue",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36213332\">Comments</a>",
+    "publish_time": "2023-06-06 22:27:42",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Launch HN: Seam (YC S20) – API for IoT Devices",
+    "url": "https://news.ycombinator.com/item?id=36212903",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36212903\">Comments</a>",
+    "publish_time": "2023-06-06 22:00:21",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ripping off professional criminals by fermenting onions",
+    "url": "https://shufflingbytes.com/posts/ripping-off-professional-criminals-by-fermenting-onions-phishing-darknet-users-for-bitcoins/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36212480\">Comments</a>",
+    "publish_time": "2023-06-06 21:34:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Chrome still hasn't changed its opinion about dropping JPEG XL support",
+    "url": "https://bugs.chromium.org/p/chromium/issues/detail?id=1178058#c406",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36213330\">Comments</a>",
+    "publish_time": "2023-06-06 22:27:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "OpenGL 3.1 on Asahi Linux",
+    "url": "https://asahilinux.org/2023/06/opengl-3-1-on-asahi-linux/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36212674\">Comments</a>",
+    "publish_time": "2023-06-06 21:46:13",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
