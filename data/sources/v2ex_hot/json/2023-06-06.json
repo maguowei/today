@@ -75,5 +75,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "致钛 TiPlus 5000 数据丢失， 0E 暴涨",
+    "url": "https://www.v2ex.com/t/946092",
+    "summary": "mikewang: <p>去年双十一，500 多元在 JD 自营店买的 TiPlus 5000 1TB ，一直放在 NAS 内使用。半年多就 0E 了。</p>\n<p>昨天晚上发现 NAS 上的虚拟机无法启动，检查了一下是硬盘镜像损坏了；再一查 smart ，发现有 0E 。</p>\n<p>发现后赶紧把固态全盘备份了一下，然后 0E 瞬间暴涨到 23 ，有四个文件完全损毁，好在盘里没有任何重要数据。</p>\n<p>已经不敢再用了，准备售后吧。</p>\n<hr />\n<p>之前也是考虑到三星有 0E 健康度问题，西数有冷数据问题，同时支持国产所以买了致钛。为了保证原厂品质，特地没有选梵想之类更便宜的...</p>\n<p>谁知道半年就出了问题。现在还有靠谱的固态吗，经不起折腾，太累了...</p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/18HF4W1.png\" />\n<img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/SwNHG8P.png\" /></p>",
+    "publish_time": "2023-06-06 00:27:04",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "库克的内存和存储还是那么抠，可吐了",
+    "url": "https://www.v2ex.com/t/946144",
+    "summary": "polobug: <p>1500 换 8g 含泪赚 80%</p>",
+    "publish_time": "2023-06-06 09:32:16",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
