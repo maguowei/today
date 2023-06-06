@@ -1,0 +1,13 @@
+[
+  {
+    "title": "AI近期新闻：OpenAI、微软、Meta及Bloomberg",
+    "url": "https://www.infoq.cn/article/Bpz3oN3tByqK3z0r5YY6",
+    "summary": "<p>2023年4月3日的综述包括来自数据科学、机器学习和人工智能领域的最新新闻和信息。我们主要关注的是OpenAI、微软、Meta和Bloomberg的新突破和创新，他们是市场上仅有的几个主要竞争对手。</p><p></p><p>以下是自然语言处理（NLP）模型、人工智能（AI）新开发工具、道德人工智能（ethical AI）实践和其他学科的最新发展。</p><p></p><h2>OpenAI的GPT-4</h2><p></p><p></p><p><a href=\"https://www.infoq.com/news/2023/04/openai-gpt4/\">OpenAI最近发布了GPT-4</a>\"，这是其GPT大语言模型（LLM）系列的下一代产品。GPT-4可以接受文本和图像输入，并在多个自然语言处理（NLP）基准测试中优于最先进的系统。该模型在模拟律师资格考试中的成绩超过了90%的考生。</p><p></p><p>此外，<a href=\"https://openai.com/blog/our-approach-to-ai-safety\">OpenAI还宣布了他们的人工智能安全方法</a>\"，即通过提高人工智能系统从人类反馈中学习并帮助人类评估人工智能的能力。其目标是构建一个充分对齐的人工智能系统，以帮助解决所有其他对齐问题（Alignment Problems）。</p><p></p><h2>微软的SK</h2><p></p><p></p><p><a href=\"https://www.infoq.com/news/2023/03/microsoft-semantic-kernel/\">微软开源了语义内核（Semantic Kernel，SK）</a>\"，这是一种轻量级的SDK，可以将大语言模型（LLM）与传统程序集成，从而可以利用提示模板、矢量化内存、智能规划和其他功能。</p><p></p><p>此外，<a href=\"https://arxiv.org/abs/2303.16434\">微软研究人员还推出了TaskMatrix.AI</a>\"。这是一种新的人工智能生态系统，将基础模型与数百万个API连接起来，以完成任务。这一概念涉及将基础模型与数百万个现有模型和系统API的集成，从而产生可以执行各种数字和物理任务的超级人工智能。虽然人工智能模型和系统目前旨在有效地解决特定领域的问题，但其实现和工作机制的多样性可能会使基础模型难以访问。这个新的生态系统旨在通过提供一个统一框架来连接这些人工智能模型和系统，以克服这些障碍。</p><p></p><h2>Meta的SAM</h2><p></p><p></p><p>Meta刚刚发布了<a href=\"https://ai.facebook.com/blog/segment-anything-foundation-model-image-segmentation/\">Segment Anything Model（SAM）</a>\"。这一新模型允许人工智能通过一次点击即可提取图像或视频中的对象。它利用了先进的计算机视觉技术，使计算机能够分析并理解图像或视频等视觉信息，其方式类似于人类如何感知并解释其所见的内容。</p><p></p><h2>Bloomberg的GPT</h2><p></p><p></p><p><a href=\"https://www.infoq.com/news/2023/04/bloomberg-gpt-ai/\">Bloomberg发布了BloombergGPT</a>\"，这是一种新的大语言模型（LLM），它经过了大量金融数据的训练，可以帮助金融部门进行一系列的自然语言处理（NLP）活动。BlooombergGPT是一种尖端的人工智能，可以快速评估财务数据，以帮助进行风险评估、衡量财务情绪，甚至可以实现会计和审计活动自动化。</p><p></p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2023/04/ai-ml-data-news-april3-2023/\">https://www.infoq.com/news/2023/04/ai-ml-data-news-april3-2023/</a>\"</p><p></p><p>相关阅读：</p><p><a href=\"https://www.infoq.cn/article/RL7iFW2SqO0Ppv4msCsL\">防止AI胡说八道！OpenAI公布最新大模型训练方法，监督AI像人类一样思考</a>\"</p><p><a href=\"https://www.infoq.cn/article/ARJEOOh2M5oAmwRCpzfk\">字少事大！OpenAI 创始人等超350名大牛再签联名信，一句话声明简短有力：AI或引发灭绝风险</a>\"</p>",
+    "publish_time": "2023-06-06 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
