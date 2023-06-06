@@ -1649,5 +1649,79 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "加油高考",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%B9%E9%AB%98%E8%80%83%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "为1291万考生祝福",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA1291%E4%B8%87%E8%80%83%E7%94%9F%E7%A5%9D%E7%A6%8F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "赵丽娜带乡村孩子们喊高考加油",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E5%A8%9C%E5%B8%A6%E4%B9%A1%E6%9D%91%E5%AD%A9%E5%AD%90%E4%BB%AC%E5%96%8A%E9%AB%98%E8%80%83%E5%8A%A0%E6%B2%B9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "张雨绮说孟子义独立女性结什么婚",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E8%AF%B4%E5%AD%9F%E5%AD%90%E4%B9%89%E7%8B%AC%E7%AB%8B%E5%A5%B3%E6%80%A7%E7%BB%93%E4%BB%80%E4%B9%88%E5%A9%9A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "本泽马与沙特联赛冠军吉达联合签约两年，年薪超过 2 亿欧元，对本泽马转会沙特联赛有何期待？",
+    "url": "https://www.zhihu.com/question/604909706",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何丰富科研之外时间的生活？",
+    "url": "https://www.zhihu.com/question/456373100",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "有什么是高考成绩出来后才明白的道理？",
+    "url": "https://www.zhihu.com/question/598558886",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Notes on Vision Pro",
+    "url": "https://notes.andymatuschak.org/Vision%20Pro",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36219585\">Comments</a>",
+    "publish_time": "2023-06-07 05:55:05",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
