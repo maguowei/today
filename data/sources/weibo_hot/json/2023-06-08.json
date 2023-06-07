@@ -610,5 +610,14 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "明天的你请继续加油",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%A4%A9%E7%9A%84%E4%BD%A0%E8%AF%B7%E7%BB%A7%E7%BB%AD%E5%8A%A0%E6%B2%B9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
