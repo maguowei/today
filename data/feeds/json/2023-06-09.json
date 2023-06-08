@@ -1465,5 +1465,76 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "杨迪说熊猫真的不好认",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E8%AF%B4%E7%86%8A%E7%8C%AB%E7%9C%9F%E7%9A%84%E4%B8%8D%E5%A5%BD%E8%AE%A4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "三国君主投降之后，魏称王，吴称侯，蜀称公，这是为什么？",
+    "url": "https://www.zhihu.com/question/499047452",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "人们总是说天赋大于努力，那如果一件事我明知道我没有天赋，那还要坚持吗？如果要，那坚持的意义是什么呢？",
+    "url": "https://www.zhihu.com/question/602474211",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美股三大指数集体收涨，大型科技股多数上涨",
+    "url": "https://www.36kr.com/newsflashes/2293643515648004",
+    "summary": "36氪获悉，6月8日收盘，美股三大指数集体收涨，道指涨0.5%，纳指涨1.02%，标普500指数涨0.62%，较去年10月份低点累涨超20%，步入技术性牛市。大型科技股多数上涨，特斯拉涨超4%，英伟达、亚马逊涨超2%，苹果涨超1%。热门中概股普涨，爱奇艺涨超5%，拼多多涨超3%，微博、B站、网易、阿里巴巴涨超1%，小鹏汽车、京东、理想汽车、蔚来、百度、腾讯音乐小幅上涨。",
+    "publish_time": "2023-06-09 07:00:06",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Cost of ‘reformatting’ prompts a call for journals to change their requirements",
+    "url": "https://www.nature.com/articles/d41586-023-01846-9",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36248446\">Comments</a>",
+    "publish_time": "2023-06-09 04:28:07",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "r/ProgrammerHumor will be shutting down to protest Reddit's API changes",
+    "url": "https://old.reddit.com/r/ProgrammerHumor/comments/141qwy8/programmer_humor_will_be_shutting_down/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36249958\">Comments</a>",
+    "publish_time": "2023-06-09 06:14:12",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Manjaro is a free and open source Linux operating system that emphasizes privacy",
+    "url": "https://manjaro.org/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36249036\">Comments</a>",
+    "publish_time": "2023-06-09 05:04:37",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
