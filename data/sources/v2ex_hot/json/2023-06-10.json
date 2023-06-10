@@ -86,5 +86,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "Java 应届生要不要换行",
+    "url": "https://www.v2ex.com/t/947515",
+    "summary": "young1: <p>今年刚毕业，普通本科科班的。找 java 相关的工作是真的难，应届生还要求几年工作经验的。难顶啊。各位老哥有什么好的建议吗。目前在武汉找 java 开发中。</p>",
+    "publish_time": "2023-06-10 12:54:26",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "[请教] Java 开发过渡到 VSCode 的障碍",
+    "url": "https://www.v2ex.com/t/947532",
+    "summary": "fox0001: <p>我们主要是 Java 开发。最近公司迁移开发工具，统一用上 VSCode 。使用上，渐渐适应起来了，但是有一点还是很难适应。</p>\n<p>以前用 Eclipse 、IntelliJ IDEA ，针对文件的操作，包括查看属性、查看引用、版本操作（ SVN 或 git ）等等，都是在同一个文件树进行操作。VSCode 却不行，针对 N 种操作有 N 课树，包括项目文件夹、Java 项目、版本管理等等。操作起来需要切换来切换去。</p>\n<p>疑问：</p>\n<ol>\n<li>是否有插件满足需求？起码在同一棵文件树，可以查看文件属性、版本状态（新增、修改、冲突、未更新等）、进行版本管理（提交、更新、强制回滚等）、对比历史版本等。</li>\n<li>或者说，是不是我的开发思维需要更新，需要更新到 VSCode 的方式？</li>\n</ol>",
+    "publish_time": "2023-06-10 14:51:38",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
