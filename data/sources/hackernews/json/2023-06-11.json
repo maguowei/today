@@ -97,5 +97,60 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "GCP automatically lowered our quota, caused an incident, and refused to upgrade",
+    "url": "https://twitter.com/JustJake/status/1667478906591666176",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36272747\">Comments</a>",
+    "publish_time": "2023-06-11 01:42:28",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "DeArrow: Crowdsourcing better titles and thumbnails on YouTube",
+    "url": "https://github.com/ajayyy/DeArrow",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36273890\">Comments</a>",
+    "publish_time": "2023-06-11 03:08:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "OBS merges WebRTC support",
+    "url": "https://github.com/obsproject/obs-studio/commit/851a8c216e14617fb523951839f3bdb240e85141",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36273075\">Comments</a>",
+    "publish_time": "2023-06-11 02:07:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A performance analysis of Intel x86-SIMD-sort (AVX-512)",
+    "url": "https://github.com/Voultapher/sort-research-rs/blob/main/writeup/intel_avx512/text.md",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36273544\">Comments</a>",
+    "publish_time": "2023-06-11 02:42:00",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "MusicGen: Simple and controllable music generation",
+    "url": "https://ai.honu.io/papers/musicgen/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36271926\">Comments</a>",
+    "publish_time": "2023-06-11 00:29:03",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
