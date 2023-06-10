@@ -1430,5 +1430,58 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "无人机降落瞬间 满天繁星",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%97%A0%E4%BA%BA%E6%9C%BA%E9%99%8D%E8%90%BD%E7%9E%AC%E9%97%B4+%E6%BB%A1%E5%A4%A9%E7%B9%81%E6%98%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "In Defense of Merit",
+    "url": "https://indefenseofmerit.org/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36273532\">Comments</a>",
+    "publish_time": "2023-06-11 02:41:00",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Generative AI support on Vertex AI is now generally available",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/generative-ai-support-on-vertexai",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36274789\">Comments</a>",
+    "publish_time": "2023-06-11 04:31:43",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "An Elm Fork",
+    "url": "https://gren-lang.org/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36274813\">Comments</a>",
+    "publish_time": "2023-06-11 04:34:41",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Barracuda Urges Replacing – Not Patching – Its Email Security Gateways",
+    "url": "https://krebsonsecurity.com/2023/06/barracuda-urges-replacing-not-patching-its-email-security-gateways/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36274525\">Comments</a>",
+    "publish_time": "2023-06-11 04:06:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
