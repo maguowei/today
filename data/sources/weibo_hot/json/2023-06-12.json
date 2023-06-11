@@ -673,5 +673,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "端午明朝那些事儿",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%AB%AF%E5%8D%88%E6%98%8E%E6%9C%9D%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "红海行动2正式启动",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%B5%B7%E8%A1%8C%E5%8A%A82%E6%AD%A3%E5%BC%8F%E5%90%AF%E5%8A%A8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]

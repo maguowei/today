@@ -1498,5 +1498,116 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "端午明朝那些事儿",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%AB%AF%E5%8D%88%E6%98%8E%E6%9C%9D%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "红海行动2正式启动",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%B5%B7%E8%A1%8C%E5%8A%A82%E6%AD%A3%E5%BC%8F%E5%90%AF%E5%8A%A8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "​​40 岁男子当全职儿子每月领 5500 元，父母称「不忍看他压力太大」，如何看待全职儿女模式？",
+    "url": "https://www.zhihu.com/question/605656495",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "宇宙的诞生是否已经突破了人类想象力和科学的边界，转而成为一个哲学问题了？",
+    "url": "https://www.zhihu.com/question/605857365",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "印第安人与中国人有什么联系吗?",
+    "url": "https://www.zhihu.com/question/360085332",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美股三大指数集体上涨，热门中概股涨跌不一",
+    "url": "https://www.36kr.com/newsflashes/2297896455886852",
+    "summary": "36氪获悉，6月9日收盘，美股三大指数集体上涨，道指涨0.13%，纳指涨0.16%，标普500指数涨0.11%。大型科技股多数上涨，特斯拉涨超4％，Netflix涨超2％，微软涨0.47％，苹果涨0.22％，Meta涨0.14％，谷歌涨0.07％，亚马逊跌0.66％。热门中概股涨跌不一，携程涨超4％，富途控股涨超3％，腾讯音乐涨近2％，拼多多、知乎、百度涨超1％，斗鱼跌超6％，名创优品跌超3％，微博、爱奇艺跌超2％，京东、好未来跌超1％。",
+    "publish_time": "2023-06-12 07:01:09",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Overview of C++ language support in Apple Clang",
+    "url": "https://developer.apple.com/xcode/cpp/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36283246\">Comments</a>",
+    "publish_time": "2023-06-12 01:10:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Code and Programming Projects",
+    "url": "https://www.chrisgregory.me/code",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36286058\">Comments</a>",
+    "publish_time": "2023-06-12 05:46:08",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Tyranny of Structurelessness (1970)",
+    "url": "https://www.jofreeman.com/joreen/tyranny.htm",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36285097\">Comments</a>",
+    "publish_time": "2023-06-12 04:09:26",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Treebomination: Convert a scikit-learn decision tree into a Keras model",
+    "url": "https://github.com/Dobiasd/treebomination",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36282748\">Comments</a>",
+    "publish_time": "2023-06-12 00:22:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Intel Is All-In on Backside Power Delivery",
+    "url": "https://spectrum.ieee.org/backside-power-delivery",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36286370\">Comments</a>",
+    "publish_time": "2023-06-12 06:27:24",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
