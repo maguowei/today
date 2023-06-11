@@ -1265,5 +1265,103 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "魅族GQ无界时尚大片",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%AD%85%E6%97%8FGQ%E6%97%A0%E7%95%8C%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "李莎旻子说我丢脸丢到国外去了",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8E%8E%E6%97%BB%E5%AD%90%E8%AF%B4%E6%88%91%E4%B8%A2%E8%84%B8%E4%B8%A2%E5%88%B0%E5%9B%BD%E5%A4%96%E5%8E%BB%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "广州南站客服回应按摩椅现虫子",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%8D%97%E7%AB%99%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E6%8C%89%E6%91%A9%E6%A4%85%E7%8E%B0%E8%99%AB%E5%AD%90%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "3年级孩子提问：4除以3再乘以3，答案是4，还是无限接近于4？",
+    "url": "https://www.zhihu.com/question/597086933",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么对林黛玉的评价往往高于薛宝钗？",
+    "url": "https://www.zhihu.com/question/599611365",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "能分享一下你所在行业的内幕吗？",
+    "url": "https://www.zhihu.com/question/339539047",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Sama: I feel so bad about advice I gave while running YC I might delete my blog",
+    "url": "https://twitter.com/morqon/status/1667717155234758657",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36283501\">Comments</a>",
+    "publish_time": "2023-06-12 01:35:36",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Java REST without annotations, DI nor reactive streams",
+    "url": "https://github.com/MartinGeisse/grumpyrest",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36283351\">Comments</a>",
+    "publish_time": "2023-06-12 01:21:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "It’s not the chemicals that cause addiction (2017)",
+    "url": "https://dancesafe.org/its-not-the-chemicals-that-cause-addiction-its-the-cages/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36283077\">Comments</a>",
+    "publish_time": "2023-06-12 00:55:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "One man’s 8-bit quest to finish his teenage Commodore 64 RPG",
+    "url": "https://arstechnica.com/gaming/2023/06/one-mans-40-year-8-bit-quest-to-finish-the-c64-rpg-he-started-in-1984/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36283003\">Comments</a>",
+    "publish_time": "2023-06-12 00:48:50",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
