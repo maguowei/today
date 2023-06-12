@@ -42,5 +42,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "完全物理隔离移动设备跟手机卡方案",
+    "url": "https://www.v2ex.com/t/947901",
+    "summary": "olgarons: <p>持有手机卡</p>\n<ul>\n<li>自己实名的电话卡 ｜用于银行和支付</li>\n<li>自己实名的电话卡，宽带送的附卡 ｜用于亲戚朋友号码</li>\n<li>阿里小号 1 ｜用于工作电话</li>\n<li>阿里小号 2 ｜用于跟朋友通话</li>\n<li>黑产别人实名电话卡 1 ｜注册国内服务</li>\n<li>黑产别人实名电话卡 2 ｜购物 /快递号码</li>\n<li>澳门卡漫游 ｜用于移动 Wifi</li>\n<li>Ultra Mobile ｜ 用于境外服务注册</li>\n</ul>\n<blockquote>\n<p>出本的时候看情况携带手机，网络用移动 WiFi （插入澳门卡漫游回去没有墙）刷 Openwrt 走自建梯子然后跳转 1.1.1.1 Warp+, DNS 用 DoH 。</p>\n</blockquote>\n<ol>\n<li>主力机是 iPhone 13 mini 非国行不插任何 SIM 卡</li>\n<li>备用机是 iPhone SE2 ，也不插入任何 SIM 卡。只安装以下必须使用的国产软件：</li>\n<li>诺基亚 1 号收验证码机，只在需要收取验证码时插入电池和手机卡，收取的手机号码使用别人实名的 +86 手机号码（用于国内服务）。在黑产购买别人实名，废了就换</li>\n<li>诺基亚 2 号收验证码机，只在需要收取验证码时插入电池和自己的实名手机卡（例如用于银行账户等需要使用实名手机卡的服务）。</li>\n<li>Phone SE2 为了使用 Wi-Fi Calling 国外收验证码机，只在需要收取验证码时插入电池和非实名的国外手机卡（用于收取一些境外服务的验证码）。</li>\n<li>Google Pixel 测试机，不插入任何 SIM 卡，只用于安装一些临时需要的 APP 。</li>\n<li>微信专用机是 iPhone 6S ，不插 SIM 卡，只安装了一个微信 APP 。此账号仅与一些必须通过微信联系的人交流。</li>\n</ol>",
+    "publish_time": "2023-06-12 10:33:02",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "最近想从 Macbook 切换到 Windows 笔记本，有啥坑吗",
+    "url": "https://www.v2ex.com/t/947911",
+    "summary": "IdJoel: Macbook 实在是太贵啦，我去 ROG 的店，1W 的轻薄本，配置都高的离谱，Mac 1W 也就买个丐版。<br /><br />有没有用 Windows 本工作的朋友，说下体验咋样，笔记本的寿命咋样，不会用两年就散热不行了吧",
+    "publish_time": "2023-06-12 10:49:45",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
