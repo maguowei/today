@@ -1284,5 +1284,87 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "30万城市智能通勤标杆智己LS7",
+    "url": "https://s.weibo.com/weibo?q=%2330%E4%B8%87%E5%9F%8E%E5%B8%82%E6%99%BA%E8%83%BD%E9%80%9A%E5%8B%A4%E6%A0%87%E6%9D%86%E6%99%BA%E5%B7%B1LS7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "曝光大叔女子道歉后舆论为何未平息",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%85%89%E5%A4%A7%E5%8F%94%E5%A5%B3%E5%AD%90%E9%81%93%E6%AD%89%E5%90%8E%E8%88%86%E8%AE%BA%E4%B8%BA%E4%BD%95%E6%9C%AA%E5%B9%B3%E6%81%AF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "华为李鹏称「中国 5G 将向 5.5G 加速演进，实现步步领先」，能给我国发展带来哪些帮助？",
+    "url": "https://www.zhihu.com/question/604771304",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Reddit crashed because of the growing subreddit blackout",
+    "url": "https://www.theverge.com/2023/6/12/23758002/reddit-crashing-api-protest-subreddit-private-going-dark",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36299723\">Comments</a>",
+    "publish_time": "2023-06-13 03:37:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A Tale of Unwanted Disruption: My Week Without Amazon",
+    "url": "https://medium.com/@bjax_/a-tale-of-unwanted-disruption-my-week-without-amazon-df1074e3818b",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36296250\">Comments</a>",
+    "publish_time": "2023-06-13 00:33:27",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Earth's rotation, with the camera locked to the sky instead of the ground",
+    "url": "https://mastodon.social/@coreyspowell/110531182569820738",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36299325\">Comments</a>",
+    "publish_time": "2023-06-13 03:10:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Escape from Silicon Valley (alternative visions of computation)",
+    "url": "https://monroelab.net/escape-from-silicon-valley-alternative-visions-of-computation",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36298655\">Comments</a>",
+    "publish_time": "2023-06-13 02:32:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: FlingUp, a Reddit-like platform Ive been building for the last 2 years",
+    "url": "https://flingup.com",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36299904\">Comments</a>",
+    "publish_time": "2023-06-13 03:50:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
