@@ -565,5 +565,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "被美团外卖团团围住",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%BE%8E%E5%9B%A2%E5%A4%96%E5%8D%96%E5%9B%A2%E5%9B%A2%E5%9B%B4%E4%BD%8F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "NIP对战OMG",
+    "url": "https://s.weibo.com/weibo?q=%23NIP%E5%AF%B9%E6%88%98OMG%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
