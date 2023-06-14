@@ -1265,5 +1265,152 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "上海地震",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%9C%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "上海",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "格力ZAO太酷啦",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%A0%BC%E5%8A%9BZAO%E5%A4%AA%E9%85%B7%E5%95%A6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "副作用小的止痛药",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%89%AF%E4%BD%9C%E7%94%A8%E5%B0%8F%E7%9A%84%E6%AD%A2%E7%97%9B%E8%8D%AF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "狼队战胜TTG",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8B%BC%E9%98%9F%E6%88%98%E8%83%9CTTG%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "高考完是去旅游还是打工?",
+    "url": "https://www.zhihu.com/question/606485023",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "你是从什么时候开始觉得钱变得很重要？",
+    "url": "https://www.zhihu.com/question/605958493",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "健身的话，早餐吃燕麦怎么样？",
+    "url": "https://www.zhihu.com/question/347991282",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "当前一线城市房地产救市政策还有哪些可能的方向？这些政策真的可以带动楼市回暖吗？回暖的标志是什么？",
+    "url": "https://www.zhihu.com/question/605671170",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "I may be the only evil (bit) user on the internet",
+    "url": "https://blog.benjojo.co.uk/post/evil-bit-RFC3514-real-world-usage",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36330116\">Comments</a>",
+    "publish_time": "2023-06-15 02:14:27",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Zap – Blazingly fast backends in Zig",
+    "url": "https://github.com/zigzap/zap",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36330429\">Comments</a>",
+    "publish_time": "2023-06-15 02:31:14",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Python GUIs",
+    "url": "https://www.pythonguis.com",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36329507\">Comments</a>",
+    "publish_time": "2023-06-15 01:38:27",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Brain fog after Covid-19 has similarities to ‘chemo brain,’ Stanford-led study",
+    "url": "https://med.stanford.edu/news/all-news/2022/06/brain-fog-covid-chemo-brain.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36329645\">Comments</a>",
+    "publish_time": "2023-06-15 01:47:29",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Jonline, AGPLv3 Social Network Built with Rust, Flutter, React, gRPC",
+    "url": "https://github.com/JonLatane/jonline",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36330012\">Comments</a>",
+    "publish_time": "2023-06-15 02:08:19",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Want to Get Stuff Done? Build Yourself a “Friction Tunnel”",
+    "url": "https://tedium.co/2023/06/10/productivity-friction-theory/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36329853\">Comments</a>",
+    "publish_time": "2023-06-15 01:58:00",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
