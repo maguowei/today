@@ -53,5 +53,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "能否建立一个的 AI 训练众包平台",
+    "url": "https://www.v2ex.com/t/948555",
+    "summary": "brainzhang: <p>已经有很多人讨论过这个点子了，就像挖矿一样；能否建立一个的 AI 训练众包平台；家里有显卡的小伙伴可以把闲置的设备租出去赚取收益；而没有强力计算设备的用户无需花费大量资金购买设备， 只需登录平台，提交任务即可进行 AI 训练；</p>\n<p>之前的技术瓶颈在于几乎不可能将大规模的 AI 训练拆分成一个个分布式的小任务，因为数据量庞大，并行交换要求高速的带宽等等；但是目前像 Stable Diffusion 这样的图像处理任务，一旦部署了稳定和标准化的模型，是可以将任务拆分为极小的数据单位的；这样技术上就能将一个个任务分配给某一台个人 PC 去处理；</p>\n<p>我拍脑袋想了一下，建立这样一个平台的难点在于反作弊和计算量评估；这两点应该都有合适的解决方案；</p>\n<ul>\n<li>\n<p>反作弊可以参考挖矿的算法，为每个客户端生成一对 公 /私钥， 服务端下发每个计算任务时，采用私钥加密；客户端上传每个计算任务时，采用公钥加密；</p>\n</li>\n<li>\n<p>计算量评估先期可以采用服务端评估的方法；后期可以通过下发任务给配置类似的客户端，采用同一个客户端并行执行同一任务，然后比较计算时间，来建立一个靠谱的计算量评估机制</p>\n</li>\n<li>\n<p>最后是防止滥用和羊毛党，可以采用信用评分，对于完成任务优秀的客户端打高分，给它分配更多更高收益的任务，从经济系统上进行激励；</p>\n</li>\n</ul>\n<p>我搜了一下，目前这个点子的相关项目不是很多，都在起步阶段，我觉得挺有前景的；</p>\n<p>大家讨论一下，这个项目在 技术 /商业 /可行性 上有哪里漏洞？</p>\n<p>我在 github 上建立一个一下项目，有兴趣的小伙伴可以去讨论下:</p>\n<p><a href=\"https://github.com/aitobox\" rel=\"nofollow\">https://github.com/aitobox</a></p>",
+    "publish_time": "2023-06-14 09:49:31",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "过了 MFI 认证的 the Apple Find My network 产品，活动价格 29",
+    "url": "https://www.v2ex.com/t/948578",
+    "summary": "liqinliqin: 链接：<br /><a href=\"https://item.taobao.com/item.htm?&amp;id=682774174482\" rel=\"nofollow noopener\" target=\"_blank\">https://item.taobao.com/item.htm?&amp;id=682774174482</a><br /><br />说明：<br />第三方认证产品一般没有 UWB ，UWB 主要作用是近场指向性，第三方是通过一个蜂鸣器实现的，蓝牙链接上，可以控制其发出声音。",
+    "publish_time": "2023-06-14 10:27:12",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
