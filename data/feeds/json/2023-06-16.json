@@ -1409,5 +1409,112 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "和杨洋米兰看秀",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%92%8C%E6%9D%A8%E6%B4%8B%E7%B1%B3%E5%85%B0%E7%9C%8B%E7%A7%80%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "陈妍希说陈晓眼神里的纯净一直都在",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%E8%AF%B4%E9%99%88%E6%99%93%E7%9C%BC%E7%A5%9E%E9%87%8C%E7%9A%84%E7%BA%AF%E5%87%80%E4%B8%80%E7%9B%B4%E9%83%BD%E5%9C%A8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "防晒",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%98%B2%E6%99%92%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "18 岁日本陆自队员用自动步枪射击队友致 1 死 2 伤，具体情况如何？",
+    "url": "https://www.zhihu.com/question/606539482",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "同事建了没有领导的群组被发现了，该怎么办？",
+    "url": "https://www.zhihu.com/question/382252148",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "荔枝的保鲜秘籍是什么（刘看山送荔枝）？",
+    "url": "https://www.zhihu.com/question/606774067",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "每天坚持锻炼的人能长寿吗？",
+    "url": "https://www.zhihu.com/question/602488420",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Tell HN: Google search sucks even more during Reddit blackout",
+    "url": "https://news.ycombinator.com/item?id=36345345",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36345345\">Comments</a>",
+    "publish_time": "2023-06-16 03:31:21",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Gently Down the Stream – A gentle introduction to Apache Kafka (2021)",
+    "url": "https://www.gentlydownthe.stream/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36344313\">Comments</a>",
+    "publish_time": "2023-06-16 02:03:27",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Scientific colour maps",
+    "url": "https://www.fabiocrameri.ch/colourmaps/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36342785\">Comments</a>",
+    "publish_time": "2023-06-16 00:18:36",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ask HN: What are some of the best Reddit alternatives?",
+    "url": "https://news.ycombinator.com/item?id=36345288",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36345288\">Comments</a>",
+    "publish_time": "2023-06-16 03:26:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
