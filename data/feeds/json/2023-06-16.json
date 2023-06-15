@@ -1671,5 +1671,69 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "和公诉一起在线反诈",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%85%AC%E8%AF%89%E4%B8%80%E8%B5%B7%E5%9C%A8%E7%BA%BF%E5%8F%8D%E8%AF%88%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "美股三大指数均涨超1%，大型科技股多数上涨",
+    "url": "https://www.36kr.com/newsflashes/2303559160213001",
+    "summary": "36氪获悉，6月15日收盘，美股三大指数集体上涨，道指涨1.26%，纳指涨1.15%，标普500指数涨1.22%。大型科技股多数上涨，微软涨3.19％，市值创历史新高，Meta涨超3％，苹果、谷歌涨超1％，Netflix涨1％，亚马逊涨0.55％，特斯拉跌0.35％。热门中概股多数上涨，蔚来涨超8％，小鹏汽车涨超7％，爱奇艺涨超5%，B站、知乎、京东、阿里巴巴涨超3％，拼多多涨超2％，理想汽车涨近2％，网易、腾讯音乐、携程小幅下跌。",
+    "publish_time": "2023-06-16 07:01:33",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "The Online Books Page",
+    "url": "https://onlinebooks.library.upenn.edu/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36347272\">Comments</a>",
+    "publish_time": "2023-06-16 06:04:30",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Board Changes at Signal",
+    "url": "https://mastodon.world/@signalapp/110549355267860258",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36346396\">Comments</a>",
+    "publish_time": "2023-06-16 04:54:18",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Reddit Threatens to Remove Moderators from Subreddits Continuing Blackouts",
+    "url": "https://www.macrumors.com/2023/06/15/reddit-threatens-to-remove-subreddit-moderators/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36347711\">Comments</a>",
+    "publish_time": "2023-06-16 06:38:33",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How the brain processes German and Arabic",
+    "url": "https://en.qantara.de/content/language-and-language-acquisition-how-the-brain-processes-german-and-arabic",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36347222\">Comments</a>",
+    "publish_time": "2023-06-16 05:59:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
