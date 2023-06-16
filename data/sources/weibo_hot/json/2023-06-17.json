@@ -601,5 +601,14 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "皮肤重启计划",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%9A%AE%E8%82%A4%E9%87%8D%E5%90%AF%E8%AE%A1%E5%88%92%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
