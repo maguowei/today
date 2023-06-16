@@ -20,5 +20,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "Java21 make Java great again",
+    "url": "https://www.v2ex.com/t/949151",
+    "summary": "javak: <p>今天用了下 oracle 放出来的 Java21 早期版本，（ Java21 正式版要今年 9.19 发布）。</p>\n<p>主要是为了测试虚拟线程（ Java21 开始虚拟线程就是正式版了），这是是一个类是 go 协程的东西。</p>\n<p>我搞了 100 万个任务，每个任务一个线程模式，效果非常惊艳炸裂。cpu 、内存消耗非常稳定，也不高。相同情况用 Java 之前的普通线程（ Java21 开始叫平台线程）试了下，吞吐完全不行，而且 CPU 、内存占用很高、起伏也很大。</p>\n<p>上面只是随手简单一测，并不严格和规范。但是效果我觉得还是能说明问题，那就是很强、很惊艳。我认为现在已经算是可以追平之前 go 吹爆的 go 协程特性了。</p>\n<p>所以就有了标题的感慨。</p>",
+    "publish_time": "2023-06-16 08:21:18",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "你们平时没事的时候都学啥啊",
+    "url": "https://www.v2ex.com/t/949193",
+    "summary": "wuwuta170: <p>感觉不知道学啥了。  没方向了。 这几天把设计模式都看了个遍了，， 别的 也不知道看啥了， 源码 也没那个兴趣看</p>",
+    "publish_time": "2023-06-16 10:06:47",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
