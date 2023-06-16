@@ -1509,5 +1509,87 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "村民鸡窝中发现鸟皇后",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%91%E6%B0%91%E9%B8%A1%E7%AA%9D%E4%B8%AD%E5%8F%91%E7%8E%B0%E9%B8%9F%E7%9A%87%E5%90%8E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "进实验室什么也没做出来，是不是不适合科研？",
+    "url": "https://www.zhihu.com/question/593377286",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "网友质疑梅里雪山景区国道旁修围墙，游客须到观景平台付费才可赏景，文旅局称未来或取消围挡，具体情况如何？",
+    "url": "https://www.zhihu.com/question/606525020",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Every Louisiana driver's license holder exposed in colossal cyberattack",
+    "url": "https://www.theguardian.com/us-news/2023/jun/16/louisiana-drivers-license-hack-cyber-attack",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36363110\">Comments</a>",
+    "publish_time": "2023-06-17 04:09:46",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Deep Learning’s Diminishing Returns (2021)",
+    "url": "https://spectrum.ieee.org/deep-learning-computational-cost",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36361906\">Comments</a>",
+    "publish_time": "2023-06-17 02:54:44",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "GMP servers are under DoS attack from Microsoft[-owned IP addresses]",
+    "url": "https://gmplib.org/list-archives/gmp-devel/2023-June/006161.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36363327\">Comments</a>",
+    "publish_time": "2023-06-17 04:26:33",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Apple subreddit reopens after moderation team threatened with removal",
+    "url": "https://appleinsider.com/articles/23/06/16/apple-subreddit-reopens-after-entire-moderation-team-was-threatened-with-removal",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36363192\">Comments</a>",
+    "publish_time": "2023-06-17 04:15:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Daniel Ellsberg has died",
+    "url": "https://www.nytimes.com/2023/06/16/us/daniel-ellsberg-dead.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36362042\">Comments</a>",
+    "publish_time": "2023-06-17 03:01:47",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
