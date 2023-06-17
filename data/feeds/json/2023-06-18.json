@@ -1164,5 +1164,65 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "圈出你减肥路上的饭搭子",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%9C%88%E5%87%BA%E4%BD%A0%E5%87%8F%E8%82%A5%E8%B7%AF%E4%B8%8A%E7%9A%84%E9%A5%AD%E6%90%AD%E5%AD%90%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "张小斐嘴上说不热身体却很诚实",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E5%98%B4%E4%B8%8A%E8%AF%B4%E4%B8%8D%E7%83%AD%E8%BA%AB%E4%BD%93%E5%8D%B4%E5%BE%88%E8%AF%9A%E5%AE%9E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "家长反对家委会收费犒劳考生被班主任踢出群，当地教育局介入，如何看待此事？后续情况如何？",
+    "url": "https://www.zhihu.com/question/606954362",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Westfield’s San Francisco Centre Mall Lost 46% of Its Stores Since 2020",
+    "url": "https://sfstandard.com/business/westfield-mall-san-francisco-centre-union-square-stores-closing/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36373361\">Comments</a>",
+    "publish_time": "2023-06-18 03:01:11",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Open source Diablo 1 engine – DevilutionX 1.5.0 released",
+    "url": "https://github.com/diasurgical/devilutionX/releases/tag/1.5.0",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36373364\">Comments</a>",
+    "publish_time": "2023-06-18 03:01:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Bullshit Jobs by David Graeber (2018)",
+    "url": "https://theanarchistlibrary.org/library/david-graeber-bullshit-jobs",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36373190\">Comments</a>",
+    "publish_time": "2023-06-18 02:46:05",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
