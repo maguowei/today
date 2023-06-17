@@ -31,5 +31,71 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "给爸爸推荐几本书，你会推荐什么？",
+    "url": "https://www.v2ex.com/t/949446",
+    "summary": "vvsystem: <ol>\n<li>我和我爸在深圳打工，租了个房子，住在一起。但最近俺打算早点去学校实验室干活(读研)，然后这边就剩下俺爸一个人了， 说服了他不要总是在抖音关注国家大事，要适度，没事可以看看书。</li>\n<li>深圳的图书馆建设我觉得挺完善的，甚至可以线上转结书籍。于是我想借个 10-20 本书，放家里跟俺爸看，家里本来就有的上百本书（老少皆宜，都是名著，不仅限于小说），应该够他消磨的了，但是我觉得太不接地气了，比如“古文观止”、“红楼梦”、“认知心理学”、“谈美”、“西方哲学史”...   </li>\n<li><strong>所以我还是想给他从图书馆借点接地气的，有什么推荐吗？</strong></li>\n<li><strong>他高中文化，在五金厂里跟着运输车送货啥的，常常是晚上九点下班，每月休 1-3 天。</strong> 肯定不能系统学习某些技能了（老狗学不会新把戏，笑）,年轻的时候也喜欢看书，甚至去深圳书城的找作者签字（九几年的时候了）。   </li>\n<li>有人说为什么这么晚下班了，不吃个夜宵，玩玩手机睡觉呢？因为玩手机 /看电脑会熬夜！（甚至有时候夜里两三点抖音的外放混杂着打呼噜的声音...），他那本来就是体力活，要休息好才行。不如看会书，看一点内容，就去睡觉。</li>\n</ol>",
+    "publish_time": "2023-06-17 02:57:41",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "如何优雅地为 Clash 添加自定义代理规则？这是你要看的最后一篇教程",
+    "url": "https://www.v2ex.com/t/949462",
+    "summary": "studyingss: <h1>前言</h1>\n<p><a href=\"https://www.v2ex.com/t/948499\" rel=\"nofollow\">上一篇文章</a>里很多人想学怎么为 Clash 自定义教程，所以尽量快地写出来了。</p>\n<p>只要利用好 gist 和订阅转换，为 Clash 添加规则并不难，既不用自己写工具，也不用自己买台服务器。</p>\n<p>看完这篇文章，只需要短短 4 步，你就可以实现：</p>\n<ul>\n<li>配置一套属于自己的分流规则</li>\n<li><strong>无需</strong> 自行搭建任何服务</li>\n<li>在 <strong>任意</strong> 订阅上使用你的规则</li>\n<li>拥有跨平台的、通用的、自动同步的自定义规则列表</li>\n</ul>\n<p>下面是正文，原文链接在 <a href=\"https://luxirty.com/article/custom-clash-rule\" rel=\"nofollow\">https://luxirty.com/article/custom-clash-rule</a> 内容跟这里没区别，只多了一两句话</p>\n<h1>所需工具</h1>\n<ul>\n<li>GitHub 账号</li>\n<li>订阅转换（随便找一个就行）</li>\n</ul>\n<h1>一、创建远程配置</h1>\n<p>这一步仅仅是准备工作，你只需要跟着教程做就好，不需要在意细节，等看完整篇教程再回来关注细节也不迟。</p>\n<p>打开 <a href=\"https://gist.github.com/\" rel=\"nofollow\">https://gist.github.com/</a> 创建一个新的 gist</p>\n<p>为了方便理解，我们从一个非常简单的配置开始</p>\n<p>把下面这个 gist 中的所有内容复制到你自己的 gist 里，然后点 create secret gist</p>\n<p><a href=\"https://gist.github.com/miaomiaoclub/8afa34d1be421f9ac14ee5f872865bdb/04fdba3d731dc0c9daa911f51c73c8d32ee53289\" rel=\"nofollow\">https://gist.github.com/miaomiaoclub/8afa34d1be421f9ac14ee5f872865bdb/e7e660e7796e82f6d00c46756b2e593494cd8961</a></p>\n<p>完成之后来仔细查看一下这段配置文件，它实际上就只有两项配置：</p>\n<pre><code class=\"language-yaml\"># 定义了规则\nruleset=\n# 定义了分组\ncustom_proxy_group=\n</code></pre>\n<p>暂时不需要关注更复杂的细节，下面会讲。</p>\n<h1>二、创建你自己的代理列表</h1>\n<p>再新建一个 gist ，这个 gist 里写<strong>你自己需要代理</strong>的域名，一行一个。</p>\n<p>格式如下：</p>\n<pre><code class=\"language-yaml\">DOMAIN-SUFFIX,google.com\n</code></pre>\n<p>如果想要指定 IP ，格式是</p>\n<pre><code class=\"language-yaml\">IP-CIDR,1.201.0.0/24,no-resolve\n</code></pre>\n<p>完成之后是这样：</p>\n<p><a href=\"https://gist.github.com/miaomiaoclub/76a9b5dbaad3203f9617dd69b4c74ea5\" rel=\"nofollow\">https://gist.github.com/miaomiaoclub/76a9b5dbaad3203f9617dd69b4c74ea5</a></p>\n<p>以后想添加需要走代理的域名，修改这个 gist 就可以。</p>\n<h1>三、将代理列表加入规则中</h1>\n<p>打开上一步创建的代理列表 gist ，点击 “raw”，把整段 URL 复制出来：</p>\n<p><a href=\"https://gist.githubusercontent.com/miaomiaoclub/76a9b5dbaad3203f9617dd69b4c74ea5/raw/0d15083648bda2d0420b9260632736eceb4dcb3c/yourlist.list\" rel=\"nofollow\">https://gist.githubusercontent.com/miaomiaoclub/76a9b5dbaad3203f9617dd69b4c74ea5/raw/0d15083648bda2d0420b9260632736eceb4dcb3c/yourlist.list</a></p>\n<p>删掉“raw”后面的所有部分：\n<a href=\"https://gist.githubusercontent.com/miaomiaoclub/76a9b5dbaad3203f9617dd69b4c74ea5/raw/0d15083648bda2d0420b9260632736eceb4dcb3c/yourlist.list\" rel=\"nofollow\">https://gist.githubusercontent.com/miaomiaoclub/76a9b5dbaad3203f9617dd69b4c74ea5/raw/yourlist.list</a>\n这里我保留了文件名，删掉也可以，随你喜欢，只要能打开就行。</p>\n<p>回到第一步创建的 gist ，添加一行，其中后面的链接用上面得到的</p>\n<pre><code class=\"language-yaml\">ruleset=🚀 节点选择,https://gist.githubusercontent.com/miaomiaoclub/76a9b5dbaad3203f9617dd69b4c74ea5/raw/yourlist.list\n</code></pre>\n<p>完成之后是这样（第 12 行是新添加的）：</p>\n<p><a href=\"https://gist.github.com/miaomiaoclub/8afa34d1be421f9ac14ee5f872865bdb/03a5288b68c0fdb780e6e533c70ade4aff65b3a8\" rel=\"nofollow\">https://gist.github.com/miaomiaoclub/8afa34d1be421f9ac14ee5f872865bdb/03a5288b68c0fdb780e6e533c70ade4aff65b3a8</a></p>\n<h1>四、订阅转换</h1>\n<p>打开你平常爱用的订阅转换。</p>\n<p><strong>任意一个都可以，请不要发“偷订阅”之类的回复。</strong></p>\n<p>由于上个帖子有人恶意揣测，这里不贴链接和截图，自行 Google 。</p>\n<p>打开之后先像平常一下在订阅链接里填上订阅。</p>\n<p>重点来了。</p>\n<p>打开第一步创建的 gist ，点击 raw ，一样把 URL 中 raw 后面的内容全部删掉，粘贴到“远程配置”一栏，注意，粘贴进去之后还需要在下拉框点击一下。</p>\n<h1>五、完成</h1>\n<p>像平常一样点击生成订阅链接，到 Clash 中订阅，一切就完成了。</p>\n<h1>六、一些后记</h1>\n<p>在这篇教程的例子中，我将 chatgpt 添加到了代理列表中，如果你还没理解如何做到的，请再看一下第二步创建的配置文件。</p>\n<p>我相信你的好奇心和求知欲还想做更多操作，所以你应该会想看看官方文档：<a href=\"https://github.com/tindy2013/subconverter/blob/master/README-cn.md\" rel=\"nofollow\">https://github.com/tindy2013/subconverter/blob/master/README-cn.md</a></p>\n<h2>一个关于性能的小 tip</h2>\n<p>subconverter 默认展开规则，但实际上 rule provider 的性能更好，在正文里没有提到这点是因为开启这个选项可能导致无法订阅，因为 clash 更新 provider 是通过直连。</p>\n<p>如果有能力，最好还是使用 provider ，ip-cidr 和 domain 两种类型的 rule set 可以带来非常大的速度提升和内存节省，stash 的 wiki 里也有提到这一点，具体原因和解释可以看 <a href=\"https://t.me/AirixCloud/36\" rel=\"nofollow\">https://t.me/AirixCloud/36</a> </p>\n<p>如果你觉得这个帖子有用的话，希望不要只点击收藏，可以回复来讨论或者提问，或者点一下标题下面的箭头，我更希望和各位有更加直接的交流，不需要担心自己提的问题过于简单，感谢～</p>",
+    "publish_time": "2023-06-17 09:22:08",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "win11 下 explorer 有好的替代品吗",
+    "url": "https://www.v2ex.com/t/949515",
+    "summary": "busterian: win11 之前用的 clover<br />不说和 clover 一样, 至少要有希望有书签栏功能<br />win11 的 exlporer 真的屎一样, tab 功能和没有一样, 我打开一个窗口, 在别的软件右键\"在文件夹中显示\", 这垃圾玩意儿居然不把 tab 放同一个窗口而是新开一个窗口.",
+    "publish_time": "2023-06-17 12:57:43",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "claude 不免费了，贴吧一片哀鸿",
+    "url": "https://www.v2ex.com/t/949535",
+    "summary": "OrdinaryMan: <p>今天早上开始，Claude 似乎出问题了，贴吧一片哀鸿，slack 老工作区里的 claude 应用每次都报监管错误，新 slack 工作区里的 claude 直接哑巴。得把 slack 升级为专业版才能继续使用\n之前用 claude 感觉特别方便，特别是问一些计算机相关的问题，回答的很棒，比搜索引擎效率高很多，用着特别舒服，甚至别 chatgpt3.5 还舒服。并且还不用代理直接就能使用，体验很棒。\nso~~\n我想问问目前各种白嫖型 chat AI 中，还有什么选择呢？</p>",
+    "publish_time": "2023-06-17 14:39:23",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "youtu 好多徒手建木屋的视频",
+    "url": "https://www.v2ex.com/t/949541",
+    "summary": "nbafive: <p>好厉害!牛逼…国内没见这样的</p>",
+    "publish_time": "2023-06-17 15:18:48",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "一些疑惑，为什么 rust 干不过 go 呢",
+    "url": "https://www.v2ex.com/t/949560",
+    "summary": "vincent7245: <h1>先叠 buff</h1>\n<ul>\n<li>本人主语言 java ，平时也用 c++ 简单的做一些框架的二开</li>\n<li>c/c++ 水平一般，没做过大型项目</li>\n<li>rust 水平一般，只做过简单的中间件，一千行代码左右，没做过大型项目</li>\n<li>用过 go ，但是不喜欢，感觉太简陋了</li>\n</ul>\n<h1>观点</h1>\n<p>个人感觉 rust 的难点就是理解其变量所有权、引用、借用的思想，这一关过了也就没什么难度了。而且 rust 的枚举、泛型、面向对象的特性要比 go 完善很多</p>\n<p>所以为什么 rust 不如 go 火呢</p>\n<h1>随便骂吧</h1>\n<p>个人愚见，不同观点可以随便说，别骂的太难听就行</p>",
+    "publish_time": "2023-06-17 17:28:50",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
