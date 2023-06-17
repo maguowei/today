@@ -1297,5 +1297,114 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "母亲节vs父亲节",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E8%8A%82vs%E7%88%B6%E4%BA%B2%E8%8A%82%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "消防员火场救人后抱出吓傻狗子",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E7%81%AB%E5%9C%BA%E6%95%91%E4%BA%BA%E5%90%8E%E6%8A%B1%E5%87%BA%E5%90%93%E5%82%BB%E7%8B%97%E5%AD%90%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "妈妈请允许我把最后心跳献给祖国人民",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E8%AF%B7%E5%85%81%E8%AE%B8%E6%88%91%E6%8A%8A%E6%9C%80%E5%90%8E%E5%BF%83%E8%B7%B3%E7%8C%AE%E7%BB%99%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B0%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "感谢鲁U3G833",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%84%9F%E8%B0%A2%E9%B2%81U3G833%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "孙悟空是更适合中国宝宝的超级英雄",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%82%9F%E7%A9%BA%E6%98%AF%E6%9B%B4%E9%80%82%E5%90%88%E4%B8%AD%E5%9B%BD%E5%AE%9D%E5%AE%9D%E7%9A%84%E8%B6%85%E7%BA%A7%E8%8B%B1%E9%9B%84%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "春秋时期秦国是强国，战国初期怎么沦为二流国家？",
+    "url": "https://www.zhihu.com/question/607082365",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "2D Solar Cells Poised to Set Power-per-Weight Record",
+    "url": "https://spectrum.ieee.org/solar-cells",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36372987\">Comments</a>",
+    "publish_time": "2023-06-18 02:28:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Data Falsificada (Part 1): “Clusterfake” – Data Colada",
+    "url": "https://datacolada.org/109",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36374255\">Comments</a>",
+    "publish_time": "2023-06-18 04:31:22",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Staggering Frontiers of CSS",
+    "url": "https://buttondown.email/robinrendle/archive/the-many-frontiers-of-css/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36375179\">Comments</a>",
+    "publish_time": "2023-06-18 06:06:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Modern CSS for Dynamic Component-Based Architecture",
+    "url": "https://moderncss.dev/modern-css-for-dynamic-component-based-architecture/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36375582\">Comments</a>",
+    "publish_time": "2023-06-18 06:54:08",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Rust vs Zig Benchmarks",
+    "url": "https://programming-language-benchmarks.vercel.app/rust-vs-zig",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36375002\">Comments</a>",
+    "publish_time": "2023-06-18 05:48:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
