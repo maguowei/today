@@ -20,5 +20,60 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "登录系统的『紧急口令』应该以什么原则选用为好？",
+    "url": "https://www.v2ex.com/t/949658",
+    "summary": "MFWT: <p>嗯，最后我还是去广州旅行了，在被称为世界最高城的动漫星城晃悠去了</p>\n<h2>背景</h2>\n<p>动漫星城没到点没开门，在外面瞎转悠</p>\n<p>然后，看到了有关一个软件的安装教程，想装起来试试</p>\n<p>打开 JuiceSSH ，准备登录的时候才想起个问题：<strong>这台服务器我关掉了密码登录，只能密钥登录，但是我出门在外，并没有给手机上的 SSH 软件装载私钥</strong></p>\n<p>是的，我暂时登录不上这台服务器了</p>\n<h2>设想</h2>\n<p>密码登录（或者说，口令登录）的痛点在于容易被人爆破密码，那么如果我设定一个足够强的密码，理论上应该可以大幅度减轻这个问题严重程度？</p>\n<p>为了方便记忆和推算，我设想中用的是</p>\n<pre><code>k = to_lower(sha256(s))\n</code></pre>\n<p>其中 s 是我记得的一个比较高强度的口令（ 14 个字符，大小写特殊符号和数字都有）</p>\n<p><strong>当然，我知道，这个做法的安全性，比不上用完一次即失效的『紧急登录刮刮码』</strong></p>\n<p>那么问题来了：</p>\n<ol>\n<li>这种方法会比直接使用原来的口令要安全吗？</li>\n<li>是否应该在 hash 的时候手动对口令进行加盐处理（比如，该机器的 IPv4 地址的第一段）？</li>\n<li>SHA256 是否可以满足『认为是安全的』的口令长度的需求？</li>\n</ol>\n<p>谢谢解答</p>",
+    "publish_time": "2023-06-18 10:08:02",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "闲置的 i7-7700 现在还能拿来干啥？",
+    "url": "https://www.v2ex.com/t/949665",
+    "summary": "Ariaszzzhc: <p>今天理家里东西，翻出来一片带主板的 i7-7700 ，还有一根 SM961 SSD ，还有一条 d 16g 的内存条。都是以前换下来的东西。差个电源风扇又能组台新机子了。</p>\n<p>直接扔吧又有点舍不得，不知道能搞点什么玩的？</p>\n<p>想想是不是可以组 NAS 或者软路由？社区大佬们有没有什么推荐的玩法</p>",
+    "publish_time": "2023-06-18 10:31:16",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "10 秒钟让你赚钱",
+    "url": "https://www.v2ex.com/t/949675",
+    "summary": "bjzhush: <p>今天是 618 ，很多商品价格已经到了最低点，如果你最近在京东买了东西，点开京东 APP\n依次点击  我的 -&gt; 客户服务  -&gt; 价格保护  -&gt; 一键价保</p>\n<p>如果价保了，欢迎把价保金额回复到帖子内！</p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/KVbVrMZ.jpeg\" /> </p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/VlFZdeb.jpeg\" /></p>",
+    "publish_time": "2023-06-18 11:25:10",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "雅思，英语",
+    "url": "https://www.v2ex.com/t/949685",
+    "summary": "zhangfa0x11: <p>一个普通大专工作几年的成人，基本 0 基础或者初中基础，学雅思大概需要多久，有没有考过雅思的朋友，大概 4 个 6+的，分享下故事</p>",
+    "publish_time": "2023-06-18 12:22:56",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "好消息， WG 之三体出预告片了。",
+    "url": "https://www.v2ex.com/t/949690",
+    "summary": "zwdsix: <p>大家看了吗？我感觉很棒。历史还得是由 Netflix 来拍。</p>",
+    "publish_time": "2023-06-18 13:11:08",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
