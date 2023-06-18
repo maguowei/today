@@ -75,5 +75,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "有没有了解富士通电脑的大佬，想问下稳吗？",
+    "url": "https://www.v2ex.com/t/949648",
+    "summary": "sutking: 想买个笔记本电脑，本来看好了 Thinkpad 的 x13 和 x1carbon ，他俩重量都 1kg 多点，接口也相对齐全，x1c 的 32g 内存版有现货，x13 的 r32g 内存版据说要到月底，正在我纠结要不要等的时候无意中听到了富士通电脑，然后就想着去看看，看的时候还在想这牌子都已经是上个世纪的老年人品牌了，真的还活着吗？结果发现不仅活着，东西看起来还挺厉害：接口更齐全，在不到 0.9kg 重量的机身里 Thinkpad 有的他都有，甚至还多了 rj45 ！我一下就心动了💗……<br /><br />但是去看淘宝、京东这种主流渠道都没有官方销售，就连富士通自己的网上商店在售的商品都非常不全，有一种即将倒闭的感觉，再查一下售后发现大陆地区几乎都是授权第三方，更少了一种安全感，最后联系了一个官方提供的大陆地区销售人员，聊了一下得知买的话要从香港过来……合着富士通电脑在大陆除了售前之外就啥都没有了吗？……<br /><br />毕竟 20k 的售价高出了我的预算非常多，然后还没有 7 天无理由退货政策，想问下有没有大佬了解富士通电脑，让我了解下这货到底靠不靠谱？能不能安全上下车？<br /><br />先谢谢大佬们了🙏",
+    "publish_time": "2023-06-18 08:10:41",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "如何用 Alpine 一步一步搭建一个完整的 Linux 桌面系统",
+    "url": "https://www.v2ex.com/t/949683",
+    "summary": "tony1016: <p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://www.alpinelinux.org/alpinelinux-logo.svg\" /></p>\n<h2>0.初衷</h2>\n<pre><code>    现代的 Linux 桌面系统，其实已经非常复杂了。不光要处理简单的用户应用程序间的协作，更要处理各种用户设备。举个简单的例子，设备的声音输出，就可能有多种途径：通过电脑有线音响输出，或者通过 HDMI 显示器的自带音响输出，还有可能通过连接的蓝牙输出。\n\n    我一直对于 Linux 是如何一步一步发展到如此完善感到好奇，也对诸如 Ubuntu 等操作系统动辄一张 DVD 大小的安装程序感到沮丧。**因为在我的印象中，Linux 不该是 Windows 这样，而是几百兆大小才对**。\n\n    Alpine Linux ，一个最简单的 Linux 系统，安装介质不到 200M ，它是否可以定制成一个完善的桌面系统呢？之前是不行的，它使用的是 musl libc 而不是传统的 glibc ，所以很多程序都没有现成的包而需要自己从源码编译。你可以想象编译一个 WPS 的难度。输入法也是一个问题，在 Alpine 上，始终没有中文输入法。\n\n    但这个情况最近改变了。首先是 Alpine 的 testing 源里有了 fcitx5 和 fcitx5-chinese-addons ，所以中文输入已经不成问题。另外 WPS 的问题，已经可以通过 flatpak 解决了。\n\n    **所以这次尝试用 Alpine Linux 从零开始搭建一个完整的 Linux 桌面系统。**说是从零打造，其实也不完全是，毕竟 Linux 系统像搭积木一般了。但如果使用 Alpine Linux ，至少就不是开箱即用而是完全定制。\n</code></pre>\n<h2>1.初始化三步走</h2>\n<p><a href=\"https://tonylee.name/Alpine-Linux-4f1cbdb482754c65a61e7f08e9691234\" rel=\"nofollow\">https://tonylee.name/Alpine-Linux-4f1cbdb482754c65a61e7f08e9691234</a></p>",
+    "publish_time": "2023-06-18 11:59:55",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "深圳北站开车前 8 分钟停止“进站”是什么逻辑？",
+    "url": "https://www.v2ex.com/t/949701",
+    "summary": "haoyh1: 注意是停止“进站”也就是安检那个节点，不是候车室检票那个节点<br />以我个人认知目前只有深圳北是这个要求，以前去过的车站在这个节点根本不会卡人，为什么就深圳北喜欢搞特殊？",
+    "publish_time": "2023-06-18 14:52:30",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
