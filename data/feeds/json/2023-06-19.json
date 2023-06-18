@@ -1285,5 +1285,45 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "七彩猫",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%83%E5%BD%A9%E7%8C%AB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "作为一个老师，我们应该干涉学生的价值观吗？",
+    "url": "https://www.zhihu.com/question/606061542",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Does Lemmy benefit from Rust? Is code execution speed the bottleneck?",
+    "url": "https://programming.dev/post/50696",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36383120\">Comments</a>",
+    "publish_time": "2023-06-19 02:48:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Linguists have identified a new English dialect that’s emerging in South Florida",
+    "url": "https://theconversation.com/linguists-have-identified-a-new-english-dialect-thats-emerging-in-south-florida-205620",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36383521\">Comments</a>",
+    "publish_time": "2023-06-19 03:28:37",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
