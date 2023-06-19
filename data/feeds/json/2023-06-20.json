@@ -1371,5 +1371,87 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "怎么斗得过几十年的逆子",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%80%8E%E4%B9%88%E6%96%97%E5%BE%97%E8%BF%87%E5%87%A0%E5%8D%81%E5%B9%B4%E7%9A%84%E9%80%86%E5%AD%90%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "天行健",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E8%A1%8C%E5%81%A5%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如果孩子的画了一墙的画被他的小伙伴撕掉了，作为家长应该怎么做？",
+    "url": "https://www.zhihu.com/question/607212415",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Texas governor signs law shutting diversity offices at public universities",
+    "url": "https://www.reuters.com/world/us/texas-governor-signs-law-shutting-diversity-offices-public-universities-2023-06-15/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36396069\">Comments</a>",
+    "publish_time": "2023-06-20 04:27:18",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Voicebox: Generative AI model for speech that generalizes across tasks",
+    "url": "https://ai.facebook.com/blog/voicebox-generative-ai-model-speech/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36393262\">Comments</a>",
+    "publish_time": "2023-06-20 00:49:19",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Dunning–Kruger effect and flat-earthers: An exploratory analysis",
+    "url": "https://journals.sagepub.com/doi/10.1177/09636625231166255",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36395856\">Comments</a>",
+    "publish_time": "2023-06-20 04:04:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Metaprogramming in Zig and parsing CSS",
+    "url": "https://notes.eatonphil.com/2023-06-19-metaprogramming-in-zig-and-parsing-css.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36395296\">Comments</a>",
+    "publish_time": "2023-06-20 03:09:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "AI: First New UI Paradigm in 60 Years",
+    "url": "https://www.nngroup.com/articles/ai-paradigm/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36394569\">Comments</a>",
+    "publish_time": "2023-06-20 02:11:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
