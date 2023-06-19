@@ -1311,5 +1311,65 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "吴幸键官宣出演言冰云",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%B9%B8%E9%94%AE%E5%AE%98%E5%AE%A3%E5%87%BA%E6%BC%94%E8%A8%80%E5%86%B0%E4%BA%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "《崩坏：星穹铁道》游戏里，如果仙舟和巡猎真得偿所愿消灭了丰饶，会不会反而导致不好的事情发生？",
+    "url": "https://www.zhihu.com/question/604846294",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "走神的时候人还有多少意识？",
+    "url": "https://www.zhihu.com/question/35688966",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Right to access information/logic about automated decision making in GDPR Art 15",
+    "url": "https://gdpr-info.eu/art-15-gdpr/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36395696\">Comments</a>",
+    "publish_time": "2023-06-20 03:45:13",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "AI: First New UI Paradigm in 60 Years, Jakob Nielsen",
+    "url": "https://www.nngroup.com/articles/ai-paradigm/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36394569\">Comments</a>",
+    "publish_time": "2023-06-20 02:11:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Metaprogramming in Zig and Parsing CSS",
+    "url": "https://notes.eatonphil.com/2023-06-19-metaprogramming-in-zig-and-parsing-css.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36395296\">Comments</a>",
+    "publish_time": "2023-06-20 03:09:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
