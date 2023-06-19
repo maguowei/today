@@ -1209,5 +1209,107 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "端午省钱能升职",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%AB%AF%E5%8D%88%E7%9C%81%E9%92%B1%E8%83%BD%E5%8D%87%E8%81%8C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "厦门体育中心回应演唱会场地脏",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8E%A6%E9%97%A8%E4%BD%93%E8%82%B2%E4%B8%AD%E5%BF%83%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E5%9C%BA%E5%9C%B0%E8%84%8F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "为什么现在真正热爱文学的人越来越少了？",
+    "url": "https://www.zhihu.com/question/605166199",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "梅西来华引爆中国足球商业模式，阿根廷中国行期间官方商品销售额超 100 万元，这些能说明什么？",
+    "url": "https://www.zhihu.com/question/607362289",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "When dying patients want unproven drugs",
+    "url": "https://www.newyorker.com/magazine/2023/06/26/relyvrio-als-fda-approval",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36393327\">Comments</a>",
+    "publish_time": "2023-06-20 00:52:36",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How to Delete Your Reddit Account and All Data Under GDPR/CCPA",
+    "url": "https://thomashunter.name/posts/2023-06-19-how-to-delete-reddit-account-gdpr-ccpa",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36394829\">Comments</a>",
+    "publish_time": "2023-06-20 02:29:17",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Sea Change",
+    "url": "https://www.oaktreecapital.com/insights/memo/sea-change",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36394832\">Comments</a>",
+    "publish_time": "2023-06-20 02:29:30",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Effekt: Lightweight Effect Polymorphism for Handlers (2020) [pdf]",
+    "url": "https://se.cs.uni-tuebingen.de/publications/brachthaeuser20effekt.pdf",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36394755\">Comments</a>",
+    "publish_time": "2023-06-20 02:24:07",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Python package for interfacing with ChatGPT with minimized complexity",
+    "url": "https://github.com/minimaxir/simpleaichat",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36393782\">Comments</a>",
+    "publish_time": "2023-06-20 01:20:43",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Japan pushes for Apple and Google to allow sideloading",
+    "url": "https://appleinsider.com/articles/23/06/16/japan-law-will-require-apple-to-allow-alternate-iphone-app-stores",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36393809\">Comments</a>",
+    "publish_time": "2023-06-20 01:22:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
