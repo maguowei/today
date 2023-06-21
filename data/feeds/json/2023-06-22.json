@@ -1370,5 +1370,92 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "赛龙舟原来这么燃",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B5%9B%E9%BE%99%E8%88%9F%E5%8E%9F%E6%9D%A5%E8%BF%99%E4%B9%88%E7%87%83%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "马代酒店称涉事管家当日离职",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BB%A3%E9%85%92%E5%BA%97%E7%A7%B0%E6%B6%89%E4%BA%8B%E7%AE%A1%E5%AE%B6%E5%BD%93%E6%97%A5%E7%A6%BB%E8%81%8C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何评价 2023.6.21 任天堂直面会，长达 40 分钟，有哪些值得关注的游戏或消息？",
+    "url": "https://www.zhihu.com/question/607811262",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "电影《消失的她》中的剧情设置怎么样？",
+    "url": "https://www.zhihu.com/question/572197325",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么过度补水反而对皮肤不好？",
+    "url": "https://www.zhihu.com/question/606105231",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "2023 LPL 夏季赛 EDG 2:0 击败 AL，如何评价这场比赛？",
+    "url": "https://www.zhihu.com/question/607809558",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Object-oriented Programming with ANSI-C (1993) [pdf]",
+    "url": "https://www.mclibre.org/descargar/docs/libros/ooc-ats.pdf",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36422116\">Comments</a>",
+    "publish_time": "2023-06-22 02:10:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "What every programmer should know about memory (2007) [pdf]",
+    "url": "https://people.freebsd.org/~lstewart/articles/cpumemory.pdf",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36420502\">Comments</a>",
+    "publish_time": "2023-06-22 00:18:35",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Maps distort how we see the world",
+    "url": "https://unchartedterritories.tomaspueyo.com/p/maps-distort-how-we-see-the-world",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36421315\">Comments</a>",
+    "publish_time": "2023-06-22 01:08:55",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
