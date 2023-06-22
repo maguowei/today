@@ -405,5 +405,27 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Show HN: Dependency Hell (Short Story)",
+    "url": "https://github.com/jaronilan/stories/blob/main/dependency-hell.md",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36425038\">Comments</a>",
+    "publish_time": "2023-06-22 05:41:49",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ruby Hacking Guide (2004)",
+    "url": "https://ruby-hacking-guide.github.io",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36425858\">Comments</a>",
+    "publish_time": "2023-06-22 06:57:14",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
