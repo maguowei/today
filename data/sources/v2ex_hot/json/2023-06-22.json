@@ -86,5 +86,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "Xamarin 的死掉的主因恐怕不是微软",
+    "url": "https://www.v2ex.com/t/950795",
+    "summary": "ShikiSuen: <p>微软迟早要全盘切换到 dotNET MAUI 。然而，论及这次宣布放弃 Xamarin 的决定的原因，窃以为 Xamarin 的死掉恐怕与 Apple 重写 Foundation 有关。</p>\n<p>Apple 这次彻底用 Swift 重写 Foundation ，接下来要重写的可能会是整个 Cocoa 。而 Xamarin 高度依赖 C# 与 Objective-C 的绑定，且 C# 与 Swift 有生殖隔离。到现在为止，都还没有任何一个除了 RemObjects 以外的途径可以让 C# 与 Swift 彼此直接互相利用……只是这种跨语言利用是基于 .NET Core 以及 Windows 平台的 .NET Framework 的、无法用于 Apple 生态圈。就算是 macOS 系统下可以用 RemOjbects 的工具以 C# 直接做 Cocoa 编程，那也是与 Objective-C 版的 Foundation &amp; Cocoa 对接的，同样要面对本文一开始提到的难题。</p>",
+    "publish_time": "2023-06-22 08:38:36",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
