@@ -42,5 +42,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "如何用 map 和 re 来优化下面的 if..else..",
+    "url": "https://www.v2ex.com/t/951017",
+    "summary": "ladypxy: <p>代码如下</p>\n<pre><code>long_string =\"blablabl\"\n\nmy_dict = {\"a\": \"string1\", \"b\": \"string2\" , \"c\": \"string3\", \"d\":\"string4\"}\n\nif \"Andy\" in long_string:\n    return mydict[\"a\"]\nelif \"Jack\" in long_string:\n    return mydict[\"b\"]\nelif \"Jim\" in long_string and \"Mike\" not in long_string:\n    return mydict[\"c\"]\nelse:\n    return mydict[\"d\"]\n</code></pre>\n<p>感觉这样效率有点低，感觉用 map 处理比较好。但是条件 3 实际上是 2 个条件，这样用 map 反而不好写了。</p>\n<p>请问大家有啥好的建议？</p>\n<p>谢谢</p>",
+    "publish_time": "2023-06-23 14:02:13",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
