@@ -97,5 +97,38 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Why [“1”,“2”,“3”].map(parseInt) yields [1, NaN, NaN] in JavaScript (2011)",
+    "url": "https://wirfs-brock.com/allen/posts/166",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36450106\">Comments</a>",
+    "publish_time": "2023-06-24 01:50:26",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "What is driving the high suicide rate among farmers?(2022)",
+    "url": "https://news.illinois.edu/view/6367/1856210606",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36450104\">Comments</a>",
+    "publish_time": "2023-06-24 01:50:13",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Jessica Livingston (2015)",
+    "url": "http://www.paulgraham.com/jessica.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36449894\">Comments</a>",
+    "publish_time": "2023-06-24 01:33:11",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
