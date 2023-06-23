@@ -1322,5 +1322,45 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "县委大院白玉兰奖最佳原创编剧",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8E%BF%E5%A7%94%E5%A4%A7%E9%99%A2%E7%99%BD%E7%8E%89%E5%85%B0%E5%A5%96%E6%9C%80%E4%BD%B3%E5%8E%9F%E5%88%9B%E7%BC%96%E5%89%A7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "乌克兰宣布大反攻“暂停”这是几个意思？",
+    "url": "https://www.zhihu.com/question/607961684",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Titan sub CEO dismissed safety warnings as 'baseless cries', emails show",
+    "url": "https://www.bbc.com/news/world-us-canada-65998914",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36450771\">Comments</a>",
+    "publish_time": "2023-06-24 02:49:12",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Any Deep ReLU Network Is Shallow",
+    "url": "https://arxiv.org/abs/2306.11827",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36451149\">Comments</a>",
+    "publish_time": "2023-06-24 03:25:43",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
