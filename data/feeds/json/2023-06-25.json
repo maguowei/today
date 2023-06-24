@@ -1184,5 +1184,94 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "赛龙舟火热的背后是穿越时空的力量",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B5%9B%E9%BE%99%E8%88%9F%E7%81%AB%E7%83%AD%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%A9%BF%E8%B6%8A%E6%97%B6%E7%A9%BA%E7%9A%84%E5%8A%9B%E9%87%8F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "绍伊古",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BB%8D%E4%BC%8A%E5%8F%A4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "普里戈津",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E9%87%8C%E6%88%88%E6%B4%A5%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "健将plus",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%81%A5%E5%B0%86plus%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "感觉自己身上戾气好重，动不动就不如意，发脾气，如何才能化解？",
+    "url": "https://www.zhihu.com/question/403163773",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Has Xbox lost the console wars?",
+    "url": "https://www.theverge.com/2023/6/24/23772314/ftc-microsoft-day-two-hearing-summary-xbox-console-wars-sony-playstation-call-of-duty",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36461224\">Comments</a>",
+    "publish_time": "2023-06-25 02:17:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Flying taxi at the Paris air show is quiet – too quiet",
+    "url": "https://www.wsj.com/articles/this-flying-taxi-at-the-paris-air-show-is-quiet-too-quiet-d3042497",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36459949\">Comments</a>",
+    "publish_time": "2023-06-25 00:16:00",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Creating an autonomous system for fun and profit (2017)",
+    "url": "https://blog.thelifeofkenneth.com/2017/11/creating-autonomous-system-for-fun-and.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36459881\">Comments</a>",
+    "publish_time": "2023-06-25 00:09:37",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Do, or do not. There is no try",
+    "url": "https://github.com/binpash/try",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36461102\">Comments</a>",
+    "publish_time": "2023-06-25 02:06:33",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
