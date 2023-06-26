@@ -1542,5 +1542,56 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "男孩被打躲窗外后坠楼知情人发声",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E8%A2%AB%E6%89%93%E8%BA%B2%E7%AA%97%E5%A4%96%E5%90%8E%E5%9D%A0%E6%A5%BC%E7%9F%A5%E6%83%85%E4%BA%BA%E5%8F%91%E5%A3%B0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "是什么契机让你放弃了律师职业？",
+    "url": "https://www.zhihu.com/question/602942927",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Amendment introduced to limit remote working in Ohio",
+    "url": "https://www.wdtn.com/news/ohio/amendment-introduced-to-limit-remote-working-in-ohio/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36485962\">Comments</a>",
+    "publish_time": "2023-06-27 05:15:28",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Magic Nix Cache, a GitHub Action for speeding up your Nix workflows",
+    "url": "https://determinate.systems/posts/magic-nix-cache",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36484609\">Comments</a>",
+    "publish_time": "2023-06-27 03:32:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A popular Bluetooth car battery monitor that siphons up all your location data",
+    "url": "https://doubleagent.net/2023/05/21/a-car-battery-monitor-tracking-your-location",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36485597\">Comments</a>",
+    "publish_time": "2023-06-27 04:45:47",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
