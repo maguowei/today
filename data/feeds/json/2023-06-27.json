@@ -1431,5 +1431,116 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "iQOO11S",
+    "url": "https://s.weibo.com/weibo?q=%23iQOO11S%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "原来全世界骂公司都一样",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%85%A8%E4%B8%96%E7%95%8C%E9%AA%82%E5%85%AC%E5%8F%B8%E9%83%BD%E4%B8%80%E6%A0%B7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "《英雄联盟》同样都是输出位置，为什么法师装备很多都会有血量属性，而 ADC 的装备很少有血量属性？",
+    "url": "https://www.zhihu.com/question/607822823",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "鱼缸能不能做到一直不换水还很清澈？",
+    "url": "https://www.zhihu.com/question/508210324",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "高考完，怎么准备英语四级？",
+    "url": "https://www.zhihu.com/question/533375496",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Ancient Maya city was hidden in the jungle for more than 1k years",
+    "url": "https://www.smithsonianmag.com/smart-news/this-ancient-maya-city-was-hidden-in-the-jungle-for-over-1000-years-180982427/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36481627\">Comments</a>",
+    "publish_time": "2023-06-27 00:07:39",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Hunter-gatherer lifestyle fosters thriving gut microbiome",
+    "url": "https://www.nature.com/articles/d41586-023-02065-y",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36484502\">Comments</a>",
+    "publish_time": "2023-06-27 03:23:20",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Exposing Floating Point (2019)",
+    "url": "https://ciechanow.ski/exposing-floating-point/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36484932\">Comments</a>",
+    "publish_time": "2023-06-27 03:54:11",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Two Dots (YC S22) is hiring a senior engineer",
+    "url": "https://www.ycombinator.com/companies/two-dots/jobs/jjpjJeY-software-engineer",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36482486\">Comments</a>",
+    "publish_time": "2023-06-27 01:00:47",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Kor: a half-baked prototype that \"helps\" you extract structured data using LLMs",
+    "url": "https://github.com/eyurtsev/kor",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36484308\">Comments</a>",
+    "publish_time": "2023-06-27 03:05:41",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A Senior Engineer’s Guide to FAANG Interviews",
+    "url": "https://interviewing.io/guides/hiring-process",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36482191\">Comments</a>",
+    "publish_time": "2023-06-27 00:43:49",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
