@@ -86,5 +86,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "想请教一下各位大佬，你们的 C/C++ Linux 开发环境是什么样的？",
+    "url": "https://www.v2ex.com/t/951941",
+    "summary": "sbldehanhan: <p>用的操作系统是啥？用 IDE 吗？\n本地编译还是服务器上编译？服务器上编译用什么工具连接？</p>",
+    "publish_time": "2023-06-27 09:21:56",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "回忆一下我开发的粤语编程语言",
+    "url": "https://www.v2ex.com/t/951971",
+    "summary": "StepfenShawn: <p>最近在深圳都不怎么讲粤语了，上次讲白话还是去 hk 的时候，在广州除了和家人交流之外也越来越少说了。。。</p>\n<p>做人点可以忘本㖞?</p>\n<p>这时突然想起我高中时候好像开发了个粤语编程语言，几年前还发过 v 站，下面就摆上我高中时候开发的粤语编程语言吧:</p>\n<p><a href=\"https://github.com/StepfenShawn/Cantonese\" rel=\"nofollow\">https://github.com/StepfenShawn/Cantonese</a></p>\n<p>高中时候代码写得太烂了，最近重构了一下部分语句能支持 llvm 了。。。</p>\n<p>希望粤语不会就此死在记忆里了，更希望可以 make Cantonese great again!</p>",
+    "publish_time": "2023-06-27 10:16:28",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
