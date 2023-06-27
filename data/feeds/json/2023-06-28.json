@@ -1822,5 +1822,85 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "段奕宏来真的",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%AE%B5%E5%A5%95%E5%AE%8F%E6%9D%A5%E7%9C%9F%E7%9A%84%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "原来这就是知识改变命运",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BF%99%E5%B0%B1%E6%98%AF%E7%9F%A5%E8%AF%86%E6%94%B9%E5%8F%98%E5%91%BD%E8%BF%90%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "82版西游记主创挂念的苏州演员找到了",
+    "url": "https://s.weibo.com/weibo?q=%2382%E7%89%88%E8%A5%BF%E6%B8%B8%E8%AE%B0%E4%B8%BB%E5%88%9B%E6%8C%82%E5%BF%B5%E7%9A%84%E8%8B%8F%E5%B7%9E%E6%BC%94%E5%91%98%E6%89%BE%E5%88%B0%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "贵州一 6 岁男童感染食脑虫，曾到海边游泳，什么是食脑虫？感染后治疗情况如何？",
+    "url": "https://www.zhihu.com/question/608893347",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美股三大指数集体收涨，热门中概股普涨",
+    "url": "https://www.36kr.com/newsflashes/2320529930749056",
+    "summary": "36氪获悉，6月27日收盘，美股三大指数集体收涨，纳指涨1.65%，标普500指数涨1.15%，道指涨0.63%。大型科技股多数上涨，特斯拉、Meta涨超3%，苹果、亚马逊、微软涨超1%，Netflix涨0.27%，谷歌跌0.01%。热门中概股普涨，蔚来涨超11%，小鹏汽车、知乎涨超8%，网易、爱奇艺涨超4%，b站、百度、拼多多涨超3%，理想汽车、京东、微博涨超2%，阿里巴巴涨超1%。",
+    "publish_time": "2023-06-28 07:00:22",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "The forced return to the office is the definition of insanity",
+    "url": "https://fortune.com/2023/06/26/forced-return-to-office-is-the-definition-of-insanity-remote-hybrid-work-careers-gleb-tsipursky/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36499167\">Comments</a>",
+    "publish_time": "2023-06-28 05:52:33",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Every South Korean turns a year younger",
+    "url": "https://www.independent.co.uk/asia/east-asia/south-korea-new-age-system-2023-b2364809.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36496529\">Comments</a>",
+    "publish_time": "2023-06-28 02:06:56",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "H100 GPUs Set Standard for Gen AI in Debut MLPerf Benchmark",
+    "url": "https://blogs.nvidia.com/blog/2023/06/27/generative-ai-debut-mlperf/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36499073\">Comments</a>",
+    "publish_time": "2023-06-28 05:43:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
