@@ -5132,5 +5132,530 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "中越像走亲戚一样常来常往是优良传统",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E8%B6%8A%E5%83%8F%E8%B5%B0%E4%BA%B2%E6%88%9A%E4%B8%80%E6%A0%B7%E5%B8%B8%E6%9D%A5%E5%B8%B8%E5%BE%80%E6%98%AF%E4%BC%98%E8%89%AF%E4%BC%A0%E7%BB%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "普京曾有意杀死普里戈任",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%9B%BE%E6%9C%89%E6%84%8F%E6%9D%80%E6%AD%BB%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "陈建州起诉大牙",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E5%B7%9E%E8%B5%B7%E8%AF%89%E5%A4%A7%E7%89%99%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "B站崩了",
+    "url": "https://s.weibo.com/weibo?q=%23B%E7%AB%99%E5%B4%A9%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "莫言新书鳄鱼",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8E%AB%E8%A8%80%E6%96%B0%E4%B9%A6%E9%B3%84%E9%B1%BC%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "吃完小龙虾美甲变绿了",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%90%83%E5%AE%8C%E5%B0%8F%E9%BE%99%E8%99%BE%E7%BE%8E%E7%94%B2%E5%8F%98%E7%BB%BF%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "GQ编辑说张艺兴好辣",
+    "url": "https://s.weibo.com/weibo?q=%23GQ%E7%BC%96%E8%BE%91%E8%AF%B4%E5%BC%A0%E8%89%BA%E5%85%B4%E5%A5%BD%E8%BE%A3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "文具店处女证",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%96%87%E5%85%B7%E5%BA%97%E5%A4%84%E5%A5%B3%E8%AF%81%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "男子高速遇铁皮挡路停车独自挪开",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%AB%98%E9%80%9F%E9%81%87%E9%93%81%E7%9A%AE%E6%8C%A1%E8%B7%AF%E5%81%9C%E8%BD%A6%E7%8B%AC%E8%87%AA%E6%8C%AA%E5%BC%80%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "年轻人唯一有点把握的是单身",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%94%AF%E4%B8%80%E6%9C%89%E7%82%B9%E6%8A%8A%E6%8F%A1%E7%9A%84%E6%98%AF%E5%8D%95%E8%BA%AB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "易梦玲回应加沈月微信",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%98%93%E6%A2%A6%E7%8E%B2%E5%9B%9E%E5%BA%94%E5%8A%A0%E6%B2%88%E6%9C%88%E5%BE%AE%E4%BF%A1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "我的博士路是爸妈用无数碗面铺就的",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E5%8D%9A%E5%A3%AB%E8%B7%AF%E6%98%AF%E7%88%B8%E5%A6%88%E7%94%A8%E6%97%A0%E6%95%B0%E7%A2%97%E9%9D%A2%E9%93%BA%E5%B0%B1%E7%9A%84%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "特种兵游后现必吃榜式旅游",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E7%A7%8D%E5%85%B5%E6%B8%B8%E5%90%8E%E7%8E%B0%E5%BF%85%E5%90%83%E6%A6%9C%E5%BC%8F%E6%97%85%E6%B8%B8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "EDG",
+    "url": "https://s.weibo.com/weibo?q=%23EDG%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "面部留白多学赵露思变美思路",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9D%A2%E9%83%A8%E7%95%99%E7%99%BD%E5%A4%9A%E5%AD%A6%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%8F%98%E7%BE%8E%E6%80%9D%E8%B7%AF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "这分明是幼儿高级职业技术学院",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%88%86%E6%98%8E%E6%98%AF%E5%B9%BC%E5%84%BF%E9%AB%98%E7%BA%A7%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "杨幂说谢依霖把密逃录成了恋综",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E8%AF%B4%E8%B0%A2%E4%BE%9D%E9%9C%96%E6%8A%8A%E5%AF%86%E9%80%83%E5%BD%95%E6%88%90%E4%BA%86%E6%81%8B%E7%BB%BC%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "单亲妈妈打工14年供出3名大学生",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BA%B2%E5%A6%88%E5%A6%88%E6%89%93%E5%B7%A514%E5%B9%B4%E4%BE%9B%E5%87%BA3%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "李宇春官宣2023湾区升明月",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E5%AE%98%E5%AE%A32023%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "有院子的家 丧夫套餐",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9C%89%E9%99%A2%E5%AD%90%E7%9A%84%E5%AE%B6+%E4%B8%A7%E5%A4%AB%E5%A5%97%E9%A4%90%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "沈月丝带编发",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%9C%88%E4%B8%9D%E5%B8%A6%E7%BC%96%E5%8F%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "女孩独自上山坐爸爸坟前讲故事",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E7%8B%AC%E8%87%AA%E4%B8%8A%E5%B1%B1%E5%9D%90%E7%88%B8%E7%88%B8%E5%9D%9F%E5%89%8D%E8%AE%B2%E6%95%85%E4%BA%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "消防员学喵喵叫救出被困小奶猫",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E5%AD%A6%E5%96%B5%E5%96%B5%E5%8F%AB%E6%95%91%E5%87%BA%E8%A2%AB%E5%9B%B0%E5%B0%8F%E5%A5%B6%E7%8C%AB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "电影《消失的她》上映 6 天，总票房破 10 亿，如何评价这一票房成绩？",
+    "url": "https://www.zhihu.com/question/608693137",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "曝阿森纳总价 1.05 亿英镑报价赖斯，若成交将创英国球员纪录，如何看待这项引援交易？",
+    "url": "https://www.zhihu.com/question/609114803",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "请教一个关于《流浪地球2》的问题，550w这么快，为什么不用来解码全球核武器，而是要派人去手工引爆呢？",
+    "url": "https://www.zhihu.com/question/597418932",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "任天堂为何迟迟不发布 Switch 新机？",
+    "url": "https://www.zhihu.com/question/608848149",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美参院军委会通过「建立训练台军计划」，国台办称「台年轻人正沦为『以武谋独』的炮灰」，如何解读美方行为？",
+    "url": "https://www.zhihu.com/question/609140654",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "选高中，在好学校当差生还是在普通学校当好学生？",
+    "url": "https://www.zhihu.com/question/607424007",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "五粮液等在宜宾再设数字科技公司",
+    "url": "https://www.36kr.com/newsflashes/2320965472552068",
+    "summary": "36氪获悉，天眼查App显示，近日，四川华善云谷数字科技有限公司成立，法定代表人为王韬，注册资本2亿人民币，经营范围含互联网信息服务、酒类经营、供应链管理服务、数据处理服务、信息系统集成服务、汽车零配件批发、航空国际货物运输代理、新能源汽车整车销售等。股权全景穿透图显示，该公司由华西集团旗下四川华西集采电子商务有限公司、五粮液集团旗下四川省宜宾普什集团有限公司共同持股。",
+    "publish_time": "2023-06-28 14:08:10",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "又有多家公募对旗下部分产品发出费率优惠方案",
+    "url": "https://www.36kr.com/newsflashes/2320971914019717",
+    "summary": "近日，万家年年恒荣、金鹰基金等多家公募基金公司宣布下调旗下基金产品的管理费率、托管费率、销售服务费率等其他费用，并且多只产品出现了多种费率同时下调的情况，上述降费的基金规模较小。除了迷你基，一些规模超10亿基金也密集降费，比如国联安货币、中融货币、长信长金通货币等货基、百嘉百益债券、招商安福1年定开债发起式等债基均对基金费率采取了不同程度的下调。（中国基金报）",
+    "publish_time": "2023-06-28 14:14:43",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "中煤协倡议做好迎峰度夏期间煤炭保供稳价工作",
+    "url": "https://www.36kr.com/newsflashes/2320974878704773",
+    "summary": "6月28日，中国煤炭运销协会发布关于做好迎峰度夏期间煤炭保供稳价工作的倡议书。其中提到，煤炭生产企业、发电企业要进一步提高政治站位，认真贯彻落实“国家发展改革委关于做好2023年能源电力迎峰度夏工作的通知”要求，严格履行年初签订的电煤保供中长期合同，严格按照合同约定的时序足额兑现履约，切实做好电煤产运需协调，提高煤炭储运支撑保障能力。（证券时报）",
+    "publish_time": "2023-06-28 14:17:44",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "TOPcon电池板块震荡反弹，宝馨科技触及涨停",
+    "url": "https://www.36kr.com/newsflashes/2320980873348224",
+    "summary": "36氪获悉，TOPcon电池板块震荡反弹，宝馨科技触及涨停，京山轻机、东方日升、聚和材料、捷佳伟创、天合光能等涨幅居前。",
+    "publish_time": "2023-06-28 14:23:50",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "通威股份：有充足信心能够有效应对产业链价格波动",
+    "url": "https://www.36kr.com/newsflashes/2320987039187843",
+    "summary": "36氪获悉，通威股份在互动平台表示，公司永祥能源科技一期12万吨高纯晶硅项目稳步建设中，预计将于今年三季度按计划正常投产。公司高纯晶硅业务在产能规模、生产成本、产品质量等各方面均已在行业取得显著领先优势，公司有充足信心能够有效应对产业链价格波动。",
+    "publish_time": "2023-06-28 14:30:06",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "王老吉回应裁员传言：没有裁员，个别部门职能调整后人员岗位有调整",
+    "url": "https://www.36kr.com/newsflashes/2320991415223175",
+    "summary": "6月28日，有消息称，王老吉自6月份起对公司部分岗位人员进行配岗转岗，销售岗位将裁员20%。对此，王老吉相关负责人回应称，已关注到相关传言，没有裁员，是公司发展和数字化转型的需要，有个别部门职能调整后人员岗位有部分调整。（北京商报）",
+    "publish_time": "2023-06-28 14:34:33",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "投保基金征询退市公司挂牌转让相关制度建议",
+    "url": "https://www.36kr.com/newsflashes/2321001029092489",
+    "summary": "从券商人士处获悉，中国证券投资者保护基金公司近期向证券公司投行部门征询了对退市公司挂牌转让相关制度的看法和意见、实践中存在的问题及建议，从而评估退市有关制度实施情况，为监管部门提供政策参考。从业内了解到，股票退市后，投资者在确权登记过程中遇到的问题或困难受到投保基金的关注。此外，关于将券商主动承接退市公司主办券商业务纳入分类评价机制，投保基金征询了券商的看法及具体建议。（中证金牛座）",
+    "publish_time": "2023-06-28 14:44:20",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "集邦咨询：预估2023年对HBM需求容量将年增近60%",
+    "url": "https://www.36kr.com/newsflashes/2321001520956290",
+    "summary": "36氪获悉，据TrendForce集邦咨询研究显示，为解决高速运算下，存储器传输速率受限于DDR SDRAM带宽而无法同步成长的问题，高带宽存储器（High Bandwidth Memory，HBM）应运而生，其革命性传输效率是让核心运算元件充分发挥效能的关键。目前高端AI服务器GPU搭载HBM已成主流，预估2023年全球HBM需求量将年增近六成，来到2.9亿GB，2024年将再成长三成。",
+    "publish_time": "2023-06-28 14:44:50",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "A股三大指数收盘集体下跌",
+    "url": "https://www.36kr.com/newsflashes/2321018569606018",
+    "summary": "科大讯飞跌超4%，隆基绿能涨超4%；AI概念午后有所回升，传媒、游戏等反弹，CPO、ChatGPT领跌；煤炭、电力领涨；沪指平收，深成指跌0.47%，创业板指跌0.44%；北向资金净流出40.72亿元。",
+    "publish_time": "2023-06-28 15:02:11",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "引领手机向“全知全能”进化！iOS版ChatGPT推出联网模式：集成Bing搜索功能，仅对付费用户开放",
+    "url": "https://www.infoq.cn/article/bQHRqFcQ1TlJCqHuczGR",
+    "summary": "<p></p><blockquote>能上网的 ChatGPT，更聪明、更强了。</blockquote><p></p><p></p><h2>移动端ChatGPT推出联网模式</h2><p></p><p>&nbsp;</p><p>6 月 27 日，<a href=\"https://www.infoq.cn/article/yEH16RlsRgsqK3xHHmU5\">ChatGPT</a>\" 发布最新更新声明，宣布对移动 ChatGPT 应用程序进行了两项更新：</p><p>&nbsp;</p><p>浏览：用户可以使用浏览来获取有关事件和信息的全面答案和最新见解，这些信息超出了模型的原始训练数据。用户可在应用程序设置的“新功能”部分中启用浏览，然后在模型切换器中选择 GPT-4，并在下拉列表中选择“使用 Bing 浏览”。搜索历史记录改进：点击搜索结果可直接转到对话中的相应点。</p><p>&nbsp;</p><p>这意味着，移动设备上的 ChatGPT 现在也可以上网了，不过目前，该功能仅对 ChatGPT Plus 用户开放。ChatGPT Plus 是 ChatGPT 的高级版本，每月收费 20 美元，订阅者可以优先使用新功能和改进，在对话期间加快响应时间，甚至在需求高峰期也可以访问 ChatGPT。</p><p>&nbsp;</p><p>自去年年末 ChatGPT 发布以来，迅速火遍全球。但过去 ChatGPT 只能在 OpenAI 的网站上在线使用，或是通过用于构建第三方应用程序在应用程序界面使用。</p><p>&nbsp;</p><p>今年 5 月，OpenAI 发布了 iOS 版的 <a href=\"https://www.infoq.cn/article/bs03EeaTE6gkQRLqj2Jt\">ChatGPT 应用</a>\"，这也是 ChatGPT 的首个官方移动应用程序。OpenAI 公司表示，新款 ChatGPT 应用将向用户免费开放，不设广告且支持语音输入，但发布初期仅面向美国用户。OpenAI 表示，Android 版 ChatGPT 很快也将推出。</p><p>&nbsp;</p><p>与桌面版本一样，ChatGPT 的移动应用允许用户与 AI 聊天机器人交互、无需传输网络搜索即可随意提问，从中轻松获取建议、灵感、学习资料和研究指引等。考虑到 iOS 语音助手 Siri 多年原地踏步、苹果自身在 AI 领域也缺乏进展，此次推出的新版本可能促使更多用户在 iPhone 上选择 ChatGPT 作为主要 AI 助手。</p><p>&nbsp;</p><p>此外，移动端 ChatGPT 还有诸多特色功能：</p><p>&nbsp;</p><p>提供即时答案：无需筛选广告或多个结果即可获得准确的信息。给出定制化建议：提供有关烹饪、旅行计划或制作贴心信息等方面的指导。提供创意灵感：产生礼物创意、概述 PPT 或写出优美的诗篇。提供专业内容输入：通过想法反馈、笔记总结和技术主题帮助提高工作效率。提供更多的学习途径：按照用户自己的节奏探索新语言、现代历史等。</p><p>&nbsp;</p><p>发布不久， ChatGPT App 便冲上 App Store 免费榜第二名，效率榜第一名。不到三周，ChatGPT App 市场下载量便高达 500 万次。</p><p></p><h2>联网后的ChatGPT有多强？</h2><p></p><p>&nbsp;</p><p>在联网以前，ChatGPT 的训练模型数据截止到 2021 年 9 月。也就是说，如果用户问及该时间点之后的事件，ChatGPT 是没办法给出准确答案的。</p><p>&nbsp;</p><p>这对于用户体验而言显然不够友好，因为大多数人希望能够接收到最新的信息。</p><p>&nbsp;</p><p>今年 3 月，网页版 ChatGPT 就已宣布推出联网功能。据官方博客介绍，此次联网功能的实现得益于 OpenAI 为 ChatGPT 增加了插件使用功能，“插件是专门为语言模型设计的工具，以安全为核心原则，并帮助 ChatGPT 访问最新的信息，运行计算，或使用第三方服务。”</p><p>&nbsp;</p><p>据了解，<a href=\"https://www.infoq.cn/article/sqGLAIdIKP1jv2YKMd3C\">OpenAI 插件</a>\"将 ChatGPT 连接到第三方应用程序，之后 ChatGPT 便能够与开发人员定义的 API 进行交互，从而增强 ChatGPT 的功能并允许其执行范围广泛的操作，主要包括：</p><p>&nbsp;</p><p>检索实时信息，例如体育比赛成绩、股票价格、最新消息等。检索知识库信息，例如公司文件、个人笔记等。代表用户执行操作，例如订机票、订餐等。</p><p>&nbsp;</p><p>首批参与插件创建的厂商包括 Expedia、FiscalNote、Instacart、KAYAK、Klarna、Milo、OpenTable、Shopify、Slack、Speak、Wolfram 和 Zapier。</p><p>&nbsp;</p><p>另外，OpenAI 还自己托管了两款插件，其一为网络浏览器，其二是代码解释器。OpenAI 开源了一款知识库检索插件的代码，任何开发者都可以借此托管用于增强 ChatGPT 的信息。其中，最吸引人的插件无疑是网络浏览插件，它允许 ChatGPT能直接检索到最新新闻，从网络上提取数据以回答向它提出的各种问题。</p><p>&nbsp;</p><p>在官方演示中，ChatGPT 还能通过与 5000 多个第三方插件交互，实现的功能包括：查询世界各国语言词汇、短语；查询实时股票、航班、酒店信息，规划差旅；访问各大电商数据，帮你比价甚至直接下单；另外还支持个人或企业把私有数据（文档、笔记、邮件等）发给 ChatGPT，成为人的“第二大脑”或企业的智能助理。</p><p>&nbsp;</p><p>OpenAI 表示，现在的语言模型虽然在各类任务中都能有所表现，但结果还不尽人意。而模型提升自我的唯一途径就是其训练数据。但一个问题是，数据内容可能已经过时，而且模型往往“以偏概全”、“生搬硬套”。此外，语言模型唯一能够开箱即用的输出模式就是文本，虽然文本中包含实用说明，但要将其化为操作还需要经历额外的过程。</p><p>&nbsp;</p><p>OpenAI 将插件比喻成语言模型的“眼睛和耳朵”，能帮助模型访问因为较新、较私人或较具体而不宜包含在训练数据内的信息。为了响应用户的明确要求，插件还能帮助语言模型切实执行安全、受控的操作，从而提高整个系统的实用性。</p><p>&nbsp;</p><p>不少网友对联网后的 ChatGPT 给予肯定，称赞 OpenAI 将 ChatGPT 定义为“不只是一个搜索引擎”的行为，也有用户相信，联网后的 ChatGPT 将会减少“幻觉”。</p><p>&nbsp;</p><p>而在移动端，此前有分析指出，iOS 版 ChatGPT 的发布可能对谷歌造成影响，因为谷歌搜索引擎一直是苹果 iPhone Safari 浏览器上的默认选项。在推出联网功能后，iOS 版 ChatGPT 将进一步向谷歌搜索地位发起冲击。</p>",
+    "publish_time": "2023-06-28 14:17:35",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "What AMD Learned from Its Big Chiplet Push",
+    "url": "https://spectrum.ieee.org/chiplet",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36502319\">Comments</a>",
+    "publish_time": "2023-06-28 12:31:22",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Open source AI is critical – Hugging Face CEO before US Congress",
+    "url": "https://venturebeat.com/ai/hugging-face-ceo-tells-us-house-open-source-ai-is-extremely-aligned-with-american-interests/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36499498\">Comments</a>",
+    "publish_time": "2023-06-28 06:21:27",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Google does little to reduce advertisers' costs",
+    "url": "https://simpleblog.ai/blog/google-ads-can-do-more-for-customers/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36500138\">Comments</a>",
+    "publish_time": "2023-06-28 07:27:42",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "New bioinspired robot flies, rolls, walks, and more",
+    "url": "https://www.caltech.edu/about/news/new-bioinspired-robot-flies-rolls-walks-and-more",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36494966\">Comments</a>",
+    "publish_time": "2023-06-28 00:19:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The damaging results of mandated return to office",
+    "url": "https://www.entrepreneur.com/growing-a-business/the-damaging-results-of-the-mandated-return-to-office-is/454043",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36500448\">Comments</a>",
+    "publish_time": "2023-06-28 08:01:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Patterns of Distributed Systems (2022)",
+    "url": "https://martinfowler.com/articles/patterns-of-distributed-systems/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36495335\">Comments</a>",
+    "publish_time": "2023-06-28 00:43:12",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Flashing elements alienate users",
+    "url": "https://astralcodexten.substack.com/p/every-flashing-element-on-your-site",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36501657\">Comments</a>",
+    "publish_time": "2023-06-28 10:46:45",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Drugmakers are abandoning cheap generics",
+    "url": "https://kffhealthnews.org/news/article/drugmakers-are-abandoning-cheap-generics-and-now-us-cancer-patients-cant-get-meds/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36495048\">Comments</a>",
+    "publish_time": "2023-06-28 00:25:07",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Welcoming Shopify as a Ladybird sponsor",
+    "url": "https://awesomekling.substack.com/p/welcoming-shopify-as-a-ladybird-sponsor",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36502433\">Comments</a>",
+    "publish_time": "2023-06-28 12:48:03",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Plastics are poisoning us",
+    "url": "https://www.newyorker.com/magazine/2023/07/03/book-reviews-plastic-waste",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36502366\">Comments</a>",
+    "publish_time": "2023-06-28 12:36:33",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Using command line to process CSV files",
+    "url": "https://muhammadraza.me/2022/data-oneliners/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36501364\">Comments</a>",
+    "publish_time": "2023-06-28 09:58:33",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Supabase (YC S20) Is Hiring a Rust Developer",
+    "url": "https://boards.greenhouse.io/supabase/jobs/4917893004",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36503255\">Comments</a>",
+    "publish_time": "2023-06-28 15:00:19",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "In deep space, astronomers spot precursor of carbon based life",
+    "url": "https://www.theregister.com/2023/06/27/jwst_carbon_molecule_discovery/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36495119\">Comments</a>",
+    "publish_time": "2023-06-28 00:29:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A proto-pizza emerges from a fresco on a Pompeii wall",
+    "url": "http://pompeiisites.org/en/comunicati/pompeii-a-still-life-discovered-by-the-new-excavations-of-regio-ix/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36502398\">Comments</a>",
+    "publish_time": "2023-06-28 12:41:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
