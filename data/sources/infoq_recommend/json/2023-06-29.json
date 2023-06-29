@@ -75,5 +75,49 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "软件工程数智化研究报告—可观测应用篇 2023",
+    "url": "https://www.infoq.cn/article/3Gb5DSoaFhi9jIzLhtMe",
+    "summary": "<p></p><h3>研究背景</h3><p></p><p>近年来，随着云原生技术的兴起，以及敏捷开发和 DevOps 理念的普及，企业正在经历着一场基础设施和开发方式的变革。云原生技术的出现使得应用程序可以更加高效地运行于云环境中，从而帮助企业更好地应对业务需求的快速变化。而敏捷开发和 DevOps 理念的提出则使得软件开发变得更加迅速和高效，从而更好地满足客户的需求。</p><p></p><p>伴随着业务的转型，客户体验也成为了企业关注的焦点。为了提供更好的客户体验，企业需要确保其系统的稳定性和可靠性。在这样的背景下，对于传统监控系统的需求和期望也发生了变化。人们开始关注如何构建具有可观测性的系统，以更加主动地保障系统的稳定性。</p><p></p><p>2018 年，云原生计算基金会（CNCF）正式在其技术景观图（Landscape）中创建了「Observability」分组，将可观测性作为一个独立的技术领域。而在 2023 年，应用可观测性被 Gartner 列入「2023 年十大战略技术趋势」之一，可观测性在 IT 领域逐渐引起广泛关注。</p><p></p><p>然而，目前市场对于可观测性在中国的发展阶段、相关市场参与者与产品都还没有达成一致的认知。因此，InfoQ 研究中心联合中国信通院铸基计划，希望通过《软件工程数智化研究报告—可观测应用篇 2023》的撰写，解读以上问题。本报告将对当前市场上的各类参与者和可观测性解决方案进行分析，以期为企业和开发者们提供关于可观测性的最新研究成果和实践经验。</p><p></p><h3>目录</h3><p></p><p>中国可观测应用发展背景中国可观测应用发展特征中国可观测应用厂商案例解读中国可观测应用发展趋势研判</p><p></p><h3>可观测处在早期推广阶段</h3><p></p><p><img src=\"https://static001.infoq.cn/resource/image/7c/1b/7c889a399c1c5194d325516f7821c51b.png\" /></p><p></p><h3>可观测在中国已进入产品竞争期</h3><p></p><p><img src=\"https://static001.infoq.cn/resource/image/1c/7f/1cca6f6be3cc9a931f5b8302014f427f.png\" /></p><p></p><h3>四大参与方共同建设</h3><p></p><p><img src=\"https://static001.infoq.cn/resource/image/41/85/4128c385a77c4db868a66d6ca58b0285.png\" /></p><p></p><h3>专家致谢</h3><p></p><p>感谢观测未来 CEO，观测云品牌创始人 蒋烁淼、Apache Skywalking 创始人 吴晟、阿里云 智能产品专家 山猎等各位专家接受访谈邀请，发表许多对于可观测应用的深入看法与观点，为报告撰写提供了宝贵的行业认知和观点支撑。感谢中国信通院铸基计划在联合发布过程中给予的帮助，同样感谢中国信通院泰尔终端实验室数字生态发展部 主任 王景尧博士、中国信通院 高级工程师 吴荻博士，为分析中国可观测应用发展现状和趋势，提供了诸多想法和观点。</p><p></p><p>InfoQ 研究中心还将继续持续关注可观测领域，也欢迎各位行业内的专家就本报告的内容进行交流和讨论，共同助力中国可观测应用的发展。</p><p></p><p>扫码领取报告</p><p><img src=\"https://static001.geekbang.org/infoq/91/91b3d74649bc49091e4b24ce1776bd05.png\" /></p><p></p>",
+    "publish_time": "2023-06-29 15:07:02",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "华胜认出席 ArchSummit 深圳，将分享《华为云交易系统低码化实践》话题",
+    "url": "https://www.infoq.cn/article/LfSK2wCRyluLR9RGLA3F",
+    "summary": "<p>7&nbsp;月&nbsp;21&nbsp;日&nbsp;-&nbsp;22&nbsp;日，&nbsp;在&nbsp;<a href=\"https://archsummit.infoq.cn/2023/shenzhen?utm_source=infoqweb&amp;utm_medium=teacherarticle&amp;utm_campaign=8&amp;utm_term=0531\">ArchSummit&nbsp;全球架构师峰会（深圳站）</a>\"，华为云高级工程师华胜，将于会上发表题为《华为云交易系统低码化实践》的演讲，具体介绍华为基于规则引擎和流程引擎构建的交易编排平台，分享华为云交易系统低码化实践经验。</p><p></p><p>华胜&nbsp;2015&nbsp;年加入华为，长期负责华为云订单系统的设计、开发和运维工作，保障华为云订购、续费、退订等核心功能的高可用性和稳定性；目前作为华为云交易编排团队的&nbsp;owner，基于低码化的思想从零构建了华为云交易编排平台。</p><p></p><p>相信通过华胜的分享，你将收获实现业务流程的低码化开发的经验，了解当前低码化架构面临的问题以及对未来的展望。</p><p></p><p>除上述议题外&nbsp;，ArchSummit&nbsp;深圳还将围绕<a href=\"https://archsummit.infoq.cn/2023/shenzhen/track/1537?utm_source=infoqweb&amp;utm_medium=teacherarticle&amp;utm_campaign=8&amp;utm_term=0531\">基础架构技术</a>\"、<a href=\"https://archsummit.infoq.cn/2023/shenzhen/track/1532?utm_source=infoqweb&amp;utm_medium=teacherarticle&amp;utm_campaign=8&amp;utm_term=0531\">DataOps、Data&nbsp;Fabric&nbsp;等高效数据开发与服务模式</a>\"、<a href=\"https://archsummit.infoq.cn/2023/shenzhen/track/1534?utm_source=infoqweb&amp;utm_medium=teacherarticle&amp;utm_campaign=8&amp;utm_term=0531\">Mesh&nbsp;技术实践案例</a>\"、<a href=\"https://archsummit.infoq.cn/2023/shenzhen/track/1535?utm_source=infoqweb&amp;utm_medium=teacherarticle&amp;utm_campaign=8&amp;utm_term=0531\">QUIC&nbsp;传输和架构优化</a>\"等进行分享。</p><p></p><p>数十位业界专家，上百个国内外一线大厂前沿技术案例，一定会给你带来很多全新的开发灵感。期待与你线下交流！&nbsp;现在购票，享&nbsp;9&nbsp;折特惠，立省&nbsp;¥880！咨询购票请联系&nbsp;18514549229（微信同手机号）</p><p><img src=\"https://static001.infoq.cn/resource/image/9d/aa/9d6a27547062ee2e089f91bdc4ba1eaa.png\" /></p><p></p><p></p>",
+    "publish_time": "2023-06-29 15:21:41",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "中国企业研发高效能白皮书-企业级架构篇",
+    "url": "https://www.infoq.cn/article/aKhGLkFF5sBYf5aFbSRt",
+    "summary": "<p></p><h3>研究背景</h3><p></p><p>近年来中国企业研发正在从粗放型走向精益型，研发工作的“高效能”成为几乎每个研发团队共同的追求。</p><p></p><p>中国软件服务产业也在近 5-10 年中得到了飞速发展，技术服务的边界不断拓展，赋能研发高效的产品层出不穷，适合中国研发环境的技术服务体系在不断完善。从结果上看，中国企业正在高效能研发的路径上快速前进。</p><p></p><p>本份报告以中国高效能研发企业为研究对象，尝试解读市场中具有代表性的高效能研发解决方案。本次报告由五个篇章组成，如 CI/CD、企业级软件架构、价值流管理等主题。研究小组期待可以通过研究，帮助中国企业研发团队获得高效能研发新知。</p><p></p><p>企业级软件架构篇是本次报告的第三篇章，主要研究了企业级软件架构是如何帮助研发团队提升效率。该篇章不仅说明了企业级软件架构的概念和技术结构，而且对不同企业和团队的研发场景适配的产品形式进行解读。</p><p></p><p>同时，报告中也解读了极狐 GitLab 企业级软件架构的实例，并且预测了未来企业级软件架构未来的发展方向。</p><p></p><h3>报告目录</h3><p></p><p>关于企业级软件架构概念常见的企业级软件架构方案极狐 GitLab 企业级软件架构极狐 GitLab 企业级软件架构最佳实践企业级软件架构市场发展趋势展望</p><p></p><p>扫码领取报告</p><p><img src=\"https://static001.geekbang.org/infoq/81/818ffd6f75edbc7cd40d18b3d610022a.png\" /></p><p></p>",
+    "publish_time": "2023-06-29 16:17:22",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "“驯服”可控大模型，白海发布一站式大模型微调平台IDP LM",
+    "url": "https://www.infoq.cn/article/tz11dfIQZuuC7dOes3bV",
+    "summary": "<p>ChatGPT的破圈之旅，拉开了大模型“诸神之战”的序幕，据不完全统计，2020年至2023年间，中国已发布了79个参数在10亿规模以上的大模型。而仅仅2023年前5个月，中国以19个大模型开发数量位居榜首，国内典型大模型包括：阿里的M6，百度的文心大模型，华为的盘古，科大讯飞的星火，商汤的日日新，智谱科技的ChatGLM&nbsp;等，共同打造完整的中国大模型生态链路。</p><p></p><p>然而，在大模型如火如荼的背后，幻觉（hallucination）倾向就越发的明显，它正在越发的生产着&nbsp;“完全没有出处的非真实内容”。这样对于商业化而言是一个巨大的挑战，来面对一个不可控、不可预测和不可靠的大模型。</p><p></p><p>而对于不同行业、场景和客户来说，大模型要落到垂直细分行业中，才能发挥其应有价值，可控的大模型才是有意义的。为了增强大模型在特定领域或任务上的表现，通常需要对基础大模型进行针对性的高质量微调。然而，如何实现高效和可控的微调是当前行业大模型构建面临的普遍挑战。</p><p></p><p>白海IDP(Intelligent&nbsp;Development&nbsp;Platform)&nbsp;LM致力于帮助客户克服这一挑战，通过提供一站式的大模型微调工具，来“驯服”大模型，实现用低门槛、高效和可控的方式来构建垂直行业专属大模型，具体目标包括为客户提供：</p><p>干净、准确的微调训练数据严格的反馈回流数据审核全面、综合的模型评估高效高性能的微调和推理服务</p><p></p><p>IDP&nbsp;LM工具化了大模型微调技术（RLHF）的全流程，不仅技术人员，业务人员也可以轻松进行模型微调。同时，IDP&nbsp;LM提供预训练的领域模型，极大地降低了大模型微调应用的门槛和冷启动成本。除低门槛、低成本外，我们一直坚信，对于大模型在具体行业或场景的应用落地，“可控”是必须的。</p><p></p><p>在去年Stable&nbsp;Diffusion的微调工具构建时，我们就明确了白海的生成式AI/大模型加速平台的SQL目标：即安全可控(Safe)+&nbsp;合格（Qualified)&nbsp;+&nbsp;低成本/低门槛&nbsp;(Low&nbsp;cost&nbsp;)&nbsp;。</p><p></p><p>“AI画作《太空歌剧院》为例，这幅画在美术比赛上拔得头筹惊艳四座，但背后生成了900多个版本，耗费80多个小时，才得到最终的作品。该画基于扩散模型生成，作为潜在变量模型，扩散模型赋予了AIGC开放性的创造力，但可控性仍不尽如人意，无法限制在一个具体的预期里，这对商业化会带来很多问题。”&nbsp;创始人卢亿雷曾表示，”不仅对于AI绘画模型如此，大语言模型的行业应用更是面临可控性的挑战。在实际的行业应用中，如金融、医疗等，问答的不可控会带来严峻的后果。“</p><p></p><p>因此，IDP&nbsp;LM除了在将大模型微调流程训练工具化外，在数据的处理、数据标注、数据审核和模型评估方面也提供了易用的工具和经验证的高效方法。</p><p>在数据清洗和数据增强方面，自动支持数据清洗、同义词替换、随机插入、随机删除、句子重组等。数据标注方面，我们提供适用于大模型场景的标注工具，如答案质量打分，答案补充，便捷高效的支持数据的标注和数据的训练应用。IDP&nbsp;LM同时提供自动化的反馈数据回流与应用，这一过程中，对反馈数据的质量审核至关重要。IDP&nbsp;LM为审核员提供了专门的看板，并基于系统算法提供审核建议和指导，保证反馈回流数据的质量、有效、无害。</p><p></p><p>大模型的有效评估也是影响模型效果的重要环节。IDP&nbsp;LM支持自动评估和人工评估，从准确度、安全性、稳定性、领域的专业适用性等角度，对模型效果进行严格把关。IDP&nbsp;LM目前已在交互式数字人、AI问诊等领域服务企业客户。我们将继续在重点行业深耕，为客户提供更加简单、易用、完善的大模型构建工具和解决方案支持。</p><p></p><p>我们始终以“让AI&nbsp;更简单、更快速、更高效“的使命为指引，IDP&nbsp;LM的推出是践行这一使命的重要一步。我们诚挚邀请行业客户和产业链的伙伴和白海IDP&nbsp;LM一同，推动大模型在各行业的应用价值创造，驯服可控大模型的为垂直行业及场景所用。</p>",
+    "publish_time": "2023-06-29 16:56:46",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
