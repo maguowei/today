@@ -31,5 +31,159 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "An Emoji-based Guide for Speaking Distributed Systems and Temporal",
+    "url": "https://temporal.io/blog/25-key-terms-for-speaking-distributed-systems-and-temporal",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36523379\">Comments</a>",
+    "publish_time": "2023-06-30 01:12:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Towards an Adaptable Systems Architecture for Memory Tiering at Warehouse-Scale",
+    "url": "https://www.micahlerner.com/2023/06/29/towards-an-adaptable-systems-architecture-for-memory-tiering-at-warehouse-scale.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36523762\">Comments</a>",
+    "publish_time": "2023-06-30 01:35:47",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ask HN: Is GitHub down?",
+    "url": "https://news.ycombinator.com/item?id=36523878",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36523878\">Comments</a>",
+    "publish_time": "2023-06-30 01:42:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Beware of Unreliable Data in Model Evaluation: A LLM Prompt Selection Case Study",
+    "url": "https://cleanlab.ai/blog/prompt-selection/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36523647\">Comments</a>",
+    "publish_time": "2023-06-30 01:28:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Google and Meta will stop showing Canadian sourced news",
+    "url": "https://www.ctvnews.ca/politics/google-set-to-remove-news-links-in-canada-meta-ends-contract-for-journalism-fellowship-as-bill-c-18-fallout-continues-1.6461557",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36524662\">Comments</a>",
+    "publish_time": "2023-06-30 02:27:54",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Building Boba AI: Lessons learnt in building an LLM-powered application",
+    "url": "https://martinfowler.com/articles/building-boba.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36523480\">Comments</a>",
+    "publish_time": "2023-06-30 01:19:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Journalists should invest in journalism startups, particularly now",
+    "url": "https://www.businessside.co/p/editorial-investing",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36524106\">Comments</a>",
+    "publish_time": "2023-06-30 01:54:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Freshpaint (YC S19) Is Hiring Software Engineers to Build a HIPAA Data Platform",
+    "url": "https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36523300\">Comments</a>",
+    "publish_time": "2023-06-30 01:06:36",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The KDE Free Qt Foundation: 25 Years of Celebration",
+    "url": "https://www.qt.io/blog/the-kde-free-qt-foundation-25-years-of-celebration",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36525015\">Comments</a>",
+    "publish_time": "2023-06-30 02:52:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Canada’s Bill C-18 and Our Search and News Products",
+    "url": "https://blog.google/canada-news-en/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36524840\">Comments</a>",
+    "publish_time": "2023-06-30 02:41:17",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Gorilla-CLI: LLMs for CLI including K8s/AWS/GCP/Azure/sed and 1500 APIs",
+    "url": "https://github.com/gorilla-llm/gorilla-cli",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36524078\">Comments</a>",
+    "publish_time": "2023-06-30 01:52:45",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Github.com is down",
+    "url": "https://github.com/status",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36523843\">Comments</a>",
+    "publish_time": "2023-06-30 01:40:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Gitlab AI is going head to head with GitHub Copilot",
+    "url": "https://about.gitlab.com/solutions/code-suggestions/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36524201\">Comments</a>",
+    "publish_time": "2023-06-30 01:58:54",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Being “rockstars”: when software was a talents/creatives industry",
+    "url": "https://morepablo.com/2023/06/creatives-industries.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36523571\">Comments</a>",
+    "publish_time": "2023-06-30 01:23:48",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]

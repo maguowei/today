@@ -1129,5 +1129,240 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "韩国网友对长月烬明的评价",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%BD%91%E5%8F%8B%E5%AF%B9%E9%95%BF%E6%9C%88%E7%83%AC%E6%98%8E%E7%9A%84%E8%AF%84%E4%BB%B7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "誓约直播号没了",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%AA%93%E7%BA%A6%E7%9B%B4%E6%92%AD%E5%8F%B7%E6%B2%A1%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "姜个顾事",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A7%9C%E4%B8%AA%E9%A1%BE%E4%BA%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "田柾国将solo出道",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9F%BE%E5%9B%BD%E5%B0%86solo%E5%87%BA%E9%81%93%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "鉴证实录",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%89%B4%E8%AF%81%E5%AE%9E%E5%BD%95%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "十个勤天",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "英雄联盟",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "为什么有古希腊天文学水平远超同时期的其他文明的说法？",
+    "url": "https://www.zhihu.com/question/503673892",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "你是从什么时候开始不爱发朋友圈了?",
+    "url": "https://www.zhihu.com/question/602644549",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "An Emoji-based Guide for Speaking Distributed Systems and Temporal",
+    "url": "https://temporal.io/blog/25-key-terms-for-speaking-distributed-systems-and-temporal",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36523379\">Comments</a>",
+    "publish_time": "2023-06-30 01:12:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Towards an Adaptable Systems Architecture for Memory Tiering at Warehouse-Scale",
+    "url": "https://www.micahlerner.com/2023/06/29/towards-an-adaptable-systems-architecture-for-memory-tiering-at-warehouse-scale.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36523762\">Comments</a>",
+    "publish_time": "2023-06-30 01:35:47",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ask HN: Is GitHub down?",
+    "url": "https://news.ycombinator.com/item?id=36523878",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36523878\">Comments</a>",
+    "publish_time": "2023-06-30 01:42:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Beware of Unreliable Data in Model Evaluation: A LLM Prompt Selection Case Study",
+    "url": "https://cleanlab.ai/blog/prompt-selection/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36523647\">Comments</a>",
+    "publish_time": "2023-06-30 01:28:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Google and Meta will stop showing Canadian sourced news",
+    "url": "https://www.ctvnews.ca/politics/google-set-to-remove-news-links-in-canada-meta-ends-contract-for-journalism-fellowship-as-bill-c-18-fallout-continues-1.6461557",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36524662\">Comments</a>",
+    "publish_time": "2023-06-30 02:27:54",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Building Boba AI: Lessons learnt in building an LLM-powered application",
+    "url": "https://martinfowler.com/articles/building-boba.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36523480\">Comments</a>",
+    "publish_time": "2023-06-30 01:19:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Journalists should invest in journalism startups, particularly now",
+    "url": "https://www.businessside.co/p/editorial-investing",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36524106\">Comments</a>",
+    "publish_time": "2023-06-30 01:54:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Freshpaint (YC S19) Is Hiring Software Engineers to Build a HIPAA Data Platform",
+    "url": "https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36523300\">Comments</a>",
+    "publish_time": "2023-06-30 01:06:36",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The KDE Free Qt Foundation: 25 Years of Celebration",
+    "url": "https://www.qt.io/blog/the-kde-free-qt-foundation-25-years-of-celebration",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36525015\">Comments</a>",
+    "publish_time": "2023-06-30 02:52:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Canada’s Bill C-18 and Our Search and News Products",
+    "url": "https://blog.google/canada-news-en/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36524840\">Comments</a>",
+    "publish_time": "2023-06-30 02:41:17",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Gorilla-CLI: LLMs for CLI including K8s/AWS/GCP/Azure/sed and 1500 APIs",
+    "url": "https://github.com/gorilla-llm/gorilla-cli",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36524078\">Comments</a>",
+    "publish_time": "2023-06-30 01:52:45",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Github.com is down",
+    "url": "https://github.com/status",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36523843\">Comments</a>",
+    "publish_time": "2023-06-30 01:40:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Gitlab AI is going head to head with GitHub Copilot",
+    "url": "https://about.gitlab.com/solutions/code-suggestions/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36524201\">Comments</a>",
+    "publish_time": "2023-06-30 01:58:54",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Being “rockstars”: when software was a talents/creatives industry",
+    "url": "https://morepablo.com/2023/06/creatives-industries.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36523571\">Comments</a>",
+    "publish_time": "2023-06-30 01:23:48",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
