@@ -64,5 +64,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "一个关于计算机网络的疑问",
+    "url": "https://www.v2ex.com/t/952586",
+    "summary": "OrdinaryMan: <p>计算机发送 ip 数据包时，如何判断目的 ip 和本地 ip 是否属于同一网段？</p>\n<p>网上的答案是：使用本地子网掩码分别和本地 IP 和目的 IP 进行按位与运算分别得到本地网络号和目的网络号，比较网络号是否相同</p>\n<p>但是如果目的 ip 所在的网段子网掩码和本地的子网掩码不一样，比如：\n本地 ip：192.168.1.1   本地子网掩码：255.255.255.0\n目的 ip：192.168.1.193 目的子网掩码：255.255.255.192\n这种情况按照上述判断方式结果是属于同一网段，然而实际上是两个不同的网段</p>\n<p>所以，正确答案是什么？</p>",
+    "publish_time": "2023-06-29 09:40:16",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "想在 v2 上搞一个即时群聊🐶，一边刷贴一边聊天，大家觉得这想法咋样？",
+    "url": "https://www.v2ex.com/t/952634",
+    "summary": "ttentau1: <p>我写的油猴脚本每天稳定有 900 多人使用了🐶，我准备在上面加个即时群聊的功能🐶，大家觉得这想法咋样？</p>\n<p><img alt=\"img\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/zy9fyzb.png\" /></p>",
+    "publish_time": "2023-06-29 11:17:24",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "这些年诞生的一个非常暴利而又低调的一个行业",
+    "url": "https://www.v2ex.com/t/952753",
+    "summary": "zhangtest: <p>言论管控越来越严重，这种环境下也诞生了一个非常暴利闷声发大财的行业，信息内容安全。\n这里面包含敏感词、错别字、语句通顺等等检测分析，还可以扩展到图片，语音，舆论监控等等，无穷无尽的相关需求，最重要的是，目前大厂都没发现这种业务到底有多赚钱，就算发现了，他们也不一定能竞争过别人。</p>\n<p>检测不是简单的那种\"是否\"判断违规，而是要精细化，举个例子：\ngov 全国那么多部门，事业单位，每天各种公文，发布的内容，他们需要更丰富的检测，有没有涉及敏感词，敏感人物，错别字，词语是否用错，并且要不断地更新迭代，某个名字今天是正能量，明天可能就落马变负能量，还需要本地化部署，一个账号一年收他们几万，一个单位开几个或者十几个账号，相信我，这点钱对他们来说眼睛都不会眨一下。\n全国的出版社、各种新闻媒体机构都是潜在客户，并且他们也非常期望有这些服务，内容犯政治上的错误他们担不起。</p>\n<p>相关认知来源：某公司，只做 gov 的业务，不要什么天使融资，gov 的循环收益源源不断又稳定，同行竞争对手几乎没有，这几年靠这个从几十人到上千人疯狂扩张。</p>",
+    "publish_time": "2023-06-29 16:33:25",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
