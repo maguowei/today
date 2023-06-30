@@ -1310,5 +1310,72 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "易烊千玺发了新鲜照片",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%8F%91%E4%BA%86%E6%96%B0%E9%B2%9C%E7%85%A7%E7%89%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "电路板上的 0 欧电阻有什么用？",
+    "url": "https://www.zhihu.com/question/601580372",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "2023 LPL 夏季赛NIP 0:2 WBG，如何评价这场比赛？",
+    "url": "https://www.zhihu.com/question/609607873",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "《崩坏：星穹铁道》中为什么没有出现明确的日本文化背景的星神？",
+    "url": "https://www.zhihu.com/question/609217082",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "阿斯巴甜可能导致癌症引热议，那么代糖到底是否有害健康？「无糖」食品还能吃吗？",
+    "url": "https://www.zhihu.com/question/609548110",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Goldman Is Looking for a Way Out of Its Partnership with Apple",
+    "url": "https://www.wsj.com/articles/goldman-is-looking-for-a-way-out-of-its-partnership-with-apple-79849a91",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36541836\">Comments</a>",
+    "publish_time": "2023-07-01 04:34:27",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Racket Frustrates Me",
+    "url": "https://blog.winny.tech/posts/racket-frustrates-me/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36541758\">Comments</a>",
+    "publish_time": "2023-07-01 04:27:54",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
