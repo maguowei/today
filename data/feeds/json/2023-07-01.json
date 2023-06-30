@@ -1377,5 +1377,120 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "庆祝建党102周年",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BA%86%E7%A5%9D%E5%BB%BA%E5%85%9A102%E5%91%A8%E5%B9%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "胡锡进称「经过这一周，更渴望国家刺激经济政策的出台」，如何看待此事？",
+    "url": "https://www.zhihu.com/question/609622405",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "高考报志愿花 5000 块值吗？",
+    "url": "https://www.zhihu.com/question/603639824",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Tell HN: PWAs on iPhone Still Suck",
+    "url": "https://news.ycombinator.com/item?id=36542758",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36542758\">Comments</a>",
+    "publish_time": "2023-07-01 05:42:48",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "MDN can now automatically lie to people seeking technical information",
+    "url": "https://github.com/mdn/yari/issues/9208",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36542267\">Comments</a>",
+    "publish_time": "2023-07-01 05:05:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Australia legalises psychedelics for mental health",
+    "url": "https://www.bbc.co.uk/news/world-australia-66072427",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36542101\">Comments</a>",
+    "publish_time": "2023-07-01 04:52:05",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Brazil's Jair Bolsonaro is barred from office until 2030",
+    "url": "https://www.washingtonpost.com/politics/2023/06/30/brazil-bolsonaro-ineligible-court-ruling-vote/465d30ea-175d-11ee-9de3-ba1fa29e9bec_story.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36542634\">Comments</a>",
+    "publish_time": "2023-07-01 05:33:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Briar Mailbox released to improve connectivity",
+    "url": "https://briarproject.org/news/2023-briar-mailbox-released/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36541798\">Comments</a>",
+    "publish_time": "2023-07-01 04:30:50",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "FTC Announces Proposed Rule Banning Fake Reviews and Testimonials",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2023/06/federal-trade-commission-announces-proposed-rule-banning-fake-reviews-testimonials",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36542500\">Comments</a>",
+    "publish_time": "2023-07-01 05:23:14",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "RIP Nitter",
+    "url": "https://github.com/zedeus/nitter/issues/919",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36542179\">Comments</a>",
+    "publish_time": "2023-07-01 04:58:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "SEC notifies SolarWinds CISO and CFO of possible action in cyber investigation",
+    "url": "https://www.cybersecuritydive.com/news/sec-solarwinds-ciso-cfo-orion/653864/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36542298\">Comments</a>",
+    "publish_time": "2023-07-01 05:08:14",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
