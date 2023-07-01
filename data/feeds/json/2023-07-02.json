@@ -1268,5 +1268,85 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "植选中国女篮的营养选择",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%A4%8D%E9%80%89%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E7%9A%84%E8%90%A5%E5%85%BB%E9%80%89%E6%8B%A9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "张杰未live巡回演唱会",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E6%9C%AAlive%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "陈哲远手写信告别青环",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E6%89%8B%E5%86%99%E4%BF%A1%E5%91%8A%E5%88%AB%E9%9D%92%E7%8E%AF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "剧透对悬疑电影影响到底有多大？你有哪些被剧透的经历？",
+    "url": "https://www.zhihu.com/question/607981887",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Tell HN: Twitter switched temporarily to rate limited mode",
+    "url": "https://news.ycombinator.com/item?id=36552324",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36552324\">Comments</a>",
+    "publish_time": "2023-07-02 01:14:08",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Meticulous (YC S21) is hiring #3 founding engineer to build AI for UI testing",
+    "url": "https://news.ycombinator.com/item?id=36552170",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36552170\">Comments</a>",
+    "publish_time": "2023-07-02 01:02:24",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The complex history of the Intel i960 RISC processor",
+    "url": "http://www.righto.com/2023/07/the-complex-history-of-intel-i960-risc.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36552844\">Comments</a>",
+    "publish_time": "2023-07-02 01:49:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "FBI obtains Kolektiva.social database while executing warrant on administrator",
+    "url": "https://kolektiva.social/@admin/110637031574056150",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36553489\">Comments</a>",
+    "publish_time": "2023-07-02 02:36:05",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
