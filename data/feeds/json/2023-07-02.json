@@ -1348,5 +1348,56 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "徐佳莹女儿好可爱",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BE%90%E4%BD%B3%E8%8E%B9%E5%A5%B3%E5%84%BF%E5%A5%BD%E5%8F%AF%E7%88%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "镜头里的欢乐瞬间",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%95%9C%E5%A4%B4%E9%87%8C%E7%9A%84%E6%AC%A2%E4%B9%90%E7%9E%AC%E9%97%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "“It appears that Twitter is DDoSing itself”",
+    "url": "https://sfba.social/@sysop408/110639474671754723",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36553762\">Comments</a>",
+    "publish_time": "2023-07-02 02:58:56",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Workers with less experience gain the most from generative AI",
+    "url": "https://mitsloan.mit.edu/ideas-made-to-matter/workers-less-experience-gain-most-generative-ai",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36553987\">Comments</a>",
+    "publish_time": "2023-07-02 03:20:03",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Bluesky facing degraded performance due to record high traffic",
+    "url": "https://bsky.app/profile/bsky.app/post/3jzi4yw3nqu2h",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36554053\">Comments</a>",
+    "publish_time": "2023-07-02 03:26:46",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
