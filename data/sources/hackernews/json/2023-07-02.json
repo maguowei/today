@@ -262,5 +262,27 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "git-landmine – create local malicious Git repo",
+    "url": "https://github.com/jwilk/git-landmine",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36556436\">Comments</a>",
+    "publish_time": "2023-07-02 07:28:47",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "C++ GPT-2 inference engine",
+    "url": "https://github.com/a1k0n/a1gpt",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36556293\">Comments</a>",
+    "publish_time": "2023-07-02 07:11:14",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
