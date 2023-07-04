@@ -196,5 +196,27 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "突发！美国将限制中国企业使用亚马逊、微软等云服务",
+    "url": "https://www.infoq.cn/article/px8H2Elp4mR9lUpWteGD",
+    "summary": "<p>据<a href=\"https://www.reuters.com/technology/us-set-restrict-chinas-access-cloud-computing-wsj-2023-07-04/\">《华尔街日报》</a>\"援引知情人士消息称，拜登政府正准备限制中国企业使用美国云计算服务。</p><p>&nbsp;</p><p>据悉，如果这项新规定被采纳，可能会要求<a href=\"https://xie.infoq.cn/article/7a13971bbd3bcae4bb5915840\">亚马逊</a>\"(Amazon)和<a href=\"https://www.infoq.cn/article/9wzrGiMTl8XClRgSfL9A\">微软</a>\"(Microsoft)等美国云服务提供商在向中国客户提供使用先进人工智能芯片的云计算服务之前，必须获得美国政府的许可。</p><p>&nbsp;</p><p>美国商务部预计将在未来几周内实施该限制政策，该政策是作为 10 月份推出的半导体出口管制政策扩展的一部分。此前，美国要求禁止英伟达A100等高端人工智能芯片出口至中国，但是企业仍然可以通过云计算的方式在AWS、微软Azure等平台上获取A100等人工智能芯片提供的算力。</p><p>&nbsp;</p><p>最近，还有国外媒体报道称，美国和荷兰今夏将进一步限制芯片制造设备销售，荷兰正计划对该国最大企业阿斯麦(ASML)和其他公司的某些设备施加限制。</p><p>&nbsp;</p><p>昨天，商务部、海关总署宣布，对镓、锗相关物项实施出口管制。由于这些金属材料广泛用于半导体制造，并且中国是市场上主要的供应商，因此此举也被解读为中国对欧美半导体管制政策的反击。</p><p>&nbsp;</p><p>美国商务部、微软和亚马逊没有在工作时间之外立即回应置评请求。</p><p></p><p>参考链接：</p><p><a href=\"https://www.reuters.com/technology/us-set-restrict-chinas-access-cloud-computing-wsj-2023-07-04/\">https://www.reuters.com/technology/us-set-restrict-chinas-access-cloud-computing-wsj-2023-07-04/</a>\"</p>",
+    "publish_time": "2023-07-04 18:15:44",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "进击的云数仓 3.0 ：探秘华为云 GaussDB(DWS) 厚积薄发之路",
+    "url": "https://www.infoq.cn/article/RRdAHG6OAomzetSME9dq",
+    "summary": "<p>数字时代，如何更进一步释放数据价值、推动业务增长，已成为各行业共同面临的挑战。作为数据分析、处理的一项关键技术——「数据仓库」逐渐成为了驱动行业发展的重要引擎。本期华为云和 InfoQ 联合出品的《探秘云新知丨GaussDB(DWS) 》，将带你探访华为云 GaussDB(DWS) ，了解最前沿的数仓技术与场景实践！</p>",
+    "publish_time": "2023-07-04 18:30:25",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
