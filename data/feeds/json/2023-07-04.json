@@ -6855,5 +6855,346 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "EDG 啃老",
+    "url": "https://s.weibo.com/weibo?q=%23EDG+%E5%95%83%E8%80%81%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "闪闪发光的中国00后",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%97%AA%E9%97%AA%E5%8F%91%E5%85%89%E7%9A%84%E4%B8%AD%E5%9B%BD00%E5%90%8E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "古天乐眉毛",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%A4%E5%A4%A9%E4%B9%90%E7%9C%89%E6%AF%9B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "否定型人格",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%90%A6%E5%AE%9A%E5%9E%8B%E4%BA%BA%E6%A0%BC%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "东京一店长闻到煤气味后点了根烟",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9C%E4%BA%AC%E4%B8%80%E5%BA%97%E9%95%BF%E9%97%BB%E5%88%B0%E7%85%A4%E6%B0%94%E5%91%B3%E5%90%8E%E7%82%B9%E4%BA%86%E6%A0%B9%E7%83%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "EDG对战TT",
+    "url": "https://s.weibo.com/weibo?q=%23EDG%E5%AF%B9%E6%88%98TT%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "王一博核心力量",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%A0%B8%E5%BF%83%E5%8A%9B%E9%87%8F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "宋雨琦夸张淼怡好可爱",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%A4%B8%E5%BC%A0%E6%B7%BC%E6%80%A1%E5%A5%BD%E5%8F%AF%E7%88%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "黄朔 空降",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%9C%94+%E7%A9%BA%E9%99%8D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "高性能手机用起来有多爽",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%80%A7%E8%83%BD%E6%89%8B%E6%9C%BA%E7%94%A8%E8%B5%B7%E6%9D%A5%E6%9C%89%E5%A4%9A%E7%88%BD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "苏州大学录取通知书太用心了",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B7%9E%E5%A4%A7%E5%AD%A6%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%A4%AA%E7%94%A8%E5%BF%83%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "迪奥二零二三秋冬高订秀",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E5%A5%A5%E4%BA%8C%E9%9B%B6%E4%BA%8C%E4%B8%89%E7%A7%8B%E5%86%AC%E9%AB%98%E8%AE%A2%E7%A7%80%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "莲花楼",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E6%A5%BC%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "被香港的辣度细分惊了",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%A6%99%E6%B8%AF%E7%9A%84%E8%BE%A3%E5%BA%A6%E7%BB%86%E5%88%86%E6%83%8A%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "对付单位里坏人的办法",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AF%B9%E4%BB%98%E5%8D%95%E4%BD%8D%E9%87%8C%E5%9D%8F%E4%BA%BA%E7%9A%84%E5%8A%9E%E6%B3%95%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "医院实习生不小心把锐器等垃圾丢进医疗垃圾犯法吗?",
+    "url": "https://www.zhihu.com/question/609510495",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "这届亚运会，首次作为正式项目的手游电竞比赛都有什么值得期待？",
+    "url": "https://www.zhihu.com/question/609567949",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价 7 月 4 日发布的 iQOO 11S，作为本届亚运会电竞赛事官方用机，都有哪些亮点？",
+    "url": "https://www.zhihu.com/question/609567853",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "2023 LPL 夏季赛EDG VS TT，如何评价这场比赛？",
+    "url": "https://www.zhihu.com/question/610296656",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "志愿填报市场火热，媒体称选大学及专业也应有「大众点评网」，志愿咨询行业有何乱象？如何使报考信息更透明？",
+    "url": "https://www.zhihu.com/question/610269162",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "越南因南海九段线禁止电影《芭比》上映，外交部回应「不应将南海问题同人文交流挂钩」，如何看待越方行为？",
+    "url": "https://www.zhihu.com/question/610272972",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "《最终幻想》系列的剧情和设定关联都不大，那如何来定义和区分《最终幻想》，独属于此系列的特性是什么？",
+    "url": "https://www.zhihu.com/question/608450856",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "“成都滴滴出行科技有限公司”拟注销，滴滴：不是成都运营主体，公司运营一切正常",
+    "url": "https://www.36kr.com/newsflashes/2329793762829189",
+    "summary": "36氪获悉，据滴滴出行微博，滴滴在成都的运营主体为“成都滴滴优行科技有限公司”，目前公司运营、乘客打车及司机接单等服务一切正常。本次申请注销的“成都滴滴出行科技有限公司”不是运营主体，但因两个名称仅相差一字，引发了大家的担心和误解，非常抱歉。",
+    "publish_time": "2023-07-04 20:10:31",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "汇金股份：孙公司就合同诈骗事件向公安机关报案",
+    "url": "https://www.36kr.com/newsflashes/2329818203349889",
+    "summary": "36氪获悉，汇金股份公告，公司全资孙公司深圳融科就河南远中医疗设备有限公司涉嫌合同诈骗事件向深圳市公安局福田分局报案，并于7月4日收到深圳市公安局福田分局出具的《立案告知书》。经公司调查，发现远中医疗涉嫌伪造中标通知书、医院采购合同和医院验收报告，骗取深圳融科货款，存在合同诈骗的重大嫌疑。",
+    "publish_time": "2023-07-04 20:13:38",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "iQOO 11S正式发布，售价3799元起",
+    "url": "https://www.36kr.com/newsflashes/2329830091465601",
+    "summary": "36氪获悉，7月4日，“杭州亚运会电竞赛事官方用机”iQOO 11S正式发布，售价3799元起。据介绍，iQOO 11S搭载高通第二代骁龙8旗舰5G移动平台，首发iQOO超算独显芯片，具备200W超快闪充和三星2K 144Hz E6全感屏。",
+    "publish_time": "2023-07-04 20:25:43",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "昊志机电收关注函：要求补充说明公司在与客户共同开发按摩机器人中承担的主要工作及具体贡献",
+    "url": "https://www.36kr.com/newsflashes/2329832859886466",
+    "summary": "36氪获悉，昊志机电收关注函：要求补充说明公司在与客户共同开发按摩机器人中承担的主要工作及具体贡献，主要客户基本信息及在手订单，按摩机器人相关产品近三年的销售收入及占比等，相关业务对公司业绩是否具有重大影响；补充披露谐波减速器、控制系统、DD电机等产品在机器人领域的具体应用情况，是否已实际应用并形成批量销售，公司已取得的在手订单及意向订单，近三年公司在机器人领域的销售收入及占比。",
+    "publish_time": "2023-07-04 20:28:32",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "百亿私募上半年业绩出炉，但斌旗下产品夺冠",
+    "url": "https://www.36kr.com/newsflashes/2329833279184518",
+    "summary": "A股2023上半年行情已收官。对于私募机构来说，极其考验私募基金经理的投资能力。有一批百亿私募大佬在今年上半场的业绩竞赛中脱颖而出——私募排排网数据显示，上半年，东方港湾、银叶投资、正圆投资、和谐汇一资产、大禾投资等百亿私募位居前五。其中，但斌旗下一只产品年内净值涨幅高达79.85%，位居百亿榜首。（每经网）",
+    "publish_time": "2023-07-04 20:40:46",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "教育部召开2023年暑期校外培训治理工作调度会",
+    "url": "https://www.36kr.com/newsflashes/2329854861172356",
+    "summary": "36氪获悉，据教育部官网，教育部召开2023年暑期校外培训治理工作调度会。会议指出，要切实防范违规培训侵害家长、学生利益事件发生。保持高压态势，开展专项排查，持续加大联合执法力度，对学科类隐形变异违规培训问题线索快速响应、迅速核查、联动处置。要维护家长预交培训费用安全，用好数字化监管手段、做好价格与资金监管，最大限度减少退费纠纷。",
+    "publish_time": "2023-07-04 20:50:55",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "手机也能用文心一言了！百度文心一言App正式上架iOS平台",
+    "url": "https://www.infoq.cn/article/9i6Qd8SuQSHMPLXSRHel",
+    "summary": "<p>7月4日，InfoQ注意到，由百度开发的大语言模型“文心一言”已经上架苹果App Store，用户可以免费下载。</p><p></p><p>“文心一言”作为百度全新一代知识增强大语言模型，采用一对一的对话式聊天场景，能够与人对话互动、回答问题、协助创作，同时在文学创作、商业文案创作、数理逻辑推算、中文理解多模态生成等多个应用场景中高效便捷地帮助人们获取信息、知识和灵感。</p><p></p><p><img src=\"https://static001.infoq.cn/resource/image/a9/22/a998a0e644b3552d3yycce499299cd22.png\" /></p><p></p><p>在产品亮点中，百度表示“文心一言”具备多项能力：</p><p></p><p>中文理解：作为扎根于中国市场的大语言模型，在5500亿事实知识图谱的赋能下，文心一言具备中文领域更先进的自然语言处理能力，在中文语言和中国文化上有更好的表现。文本创作：文心一言具有对话问答、总结分析、内容创作生成的综合能力。产品起名品牌 Slogan、新闻稿和种草文案等专业化文案的创作，文心一言依然手到擒来。数理逻辑推算： 文心一言具备了一定的思维能力，能够学会数学推演及逻辑推理等相对复杂任务。不仅有结果，还会为用户贴心的提供正正确的解题思路。灵感中心：灵感中心的上百款实用工具能够覆盖日常生活的创作、职场、学习、情感、绘画等多个应用场景即来即用，输入简短字句，即可生成惊喜大作。动漫女神头像、朋友圈神器、短视频脚本等工具已受到上万用户的认可。图片生成：简单描述你的创意，文心一言就能一键生成专属于你的绘画作品。语音交互：目前支持用户进行语音交流，轻松实现更真实的交互效果。同时，内置多种助理角色和音色效果可供选择。</p><p></p><p>3 月 16 日，百度正式对外发布文心一言。</p><p></p><p>百度首席技术官王海峰表示，文心一言是<a href=\"https://www.infoq.cn/article/Mz92EUBpvOwykbNG2iMz\">新一代知识增强大语言模型</a>\"，它是在 ERNIE 及 PLATO 系列模型的基础上研发的。</p><p></p><p>文心一言的关键技术包括有监督精调、人类反馈的强化学习、提示、知识增强、检索增强和对话增强。</p><p>前三项是这类大语言模型都会采用的技术，ERNIE 和 PLATO 中也已经有应用和积累，在文心一言中又有了进一步强化和打磨；后三项则是百度已有技术优势的再创新，也是文心一言未来越来越强大的基础。</p><p></p><p>在知识增强方面，文心一言的知识增强主要是通过知识内化和知识外用两种方式。知识内化，是从大规模知识和无标注数据中，基于语义单元学习，利用知识构造训练数据，将知识学习到模型参数中；知识外用，是引入外部多源异构知识，做知识推理、提示构建等等。</p><p></p><p>在检索增强方面，文心一言的检索增强，来自以语义理解与语义匹配为核心技术的新一代搜索架构。通过引入搜索结果，可以为大模型提供时效性强、准确率高的参考信息，更好地满足用户需求。</p><p></p><p>在对话增强方面，基于对话技术和应用积累，文心一言具备记忆机制、上下文理解和对话规划能力，实现更好的对话连贯性、合理性和逻辑性。</p>",
+    "publish_time": "2023-07-04 18:56:18",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "面对还不够成熟稳定的AIGC新技术，如何应对信息安全问题",
+    "url": "https://www.infoq.cn/article/62dYvHPNm7u4DoExH1gW",
+    "summary": "<p>AIGC&nbsp;将大幅提升攻击侧的效率，并降低攻击门槛；AIGC&nbsp;也将大幅提升防守侧的效率，并扩大防守空间和时间的覆盖率；AIGC&nbsp;自身也存在诸多的信息安全隐患；AIGC&nbsp;时代，防守侧跑不过攻击侧，发生严重安全事故是大概率事件；面对&nbsp;AIGC&nbsp;的安全问题，我们的解决方法有哪些？</p><p></p><p>在&nbsp;7&nbsp;月&nbsp;21-22&nbsp;日<a href=\"https://archsummit.infoq.cn/2023/shenzhen?utm_source=infoqweb&amp;utm_medium=teacherarticle&amp;utm_campaign=8&amp;utm_term=0531\">深圳&nbsp;ArchSummit&nbsp;架构师峰会</a>\"上，我们邀请到了朱雀安全&nbsp;CTO&nbsp;付山阳老师，他曾主导平安集团和平安银行零售产品信息安全建设，金融领域的黄埔军校主导腾讯云的整体安全建设项目。这次他将给大家分享&nbsp;AIGC&nbsp;安全话题：</p><p></p><p>AIGC&nbsp;对攻击侧，可以高效生成欺诈信息，并实现跨语言攻击；也可以用于换脸和视频诈骗，使攻击者更容易伪造身份并进行欺诈行为；可以轻松生成恶意代码，安全企业都未能检测出；AIGC&nbsp;可以轻松实现黑产数据分析，利用数据来实施攻击......&nbsp;类似的情况太多，举不胜举。</p><p></p><p>AIGC&nbsp;对防守侧，可用于智能渗透测试，利用大模型实现交互式智能渗透测试；可用于欺骗性防御，让攻击者走入迷宫，提高企业的监控和防御能力；AIGC&nbsp;大幅提升了企业的防御效率和安全水平等等。</p><p></p><p>从历史规律来看，大概率会发生严重的大模型安全事故，AIGC&nbsp;安全，传统的安全技术仍然有效，而且是安全防御的基础，在&nbsp;AIGC&nbsp;安全方面，还可以提供&nbsp;AIGC&nbsp;隐私数据保护，AIGC&nbsp;数据后门攻击安全等等其他解决方案来规避风险。</p><p></p><p>除上述议题外&nbsp;，ArchSummit&nbsp;深圳还将围绕<a href=\"https://archsummit.infoq.cn/2023/shenzhen/track/1537?utm_source=infoqweb&amp;utm_medium=teacherarticle&amp;utm_campaign=8&amp;utm_term=0531\">基础架构技术</a>\"、<a href=\"https://archsummit.infoq.cn/2023/shenzhen/track/1532?utm_source=infoqweb&amp;utm_medium=teacherarticle&amp;utm_campaign=8&amp;utm_term=0531\">DataOps、Data&nbsp;Fabric&nbsp;等高效数据开发与服务模式</a>\"、<a href=\"https://archsummit.infoq.cn/2023/shenzhen/track/1534?utm_source=infoqweb&amp;utm_medium=teacherarticle&amp;utm_campaign=8&amp;utm_term=0531\">Mesh&nbsp;技术实践案例</a>\"、<a href=\"https://archsummit.infoq.cn/2023/shenzhen/track/1535?utm_source=infoqweb&amp;utm_medium=teacherarticle&amp;utm_campaign=8&amp;utm_term=0531\">QUIC&nbsp;传输和架构优化</a>\"等进行分享。</p><p></p><p>数十位业界专家，上百个国内外一线大厂前沿技术案例，一定会给你带来很多全新的开发灵感。期待与你线下交流！咨询购票请联系&nbsp;18514549229（微信同手机号）</p><p><img src=\"https://static001.infoq.cn/resource/image/9d/aa/9d6a27547062ee2e089f91bdc4ba1eaa.png\" /></p><p></p>",
+    "publish_time": "2023-07-04 19:12:30",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "Toyota claims battery breakthrough in potential boost for electric cars",
+    "url": "https://www.theguardian.com/business/2023/jul/04/toyota-claims-battery-breakthrough-electric-cars",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36585327\">Comments</a>",
+    "publish_time": "2023-07-04 19:39:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Ancient Roman Secret to Concrete Resilience in Seawater",
+    "url": "https://als.lbl.gov/ancient-roman-secret-concrete-resilience-seawater/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36585331\">Comments</a>",
+    "publish_time": "2023-07-04 19:39:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Hypocrisy of Mandatory Diversity Statements",
+    "url": "https://www.theatlantic.com/ideas/archive/2023/07/hypocrisy-mandatory-diversity-statements/674611/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36585306\">Comments</a>",
+    "publish_time": "2023-07-04 19:36:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A curated list of uBlock origin filters",
+    "url": "https://letsblock.it/filters",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36585371\">Comments</a>",
+    "publish_time": "2023-07-04 19:43:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Apple forced to make major cuts to Vision Pro headset production plans",
+    "url": "https://arstechnica.com/gadgets/2023/07/apple-forced-to-make-major-cuts-to-vision-pro-headset-production-plans/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36585560\">Comments</a>",
+    "publish_time": "2023-07-04 20:04:36",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
