@@ -1522,5 +1522,45 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "红魔8SPro",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BA%A2%E9%AD%948SPro%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "7 月 4 日三大指数小幅上涨，汽车产业链多股涨停，如何看待今日行情？",
+    "url": "https://www.zhihu.com/question/610225871",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Show HN: Iridescent crystal with raymarching and signed distance fields",
+    "url": "https://varun.ca/ray-march-sdf/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36591767\">Comments</a>",
+    "publish_time": "2023-07-05 03:52:41",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Bottles – Easily run Windows software on Linux",
+    "url": "https://usebottles.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36592930\">Comments</a>",
+    "publish_time": "2023-07-05 05:47:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
