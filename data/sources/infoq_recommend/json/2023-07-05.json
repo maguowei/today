@@ -1,0 +1,24 @@
+[
+  {
+    "title": "OpenAI API 功能升级：ChatGPT 支持描述函数调用",
+    "url": "https://www.infoq.cn/article/P9BKLy4VOaKEpyJAALBM",
+    "summary": "<p>OpenAI对API进行了更新，其中包括一种名为<a href=\"https://openai.com/blog/function-calling-and-other-api-updates\">函数调用（function calling）</a>\"的功能，它允许开发人员向<a href=\"https://openai.com/research/gpt-4\">GPT-4</a>\"和<a href=\"https://platform.openai.com/docs/models\">GPT-3.5</a>\"描述函数，并让模型创建代码来执行这些函数。</p><p></p><p><a href=\"https://openai.com/blog/function-calling-and-other-api-updates\">根据OpenAI的说法</a>\"，函数调用有助于聊天机器人的开发，这些聊天机器人能够利用外部工具，将自然语言转换为数据库查询，并从文本中提取结构化数据。这些模型经过了微调，不仅可以识别应该调用函数的实例，还可以提供与函数签名一致的JSON响应。</p><p></p><p>由于函数调用发挥了至关重要的作用，人工智能模型可以智能地与外部工具和API连接。开发人员可以通过为这些模型指定函数来访问大量的功能和服务。通过使用外部工具来响应查询、搜索数据库或从非结构化文本中提取结构化数据，这种连接使人工智能模型能够完成超出其自然能力之外的任务。由于函数调用，人工智能模型变得更加通用和有效，能够应对现实世界中的复杂挑战。</p><p></p><p>随着<a href=\"https://platform.openai.com/docs/models\">gpt-4-0613</a>\"和<a href=\"https://community.openai.com/t/gpt-3-5-turbo-0613-function-calling-16k-context-window-and-lower-prices/263263\">gpt-3.5-turbo-0613</a>\"的发布，开发人员现在可以向这些模型描述函数。因此，模型可以智能地生成<a href=\"https://en.wikipedia.org/wiki/JSON\">JSON</a>\"对象，这些对象包含调用这些函数所需的参数。这一激动人心的开发提供了一种更可靠的方式，将GPT的功能与外部工具和API连接起来，为无缝集成开辟了新的可能性。</p><p></p><p>这些模型已经开发出了一种能力，可以根据用户输入通过仔细的微调来识别应该激活哪个函数。此外，他们还学会了提供与特定函数签名相匹配的JSON答案。开发人员现在可以通过使用函数调用更可靠、更一致地从模型中获取结构化数据。</p><p></p><p>除了函数调用，OpenAI<a href=\"https://openai.com/blog/function-calling-and-other-api-updates\">还推出</a>\"了<a href=\"https://platform.openai.com/docs/models\">GPT-3.5-turbo</a>\"的增强版本，该版本提供了一个显著扩展的上下文窗口。该上下文窗口以标记或原始文本为单位测量，表示模型在生成进一步文本之前考虑的文本量。这一扩展允许模型访问和整合更大的信息体，使其能够做出更明智和与上下文相关的响应。</p><p></p><p>人工智能开发中的函数调用允许模型使用开发人员设计的工具，使它们能够扩展自己的能力并集成定制的功能。这种协作方法弥合了人工智能模型和开发人员设计的工具之间的差距，促进了人工智能系统的多功能性、适应性和创新性。</p><p></p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2023/06/openai-api-function-chatgpt/\">https://www.infoq.com/news/2023/06/openai-api-function-chatgpt/</a>\"</p><p></p><p>相关阅读：</p><p><a href=\"https://www.infoq.cn/article/UNmAT4eReyYCOISHbrTc\">AI 进入普及应用阶段，用友已启动企业应用大模型训练</a>\"</p><p><a href=\"https://www.infoq.cn/article/85UCQYO6sJUC23W1JWBu\">用 AIGC 重构后的智能客服，能否淘到大模型时代的第一桶金？</a>\"</p><p><a href=\"https://www.infoq.cn/news/AsiUxMs8ARkZEkuEZYgL\">OpenAI 又赢麻了！谷歌 DeepMind 创始人刚称 Gemini 能碾压 GPT-4，OpenAI 的挖人大计就出炉了</a>\"</p>",
+    "publish_time": "2023-07-05 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "解锁 Serverless 新进展：与 AIGC 结合会有哪些搞头？ ｜InfoQ《极客有约》",
+    "url": "https://www.infoq.cn/article/ihlWu9yppWciFjm7b0NH",
+    "summary": "<p>Serverless有哪些最新进展？AIGC 给研发领域带来了哪些影响？Serverless+AIGC会有什么价值？本期《极客有约》，阿里云智能 Serverless研发负责人杨皓然(不嗔)、高德服务端负责人孙蔚和阿里云智能高级技术专家聂大鹏（拓山），与大家一起聊聊Serverless与AIGC如何碰撞出新的火花。</p>",
+    "publish_time": "2023-07-05 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
