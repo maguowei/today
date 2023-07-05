@@ -1596,5 +1596,138 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "你可以永远相信国货实力",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%8F%AF%E4%BB%A5%E6%B0%B8%E8%BF%9C%E7%9B%B8%E4%BF%A1%E5%9B%BD%E8%B4%A7%E5%AE%9E%E5%8A%9B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "内娱建模脸明星",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%BB%BA%E6%A8%A1%E8%84%B8%E6%98%8E%E6%98%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "宝宝高烧邻居们迅速赶来暖心相助",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%AE%9D%E9%AB%98%E7%83%A7%E9%82%BB%E5%B1%85%E4%BB%AC%E8%BF%85%E9%80%9F%E8%B5%B6%E6%9D%A5%E6%9A%96%E5%BF%83%E7%9B%B8%E5%8A%A9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "你最近明白了什么道理呀？",
+    "url": "https://www.zhihu.com/question/604311404",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "探春不是和王夫人关系很好吗，为什么在 87 版《红楼梦》中远嫁时对赵姨娘喊的那声「娘」那么真情、揪心？",
+    "url": "https://www.zhihu.com/question/353053148",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Video: Iranian Navy Warship Fires on Oil Tanker in the Strait of Hormuz",
+    "url": "https://news.usni.org/2023/07/05/video-iranian-warship-fires-on-oil-tanker-in-the-strait-of-hormuz",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36606078\">Comments</a>",
+    "publish_time": "2023-07-06 03:47:42",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Tabby: A terminal for a more modern age",
+    "url": "https://github.com/Eugeny/tabby",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36607323\">Comments</a>",
+    "publish_time": "2023-07-06 05:20:57",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Rejected GitHub profile achievements",
+    "url": "https://github.com/Flet/rejected-github-profile-achievements",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36607439\">Comments</a>",
+    "publish_time": "2023-07-06 05:30:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The U.S. Copyright Office requires libraries to lie about fair use rights?",
+    "url": "https://scholarlykitchen.sspnet.org/2023/07/05/why-does-the-u-s-copyright-office-require-libraries-to-lie-to-users-about-their-fair-use-rights-they-wont-say/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36606323\">Comments</a>",
+    "publish_time": "2023-07-06 04:08:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Starting design work in a spreadsheet",
+    "url": "https://clearleft.com/thinking/starting-design-work-in-a-spreadsheet",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36607064\">Comments</a>",
+    "publish_time": "2023-07-06 05:02:39",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "With plugins, GPT-4 posts GitHub issue without being instructed to",
+    "url": "https://chat.openai.com/share/ed8044da-22c5-4c5e-ba82-4353f67d553f",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36605806\">Comments</a>",
+    "publish_time": "2023-07-06 03:27:26",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Tell HN: People forget that you can stick any data at the end of a bash script",
+    "url": "https://news.ycombinator.com/item?id=36605869",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36605869\">Comments</a>",
+    "publish_time": "2023-07-06 03:32:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Hacker News user blogroll",
+    "url": "https://dm.hn",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36605493\">Comments</a>",
+    "publish_time": "2023-07-06 03:06:43",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
