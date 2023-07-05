@@ -64,5 +64,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "逐字返回的内容如何做关键词屏蔽",
+    "url": "https://www.v2ex.com/t/954296",
+    "summary": "brader: 用过 chatgpt 产品的都知道，返回内容都是那种打字机效果，逐字返回显示的。<br />那么问题来了，这种如何做关键词屏蔽呢？<br />好像服务端做比较困难，因为关键词有多个字的，如果服务端等整句话检测完再返回内容给前端的话，体验就太糟糕了。<br />我目前能想到的兼顾原有用户体验的方式是放在客户端来检测屏蔽关键字，客户端每次接收到服务端的返回的字，就拼接之前接收到的内容，检测关键字，检测到了，就把展示的内容屏蔽替换。这样就还是有打字机的实时效果。<br /><br />不知道各位有没有更好的实现想法，欢迎讨论",
+    "publish_time": "2023-07-05 14:59:06",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
