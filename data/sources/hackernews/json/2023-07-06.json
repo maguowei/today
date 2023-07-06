@@ -669,5 +669,38 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Back end of Meta Threads is built with Python 3.10 with some interesting tweaks",
+    "url": "https://twitter.com/llanga/status/1676846870520291329",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36612835\">Comments</a>",
+    "publish_time": "2023-07-06 16:17:00",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "/Uses: A list of /uses pages detailing developer setups, gear, software, configs",
+    "url": "https://uses.tech",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36613543\">Comments</a>",
+    "publish_time": "2023-07-06 17:47:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Web servers should refuse requests for random, unnecessary URLs",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/web/WebServersShouldServeMinimally",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36613106\">Comments</a>",
+    "publish_time": "2023-07-06 16:52:49",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
