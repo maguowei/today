@@ -1398,5 +1398,178 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "李洙赫新闻图",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B4%99%E8%B5%AB%E6%96%B0%E9%97%BB%E5%9B%BE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "陈妍希柳岩走在吃瓜第一线",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%E6%9F%B3%E5%B2%A9%E8%B5%B0%E5%9C%A8%E5%90%83%E7%93%9C%E7%AC%AC%E4%B8%80%E7%BA%BF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "原神3.8版本",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E3.8%E7%89%88%E6%9C%AC%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如果考上一个二本大学后从大一就想考研，需要做什么准备？",
+    "url": "https://www.zhihu.com/question/464126373",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "空调有什么国货品牌可以推荐？",
+    "url": "https://www.zhihu.com/question/585887403",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "哪些诗词让你停止精神内耗？",
+    "url": "https://www.zhihu.com/question/605124474",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "产妇刚生完孩子穿什么拖鞋比较好？",
+    "url": "https://www.zhihu.com/question/577028795",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Threads profiles can't be deleted without removing your entire Instagram account",
+    "url": "https://www.theverge.com/2023/7/6/23786029/instagram-threads-profiles-deleted-removing",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36621526\">Comments</a>",
+    "publish_time": "2023-07-07 03:32:24",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Tea as Hepatoprotective Agent: A Revisit",
+    "url": "https://sci-hub.se/10.1016/b978-0-12-814466-4.00015-x",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36620454\">Comments</a>",
+    "publish_time": "2023-07-07 02:19:05",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "I'm a paid user of Threads[.com] – No trademark?",
+    "url": "https://threads.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36621171\">Comments</a>",
+    "publish_time": "2023-07-07 03:06:55",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Ngnr.club – A link-in-bio service for engineers",
+    "url": "https://ngnr.club",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36620954\">Comments</a>",
+    "publish_time": "2023-07-07 02:53:43",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Twitter is threatening to sue Meta over Threads [pdf]",
+    "url": "https://cdn.sanity.io/files/ifn0l6bs/production/27109f01431939c8177d408d3c9848c3b46632cd.pdf",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36621741\">Comments</a>",
+    "publish_time": "2023-07-07 03:46:05",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Zink brings conformant OpenGL on Imagination GPUs",
+    "url": "https://www.collabora.com/news-and-blog/news-and-events/zink-on-imagination-gpus.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36621263\">Comments</a>",
+    "publish_time": "2023-07-07 03:12:21",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "I want XAES-256-GCM/11",
+    "url": "https://words.filippo.io/dispatches/xaes-256-gcm-11/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36620969\">Comments</a>",
+    "publish_time": "2023-07-07 02:54:29",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Imagination GPUs now support OpenGL 4.6",
+    "url": "https://blog.imaginationtech.com/imagination-gpus-now-support-opengl-4.6",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36621057\">Comments</a>",
+    "publish_time": "2023-07-07 02:59:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Chat with Andreas Kling about Ladybird and developing a browser engine",
+    "url": "https://www.igalia.com/chats/ladybird",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36620450\">Comments</a>",
+    "publish_time": "2023-07-07 02:18:49",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "GPT-4 API General Availability",
+    "url": "https://openai.com/blog/gpt-4-api-general-availability",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36621120\">Comments</a>",
+    "publish_time": "2023-07-07 03:03:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
