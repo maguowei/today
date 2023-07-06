@@ -1311,5 +1311,92 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "大道不孤众行致远",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%81%93%E4%B8%8D%E5%AD%A4%E4%BC%97%E8%A1%8C%E8%87%B4%E8%BF%9C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "姜云升解约",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A7%9C%E4%BA%91%E5%8D%87%E8%A7%A3%E7%BA%A6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何帮助和安慰抑郁症患者",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E5%92%8C%E5%AE%89%E6%85%B0%E6%8A%91%E9%83%81%E7%97%87%E6%82%A3%E8%80%85%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何变成一个思维敏锐的人？",
+    "url": "https://www.zhihu.com/question/601833401",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "2 年被家暴 16 次女子希望判丈夫死刑，代理律师称男方涉嫌故意杀人，如何看待此诉求？判决结果将如何？",
+    "url": "https://www.zhihu.com/question/610619293",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "无锁的线程池和内存池还有无锁的队列的设计思路是什么呢?",
+    "url": "https://www.zhihu.com/question/374142552",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "The Distribution of Users’ Computer Skills: Worse Than You Think (2016)",
+    "url": "https://www.nngroup.com/articles/computer-skill-levels/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36620608\">Comments</a>",
+    "publish_time": "2023-07-07 02:29:29",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Chat with Andreas Kling about Ladybird & developing a new, novel browser engine",
+    "url": "https://www.igalia.com/chats/ladybird",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36620450\">Comments</a>",
+    "publish_time": "2023-07-07 02:18:49",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Physicists generate the first snapshots of fermion pairs",
+    "url": "https://news.mit.edu/2023/mit-physicists-generate-first-snapshots-fermion-pairs-0706",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36620413\">Comments</a>",
+    "publish_time": "2023-07-07 02:15:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
