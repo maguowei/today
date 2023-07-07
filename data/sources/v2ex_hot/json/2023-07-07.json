@@ -1,0 +1,35 @@
+[
+  {
+    "title": "结了婚的、有小孩的都来说说你们是怎么找到另一半的，相亲吗？",
+    "url": "https://www.v2ex.com/t/954745",
+    "summary": "happyTiger: 大学时代还能认识几个异性朋友，当时没有珍惜，等到毕业以后来到 IT 公司才知道根本没有认识异性的机会，现如今老大不小了，结了婚的兄弟们都是通过什么途径在工作以后结识异性，然后发展成恋人，最后结婚的？<br />难道只有相亲这一条路了吗？",
+    "publish_time": "2023-07-07 09:20:52",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "V2EX - 超级增强 小更新，可以发送表情、上传图片了，收藏帖子时提示添加为浏览器书签",
+    "url": "https://www.v2ex.com/t/954772",
+    "summary": "ttentau1: <p>1 、现可以直接发送表情和选 emoji 了，选取了几个比较语义化的表情，如果大家认为某个表情不适合出现在 V 站，请联系我删除\n<img alt=\"img\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/GWEyLXS.png\" /></p>\n<p>2 、快捷上传图片，这就不用介绍了吧<img alt=\"img\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/nQIIqnv.pngh\" /></p>\n<p>3 、V 站一旦被封号，就无法登录了<img alt=\"怒\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/cbIUvcG.png\" />。账号收藏的帖子也就没法查看了<img alt=\"怒\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/uGk6mIa.png\" />，所以做了个“收藏帖子时提示添加为浏览器书签”的功能<img alt=\"img\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/nQIIqnv.pngh\" /></p>\n<p>4 、在脚本设置里面可以自定义背景色了</p>",
+    "publish_time": "2023-07-07 10:19:19",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "[送码]经过几个月的迭代，软件成熟，最后一次发创造区。",
+    "url": "https://www.v2ex.com/t/954786",
+    "summary": "huiyanpohundh123: <h1>0. 前情提要</h1>\n<p><a href=\"https://www.v2ex.com/t/925888#reply18\" rel=\"nofollow\">https://www.v2ex.com/t/925888#reply18</a></p>\n<p><a href=\"https://www.v2ex.com/t/937450#reply96\" rel=\"nofollow\">https://www.v2ex.com/t/937450#reply96</a></p>\n<p>坦诚的说，在 V2EX 的首发给软件带来不错的流量，当天就有 10 几个人购买，对我确实是一个很大的激励，现在付费用户已经有 300 多个了，最近也发布了 2.5 版本，这个版本标志着软件走向成熟了，也是时候回馈一下 V2EX 社区的用户了。</p>\n<h1>1. 介绍一下软件</h1>\n<p>DLPlay 是一款在 Apple TV 上实现 DLNA 投屏的软件，经过若干次的迭代，软件基本能适配大部分国内使用率高的视频软件。软件一开始开发出来的目的原本只是为了用咪咕视频投屏看球赛，随着用户越来越多，客户的需求也越来越多。主要分为三类：</p>\n<ol>\n<li>投送哔哩哔哩/腾讯视频/优酷等视频类。</li>\n<li>投送斗鱼/虎牙/抖音等直播类</li>\n<li>投送 Nas/Jellyfin/迅雷本地视频类</li>\n</ol>\n<p>DLPlay 对这三种场景都做了适配，可以选用三种不同的播放器(native/mpv/vlc)应对这三种场景</p>\n<h2>1.1 DLPlay 相对于 AirPlay 有什么优势</h2>\n<ol>\n<li>可以从<em><strong>任何平台</strong></em>的 DLNA 客户端投送视频，iOS 可以投，Android 可以投，Windows 也可以投。</li>\n<li><em><strong>支持视频格式多</strong></em>，相比于 AirPlay ，DLPlay 集成了三个播放器，几乎可以播放任何格式的视频</li>\n<li><em><strong>针对投屏个各个场景优化</strong></em>，比如针对 NAS 场景优化的 VLC 播放器，拥有切换音轨，字幕轨道，倍速播放等高级功能，针对直播场景我们集成了对直播兼容性更好的 MPV 播放器</li>\n<li>AirPlay 投屏时，投屏客户端必须保持在投屏界面，一旦切换到其他媒体，投屏也被切换，但使用 DLPlay 不会，投屏时，你可以<em><strong>随意切换到其他软件</strong></em></li>\n</ol>\n<h2>1.2 其他信息</h2>\n<ol>\n<li>官网[使用场景/案例]: <a href=\"https://dlplay.tinuv.me/zh/\" rel=\"nofollow\">https://dlplay.tinuv.me/zh/</a></li>\n<li>tg 群[社区支持/讨论/tf]: <a href=\"https://t.me/dlplay_offcial\" rel=\"nofollow\">https://t.me/dlplay_offcial</a></li>\n<li>app 链接: <a href=\"https://apps.apple.com/app/dlplay/id6448221325\" rel=\"nofollow\">https://apps.apple.com/app/dlplay/id6448221325</a></li>\n</ol>\n<h1>2. 抽奖信息</h1>\n<ol>\n<li>抽奖方式: 评论区留下 email/base64 编码的 email ，我写了个小脚本可以自动抓取，抽奖后自动发邮箱</li>\n<li>截止日期: 2023/7/12 00:00:00</li>\n<li>奖品数量: 40 个兑换码，如果抽奖人数不足 40 个，则每人一个，见者有份</li>\n<li>当然，如果不想直接等待，也欢迎在 app store 直接购买</li>\n</ol>",
+    "publish_time": "2023-07-07 10:41:32",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  }
+]
