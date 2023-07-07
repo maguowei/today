@@ -31,5 +31,82 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "深化数据库产业协作，着力推进我国数据库产业高质量发展｜2023 可信数据库发展大会",
+    "url": "https://www.infoq.cn/article/vC4h2rWRyOylw0I4soj1",
+    "summary": "<p>2023 年 7 月 4 日- 5 日，由中国通信标准化协会大数据技术标准推进委员会（ CCSA TC601 ）主办的“ <a href=\"https://www.infoq.cn/article/tQtvumNcUUEZuf4Tglex\">2023 可信数据库发展大会</a>\"” 在北京国际会议中心召开。中国移动信息技术中心政企业务支撑中心副总经理梁恩磊受邀参加了“共话数据库产业自立自强高水平发展”圆桌论坛，论道我国数据库自立自强之路，探索新形势下我国数据库产业的可持续、高质量发展。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/f0/f0b7a5d2f4cdb415e34ccd0d322841a5.jpeg\" /></p><p></p><p>论坛围绕四个议题展开：</p><p></p><p></p><h2>一、把握数据库发展趋势，迎接海量数据处理与存储场景下新挑战</h2><p></p><p></p><p>梁恩磊表示，随着 5G 、物联网等业务的快速发展，数据库技术也面临新的要求和挑战。下一阶段，数据库最亟待解决的问题是如何进一步提升在海量高并发场景下的数据处理能力以及存储能力。</p><p></p><p>高性能数据处理：5G 和物联网技术的快速发展，给数据库在超高并发场景下的数据处理带来了巨大的挑战。下一阶段，数据库仍需要不断降低响应时延、提高并发处理能力，进一步降低 5G 、物联网等技术带来的数据处理压力，以满足在线计费、实时信控等各类实时业务场景的需求。</p><p></p><p>海量数据存储：5G 及物联网将以前所未有的速度生成海量数据。以物联网计费话单为例，每天产生数百亿条话单且仍在高速增长，对数据库的存储能力提出了更高的要求。因此需要数据库拥有快速扩展的能力，以便有效地存储和处理海量数据。</p><p></p><p>在应对方案上，梁恩磊表示，目前分布式是个大趋势，也是解决海量数据处理与存储的金钥匙。从传统的 Shared-Everything 架构，再到当前的 Shared-Nothing 、Shared-Disk 等分布式架构，都是为了更高效、更低成本地解决海量数据处理问题。未来，随着<a href=\"https://xie.infoq.cn/article/d866b6d5a158c9a7f44ad2263\">分布式数据库</a>\"的不断成熟，数据库在各类实时业务场景下对海量数据处理与存储的能力必将跨上一个新台阶。</p><p></p><p></p><h2>二、关注核心技术动向，实现数据库领域新发展</h2><p></p><p></p><p>梁恩磊表示，未来应重点关注数据安全、数据库智能化、分布式与云原生等技术方向。</p><p></p><p>首先是数据安全方向。随着国内大众的数据安全意识提升，以及《数据二十条》等政策标准的陆续出台，可以窥见安全审计、数据加密、身份验证等正在成为数据库领域新的关注热点。未来行业将逐步补齐传统数据库在安全领域的短板。</p><p></p><p>其次是数据库智能化方向。伴随着 ChatGPT 等技术的发展，<a href=\"https://xie.infoq.cn/article/1746e9a1bec2bfa64fd07293f\">向量数据库</a>\"以及数据库与这类 AIGC 技术的结合逐渐火热。前者解决此类技术在训练过程中的数据库存储问题，后者通过与 AIGC 技术的结合可以极大地降低数据库的使用门槛。</p><p></p><p>最后是分布式与云原生方向。万物互联时代，数据库也将从传统的存储“人”的数据转变为存储“物”的数据，给数据库层造成的压力将提升成百上千倍。未来，通过存储和计算分离等分布式技术以及与云原生技术的结合，将实现计算资源、存储的弹性伸缩，极大地降低业务架构的复杂度，为高效低成本地解决海量数据的处理与存储带来更多可能。</p><p></p><p></p><h2>三、围绕“三高一低”的主旋律，助力产业高速发展</h2><p></p><p></p><p>梁恩磊表示，在未来十年里，数据库领域毫无疑问地将发生各种变革和创新，但不变的是数据库的发展始终会围绕着“三高一低”（高性能、高稳定、高安全、低成本）的主旋律。</p><p></p><p>在性能方面，以电信行业为例：在集中式数据库时代，业务场景主要是通话与短信，相对单一且数据量较小，采用传统的集中式数据库即可满足大部分业务对数据库性能和成本的要求。随着通信行业快速发展，对数据库的性能有了更高的要求，逐步过渡到分库、分表时代。同时各类垂直、水平拆分技术也在快速发展，在运营商中最常见的是按省份、地市进行垂直拆分，但分片间数据的不均衡、业务分片架构的高复杂度等因素给这类方案带来了巨大的压力。随着移动互联网、物联网、5G 技术的发展，数据库也通过与分布式、云原生等技术的深度的结合有了更进一步的发展。</p><p></p><p>同理，业务对高性能、高稳定、高安全、低成本的诉求与数据库的发展也是相辅相成、互相促进的。围绕着“三高一低”的主旋律，数据库始终会将不断革新，持续满足业务发展需求。</p><p></p><p></p><h2>四、深化数据库产学研结合，推动我国数据库行业高水平发展</h2><p></p><p></p><p>梁恩磊表示，如果把数据库的自立自强比喻为一场攻坚战，那么学术侧主要提供武器的研究，产业侧负责武器的供应，应用侧则提供一线的实战。只有通过产学研的通力配合，才能实现优势互补，共同为数据库技术的发展奠定坚实的技术基础，实现从“攻出来”到“用起来”的紧密衔接。</p><p></p><p>为了进一步推动数据库产业的高质量快速发展，中国移动信息技术中心充分发挥多应用场景优势，联合深圳大学和香港科技大学（广州分校）成立广东省重点实验室，并作为组长单位参与信通院组织的数据库创新实验室，针对数据库产业、技术、生态发展等问题及对策展开研究，助力数据技术的联合攻关。</p><p></p><p>梁恩磊表示，科技自立自强是国家强盛之基、安全之要。未来，中国移动将进一步加深与政府、高校和研究机构的合作，共同推进数据库技术研究成果的产业化进程，推动国内数据库技术迅速走向世界前列。</p>",
+    "publish_time": "2023-07-07 09:35:36",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "工业“智”造转型，如何兼顾技术效益与经济效益",
+    "url": "https://www.infoq.cn/article/axF9GTTK8NAZpglDfCsb",
+    "summary": "<p><img alt=\"unpreview\" src=\"https://static001.infoq.cn/resource/image/23/0b/237138648b7e88e782bbf1f4d2c2aa0b.jpg\" /></p>",
+    "publish_time": "2023-07-07 13:46:57",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "2023 Microsoft Build 中国（上）",
+    "url": "https://www.infoq.cn/article/L36SYlUMts0CvE7shHaJ",
+    "summary": "<p>2023 年 6 月 15 日，Microsoft Build 中国圆满落幕。微软携手合作伙伴、技术社区的专家，共同展望下一代 AI 技术趋势，解读 Microsoft Build 全球大会新发布。</p>\n<p>特别值得一提的是，为了帮助开发者将晦涩难懂的技术内容转换为更易理解、吸收的内容，InfoQ 还特别联合微软策划了「第二直播间」。InfoQ 极客传媒主编赵钰莹与微软公司副总裁、微软大中华区首席运营官康容和微软生态伙伴事业部首席技术官徐明强博士，共同对大会的主题演讲进行了深度剖析。</p>",
+    "publish_time": "2023-07-07 14:29:01",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "2023 Microsoft Build 中国（下）",
+    "url": "https://www.infoq.cn/article/sBB9TU4Wor6ulMo4Um4s",
+    "summary": "<p>2023 年 6 月 15 日，Microsoft Build 中国圆满落幕。微软携手合作伙伴、技术社区的专家，共同展望下一代 AI 技术趋势，解读 Microsoft Build 全球大会新发布。</p>\n<p>特别值得一提的是，为了帮助开发者将晦涩难懂的技术内容转换为更易理解、吸收的内容，InfoQ 还特别联合微软策划了「第二直播间」。InfoQ 极客传媒主编赵钰莹与微软公司副总裁、微软大中华区首席运营官康容和微软生态伙伴事业部首席技术官徐明强博士，共同对大会的主题演讲进行了深度剖析。</p>",
+    "publish_time": "2023-07-07 14:38:32",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "LinkedIn图数据库LIquid：为9.3亿会员提供实时数据访问",
+    "url": "https://www.infoq.cn/article/HcNBNAE4M3dI41AhZbSC",
+    "summary": "<p>最近，LinkedIn分享了其<a href=\"https://engineering.linkedin.com/blog/2023/how-liquid-connects-everything-so-our-members-can-do-anything?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE2ODg3MTE4MjEsImZpbGVHVUlEIjoiYlFUbTQ1a29OVUVKWmVTRiIsImlhdCI6MTY4ODcxMTUyMSwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjo2MjMyOH0.h7-trVxuvE4x1rDLfW_cGCq6_6n0t80VdNN8FyMCJu4\">图数据库LIquid是如何自动索引和实时访问会员、学校、技能、公司、职位、工作、事件等之间的关系数据的</a>\"。这个知识图谱被称为LinkedIn的“Economic Graph”，有2700亿条边，并且还在不断增长，目前每秒处理200万次查询。</p><p></p><p>LinkedIn将其“你可能认识的人（People You May Know，PYMK）”推荐系统从传统的GAIA系统迁移到了LIquid。这一变化显著改善了每秒查询数（QPS）、延迟和CPU利用率。QPS从120增加到18000，延迟从超过15秒下降到平均50毫秒以下，CPU利用率下降了3倍以上。LIquid还引入了新的数据库索引技术，支持实时数据查询，实现了即时推荐。</p><p></p><p></p><p></p><p><img src=\"https://static001.geekbang.org/infoq/4f/4f0905ca0891ef0a5ff4aadc93c79004.webp\" /></p><p></p><p>图片来源：<a href=\"https://engineering.linkedin.com/blog/2023/how-liquid-connects-everything-so-our-members-can-do-anything?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE2ODg3MTE4MjEsImZpbGVHVUlEIjoiYlFUbTQ1a29OVUVKWmVTRiIsImlhdCI6MTY4ODcxMTUyMSwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjo2MjMyOH0.h7-trVxuvE4x1rDLfW_cGCq6_6n0t80VdNN8FyMCJu4\">https://engineering.linkedin.com/blog/2023/how-liquid-connects-everything-so-our-members-can-do-anything</a>\"</p><p></p><p>上图是系统的架构图，使用了LIquid，可以以较小的延迟和可接受的硬件成本来执行图查询。通过LIquid对<a href=\"https://economicgraph.linkedin.com/?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE2ODg3MTE4MjEsImZpbGVHVUlEIjoiYlFUbTQ1a29OVUVKWmVTRiIsImlhdCI6MTY4ODcxMTUyMSwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjo2MjMyOH0.h7-trVxuvE4x1rDLfW_cGCq6_6n0t80VdNN8FyMCJu4\">Economic Graph</a>\"的查询生成数百个候选对象，并应用第二个排名函数。这个排名函数使用<a href=\"https://github.com/linkedin/venice?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE2ODg3MTE4MjEsImZpbGVHVUlEIjoiYlFUbTQ1a29OVUVKWmVTRiIsImlhdCI6MTY4ODcxMTUyMSwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjo2MjMyOH0.h7-trVxuvE4x1rDLfW_cGCq6_6n0t80VdNN8FyMCJu4\">Venice</a>\"的机器学习功能和<a href=\"https://github.com/apache/pinot?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE2ODg3MTE4MjEsImZpbGVHVUlEIjoiYlFUbTQ1a29OVUVKWmVTRiIsImlhdCI6MTY4ODcxMTUyMSwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjo2MjMyOH0.h7-trVxuvE4x1rDLfW_cGCq6_6n0t80VdNN8FyMCJu4\">Apache Pinot</a>\"的分析见解来评分并选择最佳候选对象。过滤步骤为呈现和最终评分准备好了这个排名列表。</p><p></p><p>LIquid的设计使其能够伸缩到当前十倍的规模，可以支持LinkedIn 9.3亿多会员的有机增长和新的语义领域。它提供99.99%的可用性，并可以自动根据图的大小和活动量的增加进行自动伸缩。</p><p></p><p>图数据库使用基于<a href=\"https://engineering.linkedin.com/blog/2020/liquid--the-soul-of-a-new-graph-database--part-2?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE2ODg3MTE4MjEsImZpbGVHVUlEIjoiYlFUbTQ1a29OVUVKWmVTRiIsImlhdCI6MTY4ODcxMTUyMSwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjo2MjMyOH0.h7-trVxuvE4x1rDLfW_cGCq6_6n0t80VdNN8FyMCJu4\">Datalog</a>\"的可组合声明式查询语言，帮助开发人员高效地访问和使用数据。可组合语言能够让开发人员在现有的特性（叫作模块）上进行构建，声明式语言能够让开发人员专注于表达他们想要开发的东西，而LIquid自动化了高效的访问过程。开发人员因此可以快速变更数据集，大大减少了调整和更新数据库所需的时间。</p><p></p><p>LinkedIn工程总监<a href=\"https://www.linkedin.com/in/bogdanarsintescu/?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE2ODg3MTE4MjEsImZpbGVHVUlEIjoiYlFUbTQ1a29OVUVKWmVTRiIsImlhdCI6MTY4ODcxMTUyMSwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjo2MjMyOH0.h7-trVxuvE4x1rDLfW_cGCq6_6n0t80VdNN8FyMCJu4\">Bogdan Artintescu</a>\"描述了LIquid的发展路线图：</p><p></p><p></p><blockquote>要让会员能够做更多的事情，我们需要在回答会员的问题方面提供更加完善的能力。我们可以沿着两个方向做出改进。首先，复杂的查询和添加到Economic Graph的数据源的多样性将会驱动新特性的开发和呈现。其次，丰富数据将提高推理能力。这可以通过创建派生数据（通过确定性算法或概率机器学习方法）或通过知识图谱（KG）模式中更丰富的语义改进推理来实现。我们计划专注于高性能图形计算和分析，并建立一个KG生态系统，让我们的开发人员能够进一步增强会员体验。</blockquote><p></p><p></p><p>LIquid的成功激励了LinkedIn的其他团队和微软的姐妹团队将它作为图数据索引。</p><p></p><p></p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2023/06/linkedin-liquid-graph-database/?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE2ODg3MTE4MjEsImZpbGVHVUlEIjoiYlFUbTQ1a29OVUVKWmVTRiIsImlhdCI6MTY4ODcxMTUyMSwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjo2MjMyOH0.h7-trVxuvE4x1rDLfW_cGCq6_6n0t80VdNN8FyMCJu4\">https://www.infoq.com/news/2023/06/linkedin-liquid-graph-database/</a>\"</p>",
+    "publish_time": "2023-07-07 14:57:36",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "蚂蚁隐私计算“隐语技术栈“开源升级，推出隐语框架 1.0 并开源 HyperEnclave",
+    "url": "https://www.infoq.cn/article/5KJiUZKVdGQDHOczrupV",
+    "summary": "<p>7 月 7 日，<a href=\"https://www.infoq.cn/article/PogNN4aPEROGoKWJ1ZfN\">2023 世界人工智能大会</a>\"“数据要素与隐私计算高峰论坛”开幕。蚂蚁集团发布两项隐私计算开源产品：“<a href=\"https://www.infoq.cn/article/q5jpzKT7FQPXGihouEQR\">隐语</a>\"开源框架 1.0 ”和首个国产金融安全级 TEE 方案“ HyperEnclave ”。据了解，这两项技术产品是蚂蚁“可信隐私计算隐语技术栈”里的重要产品，该技术栈历时 6 年研发，可实现隐私计算工业级应用，也曾在 2022 年获得世界人工智能大会“八大镇馆之宝”。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/7c/7c548a0c97f2d5d0409a3edd6082a76a.png\" /></p><p>蚂蚁隐私计算隐语技术栈中的隐语开源框架正式发布 1.0 版</p><p></p><p>据介绍，“隐语开源框架”是“隐语技术栈”中的计算引擎层，HyperEnclave 是其可信基座。该技术栈完全自研，积累了千余项专利，集合了隐语开源框架、Occlum TEE 开源操作系统，HyperEnclave 等领先的隐私计算技术产品，孵化了可信密态计算（TECC）等新型隐私计算技术。此次开源两个新产品功能，有望为隐私计算在易用、通用性上带来跨越式提升，从而帮助行业用 <a href=\"https://www.infoq.cn/article/g2dxkXzWCtLEpuizIxqR\">AI 智能</a>\"中更安全更可信，充分释放数据价值。</p><p></p><p>蚂蚁集团认为，人工智能的深度应用，不仅对数据、算法、算力提出了更高要求，也对安全、隐私、伦理提出更多挑战。在确保数据安全和隐私保护、健全人工智能伦理与安全的前提下，才能让 AI 技术真正地释放应用价值。隐私计算作为其重要技术支撑，正在迎来技术突破和产业发展的新动力，但易用通用性一直是行业掣肘。</p><p></p><p>记者了解到，此次隐语 1.0 无论从开源范围、性能，还是易用性上都取得了跨越式提升。隐语框架去年 7 月首次开源，历时 1 年正式升级到 1.0 版。新版本有三大优势：首先，开源 Kuscia 隐私计算任务编排框架，可以解决业务在使用隐语时端口合并、API 接入等集成问题，支持通过互联互通或者内置部署第三方系统等不同模式与第三方系统互通。&nbsp;其次，新增支持 SS-LR 开放算法协议，致力于打造黑白盒全栈互联互通能力。同时，隐语 1.0 推出了“开箱即用”轻量化部署体验包，再次降低了隐私计算应用门槛。</p><p></p><p>在本次论坛上，蚂蚁也正式开源了基于 TEE 技术的金融安全级方案“ HyperEnclave ”。TEE 是隐私计算的技术路线之一，被认为是数字化时代数据安全上云和隐私保护计算的最有效技术手段。据了解，HyperEnclave 的优势是安全、兼容。它支持国内外主流 CPU 硬件平台，提供统一 TEE 抽象，核心代码经过形式化验证。同时，HyperEnclave 将硬件技术最重要的信任根托管在可信权威机构，满足国产自研要求，已具备规模化商业场景的落地经验。此次开源也有望为行业带来更透明、更可信、更统一、更通用的国产 TEE 技术方案。</p><p></p><p>记者注意到，一些技术“软基建”也在论坛上带来了重要进展。IEEE（电气与电子工程师协会）正式发布了行业首个“可信执行环境安全”国际标准 IEEE2952-2023 。该标准由蚂蚁集团牵头，制定了基于 TEE 技术的安全计算系统的技术框架，为业界提供了有效指导。中国信通院、中国移动、中国联通、中国电信、蚂蚁集团和洞见科技联合发布了《隐私计算 跨平台互联互通开放协议 第 2 部分：SS-LR 》。该协议将搭建更加开放、透明、安全的隐私计算互联互通平台，保护数据安全。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/41/41cac447b0fc194e7b72408f05d994e6.png\" /></p><p>IEEE 正式发布行业首个“可信执行环境安全”国际标准</p><p></p><p>蚂蚁集团副总裁兼首席技术安全官韦韬表示，“历史的机遇、技术的变革，将数据智能推向了前所未有的高潮，也带来了更加严峻的数据安全挑战，数据流通迈向密态化是未来趋势。数据密态要求下，隐私计算的方法体系、平台框架、技术标准都面临全新变革”。韦韬也呼吁更多的同行参与到开源和生态建设工作当中，“开源隐私计算核心产品一直是我们对行业的态度，未来蚂蚁将持续加大隐私计算的开放力度和广度，与行业一道构筑 AI 智能时代数据安全护城河。”</p><p></p><p>本场论坛汇聚了国内外研究机构和顶尖学者以及产业人士等，从不同视角分享了 AI 数据智能和数据要素化大潮下的隐私计算研究、应用和趋势，这些深入的讨论，也将为隐私计算如何护航 AI 智能、助力数字经济发展提供更加明确的前进方向。</p>",
+    "publish_time": "2023-07-07 15:24:36",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "齐心集团 CTO 于斌平确认出席 ArchSummit 深圳，分享企业数字化实践经验",
+    "url": "https://www.infoq.cn/article/Xfulpc40oKvvHfgp3sMR",
+    "summary": "<p>7&nbsp;月&nbsp;21&nbsp;日&nbsp;-&nbsp;22&nbsp;日，&nbsp;在&nbsp;<a href=\"https://archsummit.infoq.cn/2023/shenzhen?utm_source=infoqweb&amp;utm_medium=teacherarticle&amp;utm_campaign=8&amp;utm_term=0531\">ArchSummit&nbsp;全球架构师峰会（深圳站）</a>\"，齐心集团&nbsp;CTO&nbsp;于斌平，将于会上发表题为《数字化加持的产业供应链革新》的演讲，用实际案例与大家一起探索数字化技术如何才能真正落地为企业为客户产生价值。</p><p></p><p>于斌平是前国美零售控股有限公司副总裁、CTO，前国美控股集团技术委员会主席。产业互联网领域、数字供应链领域技术专家，零售、电商、物流领域技术专家。十多年&nbsp;500&nbsp;人以上技术团队带头人角色。从零开始一手建立了国美互联网和国美零售的技术体系，主导建立了国美零售的产品、研发、大数据、云平台、AI&nbsp;智能平台、及中台系列等核心技术系统，并主导建立了行业首家大型数字化服务平台和物流平台。成功建立了年销售超千亿的零售电商平台、线下线上统一融合的共享数智化平台。现致力于产业互联网领域和数字供应链领域的数字化研究和建设工作。</p><p></p><p>相信通过于斌平的分享，你将了解在产业互联网领域，数字化如何落地才能为企业为客户降本增效，学习到如何在个性中找共性、如何重新理解数字化理解技术、如何构建数字化平台来为企业和客户服务。</p><p></p><p>除上述议题外&nbsp;，ArchSummit&nbsp;深圳还将围绕<a href=\"https://archsummit.infoq.cn/2023/shenzhen/track/1537?utm_source=infoqweb&amp;utm_medium=teacherarticle&amp;utm_campaign=8&amp;utm_term=0531\">基础架构技术</a>\"、<a href=\"https://archsummit.infoq.cn/2023/shenzhen/track/1532?utm_source=infoqweb&amp;utm_medium=teacherarticle&amp;utm_campaign=8&amp;utm_term=0531\">DataOps、Data&nbsp;Fabric&nbsp;等高效数据开发与服务模式</a>\"、<a href=\"https://archsummit.infoq.cn/2023/shenzhen/track/1534?utm_source=infoqweb&amp;utm_medium=teacherarticle&amp;utm_campaign=8&amp;utm_term=0531\">Mesh&nbsp;技术实践案例</a>\"、<a href=\"https://archsummit.infoq.cn/2023/shenzhen/track/1535?utm_source=infoqweb&amp;utm_medium=teacherarticle&amp;utm_campaign=8&amp;utm_term=0531\">QUIC&nbsp;传输和架构优化</a>\"等进行分享。</p><p></p><p>数十位业界专家，上百个国内外一线大厂前沿技术案例，一定会给你带来很多全新的开发灵感。期待与你线下交流！咨询购票请联系&nbsp;18514549229（微信同手机号）</p><p><img src=\"https://static001.infoq.cn/resource/image/9d/aa/9d6a27547062ee2e089f91bdc4ba1eaa.png\" /></p><p></p>",
+    "publish_time": "2023-07-07 16:01:12",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
