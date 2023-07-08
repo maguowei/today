@@ -42,5 +42,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "知乎「匿名功能」下线公告",
+    "url": "https://www.v2ex.com/t/955039",
+    "summary": "XiaoBaiYa: <p>来源知乎官方账号“知一声”：\n作为社区早期的产品机制，匿名功能的上线初衷是建立在用户开放讨论、友善互动的基础之上的，但随着互联网沟通环境日益复杂，为保障社区内的良性讨论，知乎已在最新版本 App 中完成了匿名功能下线的开发，并于近期提交各大应用商店审核，预计 7 月 14 日上线各大应用商店，匿名功能将在新旧版本 App 端及 PC 端正式下线。</p>\n<p>届时，「匿名发布」入口将会取消，用户将不能匿名创建问题或匿名发布内容。对于历史匿名内容，用户可自主选择是否将其转为实名。</p>\n<p>知乎反对编造不实信息、恶意诽谤他人等行为，无论内容是否匿名，同样受到《知乎社区规范》的监督和管理，创作者应当对自己发布内容的真实性、准确性负责。如内容中存在违法违规信息，平台将按具体内容违规类别予以相应处置。</p>\n<p>我们希望创作者们能持续秉持「认真、专业、友善」的创作态度，以真实身份进行创作。今年 4 月，我们推出了专业身份认证，知友们可以更便捷地进行认证，让内容更专业，让表达更真实，更好地分享自己的知识、经验和见解。</p>",
+    "publish_time": "2023-07-08 09:56:34",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "公司网站被恶意 SEO",
+    "url": "https://www.v2ex.com/t/955064",
+    "summary": "zero3412: 网站从页面到代码，都检查过，是没有乱七八糟(涉黄关键词)内容的。<br />在百度使用 site:域名 查询结果中，有非常多的标题(涉黄)，<br /><br />是标题哦，如 某某某那啥啥-MBA 智库-MBA 智库百科，大部分标题带 MBA 智库-MBA 智库百科<br />对应的链接后缀会带一些随机参数，如<br />http://域名/a/690304173_458722?8tv3C=.xml20230626gvFur<br />http://域名/?Z1JFV=.txt20230625A0NFK<br />点击链接后，要么是 404 ，要么是正常内容的网页<br /><br />不知道这是怎么实现的，有什么解决办法不。",
+    "publish_time": "2023-07-08 11:36:46",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "按现在大厂的招人标准，创始人应该都进不去自己的公司",
+    "url": "https://www.v2ex.com/t/955085",
+    "summary": "wuzesen: 马云，任正非，小马哥，估计都要被自己的公司卡死在门外，不知道在哪个工厂打螺丝送外卖了",
+    "publish_time": "2023-07-08 12:56:17",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
