@@ -9,5 +9,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "请问墙内是不是在限制国内 IP 间的互相 P2P 组网访问？",
+    "url": "https://www.v2ex.com/t/955206",
+    "summary": "CloudyKumori: <p>如题，楼主最近正在测试 NAS 的内网穿透，但是发现各种内网穿透协议都在被严重干扰。首先是 zerotier：目前在电信宽带的环境下，官方根节点的服务器完全被墙，自建的墙内外 Moon 中转被阻断，即使把 Moon 服务器建在国内主机上也无法避免，目前 zerotier 属于半残废状态。其次是 tailscale：官方的 DERP 速度很慢几乎用不了，在自建 Headscale 后发现阻断的比 zerotier 还严重，在客户端刚建立连接的前 5 分钟一般都能转到 P2P 直连，但是在此之后 Peers 便很难再建立直接连接了，只能给一台设备进行连接，其他设备一旦连接就会触发风控然后阻断导致全走中转流量，根本没法用。不知道现在是在精准识别流量并进行阻断还是在进行经典的运营商 QoS ，但是连自建中转节点的进行握手的过程都能阻断得这么死是真的没想到，请问大家有什么好的办法解决这个问题吗</p>\n<blockquote><a href=\"https://imgur.com/a/QF3sVLK\" rel=\"nofollow\"></a></blockquote>&lt;script async src=\"//<a href=\"http://s.imgur.com/min/embed.js\" rel=\"nofollow\">s.imgur.com/min/embed.js</a>\" charset=\"utf-8\"&gt;&lt;/script&gt;",
+    "publish_time": "2023-07-09 01:45:43",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "对长辈们的观念一言难尽",
+    "url": "https://www.v2ex.com/t/955222",
+    "summary": "Shan0: <p>老婆怀孕 9 周胎停了，只能流产，在北京妇产医院做的手术，术前医生明确说的术后除了不能泡澡、盆浴，别吃辛辣生冷的东西，其他的一切正常生活，多通风，多下楼溜达（有助于恢复），可以淋浴，该吹空调吹空调，别直吹就行。<br />手术完以后回到家里，我妈跟我丈母娘非说医生说的不对，不让下楼溜，不让开空调，北京这几天这么热的天就硬扛着，我说听医生的，她们不听，非要听她们各自身边朋友的话，我说多了她们也不开心，我老婆现在也对我说的有意见，真难啊……</p>",
+    "publish_time": "2023-07-09 10:00:11",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
