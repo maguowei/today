@@ -1571,5 +1571,87 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "适合中国宝宝体质的孙悟空",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%80%82%E5%90%88%E4%B8%AD%E5%9B%BD%E5%AE%9D%E5%AE%9D%E4%BD%93%E8%B4%A8%E7%9A%84%E5%AD%99%E6%82%9F%E7%A9%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "媒体三评毕业季就业问题，称「拓宽渠道，树立积极就业观，就业形势总体稳定」，对今年应届生你有哪些建议？",
+    "url": "https://www.zhihu.com/question/611313092",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "刻在人类基因中里的禁令有哪些？",
+    "url": "https://www.zhihu.com/question/602124752",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Show HN: A hash array-mapped trie implementation in C",
+    "url": "https://github.com/mkirchner/hamt",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36672957\">Comments</a>",
+    "publish_time": "2023-07-11 05:06:55",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Fathom AI Notetaker (YC W21) is hiring a staff engineer (remote)",
+    "url": "https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-staff-engineer-full-stack-remote",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36672888\">Comments</a>",
+    "publish_time": "2023-07-11 05:00:06",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Throw – The new space for asking and answering questions anonymously",
+    "url": "https://www.trythrow.com",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36673280\">Comments</a>",
+    "publish_time": "2023-07-11 05:34:48",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Self-hosted photo and video backup solution directly from your mobile phone",
+    "url": "https://github.com/immich-app/immich",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36673224\">Comments</a>",
+    "publish_time": "2023-07-11 05:28:40",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Gandi.net updates pricing, increases rates by up to 1000%",
+    "url": "https://chatting.neocities.org/posts/2023-gandi-pricing",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36673108\">Comments</a>",
+    "publish_time": "2023-07-11 05:20:08",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
