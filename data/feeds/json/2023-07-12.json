@@ -1428,5 +1428,92 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "西安的雨没有100斤寸步难行",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E7%9A%84%E9%9B%A8%E6%B2%A1%E6%9C%89100%E6%96%A4%E5%AF%B8%E6%AD%A5%E9%9A%BE%E8%A1%8C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "费翔老师我妈爱你",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B4%B9%E7%BF%94%E8%80%81%E5%B8%88%E6%88%91%E5%A6%88%E7%88%B1%E4%BD%A0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "NBA 有些球队会把有首发实力的球员放到替补阵容，为什么他们打第六人反而效果更好？",
+    "url": "https://www.zhihu.com/question/292411180",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "下班后有没有合理有效的「断联」方式，能建立工作与生活之间的边界感啊？不回消息可行吗？",
+    "url": "https://www.zhihu.com/question/611541784",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "自驾出门露营，哪些装备是必须准备的？",
+    "url": "https://www.zhihu.com/question/536996697",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么东亚国家可以赶上工业文明，而其他地区却异常困难？",
+    "url": "https://www.zhihu.com/question/600700914",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美股三大指数集体收涨，热门中概股多数上涨",
+    "url": "https://www.36kr.com/newsflashes/2340363049508487",
+    "summary": "36氪获悉，7月11日收盘，美股三大指数集体上涨，道指涨0.93%，纳指涨0.55%，标普500指数涨0.67%。大型科技股多数上涨，Meta、亚马逊涨超1％，谷歌涨0.59％，微软涨0.19％，特斯拉涨0.07％，苹果跌0.28％，Netflix跌0.34％。热门中概股多数上涨，小鹏汽车涨近6%，B站涨超4％，理想汽车涨超3%，爱奇艺涨超2％，阿里巴巴、拼多多涨超1％，蔚来、百度小幅上涨，虎牙、知乎跌超1％。",
+    "publish_time": "2023-07-12 07:00:24",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Tell HN: OneDrive sends your photos over unencrypted email",
+    "url": "https://news.ycombinator.com/item?id=36687266",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36687266\">Comments</a>",
+    "publish_time": "2023-07-12 05:11:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Darwin: A framework for evolving decentralized web apps",
+    "url": "https://evolutionary.arweave.dev/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36687588\">Comments</a>",
+    "publish_time": "2023-07-12 05:38:40",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
