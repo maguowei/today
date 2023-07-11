@@ -511,5 +511,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "宝格丽客服回应",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AE%9D%E6%A0%BC%E4%B8%BD%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "纪若尘的修仙日纪",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BA%AA%E8%8B%A5%E5%B0%98%E7%9A%84%E4%BF%AE%E4%BB%99%E6%97%A5%E7%BA%AA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "ITZY概念短片",
+    "url": "https://s.weibo.com/weibo?q=%23ITZY%E6%A6%82%E5%BF%B5%E7%9F%AD%E7%89%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
