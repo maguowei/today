@@ -1360,5 +1360,138 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "哇唧唧哇说难哄还没定主演",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%93%87%E5%94%A7%E5%94%A7%E5%93%87%E8%AF%B4%E9%9A%BE%E5%93%84%E8%BF%98%E6%B2%A1%E5%AE%9A%E4%B8%BB%E6%BC%94%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "安乐传",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AE%89%E4%B9%90%E4%BC%A0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "微博毕业派对",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E6%AF%95%E4%B8%9A%E6%B4%BE%E5%AF%B9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "怎样使自己处于高能量状态？",
+    "url": "https://www.zhihu.com/question/331006661",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "是什么让你突然觉得挣钱真的很重要？",
+    "url": "https://www.zhihu.com/question/607632545",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Performant database tree traversal with Rails",
+    "url": "https://planetscale.com/blog/performant-database-tree-traversal-with-rails",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36698542\">Comments</a>",
+    "publish_time": "2023-07-13 01:41:11",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Characterizing and identifying shills in social media (2017) [pdf]",
+    "url": "http://sbp-brims.org/2017/proceedings/papers/ShortPapers/CharacterizingandIdentifying.pdf",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36696673\">Comments</a>",
+    "publish_time": "2023-07-13 00:04:46",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "MuseScore 4.1 is now available",
+    "url": "https://musescore.org/en/4.1",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36699738\">Comments</a>",
+    "publish_time": "2023-07-13 02:43:28",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Why just blocking Meta's Threads won't be enough",
+    "url": "https://privacy.thenexus.today/just-blocking-threads-isnt-enough/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36698981\">Comments</a>",
+    "publish_time": "2023-07-13 02:03:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "NotebookLM: An AI Notebook",
+    "url": "https://blog.google/technology/ai/notebooklm-google-ai/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36697119\">Comments</a>",
+    "publish_time": "2023-07-13 00:29:12",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Pines – Alpine and Tailwind UI Library",
+    "url": "https://devdojo.com/pines",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36697366\">Comments</a>",
+    "publish_time": "2023-07-13 00:41:08",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Shopify elevated the non-manager career path and ditched meetings",
+    "url": "https://creatoreconomy.so/p/kaz-coo-shopify-craft-and-no-meetings",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36697404\">Comments</a>",
+    "publish_time": "2023-07-13 00:42:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Creating a search engine with PostgreSQL",
+    "url": "https://xata.io/blog/postgres-full-text-search-engine",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36699016\">Comments</a>",
+    "publish_time": "2023-07-13 02:05:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
