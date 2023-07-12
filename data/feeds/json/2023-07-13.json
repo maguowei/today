@@ -1697,5 +1697,121 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "安乐传运镜",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AE%89%E4%B9%90%E4%BC%A0%E8%BF%90%E9%95%9C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "美国45岁富豪用17岁儿子血浆换血失败",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD45%E5%B2%81%E5%AF%8C%E8%B1%AA%E7%94%A817%E5%B2%81%E5%84%BF%E5%AD%90%E8%A1%80%E6%B5%86%E6%8D%A2%E8%A1%80%E5%A4%B1%E8%B4%A5%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "猪场因断电死亡462头猪损失近百万",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8C%AA%E5%9C%BA%E5%9B%A0%E6%96%AD%E7%94%B5%E6%AD%BB%E4%BA%A1462%E5%A4%B4%E7%8C%AA%E6%8D%9F%E5%A4%B1%E8%BF%91%E7%99%BE%E4%B8%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "风月变开播",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%A3%8E%E6%9C%88%E5%8F%98%E5%BC%80%E6%92%AD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "二战德国或英国可以对苏联发动“轰炸滚珠轴承厂”之类的关键性节点攻击而部分（暂时性）瘫痪苏联工业吗？",
+    "url": "https://www.zhihu.com/question/609340036",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "南京六大名校相比，哪个更好？",
+    "url": "https://www.zhihu.com/question/331946349",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美总统气候问题特使克里 7 月 16 日至 19 日将访华，哪些信息值得关注？中美或开展哪些气候合作？",
+    "url": "https://www.zhihu.com/question/611664042",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么城市独生子家庭相亲会介意女生有兄弟姐妹？",
+    "url": "https://www.zhihu.com/question/610778203",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美股三大指数集体收涨，热门中概股普涨",
+    "url": "https://www.36kr.com/newsflashes/2341778694102660",
+    "summary": "36氪获悉，美国6月CPI年率跌至2021年3月以来新低，7月12日收盘，美股三大指数集体上涨，纳指涨1.15%，标普500指数涨0.74%，道指涨0.25%。大型科技股多数上涨，英伟达、Meta涨超3%，亚马逊、谷歌、微软涨超1%。热门中概股普涨，爱奇艺涨近9%，哔哩哔哩涨超7%，拼多多涨超6%，百度、京东、蔚来涨超3%，理想汽车涨3%，阿里巴巴、新东方涨逾2%。",
+    "publish_time": "2023-07-13 07:00:28",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Tax preparers that shared private data with Meta, Google could be fined billions",
+    "url": "https://arstechnica.com/tech-policy/2023/07/meta-wont-say-what-happened-to-taxpayer-data-it-may-have-illegally-collected/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36701706\">Comments</a>",
+    "publish_time": "2023-07-13 05:07:50",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Uber Eats Canada Ran Production in a MacBook Air",
+    "url": "https://twitter.com/Altimor/status/1679235946334781440",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36702603\">Comments</a>",
+    "publish_time": "2023-07-13 06:35:11",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "PCSX2 is an open source PS2 Emulator",
+    "url": "https://pcsx2.net/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36702084\">Comments</a>",
+    "publish_time": "2023-07-13 05:42:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]

@@ -646,5 +646,41 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "安乐传运镜",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AE%89%E4%B9%90%E4%BC%A0%E8%BF%90%E9%95%9C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "美国45岁富豪用17岁儿子血浆换血失败",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD45%E5%B2%81%E5%AF%8C%E8%B1%AA%E7%94%A817%E5%B2%81%E5%84%BF%E5%AD%90%E8%A1%80%E6%B5%86%E6%8D%A2%E8%A1%80%E5%A4%B1%E8%B4%A5%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "猪场因断电死亡462头猪损失近百万",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8C%AA%E5%9C%BA%E5%9B%A0%E6%96%AD%E7%94%B5%E6%AD%BB%E4%BA%A1462%E5%A4%B4%E7%8C%AA%E6%8D%9F%E5%A4%B1%E8%BF%91%E7%99%BE%E4%B8%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "风月变开播",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%A3%8E%E6%9C%88%E5%8F%98%E5%BC%80%E6%92%AD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
