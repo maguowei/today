@@ -1606,5 +1606,96 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "李娜重返温网参赛",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%A8%9C%E9%87%8D%E8%BF%94%E6%B8%A9%E7%BD%91%E5%8F%82%E8%B5%9B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "汪苏泷唱什么都很容易",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%94%B1%E4%BB%80%E4%B9%88%E9%83%BD%E5%BE%88%E5%AE%B9%E6%98%93%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "婴儿出生后多久可以睡整觉?",
+    "url": "https://www.zhihu.com/question/609585734",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "怎么使用 python 实现对 CSV 文件数据的处理？",
+    "url": "https://www.zhihu.com/question/595336041",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Google Play adds NFTs",
+    "url": "https://android-developers.googleblog.com/2023/07/new-blockchain-based-content-opportunities-google-play.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36702078\">Comments</a>",
+    "publish_time": "2023-07-13 05:41:48",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "System Shock remake",
+    "url": "https://www.eurogamer.net/digitalfoundry-2023-the-system-shock-remake-is-excellent-and-nightdives-most-ambitious-work-yet",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36700363\">Comments</a>",
+    "publish_time": "2023-07-13 03:27:57",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "She Steals Surfboards by the Seashore. She’s a Sea Otter",
+    "url": "https://www.nytimes.com/2023/07/12/science/sea-otter-surfboard.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36700450\">Comments</a>",
+    "publish_time": "2023-07-13 03:35:40",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Instagram Threads: The problem with the “everything for everyone” approach",
+    "url": "https://thisisunpacked.substack.com/p/instagram-threads-the-problem-with",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36700249\">Comments</a>",
+    "publish_time": "2023-07-13 03:19:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: AI companions stack – create and host your own AI companions",
+    "url": "https://github.com/a16z-infra/companion-app",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36699780\">Comments</a>",
+    "publish_time": "2023-07-13 02:45:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
