@@ -9,5 +9,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "不到一年，Istio项目正式从 CNCF 毕业",
+    "url": "https://www.infoq.cn/article/akP8x4df0wUtPZeGKaPh",
+    "summary": "<p>7 月12日，Istio项目正式从 CNCF 毕业。Tetrate 创始人Varun Talwar在<a href=\"https://tetrate.io/blog/istio-service-mesh-graduates-cncf/\">博客</a>\"中写道，Istio 现在是最快毕业的 CNCF 项目。Tetrate 由 Istio 创始团队成员发起，旨在促进和扩大服务网格的采用，自成立以来一直是 Istio 的主要贡献者。</p><p>&nbsp;</p><p>Varun Talwar表示，“这一具有里程碑意义的时刻代表了 Istio 作为云原生领域重要组成部分的成长和成熟，为部署最广泛的服务网格开启了激动人心的新篇章。Kubernetes 是第一个在 2018 年获得毕业资格的项目。如今，距离 Istio 作为孵化项目进入 CNCF 还不到一年，Istio 就毕业了，这是 CNCF 历史上最快的项目。”</p><p></p><h2>Istio 的发展历程</h2><p></p><p>&nbsp;</p><p>Istio 项目始于 2016 年，最初由 Google、IBM 以及构建 Envoy 代理的 Lyft 团队共同开发。2018 年 6 月，Istio 发布了 1.0 版本，2019 年，Istio 成为整个 GitHub 中增长速度第四快的开源项目。目前，已经有 190 多家公司承诺使用 Istio，其中 20 多家供应商为其 Kubernetes 平台提供托管的 Istio 产品或插件。</p><p>&nbsp;</p><p>2022年4月，谷歌提议将 Istio <a href=\"https://www.infoq.cn/article/tfJtw1pWmbEIFNSxDK8q\">捐赠给 CNCF</a>\"，该想法得到了社区众多开发者的关注和支持。经过近半年的尽职调查，9 月 28 日，CNCF正式宣布技术监督委员会(TOC) 已投票用过将Istio作为 CNCF 孵化项目。</p><p>&nbsp;</p><p>根据此前介绍，当前 Istio 社区重要的贡献来自：</p><p>&nbsp;</p><p>技术公司和云计算厂商，包括红帽、思科、VMware、英特尔、华为、腾讯、阿里巴巴和 DaoCloud为将 Istio 解决方案推向市场而成立的公司，包括 Tetrate、Aspen Mesh 和 Solo.ioIstio 的终端用户，包括 Auto Trader UK、Salesforce、SAP 和 Yahoo!</p><p></p><h2>Istio 毕业对用户意味着什么？</h2><p></p><p>&nbsp;</p><p>对于那些已经将 Istio 用作支持数千次部署的基础设施核心部分的人来说，CNCF 毕业是对他们将 Istio 视为现代应用程序网络的关键组件的愿景的验证。对于那些希望实现基础设施现代化的人来说，Istio 的毕业地位是一个强烈的信号，表明它是在生产中扩展关键应用程序的经过验证的强大选择。&nbsp;</p><p>&nbsp;</p><p>​​对于用户来说，Istio 的毕业状态具有以下几个含义和优势：</p><p>&nbsp;</p><p>稳定、成熟。潜在用户可以对该项目的稳定性充满信心，因为知道它已经满足 CNCF 严格的毕业标准。安全。Istio在及时发布安全公告以及业界最重要的安全思想领导者的战略指导方面拥有悠久而稳健的记录。生产准备就绪。毕业状态向用户保证 Istio 具有在生产环境中使用所需的功能、可扩展性和稳健性。采用和生态系统。 毕业项目在云原生生态系统中获得了广泛采用。它们被各种规模和行业的组织广泛认可和使用。Istio 的用户受益于其他采用者的经验。分级项目的广泛采用还培育了一个充满活力的工具、扩展和集成生态系统，可以进一步增强其功能。CNCF 支持和治理。毕业项目也受益于 CNCF 的支持和治理。CNCF 为协作和社区参与提供资源、指导和框架。用户可以对该项目的长期可持续性和发展路线图充满信心，因为它是由致力于推进云原生技术的可信组织支持的。社区和企业支持。社区提供的集体知识、经验和支持提供了广泛的用户群、对文档、论坛和用户组等资源的访问以及在故障排除和解决问题方面的潜在帮助的好处。Istio 生态系统还享有许多供应商（包括 Tetrate）提供的企业支持，为那些需要保证在需要时获得专家支持的组织提供支持。</p><p>&nbsp;</p>",
+    "publish_time": "2023-07-13 11:12:18",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
