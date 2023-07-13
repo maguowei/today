@@ -1342,5 +1342,65 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "这些录取通知书里满是骄傲和期许",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E9%87%8C%E6%BB%A1%E6%98%AF%E9%AA%84%E5%82%B2%E5%92%8C%E6%9C%9F%E8%AE%B8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "杜比全景声音乐人来微博啦",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%AF%94%E5%85%A8%E6%99%AF%E5%A3%B0%E9%9F%B3%E4%B9%90%E4%BA%BA%E6%9D%A5%E5%BE%AE%E5%8D%9A%E5%95%A6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "一个只能学会光亮术的魔法世界中，人类在发展的途中是否会抛弃魔法这项能力？",
+    "url": "https://www.zhihu.com/question/609439757",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "New in Chrome 115",
+    "url": "https://developer.chrome.com/blog/new-in-chrome-115/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36713737\">Comments</a>",
+    "publish_time": "2023-07-14 02:17:54",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Buddy Pond Cloud Desktop",
+    "url": "https://buddypond.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36714522\">Comments</a>",
+    "publish_time": "2023-07-14 03:11:42",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Age of universe at 26.7B years, nearly twice as old as previously believed",
+    "url": "https://phys.org/news/2023-07-age-universe-billion-years-previously.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36714228\">Comments</a>",
+    "publish_time": "2023-07-14 02:51:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
