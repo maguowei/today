@@ -42,5 +42,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "V 友们，这个设计能用 flex 布局实现吗，后台返回的是一个数组对象。我想在交互上方便一下，如果 flex 实现不了，有没有其他能把按钮循环出来的办法",
+    "url": "https://www.v2ex.com/t/956387",
+    "summary": "MRG0: <p>有个关键问题，第二排按钮会捅到支付方式下边 <img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/b2BG1ao.png\" /></p>",
+    "publish_time": "2023-07-13 10:50:56",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
