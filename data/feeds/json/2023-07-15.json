@@ -1157,5 +1157,89 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "绝味鸭脖甄嬛传联名",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BB%9D%E5%91%B3%E9%B8%AD%E8%84%96%E7%94%84%E5%AC%9B%E4%BC%A0%E8%81%94%E5%90%8D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "韩素希seven花絮照",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%B4%A0%E5%B8%8Cseven%E8%8A%B1%E7%B5%AE%E7%85%A7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "The Problem with LangChain",
+    "url": "https://minimaxir.com/2023/07/langchain-problem/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36725982\">Comments</a>",
+    "publish_time": "2023-07-15 00:11:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "FDA says aspartame is safe, disagreeing with WHO finding on possible cancer link",
+    "url": "https://www.cnbc.com/2023/07/14/fda-says-aspartame-is-safe-disagrees-with-who-on-possible-cancer-link.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36728033\">Comments</a>",
+    "publish_time": "2023-07-15 02:30:33",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Large-Scale Analysis of Code Re-Use in Atari 2600 Games",
+    "url": "https://dl.acm.org/doi/fullHtml/10.1145/3555858.3555948",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36727337\">Comments</a>",
+    "publish_time": "2023-07-15 01:41:41",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Astronomers witness energetic switch on of black hole",
+    "url": "https://phys.org/news/2023-07-astronomers-witness-energetic-black-hole.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36727585\">Comments</a>",
+    "publish_time": "2023-07-15 01:59:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ever Given Report Highlights Suez Canal Pilots’ Role in Grounding",
+    "url": "https://gcaptain.com/ever-given-report-highlights-suez-canal-pilots-role-in-grounding/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36727209\">Comments</a>",
+    "publish_time": "2023-07-15 01:34:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Libxo: The Easy Way to Generate Text, XML, JSON, and HTML Output",
+    "url": "https://juniper.github.io/libxo/libxo-manual.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36728013\">Comments</a>",
+    "publish_time": "2023-07-15 02:29:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
