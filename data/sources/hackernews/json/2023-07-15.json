@@ -746,5 +746,27 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Private Market",
+    "url": "https://www.privatemarket.dev/whatisthis",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36734051\">Comments</a>",
+    "publish_time": "2023-07-15 14:06:50",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Snakemake – A framework for reproducible data analysis",
+    "url": "https://snakemake.github.io/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36735616\">Comments</a>",
+    "publish_time": "2023-07-15 19:35:33",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
