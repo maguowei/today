@@ -1,0 +1,13 @@
+[
+  {
+    "title": "增强AI能力：谷歌云在托管数据库中集成向量搜索",
+    "url": "https://www.infoq.cn/article/FRAT7lh9hX8oeekSRyTf",
+    "summary": "<p>谷歌云最近在 Cloud SQL for PostgreSQL 和 AlloyDB for PostgreSQL 中增加了对 pgvector 的支持。这个扩展为托管数据库带来了向量搜索操作，允许开发人员存储大型语言模型（LLM）生成的向量嵌入并执行相似性搜索。</p><p></p><p>Cloud SQL 和 AlloyDB 现在可以与 Vertex AI 上的生成性 AI 服务配对，帮助创建能够感知应用程序和用户状态的 AI 应用程序。谷歌高级产品经理 Sandhya Ghai 和产品经理 Bala Narasimhan 解释说：</p><p></p><p></p><blockquote>向量嵌入是一种数值表示，通常用于将复杂的用户生成内容（如文本、音频和视频）转换为易于存储、操作和索引的形式。这些表示由嵌入模型生成，如果两个内容在语义上相似，它们各自的嵌入就会在嵌入向量空间中彼此相邻。然后，向量嵌入会被索引，被用于基于相似性进行有效的数据过滤。</blockquote><p></p><p></p><p>例如，开发人员可以使用 Vertex AI 的预训练模型在文本和图像之间生成嵌入，并将它们存储并索引到数据库中，简化查找相似记录的过程。</p><p></p><p>用户现在可以使用 CREATE EXTENSION 命令在现有的数据库中安装 pgvector 扩展：</p><p></p><p><code lang=\"php\">postgres=&gt; CREATE EXTENSION IF NOT EXISTS vector;\nCREATE EXTENSION\n\npostgres=&gt; CREATE TABLE embeddings(\n  id INTEGER,\n  embedding vector(3)\n);\nCREATE TABLE\n\npostgres=&gt; INSERT INTO embeddings\n        VALUES\n                (1, '[1, 0, -1]'),\n                (2, '[1, 1, 1]'),\n                (3, '[1, 1, 50]');\nINSERT 0 3\n</code></p><p></p><p>来源：<a href=\"https://cloud.google.com/blog/products/databases/using-pgvector-llms-and-langchain-with-google-cloud-databases\">https://cloud.google.com/blog/products/databases/using-pgvector-llms-and-langchain-with-google-cloud-databases</a>\"</p><p></p><p>正如 Ghai 和 Narasimhan 所解释的那样，这一新功能还可以帮助开发人员利用预训练的 LLM：</p><p></p><p></p><blockquote>我们需要了解的是，LLM 没有状态的概念……嵌入允许你将大型上下文（如文档或历史聊天记录）存储在数据库中，并过滤它们，以便查找最相关的信息。然后，你可以将最相关的聊天历史记录或文档片段输入模型来模拟长期记忆和业务特定知识。</blockquote><p></p><p></p><p>谷歌云发布了一个 Colab Notebook 和一个视频，用 pgvector、开源框架 LangChain 和 LLM 构建 AI 驱动的应用程序。谷歌高级软件工程师 Saket Saurabh 演示了如何在示例 Python 应用程序中添加生成式 AI 功能，他写道：</p><p></p><p></p><blockquote>pgvector 扩展还引入了用于对向量执行相似性匹配的新运算符，你可以用它查找语义上相似的向量。这样的运算符有两个：‘&lt;-&gt;’：返回两个向量之间的欧几里得距离……‘&lt;=&gt;’：返回两个向量之间的余弦距离</blockquote><p></p><p></p><p>在过去的几个月中，谷歌云并不是唯一一个瞄准向量数据库的云供应商，Amazon RDS for PostgreSQL 也支持 pgvector 扩展，微软还展示了如何将 Azure Data Explorer（ADX）作为向量数据库，并讨论了几种连接到向量数据库的连接器。</p><p></p><p>原文链接：</p><p></p><p><a href=\"https://www.infoq.com/news/2023/07/gcp-databases-vector-search/\">https://www.infoq.com/news/2023/07/gcp-databases-vector-search/</a>\"</p>",
+    "publish_time": "2023-07-15 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
