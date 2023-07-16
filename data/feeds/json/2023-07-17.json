@@ -1350,5 +1350,56 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "消防员就应该拍成这样",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E5%B0%B1%E5%BA%94%E8%AF%A5%E6%8B%8D%E6%88%90%E8%BF%99%E6%A0%B7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "地中海岛国塞浦路斯暴发猫科动物冠状病毒疫情，已有 30 万只猫死亡，致死率 90%，具体情况如何？",
+    "url": "https://www.zhihu.com/question/612427456",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Grav is a modern open-source flat-file CMS",
+    "url": "https://getgrav.org/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36751375\">Comments</a>",
+    "publish_time": "2023-07-17 05:04:18",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Undocumented 8086 instructions, explained by the microcode",
+    "url": "https://www.righto.com/2023/07/undocumented-8086-instructions.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36751399\">Comments</a>",
+    "publish_time": "2023-07-17 05:06:17",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Dusk OS: 32-bit Forth OS. Useful during first stage of civilizational collapse",
+    "url": "https://duskos.org/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36751422\">Comments</a>",
+    "publish_time": "2023-07-17 05:09:24",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
