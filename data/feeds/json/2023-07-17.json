@@ -1288,5 +1288,67 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "肖战片场逗兔子",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%89%87%E5%9C%BA%E9%80%97%E5%85%94%E5%AD%90%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "计算机行业会成为下一个土木工程吗？",
+    "url": "https://www.zhihu.com/question/602952609",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Forget Spotify for news – let's fix the real problem",
+    "url": "https://baekdal.com/monetization/forget-spotify-for-news-lets-fix-the-real-problem/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36750134\">Comments</a>",
+    "publish_time": "2023-07-17 02:37:40",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Exploring Linear A",
+    "url": "https://lineara.xyz/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36750743\">Comments</a>",
+    "publish_time": "2023-07-17 03:47:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How to register a Kei truck in Pennsylvania",
+    "url": "https://danwilkerson.com/posts/2023-05-30-how-to-register-a-kei-truck-in-pa",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36750554\">Comments</a>",
+    "publish_time": "2023-07-17 03:26:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Underwater Ears Everywhere",
+    "url": "https://computer.rip/2023-07-15-underwater-ears-everywhere.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36750716\">Comments</a>",
+    "publish_time": "2023-07-17 03:44:19",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
