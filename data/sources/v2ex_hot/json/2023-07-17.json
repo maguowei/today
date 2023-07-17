@@ -86,5 +86,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "讨论一下手机监听的可能性",
+    "url": "https://www.v2ex.com/t/957316",
+    "summary": "pkoukk: <p>观月经监听贴有感，大家反驳的意见主要集中是</p>\n<p>软件（ APP ）监听不可行，没权限，无法控制耗电量</p>\n<p>硬件监听，看上去也没人抓到过实时上报的数据包 </p>\n<p>但是我感觉好像并不是完全不可行，以下是我想的一个方案，因为没有搞过嵌入式，有没有搞过的老哥说说行不行</p>\n<p>1 、目前手机上普遍都有语音助手，一般情况是通过专用的语音识别芯片实现的。比如<a href=\"https://www.aimachip.com/product/25-cn.html\" rel=\"nofollow\">这款</a>\n.介绍里说待机只有几亚毫瓦，还带 208k 的 SRAM 和 1M FLASH 。</p>\n<p>2 、这么大的存储，只存“小爱同学”这几个字是不是太浪费了，能不能定期更新一些热词进去？</p>\n<p>3 、命中热词之后，其实也不需要实时上报，在内存或者日志记录一个字典，存一下触发次数</p>\n<p>4 、随着其它系统上报数据，一起上报。</p>\n<p>5 、厂商分析后，做成画像卖给广告商联盟。</p>\n<p>看着流程很长，但其实只要做到分钟级的处理链路，对用户来说就相当实时了。</p>",
+    "publish_time": "2023-07-17 10:40:01",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
