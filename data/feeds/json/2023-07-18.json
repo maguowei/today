@@ -1672,5 +1672,101 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "续航好长长长的手表啊",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BB%AD%E8%88%AA%E5%A5%BD%E9%95%BF%E9%95%BF%E9%95%BF%E7%9A%84%E6%89%8B%E8%A1%A8%E5%95%8A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "谢乔承认喜欢秦川",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B0%A2%E4%B9%94%E6%89%BF%E8%AE%A4%E5%96%9C%E6%AC%A2%E7%A7%A6%E5%B7%9D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "这条高速变西瓜味了",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%9D%A1%E9%AB%98%E9%80%9F%E5%8F%98%E8%A5%BF%E7%93%9C%E5%91%B3%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "南北方饮食差异真的很大",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%8C%97%E6%96%B9%E9%A5%AE%E9%A3%9F%E5%B7%AE%E5%BC%82%E7%9C%9F%E7%9A%84%E5%BE%88%E5%A4%A7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "2023 年有哪些值得购买的空调？",
+    "url": "https://www.zhihu.com/question/585163552",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "猫会在危险时刻保护主人吗？",
+    "url": "https://www.zhihu.com/question/296423454",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何看待2023年7月17日的国内A股市场？",
+    "url": "https://www.zhihu.com/question/612422297",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美股三大指数集体收涨，热门中概股涨跌不一",
+    "url": "https://www.36kr.com/newsflashes/2348857418586115",
+    "summary": "36氪获悉，17日收盘，美股三大指数集体收涨，道指涨0.22%，纳指涨0.93%，标普500指数涨0.39%。大型科技股涨跌不一，苹果、Netflix涨超1%，特斯拉、动视暴雪涨超3%，微软涨0.14%，Meta涨0.57%，谷歌跌0.61%，亚马逊跌0.83%。热门中概股涨跌不一，理想汽车涨超3%，小鹏汽车、百度、蔚来小幅上涨，爱奇艺、微博、阿里巴巴跌超1%，京东跌0.94%。",
+    "publish_time": "2023-07-18 07:01:19",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Ask HN: What ever happened to the “coming wave” of delivery drones?",
+    "url": "https://news.ycombinator.com/item?id=36764829",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36764829\">Comments</a>",
+    "publish_time": "2023-07-18 06:17:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Official Chrome extension to use iCloud Keychain Passwords",
+    "url": "https://chrome.google.com/webstore/detail/icloud-passwords/pejdijmoenmkgeppbflobdenhhabjlaj",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36764610\">Comments</a>",
+    "publish_time": "2023-07-18 05:55:11",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
