@@ -152,5 +152,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "Windows 11测试版正式发布，微软：Rust 安全可靠，将继续增加使用量",
+    "url": "https://www.infoq.cn/article/BG2UjblpQ8sFl7yAUO8h",
+    "summary": "<p>7月12日，微软发布了Windows 11 测试版 (Insider Preview Build 25905)，在公告中，微软称此版本已经使用 Rust 重写 Windows 11 内核中的部分函数。</p><p>&nbsp;</p><p>“与用 C/C++ 编写的传统程序相比，Rust 在可靠性和安全性方面具有优势。此预览版附带了Rust编写的关键内核功能的早期实现。具体来说是在win32kbase_rs.sys包含GDI 区域的新实现。虽然这是一个小试验，但我们将继续增加 Rust 在内核中的使用。”</p><p>&nbsp;</p><p>目前该功能仅对部分人可见，微软称需要监控反馈并了解效果，然后再将其推送给所有人。</p><p>&nbsp;</p><p>在此之前，Windows 操作系统安全总监 David “dwizzle” Weston 在 4 月中旬的以色列 BlueHat IL 2023 安全会议上，宣布了 Rust 将正式入驻 Windows 系统内核。</p><p>&nbsp;</p><p>他声称微软主要改写了两个项目，DWriteCore 以及 Win32 GDI，包含了一些非常古老的代码。其中 Win32 GDI 写自 80 年代后期 90 年代初期，专为 286/386 设计。</p><p>&nbsp;</p><p>微软首先将 Rust 引入到了 DWriteCore，它属于 Windows DWrite 引擎的 Windows App SDK 实现，用于文本分析、布局和渲染。</p><p>&nbsp;</p><p>这项工作是从 2020 年开始的，目前 DWriteCore 包含约 15.2 万行 Rust 代码和 9.6 万行 C++代码。</p><p>&nbsp;</p><p>另外，微软 Windows 图形设备接口（Win32 GDI）也在进行 Rust 移植，目前已拥有 3.6 万行 Rust 代码。Weston 强调说，对比 C++，Rust 不仅易于编写还易于理解。最新版本的 Windows 11 中使用的就是这个 Rust 版本。</p><p>&nbsp;</p><p>更多阅读：</p><p><a href=\"https://blogs.windows.com/windows-insider/2023/07/12/announcing-windows-11-insider-preview-build-25905/\">https://blogs.windows.com/windows-insider/2023/07/12/announcing-windows-11-insider-preview-build-25905/</a>\"</p><p><a href=\"https://www.infoq.cn/article/HdhHwuPQk4FCdPBpmdlP\">https://www.infoq.cn/article/HdhHwuPQk4FCdPBpmdlP</a>\"</p>",
+    "publish_time": "2023-07-17 21:18:15",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
