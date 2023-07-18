@@ -1236,5 +1236,94 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "男子在沙滩徒手挖出1.5米深大坑",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9C%A8%E6%B2%99%E6%BB%A9%E5%BE%92%E6%89%8B%E6%8C%96%E5%87%BA1.5%E7%B1%B3%E6%B7%B1%E5%A4%A7%E5%9D%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "《不完美受害人》第 1-6 集拍得如何？有哪些值得关注的剧情点？",
+    "url": "https://www.zhihu.com/question/612673909",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "python asyncio的设计晦涩难懂，一点也不python，是做毁了吗？",
+    "url": "https://www.zhihu.com/question/451397804",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "哪位摄影师或摄影作品对你拍照产生过深远影响？",
+    "url": "https://www.zhihu.com/question/607563038",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么nahida翻译成纳西妲？不应该是纳希妲吗？",
+    "url": "https://www.zhihu.com/question/595924866",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "The World Bakes Under Extreme Heat",
+    "url": "https://www.wsj.com/articles/extreme-heat-waves-across-the-world-photos-7cc1544d",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36777502\">Comments</a>",
+    "publish_time": "2023-07-19 02:53:45",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Nintendo 64 Test Cart ROM",
+    "url": "https://www.gamingalexandria.com/wp/2023/07/nintendo-64-test-cart-rom/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36777536\">Comments</a>",
+    "publish_time": "2023-07-19 02:56:42",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Vx32: Portable, efficient, safe user-space execution of untrusted x86 code",
+    "url": "https://pdos.csail.mit.edu/~baford/vm/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36777576\">Comments</a>",
+    "publish_time": "2023-07-19 02:59:07",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Data Parallel, Task Parallel, and Agent Actor Architectures",
+    "url": "https://bytewax.io/blog/data-parallel-task-parallel-and-agent-actor-architectures",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36777396\">Comments</a>",
+    "publish_time": "2023-07-19 02:46:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
