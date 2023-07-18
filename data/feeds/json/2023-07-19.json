@@ -1325,5 +1325,98 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "朱珠不费力的女神范儿",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9C%B1%E7%8F%A0%E4%B8%8D%E8%B4%B9%E5%8A%9B%E7%9A%84%E5%A5%B3%E7%A5%9E%E8%8C%83%E5%84%BF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "属于孟宴臣艺术性的47秒",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B1%9E%E4%BA%8E%E5%AD%9F%E5%AE%B4%E8%87%A3%E8%89%BA%E6%9C%AF%E6%80%A7%E7%9A%8447%E7%A7%92%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "电子支付会让你有「花钱如流水」的感觉吗？有没有「钱不知道怎么就没了」的感觉？",
+    "url": "https://www.zhihu.com/question/612271567",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Accessing Llama 2 from the command-line with the LLM-replicate plugin",
+    "url": "https://simonwillison.net/2023/Jul/18/accessing-llama-2/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36778041\">Comments</a>",
+    "publish_time": "2023-07-19 03:33:33",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Cython 3.0 Released",
+    "url": "https://cython.readthedocs.io/en/latest/src/changes.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36778617\">Comments</a>",
+    "publish_time": "2023-07-19 04:26:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "What is a merge queue, and does your team need one?",
+    "url": "https://graphite.dev/blog/what-is-a-merge-queue",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36777600\">Comments</a>",
+    "publish_time": "2023-07-19 03:00:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Companies Requiring Full-Time In-Office Are Struggling to Recruit New Employees",
+    "url": "https://time.com/6294640/remote-work-winning/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36778639\">Comments</a>",
+    "publish_time": "2023-07-19 04:28:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Val, a high-level systems programming language",
+    "url": "https://www.val-lang.dev/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36778566\">Comments</a>",
+    "publish_time": "2023-07-19 04:22:29",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Qualcomm Works with Meta to Enable On-Device AI Applications Using Llama 2",
+    "url": "https://www.qualcomm.com/news/releases/2023/07/qualcomm-works-with-meta-to-enable-on-device-ai-applications-usi",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36778730\">Comments</a>",
+    "publish_time": "2023-07-19 04:37:03",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
