@@ -1063,5 +1063,118 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "成都大运会熊猫代表团出动",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%E7%86%8A%E7%8C%AB%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%87%BA%E5%8A%A8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "肖战黑伞狙击",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E9%BB%91%E4%BC%9E%E7%8B%99%E5%87%BB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "林允选剧本的眼光",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%85%81%E9%80%89%E5%89%A7%E6%9C%AC%E7%9A%84%E7%9C%BC%E5%85%89%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "健身房的灯等于服装店的镜子",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%81%A5%E8%BA%AB%E6%88%BF%E7%9A%84%E7%81%AF%E7%AD%89%E4%BA%8E%E6%9C%8D%E8%A3%85%E5%BA%97%E7%9A%84%E9%95%9C%E5%AD%90%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Tell HN: CloudFront Is Having an Outage",
+    "url": "https://news.ycombinator.com/item?id=36775816",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36775816\">Comments</a>",
+    "publish_time": "2023-07-19 01:07:29",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Llama 2: an open-source LLM",
+    "url": "https://www.interconnects.ai/p/llama-2-from-meta",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36775173\">Comments</a>",
+    "publish_time": "2023-07-19 00:30:30",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Velt (YC W22) Is Hiring Engineer to Build a Better “CRDT”",
+    "url": "https://www.ycombinator.com/companies/velt/jobs/7W1w74l-founding-fullstack-engineer-crdts-us-only",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36775693\">Comments</a>",
+    "publish_time": "2023-07-19 01:01:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "AutoChain, lightweight and testable alternative to LangChain",
+    "url": "https://github.com/Forethought-Technologies/AutoChain",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36775475\">Comments</a>",
+    "publish_time": "2023-07-19 00:47:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Sweden Sans",
+    "url": "https://identity.sweden.se/en/design-elements/typography",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36775398\">Comments</a>",
+    "publish_time": "2023-07-19 00:43:12",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Payment systems while working at a pizza place",
+    "url": "https://nickjanetakis.com/blog/what-i-learned-about-payment-systems-while-working-at-a-pizza-place",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36775098\">Comments</a>",
+    "publish_time": "2023-07-19 00:27:00",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Llama 2",
+    "url": "https://ai.meta.com/llama/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36774627\">Comments</a>",
+    "publish_time": "2023-07-19 00:01:49",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
