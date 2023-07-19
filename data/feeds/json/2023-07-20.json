@@ -1296,5 +1296,83 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "中华体育精神颂",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8D%8E%E4%BD%93%E8%82%B2%E7%B2%BE%E7%A5%9E%E9%A2%82%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "两意大利解说员歧视中国人被停职",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%A4%E6%84%8F%E5%A4%A7%E5%88%A9%E8%A7%A3%E8%AF%B4%E5%91%98%E6%AD%A7%E8%A7%86%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%A2%AB%E5%81%9C%E8%81%8C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "我的人间烟火",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "你每天努力挣钱是为了什么呢？",
+    "url": "https://www.zhihu.com/question/604147554",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "《三体》为什么被捧到这么高的高度?",
+    "url": "https://www.zhihu.com/question/27571537",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Mini – The Minimal Language",
+    "url": "https://minilanguage.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36788783\">Comments</a>",
+    "publish_time": "2023-07-20 00:13:12",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Launch HN: Twenty.com (YC S23) – Open-source CRM",
+    "url": "https://news.ycombinator.com/item?id=36791434",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36791434\">Comments</a>",
+    "publish_time": "2023-07-20 02:54:50",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Stanford president resigns over manipulated research, will retract 3 papers",
+    "url": "https://stanforddaily.com/2023/07/19/stanford-president-resigns-over-manipulated-research-will-retract-at-least-3-papers/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36790301\">Comments</a>",
+    "publish_time": "2023-07-20 01:43:19",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
