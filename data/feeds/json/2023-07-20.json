@@ -1158,5 +1158,143 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "倡导尊重自然爱护自然的绿色价值观念",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%80%A1%E5%AF%BC%E5%B0%8A%E9%87%8D%E8%87%AA%E7%84%B6%E7%88%B1%E6%8A%A4%E8%87%AA%E7%84%B6%E7%9A%84%E7%BB%BF%E8%89%B2%E4%BB%B7%E5%80%BC%E8%A7%82%E5%BF%B5%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "荣耀Magic V2火爆开售",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8D%A3%E8%80%80Magic+V2%E7%81%AB%E7%88%86%E5%BC%80%E5%94%AE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "与这个夏天更适配的电影",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8E%E8%BF%99%E4%B8%AA%E5%A4%8F%E5%A4%A9%E6%9B%B4%E9%80%82%E9%85%8D%E7%9A%84%E7%94%B5%E5%BD%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "网友画的漫画版孟宴臣",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E7%94%BB%E7%9A%84%E6%BC%AB%E7%94%BB%E7%89%88%E5%AD%9F%E5%AE%B4%E8%87%A3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "王鹤棣赞助大奉打更人组服",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%B5%9E%E5%8A%A9%E5%A4%A7%E5%A5%89%E6%89%93%E6%9B%B4%E4%BA%BA%E7%BB%84%E6%9C%8D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "《西游记》中为什么不让孙悟空一个筋斗云直接带唐僧去取经？",
+    "url": "https://www.zhihu.com/question/612743195",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "迪丽热巴和龚俊主演的《安乐传》开播，你认为它能否成为一部爆款？",
+    "url": "https://www.zhihu.com/question/611875869",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "古代闹饥荒宁愿啃树皮也不愿意下河捞鱼，是河里面的鱼虾不好吗？",
+    "url": "https://www.zhihu.com/question/607944569",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "支撑百万行代码核心系统运转，太平洋保险与OceanBase的升级之路",
+    "url": "https://www.infoq.cn/article/fGutdaZ4SmcEjS9BDV9r",
+    "summary": "<p>根据国资委 79 号文件，关键行业、关键企业被要求到 2027 年百分百完成信创替代，替换范围包括芯片、操作系统、中间件、数据库等领域。这也意味着：自 2023 年开始，企业将进入信创关键成果期，没有太多试错可能，每一个环节的选型都需要慎重抉择，才有可能在 2027 年完成信创体系的整体建立。</p><p></p><p>作为基础软件的关键一环，数据库选型一直是很多企业头疼的问题，一旦选错将会影响未来数年甚至更久的业务开展，尤其是在当前信创体系建设的关键成果期，时间紧张，更换难度极高。据相关媒体统计，国内市场当前存在二百多种数据库产品，这无疑大大增加了选型难度。</p><p></p><p>那么，如何从广泛的产品中选择一款符合信创要求的数据库，并保证其与整个信创体系的上下游完美适配？解绑 Oracle 只是其中一环，如何做到与广泛存在的 Oracle 相关服务全面解绑？更换为国产数据库之后，如何保证性能不受影响，甚至还能有所提升？这些问题，太平洋保险用了一年的亲身实践给出了答案。</p><p></p><h1>成功解绑，一年完成 80 余个重要业务全栈国产升级</h1><p></p><p></p><p>作为国内金融保险头部企业之一，太平洋保险在 2022 年底完成了 80 余个重要业务系统的全栈国产升级。据悉，太平洋保险在硬件上选用了海光芯片，在软件上选用了 OceanBase 分布式数据库和统信 UOS 操作系统软件系统。</p><p></p><p>2021 年初，太平洋保险启动了国产分布式数据库的调研工作，从功能、性能、易用性、完整性、可移植性、可靠性、扩展性、安全性等指标进行综合评估，最终选择用 OceanBase 进行数据库的升级。</p><p></p><p>一方面，作为自 2010 年开始完全自主研发的分布式关系型数据库，OceanBase 连续 10 年稳定支撑双 11，如今已应用于超过 1/4 国内头部金融机构，高可用、高性能、在线扩展等已经完成验证，高度兼容 SQL 标准和主流关系数据库，并且成本相对较低。</p><p></p><p>另一方面，OceanBase 本身已与信创体系广泛的上下游完成了适配，可以在企业内部与其他国产软硬件高效协同。</p><p></p><p>在评估阶段，太平洋保险遇到的一大核心难关是原有体系与传统数据库绑定过深。太平洋保险此次首先升级的核心系统“太保 95500 客服系统”（下文简称：P17），拥有百万行代码，与传统数据库绑定程度非常深，还采用了很多传统数据库生态的配套产品，如自定义锁、自治事务、嵌套表、索引组织表、cognos 等。</p><p></p><p>作为太保产、寿、健康、长江等所有子公司客服系统的整合，P17 涵盖了几乎所有子公司业务的服务入口功能，对于系统时效性、数据流转的稳定性、复杂报表处理和响应速度的要求非常高。这意味着 P17 这款在太平洋保险最“古老”的系统之一，不仅在过去累积使用了非常多以传统数据库为主的适配工具，还在内部处于“牵一发动全身”的地位。</p><p></p><p>不仅如此，太平洋保险还希望替换传统数据库服务器，包括 OLTP 以及 OLAP 类型的应用，解决服务总体拥有成本高以及每年维保费用高的问题。</p><p></p><p>借着将数据库升级至国产数据库的机会，太平洋保险还希望建立分布式数据库服务能力体系，提升 IT 中心对于分布式数据库从设计、开发、质量到运维的技术自主掌控能力，真正用好分布式数据库技术，实现企业整体降本增效的目的。</p><p></p><p>如上诉求意味着，太平洋保险需要准备好传统数据库生态产品替换的全套方案及相关预案，新的数据库不仅要支持过去所有的业务数据架构，还要能够面向未来具备可扩展性。</p><p></p><h1>全面迁移：交易成功率达四个九，性能全面提升</h1><p></p><p></p><p>数据库选型确定后，由太保集团数智研究院、P17 项目组、数据库团队与 OceanBase 厂商组成的联合攻坚组，共同协作进行技术和项目攻坚，共梳理出 321 个 oracleJob、176 张 cognos 报表、665 项视图改造、15 项五千五百多处语法兼容改造，以及针对 DS 的数据导入导出组件重构等。攻坚组用国产分布式架构彻底替代传统商用主备架构，重点破除数据库与操作系统、中间件之间的耦合。</p><p></p><p>如何低成本平稳升级？项目组巧妙地利用 OceanBase 单集群内同时兼容 MySQL 和 Oracle 两种主流数据库生态，实现了分散业务系统的全面整合，最大程度降低了现有系统的扩展和迁移改造成本；利用迁移评估、数据迁移、实时数据同步和增量数据订阅于一体的数据传输服务，实现了低风险、低成本、高效率的数据流通，构建了稳定、安全的数据架构。据悉，在 OceanBase 为太平洋保险打造的智能决策服务平台中，MySQL 租户与寿险统一承保平台 oracle 租户共用集群，总计 40 个集群里有 20 个 MySQL 租户，140 多个 Oracle 租户。</p><p></p><p>“我们厂商跟用户侧希望达到的效果是稳定与原数据库兼容，给到用户侧信心，让双方的工作变简单，变得标准化、流程化、制式化，使双方降低人力投入。”蚂蚁集团 OceanBase 华东区金融技术服务总监郭文谈道。</p><p></p><p>在标准化兼容过程中，项目组从寿险、科技到产险，到健康险和后续的养老险，已经实现了数百套系统的落地实践；制定 33 类标准规范和 28 类最佳实践，打磨出 16 款数据库的专项工具，攻坚各项难点，最终实现目标。</p><p></p><p>在建设整体分布式数据库服务能力体系时，项目组从数据库应用设计、存储、转储等方面优化出了全栈信创分布式数据库功能架构。</p><p></p><p>具体而言，项目组对于 OceanBase 应用设计原则是尽可能让数据访问、操作在内存中完成，每天定期合并释放 memstore 内存及删除记录空间，最大限度减少写放大、读放大。基于 OceanBase 存储架构，项目组在设计集群时核心业务系统集群独立部署，控制集群租户数量、合理利用分区优化数据生命周期管理，以最小化容灾、备份数据集，减少转储次数进而减少非计划合并次数，避免读毛刺现象。</p><p></p><p>工具创新让数据库系统升级得以顺利加速推进。项目组自研了“指南针”、索引建议助手、OMS 迁移工具等。以应用改造预评估工具“指南针”为例，它能够对 Oracle 数据库进行改造全面评估预扫描，包括近 20 个检查大类近 200 多个检查项，能够对存储过程代码进行扫描分析，并给出问题原因、代码位置、建议，弥补了存储过程改造问题排查工具的空白；能够辅助识别冗余大表、冗余索引，有助“数据库减负”。“指南针”提升了项目组问题排查的效率，缩短了项目周期从而降低应用改造成本。</p><p></p><p>在 P17 系统迁移过程中，“指南针”扫描出了约 6000 个改造项。如果采用人工方式进行排查，平均每 2 个问题需要 1 小时。对比来看，“指南针”为单个项目节约人力成本 12.6 人月。</p><p></p><p>“OceanBase 存储的压缩性能非常卓越，很省硬件成本”，太保集团数智研究院首席数据库专家林春解释道，保险企业都有很多大数据库，面临很大的分布式改造压力，但是迁移到 OceanBase 后不用再做分布式改造了，又能做到数据资源密集利用，非常有价值。</p><p></p><p>OceanBase 无损容灾、异地多活技术和混合负载（HTAP）的高性能分布式计算引擎能力再一次经受住了考验。据悉，项目组将 Paxos 一致性算法运用于数据库主备副本之间的同步，实现了在多数派副本正常的情况下保证数据不丢失和服务不中断（RPO=0，RTO&lt;30）；通过改进 LSM 树解决了集中式数据库无法平衡“性能”和“压缩”的难题，降低了海量数据存储的成本；通过向量化引擎、优化器改写优化能力和大规模分布式并行执行技术显著提升了处理性能。</p><p></p><p>OceanBase 让太平洋保险对于数据库系统有了更强的掌控力。林春表示：“选择一个国产的分布式数据库，最重要的就是技术兜底能力。那么，bug 的修复就是技术兜底能力一个很好的印证。如果你没有对内核的掌控，没有办法以这么快的速度修复 bug。”OceanBase 400 多万行代码都是自己一行一行写出来的，蚂蚁集团 OceanBase 副总裁王爽谈道：“完全自主研发，完全可控，我们不依赖于任何一个开源软件。”</p><p></p><p>从 2022 年 12 月 18 号至今，P17 核心系统已经成功运行了 200 多天，确保太平洋保险交易成功率达到了 99.99%。过往，很多人对国产数据库的评价是：需要几个不同的数据库组合在一起才能达到原来一个传统数据库的性能。如今，太平洋保险使用 OceanBase 数据库实现了寿险交易系统的替换，监管报送批量场景性能提升 3 倍。</p><p></p><p>现在，太平洋保险全栈信创数据库已投产上线并在稳定运行。据悉，在保持高运行性能、高可用能力的同时，太平洋保险数据库软件维保费用大幅降低，设备投入也得到节省。其中，OceanBase 的高级压缩技术，结合“数据库瘦身”，让太平洋保险的存储容量平均节省 80% 以上。与此同时，太平洋保险分析型数据库的数据加工处理能力提升 10 倍，构建起了全面的实时数据处理和服务能力。应用系统方面，太平洋保险全栈信创数据库的弹性扩缩容、处理速度、数据加工能力均实现大幅提升，为集团数字化转型打下了坚实的技术基础。</p><p></p><p>如果说 P17 客服系统成功完成 OceanBase 迁移上线并平稳运行，是太保集团第一个核心攻坚成功的信创数字化转型标杆系统，具有里程碑意义；那么可以说，太保集团的全栈国产化实践则为金融保险行业起到了很好的示范作用。</p><p></p><p>在蚂蚁集团 OceanBase 副总裁王爽看来：“信创不是简单替换，关键是带来的好处是什么？我们认为集中式数据库或传统的数据库转向分布式数据库，是一次对系统实现升级的机会。我跟很多用户聊过，目前分布式数据库的性能已经不是问题，稳定性才是所有升级的第一要素。信创首先是‘创’，然后才是‘信’。创是一定要有创新，信是可控，所以我们认为实现可持续的自主可控才是符合信创标准的产品。”OceanBase 满足了“数字经济”时代各行业数字化转型对基础设施架构的新需要。</p>",
+    "publish_time": "2023-07-20 00:04:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "Target's EasySweep – Simplifying Skimmer Detection for All",
+    "url": "https://tech.target.com/blog/cybersecurity-easysweep",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36788831\">Comments</a>",
+    "publish_time": "2023-07-20 00:16:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A Checklist for Choosing Type",
+    "url": "https://fonts.google.com/knowledge/choosing_type/a_checklist_for_choosing_type",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36790280\">Comments</a>",
+    "publish_time": "2023-07-20 01:41:48",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Beyond introvert vs. extrovert",
+    "url": "https://www.vipshek.com/blog/interaction",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36789010\">Comments</a>",
+    "publish_time": "2023-07-20 00:26:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Asynchronous Rust on Cortex-M Microcontrollers",
+    "url": "https://interrupt.memfault.com/blog/embedded-async-rust",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36790238\">Comments</a>",
+    "publish_time": "2023-07-20 01:39:08",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Remote Code Execution in OpenSSH’s forwarded SSH-agent",
+    "url": "https://blog.qualys.com/vulnerabilities-threat-research/2023/07/19/cve-2023-38408-remote-code-execution-in-opensshs-forwarded-ssh-agent",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36790196\">Comments</a>",
+    "publish_time": "2023-07-20 01:36:42",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
