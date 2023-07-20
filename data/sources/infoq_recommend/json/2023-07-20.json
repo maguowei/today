@@ -9,5 +9,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "持续集成的关键：产品反馈驱动创实践",
+    "url": "https://www.infoq.cn/article/wYLteaRbYxU8pgQIairg",
+    "summary": "<p>缩短持续集成（CI）系统的反馈时间并优化测试方法和类，可为开发团队带来更为有效的反馈。据 Tobias Geyer 所说，CI 系统是开发过程中的重要一部分，且应被重视起来。</p><p></p><p>Tobias Geyer 在<a href=\"https://romaniatesting.ro/\">2023年罗马尼亚测试大会</a>\"上以测试人员的身份谈到了集成系统的改进问题。</p><p>在 Geyer 刚入职时，公司的持续集成系统是一台堆在桌子底下的老旧开发电脑，没人负责也没人有时间做维护。他说，这台电脑的速度太慢导致反馈周期非常长，开发人员完全忽视了 CI 系统的反馈。</p><p></p><p>Geyer 称，优化反馈时间的一个捷径是在工作时间跳过不必要的构建步骤，并将构建限制为每晚一次。</p><p>一个更难处理的瓶颈问题则是磁盘的 I/O。构建读取和写入的数据量太大，磁盘没办法跟得上。Geyer 说他最后找到 IT 部门的人把 CI 系统从开发电脑挪到了数据中心的虚拟机上，解决了磁盘的 I/O 问题，并将系统扩展到了两台机器上，使其能够并行运行更多的构建。</p><p></p><p>他们将测试按执行快慢分为几类，在快反馈 CI 构建中只运行测试的一个子集，速度慢的测试则被放到了执行频率更低的专用构建中。Geyer 解释道，这么做让他们得到的反馈依旧完整，且大部分反馈要比之前快上许多。</p><p></p><p>Geyer 描述了他们是如何优化测试的方法和类：</p><p></p><p></p><blockquote>在找出运行缓慢的测试后，我们将其当作技术债务来处理。为改进测试，我们给开发者们提出了“测试债务预算”，开发者们对这些问题的处理方式各不相同：将测试数据精简，只保留有关数据，从而缩短测试的设置时间引入模拟测试，不再需要预加载任何测试数据让产品代码更具可测试性，使原本需要集成测试的部分可被单元测试替代完成</blockquote><p></p><p></p><p>Geyer 总结，不一定要深刻理解技术领域才能带来影响：</p><p></p><p></p><blockquote>我可以利用我测量、实验和协作的测试技巧让事情变得更好，即使这也意味着别人必须去完成实际的实施工作。</blockquote><p></p><p></p><p>InfoQ 就 CI 系统的改进话题采访了 Tobias Geyer。</p><p></p><p>InfoQ：可以给出一个跳过构建步骤的例子吗？</p><p></p><p></p><blockquote>Tobias Geyer：效果最明显的例子是我们的产品混淆。每个产品构建在交付给客户之前都会被混淆，而这些被混淆的产品很明显是需要经过测试的。但产品混淆过程至少需要三十分钟，因此我们在白天跳过这一步骤，并在晚上将产品混淆并进行测试。</blockquote><p></p><p></p><p>InfoQ：你们对构建过程和平台有什么重要的变动吗？</p><p></p><p></p><blockquote>Geyer：我们将我们的构建系统从 Ant 和 Windows 的批处理迁移到了 Gradle。主要工作是由我们的团队中的开发者们完成，我负责处理所有与测试执行相关的工作。引入测试 CI 系统这一改变虽然明显但仍然重要，我们得以在不中断正常开发流程的前提下，准备并测试 CI 系统中的变更（如插件更新、新增构建节点等等）。</blockquote><p></p><p></p><p>InfoQ：你们是如何鼓励在不同团队间的持续集成知识共享？</p><p></p><p></p><blockquote>Geyer：我是在公司的其他部门中寻找有过在 CI 系统上工作经历且具备类似技术栈的人。我们定期开会讨论（CI 系统）最近更新和大家所面临的问题。很多时候某个团队对问题的解决方案是可以被复用的。能看到其他人的进展和他们的结果是很好的。有时候一些团队想要引入的变更会在他们的团队内部遇到阻力，“其他团队有过这方面的正向经验”，这句话有助于说服他人。</blockquote><p></p><p></p><p>InfoQ：对于不满自己 CI 解决方案的团队，你有什么建议吗？</p><p></p><p></p><blockquote>Geyer：像是对待其他软件开发项目一样看待（CI 系统）。把困扰自己的问题列出来，用对待 bug 的方式处理它们。也就是说，对这些问题进行优先级排序、分析，并合作修复。我想强调“合作”这点，和 IT 部门的探讨对我们修复部分问题而言至关重要。</blockquote><p></p><p></p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2023/06/CI-product-feedback/\">Treat Your CI System as a Product for Faster and Better Feedback</a>\"</p><p></p><p>相关阅读：</p><p><a href=\"https://www.infoq.cn/article/H7CJpGyk0BRjUTAqIXbM\">Terraform引入新的CI/CD工具，增加对Azure Linux的支持</a>\"</p><p><a href=\"https://www.infoq.cn/article/LFa4ESMJOMY66HtTjYsG\">中国企业研发高效能白皮书-CI/CD篇</a>\"</p>",
+    "publish_time": "2023-07-20 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
