@@ -570,5 +570,27 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "LLM Constellation",
+    "url": "https://llmconstellation.olafblitz.repl.co/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36810230\">Comments</a>",
+    "publish_time": "2023-07-21 13:13:25",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Sub-Pixel Distance Transform",
+    "url": "https://acko.net/blog/subpixel-distance-transform/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36809404\">Comments</a>",
+    "publish_time": "2023-07-21 10:40:22",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
