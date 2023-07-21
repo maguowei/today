@@ -1,0 +1,13 @@
+[
+  {
+    "title": "MySQL之父：不要把一个优秀的开发者提升为管理者，那会是种资源浪费",
+    "url": "https://www.infoq.cn/article/aRSHCLvmR46Yfe1epPiB",
+    "summary": "<p>7 月21日，<a href=\"https://archsummit.infoq.cn/2023/shenzhen?utm_source=infoq&amp;utm_medium=conference\">ArchSummit 全球架构师峰</a>\"会在深圳召开。会上，MySQL 数据库的原始版本主要作者以及MariaDB基金会的首席技术官，Michael “Monty” Widenius（以下简称“Monty”）在主论坛上分享了主题为《数据库技术前景理解，以及技术人的职业发展》的精彩演讲。</p><p></p><p>Monty 是开源 MySQL 数据库原始版本的主要作者之一，并是 MySQL AB 公司的创始成员之一。此外，他还是风险投资公司 OpenOcean 的创始人和普通合伙人。凭借他在数据库领域的杰出贡献和丰富的行业经验，Monty 在技术界享有盛誉。</p><p></p><p>在本次大会的 <a href=\"https://archsummit.infoq.cn/2023/shenzhen/presentation/5399\">Keynote 主论坛的分享</a>\"中，Monty提到了为什么他会认为大数据解决方案是一种伪需求。Monty认为，大多数公司不会有像Facebook、Twitter、Bilibili、TikTok等公司那样多的真实数据需要“立即”访问。这些巨头们所使用的大数据解决方案并不适用于其他公司。</p><p></p><p>在不久的将来，大多数公司可以在几台机器上运行它们认为的大数据：内存现在大约2100美元/T，大多数公司可以买得起200G的RAM；现在SSD是50美元/T；用户可以从Nimbus获得100Tb的SSD，从Dell获得960Tb。16T可以很容易地购买到。如今，MariaDB可以轻松处理0.5T的活跃数据。只有当数据超过1T时，才需要考虑分析型数据库。很少有用户需要超过0.5T的数据。</p><p></p><p>在谈及技术人发展路径时，<a href=\"https://www.infoq.cn/article/3xtSDtHUgTKRsyw3kZXH\">Monty</a>\" 表示，他自创立MySQL项目和MariaDB之后，只有在最开始时会亲自做一些管理事宜，后面就一直雇人来进行管理公司，做客户服务并领导公司，这样他就可以继续专注于架构、开发和领导MySOL/MariaDB开发团队。</p><p></p><p>因为他认为优秀的程序员十分难得。程序员需要8-10年，甚至更长的时间才能达到他们的巅峰。优秀的程序员是企业的宝贵资源，他们甚至70年间都可以输出高质量的代码。</p><p></p><p>Monty 表示，“不要因为把一个优秀的程序员提升为经理人而荒废了他在编程领域的建树。一个好的程序员不一定是一个好的管理者。管理者可以通过赋予他们更多的责任来提升他们的价值，比如设计更大更复杂的系统，或者是帮助其他人编写代码，但不能是管理工作”。</p><p></p>",
+    "publish_time": "2023-07-22 00:55:10",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
