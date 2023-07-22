@@ -86,5 +86,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "openai 已经放弃对 ip 的限制了？",
+    "url": "https://www.v2ex.com/t/958763",
+    "summary": "justincnn: <p>以前被 bloack 的 vpn ip ，今天发现又可以直接登录了。</p>\n<p>这个是不是所谓的有竞争真好</p>",
+    "publish_time": "2023-07-22 10:41:23",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "光猫改桥接后速度降低的问题与运营商和厂商的探讨",
+    "url": "https://www.v2ex.com/t/958813",
+    "summary": "oblivion: 最近经常看到有人被光猫桥接速度变慢的问题困扰，并且经过这些初步的排查后仍无效果：<br />1.光猫性能问题：路由可以硬件加速，桥接为 linux bridge 软桥接。<br />2.拨号设备性能问题（千兆接口的路由器不代表性能有千兆，性能有千兆不代表 PPPoE 性能仍有千兆）<br />3.中兴光猫的配置方式问题：中兴光猫特有的 FPGA 可编程加速，需要删除原有连接新建一个原生桥接才能硬件加速，路由直接切换桥接为软桥接<br /><br />等等常见情况排查过后，还是有遇到了一条线路无论如何都是速度不正常，<br />联系了运营商，运营商排查多次后联系了 OLT 厂家的技术支持，光猫厂家的技术支持，约了今天上门排查，<br />经过大约半天的抓包测试调整，<br /><br />最终发现是光猫在桥接后不能获取到精确时间导致的，桥接后光猫的 NTP 不工作，为 1970 年开始的默认时间，<br />PON 类协议天生决定了对时钟要求非常高，时间不对或者时差过大会导致 PON 接口时间窗出现错误，与邻居的光猫在时间片上产生了一些冲突会丢包。<br /><br />光猫路由模式情况下可以正常 NTP 获取到精确时间，此时工作正常<br />桥接后部分地区配置问题不能在 TR069 网络使用 NTP 获取时间，<br />也无法在 OLT 下学习到时间，就会导致光猫桥接后速度变慢的问题（重传率过高最终导致约半数重传）。<br /><br />解决方案：在运营商的配合下为光猫配置了正确的 NTP 服务地址（ TR069 内网 NTP ）后桥接速度正常达标。",
+    "publish_time": "2023-07-22 16:25:35",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
