@@ -1,0 +1,13 @@
+[
+  {
+    "title": "如果你曾对开源项目涉政感到恶心，来看个反向的乐呵乐呵",
+    "url": "https://www.v2ex.com/t/958734",
+    "summary": "eagleoflqj: <p><a href=\"https://github.com/LibreService/my_rime/pull/17\" rel=\"nofollow\">https://github.com/LibreService/my_rime/pull/17</a></p>\n<p>说下背景。我把 RIME 移植到网页了，一开始只有拼音一种输入法，这个人 L 想让我<a href=\"https://github.com/rime/librime/issues/317#issuecomment-1368281381\" rel=\"nofollow\">支持方言输入</a>。\n我觉得合理，就把 RIME 官方的粤语和吴语都支持了。</p>\n<p>后来我给支持的输入法加了个分类（方便从一众输入法里找到自己自己感兴趣的），把粤语放在方言下，L 立马不干了，一上来就在 RIME tg 群里说“myrime 呢度將粵語拼音同吳語拼音定成方言，我有啲唔爽” “啲大陸人就係中意乜都話人方言”。以我对粤文粗浅的理解，这话是有些火药味在里面的。</p>\n<p>说方言是你，说不是方言也是你，我觉得有政治诉求在里面，于是在 RIME qq 群里跟大家讨论了一下。有人提醒“搞不好是 GD”，我就进了 L 的粤语 tg 群，翻了翻记录，嗯，不能说人人都是，不过群聊的内容氛围跟大家熟悉的一些论坛如出一辙，就是换用粤文表达而已。于是我说，“可以把搞不好删了”，并得到另一个误入过 L 群的人响应。</p>\n<p>到这里我已经不想 merge 这个 PR 了，结果 L 开始煽动他的群友过来搞事，我先 off-topic 了一个，没完，还说我在自己的 repo 里“好大的官威”，哈哈哈哈哈，这次直接删了，给孩子在粤语群里整破防了。</p>\n<p>折腾了半天星星就掉了一颗，敢情就是一帮没技术没贡献不会 fork 连星星都不舍得给的废青，白瞎了我写那么详细的 ci 和定制文档。</p>",
+    "publish_time": "2023-07-22 04:39:10",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  }
+]
