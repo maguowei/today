@@ -592,5 +592,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "领风踏浪启新程",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%A2%86%E9%A3%8E%E8%B8%8F%E6%B5%AA%E5%90%AF%E6%96%B0%E7%A8%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "连接灵感充电桩",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%9E%E6%8E%A5%E7%81%B5%E6%84%9F%E5%85%85%E7%94%B5%E6%A1%A9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "周深夸黄渤老师有社交责任感",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%A4%B8%E9%BB%84%E6%B8%A4%E8%80%81%E5%B8%88%E6%9C%89%E7%A4%BE%E4%BA%A4%E8%B4%A3%E4%BB%BB%E6%84%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
