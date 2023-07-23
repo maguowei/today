@@ -1346,5 +1346,36 @@
       "desc": "知乎热榜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
     }
+  },
+  {
+    "title": "都市接到办热线037165732233",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%83%BD%E5%B8%82%E6%8E%A5%E5%88%B0%E5%8A%9E%E7%83%AD%E7%BA%BF037165732233%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "OpenBSD: AMD processor microcode support added to -current",
+    "url": "https://undeadly.org/cgi?action=article;sid=20230723185853",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36838511\">Comments</a>",
+    "publish_time": "2023-07-24 02:59:27",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "PLJS – JavaScript Language Plugin for PostreSQL",
+    "url": "https://github.com/plv8/pljs",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36838994\">Comments</a>",
+    "publish_time": "2023-07-24 03:43:45",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
