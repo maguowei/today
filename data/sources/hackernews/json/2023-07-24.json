@@ -383,5 +383,16 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Never run ldd on unknown executables (2009)",
+    "url": "https://catonmat.net/ldd-arbitrary-code-execution",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36839800\">Comments</a>",
+    "publish_time": "2023-07-24 05:01:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
