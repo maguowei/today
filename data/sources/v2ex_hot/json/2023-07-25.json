@@ -75,5 +75,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "2023 年大家手头闲置小额资金（几万～几十万）除了躺银行，余额宝之类外，还有其它增加额外收益的方式吗？",
+    "url": "https://www.v2ex.com/t/959473",
+    "summary": "whooami:",
+    "publish_time": "2023-07-25 11:06:28",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "安全 QA 说只允许 POST/GET 请求，其它的都不安全？",
+    "url": "https://www.v2ex.com/t/959602",
+    "summary": "dog82: <p>其它的 HTTP 方法都被评为中级风险，不整改估计过不了安全关，系统没法上线，这事如何破？\n我严格要求团队遵循 restful 规范，写了一堆 PUT/Delete/BATCH</p>",
+    "publish_time": "2023-07-25 16:23:55",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
