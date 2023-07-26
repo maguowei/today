@@ -20,5 +20,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "Telegram 是如何做到十几个万人群还是如此流畅的？",
+    "url": "https://www.v2ex.com/t/959739",
+    "summary": "airbotgo: 1 、Android 、iOS 都非常流畅，除了 Web 网页版有时候略卡<br />十几个万人群，要做到这种流畅程度，有哪些值得学习的？<br /><br />2 、本地缓存极少<br />设置本地缓存仅保存 1 周，所有内容存储云端。目前本地缓存总共占 300M 。<br /><br />3 、多端同步<br />Android 、iOS 、Web 三端都在使用，同步做得非常好。它还包括 Windows 、Linux 、macOS 等客户端，如此多的平台支持，同步功能能做到如此程度，简直奇迹。<br /><br />我的日常使用：<br />1 ）聊天沟通；<br />2 ）听歌（自己上传的音频）；看 MV （ B 站收集的音乐视频）；<br />3 ）文件备份（中文搜索很烂，目前加标签、主动加分隔符号将就用）；<br />4 ）树洞（建个私有频道，写些乱七八糟的东西）；<br />5 ）结合 Tasker + 脚本，进行指定图片、短信的备份；<br /><br />有没有大佬就 1 、2 个点分析下自己的见解，Telegram 有哪些值得学习的地方？",
+    "publish_time": "2023-07-26 08:29:16",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "你不止活一世",
+    "url": "https://www.v2ex.com/t/959747",
+    "summary": "tmplinshi: <p>不谈灵性，也不谈科学。</p>\n<p>简单的问问你自己：此刻的你正在思考，你能意识到自己的存在。死是什么意思？为什么你会意识不到自己的存在？</p>",
+    "publish_time": "2023-07-26 09:00:48",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "韩国团队的常温常压超导，视频来了",
+    "url": "https://www.v2ex.com/t/959789",
+    "summary": "lizon: <p>arxiv 2307.12037</p>\n<p>arxiv 2307.12008</p>\n<p>看制备环境基本等于手搓（高中化学实验室即可）</p>\n<p><a href=\"https://sciencecast.org/casts/suc384jly50n\" rel=\"nofollow\">https://sciencecast.org/casts/suc384jly50n</a></p>\n<p>不懂，来大佬解读一下</p>\n<p>附某乎： <a href=\"https://www.zhihu.com/question/613850973\" rel=\"nofollow\">https://www.zhihu.com/question/613850973</a></p>",
+    "publish_time": "2023-07-26 10:18:58",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
