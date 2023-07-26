@@ -53,5 +53,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "有便宜的机场推荐吗?最好是月付 1-3 元的",
+    "url": "https://www.v2ex.com/t/959812",
+    "summary": "crazyTanuki: <p>之前一直用的一元机场,FSCLOUD 之类的,很便宜,就是跑路了,有 v 友推荐一下吗?就月付 1-3 元的,凑合用就行</p>",
+    "publish_time": "2023-07-26 11:13:07",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "一个人做低代码平台，还有机会吗？",
+    "url": "https://www.v2ex.com/t/959868",
+    "summary": "idlewater: <p>是的，你没看错，是一个人做一个低代码平台。<br />\n一人肝了好几年了，基本思路：<br />\n1 、前端可视化拖拽，逻辑编排+脚本支持，react 实现<br />\n该部分前端已发布一个开源项目： <a href=\"https://github.com/codebdy/rxdrag\" rel=\"nofollow\">https://github.com/codebdy/rxdrag</a><br />\n2 、后端基于微内核（或者微服务），UML 类图转 Grahpql 接口。<br />\n通过微服务扩展复杂逻辑或者基础设施，通过脚本跟逻辑编排扩展业务逻辑。<br />\n该部分基本流程已经跑通，代码开源（ golang+mysql ）  </p>\n<p>相关文章：<br />\n<a href=\"https://juejin.cn/post/7205361008272326716\" rel=\"nofollow\">实践，制作一个高扩展、可视化低代码前端，详实、完整（掘金）</a><br />\n<a href=\"https://zhuanlan.zhihu.com/p/610182592\" rel=\"nofollow\">实践，制作一个高扩展、可视化低代码前端，详实、完整（知乎）</a><br />\n<a href=\"https://zhuanlan.zhihu.com/p/644873396\" rel=\"nofollow\">挑战零代码：可视化逻辑编排（知乎）</a><br />\n<a href=\"https://juejin.cn/post/7257814347463671863\" rel=\"nofollow\">挑战零代码：可视化逻辑编排（掘金）</a> </p>\n<p>目标：<br />\n做一个低代码平台，取名乐搭（ Leda ）。</p>\n<p>目前整个项目组，只有一个人，有机会吗？</p>",
+    "publish_time": "2023-07-26 13:43:09",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
