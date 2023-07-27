@@ -1318,5 +1318,76 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "台风杜苏芮预计28日登陆",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%9D%9C%E8%8B%8F%E8%8A%AE%E9%A2%84%E8%AE%A128%E6%97%A5%E7%99%BB%E9%99%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "知乎网友着手复现韩国常温超导发现",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%9F%A5%E4%B9%8E%E7%BD%91%E5%8F%8B%E7%9D%80%E6%89%8B%E5%A4%8D%E7%8E%B0%E9%9F%A9%E5%9B%BD%E5%B8%B8%E6%B8%A9%E8%B6%85%E5%AF%BC%E5%8F%91%E7%8E%B0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "有推荐旅游的城市吗？",
+    "url": "https://www.zhihu.com/question/611140850",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "LK-99",
+    "url": "https://en.wikipedia.org/wiki/LK-99",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36897300\">Comments</a>",
+    "publish_time": "2023-07-28 01:38:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Techdirt has been deleted from Bing and DuckDuckGo",
+    "url": "https://www.techdirt.com/2023/07/27/techdirt-has-been-deleted-from-bing-and-duckduckgo/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36898217\">Comments</a>",
+    "publish_time": "2023-07-28 02:37:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Some alloys don't change size when heated – recent work on why",
+    "url": "https://www.caltech.edu/about/news/some-alloys-dont-change-size-when-heated-we-now-know-why",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36897958\">Comments</a>",
+    "publish_time": "2023-07-28 02:18:47",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Austral Programming Language",
+    "url": "https://austral-lang.org",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36898612\">Comments</a>",
+    "publish_time": "2023-07-28 03:08:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
