@@ -1698,5 +1698,76 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "张晚意说玱玹最后孤寡一生",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E8%AF%B4%E7%8E%B1%E7%8E%B9%E6%9C%80%E5%90%8E%E5%AD%A4%E5%AF%A1%E4%B8%80%E7%94%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "有哪些适合幼儿和儿童观看的动画片？",
+    "url": "https://www.zhihu.com/question/20960587",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "被领导批评后，心里负担很重，不知道怎么排解，怎么办？",
+    "url": "https://www.zhihu.com/question/325326874",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Kill DWM (on Windows11) for less input lag and better performance",
+    "url": "https://github.com/nebuloss/killer",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36899029\">Comments</a>",
+    "publish_time": "2023-07-28 03:39:24",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "LeMUR: LLMs for Audio and Speech",
+    "url": "https://www.assemblyai.com/blog/lemur/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36900294\">Comments</a>",
+    "publish_time": "2023-07-28 05:18:16",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Berlin Review: LAN Party",
+    "url": "https://032c.com/magazine/berlin-review-lan-party",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36898833\">Comments</a>",
+    "publish_time": "2023-07-28 03:26:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Commander Keen's adaptive tile refresh",
+    "url": "https://fabiensanglard.net/ega/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36898749\">Comments</a>",
+    "publish_time": "2023-07-28 03:18:42",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
