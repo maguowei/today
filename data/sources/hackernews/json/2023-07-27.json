@@ -856,5 +856,38 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Slack Is Down",
+    "url": "https://status.slack.com/2023-07/08e3781ccbef33d5",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36891135\">Comments</a>",
+    "publish_time": "2023-07-27 17:41:11",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ask HN: Is Slack having some trouble?",
+    "url": "https://news.ycombinator.com/item?id=36890901",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36890901\">Comments</a>",
+    "publish_time": "2023-07-27 17:11:06",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Adapter Pattern in Go",
+    "url": "https://bitfieldconsulting.com/golang/adapter",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36890681\">Comments</a>",
+    "publish_time": "2023-07-27 16:43:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
