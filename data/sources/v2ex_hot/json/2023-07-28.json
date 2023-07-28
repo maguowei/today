@@ -1,0 +1,13 @@
+[
+  {
+    "title": "[抽奖] 评论送两台 OneKey Mini",
+    "url": "https://www.v2ex.com/t/960398",
+    "summary": "EyebrowsWhite: <p>大家好，</p>\n<p><strong>首先说明一下本次抽奖的参与条件，在本帖内评论即可，无需注册任何服务。</strong></p>\n<p>奖品：<a href=\"https://onekey.so/products/onekey-mini-hardware-wallet/\" rel=\"nofollow\">OneKey Mini</a>[包邮]（共两台）</p>\n<p>参与条件：在本帖下方评论，每个用户仅可评论一条，评论超过一条自动取消中奖资格</p>\n<p>活动截止时间：北京时间 2023 年 7 月 28 日 18:00</p>\n<p>活动开奖时间：北京时间 2023 年 7 月 28 日 20:00</p>\n<p>活动开奖办法：随机数抽取，具体见下方 javascript 代码（ ChatGPT 帮我写的），中奖者通过本站 @系统通知，并附言在本帖下方。</p>\n<p><strong>如果您对活动由疑问可以通过我的<a href=\"https://twitter.com/EyebrowKang\" rel=\"nofollow\">twitter</a>或者发送邮件到<code>potato_waxen_0y@icloud.com</code>联系我</strong></p>\n<p>另外，举办本次活动是由于前段时间很多人通过<a href=\"https://card.onekey.so/?i=UXJZ9B\" rel=\"nofollow\">我的邀请链接</a>注册了<a href=\"https://card.onekey.so/\" rel=\"nofollow\">OneKey Card</a>，所以 OneKey 送了我两台硬件钱包用于抽奖。\n所以如果您恰好需要一张虚拟信用卡，那么链接依旧有效。关于 OneKey Card 更多细节本帖不在此赘述，请您确定自己了解清楚后再注册。</p>\n<pre><code>\nfunction drawLottery(totalFloors) {\n  // 确保总楼层数量大于等于 2\n  if (totalFloors &lt; 2) {\n    console.log('Total floors must be at least 2.');\n    return;\n  }\n\n  // 创建一个包含两个元素的 Uint32Array\n  let randomArray = new Uint32Array(2);\n\n  let winningFloors = new Set();\n\n  while(winningFloors.size &lt; 2) {\n    // 生成随机数\n    window.crypto.getRandomValues(randomArray);\n    \n    // 对每个随机数取模，确保它们在楼层范围内，并加 1 使其从 1 开始\n    for(let i = 0; i &lt; randomArray.length; i++) {\n      let floor = randomArray[i] % totalFloors + 1;\n      \n      // 如果这个楼层还没被选中，就加入到获奖楼层中\n      if(!winningFloors.has(floor)) {\n        winningFloors.add(floor);\n      }\n      \n      // 已经选出 2 个获奖楼层，跳出循环\n      if(winningFloors.size &gt;= 2) {\n        break;\n      }\n    }\n  }\n\n  // 输出获奖楼层号\n  console.log(`The winning floors are: ${Array.from(winningFloors).join(', ')}`);\n}\n</code></pre>",
+    "publish_time": "2023-07-28 08:24:29",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  }
+]
