@@ -1200,5 +1200,103 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "习近平宣布大运会正式开幕",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AE%A3%E5%B8%83%E5%A4%A7%E8%BF%90%E4%BC%9A%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%B9%95%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "北京下雨",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%8B%E9%9B%A8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "钮祜禄陈烁",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%92%AE%E7%A5%9C%E7%A6%84%E9%99%88%E7%83%81%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "A股",
+    "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "业内人士谈车队进罗布泊3死1失联",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9A%E5%86%85%E4%BA%BA%E5%A3%AB%E8%B0%88%E8%BD%A6%E9%98%9F%E8%BF%9B%E7%BD%97%E5%B8%83%E6%B3%8A3%E6%AD%BB1%E5%A4%B1%E8%81%94%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "计算机硕士开题想基于MIT 6.824做一个分布式存储引擎，请问想法是否可行？",
+    "url": "https://www.zhihu.com/question/53471701",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Open Source Outdoor Air Quality Monitor",
+    "url": "https://www.airgradient.com/open-air/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36922790\">Comments</a>",
+    "publish_time": "2023-07-30 01:59:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How fast should you accelerate your kid in math?",
+    "url": "https://kidswholovemath.substack.com/p/how-fast-should-you-accelerate-your",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36922744\">Comments</a>",
+    "publish_time": "2023-07-30 01:53:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ed Yong is leaving The Atlantic after 8 years and 750 stories",
+    "url": "https://buttondown.email/edyong209/archive/the-eds-up-an-ending/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36921898\">Comments</a>",
+    "publish_time": "2023-07-30 00:35:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "US Army Field Manual on Leadership (1990) [pdf]",
+    "url": "https://armyoe.files.wordpress.com/2018/03/1990-fm-22-100.pdf",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36922517\">Comments</a>",
+    "publish_time": "2023-07-30 01:32:42",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
