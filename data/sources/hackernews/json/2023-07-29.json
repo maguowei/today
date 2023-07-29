@@ -449,5 +449,38 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "SQLite-Utils",
+    "url": "https://sqlite-utils.datasette.io/en/stable/index.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36914612\">Comments</a>",
+    "publish_time": "2023-07-29 07:09:17",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ingest OpenTelemetry metrics with Prometheus natively",
+    "url": "https://last9.io/blog/native-support-for-opentelemetry-metrics-in-prometheus/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36917214\">Comments</a>",
+    "publish_time": "2023-07-29 13:25:07",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "U.S. Marine Corps Antenna Handbook (1999) [pdf]",
+    "url": "https://www.marines.mil/Portals/1/MCRP%203-40.3C%20With%20Erratum%20z.pdf",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36917424\">Comments</a>",
+    "publish_time": "2023-07-29 14:11:55",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
