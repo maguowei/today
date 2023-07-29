@@ -1298,5 +1298,80 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "共享大运盛会共谱青春华章",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%B1%E4%BA%AB%E5%A4%A7%E8%BF%90%E7%9B%9B%E4%BC%9A%E5%85%B1%E8%B0%B1%E9%9D%92%E6%98%A5%E5%8D%8E%E7%AB%A0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Ed Yong is leaving The Atlantic",
+    "url": "https://buttondown.email/edyong209/archive/the-eds-up-an-ending/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36921898\">Comments</a>",
+    "publish_time": "2023-07-30 00:35:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Psychopathic Tendencies Help Some People Succeed in Business",
+    "url": "https://www.scientificamerican.com/article/psychopathic-tendencies-help-some-people-succeed-in-business/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36923714\">Comments</a>",
+    "publish_time": "2023-07-30 03:34:57",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Counterterrorism internet surveillance is being retargeted at sex workers",
+    "url": "https://theintercept.com/2023/07/29/skull-games-surveillance-sex-workers/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36923154\">Comments</a>",
+    "publish_time": "2023-07-30 02:39:24",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Freshpaint (YC S19) is hiring engineers to safeguard health data",
+    "url": "https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36922179\">Comments</a>",
+    "publish_time": "2023-07-30 01:00:46",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Universal and transferable adversarial attacks on aligned language models",
+    "url": "https://llm-attacks.org/zou2023universal.pdf",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36921808\">Comments</a>",
+    "publish_time": "2023-07-30 00:28:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Gzip beats BERT? Part 2: dataset issues, improved speed, and results",
+    "url": "https://kenschutte.com/gzip-knn-paper2/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36921552\">Comments</a>",
+    "publish_time": "2023-07-30 00:04:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
