@@ -9,5 +9,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "路由器不在弱电箱，如何实现全屋互联？",
+    "url": "https://www.v2ex.com/t/960711",
+    "summary": "xiaopanzi: <p>最近在折腾装修，对网络知识了解很少，查阅了网上很多关于组网的信息，还是有很多疑问。</p>\n<p>为了实现 Wi-Fi 信号可用性更好，我计划把路由器放在客厅的电视柜，而不放在弱电箱。一个简单的方案如下：</p>\n<p><img alt=\"img\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/Lv8vN6l.png\" /></p>\n<p>但是这样的话，房间 1/2 通过有线连接的网络和路由器的 Wi-Fi 网络是不是就不在一个网段，从而无法实现互联？</p>\n<p>另外一个疑问是，这样的 Apple TV 要通过有线接入网络的话，是不是可以直接插到路由器的 Lan 口？</p>\n<p>针对全屋互联的问题，我看网上的方式是加两个交换机，一个在弱电箱，一个在路由器。它的原理是什么，如何布线？是否有更好的方案？</p>\n<hr />\n<p>再查了一下网上的科普文章，发现  PoE AC 一体化路由器，这是不是比较好的方案？因为有线设备没有那么多，交换机感觉有点大材小用。</p>",
+    "publish_time": "2023-07-29 08:50:51",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "最近好像摆地摊的越来越多了",
+    "url": "https://www.v2ex.com/t/960727",
+    "summary": "wxlwsy: <p>城管就在旁边,不知道是啥原因,没有赶走,这颗少见.\n大部分是中年夫妻店,卖熟食烧烤卤菜居多.\n还有一部分卖水果的.\n最近出现了一些妹子卖廉价首饰的, 还有卖三明治的(路边摊卖这玩意有人买?).预计是做不长的.\n年轻男的倒是少,只看见一个手机贴膜.\n另外一个现象就是理发店变多了,卷的厉害.一条街 100 来米居然有 4 家理发店.</p>\n<p>发这个没啥意思,就是感叹地摊变多了,至少多了一倍. 已经有些影响小区出入通道了.</p>",
+    "publish_time": "2023-07-29 10:14:03",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
