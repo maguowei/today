@@ -31,5 +31,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "win10 利用再生龙克隆 nvme 磁盘到磁盘克隆后无法启动",
+    "url": "https://www.v2ex.com/t/960888",
+    "summary": "balduncle: 再生龙克隆磁盘无法启动<br /><br />系统：win10<br />磁盘：英睿达 p3 换 p5<br />方法：新盘 p5 插入系统里面，磁盘管理选择了 gpt 模式，没再格式化了。用再生龙安装到 u 盘，然后启动。p3 是安装在主板 nvme 接口上，p5 是用 type 绿联得硬盘盒子接在后面，选择了磁盘到磁盘得方式，复制了三次。原来得 p3 就可以正常启动，p5 就不可以。<br /><br />cpu 是 amd ryzen 5500 ，主板是华硕 b450 tuf gaming pro s ，内存 2X8 ，3200<br /><br />报错：蓝屏幕，报，inaccessible boot device ，还有 0xc0000001<br /><br />尝试方法：克隆了两次，还是无法启动，原来得 p3 就可以。<br /><br />可能得方法：换傲梅助手或许可以，但是想看看还有其他方法没有？<br /><br />ps ，这是我第二次升级系统盘，原来是从英睿达 p1 升级到 p3 （ 2 个月左右以前，也是用了再生龙磁盘到磁盘克隆，后面好像也是不行，再换了傲梅助手），现在打算再升级到 p5 。",
+    "publish_time": "2023-07-30 01:27:56",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
