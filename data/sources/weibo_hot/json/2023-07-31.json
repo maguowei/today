@@ -646,5 +646,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "这对CP真好吃",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%AF%B9CP%E7%9C%9F%E5%A5%BD%E5%90%83%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "元仲辛 我们成亲吧",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%83%E4%BB%B2%E8%BE%9B+%E6%88%91%E4%BB%AC%E6%88%90%E4%BA%B2%E5%90%A7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "实用透视技巧",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AE%9E%E7%94%A8%E9%80%8F%E8%A7%86%E6%8A%80%E5%B7%A7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]

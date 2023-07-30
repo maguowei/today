@@ -1468,5 +1468,103 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "这对CP真好吃",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%AF%B9CP%E7%9C%9F%E5%A5%BD%E5%90%83%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "元仲辛 我们成亲吧",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%83%E4%BB%B2%E8%BE%9B+%E6%88%91%E4%BB%AC%E6%88%90%E4%BA%B2%E5%90%A7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "实用透视技巧",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AE%9E%E7%94%A8%E9%80%8F%E8%A7%86%E6%8A%80%E5%B7%A7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如今无损音乐已经很普遍，为什么发烧者们始终喜欢用CD碟片听音乐？",
+    "url": "https://www.zhihu.com/question/561163731",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "怎么判断一个人是善良的?",
+    "url": "https://www.zhihu.com/question/608264196",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "“没见过迪迦”的大古，怪兽一出现就消失，胜利队为何没开除他?",
+    "url": "https://www.zhihu.com/question/479370188",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Why transformative artificial intelligence is hard to achieve",
+    "url": "https://thegradient.pub/why-transformative-artificial-intelligence-is-really-really-hard-to-achieve/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36934032\">Comments</a>",
+    "publish_time": "2023-07-31 01:57:35",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Regular use of Vitamin D supplement is associated with fewer melanoma cases",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/36580363/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36935315\">Comments</a>",
+    "publish_time": "2023-07-31 04:01:13",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "HFS Origins: The Turbo File System (2017)",
+    "url": "https://macgui.com/news/article.php?t=443",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36935281\">Comments</a>",
+    "publish_time": "2023-07-31 03:57:17",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "What's up, Python? The GIL removed, a new compiler, optparse deprecated",
+    "url": "https://www.bitecode.dev/p/whats-up-python-the-gil-removed-a",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36935041\">Comments</a>",
+    "publish_time": "2023-07-31 03:32:21",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
