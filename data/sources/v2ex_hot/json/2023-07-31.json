@@ -108,5 +108,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "[抽奖] 踩楼抽奖送 OneKey Mini",
+    "url": "https://www.v2ex.com/t/961220",
+    "summary": "o0: <p>OneKey Card 是一个支持虚拟货币充值，然后通过开通虚拟 VISA 卡片直接进行消费的平台，我已经将其用于日常消费，虽然有一定损耗，但非常方便好用，近期支付宝和微信对海外卡片的绑定政策进行了放宽，所以官方策划了这场活动，我也收到了邮件，可以有两台 OneKey Mini 用于抽奖。</p>\n<p><strong>若对 OneKey Card 感兴趣，可以通过我的邀请码或邀请链接进行注册：</strong></p>\n<p><strong>邀请码：</strong>SY41U6</p>\n<p><strong>注册地址：</strong><a href=\"https://card.onekey.so/?i=SY41U6\" rel=\"nofollow\">https://card.onekey.so/?i=SY41U6</a></p>\n<p><strong>奖品：</strong>OneKey Mini （数量两台）</p>\n<p><strong>参与条件：</strong>只需在本帖评论，仅限 1 条</p>\n<p><strong>开奖时间：</strong>2023 年 8 月 2 日 23:30 （无法 100%保证完全准时）</p>\n<p><strong>抽奖方式：</strong>由 bing 提供的随机数 js 代码，生成总楼层数范围内的随机数，若抽取到的用户有多次回复，就重新抽取，然后我会直接 at 抽到的用户留下联系方式。</p>\n<pre><code class=\"language-javascript\">function getRandomNumber(min, max) {\n  return Math.floor(Math.random() * (max - min + 1)) + min;\n}\n</code></pre>",
+    "publish_time": "2023-07-31 15:44:44",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
