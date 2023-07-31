@@ -1170,5 +1170,43 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "华为儿童手表守护快乐暑假",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%84%BF%E7%AB%A5%E6%89%8B%E8%A1%A8%E5%AE%88%E6%8A%A4%E5%BF%AB%E4%B9%90%E6%9A%91%E5%81%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "马立奥玩游戏淘汰了三喜",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E7%AB%8B%E5%A5%A5%E7%8E%A9%E6%B8%B8%E6%88%8F%E6%B7%98%E6%B1%B0%E4%BA%86%E4%B8%89%E5%96%9C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "你如果有1.5亿战斗力，是展现全部战力当地球之神还是隐藏战力当一个普通人?",
+    "url": "https://www.zhihu.com/question/531027067",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Plans to plant billions of trees threatened by undersupply of seedlings",
+    "url": "https://www.uvm.edu/news/story/plans-plant-billions-trees-threatened-massive-undersupply-seedlings",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36946553\">Comments</a>",
+    "publish_time": "2023-08-01 02:10:18",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
