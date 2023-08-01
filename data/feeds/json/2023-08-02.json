@@ -1090,5 +1090,116 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "逐梦强军",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%80%90%E6%A2%A6%E5%BC%BA%E5%86%9B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "暴雨天气10个安全指南",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%A8%E5%A4%A9%E6%B0%9410%E4%B8%AA%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "青提茉莉大战桃桃乌龙",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%8F%90%E8%8C%89%E8%8E%89%E5%A4%A7%E6%88%98%E6%A1%83%E6%A1%83%E4%B9%8C%E9%BE%99%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "暧昧期上头如何自救",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9A%A7%E6%98%A7%E6%9C%9F%E4%B8%8A%E5%A4%B4%E5%A6%82%E4%BD%95%E8%87%AA%E6%95%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "演唱会黄牛票这么贵都愿意买，同样的钱存下来或者买大件却舍不得，年轻人为什么在演唱会这么舍得花钱？",
+    "url": "https://www.zhihu.com/question/614923014",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Oregon Decriminalized Hard Drugs",
+    "url": "https://www.theatlantic.com/politics/archive/2023/07/oregon-drug-decriminalization-results-overdoses/674733/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36959267\">Comments</a>",
+    "publish_time": "2023-08-02 01:27:44",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "City officials attempt to doxx Wikipedians",
+    "url": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-08-01/News_and_notes",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36958958\">Comments</a>",
+    "publish_time": "2023-08-02 01:10:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Senate Votes to Let People Who’ve Used Marijuana Work at Intelligence Agencies",
+    "url": "https://www.marijuanamoment.net/senate-votes-to-let-people-whove-used-marijuana-work-at-intelligence-agencies-like-cia-and-nsa-as-part-of-defense-bill/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36958424\">Comments</a>",
+    "publish_time": "2023-08-02 00:38:06",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Run Every Day",
+    "url": "https://duarteocarmo.com/blog/run-every-day",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36959389\">Comments</a>",
+    "publish_time": "2023-08-02 01:34:44",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Electrified cement could turn houses and roads into nearly limitless batteries",
+    "url": "https://www.science.org/content/article/electrified-cement-could-turn-houses-and-roads-nearly-limitless-batteries",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36958531\">Comments</a>",
+    "publish_time": "2023-08-02 00:44:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "No telemetry in the Rust compiler: metrics without betraying user privacy",
+    "url": "https://estebank.github.io/rustc-metrics.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36959650\">Comments</a>",
+    "publish_time": "2023-08-02 01:50:50",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
