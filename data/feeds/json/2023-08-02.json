@@ -1631,5 +1631,116 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "台风卡努路径仍不确定",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%8D%A1%E5%8A%AA%E8%B7%AF%E5%BE%84%E4%BB%8D%E4%B8%8D%E7%A1%AE%E5%AE%9A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "商瑞华说中国女足已被日本超越",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%95%86%E7%91%9E%E5%8D%8E%E8%AF%B4%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E5%B7%B2%E8%A2%AB%E6%97%A5%E6%9C%AC%E8%B6%85%E8%B6%8A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如果《封神第一部》没回本，后两部还会上映吗？",
+    "url": "https://www.zhihu.com/question/613447153",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "暴雨天如何识别可能积水漏电的地段？不小心触电了怎么办？",
+    "url": "https://www.zhihu.com/question/614724142",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如果室温超导真的实现会对我们产生多大的影响？",
+    "url": "https://www.zhihu.com/question/588443729",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美股三大指数收盘涨跌不一，热门中概股多数下跌",
+    "url": "https://www.36kr.com/newsflashes/2370091913849736",
+    "summary": "36氪获悉，8月1日收盘，美股三大指数涨跌不一，道指涨0.2%，纳指跌0.43%，标普500指数跌0.27%。科技股多数下跌，特斯拉跌超2%，亚马逊跌超1%，苹果跌0.43%，谷歌跌0.88%，Meta涨超1%，微软涨0.13%，Netflix跌0.08%。热门中概股多数下跌，阿里巴巴跌超2%，京东、爱奇艺跌超3%，B站跌超6%，小鹏汽车、蔚来跌超4%，理想汽车涨超3%。",
+    "publish_time": "2023-08-02 07:02:10",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "ServiceRouter: Hyperscale and Minimal Cost Service Mesh at Meta [pdf]",
+    "url": "https://www.usenix.org/system/files/osdi23-saokar.pdf",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36963439\">Comments</a>",
+    "publish_time": "2023-08-02 05:39:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Filament v3 has been released",
+    "url": "https://filamentphp.com/community/danharrin-filament-v3",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36964072\">Comments</a>",
+    "publish_time": "2023-08-02 06:26:05",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Internet Explorer is EVIL! (2002)",
+    "url": "http://toastytech.com/evil/index.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36963261\">Comments</a>",
+    "publish_time": "2023-08-02 05:28:12",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Transform your Android device into a Linux desktop",
+    "url": "https://mrs-t.medium.com/transform-your-android-device-into-a-linux-desktop-110a3d084ac6",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36963200\">Comments</a>",
+    "publish_time": "2023-08-02 05:24:08",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Dear Websites, Stop Asking for Ransom Sign-Ups",
+    "url": "https://iamvishnu.com/posts/randsom-signup",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36962502\">Comments</a>",
+    "publish_time": "2023-08-02 04:41:00",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
