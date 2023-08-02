@@ -75,5 +75,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "求助大容量云备份方案",
+    "url": "https://www.v2ex.com/t/961688",
+    "summary": "gregy: 现在有 100T 左右的数据需要备份，日后还会继续新增。<br />目前是某宝买的 115 网盘空间卡和会员，5T 空间 26 块左右，叠了 20 多张空间卡。对备份数据使用 7z 做分卷加密压缩以后上传到 115 。不过我对 115 不太放心，担心哪天黄了。打算再备份一份。国内的网盘看了一圈没有合适的，百度网盘上传之前的本地校验速度着实太慢，而且 SVIP10 也就只有 30T 的空间，实在是不够用。那些乱七八糟的超大容量账号也不敢乱买。<br /><br />现在想找一个国外的不限容量网盘做第二个备份，不求白嫖，可以接受付费，不过还是尽量找稳定、便宜点的方案。<br />1 、目前有一个想法是弄一个 5T 的 OneDrive 做中转，在国内上传 OneDrive 还是非常快的，能跑满我的上行带宽。分卷以后的文件先上转到 OneDrive 。<br />2 、国外找一个不限流量的 VPS ，通过 rclone 的 sync 或者 copy 功能把 OneDrive 里的文件转移到目标网盘中。<br /><br />我把 rclone 宣称支持的 70 多种存储产品看了一遍，排除了各种对象存储以后。号称无限容量空间的有 1fichier 、sharefile 、opendrive 、uptobox 、box 、dorpbox 这几个网盘。<br /><br />1fichier 、uptobox 这俩应该是最便宜的了，一个月 5 欧元左右。号称无限容量。不知道靠不靠谱，1fichier 那个所谓的热数据无限空间，零数据 2T 存储空间没有理解啥意思。<br />opendrive 我看网上说超过一定容量以后会被限速，不知道靠不靠谱。<br />box 官网明确说是无限空间，但是最贵的团队方案单文件限制 50G 。我还得重新打包。而且一年 1260 刀太贵了找拼车的人比较麻烦。怕出问题被连做，不太想拼车。<br />dorpbox 团队方案只是说提供充足的空间，没说无限容量，听说现在申请扩容还比较费劲？<br /><br />想请教各位大佬几个问题<br />1 、我前面提到的那几个网盘有没有大佬在用，有没有啥坑<br />2 、我是不是有漏掉的支持 rclone 的无限空间网盘（ google drive 现在好像不给无限空间了）<br />3 、我的方案是不是可以再优化<br />4 、现在我的方案是基于 rclone 的，有没有其他更好的方案来进行备份<br /><br />提前感谢各位大佬的指教。",
+    "publish_time": "2023-08-02 09:05:34",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "Model Y 新车主，准备裸奔一段时间，咨询建议",
+    "url": "https://www.v2ex.com/t/961725",
+    "summary": "1002xin: <p>本着车只是一个代步工具的想法，尽量不买太多智商税的产品，目前只买了一些脚垫</p>\n<p>1 、贴车衣，价格贵，也需要经常保养，我平常停外面的次数比较多，没功夫抽精力保护一个保护膜</p>\n<p>2 、改色膜，黑色车漆确实比较薄，开半年如果原车刮的比较厉害会考虑贴一个</p>\n<p>3 、玻璃膜，这个相比车衣应该贴的人就比较多了，传说作用 隔热、隐私，隔热的话存疑，隐私可能有点用但我用不到，就不贴了</p>\n<p>4 、遮阳帘，在购物车备好了，如果不热就不买了，开起来比较热的话再下单</p>",
+    "publish_time": "2023-08-02 10:32:03",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
