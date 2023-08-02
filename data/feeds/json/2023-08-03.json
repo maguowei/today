@@ -1259,5 +1259,96 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "逐梦强军",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%80%90%E6%A2%A6%E5%BC%BA%E5%86%9B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "看杰森吴京斗鲨看到爽",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%9C%8B%E6%9D%B0%E6%A3%AE%E5%90%B4%E4%BA%AC%E6%96%97%E9%B2%A8%E7%9C%8B%E5%88%B0%E7%88%BD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "小镇饭店可免费吃饭一年仅一人点单",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%95%87%E9%A5%AD%E5%BA%97%E5%8F%AF%E5%85%8D%E8%B4%B9%E5%90%83%E9%A5%AD%E4%B8%80%E5%B9%B4%E4%BB%85%E4%B8%80%E4%BA%BA%E7%82%B9%E5%8D%95%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "拼多多百亿补贴买手机电脑等数码产品靠谱吗？",
+    "url": "https://www.zhihu.com/question/615057422",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Show HN: Learn a language quickly by practising speaking with AI",
+    "url": "https://www.prettypolly.app",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36973400\">Comments</a>",
+    "publish_time": "2023-08-03 00:47:37",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Cops still take more stuff from people than burglars do",
+    "url": "https://thewhyaxis.substack.com/p/cops-still-take-more-stuff-from-people",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36975143\">Comments</a>",
+    "publish_time": "2023-08-03 02:43:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Cookbook: Finetuning Llama 2 in your own cloud environment, privately",
+    "url": "https://blog.skypilot.co/finetuning-llama2-operational-guide/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36975245\">Comments</a>",
+    "publish_time": "2023-08-03 02:50:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "HackerOne lays off 12% of its workforce",
+    "url": "https://www.hackerone.com/ceo/company-update",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36975974\">Comments</a>",
+    "publish_time": "2023-08-03 03:33:14",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "FCC allows blocking traffic from robocall-friendly provider One Owl",
+    "url": "https://docs.fcc.gov/public/attachments/DA-23-652A1.txt",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36975701\">Comments</a>",
+    "publish_time": "2023-08-03 03:17:07",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]

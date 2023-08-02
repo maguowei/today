@@ -583,5 +583,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "逐梦强军",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%80%90%E6%A2%A6%E5%BC%BA%E5%86%9B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "看杰森吴京斗鲨看到爽",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%9C%8B%E6%9D%B0%E6%A3%AE%E5%90%B4%E4%BA%AC%E6%96%97%E9%B2%A8%E7%9C%8B%E5%88%B0%E7%88%BD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "小镇饭店可免费吃饭一年仅一人点单",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%95%87%E9%A5%AD%E5%BA%97%E5%8F%AF%E5%85%8D%E8%B4%B9%E5%90%83%E9%A5%AD%E4%B8%80%E5%B9%B4%E4%BB%85%E4%B8%80%E4%BA%BA%E7%82%B9%E5%8D%95%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
