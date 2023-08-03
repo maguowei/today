@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Kubernetes物料清单（KBOMs）助力安全团队应对CVE攻防战",
+    "url": "https://www.infoq.cn/article/CeVizGJmN9M8e5EWc2w1",
+    "summary": "<p>KSOC&nbsp;<a href=\"https://ksoc.com/\">实验室</a>\"近期宣布了首批 Kubernetes 物料清单（KBOMs）。KBOM 是一款开源标准和命令行工具，可帮助安全团队快速分析集群配置并应对 CVE。</p><p></p><p>该项目包含一份初始规范和实施方案，可跨云供应商、企业内部（on-premise)及自定义环境使用。</p><p><a href=\"https://www.infoq.com/search.action?queryString=JSON\">JSON</a>\"&nbsp;格式的规范中提供了关于集群不同组件，以及内部和托管应用程序的实例、Kubernetes 对象、容器镜像的详细信息。</p><p></p><p>这些信息有助于安全和规范团队将 Kubernetes 集群视为单一个体，快速识别漏洞和维系，不再需要单独查看其中的基础组件。</p><p></p><p>KBOM 给出了针对 Kubernetes 集群的简单概述，如：</p><p>以工作负载数计算的集群规模云提供商上的节点成本和类型Kubernetes 相关组件和托管应用程序镜像的漏洞来自三方的客户化和插件，如定制资源、认证和服务网格平台及其组件的版本细节</p><p></p><p>今年上半年，KSOC 实验室于<a href=\"https://kccnceu2023.sched.com/?\">2023年欧洲 KubeCon+CloudNativeCon 大会</a>\"中就容器安全、云态势管理和运行时安全解决方案，以及是否需要专门为 Kubernetes 配置安全解决方案的问题，对与会者进行了调研，97% 的参与者回答为肯定。</p><p></p><p>KSOC 团队认为，即使是目前已有的类似标准和工具有助于对应用及其底层基础设施组件的理解，如软件物料清单（<a href=\"https://www.infoq.com/news/2023/02/sboms-vex-kubernetes/\">SBOMs</a>\"）和基础设施物料清单（IBOMs），但这些并不一定能让安全团队对集群进行快速分析，并对&nbsp;<a href=\"https://www.infoq.com/news/2021/08/cve-cloud-vulnerabilities/\">CVE</a>\"&nbsp;做出快速响应。</p><p></p><p>通过 KBOM 的发布，KSOC 团队希望能让 Kubernetes 进入安全并合乎规范的区域。</p><p></p><p>安全和规范团队可通过使用 KBOM 对其 Kubernetes 集群（尤其是三方插件），获得更高的可见性。举例来说，KBOM 可对最近 Kubernetes CVE 漏洞，允许权限升级，进行分析，该漏洞技术复杂，恶意者可从应用容器进入底层主机，从而接管全部集群。</p><p></p><p>这些项目中也包含&nbsp;<a href=\"https://landscape.cncf.io/\">CNCF 全景图</a>\"（landscape）中的项目，如影响&nbsp;<a href=\"https://www.crossplane.io/\">crossplane</a>\"&nbsp;的&nbsp;<a href=\"https://nvd.nist.gov/vuln/detail/CVE-2023-27483\">CVE-2023-27483</a>\"，crossplane 为一款借助 Kubernetes API 配置和管理云基础设施的多云控制面板；影响&nbsp;<a href=\"https://clusternet.io/\">Clusternet</a>\"&nbsp;的&nbsp;<a href=\"https://nvd.nist.gov/vuln/detail/CVE-2023-30622\">CVE-2023-30622</a>\"，Clusternet 为一款管理公共、私有、混合以及边缘环境中多个 Kubernetes 集群的解决方案。</p><p></p><p>此外，还包含涉及 Jenkins 插件的&nbsp;<a href=\"https://nvd.nist.gov/vuln/detail/CVE-2023-30513\">CVE-2023-30513</a>\"&nbsp;，该 Jenkins 插件可管理从 Jenkins 到集群中的所有 CI/CD 管道的通信。</p><p></p><p>该规范为 Kubernetes 社区打下了基础，人们可在该基础上增添更多信息以支持未来的不同用例。</p><p>KBOM 在所有主流云供应商上均进行了测试，其中包括 AWS、Azure和谷歌云，可适用于所有 Kubernetes v1 往后的版本。</p><p></p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2023/06/kubernetes-bill-of-materials/\">KSOC Labs Release the First Kubernetes Bill of Materials (KBOMs)</a>\"</p><p></p><p>相关阅读：</p><p><a href=\"https://www.infoq.cn/article/AhfmZfWjvUAmap5lcTAI\">三步实现Lambda向Kubernetes大迁移</a>\"</p><p><a href=\"https://www.infoq.cn/article/jU8j08BurbpglgY8zqoD\">从修复 Kubernetes 集群中，我学到了什么</a>\"</p>",
+    "publish_time": "2023-08-03 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "复杂业务开发之服务通信 ：HTTP、Kafka 组件",
+    "url": "https://www.infoq.cn/article/794y1bQBBS9UhPODeTWJ",
+    "summary": "<p>在现代企业开发中，初级开发者难以掌握开发企业级 Java 应用，中高级开发者则被繁琐任务所占据。为了让大家能快速上手可以解决这个难题的“SoFlu 软件机器人”，前蚂蚁金服技术专家杨彪设计了《2 小时学会 10 个组件“取代”传统 Java 开发》课程，本节为该系列课程的第四讲。</p>\n<p>本讲将聚焦于“服务通信”话题——在当今微服务流行之下，服务之交互也变得非常频繁，如何保证服务通信稳定也是企业服务稳定性治理中一大难题。本节便将通过介绍SoFlu提供的常用组件——HTTP组件、Kafka组件，来解决业务服务通信稳定的问题。</p>\n<p>大家在课后可以登录 Gitee 下载 SoFlu 软件机器人客户端进行实践：<a href=\"http://suo.im/8wROo\">点击下载</a></p>\n<p>大家可以扫码添加小助手，进学习群与专家一对一交流：<br />\n<img alt=\"\" src=\"https://static001.infoq.cn/resource/image/e8/c9/e8833a01ba0bc705acab14a572b57cc9.png\" /></p>",
+    "publish_time": "2023-08-03 09:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
