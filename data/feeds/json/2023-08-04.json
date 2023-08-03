@@ -1511,5 +1511,58 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "如何评价2023年第四届“华数杯”？",
+    "url": "https://www.zhihu.com/question/615238655",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Matrix",
+    "url": "https://matrix.org",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36991647\">Comments</a>",
+    "publish_time": "2023-08-04 04:49:40",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "I am offering a $100k bounty to the person who sets me up with my life partner",
+    "url": "http://tolidates.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36991616\">Comments</a>",
+    "publish_time": "2023-08-04 04:47:40",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Apple reports third quarter results",
+    "url": "https://www.apple.com/newsroom/2023/08/apple-reports-third-quarter-results/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36991381\">Comments</a>",
+    "publish_time": "2023-08-04 04:31:00",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Color-Diffusion: using diffusion models to colorize black and white images",
+    "url": "https://github.com/ErwannMillon/Color-diffusion",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=36991293\">Comments</a>",
+    "publish_time": "2023-08-04 04:24:50",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
