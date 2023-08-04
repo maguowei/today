@@ -1,0 +1,13 @@
+[
+  {
+    "title": "SoFlu 自定义函数开发实践：单函数、多函数",
+    "url": "https://www.infoq.cn/article/E77tQaav5o3T0m5KXDi2",
+    "summary": "<p>在现代企业开发中，初级开发者难以掌握开发企业级 Java 应用，中高级开发者则被繁琐任务所占据。为了让大家能快速上手可以解决这个难题的“SoFlu 软件机器人”，前蚂蚁金服技术专家杨彪设计了《2 小时学会 10 个组件“取代”传统 Java 开发》课程，本节为该系列课程的第五讲。</p>\n<p>在实际项目开发中经常需要对接第三方的平台，比如对接微信和支付宝，SoFlu 能实现吗？答案是肯定的！本节便将介绍 SoFlu 中如何开发自定义函数，展示函数的灵活高可扩展性能力，并使用自定义函数的方式来实现第三方平台 API 的集成功能。</p>\n<p>大家在课后可以登录 Gitee 下载 SoFlu 软件机器人客户端进行实践：<a href=\"http://suo.im/8wROo\">点击下载</a></p>\n<p>大家可以扫码添加小助手，进学习群与专家一对一交流：<br />\n<img alt=\"\" src=\"https://static001.infoq.cn/resource/image/e8/c9/e8833a01ba0bc705acab14a572b57cc9.png\" /></p>",
+    "publish_time": "2023-08-04 09:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
