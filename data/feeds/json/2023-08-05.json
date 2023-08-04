@@ -1254,5 +1254,205 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "英雄就是我们身边的平凡人",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E5%B0%B1%E6%98%AF%E6%88%91%E4%BB%AC%E8%BA%AB%E8%BE%B9%E7%9A%84%E5%B9%B3%E5%87%A1%E4%BA%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "檀健次说相柳不需要续集",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E8%AF%B4%E7%9B%B8%E6%9F%B3%E4%B8%8D%E9%9C%80%E8%A6%81%E7%BB%AD%E9%9B%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "能被处女座认可的人肯定不差",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%83%BD%E8%A2%AB%E5%A4%84%E5%A5%B3%E5%BA%A7%E8%AE%A4%E5%8F%AF%E7%9A%84%E4%BA%BA%E8%82%AF%E5%AE%9A%E4%B8%8D%E5%B7%AE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "封神是懂选角的",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E6%98%AF%E6%87%82%E9%80%89%E8%A7%92%E7%9A%84%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "布林肯指责俄罗斯利用黑海协议「进行勒索」，俄方反击、中方表态，如何看待此次辩论？",
+    "url": "https://www.zhihu.com/question/615608019",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "涿州男子被救援船营救折返找狗，称「不就耽误两分钟吗」引争议，如何看待男子行为？",
+    "url": "https://www.zhihu.com/question/615604623",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "有什么奇思妙想有趣的脑洞吗？",
+    "url": "https://www.zhihu.com/question/372432786",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如果黛玉不是失了双亲，寄人篱下，王夫人还会反对宝黛亲事吗？",
+    "url": "https://www.zhihu.com/question/577724317",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "有哪些有意思的，很cool的开源项目 ？",
+    "url": "https://www.zhihu.com/question/22407853",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价许宏宇执导，彭昱畅和侯明昊主演的电视剧《异人之下》？",
+    "url": "https://www.zhihu.com/question/615568542",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Ramda: A practical functional library for JavaScript programmers",
+    "url": "https://ramdajs.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37003275\">Comments</a>",
+    "publish_time": "2023-08-05 01:42:11",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Representing Heterogeneous Data",
+    "url": "http://journal.stuffwithstuff.com/2023/08/04/representing-heterogeneous-data/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37003854\">Comments</a>",
+    "publish_time": "2023-08-05 02:27:18",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Physics – Probing the Limits of Nuclear Existence",
+    "url": "https://physics.aps.org/articles/v15/177",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37003478\">Comments</a>",
+    "publish_time": "2023-08-05 01:58:29",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Gamification of Reading Is Changing How We Approach Books",
+    "url": "https://www.shondaland.com/inspire/books/a44567428/the-gamification-of-reading-is-changing-how-we-approach-books/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37001820\">Comments</a>",
+    "publish_time": "2023-08-05 00:02:03",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Melatonin, a sleep aid, is a surprising treatment for food waste",
+    "url": "https://www.anthropocenemagazine.org/2023/08/melatonin-a-sleep-aid-is-a-surprising-treatment-for-food-waste/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37003988\">Comments</a>",
+    "publish_time": "2023-08-05 02:37:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Deutschlandticket: Germany’s €49 ticket pushes passenger numbers up 25%",
+    "url": "https://www.euronews.com/green/2023/07/31/deutschlandticket-germanys-49-ticket-pushes-passenger-numbers-up-25-on-local-train-service",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37003393\">Comments</a>",
+    "publish_time": "2023-08-05 01:51:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The unix69 keyboard layout: nerdy and nice",
+    "url": "https://dotat.at/@/2023-08-04-unix69.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37003195\">Comments</a>",
+    "publish_time": "2023-08-05 01:36:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Throw away your first draft of your code",
+    "url": "https://ntietz.com/blog/throw-away-your-first-draft/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37003910\">Comments</a>",
+    "publish_time": "2023-08-05 02:31:11",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Oral cancer drug kills 100% of tumors in vitro and in animal models",
+    "url": "https://twitter.com/gigaj0ule/status/1686814611658715136",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37003617\">Comments</a>",
+    "publish_time": "2023-08-05 02:10:29",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "RedHat found a way to get around the GPLv2 license intention with contract law",
+    "url": "https://opencoreventures.com/blog/2023-08-redhat-gets-around-gplv2-license-intention-with-contract-law/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37003489\">Comments</a>",
+    "publish_time": "2023-08-05 01:59:00",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
