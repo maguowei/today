@@ -826,5 +826,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "今晚好多天后开演唱会",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%99%9A%E5%A5%BD%E5%A4%9A%E5%A4%A9%E5%90%8E%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "中国快递速度惊呆外国运动员",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%BF%AB%E9%80%92%E9%80%9F%E5%BA%A6%E6%83%8A%E5%91%86%E5%A4%96%E5%9B%BD%E8%BF%90%E5%8A%A8%E5%91%98%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
