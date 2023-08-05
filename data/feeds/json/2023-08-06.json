@@ -1160,5 +1160,197 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "山东地震",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%9C%B0%E9%9C%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "北京震感",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E9%9C%87%E6%84%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "济南震感",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B5%8E%E5%8D%97%E9%9C%87%E6%84%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "天津震感",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E9%9C%87%E6%84%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "河北震感",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E9%9C%87%E6%84%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "山东平原5.5级地震",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%B9%B3%E5%8E%9F5.5%E7%BA%A7%E5%9C%B0%E9%9C%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "地震预警",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E9%A2%84%E8%AD%A6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "石家庄震感",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%9F%B3%E5%AE%B6%E5%BA%84%E9%9C%87%E6%84%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "德州地震",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%B7%9E%E5%9C%B0%E9%9C%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "山东平原地震",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%B9%B3%E5%8E%9F%E5%9C%B0%E9%9C%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "地震快讯",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E5%BF%AB%E8%AE%AF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "河南震感",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E9%9C%87%E6%84%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "青岛震感",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E9%9C%87%E6%84%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "李凯尔首秀",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%87%AF%E5%B0%94%E9%A6%96%E7%A7%80%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "A close look at the 8086 processor's bus hold circuitry",
+    "url": "http://www.righto.com/2023/08/intel-8086-bus-hold.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37014506\">Comments</a>",
+    "publish_time": "2023-08-06 01:39:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Satellite supergroup spots methane super-emitters with “staggering” accuracy",
+    "url": "https://innovationorigins.com/en/satellite-supergroup-spots-methane-super-emitters-with-staggering-accuracy/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37015009\">Comments</a>",
+    "publish_time": "2023-08-06 02:29:26",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Duck DNS",
+    "url": "https://www.duckdns.org/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37014758\">Comments</a>",
+    "publish_time": "2023-08-06 02:03:18",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Is “Do the Needful” Correct?",
+    "url": "https://www.grammarly.com/blog/do-the-needful/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37014986\">Comments</a>",
+    "publish_time": "2023-08-06 02:27:27",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Speed Up C++ Compilation",
+    "url": "https://devtalk.blender.org/t/speed-up-c-compilation/30508",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37014842\">Comments</a>",
+    "publish_time": "2023-08-06 02:12:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Earthsea Trilogy (2003)",
+    "url": "https://dannyreviews.com/h/Earthsea.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37014738\">Comments</a>",
+    "publish_time": "2023-08-06 02:01:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
