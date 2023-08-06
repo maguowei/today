@@ -603,5 +603,49 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Sync for Lemmy",
+    "url": "https://play.google.com/store/apps/datasafety?id=io.syncapps.lemmy_sync",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37020290\">Comments</a>",
+    "publish_time": "2023-08-06 17:23:39",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Nvidia Launches a 100kb text-to-image model called Perfusion",
+    "url": "https://research.nvidia.com/labs/par/Perfusion/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37020620\">Comments</a>",
+    "publish_time": "2023-08-06 18:29:14",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Driving is more expensive than you think (2020)",
+    "url": "https://news.harvard.edu/gazette/story/2020/01/massachusetts-car-economy-costs-64-billion-study-finds/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37020924\">Comments</a>",
+    "publish_time": "2023-08-06 19:36:29",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Postgres Language Server",
+    "url": "https://github.com/supabase/postgres_lsp",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37020610\">Comments</a>",
+    "publish_time": "2023-08-06 18:26:54",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
