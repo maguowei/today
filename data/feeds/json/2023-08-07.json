@@ -1459,5 +1459,116 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "易烊千玺话筒",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%AF%9D%E7%AD%92%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "这凉茶让撒贝宁沉默岳云鹏流泪",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%87%89%E8%8C%B6%E8%AE%A9%E6%92%92%E8%B4%9D%E5%AE%81%E6%B2%89%E9%BB%98%E5%B2%B3%E4%BA%91%E9%B9%8F%E6%B5%81%E6%B3%AA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "小企鹅们集体背着书包出来了",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%81%E9%B9%85%E4%BB%AC%E9%9B%86%E4%BD%93%E8%83%8C%E7%9D%80%E4%B9%A6%E5%8C%85%E5%87%BA%E6%9D%A5%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "阎月明逝世",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%98%8E%E6%9C%88%E6%98%8E%E9%80%9D%E4%B8%96%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "韩国团队第二篇论文作者之一金教授放出了第二个 LK-99 半悬浮视频，如何看待该视频？",
+    "url": "https://www.zhihu.com/question/615553641",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Serial murders have dwindled, thanks to improved technology",
+    "url": "https://www.nytimes.com/2023/08/06/nyregion/serial-killers-gilgo-beach-rex-heuermann.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37027278\">Comments</a>",
+    "publish_time": "2023-08-07 05:55:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Billionaire Who Controls Your Medical Records (2021)",
+    "url": "https://www.forbes.com/sites/katiejennings/2021/04/08/billionaire-judy-faulkner-epic-systems/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37026783\">Comments</a>",
+    "publish_time": "2023-08-07 05:07:29",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How to enjoy SF",
+    "url": "http://zhayitong.com/2023/06/17/sf1.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37026371\">Comments</a>",
+    "publish_time": "2023-08-07 04:35:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Tarot Arcana—AI tarot card readings",
+    "url": "https://apps.apple.com/us/app/tarot-arcana/id1539747669",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37027639\">Comments</a>",
+    "publish_time": "2023-08-07 06:37:43",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Timo Noko – The Professional Hobo",
+    "url": "https://timonoko.github.io/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37027001\">Comments</a>",
+    "publish_time": "2023-08-07 05:28:45",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Optics Library",
+    "url": "http://markelz.physics.buffalo.edu/node/411",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37027545\">Comments</a>",
+    "publish_time": "2023-08-07 06:25:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
