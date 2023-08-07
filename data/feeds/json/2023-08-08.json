@@ -1809,5 +1809,132 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "他给的实在是太多了",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BB%96%E7%BB%99%E7%9A%84%E5%AE%9E%E5%9C%A8%E6%98%AF%E5%A4%AA%E5%A4%9A%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何找到自己的穿衣风格",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E6%89%BE%E5%88%B0%E8%87%AA%E5%B7%B1%E7%9A%84%E7%A9%BF%E8%A1%A3%E9%A3%8E%E6%A0%BC%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "福宝的妹妹们迎来暴风式成长",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%AE%9D%E7%9A%84%E5%A6%B9%E5%A6%B9%E4%BB%AC%E8%BF%8E%E6%9D%A5%E6%9A%B4%E9%A3%8E%E5%BC%8F%E6%88%90%E9%95%BF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "工资很低但是工作很舒服，要离职吗?",
+    "url": "https://www.zhihu.com/question/608908305",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "若存量房贷利率得以重定价，会对银行的利息收入产生多大冲击？是否有可能掀起新一轮「息差保卫战」？",
+    "url": "https://www.zhihu.com/question/615678673",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么我国足球不能像欧洲足球那样市场化？",
+    "url": "https://www.zhihu.com/question/615132381",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "影片《孤注一掷》能否暑期档夺冠？你预测该片的票房能到多少？",
+    "url": "https://www.zhihu.com/question/615935708",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "你写过或见过的你认为最漂亮的字是什么样的？",
+    "url": "https://www.zhihu.com/question/35541836",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美股三大指数集体收涨，伯克希尔创历史收盘新高",
+    "url": "https://www.36kr.com/newsflashes/2378583429147394",
+    "summary": "36氪获悉，8月7日收盘，美股三大指数集体上涨，道指涨1.16%，标普500指数涨0.9%，纳指涨0.61%。伯克希尔涨超3%，创历史收盘新高。大型科技股多数上涨，谷歌、Netflix涨超2%，亚马逊、Meta涨超1%，苹果跌超1%。热门中概股涨跌不一，微博、满帮、腾讯音乐跌超3%，哔哩哔哩、拼多多跌超2%，小鹏汽车涨超2%，每日优鲜涨超31%。",
+    "publish_time": "2023-08-08 07:00:11",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "How to stop the “login with Google” pop up window?",
+    "url": "https://support.google.com/accounts/thread/212592288/how-to-stop-the-login-with-google-pop-up-window?hl=en",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37041047\">Comments</a>",
+    "publish_time": "2023-08-08 05:15:48",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Overworked and Underpaid, VFX Workers Vote to Unionize at Marvel",
+    "url": "https://www.vulture.com/2023/08/vfx-workers-vote-to-unionize-at-marvel-for-the-first-time.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37041394\">Comments</a>",
+    "publish_time": "2023-08-08 05:45:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Thoughts on Mark “diveintomark” Pilgrim's and _why's infosuicides (2011)",
+    "url": "https://www.hanselman.com/blog/410-gone-thoughts-on-mark-diveintomark-pilgrims-and-whys-infosuicides",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37041868\">Comments</a>",
+    "publish_time": "2023-08-08 06:34:06",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Tesla, Inc. 8-k filing – CFO leaves Tesla",
+    "url": "https://www.bamsec.com/filing/95017023038779",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37041213\">Comments</a>",
+    "publish_time": "2023-08-08 05:28:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
