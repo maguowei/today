@@ -31,5 +31,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "公司如何部署科学上网措施？",
+    "url": "https://www.v2ex.com/t/962964",
+    "summary": "hustfox: <p>公司需要使用该服务的人员数大概在 50-100 左右。 </p>\n<p>目前软件开发人员基本都自备了工具。公司 leader 认为 gpt 等工具挺好用的，产品等应该也有这方面的需求，所以让我研究下怎么弄，需求：</p>\n<ul>\n<li>能上外网</li>\n<li>尽量需要无感知，即不需要产品人员安装其他软件</li>\n</ul>\n<p>目前看了下网上资料，可能 surge 、clash 等旁路由满足需求？但是资料基本都是介绍家庭安装旁路由的视频和方案，鲜少公司规模的。猜测可能是旁路由无法应对大量人员使用的场景？</p>\n<p>所以各位网络达人有啥好的建议么？</p>",
+    "publish_time": "2023-08-07 10:58:38",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
