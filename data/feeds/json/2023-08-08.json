@@ -1702,5 +1702,112 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "吴磊百度网盘88直播挑战",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%9888%E7%9B%B4%E6%92%AD%E6%8C%91%E6%88%98%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "最美表演",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9C%80%E7%BE%8E%E8%A1%A8%E6%BC%94%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "女主播年入50万花近三万相亲",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E4%B8%BB%E6%92%AD%E5%B9%B4%E5%85%A550%E4%B8%87%E8%8A%B1%E8%BF%91%E4%B8%89%E4%B8%87%E7%9B%B8%E4%BA%B2%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "艺画开天做游戏，游戏公司和动画公司会怎么想？",
+    "url": "https://www.zhihu.com/question/615792645",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价《原神》4.0 前瞻直播中枫丹交响音乐现场的音乐水准?",
+    "url": "https://www.zhihu.com/question/615770052",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "每天跑步 20km，是不是就可以随便吃了？",
+    "url": "https://www.zhihu.com/question/612952715",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么《博德之门 3》游戏没有 D 加密？",
+    "url": "https://www.zhihu.com/question/615959497",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "CISA Releases Its Cybersecurity Strategic Plan",
+    "url": "https://www.cisa.gov/news-events/alerts/2023/08/04/cisa-releases-its-cybersecurity-strategic-plan",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37040747\">Comments</a>",
+    "publish_time": "2023-08-08 04:48:35",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Doculite – Use SQLite as a Document Database",
+    "url": "https://www.npmjs.com/package/doculite",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37040359\">Comments</a>",
+    "publish_time": "2023-08-08 04:14:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Semiconductor Supply Chain Explorer",
+    "url": "https://chipexplorer.eto.tech",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37040490\">Comments</a>",
+    "publish_time": "2023-08-08 04:26:44",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Emerge Tools (YC W21) is hiring an engineer to lead front end development",
+    "url": "https://www.ycombinator.com/companies/emerge-tools/jobs/zDcS7ia-senior-software-engineer-frontend-lead",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37040898\">Comments</a>",
+    "publish_time": "2023-08-08 05:01:07",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
