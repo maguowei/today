@@ -6407,5 +6407,406 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "EDG下路菜啊",
+    "url": "https://s.weibo.com/weibo?q=%23EDG%E4%B8%8B%E8%B7%AF%E8%8F%9C%E5%95%8A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "很高兴认识你成都",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BE%88%E9%AB%98%E5%85%B4%E8%AE%A4%E8%AF%86%E4%BD%A0%E6%88%90%E9%83%BD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "10岁白血病小女孩离世前嫁给男友",
+    "url": "https://s.weibo.com/weibo?q=%2310%E5%B2%81%E7%99%BD%E8%A1%80%E7%97%85%E5%B0%8F%E5%A5%B3%E5%AD%A9%E7%A6%BB%E4%B8%96%E5%89%8D%E5%AB%81%E7%BB%99%E7%94%B7%E5%8F%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "EDG对战WBG",
+    "url": "https://s.weibo.com/weibo?q=%23EDG%E5%AF%B9%E6%88%98WBG%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "用成都打开成都",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%A8%E6%88%90%E9%83%BD%E6%89%93%E5%BC%80%E6%88%90%E9%83%BD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "王一博说刘敏涛和自己妈妈气质很像",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%AF%B4%E5%88%98%E6%95%8F%E6%B6%9B%E5%92%8C%E8%87%AA%E5%B7%B1%E5%A6%88%E5%A6%88%E6%B0%94%E8%B4%A8%E5%BE%88%E5%83%8F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Uzi别惦记泽丽了",
+    "url": "https://s.weibo.com/weibo?q=%23Uzi%E5%88%AB%E6%83%A6%E8%AE%B0%E6%B3%BD%E4%B8%BD%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "刘亦菲抹胸蝴蝶结粉裙",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%8A%B9%E8%83%B8%E8%9D%B4%E8%9D%B6%E7%BB%93%E7%B2%89%E8%A3%99%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "海王式恋爱",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B5%B7%E7%8E%8B%E5%BC%8F%E6%81%8B%E7%88%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "张小凡黑化入魔",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E5%87%A1%E9%BB%91%E5%8C%96%E5%85%A5%E9%AD%94%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "张杰巡演北京鸟巢站官宣",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%B7%A1%E6%BC%94%E5%8C%97%E4%BA%AC%E9%B8%9F%E5%B7%A2%E7%AB%99%E5%AE%98%E5%AE%A3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "边伯贤开设个人公司原因",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BE%B9%E4%BC%AF%E8%B4%A4%E5%BC%80%E8%AE%BE%E4%B8%AA%E4%BA%BA%E5%85%AC%E5%8F%B8%E5%8E%9F%E5%9B%A0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "女朋友让我续费会员",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%9C%8B%E5%8F%8B%E8%AE%A9%E6%88%91%E7%BB%AD%E8%B4%B9%E4%BC%9A%E5%91%98%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "朱一龙立秋背影照",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E7%AB%8B%E7%A7%8B%E8%83%8C%E5%BD%B1%E7%85%A7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "心理医生对你说过哪些印象深刻的话",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BF%83%E7%90%86%E5%8C%BB%E7%94%9F%E5%AF%B9%E4%BD%A0%E8%AF%B4%E8%BF%87%E5%93%AA%E4%BA%9B%E5%8D%B0%E8%B1%A1%E6%B7%B1%E5%88%BB%E7%9A%84%E8%AF%9D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "换个角度看浣熊",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%8D%A2%E4%B8%AA%E8%A7%92%E5%BA%A6%E7%9C%8B%E6%B5%A3%E7%86%8A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "碧桂园旗下境内债大跌再现临停潮，此前回应美元债票息未付「出现了阶段性的流动性压力」，哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/616225145",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "田协特聘专家于冰教授怒批国足「一看球员体型就不行，严重缺乏体能训练」，如何看待他对国足的评价？",
+    "url": "https://www.zhihu.com/question/616216301",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "足球报辟谣女足薪资问题，称「女足年薪世界第二」是谣传，薪资与欧美差一个量级，哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/616059081",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "《孤注一掷》点映总票房破 5 亿，为什么该片可以获得如此高的点映票房？",
+    "url": "https://www.zhihu.com/question/616064947",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "什么车最适合长途自驾游，为什么？",
+    "url": "https://www.zhihu.com/question/509797303",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "孔子老子墨子等人遇到电车难题会如何选择？为什么？",
+    "url": "https://www.zhihu.com/question/59015247",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "关于「认房不用认贷」新政，各地落地细则可能不同，不同地区购房者需求有哪些不同？怎样的政策最适合他们？",
+    "url": "https://www.zhihu.com/question/615678581",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "有核电站的地方通常地震概率较低是真的吗？核电站选址需要考虑哪些要素?",
+    "url": "https://www.zhihu.com/question/616063035",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "租房平台自如禁止 40 岁以上租客合租，自如回应「合租面向年轻群体」，如何看待此事？",
+    "url": "https://www.zhihu.com/question/616187008",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "库克今年的 m3 mini 总得换模具了吧",
+    "url": "https://www.v2ex.com/t/963276",
+    "summary": "justincnn: <p>apple 在这个产品线上没有任何竞争对手，导致他们一直不思进取。\n乔布斯那个年代的工业设计红利也太长了。</p>\n<p>或者说，现在 apple 内部都把硬件外观设计的部门给裁掉了？</p>",
+    "publish_time": "2023-08-08 10:03:27",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "你身边有没有那种 “没有兴趣爱好的人” ？",
+    "url": "https://www.v2ex.com/t/963384",
+    "summary": "sdjl: <p>我觉得每个人身边都会有“没有兴趣爱好的人”吧（不是真的完全没有，是我们感觉他没有）</p>\n<p>我就能在身边找出几个这样的人，有家里亲戚，有同学等</p>\n<p>他们常说 “啥也没干”、“上班”、“带娃”、“哪也不去”、“不玩游戏”、“不出去玩”、“家里没有可以玩的东西”、“浪费时间”、“努力赚钱”</p>\n<p>我发现一个有趣的现象，这种“没有兴趣爱好的人”几乎一定会和另一个“没有兴趣爱好的人”组成家庭，可能是他们看不惯有兴趣爱好的人天天玩这玩那不努力赚钱？</p>\n<p>一起聊聊你身边这样的人？ 说说他们有什么特点？ 为什么一个人会没有兴趣爱好呢？</p>",
+    "publish_time": "2023-08-08 14:39:36",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "贵州燃气：董事长洪鸣因公司股东权益变动原因辞职",
+    "url": "https://www.36kr.com/newsflashes/2379166456015880",
+    "summary": "36氪获悉，贵州燃气公告称，因公司股东权益变动原因，公司董事长洪鸣申请辞去公司董事、董事长（法定代表人）及董事会各专门委员会有关职务。辞职生效后，洪鸣将不再担任公司任何职务。",
+    "publish_time": "2023-08-08 17:02:32",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Tims天好中国六月同店销售额增长27%",
+    "url": "https://www.36kr.com/newsflashes/2379185861487619",
+    "summary": "36氪获悉，锁咖啡品牌Tim Hortons中国业务及炸鸡品牌Popeyes中国业务宣布，六月全门店同店销售额增长27%。同时，Tims天好中国加快推进了加盟策略的部署。Tims天好中国CEO卢永臣表示，自今年二月我们重开所有门店以来，全门店在过去几个月的同店销售额平均增长达19%。",
+    "publish_time": "2023-08-08 17:13:00",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "康希诺：与阿斯利康签署框架协议，将向阿斯利康提供合同开发和生产服务以支持其mRNA疫苗项目",
+    "url": "https://www.36kr.com/newsflashes/2379188604431622",
+    "summary": "36氪获悉，康希诺公告，与阿斯利康签署框架协议，公司将向阿斯利康提供合同开发和生产服务以支持其mRNA疫苗项目，生产和供应特定产品，并提供相关特定服务。",
+    "publish_time": "2023-08-08 17:15:48",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "对银行意外征收暴利税后，意大利股市领跌欧股",
+    "url": "https://www.36kr.com/newsflashes/2379175995370499",
+    "summary": "意大利对银行利润征收40%的暴利税后，意大利股市领跌欧股，银行股暴跌。以Azzurra Guelfi为首的花旗集团分析师表示：“鉴于对资本和利润的影响以及对银行股本成本的影响，我们认为这项税收对银行来说是非常不利的。新的模拟影响也高于4月份进行的模拟。”根据分析师的计算，这项税收相当于银行2023年净收入的约19%、有形账面价值的约3%，以及风险加权资产的约0.5%。（新浪财经）",
+    "publish_time": "2023-08-08 17:15:51",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "苏宁易购零售云交流交易大会召开，未来建设30000店",
+    "url": "https://www.36kr.com/newsflashes/2379190441209096",
+    "summary": "36氪获悉，8月8日，苏宁易购零售云召开首届交流交易大会，发布“星云计划”，未来将布局30000家门店，深耕家电主赛道，加速家居、定制、快修新赛道布局，预计2025年零售云销售规模超过500亿。",
+    "publish_time": "2023-08-08 17:17:40",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "工业富联：上半年净利润71.6亿元，同比增长4.21%",
+    "url": "https://www.36kr.com/newsflashes/2379194761014273",
+    "summary": "36氪获悉，工业富联公告，上半年实现营收2067.76亿元，同比下降8.21%；净利润71.6亿元，同比增长4.21%。",
+    "publish_time": "2023-08-08 17:22:03",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "福特CEO亲自率队驾“闪电”环游美国西部",
+    "url": "https://www.36kr.com/newsflashes/2379178082823430",
+    "summary": "由福特CEO吉姆·法利带领的一个团队目前正驾驶一辆F-150“闪电”电动皮卡在美国西部进行公路旅行。法利当地时间周一在社交媒体上发表的一篇文章中表示，该团队将利用整个路线的充电基础设施，与各种利益相关者进行接触，包括研究人员、企业、经销商、销售人员、电动汽车改装店、电动汽车司机和社区。这次公路之旅正值特斯拉的Cybertruck在加州进行测试时。（新浪财经）",
+    "publish_time": "2023-08-08 17:30:00",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "药明康德：股东拟减持不超过1%公司股份",
+    "url": "https://www.36kr.com/newsflashes/2379213000994049",
+    "summary": "36氪获悉，药明康德公告，股东Summer Bloom Investments (I) Pte. Ltd.拟减持不超过1%的公司股份。",
+    "publish_time": "2023-08-08 17:40:37",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "“高德运动”全新升级，基于出行科技提供跑步健身全链路服务",
+    "url": "https://www.36kr.com/newsflashes/2379215728143362",
+    "summary": "近日，高德地图宣布旗下“高德运动”全新升级。据介绍，该产品基于高德的实时路线规划和导航能力，可提供运动前、运动中、运动后的全方位推荐、记录与分析服务，帮助用户更好地享受跑步或骑行健身过程。即日起，用户在高德地图App上搜索“高德运动”即可进入该产品界面。",
+    "publish_time": "2023-08-08 17:43:23",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "证监会：将继续指导、推动区域性股权市场全面实现数字化转型",
+    "url": "https://www.36kr.com/newsflashes/2379179749665794",
+    "summary": "据深交所消息，8月8日，数字化赋能区域性股权市场创新发展研讨会暨“益企融”发布会在深圳举办。证监会市场二部副主任吴奇超表示，区域性股权市场区块链建设工作在穿透式监管、标准规范、资源整合、创新应用等方面取得了显著成效，下一步证监会将继续指导、推动区域性股权市场全面实现数字化转型，包括建立完善企业数字档案、深入推进链上创新应用建设、推动业务智能合约开发、进一步加强市场联通等。（上证报）",
+    "publish_time": "2023-08-08 17:45:23",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "迈瑞医疗：公司建立了有效的商业道德及合规管理框架",
+    "url": "https://www.36kr.com/newsflashes/2379220676488196",
+    "summary": "36氪获悉，迈瑞医疗8月8日在互动平台表示，在医疗反腐的背景下，医院将更加重视采购流程的规范化和经销商的合规化。公司一直视合规为生命线，对经销商的合规管理更是全行业中最为严格的。公司在全球范围内建立了有效的商业道德及合规管理框架，并设置了合规委员会作为商业道德及合规业务管理的议事和决策机构。在合规委员会的领导下，各业务部门、合规办公室以及审计、监察、法务等部门构成合规管理的三道防线，各司其职，协调配合，有效参与，形成合规管理的合力。",
+    "publish_time": "2023-08-08 17:48:25",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "不畏上半年利润腰斩，嘉能可仍寻求收购泰克资源",
+    "url": "https://www.36kr.com/newsflashes/2379181372599559",
+    "summary": "大宗商品和矿业集团嘉能可周二表示，仍在寻求收购，包括可能部分或全部收购加拿大泰克资源公司。嘉能可与力拓、泰克资源和英美资源集团等矿商竞争对手一样，利润出现下滑。嘉能可表示，将把派息规模增加10亿美元，并进一步回购12亿美元公司股票，这一规模也大大低于上年同期，部分原因是该公司表示，在竞购泰克资源的煤矿业务之际，公司将保留20亿美元现金。（智通财经）",
+    "publish_time": "2023-08-08 18:00:21",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Jailer, a unique open-source database tool",
+    "url": "https://github.com/Wisser/Jailer",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37045385\">Comments</a>",
+    "publish_time": "2023-08-08 14:49:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Norway to fine Meta $98,500 a day over user privacy breach from 14 August",
+    "url": "https://www.theguardian.com/technology/2023/aug/07/norway-meta-fine-user-privacy-breach-targeted-ads",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37045185\">Comments</a>",
+    "publish_time": "2023-08-08 14:19:45",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
