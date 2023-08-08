@@ -97,5 +97,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "数据量爆炸式增长，“万众瞩目”的MongoDB 有何解决方案？",
+    "url": "https://www.infoq.cn/article/0ZM77Ph6N4ioloJjtbv4",
+    "summary": "<p></p><p>随着人工智能和机器学习技术发展进入深水区，数据量呈现出爆炸性增长的趋势，企业需要确保应用程序能够高效地存储、处理和分析海量数据，同时还需要确保数据的高可用性和可扩展性。另外在业务要求下，企业开发者还需要确保应用程序能够支持包括实时分析和离线分析等在内的各种数据分析需求。</p><p>MongoDB 作为一种流行的<a href=\"https://xie.infoq.cn/article/5aa617805063b1c0f4ec53dee\"> NoSQL</a>\" 数据库，因其可扩展性、灵活的<a href=\"https://xie.infoq.cn/article/36c678cbc9b3f8c515827b4dc\">数据</a>\"模型和易用性而受到广泛欢迎。它能够处理各种规模的数据，并且可以轻松扩展以支持不断增长的用户和数据量，同时还提供了高可用性和冗余选项，以确保数据在硬件故障或系统维护时仍然可用，近几年一直是开发者和架构师们关注的热门数据库。</p><p></p><p>MongoDB .local （MongoDB 用户大会），是面向各行各业的<a href=\"https://xie.infoq.cn/article/372320c6bb93ddc5b7ecd0b6b\">数据库</a>\"专家、技术爱好者、客户和用户的年度盛会。MongoDB 用户大会将在 8 月 29 日北京和 8 月 31 日深圳举办。在每一场大会中，大家都将学习到 MongoDB 最新发布的技术、高效的工具和典型行业的最佳实践，帮助您轻松构建数据驱动的应用程序，帮助企业降低成本，提升开发效率。</p><p></p><p>2023 MongoDB 中国用户大会北京站</p><p>8 月 29 日，北京 JW 万豪酒店</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/62/625ed1d70890920c49d491ef449a9d80.jpeg\" /></p><p></p><p>2023 MongoDB 中国用户大会深圳站</p><p>8 月 31 日，深圳益田威斯汀酒店</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/de/ded6d0b2956f2b2aca260877c76821ab.jpeg\" /></p><p></p><p>在现场的互动展区，你可以与 MongoDB 的技术专家进行面对面交流、探讨业务需求以及所面临技术问题，技术专家们将在现场带你手把手体验 MongoDB 最新产品功能，现场指导 demo 使用。参与互动的伙伴，还可以获得多种多样的 MongoDB 周边礼物！</p><p></p><p>立即识别下方二维码进行报名</p><p>我们在现场不见不散！</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/f4/f45aceaded5ef21e02e503e57e1fb7dd.png\" /></p><p></p><p><img src=\"https://static001.geekbang.org/infoq/c6/c608ced3968364dd3dee1ddfd987635a.jpeg\" /></p><p></p><p>特别福利</p><p>大会现场前 50 名到场签到的嘉宾</p><p>还将享受早鸟福利——&nbsp;MongoDB 定制保温杯！</p><p>一定要早早到现场哦！</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/b6/b6daf95e226a60521c72a50ee194a715.jpeg\" /></p><p></p>",
+    "publish_time": "2023-08-08 17:45:56",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
