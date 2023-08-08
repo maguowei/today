@@ -1,0 +1,24 @@
+[
+  {
+    "title": "eBay改造“2.5亿次访问”页面：工作效率翻倍、变更成功率飙升",
+    "url": "https://www.infoq.cn/article/M1jtje5B5I0SD7Bxigpv",
+    "summary": "<p>eBay<a href=\"https://tech.ebayinc.com/engineering/how-ebay-modernized-the-most-important-page-on-our-platform/\">整合了负责提供“查看商品”页面的服务</a>\"——该页面每天加载超过2.5亿次——去除了重复代码，提高了开发人员的工作效率。结果，他们的团队速度翻了一番，现在甚至可以每天将变更部署到该页面，并且变更失败率降低了许多。</p><p>&nbsp;</p><p>在经历了十年的自然增长之后，eBay用于支撑“查看商品”页面的代码库已经变得相当难以维护，因为需要将更改复制到4个支撑平台（桌面、移动Web、iOS和Android）上。这导致一次页面更改需要花费数周的时间，而部署最多一个月才能进行一次。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/07/078f92fb6632dcbcbc593b7ba5e961f1.jpeg\" /></p><p></p><p>图片来源：<a href=\"https://tech.ebayinc.com/engineering/how-ebay-modernized-the-most-important-page-on-our-platform/\">https://tech.ebayinc.com/engineering/how-ebay-modernized-the-most-important-page-on-our-platform/</a>\"</p><p>&nbsp;</p><p>团队决定解决这个问题，并一致同意改进关键的<a href=\"https://www.atlassian.com/devops/frameworks/devops-metrics\">DevOps指标</a>\"（参见Nicole Forsgren、Jez Humble和Gene Kim在<a href=\"https://www.oreilly.com/library/view/accelerate/9781457191435/\">Accelerate</a>\"&nbsp;一书中的定义）。新架构需要将现有的3个服务整合到一个View Item Experience Service中，以支持不同的平台，增强所有平台的用户体验，消除重复代码，提高开发体验和生产力。</p><p>&nbsp;</p><p>为了实现增量迁移，在替换现有架构时需要引入一个新的服务。该服务开始时只负责代理数据，然后逐渐迁移并合并所有平台的业务逻辑。最后，升级客户端使其使用新服务，并停用遗留服务。</p><p>&nbsp;</p><p>为了做好变更准备，团队一开始时曾试图分析遗留代码并编写文档。事实证明，这个过程非常缓慢而有挑战性。因此，他们改变了策略，集中精力快速了解了遗留模块，获得了一个高级视图，然后基于此对现有的功能进行了逆向，并编写了描述新实现的文档。为了进一步简化流程，他们将后端更改与面向用户的更改解耦，使得后端团队可以加速后续的迁移。</p><p>&nbsp;</p><p>eBay（买家体验工程）副总裁<a href=\"https://www.linkedin.com/in/lakshimid/\">Lakshimi Duraivenkatesh</a>\"及其协同开发者描述了这项现代化工作的成果：</p><p></p><blockquote>这些改进最终将速度提高了200%。更好的是，我们立马在项目的模块迁移阶段看到了这种提升。从第一个模块到最后一个模块，每个模块的迁移都会带来相应的速度提升。随着项目接近完成，我们在新产品改进方面的的工作量已经减少了50%（以天为单位）。</blockquote><p></p><p>&nbsp;</p><p>团队超额完成了所有初始目标，变更失败率变得非常低（即使部署更频繁）。与此同时，变更的交付时间和<a href=\"https://en.wikipedia.org/wiki/Mean_time_to_recovery\">平均恢复时间（MTTR）</a>\"也大大减少了。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/55/558ea622329ca74d8268de149cd396d3.jpeg\" /></p><p></p><p>图片来源：<a href=\"https://tech.ebayinc.com/engineering/how-ebay-modernized-the-most-important-page-on-our-platform/\">https://tech.ebayinc.com/engineering/how-ebay-modernized-the-most-important-page-on-our-platform/</a>\"</p><p>&nbsp;</p><p>新的业务逻辑实现使用了新的现代化技术栈和更快的自动化管道。更好的文档、更干净的代码则改善了开发体验，降低了团队新成员的上手难度。</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2023/06/ebay-view-item-page-rework/\">https://www.infoq.com/news/2023/06/ebay-view-item-page-rework/</a>\"</p><p></p><p>相关阅读：</p><p><a href=\"https://www.infoq.cn/article/oSZ2iBOpLuxapQeZtmH0\">eBay平台自动升级解决方案</a>\"</p><p><a href=\"https://www.infoq.cn/article/U8walzaYhwOZQzsVypVj\">eBay和Lastminute采用契约测试来驱动架构演进</a>\"</p>",
+    "publish_time": "2023-08-08 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "【实战篇】通过 SoFlu 构建一个低代码平台实现过程之“表单”",
+    "url": "https://www.infoq.cn/article/08o8PUsZWETRu3puvAOu",
+    "summary": "<p>在现代企业开发中，初级开发者难以掌握开发企业级 Java 应用，中高级开发者则被繁琐任务所占据。为了让大家能快速上手可以解决这个难题的“SoFlu 软件机器人”，前蚂蚁金服技术专家杨彪设计了《2 小时学会 10 个组件“取代”传统 Java 开发》课程，本节为该系列课程的第九讲。</p>\n<p>低代码平台案例中包括页面设计、表单设计和流程引擎设计三大核心模块，而表单设计模块相对复杂，所以在本讲中将深入剖析如何通过SoFlu来实现表单创建功能。本讲主要聚焦剖析“新建表单”的接口、复杂流程、逻辑图等。</p>\n<p>大家在课后可以登录 Gitee 下载 SoFlu 软件机器人客户端进行实践：<a href=\"http://suo.im/8wROo\">点击下载</a></p>\n<p>大家可以扫码添加小助手，进学习群与专家一对一交流：<br />\n<img alt=\"\" src=\"https://static001.infoq.cn/resource/image/e8/c9/e8833a01ba0bc705acab14a572b57cc9.png\" /></p>",
+    "publish_time": "2023-08-08 09:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
