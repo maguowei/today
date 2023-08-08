@@ -1292,5 +1292,123 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "液体卫生巾 天猫88VIP尝新试",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B6%B2%E4%BD%93%E5%8D%AB%E7%94%9F%E5%B7%BE+%E5%A4%A9%E7%8C%AB88VIP%E5%B0%9D%E6%96%B0%E8%AF%95%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "魔法少女小圆即将上线",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E5%B0%8F%E5%9C%86%E5%8D%B3%E5%B0%86%E4%B8%8A%E7%BA%BF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何减掉肚子上的游泳圈",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E5%87%8F%E6%8E%89%E8%82%9A%E5%AD%90%E4%B8%8A%E7%9A%84%E6%B8%B8%E6%B3%B3%E5%9C%88%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "旅行途中，哪些「特别」的酒店/民宿让你印象深刻？",
+    "url": "https://www.zhihu.com/question/614248776",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么c#(.net)程序占用的内存远低于Java?",
+    "url": "https://www.zhihu.com/question/615720475",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价《崩坏：星穹铁道》卡芙卡角色 PV——「戏剧性反讽」?",
+    "url": "https://www.zhihu.com/question/616208868",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "手机快充续航组合怎么选，哪个组合对日常体验比较友好？",
+    "url": "https://www.zhihu.com/question/616228610",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Project IDX",
+    "url": "https://idx.dev/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37052671\">Comments</a>",
+    "publish_time": "2023-08-09 01:33:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Friendly Captcha – GDPR-Compliant Bot Protection",
+    "url": "https://friendlycaptcha.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37052831\">Comments</a>",
+    "publish_time": "2023-08-09 01:46:07",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "ChimeraOS: Instantly turn any PC into a gaming console",
+    "url": "https://chimeraos.org/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37052875\">Comments</a>",
+    "publish_time": "2023-08-09 01:49:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Agentflow – Run Complex LLM Workflows from Simple JSON",
+    "url": "https://github.com/simonmesmith/agentflow",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37052979\">Comments</a>",
+    "publish_time": "2023-08-09 01:57:13",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Inception: A simple XOR can cause a Microarchitectural Stack Overflow",
+    "url": "https://comsec.ethz.ch/research/microarch/inception/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37051423\">Comments</a>",
+    "publish_time": "2023-08-09 00:20:33",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
