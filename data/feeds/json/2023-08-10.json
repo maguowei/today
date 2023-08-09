@@ -1470,5 +1470,134 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "杨幂又戴桃子耳环了",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%8F%88%E6%88%B4%E6%A1%83%E5%AD%90%E8%80%B3%E7%8E%AF%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "雷军宣布将于8月14日举办年度演讲",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%AE%A3%E5%B8%83%E5%B0%86%E4%BA%8E8%E6%9C%8814%E6%97%A5%E4%B8%BE%E5%8A%9E%E5%B9%B4%E5%BA%A6%E6%BC%94%E8%AE%B2%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "卡芙卡上线",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8D%A1%E8%8A%99%E5%8D%A1%E4%B8%8A%E7%BA%BF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "什么牌子的胶原蛋白好？",
+    "url": "https://www.zhihu.com/question/48875271",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "8 月 9 日三大指数收跌，减肥药概念股大涨，AI 概念调整，超 3800 股下跌，如何看待今日行情？",
+    "url": "https://www.zhihu.com/question/616369454",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "拼多多上的水果怎么样？有没有值得推荐的店铺?",
+    "url": "https://www.zhihu.com/question/616397945",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "银行理财首度被公募基金反超，存续规模降至 25 万亿元，银行理财不香了？你买过哪些理财产品？",
+    "url": "https://www.zhihu.com/question/616254274",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "When did Postgres become cool?",
+    "url": "https://www.crunchydata.com/blog/when-did-postgres-become-cool",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37066292\">Comments</a>",
+    "publish_time": "2023-08-10 01:54:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Making AMD GPUs competitive for LLM inference",
+    "url": "https://blog.mlc.ai/2023/08/09/Making-AMD-GPUs-competitive-for-LLM-inference",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37066522\">Comments</a>",
+    "publish_time": "2023-08-10 02:15:24",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Optimization Techniques for GPU Programming [pdf]",
+    "url": "https://dl.acm.org/doi/pdf/10.1145/3570638",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37067894\">Comments</a>",
+    "publish_time": "2023-08-10 04:25:14",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "BuildZoom (YC W13) Is hiring a Growth Associate",
+    "url": "https://jobs.lever.co/buildzoom",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37068346\">Comments</a>",
+    "publish_time": "2023-08-10 05:01:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Hacker News home page spoof",
+    "url": "http://canonical.org/~kragen/sw/dev3/hackonfuse/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37068695\">Comments</a>",
+    "publish_time": "2023-08-10 05:28:05",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Launch HN: Refine (YC S23) – Open-Source Retool alternative for enterprise",
+    "url": "https://news.ycombinator.com/item?id=37064822",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37064822\">Comments</a>",
+    "publish_time": "2023-08-10 00:11:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
