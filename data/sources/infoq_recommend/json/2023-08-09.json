@@ -20,5 +20,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "【实战篇】通过 SoFlu 构建一个低代码平台实现过程之“应用管理”",
+    "url": "https://www.infoq.cn/article/jep62hkJKNBh41t48uaq",
+    "summary": "<p>在现代企业开发中，初级开发者难以掌握开发企业级 Java 应用，中高级开发者则被繁琐任务所占据。为了让大家能快速上手可以解决这个难题的“SoFlu 软件机器人”，前蚂蚁金服技术专家杨彪设计了《2 小时学会 10 个组件“取代”传统 Java 开发》课程，本节为该系列课程的第十讲，也是本系列课程的最后一讲。</p>\n<p>自第八讲起，我们进入到了实战教学篇，应用“SoFlu 软件机器人”进行一个低代码平台的开发，上一讲我们讲到了了低代码平台的“表单剖析”，这一讲杨彪将再为大家来讲一下《实现过程之“应用管理”剖析：导入导出》。通过本节课程，你可以了解应用管理功能的使用情况，以及导入导出功能背后的实现流程。</p>\n<p>大家在课后可以登录 Gitee 下载 SoFlu 软件机器人客户端进行实践：<a href=\"http://suo.im/8wROo\">点击下载</a></p>\n<p>大家可以扫码添加小助手，进学习群与专家一对一交流：<br />\n<img alt=\"\" src=\"https://static001.infoq.cn/resource/image/e8/c9/e8833a01ba0bc705acab14a572b57cc9.png\" /></p>",
+    "publish_time": "2023-08-09 09:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
