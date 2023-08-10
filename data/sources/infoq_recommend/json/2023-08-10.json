@@ -9,5 +9,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "百度百舸平台的大模型训练最佳实践",
+    "url": "https://www.infoq.cn/article/IZztkSiz8DGvvC6yNr9b",
+    "summary": "<p>在《大模型时代的 AI 基础设施——百度 AI 大底座》系列云智公开课第八讲中，杨亮老师为我们介绍了百度百舸平台在大模型训练方面的实践。</p>\n<p>百舸异构计算平台是一个面向大模型的基础设施平台，是面向AI原生云时代打造的AI基础设施。杨亮老师在本次演讲中对百舸异构计算平台进行了全面介绍后，对大模型训练稳定性实践和大模型训推加速实践方面进行了详细解析。</p>\n<p>希望本期视频可以让各位了解更多大模型方面的技术干货 。</p>",
+    "publish_time": "2023-08-10 13:57:05",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
