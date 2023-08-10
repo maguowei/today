@@ -64,5 +64,27 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "springboot+activiti+vue+mysql轻松搞定审批！（源码）",
+    "url": "https://www.infoq.cn/article/04a5ce9315606779a577dbe56",
+    "summary": "<p>目前市场上有很多开源平台没有整合工作流，即使有，也是价格不菲的商业版，来看这篇文章的估计也了解了行情，肯定不便宜。我这个快速开发平台在系统基础功能（用户管理，部门管理…）上整合了工作流，你可以直接用来开发ERP，OA，CRM等企业级应用，不用再担心如何再去花大量的时间集成工作流进来。目前是单独把这一套给抽取出来了，做成了可插拔的，可以非常方便的整合到你的程序中。下面我们来一起看看吧。</p><p>一、项目技术栈</p><p>springboot+vue+activiti集成了activiti在线编辑器，快速开发平台，可插拔工作流服务。</p><p>二、项目介绍</p><p>本项目拥有用户管理，部门管理，代码生成，系统监管，报表，大屏展示，业务审批等功能。功能太强大，只能粗矿的介绍，所见即所得，体验一下吧。</p><p>三、工作流</p><p>1.流程模型绘制</p><p>进入流程模型菜单，创建流程模型，这里涉及到网关流转，需要设置流转条件，我们这里是三十岁以上的走下面分支，三十岁以下的走上面的分支。点击分支线，设置流转条件即可。${age&lt;=30}。保存后我们在列表中点击发布即可。</p><p><img src=\"https://static001.geekbang.org/infoq/5c/5cb6d1c01c21079b99b39ab57469a419.png\" /></p><p></p><p><img src=\"https://static001.geekbang.org/infoq/ce/cec88384cb85dca70c9a7c860f789a3d.png\" /></p><p></p><p><img src=\"https://static001.geekbang.org/infoq/2c/2c3133385f03f6bfcf0451cad5079068.png\" /></p><p>2.流程配置</p><p>发布后，就到了已发布模型列表，在启用之前，我们需要先对进行节点设置和关联具体单据。</p><p><img src=\"https://static001.geekbang.org/infoq/34/3408ed5c845147eef8b11de8b846b659.png\" /></p><p>审批人员可以根据角色，直接指定人，部门，部门负责人，发起人部门负责人来进行配置，基本上满足所有的流转需求，并且可以设置表单变量。</p><p><img src=\"https://static001.geekbang.org/infoq/28/28019e354a47e5b48a53bad956d7afa1.png\" /></p><p>设置流程表单，目前就做了一个请假的测试表单，并且可以对相应角色授权，做到自定义权限。</p><p><img src=\"https://static001.geekbang.org/infoq/b1/b1e95f85dfa96108cdf79a29f83456c7.png\" /></p><p>设置完后启动即可。</p><p>3.流程提交</p><p>填写请假表单</p><p><img src=\"https://static001.geekbang.org/infoq/b8/b833c1e5206a577d1ffeaec1ba16e79b.png\" /></p><p></p><p><img src=\"https://static001.geekbang.org/infoq/92/922fdb9190efe6cb99b4d57856bfc948.png\" /></p><p>提交单据，优先级分为普通，重要，紧急。消息通知可以选择站内通知，短信，邮件。</p><p><img src=\"https://static001.geekbang.org/infoq/a2/a23ffe0091869b5fa33d53a9b893e671.png\" /></p><p>提交之后可以撤回单据。</p><p><img src=\"https://static001.geekbang.org/infoq/ec/eca6fb3613463bedd784d67feb533e1b.png\" /></p><p>查看流程流转进度情况。</p><p><img src=\"https://static001.geekbang.org/infoq/be/be4173aec5a0a7a41f3ee084305b8c32.png\" /></p><p>也可以挂起，删除流程。</p><p><img src=\"https://static001.geekbang.org/infoq/29/2965e2d2609c69234a0c1a9c9a3fb237.png\" /></p><p>4.流程审批</p><p>办理人审批列表，可以处理单据（驳回或者通过），也可以委托他人待办。</p><p><img src=\"https://static001.geekbang.org/infoq/f0/f020ddabebc56b51541b957c2b75ad65.png\" /></p><p>审批通过。</p><p><img src=\"https://static001.geekbang.org/infoq/a6/a6c88b7977923e4cf62a821a8dc35dd9.png\" /></p><p>委托他人待代。</p><p><img src=\"https://static001.geekbang.org/infoq/8c/8c644c872dd128b4706149856710f57c.png\" /></p><p>审批通过后进入已办列表。</p><p><img src=\"https://static001.geekbang.org/infoq/1e/1ebbbb6a77f88a254855f44dbd33b48c.png\" /></p><p>年龄大于30岁，进入下面分支流转。</p><p><img src=\"https://static001.geekbang.org/infoq/66/663cda9bd3cde46d47c7d6ecbe21982f.png\" /></p><p>审批通过。</p><p><img src=\"https://static001.geekbang.org/infoq/72/72eeca73176f3499794e6b2cf4947004.png\" /></p><p>5.待办信息推送</p><p>站内消息推送。</p><p><img src=\"https://static001.geekbang.org/infoq/02/023049a6b30e3f7b7fe001371d05896c.png\" /></p><p>总结</p><p>上面只是展示了平台的审批流功能，还有其他很多功能没展示出来，自己也写了一些非常好用的组件，做到系统敏捷快速开发，大大减少开发时间和成本，目前正在对接移动端审批。之前由于没有时间去部署线上测试环境，考虑近期部署，目前可以单独找我，远程演示，有需要源码的联系我，私信。</p><p>鸣谢：</p><p>咖啡兔activiti实战https://kafeitu.me/</p>",
+    "publish_time": "2023-08-10 10:06:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "零代码应用实例",
+    "url": "https://www.infoq.cn/article/IljpS4ch9SelIOQs5y2b",
+    "summary": "<p>明道云迄今已经发布过《各行业零代码应用案例集锦》，也发表了我们服务各行业标杆客户的客户故事。不少客户表示：案例看过无数，但还是缺少了一些真实上手的感觉，有限的文字难以充分表达客户的使用效果和案例中的精妙设计。</p><p></p><p>为此，明道云正式推出《零代码应用实例》（No Code, True Case）系列内容。它将收录明道云团队为真实客户做过的 POC 应用或脱敏后的交付项目，你可以免费下载安装这些应用，亲自上手体验。</p><p></p><p>作为首卷《零代码应用实例》，我们优先把绝大部分企业都需要的人事、财务费控、销售管理应用实例收录其中。此外还有建材行业的复杂报价系统、软件行业的项目管理，以及内外协同的工单中心，展示明道云在不同行业的需求满足度和使用灵活性。后续，我们将继续增添更多具备行业代表性和参考价值的应用实例。</p><p></p><p>事不宜迟，点击下载，即可领取《零代码应用实例》。</p><p></p><h3>目录：</h3><p></p><p>导语全人事管理销售漏斗管理复杂报价系统软件项目管理内外协同的工单中心RPIC：一个简明的信息架构方法关于明道云</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/6b/6be649677a7a2a0f4820310058a76441.png\" /></p><p>扫/码/下/载</p>",
+    "publish_time": "2023-08-10 17:30:38",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
