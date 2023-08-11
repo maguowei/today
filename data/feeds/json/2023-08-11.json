@@ -6807,5 +6807,438 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "大戏看北京",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%88%8F%E7%9C%8B%E5%8C%97%E4%BA%AC%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "大爷高铁上戴耳机喝白酒全程安静",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%88%B7%E9%AB%98%E9%93%81%E4%B8%8A%E6%88%B4%E8%80%B3%E6%9C%BA%E5%96%9D%E7%99%BD%E9%85%92%E5%85%A8%E7%A8%8B%E5%AE%89%E9%9D%99%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "野挺有趣全员是懂国风的",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%87%8E%E6%8C%BA%E6%9C%89%E8%B6%A3%E5%85%A8%E5%91%98%E6%98%AF%E6%87%82%E5%9B%BD%E9%A3%8E%E7%9A%84%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "浙江今年出了名女飞行学员",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E4%BB%8A%E5%B9%B4%E5%87%BA%E4%BA%86%E5%90%8D%E5%A5%B3%E9%A3%9E%E8%A1%8C%E5%AD%A6%E5%91%98%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "华为上半年销售收入3109亿元",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E4%B8%8A%E5%8D%8A%E5%B9%B4%E9%94%80%E5%94%AE%E6%94%B6%E5%85%A53109%E4%BA%BF%E5%85%83%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "女孩疑被诱骗跑进加油站求助逃脱",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E7%96%91%E8%A2%AB%E8%AF%B1%E9%AA%97%E8%B7%91%E8%BF%9B%E5%8A%A0%E6%B2%B9%E7%AB%99%E6%B1%82%E5%8A%A9%E9%80%83%E8%84%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "李莲花特别厉害",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8E%B2%E8%8A%B1%E7%89%B9%E5%88%AB%E5%8E%89%E5%AE%B3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "假如长相思弹幕有声音",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%81%87%E5%A6%82%E9%95%BF%E7%9B%B8%E6%80%9D%E5%BC%B9%E5%B9%95%E6%9C%89%E5%A3%B0%E9%9F%B3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "哈登郭艾伦单挑",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%93%88%E7%99%BB%E9%83%AD%E8%89%BE%E4%BC%A6%E5%8D%95%E6%8C%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "把西瓜皮吃成透明的也是技术",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%8A%8A%E8%A5%BF%E7%93%9C%E7%9A%AE%E5%90%83%E6%88%90%E9%80%8F%E6%98%8E%E7%9A%84%E4%B9%9F%E6%98%AF%E6%8A%80%E6%9C%AF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "活死人嘉宾GNZ48",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B4%BB%E6%AD%BB%E4%BA%BA%E5%98%89%E5%AE%BEGNZ48%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "在自习室被留了纸条",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%9C%A8%E8%87%AA%E4%B9%A0%E5%AE%A4%E8%A2%AB%E7%95%99%E4%BA%86%E7%BA%B8%E6%9D%A1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "妲己用一句话让太子破防",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A6%B2%E5%B7%B1%E7%94%A8%E4%B8%80%E5%8F%A5%E8%AF%9D%E8%AE%A9%E5%A4%AA%E5%AD%90%E7%A0%B4%E9%98%B2%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "七时吉祥",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%83%E6%97%B6%E5%90%89%E7%A5%A5%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "中国已成为全球生育率最低的国家之一",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%B7%B2%E6%88%90%E4%B8%BA%E5%85%A8%E7%90%83%E7%94%9F%E8%82%B2%E7%8E%87%E6%9C%80%E4%BD%8E%E7%9A%84%E5%9B%BD%E5%AE%B6%E4%B9%8B%E4%B8%80%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "无期迷途展台",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%97%A0%E6%9C%9F%E8%BF%B7%E9%80%94%E5%B1%95%E5%8F%B0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "全国文化中心建设十件大事喊你来投票",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E6%96%87%E5%8C%96%E4%B8%AD%E5%BF%83%E5%BB%BA%E8%AE%BE%E5%8D%81%E4%BB%B6%E5%A4%A7%E4%BA%8B%E5%96%8A%E4%BD%A0%E6%9D%A5%E6%8A%95%E7%A5%A8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "KPL",
+    "url": "https://s.weibo.com/weibo?q=%23KPL%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "2023截至目前TikTok人气最高男团歌曲",
+    "url": "https://s.weibo.com/weibo?q=%232023%E6%88%AA%E8%87%B3%E7%9B%AE%E5%89%8DTikTok%E4%BA%BA%E6%B0%94%E6%9C%80%E9%AB%98%E7%94%B7%E5%9B%A2%E6%AD%8C%E6%9B%B2%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "EDG 向 TheShy 道歉，该事件的具体情况是什么？",
+    "url": "https://www.zhihu.com/question/616586628",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "出口仍在下滑，中国外贸何时现转机？",
+    "url": "https://www.zhihu.com/question/616240278",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "不考虑预算，做一个  15 天的情侣旅行计划，你会如何制定？",
+    "url": "https://www.zhihu.com/question/616388177",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "工作家庭两点一线，和对象慢慢变得无话可聊，我该从哪些话题切入让两个人敞开心扉、情感回温？",
+    "url": "https://www.zhihu.com/question/613869971",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "看完《长安三万里》后你的感受是怎么样的？",
+    "url": "https://www.zhihu.com/question/611294788",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "大一新生报ACCA,有必要吗？",
+    "url": "https://www.zhihu.com/question/37567837",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "要么在家一起睡觉，要么因为工作焦头烂额，当「抽空恋爱」成了日常，打工人情侣应该如何维护感情？",
+    "url": "https://www.zhihu.com/question/614265225",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "当下大部分年轻人为什么会厌恶相亲，却偏爱网恋？",
+    "url": "https://www.zhihu.com/question/614078583",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "恋爱关系里的「无限包容」是慢性毒药吗？亲密关系中的自我成长有多重要？",
+    "url": "https://www.zhihu.com/question/614273299",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "秒回消息、不粘人、有有房车户口、有精神共鸣……你认为在亲密关系的选择上，什么才是「合适的人」？",
+    "url": "https://www.zhihu.com/question/614254519",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "社交平台日益泛化，因不想在网上碰到熟人，「电子搬家」孕育而生，你经历过「电子搬家」吗？反映出什么现象？",
+    "url": "https://www.zhihu.com/question/616780037",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "华为上半年实现销售收入 3109 亿元人民币，同比增长 3.1%，哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/616785070",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "跨境电商服务平台“哎呷跨境”发布“千仓计划”",
+    "url": "https://www.36kr.com/newsflashes/2383524035671296",
+    "summary": "36氪获悉，近日，跨境电商服务平台“哎呷跨境”正式发布“千仓计划”。据介绍，该计划将以东南亚为起点，3年内将在全球范围内接入1000+仓储运营中心。通过布局所在国家地区的仓储网络，连接高效的仓储系统，整合哎呷生态仓，可为全球出海卖家提供多仓备货、卖家专属仓、B2B/B2C混合仓等一体化仓储物流解决方案。",
+    "publish_time": "2023-08-11 19:02:40",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "南都物业：部分信托产品逾期兑付",
+    "url": "https://www.36kr.com/newsflashes/2383541197140995",
+    "summary": "36氪获悉，南都物业公告称，2023年2月9日，公司使用闲置自有资金3,000万元购买了中融-汇聚金1号货币基金集合资金信托计划，产品期限自2023年2月9日至2023年8月8日。截至本公告披露日，公司尚未收到汇聚金1号本金及投资收益。公司正在积极联系各相关方，督促中融信托尽快向公司兑付投资本金及收益，尽最大努力保障公司利益，同时准备相关材料，通过诉讼等途径以最大程度减少公司的潜在损失。",
+    "publish_time": "2023-08-11 19:03:29",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "安徽合力：上半年净利润6.58亿元，同比增52.51%",
+    "url": "https://www.36kr.com/newsflashes/2383545532347654",
+    "summary": "36氪获悉，安徽合力公告称，上半年公司实现营业收入86.13亿元，同比增长7.33%；净利润6.58亿元，同比增长52.51%；基本每股收益0.89元。",
+    "publish_time": "2023-08-11 19:07:53",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "三孚新科：拟定增募资不超过5.92亿元",
+    "url": "https://www.36kr.com/newsflashes/2383543085954056",
+    "summary": "36氪获悉，三孚新科公告称，拟定增募资不超过5.92亿元，用于新型环保表面工程专用材料项目、复合铜箔高端成套装备制造项目、补充流动资金。公司同日公告，拟以全资子公司三孚（江苏）新材料科技有限公司作为项目实施主体在高邮经济开发区建设新型环保表面工程专用材料及复合铜箔高端成套装备制造项目，占地约113亩。项目计划总投资不低于3亿元。",
+    "publish_time": "2023-08-11 19:11:21",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "深圳燃气：拟分拆所属子公司至创业板上市",
+    "url": "https://www.36kr.com/newsflashes/2383551945372928",
+    "summary": "36氪获悉，深圳燃气公告，拟分拆所属子公司江苏斯威克新材料股份有限公司至创业板上市。",
+    "publish_time": "2023-08-11 19:14:25",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "TCL中环参股公司Maxeon拟投资12亿美元建美国最大太阳能电池板厂",
+    "url": "https://www.36kr.com/newsflashes/2383567188325636",
+    "summary": "TCL中环参股公司Maxeon宣布计划投资12亿美元，建造美国最大的多晶硅太阳能电池板工厂。选址位于新墨西哥州阿尔伯克基的新厂预计将于2025年投产，每年可制造3GW的太阳能电池和电池板，使Maxeon的产能翻一番。截至今年5月22日，TCL中环持有Maxeon约27%股份，道达尔能源持股约18%，分别为第一、二大股东。（界面）",
+    "publish_time": "2023-08-11 19:29:55",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "三峡新材：股东拟减持不超1%公司股份",
+    "url": "https://www.36kr.com/newsflashes/2383569641846022",
+    "summary": "36氪获悉，三峡新材公告称，持股7.14%的股东深圳市前海佳浩投资合伙企业（有限合伙）拟减持不超1%公司股份。",
+    "publish_time": "2023-08-11 19:32:25",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "光大信托回应“产品停兑”传闻：公司管理的信托产品运营正常",
+    "url": "https://www.36kr.com/newsflashes/2383582354863363",
+    "summary": "36氪获悉，光大信托在官网就“部分信托产品停兑”传闻回应称：“就近日网络流传的关于光大信托产品兑付的不实言论，我司作出严正申明：公司管理的信托产品运营正常，均按照信托合同约定进行管理和信托利益分配，对于不实言论和传言公司将依法保留追究法律责任的权利。”",
+    "publish_time": "2023-08-11 19:45:21",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "传北京头部私募裁员30%，多家公司辟谣",
+    "url": "https://www.36kr.com/newsflashes/2383589600261126",
+    "summary": "继昨日卖方裁员消息传出后，买方也开始行动了，帝都头部私募裁员30%，一场风暴正在来临”的消息在金融圈广泛流传。对此，淡水泉、源乐晟、盘京等北京头部私募均表示，没有裁员情况，公司团队稳定，社招和校招都积极进行，甚至今年一直在逆势招人。（中证网）",
+    "publish_time": "2023-08-11 19:52:43",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "科大讯飞：上半年营收78.42亿元，讯飞AI学习机 5-6月分别增长136%和217%",
+    "url": "https://www.36kr.com/newsflashes/2383592789505028",
+    "summary": "36氪获悉，科大讯飞公告称，上半年营业收入78.42亿元，同比下降2.26%；净利润7357.2万元，同比下降73.54%；毛利31.47亿元。科大讯飞于今年5月6日发布了“讯飞星火认知大模型”，在大模型的助力下，科大讯飞C端智能硬件GMV创历史新高，5-6月同比翻倍增长；讯飞AI学习机GMV在5月和6月分别增长136%和217%。",
+    "publish_time": "2023-08-11 19:55:58",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "明略科技开源TensorBoard.cpp，助力大模型预训练",
+    "url": "https://www.infoq.cn/article/CLG0Amw8Lo7zhuML5XrJ",
+    "summary": "<p>近日，明略科技集团实现了机器学习可视化工具——TensorBoard的C++接口，进一步丰富了基于C++的大模型项目工具集，使得大模型预训练过程监控更加便捷、高效，加速营销领域大模型预训练进程。该工具已在Github开源。</p><p>&nbsp;</p><p>TensorBoard是Google开发的一款机器学习可视化工具，常用于监测机器学习过程的各项指标。明略科技高级技术总监赵亮介绍：“在大模型训练过程中，数据监测是一个重要维度，而TensorBoard通过可视化模型中的各种参数和结果，例如记录大模型训练过程的Loss变化、验证集的PPL变化、学习率变化、Token消耗量、单步参数更新时延等指标，帮助分析训练状态，发现训练过程中出现的问题并及时采取干预措施，提升大模型训练进程和效果。”</p><p>&nbsp;</p><p>此前，TensorBoard仅支持Python语言接口。此次明略科技通过C++实现TensorBoard，将进一步丰富基于C++实现的大模型项目工具集，大幅提升模型训练监测效率，加速模型训练进程，改写接口后的工具将通过多维度的数据模式展示训练指标，包括标量、直方图、图像、图像合集、音频、文本等数据模式。该工具包通过github项目Tensorboard.cpp分享，助力更多研究者和开发者参与并加速大模型的研发进程，推动人工智能多领域的应用探索。</p><p>&nbsp;</p><p>明略科技在Github开源的两款工具包：ASR-BlockFormer与tensorboard.cpp</p><p>&nbsp;</p><p>明略科技集团CTO郝杰表示：</p><p></p><p>“我们要在更高效、更低成本的要求下做出营销领域的大模型，通过自适应技术提升大模型的能力。好的行业大模型需要具备通用大模型的逻辑性、语言顺畅度，同时还需要实现通用大模型所不具备的，在某个行业内或具体的领域中的真实性、专业性。我们以明略科技凭借17年来积累的海量行业数据为基础，从客户实际需求出发，借助庞大的数据和知识库进行增强训练，满足客户多样化的任务和场景需求。在训练监测可视化工具的加持下，我们将提升训练速度，及时发现问题，为客户打造一个更加可靠、效果更好的行业大模型。”</p><p>&nbsp;</p><p>&nbsp;</p>",
+    "publish_time": "2023-08-11 17:35:33",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "架构师（2023 年 8月）",
+    "url": "https://www.infoq.cn/article/l428myBt89OCybsmXQqB",
+    "summary": "<p></p><h2>卷首语：我们能从 Telegram 的开发中学到什么？</h2><p></p><p></p><p>Telegram 由 Nikolai 和 Pavel Durov 两兄弟于 2013 年推出。根据维基百科的统计，截至 2023 年 7 月，Telegram 的月活跃用户已突破 8 亿。这一用户规模可与国民软件 QQ 相媲美。根据 2023 年第一季度的财报数据，24 岁高龄的 QQ 移动终端月活跃用户为 5.97 亿。</p><p></p><p>虽然规模很大，但 Telegram 性能非常优异，其系统指标是一众社交软件看齐的对象。同时，始终坚持采用纯原生的方式实现，技术栈简洁干净。此外，自 Telegram 成立以来的这些年里，其受欢迎程度一直在持续增长，深受开发者推崇：“自从用了 Telegram，我才知道某些即时通讯软件有多垃圾。”</p><p></p><p>在创办 Telegram 之前，这两位兄弟曾共同创建了俄罗斯社交网络 VK。从技术角度来看，VK 同样是一款出色的软件。根据 VK 的早期员工透露，尽管 VK 已经成熟，Pavel 仍然对产品功能保持着高度控制，并怀有极高的期望：“Pavel 对质量设定了极高的标准……不论是代码质量还是最终产品的品质。你必须用尽所能，使用各种方式达到这一标准。”在创办 Telegram 时，他们持续坚守这一高标准。</p><p></p><p>据报道，Pavel 在控制方面一直具有独特性，他还引导着公司的愿景。一名员工形容他为“具有远见的人”，能够吸引并团结杰出工程师，以实现共同的目标。尽管 Telegram 规模超越 QQ，但仅由一支小团队组成，由于团队采用扁平化的管理结构，他们负责的产品能够快速推进。</p><p></p><p>另外，他对人才的要求也很高，很少有公司像 Telegram 那样拥有如此多的才华横溢的工程师。他们喜欢用“竞赛”来招募人才，比如通过举办“开发者挑战赛”来改进其产品并寻找新的队友。该公司曾举办了一场“GIF 大赛”，数千人参加了这个比赛，Telegram 再从这个人才库中聘用“前两名或前三名”。这是该公司在其整个生命周期中始终保持精简的部分原因。毫不夸张地说，它招聘的工程师是<a href=\"https://www.generalist.com/briefing/telegram\">最顶尖的 0.1%</a>\"。</p><p></p><p>这种对技术和人才的高标准，使得 Telegram 在经过十年的发展后仍能在功能和技术方面保持高度内聚。或许我们应该庆幸有着 Telegram 这样的存在，它不仅提升了社交软件开发的标准，还推动了其竞争对手进行改进。</p><p></p><h2>目录</h2><p></p><p>热点 | Hot</p><p></p><p>MySQL 之父：不要把一个优秀的开发者提升为管理者，那会是种资源浪费</p><p></p><p>字节跳动开源 KubeAdmiral：基于 K8s 的新一代多集群编排调度引擎</p><p></p><p>比 JDK 最高快 170 倍，蚂蚁集团开源高性能多语言序列化框架 Fury</p><p></p><p>不到一年，Istio 项目正式从 CNCF 毕业</p><p></p><p>第一批因 AIGC 裁掉自家员工的老板该后悔了？</p><p></p><p>访谈文章 | Interview</p><p></p><p>专访 OpenSSF CTO：安全问题应该考虑在构建模型之前，别出了问题就让 ChatGPT“背锅”</p><p></p><p>案例研究 | Case Study</p><p></p><p>财报会议新时代：如何将 AI 训练成资深 CFO</p><p></p><p>小白大挑战：24 小时内用 ChatGPT 和 Next.js 开发开源项目，吸引上万用户！</p><p></p><p>面向大模型的存储加速方案设计和实践</p><p></p><p>Cube 轻量虚拟化如何做到 100ms 交付一个安全容器</p><p></p><p>如何挖掘 Bazel 的极致性能</p><p></p><p>面向故障处理的可观测性体系建设</p><p></p><p>推荐文章 | Article</p><p></p><p>红帽：我们为什么要改变 RHEL 源码的发布策略？</p><p></p><p>LLM 对程序员的冲击和影响</p><p></p><p>高薪缺人，但要懂全栈懂 LLM，一个全新职业正在兴起！</p><p></p><p>黄东旭：我对数据库如何 Serverless 化的一些思考</p><p></p><p>C++ 变化太大！该重新学习这门语言了</p><p></p><p>5 天内用户数破亿、增速碾压 ChatGPT，Twitter 劲敌 Threads 是如何构建的？</p><p></p><p>特别专题｜实时数仓 Apache Doris 精选实践</p><p></p><p>日增百亿数据，查询结果秒出， Apache Doris 在 360 商业化的统一 OLAP 应用实践</p><p></p><p>Apache Doris 在叮咚买菜的应用实践</p><p></p><p>天眼查基于 Apache Doris 构建统一实时数仓实践</p><p></p><p>星云零售信贷基于 Apache Doris 的 OLAP 演进之路</p><p></p><p>百亿大表 Join 提速 300 倍！Apache Doris 在约苗数据平台的实时数仓建设实践</p><p></p><p>特别专栏 | Video</p><p></p><p>本月，这些视频值得一看！</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/39/390761402e3d3b5e6a7d3ae8fa6bac60.png\" /></p><p>扫/码/下/载</p>",
+    "publish_time": "2023-08-11 18:04:18",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "The Bipolar Lisp Programmer (2007)",
+    "url": "https://www.marktarver.com/bipolar.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37086301\">Comments</a>",
+    "publish_time": "2023-08-11 16:13:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Shamir Secret Sharing – how PayPal nearly died",
+    "url": "https://max.levch.in/post/724289457144070144/shamir-secret-sharing-its-3am-paul-the-head-of",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37087136\">Comments</a>",
+    "publish_time": "2023-08-11 18:38:21",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]

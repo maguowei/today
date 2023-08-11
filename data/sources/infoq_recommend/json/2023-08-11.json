@@ -130,5 +130,27 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "明略科技开源TensorBoard.cpp，助力大模型预训练",
+    "url": "https://www.infoq.cn/article/CLG0Amw8Lo7zhuML5XrJ",
+    "summary": "<p>近日，明略科技集团实现了机器学习可视化工具——TensorBoard的C++接口，进一步丰富了基于C++的大模型项目工具集，使得大模型预训练过程监控更加便捷、高效，加速营销领域大模型预训练进程。该工具已在Github开源。</p><p>&nbsp;</p><p>TensorBoard是Google开发的一款机器学习可视化工具，常用于监测机器学习过程的各项指标。明略科技高级技术总监赵亮介绍：“在大模型训练过程中，数据监测是一个重要维度，而TensorBoard通过可视化模型中的各种参数和结果，例如记录大模型训练过程的Loss变化、验证集的PPL变化、学习率变化、Token消耗量、单步参数更新时延等指标，帮助分析训练状态，发现训练过程中出现的问题并及时采取干预措施，提升大模型训练进程和效果。”</p><p>&nbsp;</p><p>此前，TensorBoard仅支持Python语言接口。此次明略科技通过C++实现TensorBoard，将进一步丰富基于C++实现的大模型项目工具集，大幅提升模型训练监测效率，加速模型训练进程，改写接口后的工具将通过多维度的数据模式展示训练指标，包括标量、直方图、图像、图像合集、音频、文本等数据模式。该工具包通过github项目Tensorboard.cpp分享，助力更多研究者和开发者参与并加速大模型的研发进程，推动人工智能多领域的应用探索。</p><p>&nbsp;</p><p>明略科技在Github开源的两款工具包：ASR-BlockFormer与tensorboard.cpp</p><p>&nbsp;</p><p>明略科技集团CTO郝杰表示：</p><p></p><p>“我们要在更高效、更低成本的要求下做出营销领域的大模型，通过自适应技术提升大模型的能力。好的行业大模型需要具备通用大模型的逻辑性、语言顺畅度，同时还需要实现通用大模型所不具备的，在某个行业内或具体的领域中的真实性、专业性。我们以明略科技凭借17年来积累的海量行业数据为基础，从客户实际需求出发，借助庞大的数据和知识库进行增强训练，满足客户多样化的任务和场景需求。在训练监测可视化工具的加持下，我们将提升训练速度，及时发现问题，为客户打造一个更加可靠、效果更好的行业大模型。”</p><p>&nbsp;</p><p>&nbsp;</p>",
+    "publish_time": "2023-08-11 17:35:33",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "架构师（2023 年 8月）",
+    "url": "https://www.infoq.cn/article/l428myBt89OCybsmXQqB",
+    "summary": "<p></p><h2>卷首语：我们能从 Telegram 的开发中学到什么？</h2><p></p><p></p><p>Telegram 由 Nikolai 和 Pavel Durov 两兄弟于 2013 年推出。根据维基百科的统计，截至 2023 年 7 月，Telegram 的月活跃用户已突破 8 亿。这一用户规模可与国民软件 QQ 相媲美。根据 2023 年第一季度的财报数据，24 岁高龄的 QQ 移动终端月活跃用户为 5.97 亿。</p><p></p><p>虽然规模很大，但 Telegram 性能非常优异，其系统指标是一众社交软件看齐的对象。同时，始终坚持采用纯原生的方式实现，技术栈简洁干净。此外，自 Telegram 成立以来的这些年里，其受欢迎程度一直在持续增长，深受开发者推崇：“自从用了 Telegram，我才知道某些即时通讯软件有多垃圾。”</p><p></p><p>在创办 Telegram 之前，这两位兄弟曾共同创建了俄罗斯社交网络 VK。从技术角度来看，VK 同样是一款出色的软件。根据 VK 的早期员工透露，尽管 VK 已经成熟，Pavel 仍然对产品功能保持着高度控制，并怀有极高的期望：“Pavel 对质量设定了极高的标准……不论是代码质量还是最终产品的品质。你必须用尽所能，使用各种方式达到这一标准。”在创办 Telegram 时，他们持续坚守这一高标准。</p><p></p><p>据报道，Pavel 在控制方面一直具有独特性，他还引导着公司的愿景。一名员工形容他为“具有远见的人”，能够吸引并团结杰出工程师，以实现共同的目标。尽管 Telegram 规模超越 QQ，但仅由一支小团队组成，由于团队采用扁平化的管理结构，他们负责的产品能够快速推进。</p><p></p><p>另外，他对人才的要求也很高，很少有公司像 Telegram 那样拥有如此多的才华横溢的工程师。他们喜欢用“竞赛”来招募人才，比如通过举办“开发者挑战赛”来改进其产品并寻找新的队友。该公司曾举办了一场“GIF 大赛”，数千人参加了这个比赛，Telegram 再从这个人才库中聘用“前两名或前三名”。这是该公司在其整个生命周期中始终保持精简的部分原因。毫不夸张地说，它招聘的工程师是<a href=\"https://www.generalist.com/briefing/telegram\">最顶尖的 0.1%</a>\"。</p><p></p><p>这种对技术和人才的高标准，使得 Telegram 在经过十年的发展后仍能在功能和技术方面保持高度内聚。或许我们应该庆幸有着 Telegram 这样的存在，它不仅提升了社交软件开发的标准，还推动了其竞争对手进行改进。</p><p></p><h2>目录</h2><p></p><p>热点 | Hot</p><p></p><p>MySQL 之父：不要把一个优秀的开发者提升为管理者，那会是种资源浪费</p><p></p><p>字节跳动开源 KubeAdmiral：基于 K8s 的新一代多集群编排调度引擎</p><p></p><p>比 JDK 最高快 170 倍，蚂蚁集团开源高性能多语言序列化框架 Fury</p><p></p><p>不到一年，Istio 项目正式从 CNCF 毕业</p><p></p><p>第一批因 AIGC 裁掉自家员工的老板该后悔了？</p><p></p><p>访谈文章 | Interview</p><p></p><p>专访 OpenSSF CTO：安全问题应该考虑在构建模型之前，别出了问题就让 ChatGPT“背锅”</p><p></p><p>案例研究 | Case Study</p><p></p><p>财报会议新时代：如何将 AI 训练成资深 CFO</p><p></p><p>小白大挑战：24 小时内用 ChatGPT 和 Next.js 开发开源项目，吸引上万用户！</p><p></p><p>面向大模型的存储加速方案设计和实践</p><p></p><p>Cube 轻量虚拟化如何做到 100ms 交付一个安全容器</p><p></p><p>如何挖掘 Bazel 的极致性能</p><p></p><p>面向故障处理的可观测性体系建设</p><p></p><p>推荐文章 | Article</p><p></p><p>红帽：我们为什么要改变 RHEL 源码的发布策略？</p><p></p><p>LLM 对程序员的冲击和影响</p><p></p><p>高薪缺人，但要懂全栈懂 LLM，一个全新职业正在兴起！</p><p></p><p>黄东旭：我对数据库如何 Serverless 化的一些思考</p><p></p><p>C++ 变化太大！该重新学习这门语言了</p><p></p><p>5 天内用户数破亿、增速碾压 ChatGPT，Twitter 劲敌 Threads 是如何构建的？</p><p></p><p>特别专题｜实时数仓 Apache Doris 精选实践</p><p></p><p>日增百亿数据，查询结果秒出， Apache Doris 在 360 商业化的统一 OLAP 应用实践</p><p></p><p>Apache Doris 在叮咚买菜的应用实践</p><p></p><p>天眼查基于 Apache Doris 构建统一实时数仓实践</p><p></p><p>星云零售信贷基于 Apache Doris 的 OLAP 演进之路</p><p></p><p>百亿大表 Join 提速 300 倍！Apache Doris 在约苗数据平台的实时数仓建设实践</p><p></p><p>特别专栏 | Video</p><p></p><p>本月，这些视频值得一看！</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/39/390761402e3d3b5e6a7d3ae8fa6bac60.png\" /></p><p>扫/码/下/载</p>",
+    "publish_time": "2023-08-11 18:04:18",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
