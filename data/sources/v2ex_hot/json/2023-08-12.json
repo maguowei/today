@@ -53,5 +53,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "阮一峰大佬又出了一本小册子：《TypeScript 教程》",
+    "url": "https://www.v2ex.com/t/964635",
+    "summary": "rabex: <p>阮一峰大佬又出了一本小册子，<strong>《 TypeScript 教程》</strong>。\n写了 26 个章节，分门别类，风格轻松。\n虽然都是讲专业知识，但胜在短小的例子多，不必长篇累牍枯燥乏味。</p>\n<p>原文是部署在 wangdoc 上，但排版不够灵动。\n于是使用 hugo 静态工具，选择 paper 主题，手动调整了每个文章的权重值，\n使其按顺序排列。最终的效果是这样的。</p>\n<p>如果你觉得这个主题阅读文档，会比较舒服，\n链接直达： <a href=\"https://www.dbot.top/doc/8/\" rel=\"nofollow\">https://www.dbot.top/doc/8/</a></p>\n<p>你也可以访问默认官网： <a href=\"https://www.dbot.top/\" rel=\"nofollow\">https://www.dbot.top</a> 。\n然后在“<strong>编程入门</strong>”栏目，选择“<strong>阮一峰 TypeScript 教程（ 2023 ）</strong>” 进行阅读。</p>\n<p><img alt=\"1\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://cdnv2.ruguoapp.com/Fn7PL8juFkz--G95NErPLke1k2-2v3.png\" />\n<img alt=\"1\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://cdnv2.ruguoapp.com/FjA1G0Xa8mBy7hWqgxDNvgky-QBMv3.png\" />\n<img alt=\"1\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://cdnv2.ruguoapp.com/Ftbj1p0gcp0j4fWbi6_-TnASiVeZv3.png\" />\n<img alt=\"1\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://cdnv2.ruguoapp.com/FmkP5qQc0ZhHCMAwSS4gOgr0EoPMv3.png\" /></p>",
+    "publish_time": "2023-08-12 09:54:57",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
