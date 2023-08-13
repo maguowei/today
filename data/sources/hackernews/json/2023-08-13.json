@@ -218,5 +218,49 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "A Blog Post with Every HTML Element",
+    "url": "https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37104742\">Comments</a>",
+    "publish_time": "2023-08-13 06:19:37",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Doctor GPT: A Large Language Model That Can Pass the US Medical Licensing Exam",
+    "url": "https://github.com/llSourcell/DoctorGPT",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37105352\">Comments</a>",
+    "publish_time": "2023-08-13 08:11:17",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Cracking DesignWare's the Grammar Examiner on the C64",
+    "url": "http://oldvcr.blogspot.com/2023/08/cracking-designwares-grammar-examiner.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37105214\">Comments</a>",
+    "publish_time": "2023-08-13 07:42:16",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "NixOS RFC 136 approved: A plan to stabilize the new CLI and Flakes incrementally",
+    "url": "https://github.com/NixOS/rfcs/pull/136",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37105524\">Comments</a>",
+    "publish_time": "2023-08-13 08:44:44",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
