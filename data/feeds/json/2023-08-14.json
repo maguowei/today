@@ -1162,5 +1162,107 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "30岁一切才刚开始",
+    "url": "https://s.weibo.com/weibo?q=%2330%E5%B2%81%E4%B8%80%E5%88%87%E6%89%8D%E5%88%9A%E5%BC%80%E5%A7%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "内马尔",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "周扬青蝴蝶吊带",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%89%AC%E9%9D%92%E8%9D%B4%E8%9D%B6%E5%90%8A%E5%B8%A6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "怎么样才能让自己的城府越来越深?",
+    "url": "https://www.zhihu.com/question/586617359",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Mozilla to reintroduce full Browser Extension support for Firefox Android app",
+    "url": "https://alternativeto.net/news/2023/8/mozilla-to-reintroduce-full-browser-extension-support-for-firefox-android-app/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37112368\">Comments</a>",
+    "publish_time": "2023-08-14 02:01:39",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Praising children for effort rather than ability (2021)",
+    "url": "https://www.oxfordlearning.com/praising-children-for-effort-rather-than-ability/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37111947\">Comments</a>",
+    "publish_time": "2023-08-14 01:18:55",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "‘I've got nothing to hide’ and other misunderstandings of privacy (2007)",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37112625\">Comments</a>",
+    "publish_time": "2023-08-14 02:23:29",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "US inflation means families are spending $709 more per month than two years ago",
+    "url": "https://www.cnn.com/2023/08/11/economy/inflation-rate-spending/index.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37112604\">Comments</a>",
+    "publish_time": "2023-08-14 02:21:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Downloading a video should be “fair use” as recording a song from the radio",
+    "url": "https://mastodon.social/@HalvarFlake/110883667162838296",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37112615\">Comments</a>",
+    "publish_time": "2023-08-14 02:22:43",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Azure ChatGPT: Private and secure ChatGPT for internal enterprise use",
+    "url": "https://github.com/microsoft/azurechatgpt",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37112741\">Comments</a>",
+    "publish_time": "2023-08-14 02:35:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
