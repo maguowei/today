@@ -1,0 +1,13 @@
+[
+  {
+    "title": "双剑合璧：苹果发布 VisionOS 与 Reality Composer Pro",
+    "url": "https://www.infoq.cn/article/4N5iKldsWFG0RTfNQEtb",
+    "summary": "<p>苹果公司<a href=\"https://www.apple.com/newsroom/2023/06/developer-tools-to-create-spatial-experiences-for-apple-vision-pro-now-available/\">宣布</a>\"，开发人员现在可以下载为即将推出的Vision Pro混合现实耳机创建应用程序所需的软件开发工具包。除了提供SDK之外，苹果公司还公布了一项将物理设备带向全球特定的实验室的计划，以及鼓励开发人员测试其应用程序的举措。</p><p></p><p>Vision Pro被称为空间计算机，致力于定义一种与计算系统交互的新模式，以完成各种任务，包括生产力、设计、游戏等。</p><p></p><p></p><blockquote>从今天开始，苹果公司的全球开发者社区将能够创建全新的空间计算应用程序，充分利用Vision Pro的无限画布，将数字内容与物理世界无缝融合，实现非凡的新体验。</blockquote><p></p><p></p><p>该SDK包含在最新的<a href=\"https://developer.apple.com/download/all/?q=xcode%2015\">Xcode 15 beta 2</a>\"中，任何拥有开发者账号的开发者都可以下载。它提供了一个模拟器，允许在visionOS中运行应用程序，而无需访问物理设备。模拟器可以为应用程序提供沉浸在周围空间的单视角视图。由于是单视角，因此双眼看到的图像是完全一样的，而在立体视角中，每只眼睛都会从各自的视角看到图像，就像现实世界中的物体一样。</p><p></p><p>模拟器还支持模仿在Vision Pro上使用的各种手势，这些手势主要是通过<a href=\"https://developer.apple.com/design/human-interface-guidelines/eyes\">眼睛</a>\"和<a href=\"https://developer.apple.com/design/human-interface-guidelines/gestures#visionOS\">手</a>\"完成的。例如，要点击一个按钮，你需要注视它，使其聚焦，然后用手指点击。在模拟器上，单击鼠标就会产生点击，使用鼠标拖动会模拟拖动手势，按下shift键的同时拖动会模拟向视图器的拖动，使用Option键可以模拟需要双手操作的手势。此外，模拟器窗口中的一组控件可以用来导航空间，以改变视角和观察角度等。</p><p></p><p><img src=\"https://imgopt.infoq.com/fit-in/1200x2400/filters:quality(80)/filters:no_upscale()/news/2023/06/apple-visions-sdk-available/en/resources/2apple-releases-vision-pro-sdk-1687716706874.jpg\" /></p><p></p><p>visionOS SDK支持iOS和macOS编程中已经得到广泛使用的框架，包括SwiftUI、ARKit、Reality Kit等。此外，苹果还提供了新工具<a href=\"https://developer.apple.com/documentation/visionos/designing-realitykit-content-with-reality-composer-pro\">Reality Composer Pro</a>\"，该工具不仅适用于程序员，还适用于具有创造性的艺术家。它能够用来谱写、编辑和预览以场景（scene）形式组织的RealityKit内容。每个场景都是虚拟对象和3D模型等实体组成的层级结构，无需任何编程知识即可对其进行重新排列。</p><p></p><p>为了让开发者更容易地在实体设备上测试他们的应用程序，苹果还宣布了一系列举措。首先，苹果公司将开放个人实验室，开发者可以将他们的应用程序带到实验室。目前，计划开设的实验室只有六个，即库比蒂诺（苹果电脑的全球总公司所在地，位于美国旧金山——译者注）、伦敦、慕尼黑、上海、新加坡和东京。这样做的目的是为了让更多的开发者能够接触到实体设备，因为开发者工具包项目的使用将受到限制。此外，苹果还将通过 App Review提供远程兼容性评估，该评估将提供应用程序在实体设备上的运行状况报告。</p><p></p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2023/06/apple-visions-sdk-available/\">Apple Releases visionOS SDK to Developers Along with Reality Composer Pro</a>\"</p><p></p><p>相关阅读：</p><p><a href=\"https://www.infoq.cn/article/qW7LiC9hoPEiD0MZYtDJ\">苹果市值数秒暴涨600亿美元！秘密开发大模型Apple GPT，员工自曝：复制的ChatGPT！</a>\"</p><p><a href=\"https://www.infoq.cn/article/mq0Wo3OfLMU1Hjh4ef5o\">苹果Vision Pro商标撞车华为；Vue.js作者入驻 “爱发电”赞助平台，称来自国内的赞助非常少；14岁天才少年入职SpaceX ｜ Q资讯</a>\"</p>",
+    "publish_time": "2023-08-13 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
