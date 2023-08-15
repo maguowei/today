@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Java ZGC 垃圾收集器全面增强",
+    "url": "https://www.infoq.cn/article/ClW8eLeOxRUqqpHWOJCC",
+    "summary": "<p>在JDK 21中，JEP 439（<a href=\"https://openjdk.org/jeps/439\">分代ZGC</a>\"）从Targeted状态提升到Completed状态。该JEP建议，扩展Z Garbage Collector（ZGC），为年轻对象和老对象维护单独的代，从而提高应用程序的性能。这将使得ZGC可以更频繁地收集趋于早亡的年轻对象。</p><p>&nbsp;</p><p>Z Garbage Collector专为低延迟和高可扩展性而设计，从JDK 15开始就可用于生产环境。它的大部分工作都是在应用程序线程运行过程中完成的，只会短暂中断这些线程。ZGC的暂停时间以微秒为单位进行持续的测量，这使得它成为低延迟、高可扩展工作负载的首选。</p><p>&nbsp;</p><p>新一代ZGC旨在降低分配停顿的风险，减少所需的堆内存开销，并减少垃圾收集的CPU开销。与非分代ZGC相比，这些优点预计并不会显著降低吞吐量。非分代ZGC的基本性质保持不变，如暂停时间不超过1毫秒，支持的堆大小从几百MB到许多TB。</p><p>&nbsp;</p><p>分代ZGC基于弱分代假说，即年轻对象往往会在年轻时死去，而老对象往往会保留下来。通过更频繁地收集年轻对象，ZGC可以提高应用程序的性能。</p><p>&nbsp;</p><p>最初，分代ZGC与非分代ZGC是一起提供的。用户可以在-XX:+UseZGC命令行选项中添加-XX:+ZGenerational选项，以选择Generational ZGC。在未来的版本中，分代ZGC将成为默认选项，最终，非分代ZGC将被删除。</p><p><code lang=\"null\">$ java -XX:+UseZGC -XX:+ZGenerational ...</code></p><p>&nbsp;</p><p>新的分代ZGC将堆划分为两个逻辑代：年轻代用于最近分配的对象，老年代用于长期对象。每个代独立收集，让ZGC可以专注于收集有利可图的年轻对象。</p><p>&nbsp;</p><p>分代ZGC引入了多个使其不同于非分代ZGC和其他垃圾收集器的设计概念，包括无多重映射内存、优化屏障、双缓冲记忆集、无追加堆内存重定位、密集堆区域、大对象和完整垃圾收集。</p><p>&nbsp;</p><p>分代ZGC的引入可以大幅提升在Java平台上运行应用程序的性能。通过更频繁地收集年轻对象，分代ZGC可以带来更低的延迟、更少的内存开销和更高的CPU利用率。这使得它在大多数用例中都成为比非分代ZGC更好的解决方案。</p><p>&nbsp;</p><p>它引入了一个更复杂的系统。该系统在加载和存储屏障中使用了显式代码，并且并发运行两个垃圾收集器。新系统不使用多重映射内存，使用户更容易测量堆内存的使用情况，并可能将最大堆大小增加到超过非分代ZGC的16TB限制。加载和存储屏障使用快速路径和慢速路径、记忆集屏障、SATB标记屏障、融合存储屏障检查和存储屏障缓冲等技术进行了优化。分代ZGC还引入了双缓冲记忆集，用于准确跟踪代际指针，并允许重定位，而且不需要额外的堆内存，进而实现高效的年轻代收集。该系统还可以很好地处理大对象，允许将它们分配给年轻代，而如果它们的寿命比较长，就将它们提升到老年代。完整垃圾收集将年轻代对象指向老年代对象的指针视为老年代对象图的根。</p><p>&nbsp;</p><p>总之，OpenJDK中的分代ZGC实现引入了一个更为复杂的系统，它并发运行两个垃圾收集器，并使用更复杂的屏障和染色指针（coloured pointer）。尽管复杂，但长期目标是用分代版本完全替换非分代ZGC，以最小化维护成本。虽然大多数用例都有望从分代ZGC中受益，但一些非分代工作负载可能会出现轻微的性能下降。不过，因为不必频繁地收集老年代的对象，所以可以认为潜在的开销已被抵消。分代ZGC未来的改进和优化将由基准测试和用户反馈所驱动。分代ZGC的引入是提高Java平台应用程序性能的重要一步。</p><p>&nbsp;</p><p>&nbsp;</p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2023/07/java-enhance-zgc/\">https://www.infoq.com/news/2023/07/java-enhance-zgc/</a>\"</p><p></p><p>相关阅读：</p><p><a href=\"https://www.infoq.cn/article/IB9Yr9uBTePgDazjaiJq\">Java 近期新闻：Micronaut 4.0、Payara 平台、Spring Web Flow 3.0、JetBrains AI 助手</a>\"</p><p><a href=\"https://www.infoq.cn/article/iOAJIJop5bKQflD0lF9A\">Java 新特性完整指南：Switch 模式匹配</a>\"</p>",
+    "publish_time": "2023-08-15 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
