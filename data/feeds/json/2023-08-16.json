@@ -1511,5 +1511,136 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "开学选得力 成长更得力",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%AD%A6%E9%80%89%E5%BE%97%E5%8A%9B+%E6%88%90%E9%95%BF%E6%9B%B4%E5%BE%97%E5%8A%9B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "北京为何成了茶饮荒漠",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%BA%E4%BD%95%E6%88%90%E4%BA%86%E8%8C%B6%E9%A5%AE%E8%8D%92%E6%BC%A0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "初空带资进组改剧本",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%88%9D%E7%A9%BA%E5%B8%A6%E8%B5%84%E8%BF%9B%E7%BB%84%E6%94%B9%E5%89%A7%E6%9C%AC%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "保姆9个月偷走雇主163瓶茅台",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BF%9D%E5%A7%869%E4%B8%AA%E6%9C%88%E5%81%B7%E8%B5%B0%E9%9B%87%E4%B8%BB163%E7%93%B6%E8%8C%85%E5%8F%B0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如果你是《封神第一部》里的姜王后，你该如何与苏妲己相处？",
+    "url": "https://www.zhihu.com/question/615074200",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "《原神》过大的游戏体积是否会成为它作为全平台游戏的最大阻碍？",
+    "url": "https://www.zhihu.com/question/617186587",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美股三大指数集体收跌，热门中概股普跌",
+    "url": "https://www.36kr.com/newsflashes/2389908527272577",
+    "summary": "36氪获悉，8月15日收盘，美股三大指数集体下跌，标普500指数跌1.16%，纳指跌1.14%，道指跌1.02%。越南电动汽车生产商VinFast涨超254%，成为全球市值第五大上市汽车股。大型科技股全线走低，特斯拉、亚马逊跌超2%，Meta、苹果、谷歌跌超1%。热门中概股普跌，蔚来跌超5%，哔哩哔哩跌超4%，拼多多跌超3%，京东、阿里巴巴跌超2%。",
+    "publish_time": "2023-08-16 07:00:40",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "XFS maintainer, Darrik Wong, steps down",
+    "url": "https://lore.kernel.org/linux-xfs/169091989589.112530.11294854598557805230.stgit@frogsfrogsfrogs/T/#m6c9b740f7841a77e077a9fe9f96bb8818f2403bd",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37140049\">Comments</a>",
+    "publish_time": "2023-08-16 06:21:13",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "New x86 8U servers with 32TB RAM, 480 physical cores, 15 PCIe x16 slots, 400GbE",
+    "url": "https://lenovopress.lenovo.com/lp1684-announcing-thinksystem-v3-with-4th-gen-intel-xeon-scalable-processors",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37139643\">Comments</a>",
+    "publish_time": "2023-08-16 05:42:56",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Modern CSV version 2 is now available",
+    "url": "https://www.moderncsv.com/modern-csv-2-is-now-available/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37140159\">Comments</a>",
+    "publish_time": "2023-08-16 06:35:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "My Deep Learning Rig",
+    "url": "https://nonint.com/2022/05/30/my-deep-learning-rig/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37138672\">Comments</a>",
+    "publish_time": "2023-08-16 04:05:06",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "You're a cyclist who was just struck by a car driver. Why it was your fault",
+    "url": "https://www.mcsweeneys.net/articles/youre-a-cyclist-who-was-just-struck-by-a-car-driver-heres-why-it-was-your-fault",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37139980\">Comments</a>",
+    "publish_time": "2023-08-16 06:15:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How Is LLaMa.cpp Possible?",
+    "url": "https://finbarr.ca/how-is-llama-cpp-possible/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37140013\">Comments</a>",
+    "publish_time": "2023-08-16 06:18:17",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
