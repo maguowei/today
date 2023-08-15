@@ -9,5 +9,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "中国企业研发高效能白皮书（合集）",
+    "url": "https://www.infoq.cn/article/OE9HEkWmc3xTJYeTN1y7",
+    "summary": "<h3>研究背景</h3>\n<p>近年来，中国企业研发正在从粗放型走向精益型，研发工作的“高效能”成为几乎每个研发团队的共同追求。<br />\n中国软件服务产业也在近 5 到 10 年中得到了飞速发展，技术服务的边界不断拓展，赋能高效研发的产品层出不穷，适合中国研发环境的技术服务体系在不断完善。从结果上看，中国企业正在高效能研发的路径上快速前进。<br />\n本份报告以中国高效能研发企业为研究对象，尝试解读市场中具有代表性的高效能研发解决方案。本次报告由五个篇章组成，包括 CI/CD、ChatOps、企业级软件架构、Code Review、价值流管理与研发效能管理等五大主题。研究小组期待可以通过研究，帮助中国企业研发团队获得高效能研发新知。</p>\n<h3>目录</h3>\n<h4>CI/CD篇</h4>\n<ul>\n<li>CI/CD 概念和背景介绍</li>\n<li>CI/CD 行业发展概况</li>\n<li>极狐GitLab CI/CD，带您开启研发高效能</li>\n</ul>\n<h4>ChatOps篇</h4>\n<ul>\n<li>ChatOps 概念和背景介绍</li>\n<li>ChatOps 行业发展概况</li>\n<li>极狐GitLab ChatOps</li>\n</ul>\n<h4>企业级软件架构篇</h4>\n<ul>\n<li>关于企业级软件架构</li>\n<li>常见的企业级软件架构方案</li>\n<li>极狐GitLab 企业级软件架构</li>\n<li>极狐GitLab 企业级软件架构最佳实践</li>\n<li>企业级软件架构市场发展趋势展望</li>\n</ul>\n<h4>Code Review篇</h4>\n<ul>\n<li>Code Review 的定义与背景</li>\n<li>Code Review 发展现状</li>\n<li>Code Review 最佳实践</li>\n</ul>\n<h4>从价值流管理到研发效能管理篇</h4>\n<ul>\n<li>价值流管理定义与背景</li>\n<li>价值流管理行业发展现状</li>\n<li>极狐GitLab 研发效能管理</li>\n</ul>",
+    "publish_time": "2023-08-15 10:22:22",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]

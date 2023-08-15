@@ -1,0 +1,35 @@
+[
+  {
+    "title": "逛 V2EX 的大部分都是程序员吧，说说你们现在主力搜索引擎是什么？还有人用百度么？",
+    "url": "https://www.v2ex.com/t/965327",
+    "summary": "edwardhodges: <p>好多年不用百度了，基本上都是谷歌，不过看到很多同事主要是还是用百度的。想知道能来逛 V2EX 的你们现在主力搜索引擎都是什么？</p>",
+    "publish_time": "2023-08-15 08:41:13",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "2023 年下半年还能有什么大招救经济？",
+    "url": "https://www.v2ex.com/t/965332",
+    "summary": "terito11122: 目前情况就是老百姓以为国家还有大招，国家以为老百姓还有钱",
+    "publish_time": "2023-08-15 08:57:40",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "做开源真难😭，某些模块收费，就说你是假开源。",
+    "url": "https://www.v2ex.com/t/965335",
+    "summary": "wkong: <p>我们开源十几个项目（免费可商用的那种）确视而不见。</p>\n<p>我们基于我们开源的项目，做了一些收费的模块（同样别人基于我们开源的做的模块，我们也没要求必须开源，因为我们开源项目是 apache2.0 协议），为什么我们自己基于我们开源的做的模块就必须要开源？[流泪]，否则就是假开源？</p>\n<p>做开源不表示一切都要免费，我不相信只靠爱发电能持续。</p>\n<p>附我们开源的项目列表</p>\n<h3>唐僧叨叨</h3>\n<table>\n<thead>\n<tr>\n<th>项目名</th>\n<th>Github 地址</th>\n<th>Gitee 地址</th>\n<th>开源协议</th>\n<th>说明</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>TangSengDaoDaoServer</td>\n<td><a href=\"https://github.com/TangSengDaoDao/TangSengDaoDaoServer\" rel=\"nofollow\">Github</a></td>\n<td><a href=\"https://gitee.com/TangSengDaoDao/TangSengDaoDaoServer\" rel=\"nofollow\">Gitee</a></td>\n<td>Apache2.0</td>\n<td>唐僧叨叨的业务端，负责一些业务逻辑，比如：好友关系，群组，朋友圈等 （通讯端使用的是 WuKongIM ）</td>\n</tr>\n<tr>\n<td>TangSengDaoDaoAndroid</td>\n<td><a href=\"https://github.com/TangSengDaoDao/TangSengDaoDaoAndroid\" rel=\"nofollow\">Github</a></td>\n<td><a href=\"https://gitee.com/TangSengDaoDao/TangSengDaoDaoAndroid\" rel=\"nofollow\">Gitee</a></td>\n<td>Apache2.0</td>\n<td>唐僧叨叨的 Android 端</td>\n</tr>\n<tr>\n<td>TangSengDaoDaoiOS</td>\n<td><a href=\"https://github.com/TangSengDaoDao/TangSengDaoDaoiOS\" rel=\"nofollow\">Github</a></td>\n<td><a href=\"https://gitee.com/TangSengDaoDao/TangSengDaoDaoiOS\" rel=\"nofollow\">Gitee</a></td>\n<td>Apache2.0</td>\n<td>唐僧叨叨的 iOS 端</td>\n</tr>\n<tr>\n<td>TangSengDaoDaoWeb</td>\n<td><a href=\"https://github.com/TangSengDaoDao/TangSengDaoDaoWeb\" rel=\"nofollow\">Github</a></td>\n<td><a href=\"https://gitee.com/TangSengDaoDao/TangSengDaoDaoWeb\" rel=\"nofollow\">Gitee</a></td>\n<td>Apache2.0</td>\n<td>唐僧叨叨的 Web/PC 端</td>\n</tr>\n<tr>\n<td>TangSengDaoDaoCli</td>\n<td><a href=\"https://github.com/TangSengDaoDao/TangSengDaoDaoCli\" rel=\"nofollow\">Github</a></td>\n<td><a href=\"https://gitee.com/TangSengDaoDao/TangSengDaoDaoCli\" rel=\"nofollow\">Gitee</a></td>\n<td>Apache2.0</td>\n<td>唐僧叨叨的安装程序</td>\n</tr>\n</tbody></table><h3>悟空 IM</h3>\n<table>\n<thead>\n<tr>\n<th>项目名</th>\n<th>Github 地址</th>\n<th>Gitee 地址</th>\n<th>开源协议</th>\n<th>说明</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>WuKongIM</td>\n<td><a href=\"https://github.com/WuKongIM/WuKongIM\" rel=\"nofollow\">Github</a></td>\n<td><a href=\"https://gitee.com/WuKongDev/WuKongIM\" rel=\"nofollow\">Gitee</a></td>\n<td>Apache2.0</td>\n<td>悟空 IM 通讯端，负责长连接维护，消息投递等等</td>\n</tr>\n<tr>\n<td>WuKongIMCli</td>\n<td><a href=\"https://github.com/WuKongIM/WuKongIMCli\" rel=\"nofollow\">Github</a></td>\n<td><a href=\"https://gitee.com/WuKongDev/WuKongIMCli\" rel=\"nofollow\">Gitee</a></td>\n<td>Apache2.0</td>\n<td>悟空 IM 的安装程序</td>\n</tr>\n<tr>\n<td>WuKongIMAndroidSDK</td>\n<td><a href=\"https://github.com/WuKongIM/WuKongIMAndroidSDK\" rel=\"nofollow\">Github</a></td>\n<td><a href=\"https://gitee.com/WuKongDev/WuKongIMAndroidSDK\" rel=\"nofollow\">Gitee</a></td>\n<td>Apache2.0</td>\n<td>悟空 IM 的 Android SDK</td>\n</tr>\n<tr>\n<td>WuKongIMiOSSDK</td>\n<td><a href=\"https://github.com/WuKongIM/WuKongIMiOSSDK\" rel=\"nofollow\">Github</a></td>\n<td><a href=\"https://gitee.com/WuKongDev/WuKongIMiOSSDK\" rel=\"nofollow\">Gitee</a></td>\n<td>Apache2.0</td>\n<td>悟空 IM 的 iOS SDK</td>\n</tr>\n<tr>\n<td>WuKongIMUniappSDK</td>\n<td><a href=\"https://github.com/WuKongIM/WuKongIMUniappSDK\" rel=\"nofollow\">Github</a></td>\n<td><a href=\"https://gitee.com/WuKongDev/WuKongIMUniappSDK\" rel=\"nofollow\">Gitee</a></td>\n<td>Apache2.0</td>\n<td>悟空 IM 的 Uniapp SDK</td>\n</tr>\n<tr>\n<td>WuKongIMJSSDK</td>\n<td><a href=\"https://github.com/WuKongIM/WuKongIMJSSDK\" rel=\"nofollow\">Github</a></td>\n<td><a href=\"https://gitee.com/WuKongDev/WuKongIMJSSDK\" rel=\"nofollow\">Gitee</a></td>\n<td>Apache2.0</td>\n<td>悟空 IM 的 JS SDK</td>\n</tr>\n<tr>\n<td>WuKongIMReactNativeSDK</td>\n<td><a href=\"https://github.com/wengqianshan/WuKongIMReactNative\" rel=\"nofollow\">Github</a></td>\n<td>无</td>\n<td>Apache2.0</td>\n<td>悟空 IM 的 React Native SDK(由贡献者 <a href=\"https://github.com/wengqianshan\" rel=\"nofollow\">wengqianshan</a> 提供)</td>\n</tr>\n<tr>\n<td>WuKongIMFlutterSDK</td>\n<td>无</td>\n<td>无</td>\n<td>Apache2.0</td>\n<td>悟空 IM 的 Flutter SDK(开发中)</td>\n</tr>\n</tbody></table>",
+    "publish_time": "2023-08-15 09:06:04",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  }
+]
