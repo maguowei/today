@@ -625,5 +625,49 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Xitter Broke Nitter Again",
+    "url": "https://github.com/zedeus/nitter/issues/983",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37131559\">Comments</a>",
+    "publish_time": "2023-08-15 16:38:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Sam Bankman-Fried is going to jail",
+    "url": "https://arstechnica.com/tech-policy/2023/08/sam-bankman-fried-is-going-to-jail/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37131626\">Comments</a>",
+    "publish_time": "2023-08-15 16:49:13",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Why Americans Are So Awful to One Another",
+    "url": "https://www.theatlantic.com/magazine/archive/2023/09/us-culture-moral-education-formation/674765/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37131902\">Comments</a>",
+    "publish_time": "2023-08-15 17:38:19",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Continuous batching to increase LLM inference throughput and reduce p50 latency",
+    "url": "https://www.anyscale.com/blog/continuous-batching-llm-inference",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37131477\">Comments</a>",
+    "publish_time": "2023-08-15 16:21:11",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
