@@ -1120,5 +1120,187 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "王昱珩慕思陪你免费游欧洲",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%B1%E7%8F%A9%E6%85%95%E6%80%9D%E9%99%AA%E4%BD%A0%E5%85%8D%E8%B4%B9%E6%B8%B8%E6%AC%A7%E6%B4%B2%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "即刻行动没你不行",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B3%E5%88%BB%E8%A1%8C%E5%8A%A8%E6%B2%A1%E4%BD%A0%E4%B8%8D%E8%A1%8C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "李龙馥solo舞台",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%BE%99%E9%A6%A5solo%E8%88%9E%E5%8F%B0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "真正的赞美不是做得好才得到的",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%9C%9F%E6%AD%A3%E7%9A%84%E8%B5%9E%E7%BE%8E%E4%B8%8D%E6%98%AF%E5%81%9A%E5%BE%97%E5%A5%BD%E6%89%8D%E5%BE%97%E5%88%B0%E7%9A%84%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "角丽谯也顺便娶了方多病吧",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%A7%92%E4%B8%BD%E8%B0%AF%E4%B9%9F%E9%A1%BA%E4%BE%BF%E5%A8%B6%E4%BA%86%E6%96%B9%E5%A4%9A%E7%97%85%E5%90%A7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "阿森纳今夏净支出 1.7 亿镑独占英超第一，切尔西仅排第 9 ，曼城第 11，如何评价英超各队引援？",
+    "url": "https://www.zhihu.com/question/617492806",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如果你突然有了一百万，你会做什么？",
+    "url": "https://www.zhihu.com/question/614173145",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "你喜欢室外跑步还是跑步机跑步？",
+    "url": "https://www.zhihu.com/question/613516333",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Canada had poached 10k tech workers from the U.S. – in just 48 hours",
+    "url": "https://www.thestar.com/business/how-canada-poached-10-000-tech-workers-from-the-u-s-in-just-48-hours/article_c159c7cc-6163-5414-8453-0db70899df90.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37150233\">Comments</a>",
+    "publish_time": "2023-08-17 01:15:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Crime is so bad near S.F. Federal building employees are told to work from home",
+    "url": "https://www.sfchronicle.com/sf/article/drugs-crime-nancy-pelosi-federal-building-18292237.php",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37150730\">Comments</a>",
+    "publish_time": "2023-08-17 01:42:41",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "System Initiative has open sourced its collab DevOps tool",
+    "url": "https://www.systeminit.com/blog-open-source/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37149271\">Comments</a>",
+    "publish_time": "2023-08-17 00:11:21",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "OpenAI acquires Global Illumination",
+    "url": "https://openai.com/blog/openai-acquires-global-illumination",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37150098\">Comments</a>",
+    "publish_time": "2023-08-17 01:06:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Apple’s Employee No. 0 (2008)",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/apples-employee-no-0-2008-11/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37150185\">Comments</a>",
+    "publish_time": "2023-08-17 01:11:57",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Firezone (YC W22) is hiring a systems engineer",
+    "url": "https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-systems-engineer",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37150787\">Comments</a>",
+    "publish_time": "2023-08-17 01:45:44",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Mathematics of Training LLMs",
+    "url": "https://www.latent.space/p/transformers-math#details",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37150000\">Comments</a>",
+    "publish_time": "2023-08-17 00:59:28",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "What happens to all the stuff we return?",
+    "url": "https://www.newyorker.com/magazine/2023/08/21/the-hidden-cost-of-free-returns",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37149327\">Comments</a>",
+    "publish_time": "2023-08-17 00:15:41",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Theory of interstellar trade (1978) [pdf]",
+    "url": "https://www.princeton.edu/~pkrugman/interstellar.pdf",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37149782\">Comments</a>",
+    "publish_time": "2023-08-17 00:45:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "LK-99 isn’t a superconductor",
+    "url": "https://www.nature.com/articles/d41586-023-02585-7",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37149349\">Comments</a>",
+    "publish_time": "2023-08-17 00:17:17",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
