@@ -75,5 +75,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "我们现在是不是应该买 NAS 当仓鼠，以防断网",
+    "url": "https://www.v2ex.com/t/965652",
+    "summary": "yubanxjj: <p>现在就业率大家也都知道，如果哪一天发生了某些突发事件，断网或者切断国际互联网也不是不可能，参考新疆。\n买 NAS ，把存储空间扩充到 100T 以上，然后把优质的电影、电视剧、音乐、游戏屯进去，即使断网了也有丰富的资源。还可以用移动硬盘和身边人交换资源，每个有 NAS 的人都是资源源泉。</p>",
+    "publish_time": "2023-08-16 08:43:21",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "Spring 启动时长优化是否有必要",
+    "url": "https://www.v2ex.com/t/965669",
+    "summary": "linyimin520812: <p>最近在 reddit 上推广自己的关于 Spring 启动优化小项目，之前也在 v 站推广过：</p>\n<ul>\n<li><a href=\"https://www.v2ex.com/t/963251\" rel=\"nofollow\">分享一种 Spring 应用启动过程采样的方法</a></li>\n<li><a href=\"https://www.v2ex.com/t/960514\" rel=\"nofollow\">Spring 启动分析优化——自荐个项目</a></li>\n</ul>\n<p>评论区有个评论者 ta 的意见是没有意义，理由如下：</p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/vjx7RPU.png\" /> </p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/4tDdTKR.png\" /> </p>\n<p>一开始看到这个评论还挺难过的，毕竟辛苦做的东西，被别人说的一文不值。后面去了解了一下这个开发者说的 GraalVM ，发现确实很强大，编译出的 native 启动速度确实非常的快。</p>\n<p>所以我也开始认真的思考这个项目是否真的有意义，这个项目的背景是公司为了降低线上故障时回滚止血时间，要求应用启动时长必须要小于指定的时间，结合<a href=\"https://heapdump.cn/article/4136322\" rel=\"nofollow\">一些可以显著提高 Java 启动速度方法</a><strong>无观测不优化</strong>的观点实现的，最大的一个优化应用是：将启动时间由原来的将近 6 分钟优化至 3 分钟。</p>\n<p>如果没有公司的强推，那还有没有必要这样做 spring 应用启动的优化，就像评论说的直接使用 GraalVM 。个人觉得还是有必要的：</p>\n<ul>\n<li>目前公司的应用不是基于 GraalVM 的，如果要享受 GraalVM 带来的启动极速，还是需要进行大量的应用改造</li>\n<li>GraalVM 对反射、动态代理有很多的限制，升级应用很容易踩坑，还需要大量的回归测试</li>\n<li>日常的项目启动慢本身其实不在 spring 本身，而是项目中依赖的各种中间件的初始化、富客户端的初始化等导致的，升级完 GraalVM 后这些耗时应该还是存在的</li>\n</ul>\n<p>以上就是我能想到的观点，感觉这个评论者是 GraalVM 的忠实粉丝，而且认为这是在发布垃圾消息，所以选择在 v 站想和大家再讨论一下，spring 启动时长的优化是否有必要</p>",
+    "publish_time": "2023-08-16 09:22:28",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
