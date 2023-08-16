@@ -1658,5 +1658,65 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "对你的爱这么大",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AF%B9%E4%BD%A0%E7%9A%84%E7%88%B1%E8%BF%99%E4%B9%88%E5%A4%A7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "假如你获得了大脑的root权限，你会做什么？",
+    "url": "https://www.zhihu.com/question/529969621",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "哪些护肤品在你的生活和工作中使用率都很高，让你用了就不想换？",
+    "url": "https://www.zhihu.com/question/616070763",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Ex-Google CEO Eric Schmidt to Launch AI-Science Moonshot",
+    "url": "https://www.semafor.com/article/08/16/2023/ex-google-ceo-eric-schmidt-to-launch-ai-science-moonshot",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37154365\">Comments</a>",
+    "publish_time": "2023-08-17 05:49:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Bringing Safety check to the Chrome://extensions page",
+    "url": "https://developer.chrome.com/blog/extension-safety-hub/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37153121\">Comments</a>",
+    "publish_time": "2023-08-17 04:17:37",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ubicloud – open, free and portable cloud",
+    "url": "https://github.com/ubicloud/ubicloud",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37154138\">Comments</a>",
+    "publish_time": "2023-08-17 05:31:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
