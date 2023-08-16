@@ -75,5 +75,27 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "字节跳动算法专家张树波确认出席QCon北京，分享大模型助力智能单测生成",
+    "url": "https://www.infoq.cn/article/NCSuki067wv7JxzmmYhe",
+    "summary": "<p>9 月 3 日 - 5 日，在 <a href=\"https://qcon.infoq.cn/202309/beijing/?utm_source=infoqweb&amp;utm_medium=teacherart&amp;utm_campaign=9&amp;utm_term=0816&amp;utm_content=zhangshubo\">QCon 全球软件开发大会（北京站）</a>\"上，字节跳动算法专家张树波将发表题为《大模型助力智能单测生成》主题分享，介绍传统特智能单测生成，要依赖静态分析、动态分析等工具，对不同的语言需要重新适配。随着模型参数规模的提升，模型的代码理解、代码生成能力也大幅提升，使用模型端到端的生成单元测试，可以低成本地将单元测试覆盖到多种编程语言。</p><p></p><p><a href=\"https://qcon.infoq.cn/202309/beijing/presentation/5380?utm_source=infoqweb&amp;utm_medium=teacherart&amp;utm_campaign=9&amp;utm_term=0816&amp;utm_content=zhangshubo\">张树波</a>\"，清华大学硕士毕业，先后就职于 vivo、字节跳动。从事 NLP 算法多年，在智能单测、智能客服、语音助手等业务场景有丰富的落地经验。</p><p></p><p>相信通过张树波的分享，你将了解到如何评估通用大模型的单测生成能力，如何提升大模型单测生成效果，大模型落地工程实践、应用落地介绍与未来展望。你会收获到大模型在单测生成领域存在的问题、如何缓解，以及大模型在单测生成领域的应用实践。</p><p></p><p>除上述专题外，QCon 北京还将围绕 <a href=\"https://qcon.infoq.cn/202309/beijing/track/1556?utm_source=infoqweb&amp;utm_medium=teacherart&amp;utm_campaign=9\">FinOps&nbsp;落地</a>\"、<a href=\"https://qcon.infoq.cn/202309/beijing/track/1570?utm_source=infoqweb&amp;utm_medium=teacherart&amp;utm_campaign=9\">云原生</a>\"、<a href=\"https://qcon.infoq.cn/202309/beijing/track/1567?utm_source=infoqweb&amp;utm_medium=teacherart&amp;utm_campaign=9\">AIGC&nbsp;浪潮下的研发效能提升</a>\"、<a href=\"https://qcon.infoq.cn/202309/beijing/track/1558?utm_source=infoqweb&amp;utm_medium=teacherart&amp;utm_campaign=9\">业务安全技术</a>\"、<a href=\"https://qcon.infoq.cn/202309/beijing/track/1552?utm_source=infoqweb&amp;utm_medium=teacherart&amp;utm_campaign=9\">面向&nbsp;AI&nbsp;的存储</a>\"、<a href=\"https://qcon.infoq.cn/202309/beijing/track/1557?utm_source=infoqweb&amp;utm_medium=teacherart&amp;utm_campaign=9\">从&nbsp;BI&nbsp;到&nbsp;BI+AI，新计算范式下的大数据平台</a>\"等进行分享。</p><p></p><p>近 100 名讲师、近 30 个精彩专题、8 种交流活动，QCon 北京 2023，相约 9 月！现在购票，享 9 折特惠，立省 ¥880！咨询购票请联系 18514549229（微信同手机号）。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/33/33cbbbf20baa8b2a18db4f0681f159aa.jpeg\" /></p><p></p>",
+    "publish_time": "2023-08-16 16:20:15",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "腾讯云MaaS最新升级：上架20多个主流模型，支持开发者一键调用",
+    "url": "https://www.infoq.cn/article/pL2hKmgWdkGN42puH0qw",
+    "summary": "<p>&nbsp;如何快速、低成本将AI大模型技术应用到实际业务场景，是新一轮人工智能技术浪潮中，保持核心竞争力的关键，也是国内越来越多的企业关切、探索方向。</p><p>&nbsp;</p><p>8月16日，由工业和信息化部、广东省人民政府共同主办的“2023中国数字经济创新发展大会”在广东省汕头市开幕。腾讯集团高级执行副总裁、云与智慧产业事业群CEO汤道生在大会上宣布了腾讯云MaaS最新升级。腾讯云TI平台已经全面接入Llama 2、Falcon、Dolly、Vicuna、Bloom、Alpaca等20多个主流模型，且支持系列模型的直接部署调用、应用流程简单、可全程低代码操作，成为国内第一批上架和支持开源模型的大模型厂商。腾讯云对这些模型进行了推理测试验证，从市场反馈、推理测试效果等角度进行了综合评估，确保模型可用性、易用性，可覆盖智能对话、文本生成、写作等多个不同场景，为企业、开发者提供了多种模型选择。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/e3/e3e8dc28534443739838c469ed0280a9.png\" /></p><p></p><p>&nbsp;为了帮助企业客户解决成本、数据、安全等大模型实际落地难题，今年6月，腾讯云正式发布了行业大模型解决方案，依托腾讯云TI平台打造行业大模型精选商店，为企业客户提供涵盖模型预训练、模型精调、智能应用开发等一站式行业大模型解决方案。</p><p>&nbsp;</p><p>在TI平台内置的高质量行业大模型基础上，企业加入自己的场景数据，就可以快速生成自己的专属模型；同时，也可根据自身业务场景需求，“量体裁衣、按需定制”不同参数、不同规格的模型服务。</p><p>&nbsp;</p><p>目前，腾讯云已经为金融、文旅、传媒、政务、教育等10大行业提供了超过50个大模型解决方案。在文旅场景，国内某头部在线旅游公司利用腾讯云自然语言模型实现了个性化的定制旅行服务。用户只需提供自己的偏好、预算和大致路线，即可生成详细的旅行方案，并提前安排好每天的行程。在金融场景，某头部银行利用腾讯云TI-OCR实现了95%以上准确率的文件智能识别和关键词提取，将文件数据转化为结构化数据,全面提升运营效率。</p><p>&nbsp;</p><p>大模型时代，算力、网络、数据构成了底层基础设施的“铁三角”。除了提供一站式MaaS服务之外，腾讯云还为客户提供了HCC高性能计算集群、星脉高性能计算网络以及向量数据库等基础设施服务。</p><p>&nbsp;</p><p>同时，腾讯云还积极参与、推动行业大模型标准建设。早在2020年，腾讯就被选举为全国信标委人工智能分委会委员兼副秘书长，国家在推进包括人工智能新基建的过程中，腾讯作为核心成员，承担了很多标准制定工作及技术引领作用。前不久，作为推动行业大模型的核心单位，腾讯云就与中国信通院共同启动了行业大模型标准联合推进计划，并联合信通院牵头开展国内首个金融行业大模型标准，为金融行业智能化的高质量规范化发展提供重要支撑。</p>",
+    "publish_time": "2023-08-16 16:39:36",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
