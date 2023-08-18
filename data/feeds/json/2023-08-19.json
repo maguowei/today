@@ -1538,5 +1538,112 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "裸色新风貌",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%A3%B8%E8%89%B2%E6%96%B0%E9%A3%8E%E8%B2%8C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何看待网红二驴被封禁",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BD%91%E7%BA%A2%E4%BA%8C%E9%A9%B4%E8%A2%AB%E5%B0%81%E7%A6%81%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "微博手机影像年",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E6%89%8B%E6%9C%BA%E5%BD%B1%E5%83%8F%E5%B9%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "内娱最精打细算的明星",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E6%9C%80%E7%B2%BE%E6%89%93%E7%BB%86%E7%AE%97%E7%9A%84%E6%98%8E%E6%98%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "和你心动七夕",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%92%8C%E4%BD%A0%E5%BF%83%E5%8A%A8%E4%B8%83%E5%A4%95%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "该抽钟离还是抽常驻？",
+    "url": "https://www.zhihu.com/question/612064716",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "拿驾驶证5年了，但刚买车，可以自己一个人开高速吗？",
+    "url": "https://www.zhihu.com/question/613071050",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Fixing the TPM: Hardware Security Modules Done Right",
+    "url": "https://loup-vaillant.fr/articles/hsm-done-right",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37180767\">Comments</a>",
+    "publish_time": "2023-08-19 03:22:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Expanding Transformer size without losing function or starting from scratch",
+    "url": "https://arxiv.org/abs/2308.06103",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37178842\">Comments</a>",
+    "publish_time": "2023-08-19 01:14:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Police are getting DNA data from people who think they opted out",
+    "url": "https://theintercept.com/2023/08/18/gedmatch-dna-police-forensic-genetic-genealogy/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37179094\">Comments</a>",
+    "publish_time": "2023-08-19 01:28:13",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Boycott Systemd (2014)",
+    "url": "https://web.archive.org/web/20140424123646/http://boycottsystemd.org/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37181276\">Comments</a>",
+    "publish_time": "2023-08-19 03:59:05",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
