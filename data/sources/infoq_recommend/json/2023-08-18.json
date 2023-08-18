@@ -108,5 +108,27 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "去哪儿酒店大前端团队负责人任龙飞确认出席QCon北京，分享用户体验数字化建设和提效",
+    "url": "https://www.infoq.cn/article/KpiwyRLxvmD1R6EA0322",
+    "summary": "<p>9 月 3 日 - 5 日，在 <a href=\"https://qcon.infoq.cn/202309/beijing/?utm_source=infoqweb&amp;utm_medium=teacherart&amp;utm_campaign=9&amp;utm_term=0818&amp;utm_content=renlongfei\">QCon 全球软件开发大会（北京站）</a>\"上，去哪儿酒店大前端团队负责人任龙飞将发表题为《用户体验数字化建设和提效》主题分享，介绍用户体验数字化背景、用户体验数字化方案设计、前端数字化提效方案以及未来展望。</p><p></p><p><a href=\"https://qcon.infoq.cn/202309/beijing/presentation/5387?utm_source=infoqweb&amp;utm_medium=teacherart&amp;utm_campaign=9&amp;utm_term=0818&amp;utm_content=renlongfei\">任龙飞</a>\"，2014 年入职去哪儿网，负责酒店大前端团队。十年以上大前端开发和体验优化经验，专注于用户体验建设和效率提升，在可视化配置、Serverless 方面都也有研究和斩获，目前推进了可视化配置在业务的落地、Serverless 系统在前端的大型应用。2022 年主导的“用户体验提升和建设”项目获得去哪儿 TC 项目奖一等奖，主导的“端上信息优化”获三等奖。他在本次会议的演讲内容如下：</p><p></p><p>演讲：用户体验数字化建设和提效</p><p></p><p>演讲提纲：</p><p></p><p>用户体验数字化的背景</p><p></p><p>用户体验数字化方案设计</p><p></p><p>前端数字化提效方案</p><p></p><p>○ Serverless 方案和落地</p><p>○ 可视化配置方案和落地</p><p></p><p>未来展望</p><p></p><p>你将获得：</p><p></p><p>○ 如何做用户体验的数字化设计</p><p>○ 了解如何精细化提升用户体验</p><p>○ 了解前端开发提效的新思路</p><p></p><p>除上述演讲外，QCon 北京还将围绕 <a href=\"https://qcon.infoq.cn/202309/beijing/track/1556?utm_source=infoqweb&amp;utm_medium=teacherart&amp;utm_campaign=9\">FinOps&nbsp;落地</a>\"、<a href=\"https://qcon.infoq.cn/202309/beijing/track/1570?utm_source=infoqweb&amp;utm_medium=teacherart&amp;utm_campaign=9\">云原生</a>\"、<a href=\"https://qcon.infoq.cn/202309/beijing/track/1567?utm_source=infoqweb&amp;utm_medium=teacherart&amp;utm_campaign=9\">AIGC&nbsp;浪潮下的研发效能提升</a>\"、<a href=\"https://qcon.infoq.cn/202309/beijing/track/1558?utm_source=infoqweb&amp;utm_medium=teacherart&amp;utm_campaign=9\">业务安全技术</a>\"、<a href=\"https://qcon.infoq.cn/202309/beijing/track/1552?utm_source=infoqweb&amp;utm_medium=teacherart&amp;utm_campaign=9\">面向&nbsp;AI&nbsp;的存储</a>\"、<a href=\"https://qcon.infoq.cn/202309/beijing/track/1557?utm_source=infoqweb&amp;utm_medium=teacherart&amp;utm_campaign=9\">从&nbsp;BI&nbsp;到&nbsp;BI+AI，新计算范式下的大数据平台</a>\"等进行分享。</p><p></p><p>110+ 名嘉宾、近 30 个精彩专题、8 种交流活动，QCon 北京 2023，相约 9 月！咨询购票请联系 18514549229（微信同手机号）。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/33/33cbbbf20baa8b2a18db4f0681f159aa.jpeg\" /></p><p></p>",
+    "publish_time": "2023-08-18 17:48:24",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "蚂蚁数科持续发力PaaS领域，SOFAStack布局全栈软件供应链安全产品",
+    "url": "https://www.infoq.cn/article/2che1Izc72EfbxARdQou",
+    "summary": "<p>8月18日，记者了解到，蚂蚁数科再度加码云原生PaaS领域，SOFAStack率先完成全栈软件供应链安全产品及解决方案的布局，包括静态代码扫描Pinpoint、软件成分分析SCA、交互式安全测试IAST、运行时防护RASP、安全洞察Appinsight等，帮助客户应用软件实现“发布前检测，运行时免疫”。</p><p></p><p>软件供应链安全合规已经成为各行业关注的焦点，软件产品在开发、测试、上线的各个阶段都存在引入各类安全风险的可能，例如危险开源组件的使用、自研代码缺陷漏洞引入、容器镜像漏洞引入等，这些风险导致软件系统的整体安全防护难度越来越大。</p><p></p><p>云原生安全既是一种全新安全理念，也是实现云战略的前提。以云原生的技术构建一体化安全体系部署，将云服务与安全结合才能达到云上业务部署、开发、运维、响应的全生命周期高质量发展。近些年，各大云计算厂商也都纷纷加大安全产品的投入，尤其是在多云架构趋势下，高复杂度、多重场景下，企业对一站式云原生应用安全防护解决方案的需求陡增。</p><p></p><p>对SOFAStack这类通用型PaaS平台，安全业务至关重要。据知情人士透露，早在今年上半年，该团队已完成产品层面的全面整合，并成立专门团队进一步提升云原生平台在安全方面的竞争优势。</p><p></p><p><img src=\"https://static001.infoq.cn/resource/image/b6/71/b6dcdd5c82c14bea02b2cayy1fcf7a71.png\" /></p><p></p><p>&nbsp;</p><p>其中静态代码安全扫描产品Pinpoint，于近日首批入选中国信通院“软件供应链安全”产品名录，并通过了公安部计算机信息系统安全产品质量监督检测中心权威测评，这一认证标志着该产品具有国内领先的安全技术和质量保障。</p><p></p><p>静态代码扫描是一种代码分析技术，指在不运行代码的方式下，通过词法分析、语法分析、控制流、数据流分析等技术对软件代码进行扫描，验证代码是否满足规范性、安全性、可靠性、可维护性等指标，从而为软件开发与运行保驾护航。</p><p></p><p>根据官方介绍，Pinpoint通过自研的分析引擎，能够在均衡分析精度、速度、深度的同时保证分析结果，无需构造测试用例即可自动寻找软件编码错误，可以让程序员迅速理解和修复问题，从而投入更多的时间到创造性的工作中。</p><p></p><p>目前，该产品已是国内应用实践最广泛的静态代码安全产品之一，在金融、制造、教育、互联网等行业规模落地实践，包括南京银行、浙江农信、中泰证券、珠海格力、广东电网等。</p>",
+    "publish_time": "2023-08-18 17:58:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
