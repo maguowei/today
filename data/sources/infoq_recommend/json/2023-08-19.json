@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Canonical发布Sunbeam项目：无缝迁移小型专有IT解决方案至OpenStack",
+    "url": "https://www.infoq.cn/article/VLl2YPszwoHf77VCytaa",
+    "summary": "<p>Canonical<a href=\"https://ubuntu.com/blog/canonical-extends-commercial-openstack-offering-to-small-scale-cloud-environments-with-project-sunbeam\">宣布</a>\"了一个新的开源项目，使组织能够轻松地将自己的小型专有IT解决方案迁移到OpenStack。Canonical说，<a href=\"https://governance.openstack.org/tc/reference/projects/sunbeam.html\">Sunbeam</a>\"项目是免费的，而且不需要成本高昂的专业服务。</p><p>&nbsp;</p><p>Sunbeam的目标是在Kubernetes和本地节点共存的混合环境中部署OpenStack。由于Sunbeam能够在容器中运行OpenStack，所以可以将它看成是一种加强型的OpenStack on Kubernetes。Sunbeam利用Canonical <a href=\"https://juju.is/\">Juju</a>\"在多云或混合云中编排和管理使用charm操作符的的节点。</p><p>&nbsp;</p><p>Charm是业务逻辑的基本封装单元，其中包含部署、配置和扩展应用程序的所有指令。Sunbeam采用了Kubernetes的原生概念，例如StatefulSets和操作符，因此，部署和操作OpenStack的方式与其他Kubernetes部署类似。</p><p>&nbsp;</p><p>Sunbeam的另一个核心功能是关系处理程序，它是charm和接口之间的中介，目的是创建一个中间抽象，让charm可以用统一的方式与各种各样的接口进行交互。例如，关系处理程序提供了一个ready属性，让charm接口知道是否所有数据都已经接收。另一方面，容器处理程序则负责协调charm和<a href=\"https://github.com/canonical/pebble\">pebble容器</a>\"，以配置容器、重启容器、检查其运行状态等等。</p><p>&nbsp;</p><p>虽然Sunbeam能够支持任意规模的OpenStack运营和管理，从单个节点到边缘的小型部署，再到包含成千上万虚拟化管理程序的大型云，但Canonical的产品经理Tytus Kurek证实，Sunbeam是专门针对OpenStack的初期采用阶段，例如在迁移小型遗留IT解决方案时：</p><p></p><p></p><blockquote>Sunbeam的出现消除了最初采用OpenStack时可能会遇到的许多障碍，这是迈向自治私有云的第一步。</blockquote><p></p><p>&nbsp;</p><p>Canonical声称，基于这一愿景，Sunbeams提供了一个简单的界面，旨在为不熟悉OpenStack的用户提供方便，让他们可以在几分钟内启动OpenStack云。</p><p>&nbsp;</p><p>目前，Sunbeam提供的最新OpenStack版本是2023.1，但只包含核心OpenStack服务，尽管Canonical表示这个项目的发展会非常迅速。</p><p>&nbsp;</p><p>&nbsp;</p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2023/06/canonical-sunbeam-openstack/\">https://www.infoq.com/news/2023/06/canonical-sunbeam-openstack/</a>\"</p><p></p><p>相关阅读：</p><p><a href=\"https://www.infoq.cn/article/xb600VAYhlzQcjuvAKeN\">OpenStack 已死？最新报告显示 OpenStack 部署呈爆发式增长，整体规模超 4000 万</a>\"</p><p><a href=\"https://xie.infoq.cn/article/4fbda2565eba3864f38196764\">Kubernetes 与 OpenStack</a>\"</p>",
+    "publish_time": "2023-08-19 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
