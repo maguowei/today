@@ -1,0 +1,13 @@
+[
+  {
+    "title": "OpenAI设立Superalignment团队：让 AI 对齐人类价值观，预防潜在风险",
+    "url": "https://www.infoq.cn/article/J8emKvQKNjHz3hVGamV6",
+    "summary": "<p><a href=\"https://openai.com/\">OpenAI</a>\"宣布成立一个专门的<a href=\"https://openai.com/blog/introducing-superalignment\">Superalignment</a>\"团队，旨在防止流氓<a href=\"https://en.wikipedia.org/wiki/Superintelligence\">Superintelligent AI</a>\"的出现。OpenAI强调了使人工智能系统与人类价值保持一致的必要性，以及主动采取措施防止潜在危害的重要性。</p><p>&nbsp;</p><p>创造符合人类理想和目标的人工智能系统的过程被称为<a href=\"https://en.wikipedia.org/wiki/AI_alignment\">人工智能校准</a>\"。这需要确保AI系统理解伦理概念、社会标准和人类目标，并据此采取行动。AI校准旨在缩小人类需求和福祉与AI系统目标之间的差距。通过将AI与人类价值相结合，减少人工智能的危害，增加其潜在的优势。</p><p>&nbsp;</p><p>OpenAI的<a href=\"https://openai.com/blog/introducing-superalignment\">Superalignment</a>\"团队将专注于促进对AI校准的理解和实现。这是一个确保AI系统按照人类价值和目标行事的过程。通过研究强大的校准方法和开发新技术，该团队旨在创建在其整个发展过程中始终以人为本的人工智能系统。</p><p></p><p></p><blockquote>OpenAI表示：“我们的目标是在四年内解决超级智能校准的核心技术挑战。”</blockquote><p></p><p>&nbsp;</p><p>OpenAI联合创始人兼首席科学家Ilya Sutsker和校准主管Jan Leike表示，像GPT-4（ChatGPT的基础）这类模型当前使用的AI校准技术，都依赖于从人类反馈中进行<a href=\"https://en.wikipedia.org/wiki/Reinforcement_learning\">强化学习</a>\"。不过，这种方法依赖于人类的监督，如果AI的的智力超越了人类，变得比它的监督者更聪明，这种方法可能就行不通了。Sutsker和Leike进一步解释说，其他一些基本假设，比如在部署过程中有良好的泛化属性，或者在训练过程中无法检测和削弱监督，在未来也可能被打破。</p><p>&nbsp;</p><p><a href=\"https://en.wikipedia.org/wiki/AI_safety\">AI安全</a>\"将成为一个重要的产业。世界各国政府正在采取措施制定法规，解决人工智能各个方面的问题，包括数据隐私、算法透明度和伦理考量。欧盟正在制定全面的《<a href=\"https://artificialintelligenceact.eu/the-act/\">人工智能法案</a>\"》，美国也在采取措施制定《<a href=\"https://www.whitehouse.gov/ostp/ai-bill-of-rights/\">人工智能权利法案蓝图</a>\"》。在英国，<a href=\"https://www.gov.uk/government/news/initial-100-million-for-expert-taskforce-to-help-uk-build-and-adopt-next-generation-of-safe-ai\">基金会模型人工智能工作组</a>\"已经成立，旨在研究调查人工智能的安全问题。</p><p>&nbsp;</p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2023/07/openai-superalignment-ai-safety/\">https://www.infoq.com/news/2023/07/openai-superalignment-ai-safety/</a>\"</p><p></p><p>相关阅读：</p><p><a href=\"https://www.infoq.cn/article/datmEqVmS134ewFO7wel\">OpenAI或于2024年底破产？大模型太烧钱了，快把OpenAI烧没了！</a>\"</p><p><a href=\"https://www.infoq.cn/article/IzPVkcZg0jeHGcD4xP7H\">OpenAI 推出网络爬虫 GPTBot，引发网站抵御潮：信息被爬走就很可能意味着永远无法删除</a>\"</p>",
+    "publish_time": "2023-08-21 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
