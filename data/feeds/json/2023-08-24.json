@@ -1661,5 +1661,74 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "乐山市民江边发现女版睡佛",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B9%90%E5%B1%B1%E5%B8%82%E6%B0%91%E6%B1%9F%E8%BE%B9%E5%8F%91%E7%8E%B0%E5%A5%B3%E7%89%88%E7%9D%A1%E4%BD%9B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "许魏洲 我的账户由我自己守护",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%AE%B8%E9%AD%8F%E6%B4%B2+%E6%88%91%E7%9A%84%E8%B4%A6%E6%88%B7%E7%94%B1%E6%88%91%E8%87%AA%E5%B7%B1%E5%AE%88%E6%8A%A4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "山东一镇为231名准大学生发35万助学金",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%B8%80%E9%95%87%E4%B8%BA231%E5%90%8D%E5%87%86%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8F%9135%E4%B8%87%E5%8A%A9%E5%AD%A6%E9%87%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何寻找写作灵感，提升写作思路？",
+    "url": "https://www.zhihu.com/question/616215735",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美股三大指数集体收涨，大型科技股普涨",
+    "url": "https://www.36kr.com/newsflashes/2401233063125377",
+    "summary": "36氪获悉，8月23日收盘，美股三大指数集体上涨，纳指涨1.59%，标普500指数涨1.1%，道指涨0.54%。大型科技股普涨，Netflix、英伟达涨超3%，Meta、谷歌、苹果涨超2%。热门中概股多数走强，满帮涨超11%，百度涨超3%，阿里巴巴涨2%，京东、哔哩哔哩涨超1%；知乎跌超9%，叮咚买菜跌超7%，爱奇艺跌超4%。",
+    "publish_time": "2023-08-24 07:00:35",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Zoom CEO says employees can't be as innovative or get to know each other on Zoom",
+    "url": "https://www.businessinsider.com/zoom-ceo-employees-return-to-office-2023-8",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37242545\">Comments</a>",
+    "publish_time": "2023-08-24 06:13:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "BioWare is laying off 50 employees",
+    "url": "https://blog.bioware.com/2023/08/23/an-update-on-the-state-of-bioware/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37242651\">Comments</a>",
+    "publish_time": "2023-08-24 06:24:25",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
