@@ -31,5 +31,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "如何使用 Amazon CodeWhisperer 免费进行代码安全检查",
+    "url": "https://www.infoq.cn/article/p4r2t1XP2yXAK55ti8zV",
+    "summary": "<p>CodeWhisperer 是Amazon发布的一款免费的AI 编程辅助小工具，在辅助程序员编程的同时，还具备代码安全审计的功能。可以快速扫描 Java、JavaScript 和 Python 项目中难以发现的漏洞，并获取代码建议以立即修复这些漏洞。遵循跟踪安全漏洞的最佳实践，例如开放全球应用程序安全项目 (OWASP) 概述的漏洞，或者不符合加密库最佳实践及其他类似安全最佳实践的漏洞。今天小试牛刀，试验一下CodeWhisperer的代码安全检查能力，成功识别出Python代码中可能存在的系统命令注入漏洞、SQL注入漏洞、MD5碰撞漏洞以及反序列化漏洞，666 ～</p><p></p><h2>系统命令注入漏洞</h2><p></p><p></p><p>以下是一段有安全漏洞的 Python 代码：</p><p><code lang=\"python\">import os\n\nfilename = input(\"请输入文件名：\")\nos.system(\"rm \" + filename)</code></p><p></p><p>这段代码的作用是删除用户输入的文件名对应的文件，但存在安全漏洞。其中的漏洞是，用户可以通过输入特殊字符来执行任意系统命令，而不仅仅是删除文件。例如，如果用户输入的是&nbsp;;ls，则会先删除指定文件，然后执行&nbsp;ls&nbsp;命令。这可能导致系统被攻击者接管或者数据被窃取，因此这段代码需要进行安全性改进。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/db/dbe0eb387e9b3577d12c706ffac2f4fc.png\" /></p><p></p><p>Amazon CodeWhisperer 成功检测出：系统命令注入漏洞。</p><p></p><p></p><h2>SQL注入漏洞</h2><p></p><p></p><p>以下是一个有安全漏洞的 Python 代码：</p><p></p><p><code lang=\"python\">import sqlite3\n\nconn = sqlite3.connect('example.db')\nc = conn.cursor()\n\nc.execute('''CREATE TABLE stocks\n             (date text, trans text, symbol text, qty real, price real)''')\n\ndate = input(\"请输入日期：\")\ntrans = input(\"请输入交易类型：\")\nsymbol = input(\"请输入股票代码：\")\nqty = input(\"请输入数量：\")\nprice = input(\"请输入价格：\")\n\nc.execute(f\"INSERT INTO stocks VALUES ('{date}', '{trans}', '{symbol}', {qty}, {price})\")\n\nconn.commit()\nconn.close()</code></p><p></p><p>这段代码的作用是向 SQLite 数据库中插入一条记录，但存在安全漏洞。其中的漏洞是，用户输入的数据没有进行任何过滤或转义，从而可能导致 SQL 注入攻击。例如，如果用户输入的&nbsp;symbol&nbsp;参数是&nbsp;ABC'); DROP TABLE stocks; --，则会删除&nbsp;stocks&nbsp;表。这可能导致数据丢失或系统崩溃，因此这段代码需要进行安全性改进。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/05/05a7f1fbd8b83ac88a1c91f5d3bc4076.png\" /></p><p></p><p>Amazon CodeWhisperer 成功检测出：SQL注入漏洞。</p><p></p><h2>MD5碰撞漏洞</h2><p></p><p></p><p>以下是一个有安全漏洞的 Python 代码：</p><p></p><p><code lang=\"python\">import hashlib\n\npassword = input(\"请输入密码：\")\n\nhash = hashlib.md5(password.encode('utf-8')).hexdigest()\n\nprint(f\"您的密码的 MD5 值为：{hash}\")</code></p><p></p><p>这段代码的作用是计算用户输入的密码的 MD5 值，并输出结果。但存在安全漏洞。其中的漏洞是，MD5 算法已经被证明不再安全，可以被暴力破解或碰撞攻击。因此，如果攻击者获得了用户的 MD5 值，就可以使用彩虹表等方法轻松地破解密码。这可能导致用户账户被攻击者接管或者数据被窃取，因此这段代码需要进行安全性改进。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/40/4098461d87de6d1e6c26b3223a5c88ad.png\" /></p><p></p><p>Amazon CodeWhisperer 成功检测出：MD5碰撞漏洞</p><p></p><h2>反序列化漏洞</h2><p></p><p></p><p>以下是一个有安全漏洞的 Python 代码：</p><p></p><p><code lang=\"python\">import pickle\n\nserialized_data = input(\"请输入序列化数据：\")\ndata = pickle.loads(serialized_data)\n# 使用反序列化后的数据...</code></p><p></p><p>这段代码的作用是对输入序列化数据，进行反序列化。但存在安全漏洞，其中的漏洞是没有对输入进行验证和过滤，直接进行反序列化操作可能导致恶意对象的执行，从而导致远程代码执行或数据泄露。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/6c/6cf801c61cd5482a0bd8fb1e683779dd.png\" /></p><p></p><p>Amazon CodeWhisperer 成功检测出：反序列化漏洞。</p><p></p>",
+    "publish_time": "2023-08-24 10:39:25",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
