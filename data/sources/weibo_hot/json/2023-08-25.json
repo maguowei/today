@@ -700,5 +700,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "袁弘说好喜欢燃冬",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%A2%81%E5%BC%98%E8%AF%B4%E5%A5%BD%E5%96%9C%E6%AC%A2%E7%87%83%E5%86%AC%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "官方回应网友晒高副处长的礼物",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E5%8F%8B%E6%99%92%E9%AB%98%E5%89%AF%E5%A4%84%E9%95%BF%E7%9A%84%E7%A4%BC%E7%89%A9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
