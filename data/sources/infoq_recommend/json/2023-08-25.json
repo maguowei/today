@@ -207,5 +207,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "将60多年的COBOL语言重构为 Java，IBM 用AI工具解决大型机维护难",
+    "url": "https://www.infoq.cn/article/r6xXrY79a7qSFhga4HPJ",
+    "summary": "<p>&nbsp;COBOL 编程语言至今已有60多年，但对大企业至今依然至关重要，然而 COBOL 的维护却很困难，因为熟练使用这种老化语言的程序员已经退休甚至去世，许多年轻的程序员也根本没有学过它。</p><p>&nbsp;</p><p>为解决该问题，IBM 周二<a href=\"https://newsroom.ibm.com/2023-08-22-IBM-Unveils-watsonx-Generative-AI-Capabilities-to-Accelerate-Mainframe-Application-Modernization?_gl=1*1jcyvyk*_ga*NDA3MTg1NDEyLjE2OTI3MjE0NTM.*_ga_FYECCCS21D*MTY5MjcyMTQ1Mi4xLjEuMTY5MjcyMTQ2OC4wLjAuMA..\">宣布推出</a>\"生成式 AI 工具推出<a href=\"https://www.ibm.com/products/watson-code-assistant\">watsonx Code Assistant for Z</a>\"将 COBOL 代码重构为 Java 来实现云上古董大型机软件的现代化。该产品将于 2023 年第四季度全面上市，旨在帮助加速 COBOL 应用程序现代化。</p><p>&nbsp;</p><p>“寻找 COBOL 程序员很困难，因为只有像我这样的老人才有经验，而且现在的经验非常生疏，”Omdia 分析师Roy Illsley说道，“如果你能找到一名 COBOL 程序员，他们的价格会很昂贵。他们的薪水是最高的，因为很多关键任务应用程序都是用 COBOL 编写的，而且需要他们维护。”</p><p>&nbsp;</p><p>IBM 表示，现代化大型机应用程序将利用 AIOps、DevOps、API 和数据集成等学科，轻松将这些应用程序集成到混合云架构中。</p><p>&nbsp;</p><p><a href=\"https://www.linkedin.com/in/skyla-loomis/\">IBM Z Software 副总裁Skyla Loomis</a>\"表示，“通过将生成式 AI 与 watsonx 结合使用，可以对这些 COBOL 应用程序的架构进行现代化改造，并有选择地将 COBOL 转换为 Java，企业可以解决人才缺口并利用广泛的 Java 开发者生态系统。”</p><p>&nbsp;</p><p>Watsonx Code Assistant for Z在将 COBOL 转换为 Java的同时，可以保留本机 COBOL 语法和架构，从而生成现代开发人员难以维护的代码。</p><p>&nbsp;</p><p>COBOL 应用程序通常很复杂，可扩展 3000 万到 1 亿行并运行关键任务工作负载。将 COBOL 重构为 Java 是一个困难的过程，可能需要数十年的时间，而且经常会失败。IBM 预计人工智能工具将让过程加快一个数量级。</p><p>&nbsp;</p><p>IBM 表示，超过一半的财富 1000 强企业依靠大型机来处理信用卡和支付交易、航班预订并确保关键任务数据始终可用。IBM 商业价值研究院与牛津经济研究院联合开展的一项调查显示，70% 的受访者表示，大型机应用程序是业务和技术战略的核心。大约 68% 的高管表示大型机系统是其混合云的核心，但近 70% 的高管表示基于大型机的应用程序需要现代化。</p><p>&nbsp;</p><p>老化的 COBOL 系统<a href=\"https://www.infoq.cn/article/NbBqwLT6eFo6Rs5RMPSL\">已成为企业和政府面临的大问题</a>\"。在大流行初期，基于 COBOL 的州失业系统在申请增加的压力下变得紧张。这为由退休的 COBOL 程序员组成的咨询公司“COBOL Cowboys”带来了业务，他们在大型机危机中奋力救援。</p><p>&nbsp;</p><p>参考链接：</p><p>https://newsroom.ibm.com/2023-08-22-IBM-Unveils-watsonx-Generative-AI-Capabilities-to-Accelerate-Mainframe-Application-Modernization?_gl=11jcyvyk_gaNDA3MTg1NDEyLjE2OTI3MjE0NTM._ga_FYECCCS21D*MTY5MjcyMTQ1Mi4xLjEuMTY5MjcyMTQ2OC4wLjAuMA..</p><p>https://www.silverliningsinfo.com/apps-services/ibm-watsonx-brings-cobol-cloud-era-ai</p><p>&nbsp;</p>",
+    "publish_time": "2023-08-25 20:32:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
