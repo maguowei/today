@@ -1246,5 +1246,96 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "什么样的SUV更靠谱",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84SUV%E6%9B%B4%E9%9D%A0%E8%B0%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "成毅直播笑话合集",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E7%9B%B4%E6%92%AD%E7%AC%91%E8%AF%9D%E5%90%88%E9%9B%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "6000 左右的预算配台式机，求推荐配置单？",
+    "url": "https://www.zhihu.com/question/585057665",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "很多人在交往前会跟伴侣说「我可以接受你不爱我，但请一定要告诉我」，但这一点为什么难以做到？",
+    "url": "https://www.zhihu.com/question/617745797",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Slime molds are gorgeous (you just never knew it) [video]",
+    "url": "https://www.youtube.com/watch?v=gpt9cJrEZ_Y",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37265664\">Comments</a>",
+    "publish_time": "2023-08-26 02:48:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Why Htmx Does Not Have a Build Step",
+    "url": "https://htmx.org/essays/no-build-step/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37265097\">Comments</a>",
+    "publish_time": "2023-08-26 02:08:55",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Email Authentication: A Developer's Guide",
+    "url": "https://resend.com/blog/email-authentication-a-developers-guide",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37263708\">Comments</a>",
+    "publish_time": "2023-08-26 00:34:49",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Imminent Death of ChatGPT [and Generative AI] Is Greatly Exaggerated",
+    "url": "https://synthedia.substack.com/p/the-imminent-death-of-chatgpt-and",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37263231\">Comments</a>",
+    "publish_time": "2023-08-26 00:01:33",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Big Ass Data Broker Opt-Out List",
+    "url": "https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37265346\">Comments</a>",
+    "publish_time": "2023-08-26 02:25:29",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
