@@ -97,5 +97,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "折腾多年的网络体会",
+    "url": "https://www.v2ex.com/t/968451",
+    "summary": "8675bc86: <p>七八年前，为了实现 fq ，斥巨资买了华硕路由器，刷梅林，跑 shadowsocks ，买 Gen8 ，跑各种存储服务。后来路由器各种不稳定，换了各种型号，包括当年的神器 N1 跑 openwrt 。</p>\n<p>如今的最优解是（稳定运行 2 年）：</p>\n<ol>\n<li>主路由使用红米 AX6 ，实现 WIFI 6 覆盖，拨号，DHCP 推送软路由 ip 为网关；</li>\n<li>N5105 安装 Fedora ，自己安装 clash 和各种存储服务，dnf 一键搞定，灵活又稳定；</li>\n</ol>\n<p>总结之前的问题：</p>\n<ol>\n<li>总是想路由+fq all in one ，所以选择不多；</li>\n<li>看到大家都在用 openwrt ，也想要用 openwrt ，实际多年的体会，差通用操作系统(Fedora/Archlinux)一大截，包管理差，包质量差，经常找不到包，源混乱，文件系统不好用，更别说 arm 架构。</li>\n</ol>\n<p>如今 openwrt ，爱快，esxi ，pve 都丢垃圾桶了，稳定方便的一批，想要啥自己写自己装，openwrt 能做的事，Fedora 完全能搞定，完全<strong>国产自主可控</strong>（手动狗头）。建议大家也试试，脱离 openwrt ，真爽。</p>",
+    "publish_time": "2023-08-26 13:21:15",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
