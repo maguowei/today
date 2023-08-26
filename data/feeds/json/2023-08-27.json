@@ -1538,5 +1538,56 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "女子试用期上班51天迟到25次被辞退",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%AF%95%E7%94%A8%E6%9C%9F%E4%B8%8A%E7%8F%AD51%E5%A4%A9%E8%BF%9F%E5%88%B025%E6%AC%A1%E8%A2%AB%E8%BE%9E%E9%80%80%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "30岁男生给20岁男生的建议",
+    "url": "https://s.weibo.com/weibo?q=%2330%E5%B2%81%E7%94%B7%E7%94%9F%E7%BB%9920%E5%B2%81%E7%94%B7%E7%94%9F%E7%9A%84%E5%BB%BA%E8%AE%AE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Show HN: Dumbar, a not so smart menubar app",
+    "url": "https://jerrysv.xyz/blog/dumbar.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37276282\">Comments</a>",
+    "publish_time": "2023-08-27 03:57:50",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Thoughts about what worked in math circles",
+    "url": "https://buttondown.email/j2kun/archive/thoughts-about-what-worked-in-math-circles/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37276502\">Comments</a>",
+    "publish_time": "2023-08-27 04:20:07",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Gojekyll: A fast, partially compatible Go clone of Jekyll",
+    "url": "https://github.com/osteele/gojekyll",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37276424\">Comments</a>",
+    "publish_time": "2023-08-27 04:11:42",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
