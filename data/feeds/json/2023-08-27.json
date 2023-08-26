@@ -1292,5 +1292,116 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "OLAY沙漠水润出镜挑战",
+    "url": "https://s.weibo.com/weibo?q=%23OLAY%E6%B2%99%E6%BC%A0%E6%B0%B4%E6%B6%A6%E5%87%BA%E9%95%9C%E6%8C%91%E6%88%98%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "长相思即将上线网飞",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E5%8D%B3%E5%B0%86%E4%B8%8A%E7%BA%BF%E7%BD%91%E9%A3%9E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "日料店无日本食材涉虚假宣传吗",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%96%99%E5%BA%97%E6%97%A0%E6%97%A5%E6%9C%AC%E9%A3%9F%E6%9D%90%E6%B6%89%E8%99%9A%E5%81%87%E5%AE%A3%E4%BC%A0%E5%90%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "李宇春成都演唱会",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E6%88%90%E9%83%BD%E6%BC%94%E5%94%B1%E4%BC%9A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "薛之谦遵义",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E9%81%B5%E4%B9%89%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Yet Another VPS Benchmark – Cloudfanatic, DigitalOcean, Linode, Vultr [Aug 2023]",
+    "url": "https://blog.aawadia.dev/2023/08/26/yabs-august-2023/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37274467\">Comments</a>",
+    "publish_time": "2023-08-27 00:48:19",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Never-Ending Learning of User Interfaces",
+    "url": "https://arxiv.org/abs/2308.08726",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37275331\">Comments</a>",
+    "publish_time": "2023-08-27 02:12:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Datapen.io – A Curation of Free Data Science Resources",
+    "url": "https://www.datapen.io/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37275315\">Comments</a>",
+    "publish_time": "2023-08-27 02:10:19",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Modernizing Compiler Design for Carbon Toolchain [video]",
+    "url": "https://www.youtube.com/watch?v=ZI198eFghJk",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37275526\">Comments</a>",
+    "publish_time": "2023-08-27 02:28:46",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Historic Algorithms Help Unlock Shortest-Path Problem Breakthrough",
+    "url": "https://cacm.acm.org/news/275684-historic-algorithms-help-unlock-shortest-path-problem-breakthrough/fulltext",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37275676\">Comments</a>",
+    "publish_time": "2023-08-27 02:44:05",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "90% of “eco-friendly” paper straws contain traces of toxic forever chemicals",
+    "url": "https://scienceswitch.com/2023/08/27/90-of-eco-friendly-paper-straws-contain-traces-of-toxic-forever-chemicals/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37275856\">Comments</a>",
+    "publish_time": "2023-08-27 03:03:33",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
