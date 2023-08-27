@@ -619,5 +619,41 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "真我GT5新品发布",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%9C%9F%E6%88%91GT5%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "十个勤天",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "剑网3唐门豁达coser",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%89%91%E7%BD%913%E5%94%90%E9%97%A8%E8%B1%81%E8%BE%BEcoser%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "当向日葵找不到太阳",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%90%91%E6%97%A5%E8%91%B5%E6%89%BE%E4%B8%8D%E5%88%B0%E5%A4%AA%E9%98%B3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
