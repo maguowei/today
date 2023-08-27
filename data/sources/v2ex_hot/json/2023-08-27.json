@@ -9,5 +9,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "AI 本地相册搜索工具-拾光/Prompto，正式上线 Google Play! 送 20 个终身会员促销码",
+    "url": "https://www.v2ex.com/t/968615",
+    "summary": "Prompto: <p>拾光是一款 AI 本地相册搜索应用，只需要一句简要的描述词，就可以帮助你发现相册中的美好时光。GooglePlay 地址： <a href=\"https://play.google.com/store/apps/details?id=com.cooke.picklight\" rel=\"nofollow\">https://play.google.com/store/apps/details?id=com.cooke.picklight</a></p>\n<p>不知道有没有人和我一样，懒得管理相册中的照片，越积越多，找照片时非常费劲，只能根据图片保存的大概时间滚动时间条盲目寻找。系统自带的相册虽然有搜索能力，但是不够强。</p>\n<p>偶然间看到寻隐 这款 app ，体验了下大受震撼，这不就是我想要的功能吗。只要你的搜索词提供的特征足够明确，搜索结果基本符合期望。</p>\n<p>无奈寻隐的作者只开发了 iOS 端，于是自己打算做一款 android 版，这里也非常感谢作者开源了项目，提供了整体的实现思路。</p>\n<p>《拾光》在手机本地运行了 CLIP 大语言模型，能够识别照片包含的色彩，地点，天气，人物，宠物，色彩，身份证，屏幕截图，二维码等等，甚至是照片表现出的情绪。我们只要通过自然语言描述图片的主要特征，就可以轻松找到想要的图片。例如“开心的狗子”，“睡觉中的猫咪”，“下雨天的晚上”等等。\n<img alt=\"开心的狗子\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://x.imgs.ovh/x/2023/08/27/64eacbcd62337.png\" />\n<img alt=\"开心的狗子\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://x.imgs.ovh/x/2023/08/27/64eacc195537f.png\" /></p>\n<p>关于联网问题，为了支持多语言输入，拾光首次启动时需要下载翻译模型，后续搜索时，支持离线运行。如果你想获得最准确的的结果，建议使用英文输入。</p>\n<p>开发不易，一路上踩了不少坑，有兴趣的朋友多多支持，如果觉得好用的话，请帮忙在 Google play 上给个好评。现在送出 20 个终身会员促销码，欢迎大家提出使用反馈和建议。</p>\n<p>SQZCF5BU9K0SHTW5UE9LD4L</p>\n<p>LMYJLSAB1GEH7NPBNLT7UGY</p>\n<p>8F70B22ZMD3PY0HYJGPC53W</p>\n<p>3H0H8ZD7VG0QNR9FMKDJFWU</p>\n<p>LKHYP8Z0CB2N1XGR4MF244Z</p>\n<p>88CUE4MUC6P0X38KFH4280A</p>\n<p>2Z0Y53WQEMD5UHW65QV3U12</p>\n<p>NXYFY1W6NSWF89VWJBCC3G5</p>\n<p>755SPPNQ1TFUV0RLAF6GJQ6</p>\n<p>BYDHB3V70AYA3CBGULGV6PH</p>\n<p>VNMPLSL0SJB3Q4G1X8HQ5BA</p>\n<p>JSQNJNUT69EJ3QT94A56UNU</p>\n<p>C0KNTXXDKQ5K82M6YM4HQF5</p>\n<p>ZR74UMKY4AN499Z5YZRF2CP</p>\n<p>Z0D1QP5XYKRE8GZGHZNFBTQ</p>\n<p>J2KM0G62NW29LX7LEMC61JR</p>\n<p>HE82E88AQ57UCCWBXE9NDVZ</p>\n<p>K2A9QGGAT0K9GVDC0WXGNKS</p>\n<p>4BCEBCDPDQ7R5LBDN9RZJY3</p>\n<p>WGTF5GEQ1AJXKSGH4HN3L05</p>",
+    "publish_time": "2023-08-27 12:15:17",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
