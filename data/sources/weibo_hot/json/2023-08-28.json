@@ -610,5 +610,14 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "这猫是不是看过自己的表情包了",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%8C%AB%E6%98%AF%E4%B8%8D%E6%98%AF%E7%9C%8B%E8%BF%87%E8%87%AA%E5%B7%B1%E7%9A%84%E8%A1%A8%E6%83%85%E5%8C%85%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]

@@ -1136,5 +1136,98 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "这猫是不是看过自己的表情包了",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%8C%AB%E6%98%AF%E4%B8%8D%E6%98%AF%E7%9C%8B%E8%BF%87%E8%87%AA%E5%B7%B1%E7%9A%84%E8%A1%A8%E6%83%85%E5%8C%85%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何看待2024届秋招形势？",
+    "url": "https://www.zhihu.com/question/618916773",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "《原神》冰风组曲怎么打?",
+    "url": "https://www.zhihu.com/question/619396120",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "The world’s last internet cafes",
+    "url": "https://restofworld.org/2023/internet-cafes/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37285131\">Comments</a>",
+    "publish_time": "2023-08-28 02:03:12",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Study: Carbon offsets aren’t doing their job, overstate impact",
+    "url": "https://arstechnica.com/science/2023/08/study-carbon-offsets-arent-doing-their-job-overstate-impact/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37284764\">Comments</a>",
+    "publish_time": "2023-08-28 01:26:42",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Infiuss Health (YC S21) is hiring a data analyst",
+    "url": "https://news.ycombinator.com/item?id=37284488",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37284488\">Comments</a>",
+    "publish_time": "2023-08-28 01:00:40",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "PMET: Precise Model Editing in a Transformer",
+    "url": "https://arxiv.org/abs/2308.08742",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37285396\">Comments</a>",
+    "publish_time": "2023-08-28 02:35:14",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Classical Music Is for Everyone",
+    "url": "https://www.firstthings.com/web-exclusives/2023/08/classical-music-is-for-everyone",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37285413\">Comments</a>",
+    "publish_time": "2023-08-28 02:37:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A forum engine written in Assembly",
+    "url": "https://asm32.info/fossil/asmbb/index",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37285156\">Comments</a>",
+    "publish_time": "2023-08-28 02:05:17",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
