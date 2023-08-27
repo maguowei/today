@@ -20,5 +20,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "奇文共赏： [程序员的常识：写程序出 Bug 非常丢人]",
+    "url": "https://www.v2ex.com/t/968596",
+    "summary": "DJCNMHG: 原文链接： <a href=\"https://sspai.com/post/82286\" rel=\"nofollow noopener\" target=\"_blank\">https://sspai.com/post/82286</a><br />文章备份： <a href=\"https://web.archive.org/web/20230827023002/https://sspai.com/post/82286\" rel=\"nofollow noopener\" target=\"_blank\">https://web.archive.org/web/20230827023002/https://sspai.com/post/82286</a><br />背景：作者自己是程序员，以“程序员视角”来写的“程序员需要知道的常识”<br /><a href=\"https://i.imgur.com/itajbNQ.jpg\" rel=\"nofollow noopener\" target=\"_blank\"><img class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/itajbNQ.jpg\" /></a>",
+    "publish_time": "2023-08-27 10:33:24",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "一天一顿饭的好处太多了",
+    "url": "https://www.v2ex.com/t/968634",
+    "summary": "richangfan: <ul>\n<li>可以把一天的预算放在一顿饭上，选择范围变大，档次变高</li>\n<li>节省时间</li>\n<li>达到轻断食的效果，有利健康</li>\n</ul>",
+    "publish_time": "2023-08-27 14:35:38",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "无意中学了点 powershell ，惊了， 这东西是不是低估了",
+    "url": "https://www.v2ex.com/t/968637",
+    "summary": "iorilu: <p>以前以为 shell 都是 bash 之类那种</p>\n<p>来来回回就是调点命令，用管道串联几个命令</p>\n<p>来来回回都是处理文本， 别提多麻烦， 还有一些诡异语法之类的 awk</p>\n<p>大家都默认这样就不错</p>\n<p>最近因为一些用途， 了解了点 powershell</p>\n<p>立马惊了，powershell 命令输出的都是真正的对象， 直接\n相当于管道处理对象， 不需要折腾命令数着几列到几列处理文本， 既然是对象， 直接拿属性，\n调用方法都行， 方便太多</p>\n<p>而且 powershell 现在跨平台， 开源了， 感觉微软一出手， 开源真没人玩的过啊</p>\n<p>我打算以后 mac ， 或 linux 上也用 powershell 了</p>\n<p>有兴趣的可以了解下</p>",
+    "publish_time": "2023-08-27 14:48:57",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
