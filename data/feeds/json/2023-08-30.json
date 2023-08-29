@@ -1320,5 +1320,87 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "如果不是监控拍下来真的就解释不清了",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E4%B8%8D%E6%98%AF%E7%9B%91%E6%8E%A7%E6%8B%8D%E4%B8%8B%E6%9D%A5%E7%9C%9F%E7%9A%84%E5%B0%B1%E8%A7%A3%E9%87%8A%E4%B8%8D%E6%B8%85%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何看待 2023 年 9 月 12 日 Apple 秋季发布会的邀请函？透露了哪些信息？",
+    "url": "https://www.zhihu.com/question/619770472",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何看待 2023 年 CPA 考试的难度？",
+    "url": "https://www.zhihu.com/question/619444207",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Bicyclists Deserve the Right to Free Movement",
+    "url": "https://www.thenation.com/article/society/bicycles-cycling-bike-safety/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37311891\">Comments</a>",
+    "publish_time": "2023-08-30 02:29:12",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A Deep Dive into Weaviate's Fusion Algorithms for Hybrid Search",
+    "url": "https://weaviate.io/blog/hybrid-search-fusion-algorithms",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37311394\">Comments</a>",
+    "publish_time": "2023-08-30 01:48:50",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Popularity of DOS/4GW made Win95 game compat easier, but with higher stakes",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20230829-00/?p=108661",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37311508\">Comments</a>",
+    "publish_time": "2023-08-30 01:57:50",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "iFixit Petitions Government for Right to Hack McDonald's Ice Cream Machine",
+    "url": "https://www.404media.co/activists-petition-government-for-right-to-hack-mcdonalds-mcflurry-machines-to-repair-them/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37311239\">Comments</a>",
+    "publish_time": "2023-08-30 01:37:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "AWS Works Council Germany",
+    "url": "https://www.aws-works-council-initiative.de/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37311780\">Comments</a>",
+    "publish_time": "2023-08-30 02:19:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
