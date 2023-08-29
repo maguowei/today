@@ -1679,5 +1679,78 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "吴磊骑行偶遇狐狸",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E9%AA%91%E8%A1%8C%E5%81%B6%E9%81%87%E7%8B%90%E7%8B%B8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "70岁奶奶暑假带2孙子一起看书",
+    "url": "https://s.weibo.com/weibo?q=%2370%E5%B2%81%E5%A5%B6%E5%A5%B6%E6%9A%91%E5%81%87%E5%B8%A62%E5%AD%99%E5%AD%90%E4%B8%80%E8%B5%B7%E7%9C%8B%E4%B9%A6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "美股三大指数集体收涨，拼多多涨超15%",
+    "url": "https://www.36kr.com/newsflashes/2409726396146438",
+    "summary": "36氪获悉，8月29日收盘，美股三大指数集体上涨，纳指涨1.74%，道指涨0.85%，标普500指数涨1.45%。大型科技股全线上涨，特斯拉涨超7%，英伟达涨超4%，苹果、谷歌、Meta、Netflix涨超2%，亚马逊、微软涨超1%。热门中概股多数收涨，拼多多涨超15%，理想汽车、Ｂ站涨超7%，小鹏汽车涨超3%，京东、百度、爱奇艺涨超2%，阿里巴巴涨超1%，叮咚买菜跌超6%，蔚来跌超1%。",
+    "publish_time": "2023-08-30 07:00:27",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Pgvector 0.5.0 Feature Highlights and how tos",
+    "url": "https://jkatz05.com/post/postgres/pgvector-overview-0.5.0/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37314867\">Comments</a>",
+    "publish_time": "2023-08-30 06:17:48",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Home – Database of Databases",
+    "url": "https://dbdb.io/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37314622\">Comments</a>",
+    "publish_time": "2023-08-30 05:51:26",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Doas – dedicated OpenBSD application subexecutor",
+    "url": "https://flak.tedunangst.com/post/doas",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37314526\">Comments</a>",
+    "publish_time": "2023-08-30 05:42:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Apple Sep 2023 Event: “Wonderlust”",
+    "url": "https://www.apple.com/apple-events/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37314892\">Comments</a>",
+    "publish_time": "2023-08-30 06:20:27",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
