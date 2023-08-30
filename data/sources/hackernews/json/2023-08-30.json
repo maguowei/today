@@ -559,5 +559,27 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Deno 1.36",
+    "url": "https://deno.com/blog/v1.36",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37317776\">Comments</a>",
+    "publish_time": "2023-08-30 12:45:14",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Phind (code beating GPT4) seems to have used WizardLM's finetuned checkpoint",
+    "url": "https://twitter.com/WizardLM_AI/status/1696527036804989171",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37318964\">Comments</a>",
+    "publish_time": "2023-08-30 16:01:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
