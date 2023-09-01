@@ -1720,5 +1720,63 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "公司对账差1分出动5名会计帮核对",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E5%AF%B9%E8%B4%A6%E5%B7%AE1%E5%88%86%E5%87%BA%E5%8A%A85%E5%90%8D%E4%BC%9A%E8%AE%A1%E5%B8%AE%E6%A0%B8%E5%AF%B9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "高佑思打卡天津跳水",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%BD%91%E6%80%9D%E6%89%93%E5%8D%A1%E5%A4%A9%E6%B4%A5%E8%B7%B3%E6%B0%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何评价《超级马力欧兄弟：惊奇》任天堂专属直面会？",
+    "url": "https://www.zhihu.com/question/620065156",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "在制作漫画改编的动画时，原画是否每次都需要学习漫画家的画风？",
+    "url": "https://www.zhihu.com/question/23168506",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Bright (YC W15) Is Hiring",
+    "url": "https://www.careersatbright.com/jobs-2/bright-frontend-engineer",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37356124\">Comments</a>",
+    "publish_time": "2023-09-02 05:00:17",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Wavacity – a FOSS port of Audacity to the web",
+    "url": "https://wavacity.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37356497\">Comments</a>",
+    "publish_time": "2023-09-02 05:46:05",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
