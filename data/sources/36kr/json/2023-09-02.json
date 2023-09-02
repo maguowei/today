@@ -42,5 +42,27 @@
       "desc": "36kr快讯",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
     }
+  },
+  {
+    "title": "Meta推出开源数据集FACET，用于解决AI模型公平性问题",
+    "url": "https://www.36kr.com/newsflashes/2414133896487684",
+    "summary": "据Meta官方消息，Meta近日推出一款名为FACET的AI工具，用于识别计算机视觉系统中的种族和性别偏见。据悉，FACET中包含了32000张图像，其中包括50000个人体图像。FACET可以对图片中的角色的性别和肤色进行感知，甚至可以识别出角色的身份。据悉，FACET的开源将有助于研究人员执行类似的标竿测试，以理解自己的模型中所存在的偏见，亦可用来监控为了解决公平问题而采取的缓解措施所造成的影响。（新浪财经）",
+    "publish_time": "2023-09-02 09:43:59",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "作业帮发布银河大模型，C-Eval、CMMLU双榜排名第一",
+    "url": "https://www.36kr.com/newsflashes/2413318717907976",
+    "summary": "9月2日，作业帮发布自研银河大模型。据介绍，该模型融合AI算法和教育数据，是一款覆盖多学科、多学段、多场景的教育大模型。数据显示，银河大模型在C-Eval、CMMLU两大权威大语言模型评测榜均居榜首，成为首个同时在上述两大权威榜单平均分排名第一的教育大模型。据了解，该模型即将在作业帮App等学习工具、智能硬件、智能图书、教育数字化等业务场景中实现应用。",
+    "publish_time": "2023-09-02 10:00:30",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
   }
 ]
