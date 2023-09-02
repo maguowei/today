@@ -1395,5 +1395,65 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "女儿送58元戒指没想到妈妈戴了9年",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E9%80%8158%E5%85%83%E6%88%92%E6%8C%87%E6%B2%A1%E6%83%B3%E5%88%B0%E5%A6%88%E5%A6%88%E6%88%B4%E4%BA%869%E5%B9%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Linux桌面版是不是压根就没打算面向非行业人群尝试普及？",
+    "url": "https://www.zhihu.com/question/616938490",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "化学反应的动力是什么，为什么要发生化学反应?",
+    "url": "https://www.zhihu.com/question/619820959",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Burning Man attendees advised to shelter in place, conserve food/water",
+    "url": "https://www.nbcnews.com/news/us-news/burning-man-attendees-advised-shelter-place-conserve-food-water-due-he-rcna103127",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37365326\">Comments</a>",
+    "publish_time": "2023-09-03 04:40:11",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: I mirrored all the code from PyPI to GitHub and analysed it",
+    "url": "https://py-code.org/stats",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37364290\">Comments</a>",
+    "publish_time": "2023-09-03 02:45:07",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Calibre Replacement Considerations (2019)",
+    "url": "https://anarc.at/software/desktop/calibre/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37364885\">Comments</a>",
+    "publish_time": "2023-09-03 03:48:14",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
