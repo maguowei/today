@@ -86,5 +86,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "在河南郑州除了 vpn 还有访问自建 http/https 服务的途径吗，杀疯了",
+    "url": "https://www.v2ex.com/t/970368",
+    "summary": "lanwairen123: <h4>河南郑州移动，自建的 http/https 服务不管是通过 frp 、nps 等各种映射，还是 nginx 反代，只要是通过域名访问，不管是 http 还是 https ，不管服务器在国内还是国外，不管是标准端口还是非标端口，全部 reset</h4>\n<h4>换个域名顶不了两天，已经换了 3 、4 个域名了，全部 reset</h4>\n<h4>通过 itdog http ping ，全国除了福建泉州和河南移动、电信、偶尔联通，其他全部都是正常访问的，关键我在郑州，有访问自建服务的需求</h4>\n<h4>都是自建的一些私人服务，像是笔记应用、HA 、私人相册、网盘等服务</h4>\n<h4>现在访问自己的服务只能挂梯子或者 VPN 进内网才能用</h4>",
+    "publish_time": "2023-09-02 16:47:42",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
