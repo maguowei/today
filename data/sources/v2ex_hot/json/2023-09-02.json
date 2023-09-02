@@ -53,5 +53,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "专升本的出路在哪",
+    "url": "https://www.v2ex.com/t/970287",
+    "summary": "letterLim: 我是全日制专升本。 考上的是我能考的最好的本科。但还是很焦虑。专科大三的时候开始实习做前端 主要搞区块链方向。断断续续一直工作到现在   现在是远程工作 月收入也有 10k 左右。现在本科已经大四 也该找秋招了。现在不知道是该找个比较好的实习单位还是继续干远程工作。害怕实习单位因为我的学历问题卡我转正等等。 现在的工作感觉不知道该如何进步，没人带。希望 v 友们给点建议。",
+    "publish_time": "2023-09-02 10:07:17",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "brew 用全局代理仍然下载奇慢",
+    "url": "https://www.v2ex.com/t/970344",
+    "summary": "dogechai: 大佬们抱歉占用资源了，我在终端配置好了 proxy ，全部改用<br />-------------------------------------------------------------------------------<br />function proxy_on() {<br />    export http_proxy=http://127.0.0.1:7890<br />    export https_proxy=\\$http_proxy<br />    echo -e \"终端代理已开启。\"<br />}<br /><br />function proxy_off(){<br />    unset http_proxy https_proxy<br />    echo -e \"终端代理已关闭。\"<br />}<br />---------------------------------------------------------------------------------<br />并且设置好了之后测试<br />curl <a href=\"http://cip.cc/\" rel=\"nofollow noopener\" target=\"_blank\">cip.cc</a><br />测试结果如下：<br />------------------------------<br />IP: xxx.xxx.xxx.xx<br />地址: 美国  美国<br />数据二: 北美地区<br />数据三: 美国<br />URL: <a href=\"http://www.cip.cc/xxx.xxx.xxx.xx\" rel=\"nofollow noopener\" target=\"_blank\">http://www.cip.cc/xxx.xxx.xxx.xx</a><br />-------------------------------<br />从测试结果看，全局已连接。如果访问 netflix 和 gpt 等，节点速度也没有问题。但是 brew install zbar 的时候，仍然慢的要死。下载速度几 k/s 都没达到。请问如何处理？<br /><br />看过不少大佬的帖子，也没有解决我的问题。brew 是 4.1.7 版本的。",
+    "publish_time": "2023-09-02 14:22:32",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
