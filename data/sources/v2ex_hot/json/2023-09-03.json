@@ -9,5 +9,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "哎， twitter 看网黄被封了",
+    "url": "https://www.v2ex.com/t/970467",
+    "summary": "shenhualv7: 看了五六年都没事，马斯克一收购没了，关注的好多博主也被停号了",
+    "publish_time": "2023-09-03 09:01:00",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "有没有可能世界上的 Android 比中国的更费电",
+    "url": "https://www.v2ex.com/t/970505",
+    "summary": "NokiaForever: 在全球其他地方使用的带 Google Play 的 Android 系统，是比中国大陆使用的定制安卓更费电的。<br />因为海外 app 系统默认都是允许自启动，这也是海外的谷歌推送机制需要的。<br />安装的 app 越多，后台就有越多的 app 为缓存状态。来了消息，会唤醒 app 弹出通知。<br />而中国定制系统都是默认禁止 app 自启动（除了几个白名单比如微信 QQ ），所以更省电。<br />华为荣耀小米 OPPO vivo 魅族以及三星索尼定制的 jpush 等的推送服务也都不需要 app 自启动，而是一个叫推送服务的软件代推。<br />所以华米 ov 等的推送机制相比谷歌的 fcm 推送会更省电。<br />我用谷歌服务国外软件装了多支持 fcm 的都允许自启动（应用也确实走了 fcm 在日志里可以看到），家住香港谷歌也可以稳定连接，相比那些禁用谷歌服务的，续航差了很多。",
+    "publish_time": "2023-09-03 13:07:19",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
