@@ -1457,5 +1457,74 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "人在尴尬的时候就会假装很忙",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%9C%A8%E5%B0%B4%E5%B0%AC%E7%9A%84%E6%97%B6%E5%80%99%E5%B0%B1%E4%BC%9A%E5%81%87%E8%A3%85%E5%BE%88%E5%BF%99%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "台风",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "爸爸好像那个智能识图",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%A5%BD%E5%83%8F%E9%82%A3%E4%B8%AA%E6%99%BA%E8%83%BD%E8%AF%86%E5%9B%BE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如果现在想买一辆新车，电动车和油车你更倾向于哪个？",
+    "url": "https://www.zhihu.com/question/618539620",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Latch bio: “We work six days a week”",
+    "url": "https://jobs.lever.co/latch/a82d61c7-63b9-481c-85ad-4ce80031a481",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37383717\">Comments</a>",
+    "publish_time": "2023-09-05 02:58:36",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Spectrolite – Mac app to make colorful risograph prints and zines more easily",
+    "url": "https://spectrolite.app",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37383749\">Comments</a>",
+    "publish_time": "2023-09-05 03:00:47",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Writing a C compiler in 500 lines of Python",
+    "url": "https://vgel.me/posts/c500/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37383913\">Comments</a>",
+    "publish_time": "2023-09-05 03:17:37",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]

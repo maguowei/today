@@ -628,5 +628,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "人在尴尬的时候就会假装很忙",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%9C%A8%E5%B0%B4%E5%B0%AC%E7%9A%84%E6%97%B6%E5%80%99%E5%B0%B1%E4%BC%9A%E5%81%87%E8%A3%85%E5%BE%88%E5%BF%99%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "台风",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "爸爸好像那个智能识图",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%A5%BD%E5%83%8F%E9%82%A3%E4%B8%AA%E6%99%BA%E8%83%BD%E8%AF%86%E5%9B%BE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
