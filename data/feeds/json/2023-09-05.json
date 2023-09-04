@@ -1699,5 +1699,96 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "山西王家大院",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E7%8E%8B%E5%AE%B6%E5%A4%A7%E9%99%A2%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "逛超市是一件很亲密的事",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%80%9B%E8%B6%85%E5%B8%82%E6%98%AF%E4%B8%80%E4%BB%B6%E5%BE%88%E4%BA%B2%E5%AF%86%E7%9A%84%E4%BA%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "网曝重庆一医生值班时被患者家属捅死",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%9B%9D%E9%87%8D%E5%BA%86%E4%B8%80%E5%8C%BB%E7%94%9F%E5%80%BC%E7%8F%AD%E6%97%B6%E8%A2%AB%E6%82%A3%E8%80%85%E5%AE%B6%E5%B1%9E%E6%8D%85%E6%AD%BB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "和游客玩的小象被妈妈叫回去了",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%92%8C%E6%B8%B8%E5%AE%A2%E7%8E%A9%E7%9A%84%E5%B0%8F%E8%B1%A1%E8%A2%AB%E5%A6%88%E5%A6%88%E5%8F%AB%E5%9B%9E%E5%8E%BB%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "港股或迎首单SPAC并购交易，百亿港元估值巨头拟“曲线上市”",
+    "url": "https://www.36kr.com/newsflashes/2418221891199749",
+    "summary": "SPAC（特殊目的收购公司）制度在港股落地一年多后，首单并购交易终于出炉。近日，Aquila公告称，已与找钢产业互联集团及其全资附属公司签署业务合并协议，内容有关合并及红股发行。若与Aquila业务合并顺利完成，找钢网将作为继承公司在港交所上市，同时也将成为第一家通过De-SPAC（特殊目的收购公司并购上市）模式登陆港股的公司。据悉，找钢网在此次并购交易中的议定估值为约100亿港元。（上证报）",
+    "publish_time": "2023-09-05 07:02:30",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Designing a cursor for augmented reality",
+    "url": "https://ameye.dev/notes/ar-cursor/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37385401\">Comments</a>",
+    "publish_time": "2023-09-05 05:43:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "LLM Python library now provides tools for working with embeddings",
+    "url": "https://simonwillison.net/2023/Sep/4/llm-embeddings/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37384797\">Comments</a>",
+    "publish_time": "2023-09-05 04:37:49",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Gimmicks of Food Labeling",
+    "url": "https://www.newyorker.com/magazine/2023/09/11/the-lies-in-your-grocery-store",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37385440\">Comments</a>",
+    "publish_time": "2023-09-05 05:49:06",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Apple $2T Economy",
+    "url": "http://www.asymco.com/2023/09/04/the-2-trillion-economy/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37385267\">Comments</a>",
+    "publish_time": "2023-09-05 05:28:40",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
