@@ -682,5 +682,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "我很少用歹毒来形容一首歌",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%BE%88%E5%B0%91%E7%94%A8%E6%AD%B9%E6%AF%92%E6%9D%A5%E5%BD%A2%E5%AE%B9%E4%B8%80%E9%A6%96%E6%AD%8C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "微博开学季",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E5%BC%80%E5%AD%A6%E5%AD%A3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "排球少年 黑月",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%8E%92%E7%90%83%E5%B0%91%E5%B9%B4+%E9%BB%91%E6%9C%88%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
