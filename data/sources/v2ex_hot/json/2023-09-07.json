@@ -20,5 +20,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "毒瘤盗版网站",
+    "url": "https://www.v2ex.com/t/971583",
+    "summary": "150530: 由于英语不好不常用谷歌，百度自然成为首选，用了浏览器插件可以屏蔽大部分广告，但是经常有一些盗版爬虫网站排名特别靠前，经常出现在搜索第一页，这种网站的爬虫每时每刻都在爬数据，几乎每分钟都会爬取新文章，导致搜索时不知道哪个关键词就命中了特别烦人，而且盗的文章很多图片都显示不出来，代码格式更是一坨一坨的，一点看下去的欲望都没有。<br /><br />我专门去百度搜了一下，这种网站还真不少，都是换皮的，特别是第一个这个淘嘟嘟，搜索关键词 dockerhub mycat pxc 第一页都有它。另外问一下有没有方法可以屏蔽这种网站，最好在百度中不会展示出来<br /><br /><a href=\"http://www.taodudu.cc/\" rel=\"nofollow noopener\" target=\"_blank\">http://www.taodudu.cc</a><br /><a href=\"https://www.xdnf.cn/\" rel=\"nofollow noopener\" target=\"_blank\">https://www.xdnf.cn</a><br /><a href=\"https://www.rstk.cn/\" rel=\"nofollow noopener\" target=\"_blank\">https://www.rstk.cn</a><br /><a href=\"http://www.mfbz.cn/\" rel=\"nofollow noopener\" target=\"_blank\">http://www.mfbz.cn</a><br /><a href=\"https://www.xjx100.cn/\" rel=\"nofollow noopener\" target=\"_blank\">https://www.xjx100.cn</a><br /><a href=\"https://www.syrr.cn/\" rel=\"nofollow noopener\" target=\"_blank\">https://www.syrr.cn</a><br /><a href=\"http://www.hqwc.cn/\" rel=\"nofollow noopener\" target=\"_blank\">http://www.hqwc.cn</a><br /><a href=\"https://www.exyb.cn/\" rel=\"nofollow noopener\" target=\"_blank\">https://www.exyb.cn</a><br /><a href=\"http://dgrt.cn/\" rel=\"nofollow noopener\" target=\"_blank\">http://dgrt.cn</a><br /><a href=\"http://www.cbww.cn/\" rel=\"nofollow noopener\" target=\"_blank\">http://www.cbww.cn</a>",
+    "publish_time": "2023-09-07 08:24:23",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "macOS 不愿意在半夜工作怎么处理",
+    "url": "https://www.v2ex.com/t/971642",
+    "summary": "LitterGopher: <p>2023 款 m2 mac mini Ventura 13</p>\n<p>一到半夜就突然卡得一逼，但是查看 cpu ，内存，磁盘占用或读写都不高。而且白天写代码，剪视频都没啥问题，晚上写个文档就卡的飞起（而且是用 pages 和 numbers ，而不是第三方软件）。</p>\n<p>情况大致如下：</p>\n<ol>\n<li>CPU ，内存占用不高，磁盘读写不高</li>\n<li>后台软件不多（基本只有 Pages ，Raycat ，HypperSwitch ，Finder ）</li>\n<li>只在晚上出现（目前都只有在晚上十二点之后出现）</li>\n<li>卡顿具体表现在：光标一直处于调色盘状态甚至直接消失，输入延迟奇高无比，窗口关闭或开启的更是难以控制</li>\n</ol>\n<p>有木有朋友知道怎么解决这个问题呢？\n（拒绝重启方案）</p>",
+    "publish_time": "2023-09-07 10:38:40",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "问一个前后端对接问题",
+    "url": "https://www.v2ex.com/t/971685",
+    "summary": "zhangtest: <p>我们一套系统 PC 、小程序、ios 、android 都对接统一接口，但是 ios 、android 一直喜欢抱怨接口结构这不行，那嫌麻烦，不建议用。。。找不到到底是谁的问题。\n举个例子：\nA 接口返回结构</p>\n<pre><code>{\n\"SKU_铅笔\": {\n\"q1\": 123,\n\"sku\": \"SKU_铅笔\"\n},\n\"SKU_书本\": {\n\"q1\": 456,\n\"sku\": \"SKU_书本\"\n}\n}\n</code></pre>\n<p>这种是把 sku 分类返给前端</p>\n<p>1 、PC 、小程序的前端认为这样很方便，列表的地方直接循环不用管键名。具体值也可以直接取对应 sku 内容，不用去循环，比如 obj['SKU_铅笔']。</p>\n<p>2 、ios 认为这样不规范，哪有人键名是字符串的，还有中文 ,android 也认为键名是字符串他不好循环，嫌各种麻烦。</p>\n<p>遇到这种问题要如何解决？</p>",
+    "publish_time": "2023-09-07 12:28:42",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
