@@ -5353,5 +5353,471 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "一带一路倡议十周年",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E5%80%A1%E8%AE%AE%E5%8D%81%E5%91%A8%E5%B9%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "男子抢注学籍致6岁儿子无法入学",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8A%A2%E6%B3%A8%E5%AD%A6%E7%B1%8D%E8%87%B46%E5%B2%81%E5%84%BF%E5%AD%90%E6%97%A0%E6%B3%95%E5%85%A5%E5%AD%A6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "直击杭州亚运会",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%9B%B4%E5%87%BB%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "角徵浅 狐狸精",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%A7%92%E5%BE%B5%E6%B5%85+%E7%8B%90%E7%8B%B8%E7%B2%BE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "假如省钱有段位",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%81%87%E5%A6%82%E7%9C%81%E9%92%B1%E6%9C%89%E6%AE%B5%E4%BD%8D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "一念关山",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "90后给女儿做40片花瓣仙女裙",
+    "url": "https://s.weibo.com/weibo?q=%2390%E5%90%8E%E7%BB%99%E5%A5%B3%E5%84%BF%E5%81%9A40%E7%89%87%E8%8A%B1%E7%93%A3%E4%BB%99%E5%A5%B3%E8%A3%99%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "胡锡进持仓近50万元",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%94%A1%E8%BF%9B%E6%8C%81%E4%BB%93%E8%BF%9150%E4%B8%87%E5%85%83%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "患抑郁症的她以第一名考上了研究生",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%82%A3%E6%8A%91%E9%83%81%E7%97%87%E7%9A%84%E5%A5%B9%E4%BB%A5%E7%AC%AC%E4%B8%80%E5%90%8D%E8%80%83%E4%B8%8A%E4%BA%86%E7%A0%94%E7%A9%B6%E7%94%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "成毅 快说你是不是被渣爹附体了",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85+%E5%BF%AB%E8%AF%B4%E4%BD%A0%E6%98%AF%E4%B8%8D%E6%98%AF%E8%A2%AB%E6%B8%A3%E7%88%B9%E9%99%84%E4%BD%93%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "贵妇级卸妆有什么不同",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%A6%87%E7%BA%A7%E5%8D%B8%E5%A6%86%E6%9C%89%E4%BB%80%E4%B9%88%E4%B8%8D%E5%90%8C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "为什么油条都是两根一起炸",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%B9%E6%9D%A1%E9%83%BD%E6%98%AF%E4%B8%A4%E6%A0%B9%E4%B8%80%E8%B5%B7%E7%82%B8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "张碧晨最喜欢迪丽热巴倪妮的红毯",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%9C%80%E5%96%9C%E6%AC%A2%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%80%AA%E5%A6%AE%E7%9A%84%E7%BA%A2%E6%AF%AF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "对方撤回了一根薯条",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AF%B9%E6%96%B9%E6%92%A4%E5%9B%9E%E4%BA%86%E4%B8%80%E6%A0%B9%E8%96%AF%E6%9D%A1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "肖战再做客央视专访",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%86%8D%E5%81%9A%E5%AE%A2%E5%A4%AE%E8%A7%86%E4%B8%93%E8%AE%BF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "虞书欣张凌赫云之羽海报拍摄花絮",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%BC%A0%E5%87%8C%E8%B5%AB%E4%BA%91%E4%B9%8B%E7%BE%BD%E6%B5%B7%E6%8A%A5%E6%8B%8D%E6%91%84%E8%8A%B1%E7%B5%AE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "张艺谋现身坚如磐石发布会",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E8%B0%8B%E7%8E%B0%E8%BA%AB%E5%9D%9A%E5%A6%82%E7%A3%90%E7%9F%B3%E5%8F%91%E5%B8%83%E4%BC%9A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "大熊猫现在流行拿孔雀毛当时尚单品了",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E7%8E%B0%E5%9C%A8%E6%B5%81%E8%A1%8C%E6%8B%BF%E5%AD%94%E9%9B%80%E6%AF%9B%E5%BD%93%E6%97%B6%E5%B0%9A%E5%8D%95%E5%93%81%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "陈赫说如果采耳采出很多请帮藏一藏",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E8%AF%B4%E5%A6%82%E6%9E%9C%E9%87%87%E8%80%B3%E9%87%87%E5%87%BA%E5%BE%88%E5%A4%9A%E8%AF%B7%E5%B8%AE%E8%97%8F%E4%B8%80%E8%97%8F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "倪妮希腊梦神",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E5%B8%8C%E8%85%8A%E6%A2%A6%E7%A5%9E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "林志颖车祸后首露脸部伤疤",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E9%A2%96%E8%BD%A6%E7%A5%B8%E5%90%8E%E9%A6%96%E9%9C%B2%E8%84%B8%E9%83%A8%E4%BC%A4%E7%96%A4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "女儿出嫁现场和爸爸同台跳舞",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E5%87%BA%E5%AB%81%E7%8E%B0%E5%9C%BA%E5%92%8C%E7%88%B8%E7%88%B8%E5%90%8C%E5%8F%B0%E8%B7%B3%E8%88%9E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "为什么我的孩子对于我将碗打碎，漠不关心？",
+    "url": "https://www.zhihu.com/question/619532659",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "情绪不稳定的父母有多可怕？",
+    "url": "https://www.zhihu.com/question/618993949",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "“酱香拿铁”咖啡的推出是成功拿捏了国人的味蕾吗？",
+    "url": "https://www.zhihu.com/question/620706537",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "经常心情不开心该怎么办?",
+    "url": "https://www.zhihu.com/question/619743925",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "哪些身体乳只润不腻，能够轻松应对换季干燥？",
+    "url": "https://www.zhihu.com/question/620630849",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "有哪些你很久前就在用，如今依然这么好用的经典护肤品？",
+    "url": "https://www.zhihu.com/question/620630821",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "开学季，大学新生该选择笔记本电脑还是平板电脑？有没有必要两个都买?",
+    "url": "https://www.zhihu.com/question/620663798",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "小孩读小学，偶尔要上网课和上网做作业，苹果iPad合适吗，要配键盘吗？",
+    "url": "https://www.zhihu.com/question/619167695",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "诺兰电影为什么经常围绕科技展开？",
+    "url": "https://www.zhihu.com/question/619674923",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "A股三大指数收盘集体下跌，两市飘红个股不足500只",
+    "url": "https://www.36kr.com/newsflashes/2421524043998217",
+    "summary": "36氪获悉，A股三大指数收盘集体下跌，沪指跌1.13%，深成指跌1.84%，创业板指跌2.11%，科创50指数跌3.72%。半导体产业链集体走低，寒武纪跌超9%，中芯国际跌超8%。光模块、BC电池板块跌幅居前；券商股尾盘异动，首创证券涨超6%；能源板块领涨；我乐家居涉嫌超比例减持，尾盘跌停。两市飘红个股不足500只；北向资金净流出70.72亿元。",
+    "publish_time": "2023-09-07 15:01:38",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "山东省加大中药集中带量采购力度，今年启动200个品种的中药配方颗粒集采",
+    "url": "https://www.36kr.com/newsflashes/2421538472584200",
+    "summary": "在山东省政府新闻办举行的新闻发布会上，山东省医保局主要负责同志等介绍了山东省进一步加强医疗保障支持中医药传承创新发展的政策措施有关情况。山东将进一步加大中药集中带量采购力度，今年启动200个品种的中药配方颗粒集采。（上证报）",
+    "publish_time": "2023-09-07 15:16:19",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "我国核技术应用产值接近7000亿元",
+    "url": "https://www.36kr.com/newsflashes/2421541303936007",
+    "summary": "近年来，随着国内核技术应用产业的高速发展，核技术在安全检测、辐照育种、放射性药物生产等众多领域广泛应用，服务于经济社会发展和人民群众生活，我国核技术应用产值已接近7000亿元。（央视新闻）",
+    "publish_time": "2023-09-07 15:19:11",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "上海制定出台搞活汽车流通扩大汽车更新消费相关政策措施",
+    "url": "https://www.36kr.com/newsflashes/2421543086514948",
+    "summary": "上海市商务委会同相关部门制定出台《上海市搞活汽车流通扩大汽车更新消费若干措施》，进一步搞活上海市汽车流通，扩大汽车更新消费。其中提到，延续实施新能源车置换补贴；结合新能源汽车专用牌照申领“一件事”，做好新能源汽车专用牌照申请的受理、发放等工作。（第一财经）",
+    "publish_time": "2023-09-07 15:21:00",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "集邦咨询：预估iPhone全年生产总数约落在2.2~2.25亿，同比减少约5%",
+    "url": "https://www.36kr.com/newsflashes/2421544733713160",
+    "summary": "36氪获悉，据TrendForce集邦咨询预估，iPhone 15新机全系列产出约8,000万支，相较去年同期增长近6%。其中因Pro系列的量产较为顺畅，以及独具潜望式镜头的Pro Max可望带进更多买气，预估Pro系列的产出占比可望拉升至六成以上。然而，市场景气不佳，加上华为的强势回归，可能冲击今年苹果iPhone整体销量，因此预估iPhone全年生产总数约落在2.2~2.25亿，同比减少约5%。",
+    "publish_time": "2023-09-07 15:22:41",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "商务部：我国数字经济的国际朋友圈在不断扩大",
+    "url": "https://www.36kr.com/newsflashes/2421547908244229",
+    "summary": "商务部发言人介绍，中国已经与29个国家建立了双边电子商务的合作机制，与18个国家签署了数字经济的投资合作备忘录，一批数字企业也成功地出海。目前我国已签署的21个自贸协定中，有10个设置了电子商务或是数字经济的专章。可以说，我国数字经济的国际朋友圈在不断扩大。（第一财经）",
+    "publish_time": "2023-09-07 15:25:54",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "国家邮政局：8月中国快递发展指数为361.5，同比提升16.2%",
+    "url": "https://www.36kr.com/newsflashes/2421549153788934",
+    "summary": "36氪获悉，国家邮政局发布2023年8月中国快递发展指数。经测算，2023年8月中国快递发展指数为361.5，同比提升16.2%。其中发展规模指数、服务质量指数、发展能力指数和发展趋势指数分别为400.9、573、208和68.9，同比分别提升10.6%、27.1%、3.6%和1.9%。8月，行业运行较为平稳，市场规模持续保持增长态势，航空快件运输体系进一步完善，协同发展能力有所增强。",
+    "publish_time": "2023-09-07 15:27:10",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "北京市进一步细化非居住建筑改建保租房要求",
+    "url": "https://www.36kr.com/newsflashes/2421553675691008",
+    "summary": "36氪获悉，北京市住房城乡建设委联合市规划自然资源委发布了《关于进一步细化既有非居住建筑改建公寓型、宿舍型保障性租赁住房部分技术要求的通知》。其中提出，在符合规范要求，保障安全、满足日常生活起居活动要求的基础上，可结合实际，合理利用内部空间进行加层或局部加层改建，不得增加建筑面积，结构层高在2.2米以下的不计算面积。",
+    "publish_time": "2023-09-07 15:31:46",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "机构：2023年Q2欧洲智能手机出货量创11年来新低",
+    "url": "https://www.36kr.com/newsflashes/2421556829348869",
+    "summary": "36氪获悉，据Counterpoint Research公众号，根据Counterpoint Research的最新全球智能手机出货量初步数据预测，2023年全球智能手机出货量将下降6%，达11.5亿台，创过去十年来的最低水平。",
+    "publish_time": "2023-09-07 15:34:59",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "摩根大通：投资者对黄金的配置达到2012年以来最高水平",
+    "url": "https://www.36kr.com/newsflashes/2421558221202183",
+    "summary": "摩根大通分析师Nikolaos Panigirtzoglou等人在报告中表示，在央行购买的推动下，过去一年黄金投资增长，非银行投资者总体隐含配置达到2012年底以来最高水平。自疫情以来，黄金隐含配置不断上升，按历史标准来看相当之高。（新浪财经）",
+    "publish_time": "2023-09-07 15:36:24",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "机构：中东非智能手机出货量于2023年第二季度回暖",
+    "url": "https://www.36kr.com/newsflashes/2421559411663622",
+    "summary": "36氪获悉，据Counterpoint Research公众号，2023年第二季度，中东非地区智能手机出货量同比增长1%，环比增长7%，是该地区市场五个季度以来，同时也是全球通胀危机爆发之后首次迎来大幅反弹。随着通胀降温以及当地货币趋稳，消费者情绪在本季度发生实质性改善，而考虑到2022年库存水平严重过剩，深陷泥潭的手机品牌厂商无疑是久逢甘露。各家厂商把握机会清空库存，库存和产品发布节奏逐渐回归正轨。",
+    "publish_time": "2023-09-07 15:37:37",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "每天1600亿帧视频咋处理，马斯克：可用于训练自动驾驶的不到1%",
+    "url": "https://www.36kr.com/newsflashes/2421562848371721",
+    "summary": "特斯拉CEO马斯克周三重申了管理其车队数据的难度。一位X用户发帖称，根据沃尔特·艾萨克森的马斯克传记摘录，特斯拉每天可以访问大约1600亿帧来自其车队的视频。这些视频用于训练其全自动驾驶软件。马斯克回应称：“管理这些数据是极其困难的。重要的训练视频不到所有视频的1%。”马斯克补充道：“特斯拉受到人工智能训练计算的限制。英伟达+Dojo解决了这个问题。”（新浪财经）",
+    "publish_time": "2023-09-07 15:41:06",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "美国最大在线杂货配送公司Instacart上市在即，传最早下周一确定IPO发行价",
+    "url": "https://www.36kr.com/newsflashes/2421564866487305",
+    "summary": "美国最大的在线杂货配送公司Instacart已于8月底向美国证券交易委员会提交了上市申请。该公司计划于9月19日在纳斯达克上市，股票代码为“CART”。据知情人士透露，Instacart最早将于下周一确定IPO发行价，并开始投资者路演。（智通财经）",
+    "publish_time": "2023-09-07 15:43:09",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "雀巢宣布收购巴西巧克力制造商GrupoCRM多数股权",
+    "url": "https://www.36kr.com/newsflashes/2421566279377923",
+    "summary": "雀巢公司周四宣布，将收购巴西高端巧克力制造商Grupo CRM的多数股权。雀巢表示，Grupo CRM运营的是直接面向消费者的模式，拥有1000多家Kopenhagen和Brasil Cacau品牌的巧克力精品店，以及不断增长的强大在线业务。雀巢表示，这笔交易预计将于2024年完成，但财务细节将不予披露。（新浪财经）",
+    "publish_time": "2023-09-07 15:44:36",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "财政部：将进一步加强政策储备研究，着力为经营主体纾困解难",
+    "url": "https://www.36kr.com/newsflashes/2421571242877703",
+    "summary": "财政部副部长王东伟在国务院政策例行吹风会上表示，下一步，我们将在协同高效抓好政策落实的基础上，进一步加强政策储备研究，用好政策空间，找准发力方向，着力为经营主体纾困解难，更好推动经济平稳健康高质量发展。（证券时报）",
+    "publish_time": "2023-09-07 15:49:39",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "计算资源分配不公引发内斗！LLaMA核心作者流失大半，Meta AI联合主管也已离职",
+    "url": "https://www.infoq.cn/article/QpRlMDrbrWwzaoKdIlSb",
+    "summary": "<p></p><blockquote>计算资源上的内斗，导致 Meta AI 研究部门四分五裂。</blockquote><p></p><p>&nbsp;</p><p>随着 OpenAI 及其他科技巨头在 AI 领域取得突破，Meta 也正忙于发布自己的大语言模型，希望在这一新兴领域占得立足之地。日前，Meta 发布了大模型 <a href=\"https://www.infoq.cn/article/dkPASNisVmd1WIQTs41H\">LLaMA</a>\" 和 <a href=\"https://www.infoq.cn/article/SNdKvvVcJLNkVOGZll2h\">LLaMA 2</a>\"，作为 OpenAI 和 Anthropic 私有模型的开源替代，LLaMA 和 LLaMA 2 在市场上备受好评。但对大部分参与该项目的科学家和工程师来说，称赞来得太迟了。</p><p>&nbsp;</p><p>作为一家由社交媒体巨头转向元宇宙技术研发的大厂，Meta 旗下的 AI 研究实验室Fundamental AI Research (FAIR) 正面临内部危机。</p><p></p><h2>Meta 公司因争抢计算资源发生内斗</h2><p></p><p>&nbsp;</p><p>据 The Information 近日报道，消息人士表示，Meta 参与 LLaMA 项目的人员大半都已辞职，原因是与公司另一个研究团队在计算资源上的内斗。此外，另一个与LLaMA&nbsp;相竞争的模型已被 Meta 放弃。</p><p>&nbsp;</p><p>据悉，2022 年，来自美国的一支 FAIR 团队发布了 OPT-175B，这是一套拥有 1750 亿参数的模型。与此同时，常驻巴黎的另一支 FAIR 队伍则着手开发体量较小的 LLaMA 模型，并坚信其效率能够与更大模型相媲美。</p><p>&nbsp;</p><p>但与 OPT 团队相比，巴黎团队所能获得的算力资源严重不足。随着运营体系内的分配纠纷不断升级，Meta 内部的紧张局势也是愈演愈烈。</p><p>&nbsp;</p><p>2023 年 2 月，随着 FAIR 正式发布 LLaMA，矛盾和压力也终于逼近临界点。</p><p>&nbsp;</p><p>此前一周，Meta AI 的联合主管兼巴黎分部负责人&nbsp;Antoine Bordes 以工作过度和为了配合加州工作时间而筋疲力尽为由选择辞职。他的退出加剧了 Meta 美国和巴黎两支队伍间的分歧，最终闹到了势同水火的地步。为此，Meta 只得放弃了 OPT 模型，并要求双方团队的成员在 LLaMA 2 项目上共同合作。</p><p>&nbsp;</p><p>公众对于 Meta 发布的 LLaMA 和 LLaMA 2 均表示赞赏，称它们为 OpenAI 和 Anthropic 的最先进模型提供了免费的开源替代方案。然而，市场上的一片好评并没能平息 FAIR 之内部分研究人员和工程师们的不满，其中不少人已经申请退出 Meta。</p><p></p><h2>有限的计算资源该怎么分？</h2><p></p><p>&nbsp;</p><p>在生成式 AI 的训练过程中，需要使用大量的计算资源，Meta 这类科技巨头虽然比其它公司拥有更多的计算资源，但也是有限制的。</p><p>&nbsp;</p><p>在部分员工看来，Meta 内部今日的紧张局面，早在 FAIR 确立开放 AI 研究的使命时就已埋下了祸根。世界各地的 FAIR 实验室争相开发各种项目，从改善磁共振成像到解析自然语言等。而在 ChatGPT 横空出世之后，新的难题更是压在每个 FAIR 人头上：如何在有限的资源下，将现有 AI 功能整合起来？</p><p>&nbsp;</p><p>FAIR 部门负责人 Joelle Pineau 在接受 The Information 采访时坦言，Meta 内部的计算资源分配每月都需要由来自企业多个部门的领导班子重新议定。</p><p>&nbsp;</p><p>她承认，LLaMA 和其他团队在资源的具体分配上表现得“有点关系紧张”。Pineau 还强调，高层领导应当在各竞争项目间分配有限资源时努力权衡，尽量在保证顶尖人才的充分参与之外为各个研究方向提供充足的资源供应，而这显然并非易事。</p><p>&nbsp;</p><p>Pineau 称，“我自己的大部分工作时间都花在了挽留和吸引优秀人才上，毕竟没有了这些出色的参与者，我什么都做不了。”</p><p>&nbsp;</p><p>当然，爆发计算资源争夺的绝不只有 Meta 一家。随着生成式 AI 开发变得越来越复杂、资源密集度愈盛，不少科技巨头也开始感受到专用芯片不足、可调度资源有限的窘境。这个现实问题令 AI 研究人员的留存工作变得更加复杂。</p><p></p><h2>大厂的AI人才痛：招人难，留人更难</h2><p></p><p>&nbsp;</p><p>今年以来，Meta 的 AI 人才流失严重。知情人士称，2 月发表的 LLaMA 论文的 14 名作者中，一半以上已经离开 Meta司，其中几位加入了 AI 创业公司或其它大公司。这种外流不仅仅是人才上的损失，更是整个 AI 行业在局势持续紧张、资源限制日益加剧的现实之下表现出的自然态势。</p><p>&nbsp;</p><p>Meta 内部的结构性变化更是令复杂现实雪上加霜。去年 11 月，Meta 宣布裁减约 13% 的员工，即 11000 个工作岗位，这是其历史上规模最大的一轮裁员。今年 2 月，Meta 成立了一支新团队，专注于为自家应用开发生成式 AI 技术。此举从已经捉襟见肘的研究人员队伍中又抽调走了几名生力军。</p><p>&nbsp;</p><p>目前，Meta 公司仍在寻求理想结构、希望保持正常研发。想要保住这份竞争力，团队自身的敏捷运营和团队间的通力协作将至关重要。AI 人才之争在短时间内尚无平息的迹象，&nbsp;而 Meta 只有想办法成功留存并吸引到研究人员，其作为技术大厂的资源优势才能真正转化为市场领先地位。</p><p>&nbsp;</p><p>不只 Meta，谷歌近几年也流失了不少 AI 人才，Transformer 的八位作者甚至全部离开了谷歌。OpenAI 的日子也不好过，据量子比特统计，OpenAI 的 51 位研究人员中，有 16 位人才离开了 OpenAI，离职率高达三分之一；根据 AMiner 的统计，OpenAI 的 ChatGPT R&amp;D 团队已经有 4 人离职。</p><p>&nbsp;</p><p>留人难，招人也并不轻松。AI 大模型热潮使得 AI 人才成为各大公司的争抢对象，供需关系紧张。拉勾招聘发布的《2023 第一季度 AIGC 人才供需报告》显示，在 AI 抢人大战中，AIGC 人才岗位需求量在今年 3 月环比增加 42%。</p><p>&nbsp;</p><p>美国知名求职网站 Indeed 数据显示，近几个月来，合乎 AI&nbsp;要求的招聘职位急剧上升，尤其是中高级的 AI 人才供不应求，招聘薪资也不断攀升。另一家知名求职网站 Adzuna 数据也显示，6 月份美国有 760 万个空缺职位，而与 AI 相关的职位空缺已经上升至 169045 个，其中有 3575 个职位特别标注需要有&nbsp;AIGC&nbsp;的技能。</p><p>&nbsp;</p><p>参考链接：</p><p><a href=\"https://www.theinformation.com/articles/inside-metas-ai-drama-internal-feuds-over-compute-power\">https://www.theinformation.com/articles/inside-metas-ai-drama-internal-feuds-over-compute-power</a>\"</p><p><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/16b18tj/inside_metas_ai_drama_internal_feuds_over_compute/\">https://www.reddit.com/r/LocalLLaMA/comments/16b18tj/inside_metas_ai_drama_internal_feuds_over_compute/</a>\"</p>",
+    "publish_time": "2023-09-07 14:02:31",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "度小满数据智能部总经理，技术委员会执行主席杨青，确认担任 FCon 青年数字人才培养专题出品人",
+    "url": "https://www.infoq.cn/article/qWNW578stbpGviXFeShD",
+    "summary": "<p><a href=\"https://fcon.infoq.cn/2023/shanghai/?utm_source=infoqweb&amp;utm_medium=atricle\">FCon 全球金融科技大会</a>\"，将于 11 月在上海召开。度小满数据智能部总经理，技术委员会执行主席杨青将担任「<a href=\"https://fcon.infoq.cn/2023/shanghai/track/1587?utm_source=infoqweb&amp;utm_medium=article\">青年数字人才培养</a>\"」的专题出品人。在此次专题中，你将了解到一些优秀的青年才俊的成长经历，比如如何培养自己的数智化思维，如何使用新的做事方法或者创新技术解决业务难题等等。</p><p></p><p><a href=\"https://fcon.infoq.cn/2023/shanghai/track/1587?utm_source=infoqweb&amp;utm_medium=article\">杨青</a>\"，硕士毕业于清华大学计算机系，曾就职于百度、阿里，从事 NLP、搜索、推荐、大数据架构等相关方向的研发工作。</p><p></p><p>2018 年初加入度小满金融开始组建数据智能部，从 0 到 1 建设度小满金融的智能引擎的核心算法，深耕计算机视觉、自然语言处理、图模型、机器学习、因果推断等技术能力，多篇文章被 EMNLP、ACL、CIKM 等国际顶会收录，“智能化征信解读中台”工程荣获吴文俊人工智能科技进步奖。相关技术广泛应用于度小满营销、经营、风控、反欺诈全流程业务场景，为上千万客户提供着稳定、安全的金融服务。</p><p></p><p>目前专注于 AIGC 在金融场景中的落地，基于度小满模型即服务“MaaS”的模式积极探索文生图、数字人与生成式大模型的应用转化。已于年初带领团队发布国内首个千亿中文金融大模型“轩辕”。</p><p></p><p>相信杨青的到来，可以帮助提升此专题的质量，让你认识到，数字技术正在金融领域发生着深刻变革，如果说技术是数智化转型的基石，那青年科技人才一定是催化数字时代进程的加速器。打造数字新时代的领军人才，也是企业的人才培养目标之一。</p><p></p><p>除上述专题外，FCon 上海还将围绕&nbsp;<a href=\"https://fcon.infoq.cn/2023/shanghai/track/1580?utm_source=infoqweb&amp;utm_medium=atricle\">DevOps&nbsp;在金融企业落地实践</a>\"、<a href=\"https://fcon.infoq.cn/2023/shanghai/track/1591?utm_source=infoqweb&amp;utm_medium=atricle\">金融行业大模型应用</a>\"、<a href=\"https://fcon.infoq.cn/2023/shanghai/track/1576?utm_source=infoqweb&amp;utm_medium=atricle\">创新的金融科技应用</a>\"、<a href=\"https://fcon.infoq.cn/2023/shanghai/track/1577?utm_source=infoqweb&amp;utm_medium=atricle\">金融实时数据平台建设之路</a>\"、<a href=\"https://fcon.infoq.cn/2023/shanghai/track/1588?utm_source=infoqweb&amp;utm_medium=atricle\">金融安全风险管控</a>\"、<a href=\"https://fcon.infoq.cn/2023/shanghai/track/1589?utm_source=infoqweb&amp;utm_medium=atricle\">数据要素流通与数据合规</a>\"等专题进行交流。</p><p></p><p>FCon 上海 2023，相约 11 月！现在购票，前 100 人可享 5 折特惠购票，咨询购票请联系：13269078023（微信同手机号）。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/a8/a8ec7f7fb25c7949931b2b8a5deffddd.png\" /></p><p></p>",
+    "publish_time": "2023-09-07 14:53:21",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
