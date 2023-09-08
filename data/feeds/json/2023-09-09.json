@@ -1522,5 +1522,138 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "看完第八个嫌疑人想查身边人",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%9C%8B%E5%AE%8C%E7%AC%AC%E5%85%AB%E4%B8%AA%E5%AB%8C%E7%96%91%E4%BA%BA%E6%83%B3%E6%9F%A5%E8%BA%AB%E8%BE%B9%E4%BA%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "崩坏：星穹铁道「模拟宇宙：寰宇蝗灾」，月卡党卡在难度三，其实难度二就差点翻车，氪佬们打过难度三吗？",
+    "url": "https://www.zhihu.com/question/620887078",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "悼亡诗词中哪首最让你动容？",
+    "url": "https://www.zhihu.com/question/40686141",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "奥本海默对物理理论的发展做出了什么学术贡献？",
+    "url": "https://www.zhihu.com/question/620586476",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "演员这个职业？是演技重要，还是颜值重要？",
+    "url": "https://www.zhihu.com/question/617875564",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "The Absence of Data Privacy Law Is a National Security Threat",
+    "url": "https://nationalinterest.org/blog/techland/absence-data-privacy-law-national-security-threat-206773",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37439553\">Comments</a>",
+    "publish_time": "2023-09-09 05:17:24",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Consumers defrauded on Zelle are left high and dry by the banks that created it [pdf]",
+    "url": "https://www.warren.senate.gov/imo/media/doc/ZELLE%20REPORT%20OCTOBER%202022.pdf",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37438934\">Comments</a>",
+    "publish_time": "2023-09-09 04:23:45",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "NVIDIA introduces TensorRT-LLM for accelerating LLM inference on H100/A100 GPUs",
+    "url": "https://developer.nvidia.com/blog/nvidia-tensorrt-llm-supercharges-large-language-model-inference-on-nvidia-h100-gpus/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37439280\">Comments</a>",
+    "publish_time": "2023-09-09 04:54:39",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The rxv64 Operating System: MIT's xv6, in Rust, for SMP x86_64 machines",
+    "url": "https://github.com/dancrossnyc/rxv64",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37439391\">Comments</a>",
+    "publish_time": "2023-09-09 05:03:19",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Cerabyte: ceramic storage poised to usher in 'yottabyte era'",
+    "url": "https://www.tomshardware.com/news/cerabyte-ceramic-storage-poised-to-usher-in-yottabyte-era",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37436092\">Comments</a>",
+    "publish_time": "2023-09-09 00:49:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Using LD_PRELOAD to cheat, inject features and investigate programs",
+    "url": "https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37439125\">Comments</a>",
+    "publish_time": "2023-09-09 04:41:20",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Decoded: GNU Coreutils",
+    "url": "https://maizure.org/projects/decoded-gnu-coreutils/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37439535\">Comments</a>",
+    "publish_time": "2023-09-09 05:15:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Scammers can exploit email forwarding flaws to impersonate high-profile domains",
+    "url": "https://today.ucsd.edu/story/forwarding_based_spoofing",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37438478\">Comments</a>",
+    "publish_time": "2023-09-09 03:45:08",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
