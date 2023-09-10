@@ -1387,5 +1387,56 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "盛阳的工作日记",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%9B%9B%E9%98%B3%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%97%A5%E8%AE%B0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "2023 年，中国汽车站起来了吗？",
+    "url": "https://www.zhihu.com/question/619842617",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "What I Have Changed My Mind About in Software Development",
+    "url": "https://henrikwarne.com/2023/09/10/what-i-have-changed-my-mind-about-in-software-development/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37457208\">Comments</a>",
+    "publish_time": "2023-09-11 00:12:11",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Fathom AI Notetaker (YC W21) is hiring a principal SRE (remote)",
+    "url": "https://www.ycombinator.com/companies/fathom/jobs/L0pyU04Gs-principal-site-reliability-engineer-remote",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37460025\">Comments</a>",
+    "publish_time": "2023-09-11 05:00:05",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How to pass the interview for software engineering roles in Big Tech",
+    "url": "https://www.lambrospetrou.com/articles/big-tech-software-interviews/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37459911\">Comments</a>",
+    "publish_time": "2023-09-11 04:46:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
