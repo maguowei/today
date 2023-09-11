@@ -31,5 +31,38 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "InfoQ新知实验室：探寻旭阳数科与用友的“1+1>2”",
+    "url": "https://www.infoq.cn/article/OzIHxCbbibaIdAvYvh13",
+    "summary": "<p>《 “十四五”规划纲要》曾多次提到“产业数字化”和“数字产业化”这样的概念，在这样的背景之下，数科公司实际上是一个不容忽视且极为重要的角色和纽带。尽管数科公司对数智化转型起到了重要的促进作用，但外界对它的了解却并不多，这也使数科公司与一众互联网公司相比，多了几分神秘的色彩。</p>\n<p>聚焦数智化转型的时代命题，数科公司具体承担着怎样的职责？在服务上游集团企业时，他们遇到过哪些发展痛点？又沉淀出了哪些赋能行业数智化的实战经验 ？本期《InfoQ 新知实验室》有幸邀请到了北京旭阳数字科技有限公司总经理郗维宝以及用友网络副总裁罗小江，我们希望通过拆解旭阳数科服务集团企业的案例，逐步找到上述问题的答案。</p>",
+    "publish_time": "2023-09-11 10:53:32",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "中国工商银行大数据和人工智能实验室 / 部门经理袁一确认出席 FCon ，分享工商银行大数据平台助力全行数字化转型之路",
+    "url": "https://www.infoq.cn/article/D62XPwdjUk7IGEFlCAF2",
+    "summary": "<p><a href=\"https://fcon.infoq.cn/2023/shanghai/?utm_source=infoqweb&amp;utm_medium=atricle\">FCon 全球金融科技大会</a>\"，将于 11 月在上海召开。中国工商银行大数据和人工智能实验室 / 部门经理袁一将发表题为《<a href=\"https://fcon.infoq.cn/2023/shanghai/presentation/5525?utm_source=infoqweb&amp;utm_medium=article\">工商银行大数据平台助力全行数字化转型之路</a>\"》主题分享，介绍实时数仓技术在工商银行的技术实践及典型案例、在运营大规模大数据集群和大数据平台在实践信创转型时的经验、在向大数据平台云原生架构演进的实践，以及数据洞察平台（EasyDI）的实施。</p><p></p><p><a href=\"https://fcon.infoq.cn/2023/shanghai/presentation/5525?utm_source=infoqweb&amp;utm_medium=article\">袁一</a>\"，从 2011 年开始接触大数据相关技术，从零到一全程参与了工商银行大数据平台的建设，是工商银行大数据技术领域的先行者和技术专家，先后多次在中国信通院、华为金融峰会、Flink Forward Asia 等行业大会上就工行大数据体系的建设发表过公开演讲，发表大数据领域的专利 11 篇。</p><p></p><p>在最近几年里，持续关注行业新技术的动态，并积极引入新技术，成功落地了多个大型项目，包括主机下平台转型、SAS 国产化转型、实时数仓演进、湖仓一体云原生架构演进等，为工商银行的数字化转型工作提供了持续的持和助力。他在本次会议的演讲内容如下：</p><p></p><p>演讲：工商银行大数据平台助力全行数字化转型之路</p><p></p><p>本次演讲，将主要介绍工商银行大数据平台在近几年数字化转型过程中，对大数据平台的使用越来越重，因此立足于解决业务痛点，在近几年里主要推进了如下几项工作：</p><p></p><p>1、业务侧对数据时效的要求越来越高，原先 T+1 已无法满足，而基于 ORC 文件做定时存增量合并的方式资源开销很大，因此引入了 Flink+Hudi 的实时数仓加工模式，并提炼了设计模式，最终使数据加工时效最快达到了 1 分钟级。同步通过 CDC 技术，将主机或 Oracle 等数据库中产生的数据实时地同步到大数据平台，实现业务下主机。</p><p></p><p>2、随着实时数仓技术的不断成熟，工商银行大数据平台逐步将所有数据切换成实时入湖的 Hudi 格式，形成了基于 Flink 开发的实时数仓和基于 Spark 开发的离线数仓的两条并行加工链路，两条加工链路之间数据可以共享，无需冗余存储，同时为配合实时数仓链路中 Flink 中所要关联的维表，工商银行大数据平台根据不同的业务场景，建设了关系型、键值型、多维搜索、时序、空间、向量等多种类型的联机数据库。</p><p></p><p>3、推进大数据平台向存算分离云原生化演进。工商银行大数据平台最大的 Hadoop 集群目前规模近 3000 台物理机，随着集群规模越来越大，在资源隔离、弹性扩缩容等方面的不足越来越明显。因此通过参照互联网企业的做法，开始实践云下存算一体向云原生存算分离架构演进，在此过程中同步推动了数据平台信创转型。</p><p></p><p>4、建设 EasyDI 平台，在 2022 年面向全集团分析师提供了可视化报表开发工具，使报表开发不再依赖于科技。在 2023 年中通过策略模板中心形成了不同分行、不同部室之间用数模式复用的能力，构建了出生态。同时 2023 年 2 季度起正在研究基于生成式大模型技术实现对话式 BI 用数助理的课题，旨在通过 AI 技术进一步降低用数门槛。</p><p></p><p>演讲提纲：</p><p></p><p>实时数仓技术在工商银行的技术实践及典型案例工商银行在运营大规模大数据集群时的若干经验工商银行在向大数据平台云原生架构演进的若干实践工商银行大数据平台在实践信创转型时的若干经验工商银行数据洞察平台（EasyDI）的若干实施</p><p></p><p>你将获得：</p><p></p><p>○ 了解到实时数仓技术在工商银行的技术实践及典型案例</p><p>○ 了解到工商银行在运营大规模大数据集群时的若干经验</p><p>○ 了解到工商银行在向大数据平台云原生架构演进的若干实践</p><p>○ 了解到工商银行大数据平台在实践信创转型时的若干经验</p><p>○ 了解到工商银行数据洞察平台（EasyDI）的若干实施</p><p></p><p>除上述演讲外，FCon 上海还将围绕&nbsp;<a href=\"https://fcon.infoq.cn/2023/shanghai/track/1580?utm_source=infoqweb&amp;utm_medium=atricle\">DevOps&nbsp;在金融企业落地实践</a>\"、<a href=\"https://fcon.infoq.cn/2023/shanghai/track/1591?utm_source=infoqweb&amp;utm_medium=atricle\">金融行业大模型应用</a>\"、<a href=\"https://fcon.infoq.cn/2023/shanghai/track/1576?utm_source=infoqweb&amp;utm_medium=atricle\">创新的金融科技应用</a>\"、<a href=\"https://fcon.infoq.cn/2023/shanghai/track/1577?utm_source=infoqweb&amp;utm_medium=atricle\">金融实时数据平台建设之路</a>\"、<a href=\"https://fcon.infoq.cn/2023/shanghai/track/1588?utm_source=infoqweb&amp;utm_medium=atricle\">金融安全风险管控</a>\"、<a href=\"https://fcon.infoq.cn/2023/shanghai/track/1589?utm_source=infoqweb&amp;utm_medium=atricle\">数据要素流通与数据合规</a>\"等进行交流。</p><p></p><p>FCon 上海 2023，相约 11 月！现在购票，前 100 人可享 5 折特惠购票，咨询购票请联系：17310043226（微信同手机号）。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/a8/a8ec7f7fb25c7949931b2b8a5deffddd.png\" /></p><p></p>",
+    "publish_time": "2023-09-11 11:30:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "华为云印尼联创营CXO-CAMP精彩回顾",
+    "url": "https://www.infoq.cn/article/uHcRIePip3V0caFxtaJV",
+    "summary": "<p>华为云印尼首届CTO联创营CXO-CAMP 精彩回顾！携手共赴X数字进化，数十位印尼先锋企业领导者齐聚一堂，论道商业与技术的融合演进之路、解锁印尼数字化产业的未来！</p>",
+    "publish_time": "2023-09-11 12:20:20",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
