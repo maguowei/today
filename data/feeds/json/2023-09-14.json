@@ -1357,5 +1357,114 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "专家谈国货化妆品价格上涨",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E8%B0%88%E5%9B%BD%E8%B4%A7%E5%8C%96%E5%A6%86%E5%93%81%E4%BB%B7%E6%A0%BC%E4%B8%8A%E6%B6%A8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "关晓彤九宫格发了三张",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E4%B9%9D%E5%AE%AB%E6%A0%BC%E5%8F%91%E4%BA%86%E4%B8%89%E5%BC%A0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "被傅云深脑筋急转弯难住了",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%82%85%E4%BA%91%E6%B7%B1%E8%84%91%E7%AD%8B%E6%80%A5%E8%BD%AC%E5%BC%AF%E9%9A%BE%E4%BD%8F%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "俄国防部称乌军向塞瓦斯托波尔一船厂发射十枚巡航导弹，目前俄乌两国战事进展如何？",
+    "url": "https://www.zhihu.com/question/621848899",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美国 8 月 CPI 同比上升 3.7%，当地未来经济走势如何？",
+    "url": "https://www.zhihu.com/question/621907403",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "焦虑的本质是什么？",
+    "url": "https://www.zhihu.com/question/320535511",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Show HN: Victor, a browser-optimized vector database written in Rust",
+    "url": "https://github.com/not-pizza/victor",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37498854\">Comments</a>",
+    "publish_time": "2023-09-14 00:53:11",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Marvel Visual Effects Workers Vote to Unionize",
+    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/marvel-visual-effects-workers-vote-unionize-1234824215/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37499720\">Comments</a>",
+    "publish_time": "2023-09-14 02:08:37",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Lantern – a PostgreSQL vector database for building AI applications",
+    "url": "https://docs.lantern.dev/blog/2023/09/13/hello-world",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37499375\">Comments</a>",
+    "publish_time": "2023-09-14 01:41:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "WASI Support in Go",
+    "url": "https://go.dev/blog/wasi",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37498820\">Comments</a>",
+    "publish_time": "2023-09-14 00:27:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Phaser: A fast, fun and free open source HTML5 game framework",
+    "url": "https://phaser.io/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37499163\">Comments</a>",
+    "publish_time": "2023-09-14 01:23:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
