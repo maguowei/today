@@ -1584,5 +1584,105 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "中式老钱风",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%BC%8F%E8%80%81%E9%92%B1%E9%A3%8E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "米卡镜头里的何穗",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%B1%B3%E5%8D%A1%E9%95%9C%E5%A4%B4%E9%87%8C%E7%9A%84%E4%BD%95%E7%A9%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何看待2023年9月12日墨西哥公布的外星人遗体？",
+    "url": "https://www.zhihu.com/question/621903339",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "墨西哥在听证会上公布外星人尸体是否是真的外星人?",
+    "url": "https://www.zhihu.com/question/621900102",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美众议院议长麦卡锡称将对总统拜登展开弹劾调查，此事或将如何进展？将产生哪些影响？",
+    "url": "https://www.zhihu.com/question/621763178",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Earth beyond six of nine planetary boundaries",
+    "url": "https://www.science.org/doi/10.1126/sciadv.adh2458",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37500752\">Comments</a>",
+    "publish_time": "2023-09-14 03:36:05",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Direct Solar Power: Off-Grid Without Batteries",
+    "url": "https://solar.lowtechmagazine.com/2023/08/direct-solar-power-off-grid-without-batteries/?ref=thebrowser.com",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37500708\">Comments</a>",
+    "publish_time": "2023-09-14 03:32:46",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The stack monoid revisited",
+    "url": "https://raphlinus.github.io/gpu/2021/05/13/stack-monoid-revisited.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37500938\">Comments</a>",
+    "publish_time": "2023-09-14 03:54:25",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Kr8s – a Python client library for Kubernetes",
+    "url": "https://github.com/kr8s-org/kr8s",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37500781\">Comments</a>",
+    "publish_time": "2023-09-14 03:38:21",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "When MFA isn't MFA, or how we got phished",
+    "url": "https://retool.com/blog/mfa-isnt-mfa/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37500895\">Comments</a>",
+    "publish_time": "2023-09-14 03:48:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]

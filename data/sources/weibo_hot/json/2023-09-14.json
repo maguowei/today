@@ -646,5 +646,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "中式老钱风",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%BC%8F%E8%80%81%E9%92%B1%E9%A3%8E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "米卡镜头里的何穗",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%B1%B3%E5%8D%A1%E9%95%9C%E5%A4%B4%E9%87%8C%E7%9A%84%E4%BD%95%E7%A9%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
