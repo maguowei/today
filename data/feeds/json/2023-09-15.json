@@ -1407,5 +1407,123 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "原来机械这么迷人",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%9C%BA%E6%A2%B0%E8%BF%99%E4%B9%88%E8%BF%B7%E4%BA%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "北京文化论坛今天开幕",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%96%87%E5%8C%96%E8%AE%BA%E5%9D%9B%E4%BB%8A%E5%A4%A9%E5%BC%80%E5%B9%95%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "为什么摊丁入亩损害地主利益却还能成功推行？",
+    "url": "https://www.zhihu.com/question/61360171",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "一名优秀的C++人员是怎么炼成的?",
+    "url": "https://www.zhihu.com/question/621331372",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "《奥本海默》台词「Now I am become death」为何既有 be 动词又有 become？",
+    "url": "https://www.zhihu.com/question/621379518",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "从生物学角度，人类是否已经没有了进化的空间？随着科技发展，人类是否会走上基因改造的进化之路？",
+    "url": "https://www.zhihu.com/question/621952455",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "“燕”字口下面的一小横是什么时候没了的？",
+    "url": "https://www.zhihu.com/question/269794556",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Unity cancels town hall over reported death threats",
+    "url": "https://www.theverge.com/2023/9/14/23873628/unity-death-threats-john-riccitiello",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37512512\">Comments</a>",
+    "publish_time": "2023-09-15 02:03:25",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "On Writing (or not): Bad habits and why the voice in my head needs to shut up",
+    "url": "https://bessstillman.substack.com/p/on-writing-or-not",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37513037\">Comments</a>",
+    "publish_time": "2023-09-15 02:44:35",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "“perpetual motion” device is clever [video]",
+    "url": "https://www.youtube.com/watch?v=r_LG8FDt51U",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37513030\">Comments</a>",
+    "publish_time": "2023-09-15 02:44:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Can I take ducks home from the park?",
+    "url": "https://dynomight.net/ducks/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37512216\">Comments</a>",
+    "publish_time": "2023-09-15 01:41:40",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Stolen van Gogh painting returned in an IKEA bag",
+    "url": "https://www.smithsonianmag.com/smart-news/dutch-art-detective-recovers-a-van-gogh-stolen-in-2020-180982896/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37510885\">Comments</a>",
+    "publish_time": "2023-09-15 00:15:40",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
