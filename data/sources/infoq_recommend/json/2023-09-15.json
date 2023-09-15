@@ -53,5 +53,27 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "JetBrains 推出独立 Rust IDE",
+    "url": "https://www.infoq.cn/article/G4aQNXfcplOmXj9Pivse",
+    "summary": "<p>9月14日，专业软件开发工具提供商 <a href=\"https://www.jetbrains.com/zh-cn/\">JetBrains</a>\"&nbsp;宣布推出一款专为Rust编程语言打造的集成开发环境（IDE) RustRover，旨在无缝集成高级编码支持与工具链，助力Rust开发者能够更高效地构建应用和服务。</p><p>&nbsp;</p><p>跟据介绍，RustRover 不仅能够为开发者提供实时反馈、智能代码建议，还带来了简化的工具链管理，并提供无缝式团队协作功能，使掌握任何熟练程度的开发者，均可享受到更强大的的Rust编程体验。RustRover的功能包括：</p><p>&nbsp;</p><p>实时分析：通过快速排查故障和实时反馈功能，助力开发者实现高效调试。开箱即用的体验：开发者可快速配置RustRover并立即开始编码，无需安装额外插件或从零开始配置 IDE。灵活的补全和解析代码：即使在非常规上下文中，程序员也可获得智能代码建议，从而提高工作效率。高级单元测试集成：开发者可轻松执行无缝测试以及重新运行失败测试，并从而快速排除故障。全面的代码洞察：帮助用户理解代码及其结构，并访问代码示例，从而提高开发能力。强大的Rust工具链支持：开发者可获得实现成功编码Rust所需的所有工具支持，包括Rust编译器等。完整的版本控制系统（VCS）集成：内置支持GitHub和 Git，帮助用户可以简化团队协作和版本控制流程。对前端技术和数据库提供支持：开发者无需大量其他工具，便可以轻松构建应用。</p><p>&nbsp;</p><p>RustRover技术布道师Vitaly Bragilevsky 表示，“借助 RustRover，我们将能够充分满足开发者不断变化的需求，并在快速发展的市场中见证Rust生态系统的茁壮发展。根据我们的调查显示，56% 的开发者在过去 6 个月内开始采用 Rust。通过集成先进的编码支持与工具链功能，我们的IDE将助力开发者更高效地构建应用和服务，并为不断壮大的Rust社区做出积极贡献。”</p><p>&nbsp;</p><p>此前，JetBrains已为Rust开发者提供了 <a href=\"https://www.jetbrains.com/rust/\">IntelliJ Rust</a>\"，这是一款面向IntelliJ IDE的开源Rust插件。而RustRover是一款面向初学者和进阶开发者的Rust产品，不仅为初学者提供了简便的Rust入门方式，还为经验丰富的开发者提供可靠支持。开发者在抢先体验计划（EAP）&nbsp;期间可以免费使用，JetBrains 表示也将确保其插件版本兼容IDEA Ultimate和CLion。</p><p>&nbsp;</p><p>更多信息可查看：</p><p><a href=\"https://www.jetbrains.com/rust/download\">https://www.jetbrains.com/rust/download</a>\"&nbsp;</p><p>&nbsp;</p>",
+    "publish_time": "2023-09-15 15:00:20",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "汇丰科技证券服务技术部 DevSecOps 负责人周纪海博士确认出席 FCon ，分享大象起舞：国际大型银行数字化转型的挑战和实践",
+    "url": "https://www.infoq.cn/article/PZmTlQRpdVimolCBzlNU",
+    "summary": "<p><a href=\"https://fcon.infoq.cn/2023/shanghai/?utm_source=infoqweb&amp;utm_medium=atricle\">FCon 全球金融科技大会</a>\"，将于 11 月在上海召开。汇丰科技证券服务技术部 DevSecOps 负责人周纪海 博士将发表题为《<a href=\"https://fcon.infoq.cn/2023/shanghai/presentation/5529?utm_source=infoqweb&amp;utm_medium=article\">大象起舞：国际大型银行数字化转型的挑战和实践</a>\"》主题分享，介绍一些实际案例，分析传统银行如何通过工程赋能、业务创新提高业务竞争力。通过 BizDevOps 实践，实现业务和技术敏捷迭代与协作，提升业务体验。同时，升级为 DevSecOps，确保金融系统和产品安全。以及分析如何正确使用度量评估技术，为技术赋能业务提供指导。</p><p></p><p><a href=\"https://fcon.infoq.cn/2023/shanghai/presentation/5529?utm_source=infoqweb&amp;utm_medium=article\">周纪海博士</a>\"，英国伦敦帝国理工学院博士毕业，拥有 10 余年多家国际大型银行（巴克莱银行，汇丰银行等）和腾讯的 DevOps 和 DevSecOps 转型和落地的工作经验。2018 年从汇丰银行伦敦总部派到中国广州汇丰科技，负责投资银行技术部门千名开发人员规模的 DevOps 和 DevSecOps 转型。2021 年 12 月由机械工业出版社发行的国内首本 DevSecOps 书籍《DevSecOps 实战》的第一作者。2022 年 5 月由新加坡 World Scientific 出版社发行的金融科技书籍《The Future and Fintech, ABCDI and Beyond》的作者之一。2023 年 8 月由清华大学出版社发行的书籍《DevOps 持续万物》翻译小组组长和翻译作者之一。在 2018 到 2023 年期间，受邀作为演讲嘉宾出席国外 10 几场和国内 20 多场技术峰会分享 DevOps 和 DevSecOps 经验，并担任近 10 场技术峰会的专场出品人。南京大学软件学院工程卓越技术讲堂讲师和 DevOps+ 实验室企业导师。他在本次会议的演讲内容如下：</p><p></p><p>演讲：大象起舞：国际大型银行数字化转型的挑战和实践</p><p></p><p>传统金融机构，由于其历史悠久，强监管等特殊性，在其数字化转型的道路上往往困难重重。汇丰科技通过近 10 年的不断升级的数字化转型的过程中，在工程赋能，业务创新，业技融合，降本增效和风险管控等方面都取得了一定的成果。</p><p></p><p>本次分享通过结合实际案例分析传统银行，如何通过工程赋能和业务创新使得业务交付速度更快质量更好，从而降低技术投入成本并且提高了业务竞争力。以及通过 BizDevOps 实践，提高了业务和技术敏捷迭代和协作，最终实现了业技融合，从而提升业务体验。另外，为了进一步满足了监管和合规对于金融行业的要求，升级为 DevSecOps 并进行落地，从而通过安全左移使得金融系统和产品更安全。最后，总结和分析了如何正确使用度量评估技术创造的业务价值和实现数字驱动业务，从而为技术赋能业务指明正确方向。</p><p></p><p>演讲提纲：</p><p></p><p>金融行业数字化转型的特点和挑战工程效能和创新 - 赋能业务，降本增效业技敏捷和协作 – 实现业技融合，提高生产力安全和控制左移 – 进一步满足监管和合规要求度量和数字驱动 – 评估业务价值和指引战略方向</p><p></p><p>你将获得：</p><p></p><p>○ 了解金融行业数字化转型的面临的困难和挑战</p><p>○ 了解金融行业进行数字化转型的思路和重点方向</p><p>○ 通过案例了解金融行业数字化转型的实施方案和最佳实践</p><p></p><p>除上述演讲外，FCon 上海还将围绕&nbsp;<a href=\"https://fcon.infoq.cn/2023/shanghai/track/1580?utm_source=infoqweb&amp;utm_medium=atricle\">DevOps&nbsp;在金融企业落地实践</a>\"、<a href=\"https://fcon.infoq.cn/2023/shanghai/track/1591?utm_source=infoqweb&amp;utm_medium=atricle\">金融行业大模型应用</a>\"、<a href=\"https://fcon.infoq.cn/2023/shanghai/track/1576?utm_source=infoqweb&amp;utm_medium=atricle\">创新的金融科技应用</a>\"、<a href=\"https://fcon.infoq.cn/2023/shanghai/track/1577?utm_source=infoqweb&amp;utm_medium=atricle\">金融实时数据平台建设之路</a>\"、<a href=\"https://fcon.infoq.cn/2023/shanghai/track/1588?utm_source=infoqweb&amp;utm_medium=atricle\">金融安全风险管控</a>\"、<a href=\"https://fcon.infoq.cn/2023/shanghai/track/1589?utm_source=infoqweb&amp;utm_medium=atricle\">数据要素流通与数据合规</a>\"等进行交流。</p><p></p><p>FCon 上海 2023，相约 11 月！现在购票，前 100 人可享 5 折特惠购票，咨询购票请联系：17310043226（微信同手机号）。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/a8/a8ec7f7fb25c7949931b2b8a5deffddd.png\" /></p><p></p>",
+    "publish_time": "2023-09-15 15:10:28",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
