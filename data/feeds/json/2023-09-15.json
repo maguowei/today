@@ -4358,5 +4358,463 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "用超长画卷打开5000年杭州",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%A8%E8%B6%85%E9%95%BF%E7%94%BB%E5%8D%B7%E6%89%93%E5%BC%805000%E5%B9%B4%E6%9D%AD%E5%B7%9E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "买iPhone15首选天猫",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B9%B0iPhone15%E9%A6%96%E9%80%89%E5%A4%A9%E7%8C%AB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "YG回应Lisa拒绝续约",
+    "url": "https://s.weibo.com/weibo?q=%23YG%E5%9B%9E%E5%BA%94Lisa%E6%8B%92%E7%BB%9D%E7%BB%AD%E7%BA%A6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "TF家族演唱会举办方被罚6万",
+    "url": "https://s.weibo.com/weibo?q=%23TF%E5%AE%B6%E6%97%8F%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%BE%E5%8A%9E%E6%96%B9%E8%A2%AB%E7%BD%9A6%E4%B8%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "恋与胡彦斌",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E8%83%A1%E5%BD%A6%E6%96%8C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "他从火光中走来 定档",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%8E%E7%81%AB%E5%85%89%E4%B8%AD%E8%B5%B0%E6%9D%A5+%E5%AE%9A%E6%A1%A3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "肖战喊前夫哥是即兴发挥",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%96%8A%E5%89%8D%E5%A4%AB%E5%93%A5%E6%98%AF%E5%8D%B3%E5%85%B4%E5%8F%91%E6%8C%A5%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Angelababy是配菜终结者",
+    "url": "https://s.weibo.com/weibo?q=%23Angelababy%E6%98%AF%E9%85%8D%E8%8F%9C%E7%BB%88%E7%BB%93%E8%80%85%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "对方撤回了一个儿子",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AF%B9%E6%96%B9%E6%92%A4%E5%9B%9E%E4%BA%86%E4%B8%80%E4%B8%AA%E5%84%BF%E5%AD%90%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "披荆斩棘3二公",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%983%E4%BA%8C%E5%85%AC%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "胡彦斌没组合名有点着急",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%BD%A6%E6%96%8C%E6%B2%A1%E7%BB%84%E5%90%88%E5%90%8D%E6%9C%89%E7%82%B9%E7%9D%80%E6%80%A5%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "结婚冷静期有人帮你们试了",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BB%93%E5%A9%9A%E5%86%B7%E9%9D%99%E6%9C%9F%E6%9C%89%E4%BA%BA%E5%B8%AE%E4%BD%A0%E4%BB%AC%E8%AF%95%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "原来抹额是宫二的守宫砂和信号塔",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%8A%B9%E9%A2%9D%E6%98%AF%E5%AE%AB%E4%BA%8C%E7%9A%84%E5%AE%88%E5%AE%AB%E7%A0%82%E5%92%8C%E4%BF%A1%E5%8F%B7%E5%A1%94%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "周杰伦开不了口现场",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%BC%80%E4%B8%8D%E4%BA%86%E5%8F%A3%E7%8E%B0%E5%9C%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "李莲花嫁衣版",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8E%B2%E8%8A%B1%E5%AB%81%E8%A1%A3%E7%89%88%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "宋雨琦的世巡City Dance",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E7%9A%84%E4%B8%96%E5%B7%A1City+Dance%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "陈楚生吉他弹唱思念一个荒废的名字",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E5%90%89%E4%BB%96%E5%BC%B9%E5%94%B1%E6%80%9D%E5%BF%B5%E4%B8%80%E4%B8%AA%E8%8D%92%E5%BA%9F%E7%9A%84%E5%90%8D%E5%AD%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "云之羽女主身份牛牛偷听到了",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%91%E4%B9%8B%E7%BE%BD%E5%A5%B3%E4%B8%BB%E8%BA%AB%E4%BB%BD%E7%89%9B%E7%89%9B%E5%81%B7%E5%90%AC%E5%88%B0%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "江苏福彩史上最大弃奖",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E7%A6%8F%E5%BD%A9%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E5%BC%83%E5%A5%96%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "南昌音乐节",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%98%8C%E9%9F%B3%E4%B9%90%E8%8A%82%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "饿了么崩了",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%A5%BF%E4%BA%86%E4%B9%88%E5%B4%A9%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "高铁乘客花35买盒饭发现标价15",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B9%98%E5%AE%A2%E8%8A%B135%E4%B9%B0%E7%9B%92%E9%A5%AD%E5%8F%91%E7%8E%B0%E6%A0%87%E4%BB%B715%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何看待三大运营商集体采购百万台华为mate60的行为？",
+    "url": "https://www.zhihu.com/question/621993854",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "《原神》中散兵主题曲《三千娑世御咏歌》有没有可能隐晦的解释陈致逸离职的缘由?",
+    "url": "https://www.zhihu.com/question/622025097",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么一二三产的用电量都在增长，而城乡居民用电量竟然大幅下滑？",
+    "url": "https://www.zhihu.com/question/621980753",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "阿尔法罗密欧车队官宣与周冠宇续约，2024 赛季将主场征战，你对他有什么祝福和期待？",
+    "url": "https://www.zhihu.com/question/622033289",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "梅西返回迈阿密国际备战，魔鬼赛程 36 天 10 场冲击美国第二冠+季后赛，对梅西的表现有何期待？",
+    "url": "https://www.zhihu.com/question/621989098",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么那么多人到了大学就会摆烂？",
+    "url": "https://www.zhihu.com/question/619489275",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如果整个量子力学体系的创建是由一位科学家独立完成的，他在物理学的历史地位能比肩牛顿和爱因斯坦吗？",
+    "url": "https://www.zhihu.com/question/622000751",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如果RTS推出一个一键把单位交给AI控制的选项，能吸引更多新手吗？",
+    "url": "https://www.zhihu.com/question/620454474",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "公司发的加班餐自己不吃带回去给孩子吃，你是怎样看这样的同事?",
+    "url": "https://www.zhihu.com/question/621933367",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "你读过哪些让你一生受用的书?",
+    "url": "https://www.zhihu.com/question/619958135",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "你能接受孩子将来不结婚，不生孩子吗？",
+    "url": "https://www.zhihu.com/question/618071485",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "猴痘 9 月 20 日起纳入乙类传染病管理，感染猴痘有哪些症状？如何科学预防？哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/622171602",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "中秋国庆假期首日火车票9 月 15 日开抢，12306 提醒候补订单成功率高，哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/622159949",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "恒指午间休盘涨1.66%，医药板块涨幅居前",
+    "url": "https://www.36kr.com/newsflashes/2432678683988361",
+    "summary": "36氪获悉，港股早盘行情震荡走高，恒指午间休盘涨1.66%，恒生科技指数涨1.52%。医药、半导体板块领涨，荣昌生物涨超7%，药明康德、中芯国际涨超4%；港股黄金股涨幅明显，招金矿业、紫金矿业涨超4%；南向资金净买入7.3亿港元。",
+    "publish_time": "2023-09-15 12:08:43",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "京东科技与弗迪电池签署协议，将在换电、微型车辆等领域开展合作",
+    "url": "https://www.36kr.com/newsflashes/2432680240943749",
+    "summary": "京东科技与弗迪电池有限公司日前在北京签署战略合作协议，未来，双方将在换电、微型车辆、电驱动、消费类3C产品、民用电池、储能等领域的产品、技术与产业深度合作，打造科技合力，开拓市场份额。（中证网）",
+    "publish_time": "2023-09-15 12:20:10",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "12306客服回应系统崩了：建议过半小时再尝试",
+    "url": "https://www.36kr.com/newsflashes/2432686505267843",
+    "summary": "今日午间，就网友反映的“12306崩了”，以及账号反复登陆不上、乘车人列表刷不出来等问题，记者以消费者身份咨询12306，客服回应称，目前系统有点崩溃，建议大家过半小时再尝试购票刷新。（中新经纬）",
+    "publish_time": "2023-09-15 12:32:31",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "百度希壤与高通达成战略合作",
+    "url": "https://www.36kr.com/newsflashes/2432705591448197",
+    "summary": "36氪获悉，据高通中国公众号，近期，北京百度网讯科技有限公司与高通无线通信技术（中国）有限公司在北京签署非约束性战略合作谅解备忘录，双方将在XR领域展开全面战略合作。",
+    "publish_time": "2023-09-15 12:36:05",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "北京环球影城9月21日发售两档新年卡，日期最多可覆盖365天",
+    "url": "https://www.36kr.com/newsflashes/2432709921411718",
+    "summary": "36氪获悉，据北京环球度假区公众号消息，北京环球影城年卡体系将全线焕新，包括涵盖更多权益和专享礼遇的年卡福利升级，以及9月21日起正式发售的两档全新年卡——北京环球影城年卡-臻享、北京环球影城年卡-嘉享。焕新后的年卡，入园日期至多可覆盖365天。",
+    "publish_time": "2023-09-15 12:40:30",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "国家能源局局长章建华：应坚定不移携手推动地热能等可再生能源发展",
+    "url": "https://www.36kr.com/newsflashes/2432712195412358",
+    "summary": "由国家地热能中心主办、中国石化承办的2023年世界地热大会15日上午在北京开幕。这是中国首次承办世界地热大会。国家能源局局长章建华在会上致辞时表示，当前全球经济复苏仍显脆弱，能源转型压力仍然较大，应携起手来坚定不移推动地热能等可再生能源发展。（上证报）",
+    "publish_time": "2023-09-15 12:50:30",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "中越跨境旅游合作区开启试运行",
+    "url": "https://www.36kr.com/newsflashes/2432723985355399",
+    "summary": "位于中国和越南交界地带的德天（板约）跨国瀑布是亚洲第一、世界第四大跨国瀑布，中越德天（板约）瀑布跨境旅游合作区9月15日开启试运行。合作区试运营期间，实施预约组团、组团限量、限时跨境、团进团出、游览线路限定的管理模式，并且仅向持有中越两国护照、出入境通行证的游客开放。游客跨境往来通道实施团进团出通关查验措施。（新华社）",
+    "publish_time": "2023-09-15 12:54:48",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "烧碱、对二甲苯（PX）期货上市 PX后市供需前景向好",
+    "url": "https://www.36kr.com/newsflashes/2432727907357315",
+    "summary": "烧碱、对二甲苯（PX）期货及期权在郑州商品交易所上市交易，意味着盐化工产业和石油化工产业又多一重避险工具。卓创资讯分析，今日PX现货市场同步走强。近期油市表现强势，叠加需求端华南一套PTA新产能释放计划，PX后市供需前景向好；9月烧碱市场价格普涨。后续氯碱装置仍有检修计划，且华东有部分氯碱装置存降负荷运行计划，后续供应仍呈偏紧状态，预计多地市场价格仍有一定上涨空间。（证券时报）",
+    "publish_time": "2023-09-15 12:58:47",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "比亚迪王传福：煤只能够人类再使用200多年，石油仅能用50年",
+    "url": "https://www.36kr.com/newsflashes/2432730801230217",
+    "summary": "2023ESG全球领导者大会于9月13至15日在黄浦区绿地外滩中心举行。 比亚迪股份有限公司董事长兼总裁王传福表示，化石能源促进了人类文明的快速进步，但也让人类社会付出沉重代价。 “现在人类所用的煤，按照今天的消耗速度，只能使用200多年；现在地球的石油，按照今天的消耗速度，只能用50年”，王传福分析称，人类不能只活200年，化石能源用完以后，子孙后代将面临能源枯竭。（新浪财经）",
+    "publish_time": "2023-09-15 13:01:44",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "万字全面评测（下篇）：文心一言 vs ChatGPT",
+    "url": "https://www.infoq.cn/article/2407ec2798197a61f53b4d6cf",
+    "summary": "<p></p><blockquote>摘要：这是全面对标评测百度文心一言和 OpenAI 的 ChatGPT（包括 3.5 和 4）的下篇。豆茉君从P.性能表现和D.开发友好两大主题、11 个方面展开了评测。</blockquote><p></p><p></p><h2>前言</h2><p></p><p>接着<a href=\"https://mp.weixin.qq.com/s/3ajCfN54N8OzaqR6IpMjag\">全面评测（上篇）：文心一言 vs ChatGPT</a>\"，下篇将对文心一言和 ChatGPT 的性能表现和开发友好这两个主题进行对标评测。</p><p><img src=\"https://static001.geekbang.org/infoq/b3/b3326d0582fe92a2e7e2e0814e1b1605.png\" /></p><p>先说结论，一图胜千言：</p><p><img src=\"https://static001.geekbang.org/infoq/81/81a429ea51ee7a32e63b76530292e71a.png\" /></p><p></p><p><img src=\"https://static001.geekbang.org/infoq/b0/b013f58b89f44de6402a91442a344712.png\" /></p><p>其中，对于如何有效地评测性能表现，豆茉君思索了很久。</p><p>首先，我想需要对人类智力活动和 AI 工具定位做一个设定。从人类个体角度出发，豆茉君认为，我们的智力活动有两个对象：一个是外在的世界，我们需要不断地增进对世界的了解；一个是内在的自我，我们需要不断地提高对自我的认知。</p><p>人类大脑智力活动的本质，是对数据、信息、知识和智慧进行处理、加工和产出的过程。而语言是人类思维的桥梁，是思考过程的载体，是智力产出的外化，对于人类智力的发展起到了至关重要的作用。</p><p>文心一言和 ChatGPT 作为大语言模型应用，它们在被训练的时候就被喂食了有关这个世界、有个人类本身的很大一部分的数据、信息、知识甚至智慧。所以，它们肚子里面的货比任何人类个体都多得多，但是它们还没有自我意识更没有主观能动，所以不会有目的地进行智力活动。（关于这部分内容，请移步豆茉君前面一篇文章：<a href=\"https://mp.weixin.qq.com/s/3yo9r7j-Y7VkiSgUg2g5Uw\">打工人要的安慰，GPT 给不了</a>\"）</p><p>如果说外化的文字，是给我们大脑外接了一台显示器，以达到反复加强从眼睛看到脑袋想再到眼睛看的这个循环过程，以达到刺激大脑思维产出的效果，即形成大脑和自我外化的一部分镜像快照形成沟通交流的回路。</p><p>那么大语言模型 AI 则更像是给大脑联通了一个外挂，它能让大脑快速触达人类巨量的智力成果，而不要求大脑预先进行学习、记忆，这极大的释放了人脑的学习压力（虽然人脑长期记忆容量是惊人的，但是学习效率太低），增加了人脑的工作容量（人脑的工作容量非常有限，一次激活加载的记忆区域不超过 7 个）。</p><p>与传统的搜索引擎不同，AI 能够跟大脑进行丝滑的对话沟通，会直接给出知识甚至智慧，而不要求大脑完成数据收集、信息组织再到提炼知识的工作步骤，让大脑能够更专注于最后一步即智慧的产出。</p><p>从这个角度理解，大语言模型 AI 是人类绝佳的智力活动副驾驶，这也是人们通常把它称之为 Copilot 、贾维斯的原因。</p><p></p><h2>智力活动的 16 象限分解</h2><p></p><p>为了确定性性能对标评测的测试内容，豆茉君结合上面前言的思考结果，把智力活动分成了 16 个象限。如图：</p><p><img src=\"https://static001.geekbang.org/infoq/60/606da506fd5dd1e025b5422009694be8.png\" /></p><p></p><h3>三个维度</h3><p></p><p>16 象限的划分依靠三个维度：</p><p></p><h4>1、DIKW 模型</h4><p></p><p>DIKW模型是一个用于描述数据、信息、知识和智慧之间关系的概念模型。这个模型通常以金字塔形式表示，从底层到顶层分别是：数据（Data）、信息（Information）、知识（Knowledge）和智慧（Wisdom）。每一层都是基于其下一层构建的。</p><p>数据（Data）</p><p>数据是未经处理的原始事实和统计数字。数据本身没有意义，需要进一步处理和分析。例如：温度读数、销售数字、人口统计数据。</p><p>信息（Information）</p><p>信息是经过组织、分类或解释的数据。信息提供了一种更高级别的组织和解释，通常用于描述某种情况或环境。 例如：天气预报、销售报告、人口普查结果。</p><p>知识（Knowledge）</p><p>知识是经过深入理解、分析和应用的信息。知识通常包括观点、技能、经验和教训，用于解决问题或进行决策。 例如：如何修复一个机器、如何进行有效的项目管理、医学或法律专业知识。</p><p>智慧（Wisdom）</p><p>智慧是一种更高级的认知形式，通常涉及到道德、伦理和长期目标的考虑。智慧不仅仅是知识的应用，还包括对何时、如何以及为什么应用这些知识的深入理解。 例如：如何公平地分配有限资源、如何做出道德和伦理上正确的决策、如何实现长期的可持续发展。</p><p>图中用同心圆表示，从外到内依次为数据、信息、知识和智慧。</p><p></p><h4>2、已知和未知</h4><p></p><p>图中的 X 轴，左边（已知）代表已经被确认或理解的内容，而右边（未知）代表尚未被发现或理解的内容。</p><p></p><h4>3、世界与自我</h4><p></p><p>图中的Y轴，上面（世界） 代表与外界、社会或环境有关的内容，而下面（自我） 代表与个人、内心或主观经验有关的内容。</p><p></p><h3>象限清单</h3><p></p><p></p><p>接下来的性能表现测试，将会用针对 16 个象限设计 16 个问题，然后分别发给文心一言、ChatGPT 3.5 和 GPT-4，看看它们的回答质量。需要注意的是：</p><p>1、进行零样本提示问答测试。</p><p>所谓零样本提示，就是直接一句话问出问题，而不采用优化设计后的复杂提示词。</p><p>2、不启用任何插件</p><p>3、测试语言：中文</p><p>4、对于有确切答案的，答对得1分，不全对得 0.5 分，全错得 0 分。</p><p>5、对于没有确切答案的，豆茉君自行打分，优、中、差三档得分1、0.5 和 0 分。</p><p></p><h2>P. 性能表现 Performance</h2><p></p><p></p><h3>P1 工作记忆</h3><p></p><p>我们先来对比一下工作记忆容量。这个指标非常关键，直接决定了对话篇幅。这里不纳入评分考核。</p><p>所谓工作记忆，是指在一次对话中，AI 能记住并处理的最大篇幅。用于衡量最大篇幅的单位叫 token 数。token 是令牌的意思，每一个 token 相当于大语言模型中的一个单元对象。</p><p>对于 ChatGPT，OpenAI 提供了一个 token 数计算小工具（https://platform.openai.com/tokenizer），可用来自动计算自然语言句子的 token 数量：</p><p><img src=\"https://static001.geekbang.org/infoq/4f/4fb85c4ab978d2a5f65868f6efb74521.png\" /></p><p>例如，在上面所示的句子 “ChatGPT is an AI model.”中，有8个token。实质上，tokens 是语言模型用于理解和生成文本的\"构建块\"，它们构成了输入和输出数据的基础，tokens的数量、种类和质量直接影响模型性能的有效性。</p><p>在自然语言处理（NLP）和语言模型的背景下，\"token\"代表模型设计用来处理的最基本数据单元。一个token可以是一个字符，也可以是一个单词，具体取决于语言和模型的设计。在类似于 GPT-4 这样的 AI 语言模型中，一个token通常对应一个单词，但它也可以表示单词的一部分、一个短语，甚至是标点符号或空白字符。</p><p>为什么会有这么个 token 最大数量限制呢？</p><p>这是由于多种因素，涉及效率、计算可行性以及模型性能等方面的考虑：</p><p>计算效率：处理大量的token需要大量的计算资源，包括内存和处理能力。设置token的最大数限制有助于管理计算成本，确保语言模型在合理的时间范围内运行，以便提供及时的回复。模型性能：token限制有助于维持输出的质量。由于模型架构限制，具有固定大小的注意力窗口，这决定了模型一次能够处理的 token 数量。资源分配：设置token的最大数限制有助于在多个同时使用模型的用户之间平衡资源的使用，确保多用户环境下对计算资源的公平访问。</p><p>那么，token 最大数量限制将如何影响用户的使用体验呢？</p><p>首先是对话长度限制</p><p>token 数量的限制会影响模型能够处理的对话长度。输入和输出都计入token限制，因此在一个对话中，token的数量可能会超过限制，导致需要削减或省略一些内容。这可能会使长对话无法在模型中完整地进行处理。</p><p>多轮对话</p><p>对于涉及多次来回对话或多个参与者的对话，token数量的限制可能会成为一个关键因素。对话需要适应模型的 token 限制，对于含有多个对话轮数的场景会产生较大影响。</p><p>实时交互</p><p>在需要快速回复的实时应用中，处理大量token所需的时间可能会显著影响用户体验。如果模型处理大量token的速度较慢，可能会导致用户等待时间过长，从而降低实时交互的效果。</p><p>根据官方的资料，ChatGPT 3.5 的最大 token 数量限制是 16384 个，上下文大约能记住 12000 个单词：</p><p><img src=\"https://static001.geekbang.org/infoq/29/29ca7a8273d76db2dd5bc352e6c38559.png\" /></p><p>而 GPT-4 的限制是 32768 个，上下文大约能记住 25000 个单词：</p><p><img src=\"https://static001.geekbang.org/infoq/c0/c05f255de52281ed96e76a65a6202e78.png\" /></p><p>再来看看文心一言。从百度千帆大模型平台的一处文档可以看出，其估算 token 公式：</p><p><img src=\"https://static001.geekbang.org/infoq/8e/8e6476ec925448fe2e47c03d9b7dc2a1.png\" /></p><p>对于文心一言应用来说，对话的 token 限制是多少，豆茉君没有找到官方有准确的介绍。不过在使用的时候，发现网页对话框内最大输入的限制是 2000，单位应该是 token：</p><p><img src=\"https://static001.geekbang.org/infoq/64/64426e391386f9c6698d92d5ab956f91.png\" /></p><p></p><h3>P2 语言理解</h3><p></p><p>语言理解性能，主要是测试 AI 对于已知世界的数据、信息、知识和智慧的筛选和归纳能力。对应的象限是 1、5、9、13。</p><p></p><h4>1 数据 + 已知 + 世界：中国 1990 年的 GDP 是多少？</h4><p></p><p>标准答案：3609 亿美元。</p><p>文心一言：答不出来 0</p><p><img src=\"https://static001.geekbang.org/infoq/39/39fdc46c068ee5eb894315b6396d7049.png\" /></p><p>GPT-3.5：大差不差 0.5</p><p><img src=\"https://static001.geekbang.org/infoq/df/dfb2ca666c944c0990dc7266257c1327.png\" /></p><p>GPT-4：完全正确 1</p><p><img src=\"https://static001.geekbang.org/infoq/9e/9ebad8391a3ac174f35ff59c55bac122.png\" /></p><p></p><h4>5 信息 + 已知 + 世界：最近一次奥运会的金牌榜前5名的国家和奖牌数是？</h4><p></p><p>标准答案：</p><p><img src=\"https://static001.geekbang.org/infoq/df/df6d835c2e71eb0710476302b085dbc2.png\" /></p><p>文心一言：第五名错了，奖牌数有错误 0.5</p><p><img src=\"https://static001.geekbang.org/infoq/f6/f612101c1fa6378709f2e66e13623f2f.png\" /></p><p>GPT-3.5：金牌数前两名错了。0.5</p><p><img src=\"https://static001.geekbang.org/infoq/cb/cbef07802297b121392783c4ec31bfcd.png\" /></p><p>GPT-4：俄罗斯的名称前面部分错了 0.5</p><p><img src=\"https://static001.geekbang.org/infoq/33/33bbb9fbd839145dfc6c823717207c30.png\" /></p><p></p><h4>9 知识 + 已知 + 世界：牛顿的三大定律是什么？</h4><p></p><p>都对了。</p><p>文心一言：1</p><p><img src=\"https://static001.geekbang.org/infoq/07/079c77be6987a8ba7ef0586678a63bb0.png\" /></p><p>GPT-3.5：1</p><p><img src=\"https://static001.geekbang.org/infoq/21/21a172858bb8f83b10c484ed725e1207.png\" /></p><p>GPT-4：1</p><p><img src=\"https://static001.geekbang.org/infoq/7d/7d1f52cbe59e16efe45d2f02d4d49267.png\" /></p><p></p><h4>13 智慧 + 已知 + 世界：如何解决贫富不均的问题？</h4><p></p><p>文心一言：0</p><p><img src=\"https://static001.geekbang.org/infoq/28/282e2eb32f32e1ad26dc5d31eda84e4f.png\" /></p><p>GPT-3.5：0.5</p><p><img src=\"https://static001.geekbang.org/infoq/b5/b59f9f3ebdb3bc65dfa16126bdcbd16f.png\" /></p><p>GPT-4：1</p><p><img src=\"https://static001.geekbang.org/infoq/00/0044c6281af391431de1da4c12d41fa4.png\" /></p><p></p><h3>P3 情感对话</h3><p></p><p>情感对话性能，主要是测试 AI 对于已知自我的数据、信息、知识和智慧的咨询和推理能力。对应的象限是 3、7、11、15。</p><p></p><h4>3 数据 + 已知 + 自我：作为输入</h4><p></p><p>我叫小明，来自江苏，是一个在上海工作 3 年的男程序员，我平时负责编写一些数据分析代码，目的是对公司平台用户的交易行为进行分析。我毕业于国内的一所 211 大学，专业是计算机科学与技术。</p><p></p><h4>7 信息 + 已知 + 自我：作为输入</h4><p></p><p>我还没有女朋友，平时喜欢玩电脑游戏，捣鼓数码产品，还喜欢吃火锅。节假日的时候，喜欢约朋友打打篮球，然后骑骑我的山地自行车。</p><p></p><h4>11 知识 + 已知 + 自我：如何提高我的沟通能力？</h4><p></p><p>文心一言：跟GPT 3.5 的答案好像，0.5</p><p><img src=\"https://static001.geekbang.org/infoq/26/2641dc719d71a807306a21015929f1bd.png\" /></p><p>GPT-3.5：跟文心一言的答案好像，0.5</p><p><img src=\"https://static001.geekbang.org/infoq/53/5330d91dbc3dc689b096596627052415.png\" /></p><p>GPT-4：1</p><p><img src=\"https://static001.geekbang.org/infoq/dd/dd01301f433b4690ba49486d7dfa8c7b.png\" /></p><p></p><h4>15 智慧 + 已知 + 自我：我该如何去找女朋友？</h4><p></p><p>文心一言：0.5</p><p><img src=\"https://static001.geekbang.org/infoq/d3/d3ae94fc229a5f94d022d99d335dc5dd.png\" /></p><p>GPT-3.5：1</p><p><img src=\"https://static001.geekbang.org/infoq/1f/1ffa9c09f316f51a30eff3e5dd9dee9d.png\" /></p><p>GPT-4：1</p><p><img src=\"https://static001.geekbang.org/infoq/29/295290ce3865ff2c8e6dd9225e335579.png\" /></p><p></p><h3>P4 逻辑推理</h3><p></p><p>逻辑推理性能，主要是测试 AI 对于未知世界和自我的数据、信息、知识和智慧的演绎和预测能力。对应的象限是 2、6、10、14、4、8、12、16。</p><p></p><h4>2 数据 + 未知 + 世界：火星上有生命吗？</h4><p></p><p>文心一言：0.5</p><p><img src=\"https://static001.geekbang.org/infoq/14/148d17c39fa99159c014456043a4a88e.png\" /></p><p>GPT-3.5：0.5</p><p><img src=\"https://static001.geekbang.org/infoq/a6/a623876466925e48f7d2968d53dcb4bd.png\" /></p><p>GPT-4：1</p><p><img src=\"https://static001.geekbang.org/infoq/ce/ce25ab531bc141c611e3fd082d019258.png\" /></p><p></p><h4>6 信息 + 未知 + 世界：疫情以后的世界经济会好转吗？</h4><p></p><p>文心一言：0.5</p><p><img src=\"https://static001.geekbang.org/infoq/5d/5dac66d09c286273fcf664c8c22ca0e8.png\" /></p><p>GPT-3.5：0.5</p><p><img src=\"https://static001.geekbang.org/infoq/d4/d4847f52828cc532365cf5a3bd2ef66b.png\" /></p><p>GPT-4：1</p><p><img src=\"https://static001.geekbang.org/infoq/ef/ef7ec666eea9ffc2d29fb7b51d67458d.png\" /></p><p></p><h4>10 知识 + 未知 + 世界：鸡兔同笼问题</h4><p></p><p>文心一言：0.5</p><p><img src=\"https://static001.geekbang.org/infoq/f9/f91c4a3a9b4a6d69321b85913c99c786.png\" /></p><p>GPT-3.5：1</p><p><img src=\"https://static001.geekbang.org/infoq/df/dfe3cf09cbfe88187606b6e398dd3c33.png\" /></p><p>GPT-4：1</p><p><img src=\"https://static001.geekbang.org/infoq/59/59735fd69b139658922142b5792caf3a.png\" /></p><p></p><h4>14 智慧 + 未知 + 世界：未来人类应该如何处理人工智能的道德和伦理界限？</h4><p></p><p>文心一言：0.5</p><p><img src=\"https://static001.geekbang.org/infoq/fb/fb0abd1e375fe9eb7c2a2fcb77d7ae3b.png\" /></p><p>GPT-3.5：0.5</p><p><img src=\"https://static001.geekbang.org/infoq/6b/6b362803550a517d041e363b1b2272f9.png\" /></p><p>GPT-4：1</p><p><img src=\"https://static001.geekbang.org/infoq/94/94daa53f1181bf7ed6a8b876979dd98b.png\" /></p><p></p><h4>4 数据 + 未知 + 自我：我有哪些未发掘的才能？</h4><p></p><p>文心一言：0.5</p><p><img src=\"https://static001.geekbang.org/infoq/7d/7d43414fe2948ff3b334e2acb2932421.png\" /></p><p>GPT-3.5：0.5</p><p><img src=\"https://static001.geekbang.org/infoq/f2/f2d37ea8a1104f9af35042fb31270023.png\" /></p><p>GPT-4：1</p><p><img src=\"https://static001.geekbang.org/infoq/29/29e52ea3030bacd015afea55e95da3be.png\" /></p><p></p><h4>8 信息 + 未知 + 自我：我在团队中应该擅长扮演什么角色？</h4><p></p><p>文心一言：0.5</p><p><img src=\"https://static001.geekbang.org/infoq/65/659b4c592ceb51dc7d24d1d9a1303365.png\" /></p><p>GPT-3.5：1</p><p><img src=\"https://static001.geekbang.org/infoq/c0/c09f9dc8549957d0a58842ffa87d16a8.png\" /></p><p>GPT-4：1</p><p><img src=\"https://static001.geekbang.org/infoq/dd/dddece4a4b5b2b2778b7208da4274af8.png\" /></p><p></p><h4>12 知识 + 未知 + 自我：我如何找到我的人生目标？</h4><p></p><p>文心一言：0.5</p><p><img src=\"https://static001.geekbang.org/infoq/df/df012325d2d30a58d442d13eb8c270e6.png\" /></p><p>GPT-3.5：1</p><p><img src=\"https://static001.geekbang.org/infoq/18/1885b027d7ce7516fb8b67b276563be2.png\" /></p><p>GPT-4：1</p><p><img src=\"https://static001.geekbang.org/infoq/3b/3b4bebc17a8197599da9dbb3bea67422.png\" /></p><p></p><h4>16 智慧 + 未知 + 自我：我的人生是否有更高的使命或目标？</h4><p></p><p>文心一言：0.5</p><p><img src=\"https://static001.geekbang.org/infoq/c9/c90ad5e3e455c9df36c59a514585f789.png\" /></p><p>GPT-3.5：1</p><p><img src=\"https://static001.geekbang.org/infoq/69/698b240db88fb2e55f4a3813c8692e82.png\" /></p><p>GPT-4：1</p><p><img src=\"https://static001.geekbang.org/infoq/c9/c9ee7706c37e99444a2ab5621f69dc57.png\" /></p><p></p><h3>P5 代码生成</h3><p></p><p>豆茉君要求 AI：1、生成一段Python代码，用于计算斐波那契数列前1000项的和；2、你能够进一步改进这段代码吗？并说明是如何改进的，改进的效果是什么？</p><p>评价标准包括：1、是否能生成代码2、是否能得到正确答案3、计算耗时</p><p>文心一言：</p><p><img src=\"https://static001.geekbang.org/infoq/ac/ac6d46238124e725794761aefede9999.png\" /></p><p></p><p><code lang=\"null\">def&nbsp;fibonacci_sum_improved_baidu(n):&nbsp;\n&nbsp;#&nbsp;创建一个数组来存储斐波那契数列&nbsp;\n&nbsp;fib&nbsp;=&nbsp;[0]&nbsp;*&nbsp;(n&nbsp;+&nbsp;1)&nbsp;\n&nbsp;#&nbsp;第一和第二项&nbsp;\n&nbsp;fib[0]&nbsp;=&nbsp;0&nbsp;fib[1]&nbsp;=&nbsp;1&nbsp;\n&nbsp;#&nbsp;通过动态规划计算斐波那契数列的前n项&nbsp;\n&nbsp;for&nbsp;i&nbsp;in&nbsp;range(2,&nbsp;n&nbsp;+&nbsp;1):&nbsp;\n&nbsp;fib[i]&nbsp;=&nbsp;fib[i&nbsp;-&nbsp;1]&nbsp;+&nbsp;fib[i&nbsp;-&nbsp;2]&nbsp;\n&nbsp;#&nbsp;使用反向迭代计算和&nbsp;\n&nbsp;sum&nbsp;=&nbsp;fib[n]&nbsp;\n&nbsp;for&nbsp;i&nbsp;in&nbsp;range(n&nbsp;-&nbsp;1,&nbsp;-1,&nbsp;-1):&nbsp;\n&nbsp;sum&nbsp;+=&nbsp;fib[i]&nbsp;\n&nbsp;return&nbsp;sum&nbsp;\n</code></p><p>GPT-3.5：</p><p><img src=\"https://static001.geekbang.org/infoq/92/9224e29375ebe5728d23b2f56205279d.png\" /></p><p></p><p><code lang=\"null\">def&nbsp;fibonacci_sum_GPT35(n):\n&nbsp;&nbsp;&nbsp;&nbsp;fib_sequence&nbsp;=&nbsp;[0,&nbsp;1]\n&nbsp;&nbsp;&nbsp;&nbsp;for&nbsp;i&nbsp;in&nbsp;range(2,&nbsp;n):\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;next_fib&nbsp;=&nbsp;fib_sequence[i-1]&nbsp;+&nbsp;fib_sequence[i-2]\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fib_sequence.append(next_fib)\n&nbsp;&nbsp;&nbsp;&nbsp;\n&nbsp;&nbsp;&nbsp;&nbsp;return&nbsp;sum(fib_sequence)\n</code></p><p>GPT-4：</p><p><img src=\"https://static001.geekbang.org/infoq/31/31e8de3dc991e25a102128d77824ab62.png\" /></p><p></p><p><code lang=\"null\">def&nbsp;generate_fibonacci(n):\n&nbsp;&nbsp;&nbsp;&nbsp;a,&nbsp;b&nbsp;=&nbsp;0,&nbsp;1\n&nbsp;&nbsp;&nbsp;&nbsp;for&nbsp;_&nbsp;in&nbsp;range(n):\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;yield&nbsp;a\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a,&nbsp;b&nbsp;=&nbsp;b,&nbsp;a&nbsp;+&nbsp;b\n\ndef&nbsp;fibonacci_sum_GPT4(n,&nbsp;max_value=None):\n&nbsp;&nbsp;&nbsp;&nbsp;total&nbsp;=&nbsp;0\n&nbsp;&nbsp;&nbsp;&nbsp;for&nbsp;val&nbsp;in&nbsp;generate_fibonacci(n):\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if&nbsp;max_value&nbsp;is&nbsp;not&nbsp;None&nbsp;and&nbsp;val&nbsp;&gt;&nbsp;max_value:\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;print(f\"Reached&nbsp;max_value&nbsp;at&nbsp;{val},&nbsp;stopping&nbsp;early.\")\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;break\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;total&nbsp;+=&nbsp;val\n&nbsp;&nbsp;&nbsp;&nbsp;return&nbsp;total\n</code></p><p>运行结果是：</p><p><img src=\"https://static001.geekbang.org/infoq/e6/e6b721a7ad9fc4d5a55d12ba4e07f7f0.png\" /></p><p>结论是：</p><p>1、它们都生成了代码；2、运行以后，文心一言代码运行的答案居然是错的，GPT3.5 和 GPT-4 是对的；3、运行的都是优化后的代码，计算耗时文心一言最长，GPT-3.5 其次，GPT-4 最短。</p><p></p><h3>P6 数据分析</h3><p></p><p>通过对数据的清洗、整理和可视化，发现数据中的信息，从而解读出知识。</p><p>文心一言：</p><p>打开文心一言的官方插件：E言易图。然后可以让它把对话中谈到的数据进行可视化。比如，豆茉君让文心一言查询了最新的人口数量前20名的国家，并让他作个图出来。可以看到，完成得不错。不过，文心一言暂时不支持上传本地的数据文件。</p><p><img src=\"https://static001.geekbang.org/infoq/5d/5dae298502a48bf730050ce2858f7e9b.png\" /></p><p>GPT-3.5</p><p>对于同样的要求，GPT-3.5 表示只能生成代码，不能直接给出可视化。</p><p><img src=\"https://static001.geekbang.org/infoq/5d/5d4e3e90be4e23295cca907bde89cd32.png\" /></p><p>GPT-4：</p><p>同理，GPT-4 不开插件是实现不了的。</p><p><img src=\"https://static001.geekbang.org/infoq/34/349650f8c8afbfc2319dc8534972dafb.png\" /></p><p>GPT-4 选择 Advanced Data Analysis ( ADA ) 模式：</p><p>我上传了一个几十户的用电功率，5分钟颗粒度，整整一个月的数据。让它帮我进行可视化处理，完成得很好，完全理解我用自然语言简单给到它的想法。我还让它按照《经济学人》杂志美化了一下图表。这个 ADA 确实非常强大。</p><p><img src=\"https://static001.geekbang.org/infoq/8e/8e74d73cf12ea6be60fcb12b1e5d48c0.png\" /></p><p>需要注意的是，在 ADA 模式下，有两套环境：一个是对话环境，一个是程序运行环境，两者是独立运行的，互不干扰。</p><p></p><h3>P7 多模支持</h3><p></p><p>所谓多模，意思就是可以文生图、图生文，其他模态还有声音、视频等。</p><p>文心一言：</p><p>目前，文心一言是可以实现文生图和图生文的。</p><p>我让文心一言画个小女孩等妈妈的图片。我也测试过改变图像尺寸和比例，暂时都不支持。从生成的图片看，基本满足我对小朋友的外貌描述。</p><p><img src=\"https://static001.geekbang.org/infoq/b3/b37900edcee44dbca36b55dd1bee73f9.png\" /></p><p>但是跟 midjourney 或者 stable diffusion 比，暂时还是差很多。比如豆茉君画的这张人像（Stable Diffusion 1.5, majicMIX realistic 模型）：</p><p><img src=\"https://static001.geekbang.org/infoq/6f/6f9c6286077399752fcb5b3f07ca501b.png\" /></p><p>另外，我还上传了一张他信回国在机场出来被警察带走的照片。文心一言识别出了政府官员、警察、泰国这些信息。可能是通过我的图片名称来解析的，我的图片名称是“他信被捕.jpg”。</p><p><img src=\"https://static001.geekbang.org/infoq/2d/2dc51c4c6bf41b5c39694e4eabe650aa.png\" /></p><p>GPT-3.5 和 GPT-4 暂时都不支持多模态。</p><p></p><h2>D. 开发友好 Development</h2><p></p><p>一个公司再强大，也不可能独立做好一个行业，服务数以千万计的用户。开发者作为信息时代的创作者，是非常关键的存在。在开源社区和开发工具的发展下，当代的开发者一个人就能做一个很细分的产品，这早已不是什么难事。更何况，进入到 AI 时代，出现了一种用自然语言编程的开发者（提示词工程师）。照这个趋势发展下去，以后只要你会说话写字，用人类自然语言编程的时代很快就会到来。</p><p>所以，如何创立和维护一个富有活力、公开、公平、共同致富的开发者生态，对于 任何 AI 时代创新领导者公司来说，都是必须的。</p><p></p><h3>D1 开放接口</h3><p></p><p>API 是信息时代高速公路的闸道，它用来把各式各样的软件应用连接起来。有了公开的 API 文档，开发者们可以把各种东西集成起来，创造性地弄出很多产品服务细分到毛细的需求。</p><p>百度智能云千帆大模型平台上有丰富的内容，这里不展开了。</p><p><img src=\"https://static001.geekbang.org/infoq/7d/7d281ac130d83656bb60e67e0f327342.png\" /></p><p>而 OpenAI 的 GPT 产品，除了依托微软 Azure 云提供各种 API 以外，官方也有 API 服务、定价和丰富的文档。这里也不展开了。</p><p><img src=\"https://static001.geekbang.org/infoq/1f/1f3f5d9cb8c54e127b902af261999e63.png\" /></p><p></p><h3>D2 插件生态</h3><p></p><p>使用 ChatGPT，GPT-4 的官方插件市场和基于浏览器的插件（Chrome、油猴）能够极大的拓展产品功能，这种提升有的时候是飞跃式的。因此，插件至关重要。</p><p><img src=\"https://static001.geekbang.org/infoq/01/0152f4bab4d44da3d3964e712bd04504.png\" /></p><p>可喜的是，百度文心一言已经开始了自己的插件市场和生态的搭建。只要填写一个材料，就可以申请参加插件开发。</p><p><img src=\"https://static001.geekbang.org/infoq/11/11a2ad10e762fd0d9ac6f78ab9544a76.png\" /></p><p></p><p><img src=\"https://static001.geekbang.org/infoq/ce/cea8a9512fbfb88fa11f80b08bee367e.png\" /></p><p></p><p><img src=\"https://static001.geekbang.org/infoq/63/636972edeabccf414defd6dc44b279a7.png\" /></p><p></p><h3>D3 指令微调 Fine Tuning</h3><p></p><p>所谓指令微调，就是训练属于特定行业、特定群体、特定目的小模型，任务以大语言模型为基底，配上自己训练的小模型，可以根据细分场景针对性地提高产出效果。</p><p>用过 Stable Diffusion 画图的人都知道 LoRA，即基于某一个大模型，然后使用这些微调的 LoRA 来实现高针对性的特定效果。指令微调跟 LoRA 就是一样的。</p><p>百度的</p><p><img src=\"https://static001.geekbang.org/infoq/e3/e372a0e53b7634a388196af9b40221c8.png\" /></p><p>而 OpenAI 是在 2023年8月22日 开放 GPT-3.5 指令微调的，也预告说今年秋天会开发 GPT-4 的指令微调：</p><p><img src=\"https://static001.geekbang.org/infoq/d4/d4dcddbe523ef808aaef2e8108d4b4eb.png\" /></p><p>价格如下，比通用 API 服务价格要贵不少：</p><p><img src=\"https://static001.geekbang.org/infoq/47/477ae2916a4cef3cfab76fc712525ab5.png\" /></p><p></p><h3>D4 复杂提示词</h3><p></p><p>大家可能都听说过，出现了一种新职业叫“提示词工程师”，这个职业就是专注于如何用自然语言写出复杂的提示词（相对于一句话的问题来说），从而挖掘出大语言模型的潜力，同时测试和保证模型输出的正确性和鲁棒性。</p><p>当然，提示词工程师也可以写代码，不过对于普通人来说，使用自然语言编写复杂的提示词更容易上手，也更容易使用，因为只要在对话框中进行开发、测试和运行就行了，不用碰半点代码。</p><p>因此，对自然语言编码的支持，是非常重要的，这对于用自然语言进行编程的用户来说是非常友好的。</p><p>所以，豆茉君增加了一个部分，即对标比较复杂提示词的运行结果。豆茉君选择的一段提示词，是上个月参加 FlowGPT 游戏提示词大赛作品的中文版。</p><p><img src=\"https://static001.geekbang.org/infoq/a3/a3ca601e99691951d4a4af423b0e010c.png\" /></p><p>大家可以直接到 FlowGPT 上访问并运行：https://flowgpt.com/p/ow9PInkg5M2Pkw1wkvzuA</p><p>豆茉君也把提示词分享出来，获取地址：https://www.doumoman.site/blog/prompt_gamemaster</p><p>这个提示词实现了文字版的角色扮演游戏，妙处在于每次的对话和用户的行为选择共同决定了下面剧情的走向，而这一切完全是随机而且有逻辑的，像是实时创作一部冒险小说。</p><p><img src=\"https://static001.geekbang.org/infoq/80/80f88949c8fc6f94fa559ab56ff44fc4.png\" /></p><p>由于篇幅太长，这里就不截图了，直接说结论：</p><p>文心一言：无法持续按照要求输出对话内容，到了一半就忘了提示词的要求，导致游戏无法继续；</p><p>GPT-3.5：可以进行游戏，但是不是每次都能完全理解所有的要素要求，比如经常忘记给可能的行动计算影响值；</p><p>GPT-4：可以正常游戏，非常好。</p><p></p><h2>结语</h2><p></p><p>好了，终于，豆茉君完成了这篇评测。至此，文心一言对比 ChatGPT 的全面评测就结束了。让我们总结一下结论：</p><p><img src=\"https://static001.geekbang.org/infoq/02/02d57c8c545c89adeb06bf22323aa053.png\" /></p><p>结论1：在A.获取条件和F.功能体验两个方面，都完胜 ChatGPT，让豆茉君看到了百度作为国内大厂，在应用侧产品功能研发的投入，文心一言有着成为国内 AI 超级应用的潜质。</p><p>结论2：在D.开发友好方面，百度也正在打造一个开放的开发者生态社区，这是一个非常好的开始。苹果时代的 app store 教育大家，谁建立了应用平台，谁就能制定游戏规则，让广大的开发者在平台共生共赢共同富裕。</p><p>结论3：在P.性能表现方面，必须看到目前的文心一言和 ChatGPT 3.5 还有这一段差距，更不要提 GPT-4 了。但是，在豆茉君看来，如果百度包括国内大厂，能够奋起直追，保持今天的干劲，一步步拉小差距也只是时间问题。</p><p>结论4：在D4.复杂提示词方面，豆茉君确实没有想到文心一言有着比较大的差距，用自然语言编程写提示词与大语言模型应用交互，这极大地降低了深度使用模型的难度，这应该也是直接影响到深度爱好者体验的关键点。</p><p>如果觉得这篇评测对你有用，请给豆茉君点赞、关注和转发。</p><p>-（全文完）-</p>",
+    "publish_time": "2023-09-15 09:53:38",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "Unity has seemingly silently removed its GitHub repo that tracks ToS changes",
+    "url": "https://www.gamerbraves.com/unity-silently-deletes-github-repo-that-tracks-terms-of-service-changes-and-updated-its-license/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37516523\">Comments</a>",
+    "publish_time": "2023-09-15 08:10:07",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "TSA officers accused of stealing from passengers",
+    "url": "https://www.nbcmiami.com/news/local/new-surveillance-footage-shows-miami-tsa-officers-accused-of-stealing-from-passengers/3109762/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37517473\">Comments</a>",
+    "publish_time": "2023-09-15 10:20:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "B612 Font Family",
+    "url": "https://b612-font.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37517567\">Comments</a>",
+    "publish_time": "2023-09-15 10:33:03",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
