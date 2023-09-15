@@ -86,5 +86,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "iPhone 15 使用 USB 2.0 的原因",
+    "url": "https://www.v2ex.com/t/974024",
+    "summary": "Aurora0: <ul>\n<li>\n<p><a href=\"https://www.pcgamer.com/apple-finally-put-usb-c-in-the-new-iphone-but-its-inexplicably-limited-to-23-year-old-usb-20-speeds/\" rel=\"nofollow\">原文连接</a></p>\n</li>\n<li>\n<p>原文: Exactly how Apple is implementing USB on the cheaper handset isn't clear. However, the fact it's limited to USB 2.0 speeds, and that the legacy Lightning interface likewise tops out at the same 480Mbps, makes sense in the context of the absent USB controller. Very likely, there's some kind of conversion going on between the new USB-C connector and the old Lightning controller, limiting the former to the latter's peak bandwidth.</p>\n</li>\n<li>\n<p>翻译: 苹果究竟是如何在更便宜的手机上实现 USB 的尚不清楚。然而，它仅限于 USB 2.0 速度，并且传统的 Lightning 接口同样以相同的 480Mbps 达到最高，在没有 USB 控制器的情况下是有意义的。很可能，新的 USB-C 连接器和旧的 Lightning 控制器之间正在进行某种转换，将前者限制为后者的峰值带宽。</p>\n</li>\n<li>\n<p>感觉可能主要是芯片原因导致的,明年 16 应该就是 USB 3.0 的传输速度了</p>\n</li>\n</ul>",
+    "publish_time": "2023-09-15 11:25:14",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "联通宽带电话回访服务评价选了个[一般]，然后接连接到三个师傅电话",
+    "url": "https://www.v2ex.com/t/974122",
+    "summary": "fancy2020: 前几天家里网断了，打客服被告知是楼栋的网络设备坏了，过了一个多小时后修好。 <br /> <br />然后过了一两天 10012 来了回访电话，让选服务评价，一共三个：非常满意、一般、不满意。<br /><br />因为维修时间我觉得有点长了，所以就选了个“一般”。<br /><br />结果第二天来了个电话，好像是区域营业部啥的一个小领导，详细询问咋回事，为啥选一般等等。我就解释时间有点长，其他没啥。<br /><br />然后过了一天，又来个电话，是维修工人的，说因为我这个评价要扣他 2000 块钱，还说要上门让我签个单子，我拒绝了。<br /><br />今天又又又来个电话，是当时给我装宽带的师傅。问我前几天网络故障修好了吗，我说好了，他说要上门给我测个网速。我一听就知道咋回事了，我说上次是外面设备坏了，和我家里有啥关系？他又说怕外面设备会影响家里。我说我自己会测速，用不着你们来测。<br />然后，这哥们绕了这么一圈之后才回到正题，还是说要上门让我签个单子。  <br /><br />我就挺反感的，跟他讲了一下我就是按我实际的感受选了个一般，而且还没到差评，你们就算扣钱你也应该去找你老板说，我作为客户只是履行评价的权利。 <br /><br />说到最后，就说以后来了这种电话别接了，我说好吧，我也懒得麻烦。<br /><br /><br /><br />怎么说呢，一言难尽。。",
+    "publish_time": "2023-09-15 15:14:35",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
