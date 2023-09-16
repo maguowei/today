@@ -20,5 +20,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "我感觉自己是个躺平的人，所以我佩服很多人",
+    "url": "https://www.v2ex.com/t/974340",
+    "summary": "chniccs: <p>日常上班就是，能推的工作，我会全力推掉，不能推的工作也会找各种理由来让别人去做，自己就安心划水。虽然过的不充实，钱也不会再多了，但是确实蛮舒服的。不知道我现在这种状态是什么时候开始的，记得当初刚刚毕业工作时，也是很努力上进的，会主动学习，也会努力去改进项目代码。现在就是啥都凑合用就行了，哈哈。</p>\n<p>但最近华为 mate60 出来，虽然我用的小米，但是真的有被触动。这几年我以为华为在手机领域可能已经 G 了，毕竟在我的认知里这被制裁的太狠了，无路可走了已经。想不到背后还一直有人在迎难而上，真的蛮佩服的。</p>",
+    "publish_time": "2023-09-16 10:21:48",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "fsantinize 弱智",
+    "url": "https://www.v2ex.com/t/974343",
+    "summary": "zzzkkk: <p>fsantinize 还没智能到那种程度 简直给码农添加负担\n给一个静态字符数组前面添加几个空格都会报错</p>\n<p>请看</p>\n<p>图 1</p>\n<p><img alt=\"图 1\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/YO3GiJP.png\" /></p>\n<p>图 2</p>\n<p><img alt=\"图 2\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/9kdUZ0F.png\" /></p>\n<p>图 3</p>\n<p><img alt=\"图 3\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/y9qhsYQ.png\" /></p>\n<p>编译时报图 3 的错误 运行就报\n==1856626==ERROR: AddressSanitizer: stack-buffer-overflow on address 0x7fff15ef59e9 at pc 0x55d429175340 bp 0x7fff15ef5940 sp 0x7fff15ef5938</p>",
+    "publish_time": "2023-09-16 10:35:49",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "ProductHunt 点赞送 $19.99 永久会员。v0.dev： Vercel 刚刚发布的 AI 生成 web UI 的工具，跟我做的 Chrome 插件 WindChat 异曲同工呀。",
+    "url": "https://www.v2ex.com/t/974403",
+    "summary": "WooodHead: <p>刚刚去 v0.dev 相关的 twitter 帖子后面跟帖了一下，希望能蹭到一点流量。</p>\n<p>v0.dev 实现了选择部分网页组件，写 prompt 修改，跟我一个月前的想法一摸一样。当时冒出这个想法激动了半天，感觉是个大生意，但是感觉工作量挺大，就先加到了我的小本本上。没想到这么快就被 vercel 实现了出来。有种突然站上了风口的错觉。</p>\n<p>着急忙慌的去 ProductHunt 发布了下产品，还请小伙伴们帮忙点个赞，点赞了的同学回帖告诉我邮箱，我把永久会员给你加上，价值 $19.99 哟，感谢感谢🙏。</p>\n<p>目前线上的版本可以预览 HTML 和 Tailwindcss ，预览 React 代码的版本正在搞，还没发布。</p>\n<h2>点赞链接</h2>\n<p><a href=\"https://www.producthunt.com/posts/windchat\" rel=\"nofollow\">ProductHunt 点赞链接 https://www.producthunt.com/posts/windchat</a></p>\n<p><a href=\"https://www.windchat.link/\" rel=\"nofollow\">这是我做的 Chrome 插件 https://www.windchat.link</a></p>\n<p><a href=\"https://v0.dev/\" rel=\"nofollow\">https://v0.dev</a></p>\n<p>自己做产品的同学可以参考一下我之前发的个人开发者收款帖子，推荐用 LemonSqueezy</p>\n<p><a href=\"https://www.v2ex.com/t/801035#reply96\" rel=\"nofollow\">https://www.v2ex.com/t/801035#reply96</a></p>\n<h2>预览 HTML Tailwindcss 代码</h2>\n<p><img alt=\"windchat\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://www.windchat.link/_next/image?url=https%3A%2F%2Fimg.windchat.link%2Fwindchat%2Fwindchat-screenshot-1600.webp%3Fq%3D70%26w%3D1200&amp;w=3840&amp;q=75\" /></p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://www.windchat.link/_next/image?url=%2Fform2.gif&amp;w=3840&amp;q=75\" /></p>\n<h2>预览 React 代码</h2>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://imgur.com/asswdSp.png\" /></p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://imgur.com/H4S5MMH.png\" /></p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://imgur.com/sy698dk.png\" /></p>\n<h2>v0.dev 支持修改部分组件</h2>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://imgur.com/KSB7lgI.png\" /></p>\n<h2>相关 twitter</h2>\n<p>一些相关的 twitter 帖子。</p>\n<p><a href=\"https://twitter.com/vercel/status/1702351846445080953\" rel=\"nofollow\">https://twitter.com/vercel/status/1702351846445080953</a>\n<a href=\"https://twitter.com/Barret_China/status/1702491422564470880\" rel=\"nofollow\">https://twitter.com/Barret_China/status/1702491422564470880</a>\n<a href=\"https://twitter.com/dotey/status/1702364189497442649\" rel=\"nofollow\">https://twitter.com/dotey/status/1702364189497442649</a></p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://imgur.com/XZkM0gQ.png\" /></p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://imgur.com/7Fl8sEW.png\" /></p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://imgur.com/wr3bB3u.png\" /></p>",
+    "publish_time": "2023-09-16 15:57:45",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
