@@ -1,0 +1,24 @@
+[
+  {
+    "title": "你为什么买 iPhone ？",
+    "url": "https://www.v2ex.com/t/974294",
+    "summary": "Gesar: <p>近几年 iphone 提升都很小，外观也没大的变化，而且前几代性能还够用，在参数上 iPhone 比不过其他品牌手机，无论是续航价格还有信号，一半价格就能买到远超 iPhone 配置的手机。今年看到了很多从其他品牌换到苹果的人，我想问问为什么要换 iPhone ？换成 iPhone 之后有什么不同的体验吗？</p>",
+    "publish_time": "2023-09-16 00:10:25",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "请问一个新设计的程序语言，是选择 camelCase 好，还是先择 snake_case 好？",
+    "url": "https://www.v2ex.com/t/974361",
+    "summary": "xieyuheng: 大家可能要笑了，这也算问题？<br /><br />但是其实我是很严肃地在考虑这个问题的。<br />因为尽管在写代码的时候，用户可以做出选择，<br />但在语言的文档和标准库中，还是要选择一种命名规范的。<br />而做这种选择对我来说是很艰难的。<br /><br />我说的 “新设计的程序语言” 具体是这个： <a href=\"https://github.com/cicada-lang/inet\" rel=\"nofollow noopener\" target=\"_blank\">https://github.com/cicada-lang/inet</a><br /><br />我刚刚用一个 commit 把 snake_case 改成了 camelCase：<br /><br /><a href=\"https://github.com/cicada-lang/inet/commit/7625a8ad5f87da1ab9c4fd231fc8142ca8900d79\" rel=\"nofollow noopener\" target=\"_blank\">https://github.com/cicada-lang/inet/commit/7625a8ad5f87da1ab9c4fd231fc8142ca8900d79</a><br /><br />但是我不确定这样做是 “正确的”。<br /><br />我能想到的，选择 camelCase 的理由：<br /><br />（ 1 ）语言已经选择使用 BigCamelCase 作为类型的命名规则了，比如 `DiffList`，<br />此时如何想要一个变量，直接在这个类型名字前面加上变量的前缀就好了，比如 `emptyDiffList`，<br />如果用 snake_case ，就需要编辑类型名，而写成 `empty_diff_list`。<br /><br />（ 2 ）这个语言目前是用 JavaScript/TypeScript 实现的，而 JavaScript 用的是 camelCase 。<br />并且未来想要用 Zig 再实现一遍，而 Zig 用的也是 camelCase 。<br /><br />我能想到的，选择 snake_case 的理由：<br /><br />（ 1 ） snake_case 我个人认为，确实好读一些。<br /><br />希望大家能给出一些建议。",
+    "publish_time": "2023-09-16 12:16:12",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  }
+]
