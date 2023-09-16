@@ -1229,5 +1229,76 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "养狗人的大型社死现场",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%BB%E7%8B%97%E4%BA%BA%E7%9A%84%E5%A4%A7%E5%9E%8B%E7%A4%BE%E6%AD%BB%E7%8E%B0%E5%9C%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "傅云深出车祸",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%82%85%E4%BA%91%E6%B7%B1%E5%87%BA%E8%BD%A6%E7%A5%B8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "周深用歌声点亮人间星河",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E7%94%A8%E6%AD%8C%E5%A3%B0%E7%82%B9%E4%BA%AE%E4%BA%BA%E9%97%B4%E6%98%9F%E6%B2%B3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Cache line alignment in C++ – How it makes your program faster",
+    "url": "https://ryonaldteofilo.medium.com/cache-line-alignment-in-c-1aac85e4482f",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37537584\">Comments</a>",
+    "publish_time": "2023-09-17 02:59:57",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The database servers powering Let's Encrypt (2021)",
+    "url": "https://letsencrypt.org/2021/01/21/next-gen-database-servers.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37536103\">Comments</a>",
+    "publish_time": "2023-09-17 00:16:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Don't be afraid to be wrong",
+    "url": "https://nlopes.dev/writing/dont-be-afraid-to-be-wrong",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37537443\">Comments</a>",
+    "publish_time": "2023-09-17 02:44:26",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Running one’s own root Certificate Authority in 2023",
+    "url": "https://wejn.org/2023/09/running-ones-own-root-certificate-authority-in-2023/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37537689\">Comments</a>",
+    "publish_time": "2023-09-17 03:07:55",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
