@@ -511,5 +511,50 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "金博洋分数",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E5%8D%9A%E6%B4%8B%E5%88%86%E6%95%B0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "万茜你好疯子",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%87%E8%8C%9C%E4%BD%A0%E5%A5%BD%E7%96%AF%E5%AD%90%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "张柏芝从香港坐高铁到郴州",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9F%8F%E8%8A%9D%E4%BB%8E%E9%A6%99%E6%B8%AF%E5%9D%90%E9%AB%98%E9%93%81%E5%88%B0%E9%83%B4%E5%B7%9E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "BLACKPINK首尔安可",
+    "url": "https://s.weibo.com/weibo?q=%23BLACKPINK%E9%A6%96%E5%B0%94%E5%AE%89%E5%8F%AF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "虞书欣为云为衫跳了一支舞",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%B8%BA%E4%BA%91%E4%B8%BA%E8%A1%AB%E8%B7%B3%E4%BA%86%E4%B8%80%E6%94%AF%E8%88%9E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
