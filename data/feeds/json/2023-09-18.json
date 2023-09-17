@@ -1609,5 +1609,43 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "不要小看一年级小学生的胜负心",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%B0%8F%E7%9C%8B%E4%B8%80%E5%B9%B4%E7%BA%A7%E5%B0%8F%E5%AD%A6%E7%94%9F%E7%9A%84%E8%83%9C%E8%B4%9F%E5%BF%83%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "医生一眼认出9旬患者相拥落泪",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E4%B8%80%E7%9C%BC%E8%AE%A4%E5%87%BA9%E6%97%AC%E6%82%A3%E8%80%85%E7%9B%B8%E6%8B%A5%E8%90%BD%E6%B3%AA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何评价《原神》枫丹角色大部分都围绕「生命值降低」来设计？",
+    "url": "https://www.zhihu.com/question/622299643",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Geographic ‘hot spots’ for cigarette and firearm deaths in the U.S.",
+    "url": "https://www.fau.edu/newsdesk/articles/geographic-hot-spots-firearms-smoking.php",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37549480\">Comments</a>",
+    "publish_time": "2023-09-18 05:23:26",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
