@@ -20,5 +20,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "我用以下方法证明了 如果用 homebrew 装软件，就卸载不干净了？",
+    "url": "https://www.v2ex.com/t/974517",
+    "summary": "zzz6519003: <p>用 brew 安装 qq 音乐(brew install qqmusic)，登陆账号</p>\n<p>删除 qq 音乐</p>\n<p>重新安装 qq 音乐</p>\n<p>你会发现你的 qq 音乐依然是登陆后的状态</p>",
+    "publish_time": "2023-09-17 09:36:00",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
