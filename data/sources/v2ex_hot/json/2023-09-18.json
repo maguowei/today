@@ -9,5 +9,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "亲手造成的运维事故：在 Live CD 环境下部署并运行了 8 个月",
+    "url": "https://www.v2ex.com/t/974678",
+    "summary": "oblivion: 前情提要：今年春节时去部署了一套内部系统，访问量不大，加上临近春节协调资源难，就先单机部署了，<br />对方提供的是 H3C 的物理机，准备安装 Ubuntu 系统，对运维要求带桌面安装，<br />中途被电话打断，回到机器旁边看到已经在 Ubuntu 桌面了以为对方运维帮装好了，<br />于是直接部署好了我们的系统，测试没问题就离开了，后面也一直相安无事，没出过什么问题。<br /><br />直到昨天晚上组里同事去给他们更新部署，由于各种巧合提示磁盘空间不足，于是各种操作后给重启了机器，<br />发现.....进 Live CD 桌面，目录是空的，重启弹出光盘，提示找不到启动磁盘，<br />通宵一夜后就在刚刚给我打来了电话，我：？？？？<br />各种记忆恢复术后想起来，当时 Ubuntu 压根就没装进硬盘啊？<br /><br />由于是单机部署，暂时没想到能恢复数据的方法...",
+    "publish_time": "2023-09-18 07:25:17",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "iPhone 14 Pro 和 iPhone 15 怎么选",
+    "url": "https://www.v2ex.com/t/974702",
+    "summary": "MicroG: <p>如题，准备给女票把用了好几年的 K20Pro 至尊纪念版换了，考虑 iPhone15 基础版的时候觉得芯片一样、14pro 还有高刷，影像系统也好一点，都有灵动岛，14pro 同存储版本基本只贵 1k ，但是又有点买新不买旧的心理，求大家帮忙分析</p>",
+    "publish_time": "2023-09-18 09:25:19",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
