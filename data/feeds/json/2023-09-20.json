@@ -1735,5 +1735,47 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "马伯庸 隔壁坐了个中国人民的老朋友",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BC%AF%E5%BA%B8+%E9%9A%94%E5%A3%81%E5%9D%90%E4%BA%86%E4%B8%AA%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E7%9A%84%E8%80%81%E6%9C%8B%E5%8F%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "美股三大指数收盘集体下跌，蔚来跌超17%",
+    "url": "https://www.36kr.com/newsflashes/2439444221055622",
+    "summary": "36氪获悉，19日收盘，美股三大指数收盘集体下跌，纳指跌0.23%，道指跌0.31%，标普500指数跌0.22%。大型科技股涨跌不一，Meta涨0.83%，苹果涨0.62%，特斯拉、Netflix涨0.46%，亚马逊跌超1%，谷歌、微软小幅下跌。热门中概股多数下跌，蔚来跌超17%，小鹏汽车跌超5%，理想汽车跌超3%，百度、京东、拼多多跌超1%。",
+    "publish_time": "2023-09-20 07:00:31",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "How do shared library collisions break? (2022)",
+    "url": "https://trofi.github.io/posts/248-how-do-shared-library-collisions-break.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37573045\">Comments</a>",
+    "publish_time": "2023-09-20 01:12:36",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Webring Technology",
+    "url": "https://brisray.com/web/webring-tech.htm",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37577861\">Comments</a>",
+    "publish_time": "2023-09-20 06:28:19",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
