@@ -31,5 +31,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "WSL2 今天史诗级更新",
+    "url": "https://www.v2ex.com/t/975098",
+    "summary": "hez2010: <p>今天 WSL2 更新了 2.0.0 版本，详细更新内容见： <a href=\"https://github.com/microsoft/WSL/releases/tag/2.0.0\" rel=\"nofollow\">https://github.com/microsoft/WSL/releases/tag/2.0.0</a></p>\n<p>总结一下主要是：</p>\n<ol>\n<li>支持自动回收内存</li>\n<li>支持自动释放 WSL2 虚拟硬盘空间</li>\n<li>支持和 Windows 使用相同的网络（镜像网络）</li>\n<li>支持 DNS Tunneling</li>\n<li>支持 Windows 设置的代理</li>\n<li>支持 Windows 防火墙</li>\n<li>支持 Multicast</li>\n</ol>\n<p>需要至少 Windows 11 23H2 ，目前还没有发布正式版本，不过可以考虑加入 Insider 的 Release Preview 或者 Beta 通道，更新系统之后运行 <code>wsl --update --pre-release</code> 升级 WSL ，然后就可以在 <code>%userprofile%\\.wslconfig</code> 里面设置以下内容：</p>\n<pre><code class=\"language-ini\">[experimental]\nautoMemoryReclaim=gradual # 可以在 gradual 、dropcache 、disabled 之间选择\nnetworkingMode=mirrored\ndnsTunneling=true\nfirewall=true\nautoProxy=true\n</code></pre>\n<p>然后你会发现，WSL2 和 Windows 主机的网络互通而且 IP 地址相同了，还支持 IPv6 了，并且从外部（比如局域网）可以同时访问 WSL2 和 Windows 的网络。这波升级彻底带回以前 WSL1 那时候的无缝网络体验了，并且 Windows 防火墙也能过滤 WSL 里的包了，再也不需要什么桥接网卡、端口转发之类的操作了。</p>",
+    "publish_time": "2023-09-19 10:28:03",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "今年房价大家怎么看",
+    "url": "https://www.v2ex.com/t/975102",
+    "summary": "brader: 想买广州增城的。<br />国庆可以下手了吗？大家觉得还会大跌吗？还是说需要继续观望",
+    "publish_time": "2023-09-19 10:37:19",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
