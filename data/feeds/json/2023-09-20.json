@@ -1303,5 +1303,63 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "装备党的快乐谁懂",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%A3%85%E5%A4%87%E5%85%9A%E7%9A%84%E5%BF%AB%E4%B9%90%E8%B0%81%E6%87%82%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "现实中是否存在概率为零的事件？",
+    "url": "https://www.zhihu.com/question/554764009",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价微软执行副总裁潘诺斯・帕奈（Panos Panay）近日宣布将从微软离职？",
+    "url": "https://www.zhihu.com/question/622676822",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "《长相思》中，假如相柳被神秘的鬼方氏复活，那相柳还会去找小夭再续前缘吗？",
+    "url": "https://www.zhihu.com/question/622712263",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Agentscript: Agent Based Modeling in the Browser",
+    "url": "https://agentscript.org/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37573948\">Comments</a>",
+    "publish_time": "2023-09-20 02:16:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "MariaDB to be acquired by Runa Cap?",
+    "url": "https://investors.mariadb.com/news/news-details/2023/Announcement-Regarding-Possible-Offer/default.aspx",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37573999\">Comments</a>",
+    "publish_time": "2023-09-20 02:21:07",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
