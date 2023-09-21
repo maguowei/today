@@ -1716,5 +1716,85 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "难怪大张伟是才子",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9A%BE%E6%80%AA%E5%A4%A7%E5%BC%A0%E4%BC%9F%E6%98%AF%E6%89%8D%E5%AD%90%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "回家给父母买了很多东西，他们总觉得我在浪费钱，要以什么方式才能让父母接受我对他们的好？",
+    "url": "https://www.zhihu.com/question/621684303",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "上海AI实验室开源书生·浦语200亿参数大模型，并于阿里云魔搭社区首发，将对大模型生态带来哪些影响？",
+    "url": "https://www.zhihu.com/question/623084159",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价英伟达推出的 DLSS3.5 显卡?",
+    "url": "https://www.zhihu.com/question/618638060",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Volvo to cease production of diesel cars in a few months",
+    "url": "https://www.reuters.com/business/autos-transportation/volvo-end-diesel-car-production-by-early-2024-2023-09-19/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37603769\">Comments</a>",
+    "publish_time": "2023-09-22 04:24:24",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ancient tools thought to be made by humans were made by monkeys: archaeologists",
+    "url": "https://news.artnet.com/art-world/ancient-tools-monkeys-2237820",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37602759\">Comments</a>",
+    "publish_time": "2023-09-22 03:21:47",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Android 14 adds support for using your smartphone as a webcam",
+    "url": "https://www.esper.io/blog/android-14-adds-support-for-using-your-smartphone-as-a-webcam",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37603467\">Comments</a>",
+    "publish_time": "2023-09-22 04:04:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "AMPKT – Amateur radio packet explorer",
+    "url": "https://github.com/hexagonal-sun/ampkt",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37603748\">Comments</a>",
+    "publish_time": "2023-09-22 04:23:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
