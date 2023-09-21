@@ -31,5 +31,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "求 postman 的替代品， Windows 系统",
+    "url": "https://www.v2ex.com/t/975795",
+    "summary": "itechnology: <p>今天打开 postman ，竟然提示需要登录，之前可以跳过的，今天不行了，不登录的话，说是会限制功能。我采用不登录的方式进去，结果之前保存的 collection 全没了，没办法，我老老实实的注册账号，但是登录进去后，之前未登录时保存的 collection 依然没有了。。。</p>\n<p>基于以上问题，我决定换一个，没什么要求，满足日常测试用，需要登录也行，但不要出现 postman 这种骚操作。</p>",
+    "publish_time": "2023-09-21 10:53:15",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
