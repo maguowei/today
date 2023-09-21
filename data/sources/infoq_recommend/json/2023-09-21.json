@@ -1,0 +1,13 @@
+[
+  {
+    "title": "AI产品开发：技术、市场和道德的挑战",
+    "url": "https://www.infoq.cn/article/Patg3GdLAcYQP4Dw26RW",
+    "summary": "<p>开发人工智能（AI）产品涉及创建模型、输入数据以训练模型、测试模型以及部署模型。软件工程师可以通过建立对人工智能和机器学习（ML）技术的理解、鼓励实验以及确保遵循法规和道德标准，为公司采用人工智能和机器学习（ML）提供支持。</p><p>&nbsp;</p><p>Zorina Alliata在<a href=\"https://www.oop-konferenz.de/\">OOP 2023 Digital</a>\"会议上谈到了人工智能产品的开发。</p><p>&nbsp;</p><p>Alliata说到，要创建预测软件或推荐引擎等人工智能产品，我们必须根据历史数据中的模式创建模型。为了开发这些模型，我们会使用不同于常规软件开发的技术。例如，在分析数据时，会有很多未知因素、迭代过程和谜题。</p><p>&nbsp;</p><p>按照Alliata的说法，机器学习过程要基于如下的步骤：</p><p></p><blockquote>输入数据到算法中利用这些数据训练模型测试和部署模型利用已部署的模型执行自动预测任务</blockquote><p></p><p>&nbsp;</p><p>Alliata认为，数据极其重要。算法需要大量的数据来学习模式。她说，光是拥有足够的数据、干净的数据、公平可信的数据，就是一个全新的处理水准，我们过去从来没有做到这种程度。</p><p>&nbsp;</p><p>Alliata提到，产品开发的结果，也就是模型，是一系列在数据海洋中识别各种信息的算法，大多数时候，数据科学家必须要尝试多种算法，看看哪种算法在每个用例中的效果最好。这就引入了迭代和尝试各种方法的需求，因此团队领导必须明白，他们需要在建模阶段留出足够的时间。</p><p>&nbsp;</p><p>Alliata说，人工智能产品交付后，还需要持续的维护和监控，以确保它在模式可能发生变化时仍能发挥最佳效果，有时，模型需要重新训练，以便从消费者提供的最新数据以及自身行为和性能的反馈中进行学习。</p><p>&nbsp;</p><p>Alliata说，软件工程师可以通过了解这些新技术及其具体的挑战，为公司采用AI和ML做出贡献。她补充说，软件工程师还可以帮助创造一个鼓励实验和学习的环境，并为AI开发的最佳实践提供指导。</p><p>&nbsp;</p><p>除此之外，软件工程师还能帮助确保ML模型符合相关法规和道德标准。Alliata总结说，制定标准和清晰的运维模式将有助于所有团队（技术和业务团队）之间更好地沟通与协作。</p><p>&nbsp;</p><p>就AI产品的开发，InfoQ采访了<a href=\"https://www.linkedin.com/in/zorinaalliata/\">Zorina Alliata</a>\"。</p><p>&nbsp;</p><p>InfoQ：AI转型与敏捷有什么关系？</p><p></p><blockquote>Zorina Alliata：AI转型与敏捷的关系在于，它们都涉及到一个过渡过程。敏捷领导者可以通过推动精益预算、敏捷团队和小团队组成大团队（teams of teams）、快速失败的敏捷交付以及展示交付价值的具体报告，在AI转型中发挥重要作用。&nbsp;敏捷领导者利用他们在管理培训计划和内容、推动卓越技术、检查合规性/偏见/公平性特性方面的敏捷专业知识，并根据需要对当前流程提出修改建议，以实现可扩展性，从而为AI转型带来价值。&nbsp;敏捷领导者还知道如何正确、准时地交付，为重要的KPI和趋势创建度量指标，并提供工作的可见性。在AI转型的过程中，所有这些技能都是非常有用和需要的。</blockquote><p></p><p>&nbsp;</p><p>InfoQ：你从AI产品交付中学到了什么呢？</p><p></p><blockquote>Alliata：数据有可能在未来被篡改，这是我历经艰辛发现的。例如，当我们应用数据修复时，无意间改变了旧记录，哪怕是轻微的改变，也会导致这种情况。然后，我们在旧数据上训练ML模型，希望能捕获到它在记录时的状态，但事实上，数据已经被修改过了。&nbsp;其次是基础设施，你需要训练模型，然后发布模型，并使其保持在更新的状态。用于编写ML模型和监控ML模型的环境和工具必须符合公司的安全标准和监管要求。AI和ML产品的基础设施架构是不同的，需要一些前期投资，还需要专门的支持角色，如机器学习工程师。</blockquote><p></p><p>&nbsp;</p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2023/08/AI-product-development/\">&nbsp;The Challenges of AI Product Development</a>\"</p><p></p><p>相关阅读：</p><p><a href=\"https://www.infoq.cn/article/8SHsU6p460shd9drTEWg\">亚马逊云科技推出基于生成式AI的临床文档工具HealthScribe预览版</a>\"</p><p><a href=\"https://www.infoq.cn/article/peXzTWatkmx1lK8fXXi6\">强制向开发者提AI建议再引公愤，GitHub：我知道你们很不满，但我不改</a>\"</p>",
+    "publish_time": "2023-09-21 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
