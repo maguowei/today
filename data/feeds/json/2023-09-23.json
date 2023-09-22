@@ -1645,5 +1645,72 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "和淘宝一起冲亚",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%92%8C%E6%B7%98%E5%AE%9D%E4%B8%80%E8%B5%B7%E5%86%B2%E4%BA%9A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "李一桐为国货茵曼代言",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%B8%80%E6%A1%90%E4%B8%BA%E5%9B%BD%E8%B4%A7%E8%8C%B5%E6%9B%BC%E4%BB%A3%E8%A8%80%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "大叔第3次考科目二合格彻底放飞",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%8F%94%E7%AC%AC3%E6%AC%A1%E8%80%83%E7%A7%91%E7%9B%AE%E4%BA%8C%E5%90%88%E6%A0%BC%E5%BD%BB%E5%BA%95%E6%94%BE%E9%A3%9E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "好像也没那么热血沸腾为啥好看",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%BD%E5%83%8F%E4%B9%9F%E6%B2%A1%E9%82%A3%E4%B9%88%E7%83%AD%E8%A1%80%E6%B2%B8%E8%85%BE%E4%B8%BA%E5%95%A5%E5%A5%BD%E7%9C%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "小伙独自住院被病友妈妈顺手投喂",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E7%8B%AC%E8%87%AA%E4%BD%8F%E9%99%A2%E8%A2%AB%E7%97%85%E5%8F%8B%E5%A6%88%E5%A6%88%E9%A1%BA%E6%89%8B%E6%8A%95%E5%96%82%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Ask HN: Where Are All the Jobs At?",
+    "url": "https://news.ycombinator.com/item?id=37617322",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37617322\">Comments</a>",
+    "publish_time": "2023-09-23 04:27:07",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Elegant and powerful new result that seriously undermines large language models",
+    "url": "https://garymarcus.substack.com/p/elegant-and-powerful-new-result-that",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37617863\">Comments</a>",
+    "publish_time": "2023-09-23 05:12:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
