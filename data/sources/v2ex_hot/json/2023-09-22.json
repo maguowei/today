@@ -64,5 +64,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "一个外包同事，插入 200 条数据，调用了四万次人员查询接口",
+    "url": "https://www.v2ex.com/t/976149",
+    "summary": "murmur: <p>插入数据要求工号转 ID 这个步骤，让他调接口去查这个映射，实际上这个查询也不慢，100ms ，反正是一次性操作，这个数据迁移做了再就不做了，查库查表区别不大</p>\n<p>相关的公司只有 200 多人</p>\n<p>按一个记录审批人+干系人 10 个人（很多了，一般流程才五六个节点）算，不缓存，200 条数据也就 2000 次调用</p>\n<p>这个 4w 次我至今没想明白是怎么弄出来的，但是我终于明白 200 条单表操作 1 个小时没做完的原因了</p>\n<p>整个逻辑是这样\n（ 1 ） A 系统查询待办主表数据-A 系统查询审批记录（平均 1 个单 5 个流程节点）-查询 A 系统的人员工号-查询 B 系统的工号 ID 映射-插入最终数据（拼接为一条，这里插入是不涉及子表的）</p>\n<p>不是有人再说怎么挖坑还不留痕迹么</p>\n<p>多跟外包学学自然就会了</p>",
+    "publish_time": "2023-09-22 11:44:56",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
