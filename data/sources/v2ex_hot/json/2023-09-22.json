@@ -1,0 +1,46 @@
+[
+  {
+    "title": "给项目代码埋坑有哪些办法？",
+    "url": "https://www.v2ex.com/t/976027",
+    "summary": "shmilypeter: <p>如何在项目中埋当时不会发作，离开了一两个月之后会逐渐发作并且还很难排查的 bug 呢？</p>\n<p>初步想到几个</p>\n<h2>后端</h2>\n<ul>\n<li>把全局变量变成私有；</li>\n<li>在注释中撒谎误导；</li>\n<li>更改日志级别然后将其上传到生产环境；</li>\n</ul>\n<h2>数据库</h2>\n<ul>\n<li>把日期类型改成字符串，然后照常 ORDER BY ；</li>\n<li>多用模糊查询让索引失效；</li>\n<li>更改某些定时任务插入数据的频率，快速塞满数据库；</li>\n</ul>\n<p>欢迎各位 V2EXer 补充，仅仅用作技术探讨，于此同时也可以避免 bug</p>",
+    "publish_time": "2023-09-22 01:37:36",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "老婆法考通过，恰逢纪念日，送智能手表 V 友有推荐不？",
+    "url": "https://www.v2ex.com/t/976067",
+    "summary": "Doldrums: 这一块我了解不多，要求适配 ios ，iwatch 据说续航很差？（我自己用 pace2 觉得续航长用起来是很方便）<br /><br />老婆不是健身党，但是有没有功能与 iwatch 差不多，续航好一点的？颜值稍微在线一点<br /><br />感谢！",
+    "publish_time": "2023-09-22 09:47:07",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "纠结买不买电视",
+    "url": "https://www.v2ex.com/t/976133",
+    "summary": "WanzizZ: 最近家里装完，还差一个电视，目前看上了 TCL 的 Q10G Pro 75 。<br />狗东上是 8499 ，前段时间最低的时候是 79xx<br />招行掌上生活是 7699<br />多多上是 7299-7399<br />纠结现在买还是等双十一？如果现在买，在哪个上面买？<br />或者有没有其他电视推荐下",
+    "publish_time": "2023-09-22 11:26:16",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "如何一句话证明你在公司最底层?",
+    "url": "https://www.v2ex.com/t/976183",
+    "summary": "Janice06: <p>如何一句话证明你在公司最底层?是收到，还是好的</p>",
+    "publish_time": "2023-09-22 13:49:53",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  }
+]
