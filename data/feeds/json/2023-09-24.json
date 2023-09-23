@@ -1309,5 +1309,109 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "京剧演绎东方豪华",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%AC%E5%89%A7%E6%BC%94%E7%BB%8E%E4%B8%9C%E6%96%B9%E8%B1%AA%E5%8D%8E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "亚运会助威团",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%8A%A9%E5%A8%81%E5%9B%A2%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何评价杭州亚运会开幕式？",
+    "url": "https://www.zhihu.com/question/623475425",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Flowers are starting to spread in Antarctica and experts say it's not good news",
+    "url": "https://www.unilad.com/news/world-news/antarctica-flowers-spread-climate-change-828134-20230922",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37627095\">Comments</a>",
+    "publish_time": "2023-09-24 04:19:37",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: A “CRM” for personal relationships",
+    "url": "https://www.elim.app/eng/home",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37625283\">Comments</a>",
+    "publish_time": "2023-09-24 01:21:17",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Cambridge Law Corpus: A Corpus for Legal AI Research",
+    "url": "https://arxiv.org/abs/2309.12269",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37627129\">Comments</a>",
+    "publish_time": "2023-09-24 04:22:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Computational Discovery on Jupyter",
+    "url": "https://computational-discovery-on-jupyter.github.io/Computational-Discovery-on-Jupyter/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37626551\">Comments</a>",
+    "publish_time": "2023-09-24 03:29:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Freshpaint (YC S19) is hiring engineers to enable privacy-first marketing",
+    "url": "https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37627514\">Comments</a>",
+    "publish_time": "2023-09-24 05:00:27",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Box jellyfish demonstrate learning ability",
+    "url": "https://www.nytimes.com/2023/09/22/science/jellyfish-learning-neurons.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37625973\">Comments</a>",
+    "publish_time": "2023-09-24 02:28:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "GNU/Linux Aviation HOWTO (2006)",
+    "url": "https://tldp.org/HOWTO/Aviation-HOWTO/index.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37626528\">Comments</a>",
+    "publish_time": "2023-09-24 03:27:18",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
