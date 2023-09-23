@@ -86,5 +86,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "给迁移 iOS 备份到新手机的网友的一些建议",
+    "url": "https://www.v2ex.com/t/976408",
+    "summary": "ohiu: 鉴于 iOS 非常黑盒的用户数据存储机制，几乎每个 iOS 用户都曾是备份迁移受害者，以下是一些建议：<br /><br />1.新 iPhone 发售的时候很多人的测试版系统实际 Build 高于工厂灌录版本，第一次开机激活的时候请先全新使用并升级至最新系统，然后抹掉从头开始恢复<br /><br />2.尽量使用 iCloud 恢复，而不是有线/无线/iTunes Backup 迁移，这与许多人的直觉相反，但是 iCloud 直接恢复的一次性成功率是最高的，如果你的微信文稿数据过大，可以在换机前一周的 iCloud 备份中关掉微信的备份，并在后期使用 wechat 内迁移<br /><br />3.iCloud 恢复也不是万能的，如果系统版本跨度过大（如 iOS12 的备份恢复至 iOS16 的 iPhone ）依然会恢复失败，所以你需要抛弃旧版 iOS 的 iPhone ，选择升级至最近一个可用版本，或选一个中间版本的 iPhone 周转<br /><br />4.公交卡等不可共存的 Wallet 项目请在抹掉旧 iPhone 前提前移除（ iOS15 开始抹掉前会提醒你这么干） wallet 历史使用记录不可迁移，wallet 校园卡不可迁移，wallet 钥匙不可迁移<br /><br />5.如果曾经关掉过 iCloud Photos 并选择了保留本地数据的话，图库内容会成为 iCloud 备份的一部分，导致迁移备份后重新上传和校对，这期间会有照片丢失的风险，iTunes Backup 同理；而出于防止机身存储被挤爆选择不保留的话，iOS 是删不干净本地图库的，依然会导致上述情况。这个重新上传校对的过程是和手机 indexing 同时进行的，这会使得其他内容的恢复变得异常缓慢。<br /><br />6.不要试图在一天之内完成迁移，众多 app 存在安全校验机制，掉登录事小，大概率会连用户名一起忘掉，更多的是一些装有 key 的 app ，Google Authenticator 的例子还历历在目，安全的数据迁移期是一个月起步，以至于年年焕新需要第三台手机在换机前就开始周转数据成为了无可避免的选择，而这实际上比设置为新 iPhone 并从头开始使用的成本更高。<br /><br />更多可能遇到的坑还请网友补充",
+    "publish_time": "2023-09-23 10:26:15",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
