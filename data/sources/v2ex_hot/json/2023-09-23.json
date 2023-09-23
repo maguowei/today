@@ -9,5 +9,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "iOS 版本的微信会在后台自动截图的事儿没人关心？",
+    "url": "https://www.v2ex.com/t/976391",
+    "summary": "sinORcos: <div>\n 昨天在电报上看到的消息，今天验证了一下，确实会截屏，它有个 minimizerec_v1.4 的文件夹，里面保存了部分截屏，是否上传到服务器不知道，截屏的内容没有对话，全是打开的网页或者文件、图片，最早可以追溯到 4 月份，总量并不多，目前找到的也就十几张，触发逻辑不明。关键是它把我身份证和我司部分内部文件都截走了。\n <br />\n<br />但是保存的截图没有对话不意味着它一定没截对话的部分，也有可能删除了？所以这玩意儿是怎么通过代码审核在 appstore 上架的？\n</div>",
+    "publish_time": "2023-09-23 09:11:05",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
