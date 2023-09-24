@@ -1249,5 +1249,129 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "你好小时代",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E5%B0%8F%E6%97%B6%E4%BB%A3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "水族馆改喂便宜鱼后企鹅和水獭不干了",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B0%B4%E6%97%8F%E9%A6%86%E6%94%B9%E5%96%82%E4%BE%BF%E5%AE%9C%E9%B1%BC%E5%90%8E%E4%BC%81%E9%B9%85%E5%92%8C%E6%B0%B4%E7%8D%AD%E4%B8%8D%E5%B9%B2%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "张杰还原铲腿名场面",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E8%BF%98%E5%8E%9F%E9%93%B2%E8%85%BF%E5%90%8D%E5%9C%BA%E9%9D%A2%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "你健身走过最大的弯路是什么？",
+    "url": "https://www.zhihu.com/question/622493029",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Google Analytics Opt-Out Browser Add-On",
+    "url": "https://tools.google.com/dlpage/gaoptout",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37636447\">Comments</a>",
+    "publish_time": "2023-09-25 03:36:46",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "There's a new map style on OpenStreetMap.org",
+    "url": "https://en.osm.town/@openstreetmap/111120663721969898",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37636551\">Comments</a>",
+    "publish_time": "2023-09-25 03:51:05",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "My Pure Rust Wishlist",
+    "url": "https://gburghoorn.com/posts/pure-rust-wishlist/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37636503\">Comments</a>",
+    "publish_time": "2023-09-25 03:44:33",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "μMon: Stupid simple monitoring (2022)",
+    "url": "https://tomscii.sig7.se/2022/07/uMon-stupid-simple-monitoring",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37636013\">Comments</a>",
+    "publish_time": "2023-09-25 02:50:16",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Our Humble Attempt at “How Much Data Is Needed to Fine-Tune",
+    "url": "https://barryzhang.substack.com/p/our-humble-attempt-at-fine-tuning",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37636791\">Comments</a>",
+    "publish_time": "2023-09-25 04:23:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Get your entire ChatGPT history, in Markdown files",
+    "url": "https://github.com/mohamed-chs/chatgpt-history-export-to-md",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37636701\">Comments</a>",
+    "publish_time": "2023-09-25 04:13:47",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Unpacking Elixir: Resilience",
+    "url": "https://underjord.io/unpacking-elixir-resilience.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37636529\">Comments</a>",
+    "publish_time": "2023-09-25 03:48:14",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Choose Postgres queue technology",
+    "url": "https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37636841\">Comments</a>",
+    "publish_time": "2023-09-25 04:30:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
