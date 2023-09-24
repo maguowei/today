@@ -1373,5 +1373,63 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "AI乐队在线定制新歌",
+    "url": "https://s.weibo.com/weibo?q=%23AI%E4%B9%90%E9%98%9F%E5%9C%A8%E7%BA%BF%E5%AE%9A%E5%88%B6%E6%96%B0%E6%AD%8C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "主播招演员编造抱养女悲惨生活被拘",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E6%8B%9B%E6%BC%94%E5%91%98%E7%BC%96%E9%80%A0%E6%8A%B1%E5%85%BB%E5%A5%B3%E6%82%B2%E6%83%A8%E7%94%9F%E6%B4%BB%E8%A2%AB%E6%8B%98%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "王者荣耀中国代表队获胜采访",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E9%98%9F%E8%8E%B7%E8%83%9C%E9%87%87%E8%AE%BF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "在空气净化的浪潮后，还有哪些引领家庭空气调节的「新趋势」让家变得「更舒适」？",
+    "url": "https://www.zhihu.com/question/623079292",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "LARPing and Violent Extremism",
+    "url": "https://leb.fbi.gov/articles/featured-articles/larping-and-violent-extremism",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37637165\">Comments</a>",
+    "publish_time": "2023-09-25 05:02:19",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "PID Control Challenges",
+    "url": "http://janismac.github.io/ControlChallenges/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37637006\">Comments</a>",
+    "publish_time": "2023-09-25 04:44:47",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
