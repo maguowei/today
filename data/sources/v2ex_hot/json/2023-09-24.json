@@ -75,5 +75,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "教程: 在 macOS 中移除 command line tools 并继续使用 git",
+    "url": "https://www.v2ex.com/t/976656",
+    "summary": "bddxg: <p>command line tools 苦天下程序猿久已, 现在这破玩意越来越大,从原来的 700MB 已经成长到了<strong>3GB</strong>了</p>\n<p><img alt=\"1695529671494.png\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://img1.imgtp.com/2023/09/24/KMRUm9zr.png\" /></p>\n<p>我只是想用 git 而已, command line tools 居然为了不到 200M 的工具 捆绑 3GB 用不到的垃圾,</p>\n<p><strong>申明一下: 我不写 C++ 不写 xcode 只是写个前端 用 git 管理仓库 对于我用不到的那些东西, command line tools 不应该浪费我的硬盘!</strong></p>\n<p>下面介绍一下如何在移除 command line tools 的同时继续使用 git(目前不太完美)</p>\n<h2>第一步: 安装 git</h2>\n<p>这一步骤非常简单, 电脑上<strong>已经安装</strong>了 command line tools 和 git 的人<strong>可以省略此步骤</strong>,</p>\n<p>如果电脑上没有安装 git 和 command line tools, 请按照传统方法, 安装好 command line tools 和 git</p>\n<p>链接: <a href=\"https://git-scm.com/download/mac\" rel=\"nofollow\">https://git-scm.com/download/mac</a></p>\n<h2>第二步: 安装 brew 并安装 git</h2>\n<p>先不要奇怪第一步已经安装了 git 为什么又要安装一遍, 按照步骤走就行了,问就是为了避免 brew 安装的时候需要 git 而你又没有,陷入死循环</p>\n<p>安装 brew,根据脚本提示选择合适的源,一步步按照脚步提示操作就行</p>\n<pre><code class=\"language-bash\">/bin/zsh -c \"$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh)\"\n</code></pre>\n<p>安装 git</p>\n<pre><code class=\"language-bash\">brew install git\n</code></pre>\n<h2>第三步: 移除 command line tools</h2>\n<p>核心步骤来了, 移除 command line tools 需要关闭 MacOS 的 SIP,</p>\n<blockquote>\n<p>以 mbp14 2021 为例关闭 sip: 关机后,长按开机键不放,出现选项,进去输入登录密码,左上角打开终端,输入 csrutil disable,输入γ,输入密码,等待一会,重启.</p>\n</blockquote>\n<p>非 apple 芯片请自行百度, 都是烂大街的教程了</p>\n<p>关闭 sip 后,重启进入系统,打开终端 执行命令</p>\n<pre><code class=\"language-bash\">sudo rm -rf /Library/Developer/CommandLineTools/\n</code></pre>\n<p>还有一部分文件看自己想不想删除,我就不复制粘贴了,看这个<a href=\"https://www.zhihu.com/question/522081975/answer/2558847384\" rel=\"nofollow\">Command Line Tools for Xcode 怎么彻底卸载？ - richking 的回答 - 知乎</a></p>\n<p>好了, 一切操作完成后, 你会发现占据你 3GB 硬盘空间的 command line tools 已经不见了 ,而且 git 一如既往的好使</p>\n<blockquote>\n<p>(可选)开启 sip:关机后,长按开机键不放,出现选项,进去输入登录密码,左上角打开终端,输入 csrutil enable,输入γ,输入密码,等待一会,重启</p>\n</blockquote>\n<h2>最后</h2>\n<p>这并不是一个完美的脱离 command line tools 的方法, 就目前 2023 年 09 月 24 日 而言 打开 vscode 仍然会弹窗</p>\n<p><img alt=\"1695531777772.png\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://img1.imgtp.com/2023/09/24/j8HMBKv0.png\" /></p>\n<p>选择取消就行, 不需要安装, 不完美的地方在于 每次打开 vscode 都会弹窗,这个小尾巴只能拜托万能的 V 友再研究研究 补充补充了</p>",
+    "publish_time": "2023-09-24 13:06:13",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "除了 rm 之外就没有其他更安全的删除文件的方法吗？比如遇到删除系统核心的目录直接报错，或者提示没有权限，或者给强提醒，或者给个后悔药啥的。",
+    "url": "https://www.v2ex.com/t/976664",
+    "summary": "helphelp: <p>最起码不像 rm -rf 一样，删除/的话 什么提示都没有</p>\n<p>看了这两天的热帖，有两个都是因为 rm -rf 误删的，我自己之前说实话也执行过，想问一下有好的方法吗？</p>",
+    "publish_time": "2023-09-24 14:19:30",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
