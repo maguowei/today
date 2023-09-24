@@ -416,5 +416,38 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Ash Framework",
+    "url": "https://ash-hq.org/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37629719\">Comments</a>",
+    "publish_time": "2023-09-24 10:48:19",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Fiber in C++: Understanding the Basics",
+    "url": "https://agraphicsguynotes.com/posts/fiber_in_cpp_understanding_the_basics/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37630208\">Comments</a>",
+    "publish_time": "2023-09-24 12:46:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Platform that enables Windows driver development in Rust",
+    "url": "https://github.com/microsoft/windows-drivers-rs",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37629874\">Comments</a>",
+    "publish_time": "2023-09-24 11:19:30",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
