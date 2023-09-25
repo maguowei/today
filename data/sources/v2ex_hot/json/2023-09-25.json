@@ -75,5 +75,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "为爱发电写了个 Redis 桌面客户端，连颗星都没",
+    "url": "https://www.v2ex.com/t/976991",
+    "summary": "huangliu: <p>作为踏出独立开发第一部，从想法到真正落地一个实践过程，前后折腾了两个月。所有东西都是一个人弄的，连图标都是我亲手用矢量图工具画的。没想到 Github 上的是没有自然流量的，还是说老哥们都没有点星的习惯。</p>\n<p>大伙给我看看到底哪里出了问题，给我一些反馈。</p>\n<p>官网地址 <a href=\"https://redis.tinycraft.cc/\" rel=\"nofollow\">https://redis.tinycraft.cc/</a></p>\n<p>GitHud 地址 <a href=\"https://github.com/tiny-craft/tiny-rdm\" rel=\"nofollow\">https://github.com/tiny-craft/tiny-rdm</a></p>\n<p>软件完全免费，操作习惯很多参考了老牌的 RedisDesktopManager ，Redis 官方新出的 RedisInsight 总感觉用起来不顺手，所以才有了这个软件。</p>\n<p>使用 Wails 开发，基于 Webview ，所以没有像 electron 那样每个应用带个浏览器。同时也想验证下这种方式开发的桌面应用是否可接受（目前大概知道 Windows 10 有部分旧版本如果没有装 edge ，是需要安装 webview2 运行时的）</p>",
+    "publish_time": "2023-09-25 16:00:47",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
