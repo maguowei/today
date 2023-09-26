@@ -383,5 +383,27 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Merlin's Wisdom Project",
+    "url": "https://github.com/merlinmann/wisdom/blob/master/wisdom.md",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37666773\">Comments</a>",
+    "publish_time": "2023-09-27 06:38:55",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Introduction to Sysclean(8) on OpenBSD",
+    "url": "https://kapouay.eu.org/notes/sysclean-intro/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37665988\">Comments</a>",
+    "publish_time": "2023-09-27 05:24:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]

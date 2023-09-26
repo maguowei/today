@@ -1724,5 +1724,65 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "再就业男团又有新团综了",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%86%8D%E5%B0%B1%E4%B8%9A%E7%94%B7%E5%9B%A2%E5%8F%88%E6%9C%89%E6%96%B0%E5%9B%A2%E7%BB%BC%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "装桌面书立装的我厌蠢症犯了",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%A3%85%E6%A1%8C%E9%9D%A2%E4%B9%A6%E7%AB%8B%E8%A3%85%E7%9A%84%E6%88%91%E5%8E%8C%E8%A0%A2%E7%97%87%E7%8A%AF%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "白鹿巴黎时装周出发",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8%E5%87%BA%E5%8F%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "美股三大指数集体收跌，亚马逊跌超4%",
+    "url": "https://www.36kr.com/newsflashes/2449362424453257",
+    "summary": "36氪获悉，9月26日收盘，美股三大指数集体下跌，纳指跌1.57%，道指跌1.14%，标普500指数跌1.47%。大型科技股普跌，亚马逊跌超4%，苹果跌超2%，特斯拉、微软、谷歌、Netflix、ARM跌超1%，Meta小幅下跌。热门中概股多数下跌，小鹏汽车、京东、拼多多跌超2%，阿里巴巴、理想汽车跌超1%，B站、百度、网易小幅下跌。蔚来、爱奇艺小幅上涨。",
+    "publish_time": "2023-09-27 07:00:18",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Merlin's Wisdom Project",
+    "url": "https://github.com/merlinmann/wisdom/blob/master/wisdom.md",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37666773\">Comments</a>",
+    "publish_time": "2023-09-27 06:38:55",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Introduction to Sysclean(8) on OpenBSD",
+    "url": "https://kapouay.eu.org/notes/sysclean-intro/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37665988\">Comments</a>",
+    "publish_time": "2023-09-27 05:24:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
