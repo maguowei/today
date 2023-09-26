@@ -1,0 +1,13 @@
+[
+  {
+    "title": "电商巨头 Shopify 提升 LLM 辅助工具，优化电子商务生态",
+    "url": "https://www.infoq.cn/article/uNJmOYLgQK062KPYFWDw",
+    "summary": "<p>在使用大型语言模型聊天机器人打开了创新解决方案之门的同时，Shopify 的工程师 Ates Goral 认为，要使用户体验尽可能自然，需要一些特定的努力，以<a href=\"https://shopify.engineering/sidekicks-improved-streaming\">防止产生卡顿并减少延迟</a>\"。</p><p>&nbsp;</p><p>由大型语言模型返回的 Markdown 响应流会导致渲染卡顿，因为特殊的 Markdown 字符（如 *）在完整表达式被接收之前保持模糊不清，例如，直到接收到闭合的 *。同样的问题也适用于链接和所有其他 Markdown 运算符。这意味着 Markdown 表达式在完全完成之前无法正确渲染，这意味着在短时间内 Markdown 渲染不正确。</p><p>&nbsp;</p><p>为了解决这个问题，Shopify 使用了一个缓冲解析器，它在 Markdown 特殊字符之后不会发出任何字符，并等待 Markdown 表达式完全完成或收到意外字符。</p><p>&nbsp;</p><p></p><blockquote>在进行流式传输时，需要使用一个有状态的流处理器，可以逐个字符地消耗字符。流处理器要么按照字符接收的顺序传递字符，要么在遇到类似 Markdown 的字符序列时更新缓冲区。</blockquote><p></p><p>&nbsp;</p><p>然而，Goral 表示，虽然从原理上讲，这个解决方案相对容易手动实现，但要支持完整的 Markdown 规范，则需要使用现成的解析器。另一方面，延迟主要是由于需要进行多次大型语言模型往返来消耗外部数据源，以扩展大型语言模型的初始响应所导致的。</p><p>&nbsp;</p><p></p><blockquote>大型语言模型对一般的人类语言和文化有很好的理解，但它们并不是获取最新准确信息的绝佳来源。因此，我们告诉大型语言模型通过使用工具来告诉我们当它们需要超出其理解范围的信息时。</blockquote><p></p><p>&nbsp;</p><p>换句话说，基于用户输入，大型语言模型提供的初始响应还包括要咨询以获取缺失信息的其他服务。当这些额外的数据片段被接收后，大型语言模型将构建完整的响应，最终显示给用户。</p><p>&nbsp;</p><p>为了防止用户需要等待所有外部服务都响应完成，Sidekick 使用了 \"卡片\" 的概念，即占位符。Sidekick 渲染了从大型语言模型收到的初始响应，包括任何占位符。一旦额外的请求完成，Sidekick 将占位符替换为接收到的信息。</p><p>&nbsp;</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/43/43afd7d3246a2f60947117a72536422b.gif\" /></p><p></p><p>&nbsp;</p><p>在 Sidekick 中实施的解决方案充分利用了此工作流程中固有的异步性，并将响应分流步骤与 Markdown 缓冲解析器集成在一起。如果您对他们的解决方案的完整细节感兴趣，不要错过 Goral 的原文文章。</p><p>&nbsp;</p><p>&nbsp;</p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2023/08/Shopify-sidekick-llm-improvement/\">https://www.infoq.com/news/2023/08/Shopify-sidekick-llm-improvement/</a>\"</p>",
+    "publish_time": "2023-09-26 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
