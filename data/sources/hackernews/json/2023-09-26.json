@@ -834,5 +834,38 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Google assigns a CVE for libwebp and gives it a 10.0 score",
+    "url": "https://stackdiary.com/heap-buffer-overflow-in-libwebp-cve-2023-5129/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37657746\">Comments</a>",
+    "publish_time": "2023-09-26 19:33:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Google is picking ChatGPT responses from Quora as correct answer",
+    "url": "https://twitter.com/8teapi/status/1706520893621784780",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37658319\">Comments</a>",
+    "publish_time": "2023-09-26 20:31:06",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "We bootstrap: Hitting $1.5M ARR with a super lean team",
+    "url": "https://www.flagsmith.com/blog/why-we-bootstrap",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37657519\">Comments</a>",
+    "publish_time": "2023-09-26 19:06:33",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
