@@ -1316,5 +1316,129 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "芒果的后期是懂复仇学的",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8A%92%E6%9E%9C%E7%9A%84%E5%90%8E%E6%9C%9F%E6%98%AF%E6%87%82%E5%A4%8D%E4%BB%87%E5%AD%A6%E7%9A%84%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "刘宇宁要出更多口碑好歌",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E8%A6%81%E5%87%BA%E6%9B%B4%E5%A4%9A%E5%8F%A3%E7%A2%91%E5%A5%BD%E6%AD%8C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "每天喝茶或者咖啡的朋友睡眠还好吗？",
+    "url": "https://www.zhihu.com/question/274940870",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "火灾之后的巴黎圣母院，应该完全按古迹原样修复，还是应该根据现代建筑的技术加入新的元素？",
+    "url": "https://www.zhihu.com/question/320439466",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Exploring Linux command-line space time",
+    "url": "https://fabiensanglard.net/st/index.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37662655\">Comments</a>",
+    "publish_time": "2023-09-27 01:21:12",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ollama for Linux – Run LLMs on Linux with GPU Acceleration",
+    "url": "https://github.com/jmorganca/ollama/releases/tag/v0.1.0",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37661755\">Comments</a>",
+    "publish_time": "2023-09-27 00:29:56",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ask HN: Tips for Solopreneur?",
+    "url": "https://news.ycombinator.com/item?id=37662937",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37662937\">Comments</a>",
+    "publish_time": "2023-09-27 01:39:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Facebook Prophet: library for generating forecasts from any time series data",
+    "url": "https://github.com/facebook/prophet",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37663820\">Comments</a>",
+    "publish_time": "2023-09-27 02:35:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Causality for Machine Learning",
+    "url": "https://ff13.fastforwardlabs.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37663523\">Comments</a>",
+    "publish_time": "2023-09-27 02:14:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "EU tells Apple to open everything up to its rivals",
+    "url": "https://appleinsider.com/articles/23/09/26/eu-tells-apple-to-open-everything-up-to-its-rivals",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37663725\">Comments</a>",
+    "publish_time": "2023-09-27 02:28:20",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "ROCm Is AMD's #1 Priority, Executive Says",
+    "url": "https://www.eetimes.com/rocm-is-amds-no-1-priority-exec-says/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37663194\">Comments</a>",
+    "publish_time": "2023-09-27 01:54:42",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Unity like game editor running in pure WASM",
+    "url": "https://raverie-us.github.io/raverie-engine/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37663270\">Comments</a>",
+    "publish_time": "2023-09-27 01:58:47",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
