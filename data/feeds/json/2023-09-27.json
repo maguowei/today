@@ -1440,5 +1440,85 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "15岁少年踩豪车炫耀车主拒绝和解",
+    "url": "https://s.weibo.com/weibo?q=%2315%E5%B2%81%E5%B0%91%E5%B9%B4%E8%B8%A9%E8%B1%AA%E8%BD%A6%E7%82%AB%E8%80%80%E8%BD%A6%E4%B8%BB%E6%8B%92%E7%BB%9D%E5%92%8C%E8%A7%A3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "王哲林",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%93%B2%E6%9E%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "王者项目拿下首金",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E9%A1%B9%E7%9B%AE%E6%8B%BF%E4%B8%8B%E9%A6%96%E9%87%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "人活这一辈子到底是为了什么？",
+    "url": "https://www.zhihu.com/question/351693565",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Classic rock, Mario Kart, and why we can’t agree on Tailwind",
+    "url": "https://joshcollinsworth.com/blog/tailwind-is-smart-steering",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37661431\">Comments</a>",
+    "publish_time": "2023-09-27 00:09:22",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Plot of All Objects in the Universe",
+    "url": "https://kottke.org/23/09/the-plot-of-all-objects-in-the-universe",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37664668\">Comments</a>",
+    "publish_time": "2023-09-27 03:31:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Rethinking the Luddites in the Age of A.I",
+    "url": "https://www.newyorker.com/books/page-turner/rethinking-the-luddites-in-the-age-of-ai",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37664682\">Comments</a>",
+    "publish_time": "2023-09-27 03:31:40",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "ROCm is AMD's priority, executive says",
+    "url": "https://www.eetimes.com/rocm-is-amds-no-1-priority-exec-says/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37663194\">Comments</a>",
+    "publish_time": "2023-09-27 01:54:42",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
