@@ -97,5 +97,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "国产系统级编程语言与编译器，轻松与 C 语言进行交互",
+    "url": "https://www.v2ex.com/t/977144",
+    "summary": "weiwenhao: <p>接之前的帖子 <a href=\"https://www.v2ex.com/t/939430\" rel=\"nofollow\">https://www.v2ex.com/t/939430</a> ，感谢 V 站各位股东们，当时无论是在评论区的鼓励还是 star 支持，都给了莫大的动力，让我极限爆肝了近五个月，在这几个月的 190 多次的 commit log 中，有 60 次是在凌晨以后，18 次是在周末。</p>\n<hr />\n<p>再次介绍一下 nature 项目，这是一个投入近 5 年时间的编程语言与编译器项目。</p>\n<p>github <a href=\"https://github.com/nature-lang/nature\" rel=\"nofollow\">https://github.com/nature-lang/nature</a> 基于 MIT 协议开放源码。</p>\n<p>官网 <a href=\"https://nature-lang.org/zh-Hans/\" rel=\"nofollow\">https://nature-lang.org/zh-Hans/</a> 有完整可读的中文文档。</p>\n<p>在语言层面 nature 有以下特点</p>\n<ul>\n<li>类型系统，null 安全，泛型，联合类型</li>\n<li>自研编译器/汇编器/链接器，不依赖 llvm 。能够编译至 amd64/riscv64/wasm 架构</li>\n<li>无入侵的方式与 C 语言等交互进行高效率与高性能开发</li>\n<li>渐进式 GC ，支持自动与手动 GC</li>\n<li>内置 vec/map/set/tup 数据结构</li>\n<li>包管理与模块管理</li>\n<li>函数标签/闭包/错误提示/运行时堆栈追踪/协程</li>\n<li>集成 SSA/线性扫描寄存器分配/反射机制/汇编器与连接器</li>\n</ul>\n<p>上述特性已经集成了 90%，随着标准库以逐步完善，nature 可以应用于游戏引擎与游戏制作、科学与 AI 计算、操作系统与物联网、WEB 开发。其中游戏引擎将作为 nature 0.7 ~ 1.0+ 的核心任务。</p>\n<p>nature 适合于开源创作者/独立创作者以及学习和研究使用，我们不仅希望你能够在语言中得到便利，同样也希望你使用 nature 创作快乐且有趣的事情。</p>\n<hr />\n<p>今天发布 0.4.0-beta 版本，详细的更新内容见 <a href=\"https://nature-lang.org/zh-Hans/docs/prologue/release-notes\" rel=\"nofollow\">发行说明</a>，这里进行简单的总结</p>\n<ol>\n<li>使用 temp 模式与 C 语言等进行交互。在数据结构上和调用规范上完全兼容 C 语言，使用安全指针避免 C 语言中的空指针问题。</li>\n<li>实现编译时错误提示与运行时错误追踪功能，能够使用 nature 进行项目代码编写与调试。</li>\n<li>支持标准库 fmt/syscall/os/strings/time/path/compress</li>\n<li>使用 nature 语言实现小型测试用例 <a href=\"https://github.com/weiwenhao/parker\" rel=\"nofollow\">parker</a>，这是一个类似 docker 的轻量级容器，能够将工作目录打包成一个可执行文件，又或者是将 python/php 等脚本语言打包成可执行文件并运行在一个轻量级容器运行时上。</li>\n<li>在之前的 0.2/0.3 两个版本中主要支持了泛型，联合类型，包管理等功能。</li>\n</ol>\n<p>预计再肝半年左右，nature 将会推出社区可用版本，届时会有稳定的语法 api ，完善的标准库，以及开发工具支持，我也将会基于 nature 启动项目同时也是大型测试用例 'SAO'。</p>\n<p><strong>此外，nature 中所有的标准库代码都会合并至主仓库，欢迎来贡献(从其他语言中搬运)。</strong> </p>\n<p>如果想更进一步关注 nature 的发展，欢迎加入编程语言交流群，我会在这里分享有意思的提案或者是学习的资料，比如最近在进行的协程提案与相关知识。当然也可以通过 github 进行 watch 来了解相关的进度。也希望能够有新的股东 star 支持，这都是宝贵的动力 💪</p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/kAZMgfE.jpg\" /></p>",
+    "publish_time": "2023-09-26 09:08:39",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
