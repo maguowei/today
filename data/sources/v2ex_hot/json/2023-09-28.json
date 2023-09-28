@@ -31,5 +31,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "日本企业要出海要对外扩张是因为国内小，但是美国企业呢？",
+    "url": "https://www.v2ex.com/t/977783",
+    "summary": "weishijun14: <h4>走在路上我想到一个问题，</h4>\n<h4>你说日本企业必须要出海，要对外扩张，</h4>\n<h4>比如丰田本田优衣库，是因为国内市场太小。</h4>\n<h4>必须对外扩张。</h4>\n<h4>那美国企业，肯德基麦当劳，</h4>\n<h4>甚至能开到中国的四五线城市，所谓的下沉市场，那是为什么，</h4>\n<h4>美国市场还不够大吗？不够赚吗？</h4>\n<h4>开到国外的四五线城市面临的困难可能比赚的钱还要多吧？</h4>\n<h4>想一下把大米先生从东海岸开到西海岸，</h4>\n<h4>从西雅图开到墨西哥州，</h4>\n<h4>还不能只是洛杉矶这样的大都市，</h4>\n<h4>还得进入小镇上。。。</h4>\n<h4>是什么样的动力，这么强大。。。</h4>",
+    "publish_time": "2023-09-28 09:14:00",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "目前开发微服务用 nacos 做注册、配置中心的同学多吗？ 如果有一个用系统级语言重写，性能更高、占用资源更小的版本有同学愿意试用吗？",
+    "url": "https://www.v2ex.com/t/977787",
+    "summary": "heqingpan: <p>我之前用 rust 重写了 nacos ，开源一段时间，收到的反馈不多。</p>\n<p>想确认是用 nacos 的人不多，还是不知道或者知道但没有试用动力的人比较多。</p>\n<hr />\n<p>下面附上我重写 nacos 版本简介：</p>\n<p><a href=\"https://github.com/heqingpan/rnacos\" rel=\"nofollow\">https://github.com/heqingpan/rnacos</a></p>\n<p>rnacos 是一个用 rust 实现的 nacos 服务。</p>\n<p>rnacos 包含注册中心、配置中心、web 管理控制台功能，支持单机、集群部署。</p>\n<p>rnacos 设计上完全兼容最新版本 nacos 面向 client sdk 的协议（包含 1.x 的 http OpenApi ，和 2.x 的 grpc 协议）, 支持使用 nacos 服务的应用平迁到 rnacos 。</p>\n<p>rnacos 相较于 java nacos 来说，是一个提供相同功能，启动更快、占用系统资源更小、性能更高、运行更稳定的服务。</p>\n<p>性能：</p>\n<table>\n<thead>\n<tr>\n<th>模块</th>\n<th>场景</th>\n<th>单节点 qps</th>\n<th>集群 qps</th>\n<th>总结</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>配置中心</td>\n<td>配置写入,单机模式</td>\n<td>1.5 万</td>\n<td>1.5 万</td>\n<td></td>\n</tr>\n<tr>\n<td>配置中心</td>\n<td>配置写入,集群模式</td>\n<td>1.8 千</td>\n<td>1.5 千</td>\n<td>接入 raft 后没有充分优化,待优化,理论上可接近单机模式</td>\n</tr>\n<tr>\n<td>配置中心</td>\n<td>配置查询</td>\n<td>8 万</td>\n<td>n*8 万</td>\n<td>集群的查询总 qps 是节点的倍数</td>\n</tr>\n<tr>\n<td>注册中心</td>\n<td>服务实例注册,http 协议</td>\n<td>1.2 万</td>\n<td>1.0 万</td>\n<td>注册中心单机模式与集群模式写入的性能一致</td>\n</tr>\n<tr>\n<td>注册中心</td>\n<td>服务实例注册,grpc 协议</td>\n<td>1.2 万</td>\n<td>1.2 万</td>\n<td>grpc 协议压测工具没有支持，目前没有实际压测，理论不会比 http 协议低</td>\n</tr>\n<tr>\n<td>注册中心</td>\n<td>服务实例心跳,http 协议</td>\n<td>1.2 万</td>\n<td>1.0 万</td>\n<td>心跳是按实例计算和服务实例注册一致共享 qps</td>\n</tr>\n<tr>\n<td>注册中心</td>\n<td>服务实例心跳,grpc 协议</td>\n<td>8 万以上</td>\n<td>n*8 万</td>\n<td>心跳是按请求链接计算,且不过注册中心处理线程,每个节点只需管理当前节点的心跳，集群总心跳 qps 是节点的倍数</td>\n</tr>\n<tr>\n<td>注册中心</td>\n<td>查询服务实例</td>\n<td>3 万</td>\n<td>n*3 万</td>\n<td>集群的查询总 qps 是节点的倍数</td>\n</tr>\n</tbody></table><p>收到用户反馈信息，会给我更多的动力。</p>\n<p>如果试用过程中有问题可以到 github 给我提 issues 。</p>\n<p>如果愿意试用或喜欢的同学就到 github <a href=\"https://github.com/heqingpan/rnacos\" rel=\"nofollow\">rnacos</a> 给个星 。</p>",
+    "publish_time": "2023-09-28 09:22:11",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "我是上次吐槽面的普本都很少的，找到原因了 真的是 HR",
+    "url": "https://www.v2ex.com/t/977828",
+    "summary": "worldqiuzhi: <p>前情：就是面了一批普本 1-3 年的，给我的感觉就是有些压根不会写代码，很简单很基础的都不会，最好的也就勉勉强强能干活</p>\n<h2>HR 的骚操作 1</h2>\n<p>面试前先验证学历 需要提供学信网截图或者学历证书照片之类  如果是我没入职前可能不太愿意提供。\n这件事的起因是之前别的岗位面进了三分之一的假学历，HR 背了这口锅。所以这就引申出了学历验证应该在哪个阶段，在专科基本没有面试机会的大环境下，假学历面进的 如何评价 可以要吗？</p>\n<h2>骚操作 2</h2>\n<p>直接 PASS 掉所有女性求职者，这个我问他最近怎么没什么简历，她和我说最近只有女孩子投，我问女孩子为什么不可以，她说你不怕招进来怀孕吗？关键这个问题没人授意她这么做（老板私底下有没有和她说，我不知道，大概率没有），之前是有招女员工传统的，公司有几个女员工，而且她也是女员工，最近一年多前刚招进来的 也不是关系户不知道图啥</p>\n<h2>骚操作 3</h2>\n<p>招聘年限是有跨度的，所以招聘薪资也是有一个跨度的。跨度的峰值左右我们是可以给到的也是打算给到的。结果就是面试者理解薪资的跨度就是给最低档，HR 理解薪资的跨度就是不超过中间档 这块是我没有经验吗？这块我了解到的起因是给一个面试者定了薪资 让她去聊。她给我的反馈是面试者想加一点 罗里吧嗦，问东问西，事多，能不能不要，你要了估计也待不久。</p>\n<p>结论就是 HR 脾气大 我可以想到 排斥面试前验证学历的 问的比较多 说话语气不好 显得不太顺从的  都被 HR 直接 PASS 掉了 避坑中小公司吧</p>",
+    "publish_time": "2023-09-28 10:25:49",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
