@@ -97,5 +97,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "AIGC开辟云原生全新应用方向，一文带你盘点中国云原生 20+ 细分领域技术成熟度",
+    "url": "https://www.infoq.cn/article/gjUd2KkFsrDwsSVIojhB",
+    "summary": "<p>今年年初，InfoQ&nbsp;研究中心发布了<a href=\"https://www.infoq.cn/minibook/UGhD7MTY5Z43JG5YmWP3\">《中国软件技术发展洞察和趋势预测报告&nbsp;2023》</a>\"，在报告中将各个领域的关键技术按照不同成熟度阶段进行了划分，总结并生成了中国技术成熟度评估曲线。</p><p>在年度报告的研究和撰写过程中，InfoQ&nbsp;研究中心观察到，云原生是2022年的年度技术热词之一，同时也是很多企业数字化转型的技术支撑。作为年度趋势报告的延续，InfoQ&nbsp;研究中心希望更细致地梳理云原生领域技术的发展情况，并基于&nbsp;2023&nbsp;年云原生领域的种种变化与发展，更新<a href=\"https://www.infoq.cn/minibook/q2Rhj103VtuMcdPlFGGS\">《2023&nbsp;中国云原生领域技术成熟度模型报告》</a>\"。</p><p>同样，中国云原生技术成熟度模型也建立在三大核心指标（技术专利数量、技术发展时间、技术舆论指数）的基础上。同时InfoQ研究中心还参考了市场规模、融资事件等公开资料，结合了云原生领域内各位专家的观点，最终选择了20+关键技术点，并形成了相应的成熟度曲线。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/c7/c7366149b08050ba542b7e84e8efde19.webp\" /></p><p></p><p>备注：</p><p>1、技术专利相关数据来自国家知识产权局旗下专利检索及分析系统，检索时间为&nbsp;2023&nbsp;年&nbsp;9&nbsp;月&nbsp;10&nbsp;日。</p><p>2、技术发展时间使用知网论文库等学术平台进行相关技术领域论文最早收录年份统计计算。</p><p>3、技术舆论指数数据来源为各家技术媒体和开发者社区，包括&nbsp;InfoQ&nbsp;中文站和&nbsp;CSDN&nbsp;社区。</p><p></p><p>有关各发展阶段的具体特征，欢迎大家点击<a href=\"https://www.infoq.cn/minibook/q2Rhj103VtuMcdPlFGGS\">《2023 中国云原生成熟度模型报告》</a>\"下载完整报告。</p><p></p><p>中国云原生技术成熟度三大核心指标气泡图</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/eb/ebc3f4247c38edddfbd625126d37fd61.webp\" /></p><p></p><p>此外，在模型生成的过程中，我们注意到云原生技术正聚焦于具体业务场景落地，并希望与各位读者分享我们的观点。</p><p></p><p>技术生态、行业环境、宏观环境共同推动云原生技术聚焦业务场景落地</p><p>一方面是技术生态的高丰富度为云原生落地具体场景的能力提供了有效的支撑。云原生技术脱胎于云计算，而云计算经过长时间的技术发展与积累，底层技术（如，容器技术、容器编排等）已经发展较为成熟。同时，云算力的大规模提升、云弹性的不断升级与云开发门槛的不断降低也为云原生技术的发展与推广奠定了基础（<a href=\"https://www.infoq.cn/minibook/UGhD7MTY5Z43JG5YmWP3\">《中国软件技术发展洞察和趋势预测报告2023》</a>\"）。这使得云原生可以迅速地形成完善的技术生态。相对应地，从单一技术点扩展到提供完整的解决方案，云厂商也已经尽可能全面地扩充产品矩阵并覆盖各个细分领域。</p><p></p><p>从行业环境来看，企业服务、新技术环境与多行业场景的发展特点都向云原生技术提出更多发展要求。云原生诞生于企业也服务于企业，并且发展主要由企业主导。从开源的角度来看，云原生开源的项目几乎全部由公司发起并开源，极少有个人开发者主导进行的项目。从专利来源也可以看出，云原生领域从前沿技术到成熟技术均是由企业占据绝对的主导地位。并且，云原生领域的专利数量分布并不像人工智能领域具有从高校和研发机构向企业的转移过程（<a href=\"https://www.infoq.cn/minibook/IV4VhedKw1E1tY8Hleje\">《2023 中国人工智能成熟度模型报告》</a>\"）。讨论度极其火爆的人工智能技术赋予了云原生更多的应用场景，例如使用云原生技术搭建AI开发平台等。此外，金融、制造、零售等行业的进一步精益化生产的需求也在为云原生提供更多落地场景。</p><p></p><p>最后，在宏观层面，VUCA时代的大背景下，企业加倍地希望借助科技力量去全方位赋能业务（<a href=\"https://www.infoq.cn/minibook/oDh5G4Rcsc1gW1O1Tou8\">《中国科技领导者画像研究报告 2023》</a>\"）。在这种背景下，云原生与业务结合的速度与深度得到了企业的进一步推动。</p><p>注：VUCA分别代表，Volatile易变不稳定、Uncertain不确定、Complex复杂、Ambiguous模糊。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/1b/1bd35d6a7a28031beb4d1c7c15022031.webp\" /></p><p></p><p>InfoQ&nbsp;研究中心也期待未来中国云原生技术领域能够实现更好地发展，并在更多行业拥有更广泛的应用。InfoQ研究中心也将持续关注中国云原生领域的各项最新动态，也欢迎各位读者与云原生开发者一起加入探讨。</p><p>此外，在报告中我们还对&nbsp;20+&nbsp;云原生及其细分技术领域绘制了企业图谱和名录，欢迎大家点击阅读原文，下载完整报告。</p><p></p><p>中国云原生技术企业生态图谱</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/04/04fda557a6ea3e8aa8e3938c61095a6a.webp\" /></p><p></p>",
+    "publish_time": "2023-09-28 00:16:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
