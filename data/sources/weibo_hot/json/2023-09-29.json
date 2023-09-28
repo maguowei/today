@@ -709,5 +709,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "最难忘的一顿美味",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9C%80%E9%9A%BE%E5%BF%98%E7%9A%84%E4%B8%80%E9%A1%BF%E7%BE%8E%E5%91%B3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "志愿军雄兵出击",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BF%97%E6%84%BF%E5%86%9B%E9%9B%84%E5%85%B5%E5%87%BA%E5%87%BB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]

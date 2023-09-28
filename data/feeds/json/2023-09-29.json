@@ -1568,5 +1568,89 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "最难忘的一顿美味",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9C%80%E9%9A%BE%E5%BF%98%E7%9A%84%E4%B8%80%E9%A1%BF%E7%BE%8E%E5%91%B3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "志愿军雄兵出击",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BF%97%E6%84%BF%E5%86%9B%E9%9B%84%E5%85%B5%E5%87%BA%E5%87%BB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Sweden turns to military to help police combat gang crime",
+    "url": "https://www.ft.com/content/6b470a3a-178b-4f9a-95af-2d4a59b4c982",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37696014\">Comments</a>",
+    "publish_time": "2023-09-29 05:18:35",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "CVE-2023-42793 Vulnerability in TeamCity: Post-Mortem",
+    "url": "https://blog.jetbrains.com/teamcity/2023/09/cve-2023-42793-vulnerability-post-mortem/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37695290\">Comments</a>",
+    "publish_time": "2023-09-29 04:22:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Docker Hub Registry timming out",
+    "url": "https://www.dockerstatus.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37695154\">Comments</a>",
+    "publish_time": "2023-09-29 04:12:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Crux: Cross-platform app development in Rust",
+    "url": "https://redbadger.github.io/crux/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37695165\">Comments</a>",
+    "publish_time": "2023-09-29 04:13:28",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "RackNES: NES Module for VCV Rack",
+    "url": "https://github.com/Kautenja/RackNES",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37694910\">Comments</a>",
+    "publish_time": "2023-09-29 03:55:54",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Generative Fill with AI and 3D",
+    "url": "https://github.com/fill3d/fill",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37695530\">Comments</a>",
+    "publish_time": "2023-09-29 04:41:30",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
