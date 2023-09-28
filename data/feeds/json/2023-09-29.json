@@ -1430,5 +1430,143 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "阿维塔智驾征珠峰",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E7%BB%B4%E5%A1%94%E6%99%BA%E9%A9%BE%E5%BE%81%E7%8F%A0%E5%B3%B0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "周迅看那英的眼神",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E8%BF%85%E7%9C%8B%E9%82%A3%E8%8B%B1%E7%9A%84%E7%9C%BC%E7%A5%9E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "人类首次看见的那个黑洞证明确实在自旋",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%B1%BB%E9%A6%96%E6%AC%A1%E7%9C%8B%E8%A7%81%E7%9A%84%E9%82%A3%E4%B8%AA%E9%BB%91%E6%B4%9E%E8%AF%81%E6%98%8E%E7%A1%AE%E5%AE%9E%E5%9C%A8%E8%87%AA%E6%97%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "黄子弘凡看节目才知道自己被骗",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1%E7%9C%8B%E8%8A%82%E7%9B%AE%E6%89%8D%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E8%A2%AB%E9%AA%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何理解intp擅长解构，intj擅长建构？",
+    "url": "https://www.zhihu.com/question/623949617",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么卡卡西使用神威几乎不会损失视力?",
+    "url": "https://www.zhihu.com/question/621789862",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "最近一件让你感到快乐的事情是什么？是为什么快乐？",
+    "url": "https://www.zhihu.com/question/623691294",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "不说地名，一道菜证明你的家乡是哪里？",
+    "url": "https://www.zhihu.com/question/623666043",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Ask HN: How do your ML teams version datasets and models?",
+    "url": "https://news.ycombinator.com/item?id=37694701",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37694701\">Comments</a>",
+    "publish_time": "2023-09-29 03:41:19",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Smartphone sales down 22 percent in Q2, the worst performance in a decade",
+    "url": "https://arstechnica.com/google/2023/09/smartphone-sales-down-22-percent-in-q2-the-worst-performance-in-a-decade/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37695071\">Comments</a>",
+    "publish_time": "2023-09-29 04:06:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Bing Chat responses infiltrated by ads pushing malware",
+    "url": "https://www.bleepingcomputer.com/news/security/bing-chat-responses-infiltrated-by-ads-pushing-malware/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37694524\">Comments</a>",
+    "publish_time": "2023-09-29 03:28:40",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Dictionary of Algorithms and Data Structures",
+    "url": "https://xlinux.nist.gov/dads/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37695245\">Comments</a>",
+    "publish_time": "2023-09-29 04:19:26",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Bandcamp has been sold to Songtradr. What does this mean for the musicians?",
+    "url": "https://rocknerd.co.uk/2023/09/28/bandcamp-has-been-sold-to-songtradr/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37695035\">Comments</a>",
+    "publish_time": "2023-09-29 04:04:13",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "LibrePCB",
+    "url": "https://librepcb.org/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37694414\">Comments</a>",
+    "publish_time": "2023-09-29 03:23:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
