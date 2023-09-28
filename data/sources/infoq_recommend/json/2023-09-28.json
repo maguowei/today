@@ -9,5 +9,38 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "Llama 生态现状：下载量超过 3000 万次，GitHub 上有超 7000 个相关项目",
+    "url": "https://www.infoq.cn/article/2Kg4JCGdZWc632qllp9t",
+    "summary": "<p><a href=\"https://ai.meta.com/blog/large-language-model-llama-meta-ai/\">Meta发布Llama 1</a>\"至今已经 7 个月左右，而<a href=\"https://ai.meta.com/blog/llama-2/\">Llama 2</a>\"以及<a href=\"https://ai.meta.com/blog/code-llama-large-language-model-coding/\">Code Llama</a>\"的发布也有了数月的时间。当地时间9月27日，Meta发布博文系统介绍了当前 Llama 生态的情况。官方统计，通过 Hugging Face 的 Llama 模型下载量超过 3000 万次，其中仅在过去 30 天就超过了 1000 万次。</p><p>&nbsp;</p><p>当前的Llama 生态情况如下：</p><p>&nbsp;</p><p>云厂商：AWS、Google Cloud 和 Microsoft Azure 等主要平台已在其平台上采用了 Llama 模型，并且 Llama 2 在云中的使用正在扩大。Google Cloud 和 AWS 总共有超过 3,500 个企业项目基于 Llama 2 模型启动。此外，Meta 还宣布 AWS 成为 Llama 2 的首个托管 API 合作伙伴，各种规模的组织都可以访问 Amazon Bedrock 上的 Llama 2 模型，而无需管理底层基础设施。</p><p>&nbsp;</p><p>创新企业：包括 Anyscale、Replicate、Snowflake、LangSmith、Scale AI 等在内，已有上万家初创公司正在使用或评估 Llama 2。“像 DoorDash 这样的创新者正在使用它进行大规模试验，然后再发布由LLM支持的新功能。”</p><p>&nbsp;</p><p>众包优化：截至目前，社区已在Hugging Face上微调并发布了7000多个衍生品。平均而言，在标准基准测试中，它们将常见基准测试的性能提高了近 10%，对于 TruthQA 等基准数据集的性能提升高达 46%。</p><p>&nbsp;</p><p>开发者社区：GitHub 上现在有超过 7,000 个基于 Llama 构建或提及 Llama 的项目。为方便将 Llama 引入边缘设备和移动平台，新的工具、部署库、模型评估方法，甚至 Llama 的“微型”版本都在开发中。此外，社区还扩展了 Llama 以支持更大的上下文、增加了对其他语言的支持等。</p><p>&nbsp;</p><p>硬件支持：各大硬件平台AMD、Intel、Nvidia、Google均通过软硬件优化提升了Llama 2的性能。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/61/6123307306e980cfff4e10cfa74fbb84.png\" /></p><p>对于Llama 生态的未来，Meta表示，仍致力于为当今的人工智能提供开放的方法，主要会在多模态、安全责任和社区上投入更多关注。</p><p>&nbsp;</p><p>&nbsp;</p><p>参考链接：</p><p><a href=\"https://ai.meta.com/blog/llama-2-updates-connect-2023/\">https://ai.meta.com/blog/llama-2-updates-connect-2023/</a>\"</p>",
+    "publish_time": "2023-09-28 10:04:12",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "AIGC时代，如何提升端侧算力利用效率？| InfoQ《极客有约》",
+    "url": "https://www.infoq.cn/article/w4UPiNImmKac6OSgpEiP",
+    "summary": "<p>ChatGPT 的爆火掀起了 AI 大模型热潮，也进一步拉动了算力需求的爆发，面对呈指数级增长的算力需求，如何用得起、用得上、用得好算力成为大家普遍关心的问题。那么，在大规模 AI 模型训练中，如何保证算力的高效利用？有哪些技术或方法可以提升训练的效率和稳定性？AIGC 应用如何下沉到终端？本期，我们邀请到了英特尔中国技术部总经理高宇，为大家分享《AIGC 时代，如何提升算力利用效率？》。</p>",
+    "publish_time": "2023-09-28 10:46:25",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "Kyligence 联合创始人兼 CTO 李扬，确认担任 FCon 银行数智化建设专题出品人",
+    "url": "https://www.infoq.cn/article/1DpIt2XjUKaqzD8jDOhC",
+    "summary": "<p><a href=\"https://fcon.infoq.cn/2023/shanghai/?utm_source=infoqweb&amp;utm_medium=atricle\">FCon 全球金融科技大会</a>\"，将于 11 月在上海召开。Kyligence 联合创始人兼 CTO 李扬将担任「<a href=\"https://fcon.infoq.cn/2023/shanghai/track/1590?utm_source=infoqweb&amp;utm_medium=article\">银行数智化建设</a>\"」的专题出品人。在此次专题中，你将了解到数据是企业的战略资产，数据治理能力强弱直接影响数据价值的释放，以及金融企业在数据治理方面的实践与经验。</p><p></p><p><a href=\"https://fcon.infoq.cn/2023/shanghai/track/1590?utm_source=infoqweb&amp;utm_medium=article\">李扬</a>\"，Apache Kylin 联合创建者及 PMC Member，曾任职 eBay、IBM InfoSphere BigInsights、摩根士丹利，曾获 IBM “杰出技术贡献奖”获得者，专注研究大数据分析、并行计算、数据索引、关系数学、近似算法和压缩算法等前沿技术。在过去多年的工作经历中，直接参与并见证了 OLAP 技术的发展。</p><p></p><p>相信李扬的到来，可以帮助提升此专题的质量，让你认识到，数据治理是一个涉及企业战略、组织架构、数据标准、管理规范、执行落地、技术工具的综合体，同时也是企业数字化转型成功的前提与基石。通过本专题对金融企业在数据治理方面的实践与经验分享，为其他企业进行数据治理提供了思路，指明了方向。</p><p></p><p>除上述专题外，FCon 上海还将围绕 DevOps 在金融企业落地实践、金融行业大模型应用、创新的金融科技应用、金融实时数据平台建设之路、金融安全风险管控、数据要素流通与数据合规等专题进行交流。</p><p></p><p>FCon 上海 2023，相约 11 月！现在购票，前 100 人可享 5 折特惠购票，咨询购票请联系：17310043226（微信同手机号）。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/a8/a8ec7f7fb25c7949931b2b8a5deffddd.png\" /></p><p></p>",
+    "publish_time": "2023-09-28 11:30:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
