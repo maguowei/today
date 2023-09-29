@@ -9,5 +9,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "请教一个生活中的数学问题",
+    "url": "https://www.v2ex.com/t/978074",
+    "summary": "YiyangDing: 我们宿舍是 6 人寝，30 天电费是 100 元，其中一个人只用了 20 天就离开了，那么他的电费怎么算？<br />我是这样算的 100/6×2/3=11.11111111 。<br /><br />室友都认为是这样算的 20x+30×5x ＝ 100 ，<br />x ＝ 10/17 ，<br />20x ＝ 200/17=11.76 。<br /><br />我自认为我的数学不行，所以请教大家我算的为什么错，他算的为什么对，脑子转不过来了",
+    "publish_time": "2023-09-29 00:05:33",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "有什么好的小主机推荐吗？最好静音版的",
+    "url": "https://www.v2ex.com/t/978101",
+    "summary": "intoext: 需求：office 、wps 、pdf 等各种文档处理工具；<br />edge 、chrome 、Firefox 等各浏览器会开很多的网页，有时候一个浏览器开不了（标签栏太多导致提示性不够），用多个浏览器解决。经常开着 30 个左右的浏览器不关。<br />主要是需要来回对比网页资料，以及加工、半加工。16G 内存的占用在 80%以上是常态。 <br /><br />所以想着是内存大一些 32G 吧，另外写东西的时候不想被风扇打扰。如果有低压版无风扇更好。<br /><br />不打游戏，但是偶尔会在线看 4k 视频（就是腾讯臻彩那个层级） 也希望能带得动。<br /><br />网上随便找了找发现低压版的很多不支持 32G 内存。如果为了支持 32G 选高端 CPU ，性能浪费不说，也怕散热有问题。",
+    "publish_time": "2023-09-29 09:08:51",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "为什么没人讨论 Delphi 和 Pascal",
+    "url": "https://www.v2ex.com/t/978109",
+    "summary": "weiqk: 就语言特征来说有 oo 且严谨又足够简单，前后三十年可能都没有对手<br /><br />就开发工具来说我不信有任何一个开发工具能比得上 Delphi 和开源的 Lazarus<br /><br />跨平台看下 Lazarus ，几乎所有的平台都支持<br /><br />就开发效率而言，无论是 gui 、server 、client 都没有对手，就连做 web 开发都不知道比 PHP 强了多少<br /><br />就轮子数量和质量来说我不认为有对手<br /><br />但为什么就凉凉了？",
+    "publish_time": "2023-09-29 11:14:43",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
