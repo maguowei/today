@@ -31,5 +31,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "Amazon CodeWhisperer 与 Amazon Glue 实现集成，借助生成式 AI 进一步提升开发效率",
+    "url": "https://www.infoq.cn/article/5eIYlyxDCEUz1M58oATm",
+    "summary": "<p>数据对于企业做出明智决策、提高运营效率和开展创新来说至关重要。集成不同来源的数据是一个复杂而耗时的过程。为此，亚马逊云科技推出了&nbsp;<a href=\"https://xie.infoq.cn/article/be592baac4db6412394a6573f\">Amazon Glue</a>\"，帮助用户在无服务器基础设施上集成多个来源的数据，用于分析、机器学习和应用程序开发。</p><p></p><p>Amazon Glue 为数据集成任务提供了完全不同的编写体验，而&nbsp;Notebook 是最常见的工具之一。数据科学家倾向于以交互方式运行查询，并立即检索结果，用于编写数据集成任务。这种交互体验可以加速构建数据集成任务的进度。</p><p></p><p>近期，亚马逊云科技宣布了 <a href=\"https://www.infoq.cn/video/4oajrgIyfmkaaNFi7dJF\">Amazon CodeWhisperer</a>\" 正式可用。这是一款 <a href=\"https://www.infoq.cn/article/CkLkSpx0p9egiR1XLsON\">AI 编程助手</a>\"，能够使用底层基础模型帮助开发人员提高工作效率。它可以根据开发人员使用自然语言留下的注释和 IDE（集成开发环境）中的历史代码实时生成代码建议。此外，亚马逊云科技还发布了&nbsp;Amazon CodeWhisperer Jupyter 扩展程序，为 Jupyter 用户在 Jupyter Lab 和 Amazon SageMaker Studio 中的 Python notebook 生成实时、单行或完整的函数代码建议。</p><p></p><p>现在，亚马逊云科技正式宣布&nbsp;Amazon CodeWhisperer 为 Amazon Glue Studio notebook 提供支持，帮助 Amazon Glue 用户优化使用体验、提高开发效率。通过 Amazon Glue Studio notebook，开发人员可以用自然语言（英语）编写特定任务，比如“利用 json 文件中的内容创建一个 Spark DataFrame”。基于此信息，Amazon CodeWhisperer 会直接在 notebook 中推荐一个或多个可完成此任务的代码片段。开发人员可以选择“接受最推荐的建议”，“查看更多建议”或“继续自己编写代码”。</p><p></p><p>Amazon Glue Studio notebook 与 Amazon CodeWhisperer 之间的集成可以帮助用户更快开展数据集成工作。该集成目前已在美国东部（北弗吉尼亚州）可用。用户现在就可以着手将 Amazon Glue Studio notebook 与 Amazon CodeWhisper 进行集成，以加快数据集成构建工作。</p>",
+    "publish_time": "2023-09-29 18:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
