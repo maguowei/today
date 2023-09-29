@@ -20,5 +20,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "便携式大语言模型才是智能手机的未来",
+    "url": "https://www.infoq.cn/article/0egsdNL9lIRjk5gYG1QQ",
+    "summary": "<p>本文最初发布于The Register博客。</p><p>&nbsp;</p><p>智能手机的创新已经停滞。不久前发布的iPhone 15确实带来了一些不错的功能。但在一段时间内，我的iPhone 13还是可以满足我的需求，我不会急于更换。我之前的iPhone用了四年。</p><p>&nbsp;</p><p>在这款手机之前，我有充分的理由购买来自库比蒂诺的年度升级版本。但现在，我们能从中得到什么呢？iPhone 15<a href=\"https://www.theregister.com/2023/09/12/apple_announces_iphone_15_lineup/\">提供</a>\"了USB-C接口、更好的摄像头和更快的无线充电。这些功能都很好，但对大多数用户来说却并不是必需的。</p><p>&nbsp;</p><p>然而，鉴于目前近乎疯狂的人工智能创新浪潮，智能手机很快也会变得更好。</p><p>&nbsp;</p><p>几乎每个拥有智能手机的人都可以通过App或浏览器访问“三大”人工智能聊天机器人——OpenAI的ChatGPT、微软的Bing Chat和谷歌的Bard。</p><p>&nbsp;</p><p>这已经很好了。不过，除了这些“通用”人工智能聊天机器人之外，一项由另一家大型科技巨头牵头的秘密工作似乎正在占据上风。</p><p>&nbsp;</p><p>早在2月份，Meta AI Labs就<a href=\"https://www.theregister.com/2023/02/25/ai_in_brief/\">发布了LLaMA</a>\"——这是一个训练数据集和参数数量都变小了的大型语言模型。对于大型语言模型的工作原理，我们在直觉上还是会将其与更多的参数和更大的容量等同起来——例如，人们认为GPT-4有一万亿甚至更多的参数，尽管OpenAI对这个数字守口如瓶。</p><p>&nbsp;</p><p>Meta的LLaMA只有区区700亿个参数，甚至有一个版本只有70亿个。</p><p>&nbsp;</p><p>那么，是不是说LLaMA只有GPT-4的千分之一呢？这就是有趣的地方。虽然LLaMA从来没有在任何基准测试中击败过GPT-4，但它并不差——在许多情况下，它已经不是一般的好了。</p><p>&nbsp;</p><p>LLaMA是按Meta的方式开源的，研究人员可以使用其工具、技术来训练模型并迅速作出显著的改进。仅仅在几周之内，就出现了<a href=\"https://www.theregister.com/2023/03/21/stanford_ai_alpaca_taken_offline/\">Alpaca</a>\"、Vicuna等大型语言模型，每一个都优化得比LLaMA还好——同时，在基准测试中也和GPT-4越来越接近。</p><p>&nbsp;</p><p>当Meta AI实验室在7月份<a href=\"https://www.theregister.com/2023/07/19/meta_llama_2/\">发布LLaMA2</a>\"的时候——许可不再那么以Meta为中心——成千上万的AI程序员开始针对各种用例对它进行调整。</p><p>&nbsp;</p><p>Meta AI实验室自己也不甘落后，他们几周前<a href=\"https://www.theregister.com/2023/08/25/meta_lets_code_llama_run/\">发布了自己的微调版本Code LLaMA</a>\"——内嵌到IDE中提供代码补全功能，或者简单地提供分析和修复代码。此后两天之内，一家名为<a href=\"https://www.phind.com/blog/code-llama-beats-gpt4\">Phind</a>\"的初创公司就将Code LLaMA优化为一个可以在单项基准测试中击败GPT-4的大型语言模型。</p><p>&nbsp;</p><p>这是第一次，<a href=\"https://www.theregister.com/2023/05/11/open_source_ai_makes_subscriptions_irrelevant/\">算是对OpenAI、微软和谷歌的一次警告</a>\"。看似“微小”的大型语言模型也可以足够好，同时还足够小，不必在飞机机库大小的云计算设施中运行，不用像那样消耗大量的电力和水资源。相反，它们可以在笔记本电脑甚至智能手机上运行。</p><p>&nbsp;</p><p>不是理论上可以。几个月来，我一直在iPhone 13上运行<a href=\"https://mlc.ai/mlc-llm/\">MLC聊天应用</a>\"。它运行有着70亿个参数的LLaMA2模型并没有什么问题。这个迷你模型不如有着130亿个参数的LLaMA2模型亮眼（但我的智能手机没有足够的内存来容纳它），但它在尺寸和性能之间做了很好的平衡。</p><p>&nbsp;</p><p>iPhone 15也没有——尽管苹果的规格说明书省略了有关RAM的细节信息。</p><p>&nbsp;</p><p>这些面向个人的大型语言模型——在私有设备上运行——将很快成为智能手机操作系统的核心功能。它们会获取你所有的浏览数据、活动和医疗数据，甚至是财务数据——所有我们今天交给云计算用来对付我们的数据——它们会不断改进自己，更准确地体现我们的精神、身体和财务状况。</p><p>&nbsp;</p><p>它们会咨询，会鼓励，会警告。它们不会取代大量的通用模型，但它们也不会将我们所有的个人数据泄露到云端。大多数智能手机已经有足够的CPU和GPU来运行这些面向个人的大型语言模型，但它们需要更多的RAM。只要多一点内存，我们的智能手机就能变得更加智能。</p><p>&nbsp;</p><p>原文链接：<a href=\"https://www.theregister.com/2023/09/13/personal_ai_smartphone_future/?td=rt-3a\">https://www.theregister.com/2023/09/13/personal_ai_smartphone_future/?td=rt-3a</a>\"</p>",
+    "publish_time": "2023-09-29 10:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
