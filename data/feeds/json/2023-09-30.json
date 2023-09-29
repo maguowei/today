@@ -1490,5 +1490,87 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "超话中秋心愿签",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B6%85%E8%AF%9D%E4%B8%AD%E7%A7%8B%E5%BF%83%E6%84%BF%E7%AD%BE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "张远衣服上的玫瑰花是真的",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%BF%9C%E8%A1%A3%E6%9C%8D%E4%B8%8A%E7%9A%84%E7%8E%AB%E7%91%B0%E8%8A%B1%E6%98%AF%E7%9C%9F%E7%9A%84%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "动画看中秋里的亚运有多浪漫",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8A%A8%E7%94%BB%E7%9C%8B%E4%B8%AD%E7%A7%8B%E9%87%8C%E7%9A%84%E4%BA%9A%E8%BF%90%E6%9C%89%E5%A4%9A%E6%B5%AA%E6%BC%AB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "How did Qualcomm snatch defeat from the jaws of victory with their Oryon SoC?",
+    "url": "https://semiaccurate.com/2023/09/26/whats-going-on-with-qualcomms-oryon-soc/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37709270\">Comments</a>",
+    "publish_time": "2023-09-30 03:49:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Only Way to Know If GPT-4 Got Dumber",
+    "url": "https://www.latent.space/i/137474557/the-only-way-to-know-if-gpt-got-dumber",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37708845\">Comments</a>",
+    "publish_time": "2023-09-30 03:10:18",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Insomnium – Local, privacy-focused fork of Insomnia API client",
+    "url": "https://github.com/ArchGPT/insomnium",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37708582\">Comments</a>",
+    "publish_time": "2023-09-30 02:49:16",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Soviet computer has been forgotten for 30 years [video]",
+    "url": "https://www.youtube.com/watch?v=lVCS99Zep9w",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37709876\">Comments</a>",
+    "publish_time": "2023-09-30 04:44:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Recommended Architectures for PostgreSQL in Kubernetes",
+    "url": "https://www.cncf.io/blog/2023/09/29/recommended-architectures-for-postgresql-in-kubernetes/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37709687\">Comments</a>",
+    "publish_time": "2023-09-30 04:25:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
