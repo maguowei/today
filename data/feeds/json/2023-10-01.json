@@ -1356,5 +1356,114 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "高铁超员触发报警无法发车系假消息",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E8%B6%85%E5%91%98%E8%A7%A6%E5%8F%91%E6%8A%A5%E8%AD%A6%E6%97%A0%E6%B3%95%E5%8F%91%E8%BD%A6%E7%B3%BB%E5%81%87%E6%B6%88%E6%81%AF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "国庆节快乐",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E8%8A%82%E5%BF%AB%E4%B9%90%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "新中国成立74周年",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B8%AD%E5%9B%BD%E6%88%90%E7%AB%8B74%E5%91%A8%E5%B9%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "一起祝福新中国生日快乐",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%B5%B7%E7%A5%9D%E7%A6%8F%E6%96%B0%E4%B8%AD%E5%9B%BD%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "刘诗诗狐妖竹叶篇绿衣路透图",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E7%8B%90%E5%A6%96%E7%AB%B9%E5%8F%B6%E7%AF%87%E7%BB%BF%E8%A1%A3%E8%B7%AF%E9%80%8F%E5%9B%BE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "23-24 赛季英超热刺 2:1 利物浦，如何评价这场比赛？",
+    "url": "https://www.zhihu.com/question/624405972",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Reorient GitHub Pull Requests Around Changesets",
+    "url": "https://mitchellh.com/writing/github-changesets",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37718132\">Comments</a>",
+    "publish_time": "2023-10-01 02:09:46",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Bots Should Punch Up",
+    "url": "https://www.crummy.com/2013/11/27/0",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37719298\">Comments</a>",
+    "publish_time": "2023-10-01 04:15:00",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "AdaCore Announces Gnat Pro for Rust",
+    "url": "https://www.adacore.com/press/adacore-announces-gnat-pro-for-rust",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37719308\">Comments</a>",
+    "publish_time": "2023-10-01 04:16:16",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "NIR: Nim Intermediate Representation",
+    "url": "https://github.com/nim-lang/Nim/pull/22777",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37719971\">Comments</a>",
+    "publish_time": "2023-10-01 05:23:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The man who did not have a conversation in over 50 years",
+    "url": "https://en.wikipedia.org/wiki/Andr%C3%A1s_Toma",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37719668\">Comments</a>",
+    "publish_time": "2023-10-01 04:51:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
