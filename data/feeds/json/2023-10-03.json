@@ -1266,5 +1266,74 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "霸王茶姬联名盗墓笔记",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E8%81%94%E5%90%8D%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "大叔脱掉儿子衣服求叶诗文签字",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%8F%94%E8%84%B1%E6%8E%89%E5%84%BF%E5%AD%90%E8%A1%A3%E6%9C%8D%E6%B1%82%E5%8F%B6%E8%AF%97%E6%96%87%E7%AD%BE%E5%AD%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "你遇到的最搞笑的试卷答案是什么？",
+    "url": "https://www.zhihu.com/question/39854849",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "刘德华主演《莫斯科行动》开分 7.3，知乎推荐度 74%，高了还是低了，符合你的预期吗？",
+    "url": "https://www.zhihu.com/question/624388739",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "ASCII FacePalm",
+    "url": "http://www.asciifacepalm.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37741269\">Comments</a>",
+    "publish_time": "2023-10-03 01:14:44",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Anything World – AI for 3D auto-rigging and animation",
+    "url": "https://anything.world/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37741575\">Comments</a>",
+    "publish_time": "2023-10-03 01:32:48",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Wilhelm Reich on pleasure and the genesis of anxiety (2021)",
+    "url": "https://epochemagazine.org/44/wilhelm-reich-on-pleasure-and-the-genesis-of-anxiety/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37742067\">Comments</a>",
+    "publish_time": "2023-10-03 02:05:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
