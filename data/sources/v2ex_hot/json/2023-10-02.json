@@ -31,5 +31,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "家用 NAS 私有云 求推荐",
+    "url": "https://www.v2ex.com/t/978553",
+    "summary": "AnonymouSam: <p>之前也没有实际上手接触过 NAS ，仅仅是看过一些介绍视频，因此 DIY NAS 这一部分就不在考虑范围内了。</p>\n<p>预算在 1200CNY 以下（不含硬盘）</p>\n<p>用途/需求：</p>\n<ol>\n<li>用作照片/视频的存储，希望全家人（老婆，女儿，长辈）能够通过手机或者他们自己的电脑，在家庭局域网内能够无延迟浏览这些照片视频。外界网络对于文件的访问性能没有太大需求</li>\n<li>能够远程控制开关机</li>\n<li>最多考虑双盘位，单盘其实也已经足够</li>\n<li>安全考虑，因为部分内容可能涉及到隐私，所以希望厂家没有不良历史（扫描全盘资源/未经授权的删除）</li>\n</ol>\n<p>最后，说明一下因为我个人的偏好，暂时不考虑在网盘进行明文储存。因此 用途 4 对于我来讲也是一个重要因素，希望自己能够对数据有绝对控制权，同时不希望厂家能够访问到这些内容。</p>\n<p>因为自己对这方面并不是很懂，想请大家根据我的需求，提一些购买意见，谢谢大家！</p>",
+    "publish_time": "2023-10-02 11:15:28",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "vercel 跪了，静态博客该搬到哪里",
+    "url": "https://www.v2ex.com/t/978574",
+    "summary": "Caturra: 静态博客放到 vercel 也有半年了，直连效果一直很不错，就是国庆直接被墙干没了<br /><br />临时搬到 cloudflare pages ，访问速度又过于感人<br /><br />现在还有什么选择？",
+    "publish_time": "2023-10-02 14:25:34",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
