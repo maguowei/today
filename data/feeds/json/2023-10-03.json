@@ -1019,5 +1019,132 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "饮水思源莫忘来时路",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%A5%AE%E6%B0%B4%E6%80%9D%E6%BA%90%E8%8E%AB%E5%BF%98%E6%9D%A5%E6%97%B6%E8%B7%AF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "官方辟谣高中经费紧张号召家长捐款",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E9%AB%98%E4%B8%AD%E7%BB%8F%E8%B4%B9%E7%B4%A7%E5%BC%A0%E5%8F%B7%E5%8F%AC%E5%AE%B6%E9%95%BF%E6%8D%90%E6%AC%BE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "黄轩问为什么都叫我漂亮小狗",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E8%BD%A9%E9%97%AE%E4%B8%BA%E4%BB%80%E4%B9%88%E9%83%BD%E5%8F%AB%E6%88%91%E6%BC%82%E4%BA%AE%E5%B0%8F%E7%8B%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "佛山国潮音乐节",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%9B%E5%B1%B1%E5%9B%BD%E6%BD%AE%E9%9F%B3%E4%B9%90%E8%8A%82%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何看待杭州亚运会《DOTA2》 项目比赛现场观众报点？",
+    "url": "https://www.zhihu.com/question/624439544",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "什么原因导致黄金爆跌?",
+    "url": "https://www.zhihu.com/question/624202492",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "怎么样才是真正的休息?",
+    "url": "https://www.zhihu.com/question/27418122",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价田伯光？",
+    "url": "https://www.zhihu.com/question/30738288",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Google Alters Search Queries to Get at Your Wallet",
+    "url": "https://www.wired.com/story/google-antitrust-lawsuit-search-results/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37740425\">Comments</a>",
+    "publish_time": "2023-10-03 00:27:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: OpenStatus – Open-source monitoring with incident managements",
+    "url": "https://www.openstatus.dev",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37740870\">Comments</a>",
+    "publish_time": "2023-10-03 00:52:26",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Stable LM 3B: Bringing Sustainable, High-Performance LMs to Smart Devices",
+    "url": "https://stability.ai/blog/stable-lm-3b-sustainable-high-performance-language-models-smart-devices",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37739965\">Comments</a>",
+    "publish_time": "2023-10-03 00:04:41",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Microsoft Defender flags Tor browser as a trojan and removes it from the system",
+    "url": "https://deform.co/microsoft-defender-flags-tor-browser-as-a-trojan-and-removes-it-from-the-system/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37740468\">Comments</a>",
+    "publish_time": "2023-10-03 00:29:13",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Streaming LLM – No limit on context length for your favourite LLM",
+    "url": "https://github.com/mit-han-lab/streaming-llm",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37740932\">Comments</a>",
+    "publish_time": "2023-10-03 00:56:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
