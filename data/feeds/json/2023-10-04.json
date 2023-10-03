@@ -1057,5 +1057,103 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "潮涌杭州看亚运",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%BD%AE%E6%B6%8C%E6%9D%AD%E5%B7%9E%E7%9C%8B%E4%BA%9A%E8%BF%90%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "王一博张子枫同框看秀",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%BC%A0%E5%AD%90%E6%9E%AB%E5%90%8C%E6%A1%86%E7%9C%8B%E7%A7%80%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "黄子诚被女友出卖绑架",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E8%AF%9A%E8%A2%AB%E5%A5%B3%E5%8F%8B%E5%87%BA%E5%8D%96%E7%BB%91%E6%9E%B6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "韩素希演我精神状态",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%B4%A0%E5%B8%8C%E6%BC%94%E6%88%91%E7%B2%BE%E7%A5%9E%E7%8A%B6%E6%80%81%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "杭州亚运会男子 4×100 米接力决赛中国队最后一棒逆转夺金，如何评价他们的表现？",
+    "url": "https://www.zhihu.com/question/624640182",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "有没有比黑暗森林更黑暗的理论？",
+    "url": "https://www.zhihu.com/question/418127358",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Meta wants to charge EU users $14/month if they don't agree to personalized ads",
+    "url": "https://www.businessinsider.com/meta-charges-eu-users-for-ad-free-instagram-and-facebook-2023-10",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37754402\">Comments</a>",
+    "publish_time": "2023-10-04 00:50:46",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ask HN: Best books to understand semiconductor business?",
+    "url": "https://news.ycombinator.com/item?id=37754287",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37754287\">Comments</a>",
+    "publish_time": "2023-10-04 00:44:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Honey, I shrunk the NPM package · Jamie Magee",
+    "url": "https://jamiemagee.co.uk/blog/honey-i-shrunk-the-npm-package/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37754489\">Comments</a>",
+    "publish_time": "2023-10-04 00:55:55",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: A better visual builder for complex business logic",
+    "url": "https://www.superblocks.com/blog/introducing-control-blocks-build-any-backend-business-logic-visually",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37754792\">Comments</a>",
+    "publish_time": "2023-10-04 01:18:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
