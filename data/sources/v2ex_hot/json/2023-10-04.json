@@ -53,5 +53,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "微信视频呼叫等待时音量过大",
+    "url": "https://www.v2ex.com/t/978824",
+    "summary": "xofyarg: <p>安卓 13 ，Google play 版本的微信，在视频呼叫，对方暂未接听时，铃声是从手机的免提外放发出的，感觉特别吵。找遍了系统和微信的设置，没发现在那里能够调教这个音量。系统设置了静音，多媒体音量也调节至最低，但还是没有效果。请问应该如何调节？谢谢。</p>",
+    "publish_time": "2023-10-04 10:07:43",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "Python 有没有好用的本地文件实现的 key， value 存储",
+    "url": "https://www.v2ex.com/t/978875",
+    "summary": "iorilu: <p>其实经常有本地存储一些信息数据的需求</p>\n<p>一般都是通过各种配置文件比如什么 ini ，json ，toml ，yaml 等等东西</p>\n<p>但配置文件必须完整存储， 并不适合存储大量信息</p>\n<p>一般真存多点信息都用 sqlite 了</p>\n<p>我想如果有一个类似 redis 的接口， 可能不需要那么复杂</p>\n<p>但能做到键值存储， 随机访问， 性能还行的本地文件实现的库，那是很好的啊</p>\n<p>具体要求如下</p>\n<ol>\n<li>支持随机 key ，value 存储访问</li>\n<li>没有任何安装</li>\n<li>只是用单文件存储内容， 方便复制备份等</li>\n<li>性能类似那种本地数据库比如 sqlite ， 当然快点更好</li>\n</ol>",
+    "publish_time": "2023-10-04 14:26:21",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
