@@ -1320,5 +1320,100 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "中国女篮",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "于和伟 能看到就不错了还要啥自行车",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8E%E5%92%8C%E4%BC%9F+%E8%83%BD%E7%9C%8B%E5%88%B0%E5%B0%B1%E4%B8%8D%E9%94%99%E4%BA%86%E8%BF%98%E8%A6%81%E5%95%A5%E8%87%AA%E8%A1%8C%E8%BD%A6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Ring Attention with Blockwise Transformers for Near-Infinite Context",
+    "url": "https://arxiv.org/abs/2310.01889",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37769893\">Comments</a>",
+    "publish_time": "2023-10-05 02:54:13",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "\"You have a 27% 'AI' issue in here\"",
+    "url": "https://twitter.com/rustykitty_/status/1709316764868153537",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37767205\">Comments</a>",
+    "publish_time": "2023-10-05 00:06:41",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Expressive Text-to-Image Generation with Rich Text",
+    "url": "https://rich-text-to-image.github.io/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37770260\">Comments</a>",
+    "publish_time": "2023-10-05 03:21:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Many scientists don’t want to tell the truth about climate change. Here’s why",
+    "url": "https://www.wbur.org/cognoscenti/2023/10/03/1-5-degrees-celcius-un-climate-change-report-barbara-moran",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37770384\">Comments</a>",
+    "publish_time": "2023-10-05 03:31:27",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Sqinn-Go is a Golang library for accessing SQLite databases in pure Go",
+    "url": "https://github.com/cvilsmeier/sqinn-go",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37769633\">Comments</a>",
+    "publish_time": "2023-10-05 02:36:46",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Rust nom parsing Starcraft2 Replays into Arrow for Polars data analysis",
+    "url": "https://github.com/sebosp/s2protocol-rs",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37770008\">Comments</a>",
+    "publish_time": "2023-10-05 03:03:36",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Vespa.ai is spinning out of Yahoo as a separate company",
+    "url": "https://blog.vespa.ai/vespa-is-becoming-its-own-company/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37769962\">Comments</a>",
+    "publish_time": "2023-10-05 03:00:07",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
