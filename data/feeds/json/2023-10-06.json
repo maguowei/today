@@ -1440,5 +1440,87 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "网民违规发布迷笛结束要清场不实信息",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%B0%91%E8%BF%9D%E8%A7%84%E5%8F%91%E5%B8%83%E8%BF%B7%E7%AC%9B%E7%BB%93%E6%9D%9F%E8%A6%81%E6%B8%85%E5%9C%BA%E4%B8%8D%E5%AE%9E%E4%BF%A1%E6%81%AF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "中国女篮亚运第七冠",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E4%BA%9A%E8%BF%90%E7%AC%AC%E4%B8%83%E5%86%A0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "第一次 Cosplay 是种怎样的体验？",
+    "url": "https://www.zhihu.com/question/29916311",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Vivaldi Takes a Bite Out of the Apple: Introducing Vivaldi on iOS",
+    "url": "https://vivaldi.com/blog/vivaldi-browser-launches-on-ios/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37781125\">Comments</a>",
+    "publish_time": "2023-10-06 01:03:39",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "BuildZoom (better way to build custom homes) Is hiring a Growth Associate",
+    "url": "https://jobs.lever.co/buildzoom",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37784251\">Comments</a>",
+    "publish_time": "2023-10-06 05:00:56",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Oldest footprints in North America push back human arrival",
+    "url": "https://www.washingtonpost.com/science/2023/10/05/oldest-human-footprint-americas-white-sands/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37782308\">Comments</a>",
+    "publish_time": "2023-10-06 02:36:30",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Test Anything Protocol",
+    "url": "https://testanything.org/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37783025\">Comments</a>",
+    "publish_time": "2023-10-06 03:21:42",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How fast are Linux pipes anyway? (2022)",
+    "url": "https://mazzo.li/posts/fast-pipes.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37782493\">Comments</a>",
+    "publish_time": "2023-10-06 02:49:29",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
