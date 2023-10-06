@@ -1155,5 +1155,67 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "他从火光中走来",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%8E%E7%81%AB%E5%85%89%E4%B8%AD%E8%B5%B0%E6%9D%A5%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "五条人被乐夏淘汰三次复活三次",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9D%A1%E4%BA%BA%E8%A2%AB%E4%B9%90%E5%A4%8F%E6%B7%98%E6%B1%B0%E4%B8%89%E6%AC%A1%E5%A4%8D%E6%B4%BB%E4%B8%89%E6%AC%A1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Phishing 2FA 25 years ago",
+    "url": "https://twitter.com/123456/status/1710359310419607976",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37794443\">Comments</a>",
+    "publish_time": "2023-10-07 02:34:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Support HDR images in your app [video]",
+    "url": "https://developer.apple.com/videos/play/wwdc2023/10181/?cmdf=apple+support+iso+hdr+ISO%2FTS+22028-5",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37793788\">Comments</a>",
+    "publish_time": "2023-10-07 01:49:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The ozone hole above Antarctica has grown to three times the size of Brazil",
+    "url": "https://www.space.com/ozone-hole-antarctica-three-times-size-of-brazil",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37793941\">Comments</a>",
+    "publish_time": "2023-10-07 02:00:28",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "AMD May Get Across the CUDA Moat",
+    "url": "https://www.hpcwire.com/2023/10/05/how-amd-may-get-across-the-cuda-moat/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37793635\">Comments</a>",
+    "publish_time": "2023-10-07 01:35:36",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
