@@ -284,5 +284,38 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "HVM updates: simplifications, finally runs on GPUs, 80x speedup on RTX 4090",
+    "url": "https://twitter.com/VictorTaelin/status/1710766199288570079",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37805759\">Comments</a>",
+    "publish_time": "2023-10-08 05:35:22",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Dockerized local and offline backing up of PostgreSQL with rotation, compression",
+    "url": "https://github.com/efrecon/pgbackup",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37805337\">Comments</a>",
+    "publish_time": "2023-10-08 04:39:42",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Researchers find link between plastic additive and autism, ADHD",
+    "url": "https://today.rowan.edu/news/2023/09/researchers-find-bpa-links-to-autism-adhd.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37803949\">Comments</a>",
+    "publish_time": "2023-10-08 01:55:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
