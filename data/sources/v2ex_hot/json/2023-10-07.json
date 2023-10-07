@@ -20,5 +20,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "发现很多人分不清 jwt 和类 session token 的区别？",
+    "url": "https://www.v2ex.com/t/979326",
+    "summary": "xiaomada: 起因是今天一个群里有兄弟问修改密码后 jwt 怎么失效过期问题，然后一个小伙子说现在所有的接口开发都是使用 jwt ，我一瞬间都有些怀疑是不是自己记忆错乱了，因为我自己向来是非必要不使用 jwt 的，主要是这玩意签发后不可控，而且我抓包过一些大厂的应用，基本没见过头部厂商使用 jwt 做客户端和服务端 API 认证的，服务端与服务端之间有一些，比如 OIDC 里的 jwt ，然后小厂商应用还是有不少用 jwt 的，但明显达不到全使用 jwt 这种说法，半壁江山都很难说。<br /><br />我质疑了这小伙几句，这小伙子居然嘲讽起我，让我不会走就别学跑，想想自己是不是天才，给我气麻了。<br /><br />然后我也懒得打嘴炮，决定自己求证一下，然后搜到的内容就更让我焦麻了，因为我理解的 token 是这样的有两种<br />1 、Json web token (jwt)<br />2 、类 SESSION 模型 Token (没有统一叫法，原理为自定义生成 token ，token 对应信息在服务端储存，一般 redis 中，原理基本与 SESSION 相同，只不过 session_id 变成了 token ，且不再由后端写入到 cookie 中)<br /><br />这两种 token 模式对客户端来说都区别不大，唯一的区别是 jwt 可以解读信息，2 不可由客户端解读。<br /><br />然后我搜到的帖子和讨论给我惊呆了，很多程序员分不清这两种 token 的区别，包括很多后端，令我错愕的好几点:<br />1 、很多人固执的认为，session 是网页时代的东西了，现在的 spa 页面和 APP 都只能使用 jwt<br />2 、分不清 token 本身有好几种实现模式。<br />3 、有的前端虽然在使用 jwt ，但他们不知道 jwt 本身载了内容，也不会去解析，因为后端直接给他们一次签发几个月有效期的。<br /><br />这种感觉就像我之前发现很多人分不清前端和 web 前端的区别一样，我一直以为这些似乎是常识，但是突然好像发现并不是",
+    "publish_time": "2023-10-07 01:32:21",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "武汉还是杭州？",
+    "url": "https://www.v2ex.com/t/979358",
+    "summary": "MicroG: 预选两个地域，武汉 or 杭州，如果忽略部门，仅考虑地域，V 友更推荐哪个城市？",
+    "publish_time": "2023-10-07 09:32:31",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "Google 真是臉都不要了",
+    "url": "https://www.v2ex.com/t/979388",
+    "summary": "sloknyyz: <p>今天突然發現自帶的輸入法輸入變成了繁體，就去 Google 搜索下載搜狗輸入法，結果前三排竟然都是同一個野鷄網站\n<a href=\"https://s.wdfeff.club/%EF%BC%8C\" rel=\"nofollow\">https://s.wdfeff.club/，</a> 做的和官網還一模一樣，下載下來的程序沒有簽名，估計是什麽木馬病毒。</p>\n<p>這是搜索結果排名的圖片，可沒冤枉 Google ，他還貼心的給你標注是贊助商廣告。\n<a href=\"https://imgur.com/a/fownNfu\" rel=\"nofollow\">https://imgur.com/a/fownNfu</a></p>\n<p>能理解打廣告，但你好歹把官網放在第一排啊，誰給的錢多就把誰放第一個，這和百度有什麽區別，Google 早點死吧。</p>",
+    "publish_time": "2023-10-07 10:14:33",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
