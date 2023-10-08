@@ -619,5 +619,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "我们为中国健儿喝彩",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%81%A5%E5%84%BF%E5%96%9D%E5%BD%A9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "换位思考的理解最暖人心",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%8D%A2%E4%BD%8D%E6%80%9D%E8%80%83%E7%9A%84%E7%90%86%E8%A7%A3%E6%9C%80%E6%9A%96%E4%BA%BA%E5%BF%83%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]

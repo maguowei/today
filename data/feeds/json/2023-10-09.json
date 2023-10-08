@@ -1254,5 +1254,127 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "我们为中国健儿喝彩",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%81%A5%E5%84%BF%E5%96%9D%E5%BD%A9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "换位思考的理解最暖人心",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%8D%A2%E4%BD%8D%E6%80%9D%E8%80%83%E7%9A%84%E7%90%86%E8%A7%A3%E6%9C%80%E6%9A%96%E4%BA%BA%E5%BF%83%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "报道称「巴以新一轮冲突已致以色列超 300 人死亡」，目前情况如何？为何巴以冲突不断加剧？",
+    "url": "https://www.zhihu.com/question/625093089",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "能分享一张一眼就觉得惊艳的照片吗？",
+    "url": "https://www.zhihu.com/question/368541637",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "小学有什么真相，可以让普娃走走捷径？",
+    "url": "https://www.zhihu.com/question/622591887",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "New study definitively confirms gulf stream weakening",
+    "url": "https://phys.org/news/2023-09-definitively-gulf-stream-weakening.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37812847\">Comments</a>",
+    "publish_time": "2023-10-09 01:59:36",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Calling Rust from Python",
+    "url": "https://blog.frankel.ch/rust-from-python/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37811953\">Comments</a>",
+    "publish_time": "2023-10-09 00:34:46",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Era of Startups Is Over",
+    "url": "https://acecreamu.substack.com/p/hard-time-for-startups",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37812259\">Comments</a>",
+    "publish_time": "2023-10-09 01:00:36",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Tailscale Universal Docker Mod",
+    "url": "https://tailscale.dev/blog/docker-mod-tailscale",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37812142\">Comments</a>",
+    "publish_time": "2023-10-09 00:51:28",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Scaling Knative to 100K+ Webapps",
+    "url": "https://render.com/blog/knative",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37811814\">Comments</a>",
+    "publish_time": "2023-10-09 00:21:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The NYC's MTA 20 Year Needs Assessment Reminds Us They Can't Build",
+    "url": "https://pedestrianobservations.com/2023/10/06/the-mta-20-year-needs-assessment-reminds-us-they-cant-build/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37812513\">Comments</a>",
+    "publish_time": "2023-10-09 01:26:33",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ferrocene – Rust for Critical Systems",
+    "url": "https://ferrous-systems.com/ferrocene/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37812782\">Comments</a>",
+    "publish_time": "2023-10-09 01:53:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
