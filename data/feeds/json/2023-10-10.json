@@ -1188,5 +1188,131 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "浙江的山还能这样爬吗",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E7%9A%84%E5%B1%B1%E8%BF%98%E8%83%BD%E8%BF%99%E6%A0%B7%E7%88%AC%E5%90%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "音乐和气味是最强大的搜索引擎",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9F%B3%E4%B9%90%E5%92%8C%E6%B0%94%E5%91%B3%E6%98%AF%E6%9C%80%E5%BC%BA%E5%A4%A7%E7%9A%84%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "统计学2020年以后的研究趋势是哪些？",
+    "url": "https://www.zhihu.com/question/624834153",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Lensm, a Tool for Viewing Disassembly",
+    "url": "https://www.storj.io/blog/lensm",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37822284\">Comments</a>",
+    "publish_time": "2023-10-10 00:45:40",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A new modern look for the Android brand",
+    "url": "https://blog.google/products/android/modern-look/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37821868\">Comments</a>",
+    "publish_time": "2023-10-10 00:10:36",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "EMPShield investing $1.9B with CHIPS support to build factory in Kansas",
+    "url": "https://www.kansascommerce.gov/2023/02/governor-kelly-announces-emp-shield-plans-to-build-1-9-billion-1200-job-computer-chip-manufacturing-facility-in-coffey-county/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37823430\">Comments</a>",
+    "publish_time": "2023-10-10 02:18:54",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "'This Is a False Advertisement': X Ads Are Being Challenged by Reader Context",
+    "url": "https://www.wsj.com/articles/this-is-a-false-advertisement-x-ads-are-being-challenged-by-reader-context-239ef2e6",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37823457\">Comments</a>",
+    "publish_time": "2023-10-10 02:21:13",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "You (Probably) Shouldn't Use a Lookup Table",
+    "url": "https://specbranch.com/posts/lookup-tables/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37823805\">Comments</a>",
+    "publish_time": "2023-10-10 02:48:57",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "789 KB Linux Without MMU on RISC-V",
+    "url": "https://popovicu.com/posts/789-kb-linux-without-mmu-riscv/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37822082\">Comments</a>",
+    "publish_time": "2023-10-10 00:28:56",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Extreme Parkour with Legged Robots",
+    "url": "https://extreme-parkour.github.io/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37823440\">Comments</a>",
+    "publish_time": "2023-10-10 02:19:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "LLMs can't self-correct in reasoning tasks, DeepMind study finds",
+    "url": "https://bdtechtalks.com/2023/10/09/llm-self-correction-reasoning-failures/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37823543\">Comments</a>",
+    "publish_time": "2023-10-10 02:28:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Bare-metal Rust in Android",
+    "url": "https://security.googleblog.com/2023/10/bare-metal-rust-in-android.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37823377\">Comments</a>",
+    "publish_time": "2023-10-10 02:13:20",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
