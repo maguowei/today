@@ -1314,5 +1314,23 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "居然被一只流浪狗安慰了",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B1%85%E7%84%B6%E8%A2%AB%E4%B8%80%E5%8F%AA%E6%B5%81%E6%B5%AA%E7%8B%97%E5%AE%89%E6%85%B0%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "什么是“文”，什么是“文明”而不是“武明”？",
+    "url": "https://www.zhihu.com/question/624862613",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
   }
 ]
