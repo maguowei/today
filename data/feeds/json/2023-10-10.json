@@ -1519,5 +1519,89 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "赵又廷毛晓彤跳舞金世佳划水",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%8F%88%E5%BB%B7%E6%AF%9B%E6%99%93%E5%BD%A4%E8%B7%B3%E8%88%9E%E9%87%91%E4%B8%96%E4%BD%B3%E5%88%92%E6%B0%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "想写小说，但是写不出来怎么办？",
+    "url": "https://www.zhihu.com/question/510399128",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美股三大指数集体收涨，小鹏汽车跌超10%",
+    "url": "https://www.36kr.com/newsflashes/2467746777552771",
+    "summary": "36氪获悉，10月9日收盘，美股三大指数集体上涨，道指涨0.59%，纳指涨0.39%，标普500指数涨0.63%。大型科技股多数上涨，Netflix涨超1％，Meta涨0.93％，苹果涨0.85％，微软涨0.78％，谷歌涨0.61％，亚马逊涨0.23％；特斯拉跌0.33％。热门中概股涨跌不一，名创优品涨超5％，微博、富途控股涨超2％，拼多多涨超1%；小鹏汽车跌超10%，理想汽车、蔚来跌超4%，阿里巴巴、京东跌超1％。",
+    "publish_time": "2023-10-10 07:00:00",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Ask HN: Brother printers sending ink data to Amazon?",
+    "url": "https://news.ycombinator.com/item?id=37825653",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37825653\">Comments</a>",
+    "publish_time": "2023-10-10 05:19:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Egyptian banks suspend debit card use in foreign currency",
+    "url": "https://www.reuters.com/markets/currencies/egyptian-banks-suspend-debit-card-use-foreign-currency-2023-10-05/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37826095\">Comments</a>",
+    "publish_time": "2023-10-10 06:09:44",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "John Riccitiello steps down as CEO of Unity",
+    "url": "https://venturebeat.com/games/john-riccitiello-steps-down-as-ceo-of-unity-after-pricing-battle/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37825292\">Comments</a>",
+    "publish_time": "2023-10-10 04:46:49",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Future of CSS: Easy Light-Dark Mode Color Switching with Light-Dark()",
+    "url": "https://www.bram.us/2023/10/09/the-future-of-css-easy-light-dark-mode-color-switching-with-light-dark/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37826082\">Comments</a>",
+    "publish_time": "2023-10-10 06:08:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "DSLinux – Linux for the Nintendo DS",
+    "url": "https://www.dslinux.org/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37826357\">Comments</a>",
+    "publish_time": "2023-10-10 06:41:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
