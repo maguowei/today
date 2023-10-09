@@ -1332,5 +1332,114 @@
       "desc": "知乎热榜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
     }
+  },
+  {
+    "title": "真正的伦敦在河南",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%9C%9F%E6%AD%A3%E7%9A%84%E4%BC%A6%E6%95%A6%E5%9C%A8%E6%B2%B3%E5%8D%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "你能接受自己老了进养老院吗",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%83%BD%E6%8E%A5%E5%8F%97%E8%87%AA%E5%B7%B1%E8%80%81%E4%BA%86%E8%BF%9B%E5%85%BB%E8%80%81%E9%99%A2%E5%90%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "孙艺洲有点功夫在腿上",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E8%89%BA%E6%B4%B2%E6%9C%89%E7%82%B9%E5%8A%9F%E5%A4%AB%E5%9C%A8%E8%85%BF%E4%B8%8A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "终于看到先脱鞋再进门的欧美人",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9C%8B%E5%88%B0%E5%85%88%E8%84%B1%E9%9E%8B%E5%86%8D%E8%BF%9B%E9%97%A8%E7%9A%84%E6%AC%A7%E7%BE%8E%E4%BA%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "《红楼梦》中秦可卿和公公有了这种丑事，为什么上上下下还都尊重她，难道又是反话？",
+    "url": "https://www.zhihu.com/question/623908313",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "大家谈恋爱时，是更看重「对方的家庭氛围」还是「对方这个人」呢？",
+    "url": "https://www.zhihu.com/question/620616140",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "John Riccitiello steps down as CEO of Unity after pricing battle",
+    "url": "https://venturebeat.com/games/john-riccitiello-steps-down-as-ceo-of-unity-after-pricing-battle/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37825292\">Comments</a>",
+    "publish_time": "2023-10-10 04:46:49",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "You probably shouldn't use a lookup table (2022)",
+    "url": "https://specbranch.com/posts/lookup-tables/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37823805\">Comments</a>",
+    "publish_time": "2023-10-10 02:48:57",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "RAG at scale: Synchronizing and ingesting billions of text embeddings",
+    "url": "https://medium.com/@neum_ai/retrieval-augmented-generation-at-scale-building-a-distributed-system-for-synchronizing-and-eaa29162521",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37824547\">Comments</a>",
+    "publish_time": "2023-10-10 03:44:37",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Video streaming at scale with Kubernetes and RabbitMQ",
+    "url": "https://alexandreolive.medium.com/video-streaming-at-scale-with-kubernetes-and-rabbitmq-6e23fd0e75fb",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37823160\">Comments</a>",
+    "publish_time": "2023-10-10 01:51:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Linux ate my RAM (2009)",
+    "url": "https://www.linuxatemyram.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37822927\">Comments</a>",
+    "publish_time": "2023-10-10 01:31:30",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]

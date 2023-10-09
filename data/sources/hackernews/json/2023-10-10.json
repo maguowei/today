@@ -207,5 +207,60 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "John Riccitiello steps down as CEO of Unity after pricing battle",
+    "url": "https://venturebeat.com/games/john-riccitiello-steps-down-as-ceo-of-unity-after-pricing-battle/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37825292\">Comments</a>",
+    "publish_time": "2023-10-10 04:46:49",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "You probably shouldn't use a lookup table (2022)",
+    "url": "https://specbranch.com/posts/lookup-tables/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37823805\">Comments</a>",
+    "publish_time": "2023-10-10 02:48:57",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "RAG at scale: Synchronizing and ingesting billions of text embeddings",
+    "url": "https://medium.com/@neum_ai/retrieval-augmented-generation-at-scale-building-a-distributed-system-for-synchronizing-and-eaa29162521",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37824547\">Comments</a>",
+    "publish_time": "2023-10-10 03:44:37",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Video streaming at scale with Kubernetes and RabbitMQ",
+    "url": "https://alexandreolive.medium.com/video-streaming-at-scale-with-kubernetes-and-rabbitmq-6e23fd0e75fb",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37823160\">Comments</a>",
+    "publish_time": "2023-10-10 01:51:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Linux ate my RAM (2009)",
+    "url": "https://www.linuxatemyram.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37822927\">Comments</a>",
+    "publish_time": "2023-10-10 01:31:30",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
