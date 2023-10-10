@@ -502,5 +502,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "双11抗老爆款买它",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%8C11%E6%8A%97%E8%80%81%E7%88%86%E6%AC%BE%E4%B9%B0%E5%AE%83%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "原神海维 核中宇宙",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E%E6%B5%B7%E7%BB%B4+%E6%A0%B8%E4%B8%AD%E5%AE%87%E5%AE%99%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "问心",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%97%AE%E5%BF%83%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
