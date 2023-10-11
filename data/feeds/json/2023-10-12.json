@@ -1386,5 +1386,58 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "减肥平台期最有效的方法",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%87%8F%E8%82%A5%E5%B9%B3%E5%8F%B0%E6%9C%9F%E6%9C%80%E6%9C%89%E6%95%88%E7%9A%84%E6%96%B9%E6%B3%95%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Data Processing benchmark featuring Rust, Go, Swift, Zig, Julia etc.",
+    "url": "https://github.com/jinyus/related_post_gen",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37848571\">Comments</a>",
+    "publish_time": "2023-10-12 02:43:24",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Grande: Gradient-Based Decision Tree Ensembles",
+    "url": "https://arxiv.org/abs/2309.17130",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37847563\">Comments</a>",
+    "publish_time": "2023-10-12 01:32:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "M2 Ultra can run 128 streams of Llama 2 7B in parallel",
+    "url": "https://github.com/ggerganov/llama.cpp/pull/3228",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37846387\">Comments</a>",
+    "publish_time": "2023-10-12 00:15:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Obligator – An OpenID Connect server for self-hosters",
+    "url": "https://github.com/anderspitman/obligator",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37848793\">Comments</a>",
+    "publish_time": "2023-10-12 02:59:20",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]

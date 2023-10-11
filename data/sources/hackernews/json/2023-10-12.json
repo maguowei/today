@@ -196,5 +196,49 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Data Processing benchmark featuring Rust, Go, Swift, Zig, Julia etc.",
+    "url": "https://github.com/jinyus/related_post_gen",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37848571\">Comments</a>",
+    "publish_time": "2023-10-12 02:43:24",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Grande: Gradient-Based Decision Tree Ensembles",
+    "url": "https://arxiv.org/abs/2309.17130",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37847563\">Comments</a>",
+    "publish_time": "2023-10-12 01:32:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "M2 Ultra can run 128 streams of Llama 2 7B in parallel",
+    "url": "https://github.com/ggerganov/llama.cpp/pull/3228",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37846387\">Comments</a>",
+    "publish_time": "2023-10-12 00:15:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Obligator – An OpenID Connect server for self-hosters",
+    "url": "https://github.com/anderspitman/obligator",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37848793\">Comments</a>",
+    "publish_time": "2023-10-12 02:59:20",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
