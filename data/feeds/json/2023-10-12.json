@@ -1195,5 +1195,65 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "习近平在江西九江考察调研",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E6%B1%9F%E8%A5%BF%E4%B9%9D%E6%B1%9F%E8%80%83%E5%AF%9F%E8%B0%83%E7%A0%94%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "猫咪因咬充电线被主人PUA",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8C%AB%E5%92%AA%E5%9B%A0%E5%92%AC%E5%85%85%E7%94%B5%E7%BA%BF%E8%A2%AB%E4%B8%BB%E4%BA%BAPUA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "四川成都有哪些值得一去的博物馆？",
+    "url": "https://www.zhihu.com/question/270529364",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Starlink Direct to Cell",
+    "url": "https://direct.starlink.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37848212\">Comments</a>",
+    "publish_time": "2023-10-12 02:18:00",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Google Cloud Spanner is now half the cost of Amazon DynamoDB",
+    "url": "https://cloud.google.com/blog/products/databases/announcing-cloud-spanner-price-performance-updates",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37847454\">Comments</a>",
+    "publish_time": "2023-10-12 01:25:40",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Destiny 2: Bungie 30th Anniversary Pack",
+    "url": "https://store.epicgames.com/en-US/p/destiny-2",
+    "summary": "<p>Destiny 2 is an action MMO with a single evolving world that you and your friends can join anytime, anywhere, absolutely free.              </p><img src=\"https://cdn1.epicgames.com/offer/428115def4ca4deea9d69c99c5a5a99e/EGS_Destiny2Bungie30thAnniversaryPack_Bungie_AddOn_S2_1200x1600-b3a839aa9a80c15f609dab688e21190c\" />",
+    "publish_time": "2023-10-12 00:00:00",
+    "source": {
+      "name": "epic_freegames",
+      "desc": "Epic Free Games",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/epic.png"
+    }
   }
 ]
