@@ -702,5 +702,49 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "How I Made a Heap Overflow in Curl",
+    "url": "https://daniel.haxx.se/blog/2023/10/11/how-i-made-a-heap-overflow-in-curl/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37841496\">Comments</a>",
+    "publish_time": "2023-10-11 14:12:40",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "curl - SOCKS5 heap buffer overflow - CVE-2023-38545",
+    "url": "https://curl.se/docs/CVE-2023-38545.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37841409\">Comments</a>",
+    "publish_time": "2023-10-11 13:58:46",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Spacedrive – an open source cross-platform file explorer",
+    "url": "https://github.com/spacedriveapp/spacedrive",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37841013\">Comments</a>",
+    "publish_time": "2023-10-11 12:54:07",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "RFC 1925: The Twelve Networking Truths (1996)",
+    "url": "https://www.rfc-editor.org/rfc/rfc1925",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37841512\">Comments</a>",
+    "publish_time": "2023-10-11 14:15:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
