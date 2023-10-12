@@ -86,5 +86,27 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "CNCF宣布 Cilium 正式毕业",
+    "url": "https://www.infoq.cn/article/PMaq9IdtYBhPp3hrRqUt",
+    "summary": "<p>当地时间 10 月 11 日，CNCF <a href=\"https://www.cncf.io/announcements/2023/10/11/cloud-native-computing-foundation-announces-cilium-graduation/\">发文宣布</a>\"容器网络开源项目<a href=\"https://cilium.io/blog/\">Cilium</a>\"正式毕业。Cilium 是一种基于eBPF的开源云原生解决方案，用于提供、保护和观测工作负载之间的网络连接。</p><p>&nbsp;</p><p>Cilium 最初由 Isovalent 创建，于 2021 年 10 月成为 CNCF 孵化项目，现在有来自 7 家不同公司的维护者和 800 多名个人贡献者。就提交数量而言，Cilium 在CNCF 项目的活跃度中排名第二 ，仅次于 Kubernetes。</p><p>&nbsp;</p><p>Cilium 最初基于 eBPF 的 CNI（Container Networking Interface ，容器网络接口）实现，用于提供容器工作负载之间的第 3-4 层连接。之后，Cilium扩展到了网络策略、多个 Kubernetes 集群的网格化、替代 kube-proxy、提供网络加密、集成的入口和出口网关、带宽管理、BGP 和将外部工作负载连接到 Kubernetes等功能。Cilium 项目开创了sidecarless 服务网格，其子项目 Hubble 提供了第 3-7 层的网络可观测性、指标、服务地图和用户界面，而Tetragon则专注于安全可观测性和运行时强制执行。</p><p>&nbsp;</p><p>Cilium 为全球最大的 Kubernetes 集群提供支持，最终用户涵盖从数字原生初创企业到全球最大的金融机构和电信运营商。它拥有 46 个来自公司的公开案例研究，包括 Bell Canada、Bloomberg、DB Schenker、S&amp;P Global、Sky 和纽约时报，在其用户文件中列出了 100 多家组织。</p><p>&nbsp;</p><p>“Cilium 的毕业以为着它已经从简单的 CNI 发展为一种完整的网络、观测和安全解决方案，为平台和组织在其云原生之旅中迈出下一步做好准备，” Cilium 联合创始人、Isovalent 首席技术官 Thomas Graf 说道。</p><p>&nbsp;</p><p>CNCF在博文中表示，毕业不是最终目标，而是围绕 Cilium 创建生态系统的开始。该项目不仅限于 Kubernetes，还包括对外部工作负载（例如裸机和虚拟机）的支持。它是第一个味Gateway API 添加支持的项目，并包括用于南北流量的第 4 层负载均衡器。Cilium Service Mesh 还支持使用 SPIFFE/SPIRE 进行互相认证的工作负载。Cilium 现在与 Prometheus 和 Grafana 集成，以简化Day 2的操作。</p><p>&nbsp;</p><p>据悉，为了正式从孵化状态毕业，该项目经历了与 CNCF TOC（Technical Oversight Committee，技术监督委员会）的尽职调查，完成了第三方安全审计，并推动了允许 CNCF 项目在内核中运行 GPL 许可的 eBPF 代码的流程。</p><p>&nbsp;</p><p>参考链接：</p><p><a href=\"https://www.cncf.io/announcements/2023/10/11/cloud-native-computing-foundation-announces-cilium-graduation/\">https://www.cncf.io/announcements/2023/10/11/cloud-native-computing-foundation-announces-cilium-graduation/</a>\"</p>",
+    "publish_time": "2023-10-12 15:45:39",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "官宣！2023中国商会会长博鳌论坛将于12月举办！",
+    "url": "https://www.infoq.cn/article/K3uxlDChCE0lHPMFc28g",
+    "summary": "<p>民营经济是推进中国式现代化的生力军，是经济高质量发展的重要基础。为助推中国式现代化，展现新时代背景下中国商会的凝聚力，由新华社、海南省人民政府指导，新华社品牌工程办公室、新华网联合主办，新华网思客、新华网广东公司、新华网亚太公司、新华网海南公司、广州凯迪云信息科技有限公司（云商会）共同承办的”2023中国商会会长博鳌论坛“，将于12月在海南博鳌亚洲论坛国际会议中心举办。</p><p><img src=\"https://static001.geekbang.org/infoq/09/09945809778395d266645e403c92f5c9.png\" /></p><p>数字化激活发展潜力 蓝皮书惊喜亮相</p><p></p><p>论坛践行民营经济发展壮大意见，以“数智赋能：实干与担当”为主题，就社会责任的新理念、实践新成果、事业新发展方向等领域展开探索。此次论坛还将探讨商会创新发展新路径、新模式、新经验，促进商会与知名企业对接资源，是商会在中国现代化新征程上付诸行动，勇担时代使命的大好时机。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/7d/7d149c977665fe79046f0558edf259ea.png\" /></p><p></p><p>此次论坛分别围绕“商会数字化”、“商会如何服务地方经济”两个分主题进行，活动形式包括主旨演讲和圆桌会议等。现场将带来由中国商会会长博鳌大会组委会发布的《2023中国商协会数字化转型蓝皮书》，为商协会描绘出更具参考价值的数字化转型路径与标准。</p><p></p><p>荣誉揭晓闪耀夜幕 云鼎奖花落谁家</p><p></p><p>为期两天的论坛，将在夜间分别举办品牌之夜、城市之夜暨云商会年度颁奖盛典。期间，由中国商会会长博鳌组委会发起的“商会数字化杰出贡献奖”——云鼎奖，也将揭晓奖项得主，将从商会数字化程度、创新思维与技术、数据质量与服务评价、资源与信誉的维度出发，评选出4个云鼎奖得主。</p><p></p><p>作为“2023中国企业家博鳌论坛”平行论坛之一，“2023中国商会会长博鳌论坛”将邀请政府领导、商会领袖代表、经济专家、社会组织领域研究学者、粤港澳AI智库团、知名企业家、行业主流媒体等共聚一堂，以数字赋能生态，促进商会健康有序发展，让商会在经济社会中实现价值最大化，为地方经济、民营经济、数字经济注入新动能。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/1f/1f27764c85f7aa43b5cf3f41c24f9dfb.png\" /></p><p></p><p>目前，论坛的各项筹备工作正有序进行，招商工作同步火热开展中。此次论坛的招商合作包含总协办单位、协办单位、特别支持单位、支持单位、指定用品等等公开招募合作。如有合作意向，请关注“云商会Solink”公众号，获取更多关于论坛资讯！</p>",
+    "publish_time": "2023-10-12 16:59:18",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
