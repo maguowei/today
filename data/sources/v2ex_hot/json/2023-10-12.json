@@ -42,5 +42,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "请教脑梗的问题",
+    "url": "https://www.v2ex.com/t/981198",
+    "summary": "Topointer: <p>父亲得了脑梗，10.1 日感觉不舒服，以为是血糖有问题，然后没在意，吃了些血糖药，10.5 日感觉加重了，自己开车去了县医院，医生说已经错过溶栓期，输了三天水，我 10.7 号通过亲戚才知道，立马让他转院，10.8 号转去了市级三甲医院，目前住院好几天了，脑梗的位置是脑干，比较敏感的位置，感觉病情一天比一天严重，从最开始自己开车去医院，说话正常，现在已经下不了床，说不不利索，后期还不知道怎么发展，小红书搜了下，感觉各种各样的都有，看到有些过段时间就没了的，看着心情很是压抑焦虑，有了解的吗？交流交流</p>",
+    "publish_time": "2023-10-12 09:33:23",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "开一个兴趣培训班，教初高中学生做智能硬件如何",
+    "url": "https://www.v2ex.com/t/981219",
+    "summary": "gaotong2332:",
+    "publish_time": "2023-10-12 10:14:06",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "个人博客终于迁移成功上线了",
+    "url": "https://www.v2ex.com/t/981227",
+    "summary": "857681664: <p>之前的博客方案一直用的是 Github Pages ，加上免费的域名。但是之前的主题是 fork 的别人现成主题，改也不好改，索性决定全部重建，也不再搭建在 Github Pages 上了。</p>\n<p>最后的方案是使用 hexo 框架+nexT 主题，用 nginx 做代理，同时为了自动部署，还写了一个 Github actions ，每当提交 git ，会在服务器上自动部署 hexo 。</p>\n<p>博客搭建，代理设置这些不是最麻烦的，由于服务器在国内，备案是整个上线过程中最麻烦的，足足等了快一个月。</p>\n<p>附上博客地址：<a href=\"http://blog.zshnb.com/\" rel=\"nofollow\">blog.zshnb.com</a></p>",
+    "publish_time": "2023-10-12 10:25:07",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
