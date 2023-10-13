@@ -64,5 +64,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "强人工智能的实现代码量估计只有 0.65952MB？",
+    "url": "https://www.v2ex.com/t/981540",
+    "summary": "fanym: 现在没有出现强人工智能，但是有强智能的人类可以参考。<br />一个碱基对有 4 中可能，计算机的一个位有 0 ，1 两种可能。<br />32 亿碱基对就算全是有效信息也就<br />32 亿×2/8/1024/1024 = 762.94MB<br />其中人的 DNA 有效基因不会超过 10%，有很多没表达的基因<br />762.94×10% = 76.294 MB<br />还有 DNA 翻译成蛋白质会造成信息的损失（要 3 个碱基对确定 20 个氨基酸构成蛋白质）<br />76.294×log64 （ 20 ） = 54.96MB<br />人和大猩猩基因相似度大约 98.8%，粗略的将差异的 1.2%当成导致智能差异的基因，估计人智能所需的信息量只有<br />54.96*1.2% = 0.65952MB<br />计算和实际的误差应该挺大的，但是数量级差不多了。<br />为什么这么小的信息量现在还无法在计算机中模拟出强人工智能？难道瓶颈在显存和算力而不是算法上？<br />假设一滴水的水分子只有像 0 和 1 的两种状态数据量就达到了，<br />1.67 * Math.pow(10,21)/8/1024/1024/1024/1024 = 189857019 TB<br />还有现实中的数据大多是连续的无理数，而计算机只能进行离散的有理数进行存储计算导致丢失精度。<br />所以还是要堆存储算力或者改计算机的底层设计（像量子计算机）才可能实现强人工智能吗?",
+    "publish_time": "2023-10-13 09:43:32",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "为什么有的人那么喜欢说“行吧”，“好吧”",
+    "url": "https://www.v2ex.com/t/981602",
+    "summary": "yoyoman: 不知道大家有没有发现很多人喜欢说 “行吧”<br /><br />行就是行，不行就不行。沟通过程中，对方说一个“行吧/好吧”，日常随便聊天倒无所谓，但在沟通严肃正式的事情的时候这么回答，让我感觉挺疑惑的。<br /><br />因为这个回答让我觉得是有一部分是他不认同，勉强回答的。如果双方是要合作做什么事的情况下，这么一个回答会让我很不放心，总觉得他会做不好。<br /><br />“有一部分我还有疑问：....”<br />“我觉得这个地方这么做会存在一些问题...”<br />“哪哪个地方我没听懂”<br />这些回答就挺明确的。<br />遇到这种情况请问该怎么回应呢，目的是确保沟通过程中双方都能明确做的东西。",
+    "publish_time": "2023-10-13 10:51:48",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "把自己新的个人博客前端写完了",
+    "url": "https://www.v2ex.com/t/981655",
+    "summary": "daidr: <p>之前用的是 WordPress ，一直想自己实现一套博客系统。\n现在前端差不多写完了，第一次用 Nuxt.js ，也用了很多新的特性，前前后后忙了挺久，不过现在后端依旧是 WordPress ，前端部署在 Vercel ，自己感觉还行。就想着发出来给大家看看。</p>\n<p><a href=\"https://im.daidr.me/\" rel=\"nofollow\">https://im.daidr.me</a></p>",
+    "publish_time": "2023-10-13 12:14:59",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
