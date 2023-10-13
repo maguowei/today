@@ -1536,5 +1536,74 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "村里开咖啡店 老头半夜起来种地",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%91%E9%87%8C%E5%BC%80%E5%92%96%E5%95%A1%E5%BA%97+%E8%80%81%E5%A4%B4%E5%8D%8A%E5%A4%9C%E8%B5%B7%E6%9D%A5%E7%A7%8D%E5%9C%B0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "女子手写4页纸感谢民警帮找回父亲照片",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%89%8B%E5%86%994%E9%A1%B5%E7%BA%B8%E6%84%9F%E8%B0%A2%E6%B0%91%E8%AD%A6%E5%B8%AE%E6%89%BE%E5%9B%9E%E7%88%B6%E4%BA%B2%E7%85%A7%E7%89%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "老人路边昏迷一群消防飞奔去救人",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E8%B7%AF%E8%BE%B9%E6%98%8F%E8%BF%B7%E4%B8%80%E7%BE%A4%E6%B6%88%E9%98%B2%E9%A3%9E%E5%A5%94%E5%8E%BB%E6%95%91%E4%BA%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "什么叫无效社交？",
+    "url": "https://www.zhihu.com/question/400594636",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Playing Pokemon Red with Reinforcement Learning",
+    "url": "https://github.com/PWhiddy/PokemonRedExperiments",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37875542\">Comments</a>",
+    "publish_time": "2023-10-14 04:57:35",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Cloudy with a Chance of Insanity: Unsticking iCloud Drive",
+    "url": "https://tidbits.com/2023/10/12/cloudy-with-a-chance-of-insanity-unsticking-icloud-drive/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37875943\">Comments</a>",
+    "publish_time": "2023-10-14 05:42:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Extinct goat was cold-blooded (2009)",
+    "url": "https://phys.org/news/2009-11-extinct-goat-cold-blooded.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37875396\">Comments</a>",
+    "publish_time": "2023-10-14 04:41:16",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
