@@ -9,5 +9,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "DHH 移除 TypeScript 后的反静态类型主义营销号刷屏有点让人绷不住",
+    "url": "https://www.v2ex.com/t/982063",
+    "summary": "netabare: <p>尤其是过了这么久还能看到这些营销号，然后评论区大家都在集火喷 TypeScript 。</p>\n<p>实在是不懂为啥静态类型会惹来这么多人厌恶，更不用提这个 PR 还有个更严重的问题 - 在多人协作的项目里直接 force push 了。</p>\n<p>本来还想写点啥吐槽一下，然后感觉累觉不爱，只能说这位社区领袖直接把 Ruby 这个语言对我的吸引力拉到近乎于 0 的状态。</p>\n<p>顺便引用一下一个算得上是爆典的修改：</p>\n<pre><code>68    | async function gotoPageWithFormMode(page: Page, formMode: \"on\" | \"off\" | \"optin\") {\n   68 | async function gotoPageWithFormMode(page, formMode) {\n</code></pre>\n<p>用户获得了在<code>formMode</code>里传入 null 、undefined 、114 、5.14 、\"1919\"和<code>new Date()</code>的自由。</p>",
+    "publish_time": "2023-10-15 06:40:12",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
