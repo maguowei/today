@@ -1250,5 +1250,105 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "习近平的丝路情缘",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E4%B8%9D%E8%B7%AF%E6%83%85%E7%BC%98%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "SuperCup超大杯",
+    "url": "https://s.weibo.com/weibo?q=%23SuperCup%E8%B6%85%E5%A4%A7%E6%9D%AF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "胡彦斌对四十岁的理解很通透",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%BD%A6%E6%96%8C%E5%AF%B9%E5%9B%9B%E5%8D%81%E5%B2%81%E7%9A%84%E7%90%86%E8%A7%A3%E5%BE%88%E9%80%9A%E9%80%8F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何看待 python 的性能？",
+    "url": "https://www.zhihu.com/question/40393531",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价《一人之下》漫画 643（682）话？",
+    "url": "https://www.zhihu.com/question/625879568",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Hyphens in man pages",
+    "url": "https://lists.debian.org/debian-devel/2023/10/msg00083.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37892654\">Comments</a>",
+    "publish_time": "2023-10-16 03:30:25",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Mastercard Should Stop Selling Our Data",
+    "url": "https://www.eff.org/deeplinks/2023/10/mastercard-should-stop-selling-our-data",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37892684\">Comments</a>",
+    "publish_time": "2023-10-16 03:33:35",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Spain tech job market is facing a hiring freeze",
+    "url": "https://samagame.com/en/latest/after-years-of-prosperity-the-spanish-technology-sector-faces-an-unprecedented-situation-the-hiring-freeze/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37892249\">Comments</a>",
+    "publish_time": "2023-10-16 02:46:16",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Freshpaint (YC S19) Is Hiring Software Engineers to Protect Patient Privacy",
+    "url": "https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37893337\">Comments</a>",
+    "publish_time": "2023-10-16 05:00:30",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Sycamore Gap tree held a particularly deep place in people's hearts",
+    "url": "https://www.economist.com/obituary/2023/10/04/the-sycamore-gap-tree-held-a-particularly-deep-place-in-peoples-hearts",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37893091\">Comments</a>",
+    "publish_time": "2023-10-16 04:24:20",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
