@@ -53,5 +53,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "10 系显卡玩游戏巨卡处理记录",
+    "url": "https://www.v2ex.com/t/982054",
+    "summary": "Anshay: <h2>背景：</h2>\n<p>电脑是 18 年双十一组的，使用的是 1065 显卡。\n游戏是双人成行，去年还是前年买的不记得了，已经通关过。印象中画质变差过一次。\n昨晚带妹子回家玩游戏， 兴致勃勃打开双人成行，发现游戏巨卡无比，只要出现跳砸操作，或者有垂直弹跳动作，画面要卡三四秒。好在妹子不 care ，我也凭借自身过硬的撩妹技术硬是打圆场过去。</p>\n<p>今天上午起来想不通，都准备想换新卡了。\n看了一下 3060 价格，算了我还是问问谷歌我这老卡还有没有救。</p>\n<p>关键词：1065 显卡变卡\n于是乎，2 分钟内我就发现了是更新了显卡驱动的锅。老黄啊老黄，怎么跟库克狼狈为奸起来都搞计划性报废这种事情了。</p>\n<p>白天又出去陪了另一个妹子，夜里回家才有时间折腾。</p>\n<h2>处理方式：</h2>\n<p>10 系列显卡，最好使用 399.24 版本的显卡驱动。\n去官网下载，结果安装的时候提示系统版本不兼容。\n于是再搜索，网友们的解决方法是使用 ddu 完全卸载旧驱动后再进入安全模式进行安装。安装时，需要断网，不然 window 可能会自动更新。\n然后回到正常模式后，再将驱动自动更新关闭后再插上网线。</p>\n<h2>最终结果</h2>\n<p>然后重新打开游戏，简单调试后，4K 画质下稳定 4K 。</p>\n<h2>结语</h2>\n<p>可是已经没有机会再和前一个妹子一起玩游戏了。那晚送她回家，她给我表白，我拒绝了。理由是没法结婚，我还没想好。</p>\n<p>一通折腾，我在思考一个问题，现在缺少的到底是买新卡的钱，还是陪你玩游戏的妹子。</p>",
+    "publish_time": "2023-10-15 01:35:07",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "[吐槽]-奇葩的公司制度",
+    "url": "https://www.v2ex.com/t/982067",
+    "summary": "PendingOni: <p>一个月 5k 还得给他们这帮人做保洁...</p>\n<p>果然回老家干程序员并不是一个明智的选择</p>\n<p><img alt=\"image.png\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://s2.loli.net/2023/10/15/LF8pKvDI2lGyidX.png\" /></p>",
+    "publish_time": "2023-10-15 08:24:17",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
