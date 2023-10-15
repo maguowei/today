@@ -42,5 +42,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "也分享一下自己的博客",
+    "url": "https://www.v2ex.com/t/982101",
+    "summary": "Plumbiu: <p>博客是用 NextJS 写的，初衷是原来基于 hexo 和 butterfly 主题的博客太卡了(被我魔改太多了)，而且有点太大众化了。另外还可以顺便尝试一下 Next.js 的新路由模式。</p>\n<p>最开始使用了 Material UI ，后来发现很多组件都不支持 SSR ，干脆就开始仿照组件样式，自己写原生 css 去了，页面大多数都是 SSG ，性能方面应该过得去。</p>\n<p>另外自己的设计能力有限，没有很好的动态效果，所以看着挺简陋的(高情商简约)。</p>\n<p>另外已经开源了： <a href=\"https://github.com/Plumbiu/blog\" rel=\"nofollow\">https://github.com/Plumbiu/blog</a> ，文档最下方还有 DIY 教程。</p>\n<p><a href=\"https://blog.plumbiu.top/\" rel=\"nofollow\">https://blog.plumbiu.top/</a></p>",
+    "publish_time": "2023-10-15 11:18:10",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
