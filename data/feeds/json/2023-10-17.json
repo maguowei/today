@@ -1739,5 +1739,67 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "比利时vs瑞典",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E5%88%A9%E6%97%B6vs%E7%91%9E%E5%85%B8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "黄河三角洲成东方白鹳全球最大繁殖地",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B2%B3%E4%B8%89%E8%A7%92%E6%B4%B2%E6%88%90%E4%B8%9C%E6%96%B9%E7%99%BD%E9%B9%B3%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E7%B9%81%E6%AE%96%E5%9C%B0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "美股三大指数集体收涨，热门中概股涨跌不一",
+    "url": "https://www.36kr.com/newsflashes/2477645360371584",
+    "summary": "36氪获悉，10月16日收盘，美股三大指数集体上涨，道指涨0.93%，纳指涨1.2%，标普500指数涨1.06%。大型科技股多数上涨，亚马逊、Meta涨超2％，微软、Netflix、谷歌、特斯拉涨超1％；苹果跌0.07％。热门中概股涨跌不一，虎牙涨超7％，36氪涨超6％，腾讯音乐涨超5％，京东涨超2％，蔚来涨0.59％；小鹏汽车跌超4％，理想汽车、名创优品跌超2％，爱奇艺跌0.63％。",
+    "publish_time": "2023-10-17 07:00:00",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Coolify – Self-Hosting with Superpowers",
+    "url": "https://coolify.io/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37905669\">Comments</a>",
+    "publish_time": "2023-10-17 04:03:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "NY Bill Would Require Background Checks to Buy 3D Printers",
+    "url": "https://www.tomshardware.com/news/ny-bill-bans-3d-printers",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37906871\">Comments</a>",
+    "publish_time": "2023-10-17 05:25:06",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Edinburgh couple are handed £17K bill by Tesla as they 'drove in rain'",
+    "url": "https://www.edinburghlive.co.uk/news/edinburgh-news/edinburgh-couple-fume-handed-17k-27906242",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37907519\">Comments</a>",
+    "publish_time": "2023-10-17 06:26:57",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
