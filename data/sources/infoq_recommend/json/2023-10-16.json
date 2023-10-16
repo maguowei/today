@@ -1,0 +1,13 @@
+[
+  {
+    "title": "代码生成：基于AI大模型的挑战与前景",
+    "url": "https://www.infoq.cn/article/5LWEiT9DNPzCWsoqtdQE",
+    "summary": "<p>使用 AI 通用模型来完成代码生成这类非常具体的任务可能会带来问题。人工智能生成的代码就像是陌生人的代码，它们可能并不符合你的代码质量标准。这种情况下，创建专业或专用的模型不失为一条出路。</p><p>&nbsp;</p><p>Luise Freese 和 Iona Varga 在<a href=\"https://ndcoslo.com/\">2023</a>\" 年的&nbsp;<a href=\"https://ndcoslo.com/\">NDC Oslo</a>\" 大会上探讨了 AI 模型的实践困境和伦理相关问题。</p><p>&nbsp;</p><p>Varga 提到，“人工智能”这个词给人一种智慧的感觉，虽然这个名字实际只是代表了这些模型的构建方式。以节点相连的形式模仿人脑中神经元与突触连接而成的网络，这类模型因此而得名“人工网络”或“人工智能”。</p><p>&nbsp;</p><p>Freese 补充道，抽象来说，计算机是完全依赖于或开或关的晶体管，通过这些开关的组合，我们得以操纵比特。由于晶体管之间没有相互的纠缠，这些开关最终会带来这样的结果：</p><p></p><p></p><blockquote>因此，计算机并不会思考，不过是我们的人工智能算法赋予了它们个性和特征，比如“让我考虑一下”这类礼貌说辞。AI 仅仅是利用统计数据对事物进行预测、分类或组合。</blockquote><p></p><p>&nbsp;</p><p>Varga 提到，AI 的问题在与使用极其通用的模型或是基础模型完成非常具体的任务。大语言模型（LLM）的工作原理是先分析问题、创建一两个词语，再根据统计数据预测下一个标记的最佳匹配。此外，LLM 本身是无法对事实进行核查的，因为这类模型的设计目的是生成而非验证。</p><p>&nbsp;</p><p>如果我们试图建立一个能解决所有 AI 问题的 AI 模型，那么我们将会创造出一种自我放大的螺旋式下降，Freese 补充道。若想实现螺旋式上升，那就应该少用基础模型，多用更为具体的模型，后者中有一部分实际就是搭建在基础模型之上的。</p><p>&nbsp;</p><p>AI 或许能生成代码，但这些代码是否能安全地使用，是否能满足我们对质量的标准要求？Varga 认为这些问题只能由真正的人类来回答，这一过程并不容小觑。归根结底，就像是代码的编写一样，调试陌生人的代码远比自己从头到尾参与其中的代码更为困难。</p><p>&nbsp;</p><p>一般模型的理解能力也更为通用，这在代码生成问题上可能会带来问题，正如 Varga 所解释的：</p><p></p><blockquote>举例来说，React v17 或 v16 这些可能没有直接反应在模型的上下文中，但模型也能了解这些代码库。或许你会发现自己生成的一个函数中会混杂有两个版本的代码。</blockquote><p></p><p>Varga 认为，多数情况下 AI 都是解决问题的好帮手。但使用 AI 就意味着你要去检查、验证、修改、编辑或重写部分内容，而这一部分可能才是我们低估 AI 工具带来工作量的地方。</p><p>&nbsp;</p><p>InfoQ 针对人工智能所带来的挑战问题采访了 <a href=\"https://www.linkedin.com/in/luisefreese/\">Luise Freese</a>\"&nbsp;和 <a href=\"https://www.linkedin.com/in/iona-dahlia/\">Iona Varga</a>\"。</p><p>&nbsp;</p><p>InfoQ：什么因素会造成 AI 的失败？</p><p></p><p></p><blockquote>Iona Varga：一般来说，AI 并不是命中注定要失败的。我是医学物理出身的，我也见过很多优秀的 AI 工具，它们能出色地完成波弹性成像的实时剪切，早期阶段的婴儿检测，甚至能检测出肿瘤专家都无法发现的肺癌细小结节。&nbsp;但由于虚假数据和扭曲事实问题的存在，这些结果并不完全可信。举例来说，川普就职典礼上，实际的到场人数是要少于最初公布的数据。试着问模型就职典礼的公园有多热闹，你大概会得到一个出乎意料的答案。但同样，数据的来源时至今日也有颇具争议的历史背景，它们可能会出于政治剧本或标准等原因而被修改。</blockquote><p></p><p></p><p>InfoQ：伦理道德如何才能帮助我们解决 AI 所带来的问题？</p><p></p><p></p><blockquote>Luise Freese：伦理道德作为工具本身是帮不上太多忙的。伦理只是一种工作的方式，就像是 DevOps 一样。一旦你有了规划，知道该做什么了，“伦理道德”就是你对“完成”的定义。我所用的数据是否覆盖了所有产品使用相关的人或事？通过这些道德的检测，我们的工作方式将会在可访问性、包容性和避免偏见方面得到改善。</blockquote><p></p><p>&nbsp;</p><p></p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2023/10/producing-quality-code-AI/\">The Challenges of Producing Quality Code When Using AI-Based Generalistic Models</a>\"</p>",
+    "publish_time": "2023-10-16 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
