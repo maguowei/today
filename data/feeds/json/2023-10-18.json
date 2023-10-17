@@ -1760,5 +1760,134 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "塞尔维亚是中国的铁杆朋友",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%9A%84%E9%93%81%E6%9D%86%E6%9C%8B%E5%8F%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "十年开通一带一路集装箱航线80余条",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%B9%B4%E5%BC%80%E9%80%9A%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E9%9B%86%E8%A3%85%E7%AE%B1%E8%88%AA%E7%BA%BF80%E4%BD%99%E6%9D%A1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "一带一路青春力量",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E9%9D%92%E6%98%A5%E5%8A%9B%E9%87%8F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "向共建一带一路所有的参与者建设者致敬",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%90%91%E5%85%B1%E5%BB%BA%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E6%89%80%E6%9C%89%E7%9A%84%E5%8F%82%E4%B8%8E%E8%80%85%E5%BB%BA%E8%AE%BE%E8%80%85%E8%87%B4%E6%95%AC%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "一个人住真的会很舒服",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E4%BA%BA%E4%BD%8F%E7%9C%9F%E7%9A%84%E4%BC%9A%E5%BE%88%E8%88%92%E6%9C%8D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "华为手机销量跃至国内第一，超越苹果，中国移动采购 120 万台华为手机，哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/626551401",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "职业运动员究竟有多厉害？",
+    "url": "https://www.zhihu.com/question/274958537",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美股三大指数收盘涨跌不一，热门中概股普跌",
+    "url": "https://www.36kr.com/newsflashes/2479089620178817",
+    "summary": "36氪获悉，10月18日美股收盘，美股三大指数涨跌不一，纳指跌0.25%，道指涨0.04%，标普500指数跌0.01%。大型科技股多数下跌，Netflix跌1.41%，苹果跌0.88%，亚马逊跌0.81%，微软跌0.17%，Meta涨0.89%，谷歌涨0.45%，特斯拉涨0.37%。热门中概股普跌，百度跌超4%，京东跌超3%，网易、爱奇艺跌超2%，B站跌超1%，理想汽车跌0.36%，蔚来、小鹏汽车小幅上涨。",
+    "publish_time": "2023-10-18 07:00:22",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Detroit: magic wand makes dirty air look clean and lets polluters off the hook",
+    "url": "https://www.theguardian.com/us-news/2023/oct/17/us-local-governments-oil-gas-lobbyists-use-millions-dollars-hiding-wildfire-climate-change-pollution",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37922085\">Comments</a>",
+    "publish_time": "2023-10-18 05:50:27",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "AI Graphics at JetBrains",
+    "url": "https://blog.jetbrains.com/blog/2023/10/16/ai-graphics-at-jetbrains-story/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37922272\">Comments</a>",
+    "publish_time": "2023-10-18 06:08:33",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How do we clean up the scientific record?",
+    "url": "https://academic.oup.com/function/article/4/6/zqad055/7306462",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37921576\">Comments</a>",
+    "publish_time": "2023-10-18 05:07:18",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The pneumatic tube mail system in New York City",
+    "url": "https://untappedcities.com/2023/10/17/pneumatic-tube-mail-new-york-city/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37922200\">Comments</a>",
+    "publish_time": "2023-10-18 06:01:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Using spaced repetition systems to see through a piece of mathematics (2019)",
+    "url": "https://cognitivemedium.com/srs-mathematics",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37920191\">Comments</a>",
+    "publish_time": "2023-10-18 03:16:46",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
