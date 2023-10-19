@@ -7571,5 +7571,445 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "DK 疯牛病",
+    "url": "https://s.weibo.com/weibo?q=%23DK+%E7%96%AF%E7%89%9B%E7%97%85%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "TheShy亮iG队标",
+    "url": "https://s.weibo.com/weibo?q=%23TheShy%E4%BA%AEiG%E9%98%9F%E6%A0%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "刘芳菲发文回应从央视离职",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E8%8A%B3%E8%8F%B2%E5%8F%91%E6%96%87%E5%9B%9E%E5%BA%94%E4%BB%8E%E5%A4%AE%E8%A7%86%E7%A6%BB%E8%81%8C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "儿子出车祸父亲感谢查车交警",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E5%87%BA%E8%BD%A6%E7%A5%B8%E7%88%B6%E4%BA%B2%E6%84%9F%E8%B0%A2%E6%9F%A5%E8%BD%A6%E4%BA%A4%E8%AD%A6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "宋威龙 三年不见男大十八变",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A8%81%E9%BE%99+%E4%B8%89%E5%B9%B4%E4%B8%8D%E8%A7%81%E7%94%B7%E5%A4%A7%E5%8D%81%E5%85%AB%E5%8F%98%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "街道辟谣四川被咬女童先动手砸狗",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%A1%97%E9%81%93%E8%BE%9F%E8%B0%A3%E5%9B%9B%E5%B7%9D%E8%A2%AB%E5%92%AC%E5%A5%B3%E7%AB%A5%E5%85%88%E5%8A%A8%E6%89%8B%E7%A0%B8%E7%8B%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "中国人需要自己的燃油高性能车",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E9%9C%80%E8%A6%81%E8%87%AA%E5%B7%B1%E7%9A%84%E7%87%83%E6%B2%B9%E9%AB%98%E6%80%A7%E8%83%BD%E8%BD%A6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "罗大美遇害案3名嫌疑人已落网",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BD%97%E5%A4%A7%E7%BE%8E%E9%81%87%E5%AE%B3%E6%A1%883%E5%90%8D%E5%AB%8C%E7%96%91%E4%BA%BA%E5%B7%B2%E8%90%BD%E7%BD%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "李现直播",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E7%9B%B4%E6%92%AD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "山下武夫是假死",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%8B%E6%AD%A6%E5%A4%AB%E6%98%AF%E5%81%87%E6%AD%BB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "7岁小女孩天生2个子宫3个肾",
+    "url": "https://s.weibo.com/weibo?q=%237%E5%B2%81%E5%B0%8F%E5%A5%B3%E5%AD%A9%E5%A4%A9%E7%94%9F2%E4%B8%AA%E5%AD%90%E5%AE%AB3%E4%B8%AA%E8%82%BE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "WBG战胜NRG",
+    "url": "https://s.weibo.com/weibo?q=%23WBG%E6%88%98%E8%83%9CNRG%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "WBG 稳稳的幸福",
+    "url": "https://s.weibo.com/weibo?q=%23WBG+%E7%A8%B3%E7%A8%B3%E7%9A%84%E5%B9%B8%E7%A6%8F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "2岁娃逛动物园发现疑似金吊坠",
+    "url": "https://s.weibo.com/weibo?q=%232%E5%B2%81%E5%A8%83%E9%80%9B%E5%8A%A8%E7%89%A9%E5%9B%AD%E5%8F%91%E7%8E%B0%E7%96%91%E4%BC%BC%E9%87%91%E5%90%8A%E5%9D%A0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "芒果TV崩了",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8A%92%E6%9E%9CTV%E5%B4%A9%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "花儿与少年丝路季定档",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B4%E4%B8%9D%E8%B7%AF%E5%AD%A3%E5%AE%9A%E6%A1%A3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "等一个周也王星越二搭",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%AD%89%E4%B8%80%E4%B8%AA%E5%91%A8%E4%B9%9F%E7%8E%8B%E6%98%9F%E8%B6%8A%E4%BA%8C%E6%90%AD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "朱一龙 谁让你们这么宣传我的",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99+%E8%B0%81%E8%AE%A9%E4%BD%A0%E4%BB%AC%E8%BF%99%E4%B9%88%E5%AE%A3%E4%BC%A0%E6%88%91%E7%9A%84%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "杨紫秋日雀斑妆",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%A7%8B%E6%97%A5%E9%9B%80%E6%96%91%E5%A6%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "安宥真狼塑",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%AE%A5%E7%9C%9F%E7%8B%BC%E5%A1%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "官方回应济南巨响",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%B5%8E%E5%8D%97%E5%B7%A8%E5%93%8D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "LNG瑞士轮首战",
+    "url": "https://s.weibo.com/weibo?q=%23LNG%E7%91%9E%E5%A3%AB%E8%BD%AE%E9%A6%96%E6%88%98%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "FNC对战LNG",
+    "url": "https://s.weibo.com/weibo?q=%23FNC%E5%AF%B9%E6%88%98LNG%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "TheShy时隔1447天再登S赛",
+    "url": "https://s.weibo.com/weibo?q=%23TheShy%E6%97%B6%E9%9A%941447%E5%A4%A9%E5%86%8D%E7%99%BBS%E8%B5%9B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "终于找到过敏孩子变多的原因了",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%89%BE%E5%88%B0%E8%BF%87%E6%95%8F%E5%AD%A9%E5%AD%90%E5%8F%98%E5%A4%9A%E7%9A%84%E5%8E%9F%E5%9B%A0%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何评价此次原神关于《清泉之心》的剧情文案?",
+    "url": "https://www.zhihu.com/question/626579399",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "S13 入围赛首轮 WBG 1:0 NRG 取得开门红，如何评价这场比赛？",
+    "url": "https://www.zhihu.com/question/626878598",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "南部也遭以色列空袭，驻加沙记者称数百个家庭正返回北部「死也要有尊严地死在家里」，巴勒斯坦人要走向何方？",
+    "url": "https://www.zhihu.com/question/626831251",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么和父母倾诉反而越说越难受？",
+    "url": "https://www.zhihu.com/question/620714238",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "你买华为是因为产品本身还是支持国货？",
+    "url": "https://www.zhihu.com/question/626483399",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "作为学生，男朋友每次蹲面包店晚上十点的时候买一送一，给我当早餐，但是不太喜欢这种感觉，大家怎么看呢?",
+    "url": "https://www.zhihu.com/question/621789903",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "怎么用你的风格描写死亡?",
+    "url": "https://www.zhihu.com/question/618881193",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "中国将全面取消制造业领域外资准入限制措施，这意味着什么？将产生哪些影响？",
+    "url": "https://www.zhihu.com/question/626810802",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "宁德时代：第三季度净利润104.28亿元，同比增长10.66%",
+    "url": "https://www.36kr.com/newsflashes/2481218057328769",
+    "summary": "36氪获悉，宁德时代公告称，公司第三季度营收1054.31亿元，同比增长8.28%；净利润104.28亿元，同比增长10.66%。",
+    "publish_time": "2023-10-19 19:05:31",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "二十届中央第二轮巡视已进驻24家单位",
+    "url": "https://www.36kr.com/newsflashes/2481227583084680",
+    "summary": "经党中央批准，二十届中央第二轮巡视将对科学技术部、工业和信息化部、国务院国有资产监督管理委员会、国家国防科技工业局、国家烟草专卖局和中国第一汽车集团有限公司、东风汽车集团有限公司等31家单位党委（党组）开展常规巡视；对国家铁路局党组、中国国家铁路集团有限公司党组开展巡视“回头看”。日前，二十届中央第二轮巡视的15个巡视组陆续进驻被巡视单位党组织开展巡视工作。截至目前，中央巡视组已进驻24家单位，并公布了信访联系方式。（央视新闻）",
+    "publish_time": "2023-10-19 19:15:13",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "浙江发布《网络交易平台经营者主体责任清单》",
+    "url": "https://www.36kr.com/newsflashes/2481234375202950",
+    "summary": "从浙江省市场监督管理局获悉，该局会同10个浙江省级部门编制发布了《网络交易平台经营者主体责任清单》，分类梳理平台通用责任以及6种常见类型的平台责任清单，为平台企业全面落实法律责任提供了照单明责、照单履责的指导，推动平台经济规范健康发展。（新华社）",
+    "publish_time": "2023-10-19 19:22:07",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "中国建筑：控股股东拟5亿元-10亿元增持公司股份",
+    "url": "https://www.36kr.com/newsflashes/2481230008604805",
+    "summary": "36氪获悉，中国建筑公告称，控股股东中建集团拟自本公告披露之日起6个月内通过上海证券交易所交易系统以集中竞价交易方式增持公司A股股份，增持总金额不低于5亿元，不超过10亿元，本次增持不设定价格区间。",
+    "publish_time": "2023-10-19 19:27:32",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "法拉第未来：完成加州汉福德制造厂房的售后回租计划，将获得最高1200万美元资金",
+    "url": "https://www.36kr.com/newsflashes/2481231492667521",
+    "summary": "法拉第未来宣布，公司已行使对其加州汉福德制造工厂厂房的购买权，同时签订了该厂房（不含设备）的售后回租协议。预计公司将通过该交易获得最高1200万美元的资金且不会稀释股份，可用于厂内升级，以促进FF 91 2.0 Futurist Alliance产量爬坡。（界面）",
+    "publish_time": "2023-10-19 19:41:52",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "申通快递：9月快递服务业务收入34.49亿元，同比增15.56%",
+    "url": "https://www.36kr.com/newsflashes/2481236138645639",
+    "summary": "36氪获悉，申通快递公告称，9月快递服务业务收入34.49亿元，同比增长15.56%；完成业务量16.38亿票，同比增长33.66%。",
+    "publish_time": "2023-10-19 19:53:46",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "中国苹果产量稳居世界第一",
+    "url": "https://www.36kr.com/newsflashes/2481274793301889",
+    "summary": "中国苹果产业协会在云南昭通发布《2022年度中国苹果产业报告》，报告显示，2022年中国苹果产量仍然位居世界第一，年产量达4757.18万吨，全球占比过半。（央视新闻）",
+    "publish_time": "2023-10-19 20:03:14",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Show HN: Modern Moodle learning platform open-source alternative",
+    "url": "https://www.learnhouse.app/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37939576\">Comments</a>",
+    "publish_time": "2023-10-19 15:22:43",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "I'm banned from advertising on Meta",
+    "url": "https://lerner.co.il/2023/10/19/im-banned-for-life-from-advertising-on-meta-because-i-teach-python/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37939269\">Comments</a>",
+    "publish_time": "2023-10-19 14:32:18",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Bright (YC W15) hiring a VP of eng and product",
+    "url": "https://www.ycombinator.com/companies/bright/jobs/4WczUz5-vp-of-engineering-and-products",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37941675\">Comments</a>",
+    "publish_time": "2023-10-19 20:00:24",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Requiem for a Stringref",
+    "url": "https://wingolog.org/archives/2023/10/19/requiem-for-a-stringref",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37941119\">Comments</a>",
+    "publish_time": "2023-10-19 18:59:28",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "\"We have a thermal printer hooked up to the internet, you can send us a doodle\"",
+    "url": "https://guestbook.goodenough.us/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37941234\">Comments</a>",
+    "publish_time": "2023-10-19 19:15:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Build Your Own BitTorrent",
+    "url": "https://app.codecrafters.io/courses/bittorrent/overview",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37941075\">Comments</a>",
+    "publish_time": "2023-10-19 18:53:56",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
