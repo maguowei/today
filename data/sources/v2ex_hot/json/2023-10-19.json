@@ -9,5 +9,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "因为域名，被通知强制拆机了！",
+    "url": "https://www.v2ex.com/t/983333",
+    "summary": "maoqiu0249000000: <ul>\n<li>之前签的保证书，后来就直接用 ip 访问没有问题</li>\n<li>之后有些服务需要用到 https ，比如 bitwarden ，所以就又用了域名。不是直接指向的家宽，是域名指向 vps ，然后通过反向代理指向家宽（ vps 到家宽是通过 frp 加密传输），这样做还是被检测出来</li>\n<li>想问一下还有什么办法能不被检测出来？用 zerotier 将 vps 和家宽组成局域网之后用反向代理到家宽，这样做数据是否会被检测出？？？</li>\n</ul>",
+    "publish_time": "2023-10-19 08:34:59",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "现在 A 股是不是大底了？",
+    "url": "https://www.v2ex.com/t/983365",
+    "summary": "busterian: 创业版都创多年来新低了，感觉是时候借钱梭哈了",
+    "publish_time": "2023-10-19 09:50:32",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "就“咬伤女童黑狗的主人被刑拘”事件，咨询个问题",
+    "url": "https://www.v2ex.com/t/983371",
+    "summary": "qdlxsxj: <p>有个法律问题不太懂，拘男的还是拘女的？还是家里协商出一个进去？</p>",
+    "publish_time": "2023-10-19 09:59:31",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
