@@ -9,5 +9,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "上海兆芯集成SOFAStack机密计算解决方案，共铸云原生安全生态",
+    "url": "https://www.infoq.cn/article/qcKBAflw7bZFCv900PM3",
+    "summary": "<p>记者今日获悉，上海兆芯与蚂蚁数字科技达成战略合作，将集成其云原生PaaS平台SOFA Stack（下简称SOFA）的机密计算产品，并共同推进金融、医疗等行业落地，应用于隐私计算、数据保护等场景，该合作正填补国产化机密计算的空白。</p><p></p><p><img src=\"https://static001.infoq.cn/resource/image/25/4e/25cf7930aaedccd8ac1ab8906e989e4e.png\" /></p><p></p><p>&nbsp;</p><p>伴随企业业务上云、大模型发展，保护使用中的数据成为一大挑战，机密计算概念应运而生，它通过具备高度安全性的硬件加密体系来对抗数据泄漏风险。自2019年起，Gartner将机密计算列入云安全技术成熟度曲线，几年来它仍是曲线上重要技术之一。机密计算作为前瞻性安全技术，全球科技巨头微软云、谷歌云、英特尔等纷纷布局，投入探索应用。</p><p></p><p>据介绍，SOFA机密计算产品，基于蚂蚁集团自研HyperEnclave和Occlum TEE OS技术底座，已应用于智能合约、分布式大数据分析、密态数据库等20+行业场景，可支持TB级数据规模。同时均已通过北京国家金融科技认证中心认证，具备企业级应用水平。</p><p></p><p>对SOFA而言，被上海兆芯高性能国产处理器集成后，将可以向上云客户提供芯片层安全保障能力。这是其业务团队升级后又一进展，该团队今年以来完成多项云原生安全产品层面的整合，并已有较广泛的应用实践。</p><p></p><p>此前，SOFA还率先完成全栈软件供应链安全产品及解决方案的布局，包括静态代码扫描Pinpoint、软件成分分析SCA、交互式安全测试IAST、运行时防护RASP、安全洞察Appinsight等，帮助客户应用软件实现“发布前检测，运行时免疫”。</p><p></p><p>IDC《中国云原生市场分析》报告显示，蚂蚁集团是国内云原生技术最全面的厂商之一，SOFA广泛应用于银行、证券、保险等行业的数百家金融机构，国内TOP50银行中超60%选择SOFAStack加速迈向云原生。</p>",
+    "publish_time": "2023-10-19 11:43:45",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
