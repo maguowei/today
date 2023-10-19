@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Linkerd 2.14发布：多集群支持和Kubernetes Gateway API功能升级一览",
+    "url": "https://www.infoq.cn/article/TeJctvZNkPuToDNxRfdX",
+    "summary": "<p><a href=\"https://linkerd.io/\">Linkerd</a>\" 2.14版本（一个<a href=\"https://www.infoq.com/news/2022/06/future-cloud-kubecon22/\">毕业于CNCF</a>\"的服务网格项目）发布，新特性包括改进企业级多集群支持、与Kubernetes Gateway API保持完全一致，等等。</p><p>&nbsp;</p><p>前不久发布的2.13版本带来了熔断机制和动态请求路由功能。在此基础上，2.14带来了许多增强和改进，包括增强在共享平面网络上进行多集群部署的支持以及与Gateway API保持完全一致。</p><p>&nbsp;</p><p>这个新版本改进了<a href=\"https://linkerd.io/2023/07/20/enterprise-multi-cluster-at-scale-supporting-flat-networks-in-linkerd/\">在共享平面网络上进行多集群部署</a>\"的支持。不同集群中的pod彼此之间可以建立TCP连接，而且不需要多集群网关。这样可以提高性能和安全性，并尽可能地减少通过网关路由的流量，从而减少延迟和云支出。这也保持了Linkerd的一项关键设计：出于安全性和故障隔离的考虑，每个集群仍然有自己的Linkerd控制平面，并且独立于其他集群。<a href=\"https://linkerd.io/2023/09/11/linkerd-214/\">Linkerd上有一篇博文</a>\"详细介绍了它的工作机制。</p><p>&nbsp;</p><p>现在，Linkerd与新的<a href=\"https://gateway-api.sigs.k8s.io/\">Kubernetes Gateway API</a>\"完全一致了。它支持对复杂资源（如HTTP请求）进行标准化配置，并跨Ingress和服务网格提供了统一的API。这意味着重试、超时和渐进式交付等功能都可以完全使用Gateway API类型进行配置，不仅简化了配置过程，还增强了与当前Kubernetes服务网格定义的兼容性。</p><p>&nbsp;</p><p>在X（之前的Twitter）上，<a href=\"https://twitter.com/cloudnativeboy/status/1699408983638065507\">Saim Safdar</a>\"（<a href=\"https://twitter.com/cloudnativefm\">云原生播客主持人</a>\"）评论道：</p><p></p><blockquote>Gateway API代表了Kubernetes中负载平衡、路由和服务网格API的未来。</blockquote><p></p><p>&nbsp;</p><p>除新增了这些核心特性之外，Linkerd 2.14还包括许多性能增强、Bug修复和新特性，如领导者选举特性、多集群服务镜像的高可用模式和经过改进的诊断功能。</p><p>&nbsp;</p><p>在过去的18个月里，Linkerd在阿迪达斯、微软、Plaid和DB Schenker等企业组织中的应用激增。这些公司部署Linkerd的目的是增强其关键任务生产基础设施的安全性、遵从性和可靠性。</p><p>&nbsp;</p><p><a href=\"https://www.cncf.io/blog/2023/09/18/announcing-linkerd-2-14-improved-enterprise-multi-cluster-gateway-api-conformance-and-more/\">这篇文章</a>\"主要是说明了Linkerd的成功，如2022年运行该技术的稳定Kubernetes集群数量增加了一倍。它还暗示说，2023年晚些时候会有一些令人兴奋的特性和进展，以2.13和2.14版本的成果为基础进行构建，并保持Linkerd在服务网格中融合企业级功能、实现操作便利性和成本效益的承诺不变。</p><p>&nbsp;</p><p>&nbsp;</p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2023/09/linkerd-214-released/\">https://www.infoq.com/news/2023/09/linkerd-214-released/</a>\"</p>",
+    "publish_time": "2023-10-19 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
