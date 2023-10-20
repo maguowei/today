@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Azure Database将陆续终止支持MariaDB",
+    "url": "https://www.infoq.cn/article/gxXkWHEXGRGV7dW1wOiR",
+    "summary": "<p>微软最近宣布，Azure Database 将放弃对 MariaDB 的支持。在接下来的几个月里，用户将不能通过控制台或 CLI 创建新的 MariaDB 数据库，现有的实例计划在 2025 年到期。</p><p></p><p>为了确保获得持续的支持，微软建议将 Azure Database for MariaDB 工作负载迁移到 Azure Database for MySQL Flexible Server。微软项目经理 Karla Escobar 和高级内容开发者 Mark Ghanayem 在“Azure Database for MariaDB 发生了什么？”一文中写道：</p><p></p><p></p><blockquote>我们正大力在我们的旗舰产品 Azure Database for MySQL 上投入——Flexible Server 更适用于关键任务工作负载。与 Azure Database for MariaDB 相比，Flexible Server 具有更好的特性、性能、改进的架构和更可控的服务层成本。</blockquote><p></p><p></p><p>Azure Database for MariaDB 于 2017 年推出，作为一款“面向企业、全托管的社区版 MariaDB”。MariaDB 加入到 PostgreSQL 和 MySQL 行列，成为 Azure 平台上的托管 SQL 数据库。但最新受支持版本 MariaDB 10.3 于去年 5 月就已进入 EOL。Azure 支持团队在去年 4 月回复了一位担心<a href=\"https://learn.microsoft.com/en-us/answers/questions/1253529/azure-mariadb-version-upgrade-from-10-3-in-2023\">“缺乏升级选项”的用户</a>\"的提问：</p><p></p><p></p><blockquote>我们计划在 2025 年 9 月之前一直支持 MariaDB v10.3，但不打算发布任何新的 MariaDB 版本。在得到进一步通知之前，客户仍然可以创建新的 v10.3 MariaDB 服务器实例。</blockquote><p></p><p></p><p>Escobar 和 Ghanayem 解释了为什么 MySQL Flexible Server 是一个更好的选择：</p><p></p><p></p><blockquote>Flexible Server 区域冗余部署提供了 99.99% 的可用性和区域级弹性，而 MariaDB 只提供单个可用区弹性。Flexible Server 的高可用 (HA) 架构中包含了一个具有冗余计算和存储的热备份 (每个站点的数据存储在 3 个副本中)，而 MariaDB 的 HA 架构没有被动热备份来帮助从区域故障中恢复。</blockquote><p></p><p></p><p>Azure 并不是唯一为 MariaDB 工作负载提供托管服务的云提供商：AWS RDS 最近宣布支持 MariaDB 10.11，这是 MariaDB 社区长期支持的最新主要版本。去年，AWS 增加了对 MyRocks 存储引擎、IAM 集成、延迟复制的支持，并进行了多个主要升级。MariaDB 公司则提供了 SkySQL，一个部署在谷歌云上为企业工作负载提供服务的云数据库。</p><p></p><p>Azure 计划分别在 12 月 19 日和 3 月 19 日放弃对从 Azure 门户和 CLI 创建新 MariaDB 实例的支持。现有的数据库计划在 2025 年 9 月 19 日之前退役。Azure Database for MySQL 博客上的一篇<a href=\"https://techcommunity.microsoft.com/t5/azure-database-for-mysql-blog/migrating-from-azure-database-for-mariadb-to-azure-database-for/ba-p/3838455\">文章</a>\"解释了如何迁移到 Azure Database for MySQL。</p><p></p><p>原文链接：</p><p></p><p><a href=\"https://www.infoq.com/news/2023/09/azure-database-mariadb/\">https://www.infoq.com/news/2023/09/azure-database-mariadb/</a>\"</p><p></p>",
+    "publish_time": "2023-10-20 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
