@@ -64,5 +64,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "nas 加装 ssd 使用问题",
+    "url": "https://www.v2ex.com/t/983977",
+    "summary": "chocolate518: <p>刚给 nas 下单了一块 2t 的 ssd ，nas 是威联通的，想问下怎么使用比较好，是切一部分做缓存？能让机械硬盘噪声轻点？还是直接就当存储盘使用？\n本意是想挂 pt 上传用，但是 2t 都用来挂上传下载是不是浪费了。。\nps：顺便求个馒头邀，发到求邀区好像没人看,谢谢好心人 aGV3ZWk4NDA1MThAZ21haWwuY29t</p>",
+    "publish_time": "2023-10-21 09:17:18",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "我的 SMB 传输速度为什么这么慢？",
+    "url": "https://www.v2ex.com/t/983981",
+    "summary": "sadfQED2: <p>环境：</p>\n<p>服务器：黑群辉 SMB</p>\n<p>客户端：Win11</p>\n<p>Copy 一个 10G 的 ZIP 文件，前 10 多秒能有 150M/s ，但是很快就会掉到 50M/s 的样子。拷贝过程中群辉 CPU 占用 20%左右。</p>\n<p>fio 硬盘 4K 随机读测试：</p>\n<pre><code>Run status group 0 (all jobs):\n   READ: bw=413MiB/s (433MB/s), 413MiB/s-413MiB/s (433MB/s-433MB/s), io=8110MiB (8504MB), run=19626-19626msec\n\nDisk stats (read/write):\n  sda: ios=2075891/0, merge=0/0, ticks=927646/0, in_queue=927646, util=99.45%\n</code></pre>\n<p>iperf3 网络测试：</p>\n<pre><code>[ ID] Interval           Transfer     Bitrate         Retr\n[  5]   0.00-10.00  sec  1.80 GBytes  1.54 Gbits/sec    0             sender\n[  5]   0.00-10.00  sec  1.80 GBytes  1.54 Gbits/sec                  receiver\n</code></pre>\n<p>我不太懂 SMB 协议相关的优化，这是 SMB 协议的问题？</p>",
+    "publish_time": "2023-10-21 09:33:13",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
