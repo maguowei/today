@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Cloudflare推出免费的隐私保护工具Turnstile，替代传统CAPTCHA",
+    "url": "https://www.infoq.cn/article/8Tez4gDOOpxxHHCfHCro",
+    "summary": "<p>Cloudflare 最近宣布 Turnstile 现已全面推出并免费提供给所有用户。Turnstile 被设计为传统的挑战-响应测试的替代方案，它是一个复选框，旨在保护用户隐私、阻止机器人，并提升用户体验。</p><p></p><p>作为“用户友好、保护隐私的 CAPTCHA 替代方案”，Turnstile 在一年前发布预览版，依赖于机器学习模型，这些模型能够检测那些成功完成挑战的终端访问者的常见特征。</p><p></p><p><img src=\"https://res.infoq.com/news/2023/10/cloudflare-turnstile-ga-free/en/resources/1image2-1696323324856.gif\" /></p><p></p><p>选择从一系列不断变化的浏览器挑战中，检测访问网页的是否为机器人。根据文档，这些初始挑战的计算难度可能因访问者而异。</p><p></p><p>该服务利用与 Managed Challenge 背后相同的技术，但允许客户在网站上的任何地方运行挑战，而不需要使用 Cloudflare 的 CDN。Cloudflare 的技术负责人 Benedikt Wolters、首席软件工程师 Maxime Guerreiro 和产品经理 Adam Martinetti 写道：</p><p></p><p>现在我们在 Cloudflare 中已经取消了 CAPTCHAs，我们希望任何人都能够轻松地做到这一点，即使他们不使用其他 Cloudflare 服务。我们已经将 Turnstile 从我们的平台中分离出来，这样任何平台上的网站运营者只需添加几行代码就可以使用它。</p><p></p><p>Troy Hunt，Have I Been Pwned 的创始人兼首席执行官，展示了如何通过 Turnstile 来对抗 API 机器人，并评论道：</p><p></p><p>我不确定 Cloudflare 在那个挑战中具体做了什么（...）但我知道的是，Cloudflare 处理大约20%的全球互联网流量，正因如此，他们在查看请求并判断其合法性方面处于无与伦比的位置。</p><p></p><p>为了使 Turnstile 正常运作，Turnstile 需要在元素中添加以下脚本片段:</p><p></p><p><code lang=\"javascript\"></code></p><p></p><p>文档展示了如何通过隐式或显式渲染来初始化和自定义 Turnstile 小部件，并说明了如何验证服务器端响应。</p><p></p><p>根据 Cloudflare 的说法，Turnstile 专注于保护隐私，不依赖追踪用户数据来判断用户是否为机器人，满足了《电子隐私指令》以及 GDPR 和 CCPA 的合规要求。Wolters、Guerrero 和 Martinetti 讨论了 Turnstile 与 CAPTCHA 相比的情况。</p><p></p><p>一年多来，我们使用我们的 Managed Challenge 在 CAPTCHAs 和我们自己的 Turnstile 挑战之间进行比较，以评估效果。我们发现，即使不需要用户进行任何交互，Turnstile 的效果与 CAPTCHA 一样有效。</p><p></p><p>虽然一些开发者对这个解决方案的有效性表示怀疑，但 Pax8 的云服务主管 Dominic Kirby 在 LinkedIn 的评论中表示：</p><p></p><p>我在一些项目中尝试使用 Cloudflare Turnstile，我真的很喜欢它！绝对值得一试，可以替代其他不太友好的机器人对抗工具来保护您的输入。</p><p></p><p>独立顾问 Osma Ahvenlampi 补充道:CAPTCHA 的理念是在网页上加入一些机器人无法通过但人类可以的内容。我们知道这很糟糕，因为机器人现在可以读取文本并分类图像。</p><p></p><p>Turnstile Enterprise 包括 SaaS 平台支持和可见模式，无 Cloudflare 徽标。预计在2024年初推出按需付费的高级功能选项。 演示的源代码可在 GitHub 上获得。</p><p></p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2023/10/cloudflare-turnstile-ga-free/\">https://www.infoq.com/news/2023/10/cloudflare-turnstile-ga-free/</a>\"</p>",
+    "publish_time": "2023-10-21 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
