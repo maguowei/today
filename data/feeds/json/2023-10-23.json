@@ -1168,5 +1168,85 @@
       "desc": "知乎热榜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
     }
+  },
+  {
+    "title": "蕾哈娜或将回归乐坛",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%95%BE%E5%93%88%E5%A8%9C%E6%88%96%E5%B0%86%E5%9B%9E%E5%BD%92%E4%B9%90%E5%9D%9B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "明日方舟",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "你心情特别差时，最喜欢吃什么东西呢？",
+    "url": "https://www.zhihu.com/question/621880083",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么大陆很多人难以理解棒球规则？",
+    "url": "https://www.zhihu.com/question/623672724",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Western Digital and Kioxia to Announce Merge This Month",
+    "url": "https://www.tomshardware.com/news/western-digital-and-kioxia-to-announce-merge-this-month-report",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37977768\">Comments</a>",
+    "publish_time": "2023-10-23 02:22:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Facebook web desktop can not access messenger in widely experienced bug",
+    "url": "https://old.reddit.com/r/facebook/comments/17dxw9o/anyone_know_how_to_get_rid_of_this_i_cant_see_my/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37977905\">Comments</a>",
+    "publish_time": "2023-10-23 02:37:28",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Lessons of Lucasfilm's Habitat",
+    "url": "https://web.stanford.edu/class/history34q/readings/Virtual_Worlds/LucasfilmHabitat.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37977632\">Comments</a>",
+    "publish_time": "2023-10-23 02:05:25",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How to Build Your First Hardware Hacking Lab",
+    "url": "https://voidstarsec.com/hw-hacking-lab/vss-lab-guide",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=37977502\">Comments</a>",
+    "publish_time": "2023-10-23 01:47:43",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
