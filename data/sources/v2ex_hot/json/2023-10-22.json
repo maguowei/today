@@ -1,0 +1,46 @@
+[
+  {
+    "title": "主板功耗 20 瓦+，真让人头疼",
+    "url": "https://www.v2ex.com/t/984162",
+    "summary": "silvernoo: 最近装了一套扩展性拉满的 NAS ，主板和 cpu 搭配是微星 C236A-WORKSTATION + 1240L-v5 （ 25w TDP ）。如果把 pcie 插满直接干到 80w 。去掉所有 pcie 设备，从 U 盘启动 Ubuntu ，待机功耗依然有 35 瓦左右。怀疑是 cpu 在 linux 下无法休眠。用 powerstat 察看 cpu 功耗在 2-3w 。cpu 可以正常休眠。给 cpu 上负债后正常跑到 30-40w 之间。可以和电表对上。所以各种 cpu 降压降频方法也不适用。<br /><br />我用的铂金电源，除去 5w 的损耗。1-2w 的内存，3w 的 cpu ，光是主板就吃掉了 20+w 功耗。Nas 大部分时候都是在低负载下运转。但是主板吃电一点也没闲着。<br /><br />大大们有什么办法优化外围设备的功耗。",
+    "publish_time": "2023-10-22 00:16:30",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "说说最容易吃灰的家用电器吧",
+    "url": "https://www.v2ex.com/t/984178",
+    "summary": "razios: <div>\n 双十一快到了，保持理性消费。说说自己用过的吃灰神器。\n <br />1.扫地 or 洗地机器人\n <br /> 看着捉急，边边角角清理不干净，清理灰尘头疼，还不如拿个无线吸尘器指哪打哪几分钟搞定\n <br />2.空气净化器\n <br /> 听起来很美好，实际上就是一个风扇带几片虑网，闲鱼当废塑料价格出的一堆，出了可惜，用着说是鸡肋都算不上\n <br />\n<br />其他各位补充\n</div>",
+    "publish_time": "2023-10-22 07:27:38",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "你的人生中第一个 100w 是怎么赚到的",
+    "url": "https://www.v2ex.com/t/984185",
+    "summary": "hero158: 用了多长时间",
+    "publish_time": "2023-10-22 09:19:16",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "最近失眠很多 只有 100 万 如果再搞十年存款 1000 万 再身体健康是不是能高枕无忧",
+    "url": "https://www.v2ex.com/t/984195",
+    "summary": "zzzkkk: 已经 36 岁了 未婚 有车无房 目前年入 58 跟着一美国小公司十一年多了 住在中国乡下  一年生活费很省 一个人只要两万 一个月吃喝只要 1000 多<br /><br />去年开始想着买房 但最近几个月失眠 精神压力大 害怕失业 学技术搞技术导致头痛的经历 使我放弃买房的想法 昨晚彻夜未眠想到的唯一出路就是存款买美国国债吃复利 十年后 正常情况有 1000 万存款全买美国国债 利息就有 50 万  就再也不用担心那美国公司不发我钱了 <br /><br />未来十年准备再也不去旅游了 再也不冲动消费了再也不创业了 <br /><br /><br /><br />在农村自己做点活赚点人民币 可以补贴生活费 比如挖笋拔笋卖笋干<br /><br /><br /><br />下面是昨晚算出来的未来十年每年底的存款和利息和工资收入的总和再减去每年差不多 2 万生活费<br /><br /><br /><br />买房是愚蠢的行为 不但丟了存款没了利息 还每年被银行拿走很多钱 再损失几十年的存款和机会<br /><br /><br /><br />126 万  23 年底<br /><br />185 万 24 年底<br /><br />318.5 万 25 年底<br /><br />389.9 万 26 年底<br /><br />464.5 万 27 年底<br /><br />543.7 万 28 年底<br /><br />626.9 万 29 年底<br /><br />714.2 万 30 年底<br /><br />805.9 万 31 年底<br /><br />902.2 万 32 年底<br /><br />1003.3 万 33 年底",
+    "publish_time": "2023-10-22 10:48:55",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  }
+]
