@@ -53,5 +53,27 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "程序员2023：AI入侵和被“毕业”？我选小酒馆和上香｜访谈录 1024程序员日特别策划",
+    "url": "https://www.infoq.cn/article/igLvz42RLa4o4DgVUKc9",
+    "summary": "<p>开发者们，节日快乐！你的1024仪式感是什么？技术圈发生了什么变化？对未来的焦虑和期待是什么？这次，我们分别采访了阿里、京东云、腾讯、OceanBase、Dify.AI和Yashan DB的开发者，来讲述程序员自己的故事！</p>\n<p>另外，2023年第三季《中国卓越技术团队访谈录》将于11月上旬发布，现在可以提前“<a href=\"https://www.infoq.cn/form/?id=1881\">预约</a>”免费下载<a href=\"https://www.infoq.cn/form/?id=1881\">电子书</a>啦！还有各种技术书籍、InfoQ定制马克杯等周边好礼可以拿哦，快快行动吧～</p>",
+    "publish_time": "2023-10-24 15:41:43",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "从程序员到科技领导者，如何“打怪升级”",
+    "url": "https://www.infoq.cn/article/vHWjuaI4FLJgg9DyKE7p",
+    "summary": "<p>&nbsp;</p><p></p><blockquote>又是一年“1024”程序员日，今天的你有没有趁机让自己放松一下？&nbsp;程序员这个职业并不简单，在做好自身工作的同时，还要关注技术趋势、不断提升职业能力等。值此时机，InfoQ编辑部就大家关心的一些问题进行了总结，以飨广大开发者。</blockquote><p></p><p>&nbsp;</p><p></p><h2>新旧技术交替的一年</h2><p></p><p>&nbsp;</p><p>2023年，技术圈算得上“热闹”。</p><p>&nbsp;</p><p>ChatGPT带来了新的技术变量，进而影响到了程序员的日常，我们一下子就迈入了由AIGC 引领的时代。AIGC 的发展又直接推动了向量数据库、研发效能、大数据等多个领域的发展。这场 ChatGPT 引发的“蝴蝶效应”正在席卷全球。</p><p>&nbsp;</p><p>这场竞赛里，已经有人走在前边：</p><p>&nbsp;</p><p><a href=\"https://www.infoq.cn/article/uz6JCNZ2lvRCT2psCvS6\">InfoQ&nbsp;2023年趋势报告：数据工程、AI和ML</a>\"<a href=\"https://www.infoq.cn/theme/209\">AIGC&nbsp;时代我们需要什么样的向量数据库</a>\"<a href=\"https://www.infoq.cn/theme/215\">AIGC&nbsp;如何加持研发效能提升</a>\"<a href=\"https://www.infoq.cn/theme/214\">LLM在大数据领域会掀起什么样的风浪</a>\"……</p><p>&nbsp;</p><p>与此同时，“旧”技术也在焕发新的活力。备受期待的Serverless 开始在更多企业落地；平台工程异军突起，要不要和该如何设计平台工程成为广大开发者关注的问题；可观测技术悄然掀起一场“无声的平台革命”，eBPF 被推到前沿；云原生网关也开启新的竞技……</p><p>&nbsp;</p><p>种种技术更迭也促进了架构设计的变化：大语言模型和软件供应链安全是新的创新者趋势，“可移植性设计”、数据驱动架构等日渐成熟。这一年，技术并为因为各种原因而停滞不前。</p><p>&nbsp;</p><p>查看各技术领域的详细发展情况：</p><p>&nbsp;</p><p><a href=\"https://www.infoq.cn/theme/182\">企业转向Serverless，怎么做技术选型？</a>\"<a href=\"https://www.infoq.cn/theme/183\">云原生趋势下的平台工程</a>\"<a href=\"https://www.infoq.cn/theme/181\">eBPF技术探索与应用实践</a>\"<a href=\"https://www.infoq.cn/theme/156\">下一代云原生网关选型与实践</a>\"<a href=\"https://www.infoq.cn/article/GfGMc5ozQO1XYOiaTXCz\">InfoQ&nbsp;2023&nbsp;年趋势报告：架构设计</a>\"<a href=\"https://www.infoq.cn/article/fvb5Y9egEbd3BNvGRoBw\">InfoQ&nbsp;2023&nbsp;年趋势报告：文化和方法</a>\"……</p><p>&nbsp;</p><p>&nbsp;</p><p></p><h2>程序员的职业要求，也变了</h2><p></p><p>&nbsp;</p><p>人才是驱动社会和经济发展的核心要素，是企业创新的基石。技术的不断演变，也促使开发者们不断提升自己的“硬技能”。</p><p>&nbsp;</p><p>“大模型能力的成熟，就像突然之间，我们手中拥有了一架强大的机器。但机器上的按钮很多，且没有说明书，需要一个同学来探索、归纳、总结其使用方法。”创客贴 CTO 李晋松说道。而承担这样探索角色的就是“Prompt 工程师”。看起来简单，但这个岗位极度务实，对技术要求并不低。同时，AIGC 工具的使用也在影响开发者的生产力和工作流程。用还是不用，现在还是个问题吗？</p><p>&nbsp;</p><p>另外，架构师的角色也已经发生了根本性的变化。与用户互动的方式，构建、发布和支持软件的方式都发生了变化。即使同一岗位，对开发者的要求也在不断变化。</p><p>&nbsp;</p><p>详解职业要求如何变化：</p><p>&nbsp;</p><p><a href=\"https://www.infoq.cn/article/7FGafFFFYkbMxW11u0BT\">实访用人单位：Prompt工程师真是低门槛“香饽饽”？</a>\"<a href=\"https://www.infoq.cn/article/39DAkIPX97e716HJkPIa\">AIGC&nbsp;生成代码正流行，对程序员是好还是坏？</a>\"<a href=\"https://www.infoq.cn/article/jpSYVMHY71wO6wchb71x\">架构师角色的演变</a>\"<a href=\"https://www.infoq.cn/theme/196\">产业人才趋势洞察</a>\"……</p><p>&nbsp;</p><p>&nbsp;</p><p></p><h2>这些人在路上</h2><p></p><p>&nbsp;</p><p>前人还在路上，后来者更要努力。</p><p>&nbsp;</p><p>在Thoughtworks工作超过 17 年的微服务先行者James Lewis、20 多年来一直倡导敏捷开发、高效开发的《代码大全》作者 Steve McConnell、 从事研发20多年的“MySQL 之父” Michael “Monty” Widenius 至今还活跃在开发前线，并时不时向大家分享自己的人生经验。而新时代下的95后，也在沿着自己的轨道前行……</p><p>&nbsp;</p><p>看看他们的精彩故事：</p><p>&nbsp;</p><p><a href=\"https://www.infoq.cn/article/8wWUiBa8eBWVLRMrxJaT\">我，一个&nbsp;95&nbsp;后，从阿里辞职与贾扬清去硅谷创业</a>\"<a href=\"https://www.infoq.cn/article/h1BYRQgH4zZqhLPVZArS\">微服务先行者&nbsp;James&nbsp;Lewis：别纠结单体还是微服务，面向服务才是正解</a>\"<a href=\"https://www.infoq.cn/article/45V2FCGDxm9YYWf8oWIX\">《代码大全》作者&nbsp;Steve&nbsp;McConnell&nbsp;传授管理软件复杂度的要义</a>\"<a href=\"https://www.infoq.cn/article/3xtSDtHUgTKRsyw3kZXH\">专访“MySQL&nbsp;之父”：我曾创造&nbsp;MySQL，也将颠覆&nbsp;MySQL</a>\"……</p><p>&nbsp;</p><p></p><h2>嘿，别再用“格子衫”定义我们了！</h2><p></p><p>&nbsp;</p><p>穿着“格子衫”闷头写代码、“宅”在家里打游戏，这些标签已经把程序员塑造成了“机器”。但是，程序员的日常生活真的也很丰富多彩！</p><p>&nbsp;</p><p><a href=\"https://www.infoq.cn/video/ANUI0bYEKxlFzQdTWK04\">大厂技术团队讲述：我的coding仪式感、第二理想……</a>\"<a href=\"https://www.infoq.cn/video/quHs8XqTeyIQcsvJqNIQ\">技术团队刻板、太讲逻辑？这些团队的日常可不这样！</a>\"<a href=\"https://www.infoq.cn/video/igLvz42RLa4o4DgVUKc9\">AI入侵和被“毕业”、小酒馆和拜佛……程序员的“悲喜”一年｜1024程序员日特别篇</a>\"……</p><p>&nbsp;</p><p>&nbsp;</p><p></p><h2>压力大，更要爱自己</h2><p></p><p>&nbsp;</p><p>开发者常常会被认为是“i人”，但其实同侪交流学习、企业培训分享，都是大家认可的学习和成长方式。</p><p>&nbsp;</p><p>开发者压力大，脱发、颈椎等身体健康问题向来会被关注，但心理健康或许更该被重视。根据<a href=\"http://gk.link/a/12bXU\">《中国开发者画像洞察报告2022》</a>\"调查结果，54.09% 开发者拥有运动休闲爱好，且超过 60% 开发者认为自己身体整体健康。但超过一半的开发者认为生活中充满了压力，并且有 1.67% 的开发者已经作为心理疾病患者接受治疗。</p><p>&nbsp;</p><p>或许在新的一年，我们都要学着在繁忙的工作中给自己解压。</p><p>&nbsp;</p><p>查看更多开发者报告：</p><p><a href=\"http://gk.link/a/12bXU\">中国开发者画像洞察报告2022</a>\"<a href=\"http://gk.link/a/12bXY\">中国科技领导者画像研究报告2023</a>\"<a href=\"http://gk.link/a/12bXT\">2023中国企业数字化人才发展白皮书</a>\"……</p><p></p><p>最后，2023年第三季《中国卓越技术团队访谈录》将于11月上旬发布，现在可以提前点击<a href=\"https://www.infoq.cn/form/?id=1881\">“预约”免费下载电子书</a>\"啦！同时，我们还会在电子书发布前，随机抽取幸运的预约读者，送出各类技术书籍、InfoQ 定制马克杯、帆布袋等周边好礼。获奖名单届时将在电子书下载页的评论区公布，现在就可以行动起来啦！</p>",
+    "publish_time": "2023-10-24 15:49:19",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
