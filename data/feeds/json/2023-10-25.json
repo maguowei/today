@@ -1243,5 +1243,90 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "要培养造就更多大国工匠和高技能人才",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%A6%81%E5%9F%B9%E5%85%BB%E9%80%A0%E5%B0%B1%E6%9B%B4%E5%A4%9A%E5%A4%A7%E5%9B%BD%E5%B7%A5%E5%8C%A0%E5%92%8C%E9%AB%98%E6%8A%80%E8%83%BD%E4%BA%BA%E6%89%8D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "好喜欢这样鲜活的金晨",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%BD%E5%96%9C%E6%AC%A2%E8%BF%99%E6%A0%B7%E9%B2%9C%E6%B4%BB%E7%9A%84%E9%87%91%E6%99%A8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "双十一",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%8C%E5%8D%81%E4%B8%80%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "科大讯飞回应学习机出现不当内容，已引入更严格的内容审核机制，平台应如何避免此类事件的发生？",
+    "url": "https://www.zhihu.com/question/627577204",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "引力波能作为未来星际传播信号的介质吗？",
+    "url": "https://www.zhihu.com/question/342992089",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "大模型检索增强生成（RAG）有哪些好用的技巧？",
+    "url": "https://www.zhihu.com/question/625481187",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何看待米哈游起诉游创工坊不正当竞争及著作权侵权？",
+    "url": "https://www.zhihu.com/question/627458384",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "A Salute to the Wheel (2009)",
+    "url": "https://www.smithsonianmag.com/science-nature/a-salute-to-the-wheel-31805121/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38001056\">Comments</a>",
+    "publish_time": "2023-10-25 00:01:08",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The City of Seattle accidentally gave me 32M emails for 40 dollars (2018)",
+    "url": "https://mchap.io/that-time-the-city-of-seattle-accidentally-gave-me-32m-emails-for-40-dollars4997.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38001784\">Comments</a>",
+    "publish_time": "2023-10-25 00:47:57",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
