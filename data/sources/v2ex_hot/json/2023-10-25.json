@@ -97,5 +97,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "如何在 Linux 系统中使用 windows？",
+    "url": "https://www.v2ex.com/t/985127",
+    "summary": "ChenSino: <p>平时开发在 linux 下，但是有些软件（公司加密软件、内部沟通软件）必须在 windows 下，\n我的物理机上安装的是 Manjaro,目前是在 Manjaro 上安了一个 vmware 虚拟机，\n虚拟机上安装的 windows,总是感觉很卡，用起来不丝滑，我的电脑配置挺高的，应该不是硬件问题。</p>\n<p>想请教一下 v 友们，在 linux 下除了虚拟机还有别的更好的方法使用上 windows 吗？ 主要是要流畅</p>",
+    "publish_time": "2023-10-25 08:54:00",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
