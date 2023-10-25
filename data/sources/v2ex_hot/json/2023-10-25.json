@@ -53,5 +53,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "语雀这路子太野了",
+    "url": "https://www.v2ex.com/t/985202",
+    "summary": "nekoharuya: <a href=\"https://mp.weixin.qq.com/s/WFLLU8R4bmiqv6OGa-QMcw\" rel=\"nofollow noopener\" target=\"_blank\">https://mp.weixin.qq.com/s/WFLLU8R4bmiqv6OGa-QMcw</a><br />他们的公告的链接<br />考虑到 v 友的水平，我抛砖引玉分析一下<br />这帖子的意思大概是说，由于临时工在升级维护工具的时候，工具没有严格测试，直接上生产环境，工具的 bug 导致数据库服务器下线，联系硬件团队，硬件团队说上不了线，摆烂不玩了，你们自己恢复备份吧，然后花了四个小时恢复，俩小时验证数据，成功上线<br />我和几个朋友讨论了下，觉得非常的，不可思议<br />这是 2023 年的，语雀这个体量的公司，做出来的事情<br />正常的架构思维里，所有的服务，就不应该跑在同一台机器上，包括数据库，最次也该是个主从集群，集群下面的机器单例再考虑 raid 之类的东西<br />在这个设计下，不存在上不了线开不了机这种事情，机房被修卡军团占领了都没事<br />至于网上传的什么之前的技术负责人跑路了，新人不会操作<br />就正常的 devops ，后台管理面板里，全自动维护，包括版本控制，回滚，备份，集群，镜像，机器冗余，全部自动化管理<br />这不该是现在的标配吗<br />技术负责人跑路，新人不会操作，这句话假定的前提是，这一切都是手工完成的<br />语雀这么大公司，表现得跟路边三五个人创业的草台班子一样",
+    "publish_time": "2023-10-25 11:21:32",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
