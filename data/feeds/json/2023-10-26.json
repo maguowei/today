@@ -1525,5 +1525,94 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "有星火大模型的讯飞办公",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9C%89%E6%98%9F%E7%81%AB%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E8%AE%AF%E9%A3%9E%E5%8A%9E%E5%85%AC%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "欧冠联赛",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%AC%A7%E5%86%A0%E8%81%94%E8%B5%9B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "檀健次你好星期六续签",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E7%BB%AD%E7%AD%BE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何评价《海贼王》漫画第1096话？",
+    "url": "https://www.zhihu.com/question/627358387",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "当你老了，你想要一个怎样的生活？",
+    "url": "https://www.zhihu.com/question/626036920",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Keyboard Maestro 11",
+    "url": "https://www.stairways.com/press/2023-10-24",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38017831\">Comments</a>",
+    "publish_time": "2023-10-26 04:22:42",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "AI 'breakthrough': neural net has human-like ability to generalize language",
+    "url": "https://www.nature.com/articles/d41586-023-03272-3",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38017146\">Comments</a>",
+    "publish_time": "2023-10-26 03:28:45",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Meta Reports Third Quarter 2023 Results",
+    "url": "https://investor.fb.com/investor-news/press-release-details/2023/Meta-Reports-Third-Quarter-2023-Results/default.aspx",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38017882\">Comments</a>",
+    "publish_time": "2023-10-26 04:25:35",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Helix 23.10 Highlights",
+    "url": "https://helix-editor.com/news/release-23-10-highlights/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38017541\">Comments</a>",
+    "publish_time": "2023-10-26 04:02:07",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
