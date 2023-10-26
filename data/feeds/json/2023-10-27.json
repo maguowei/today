@@ -1351,5 +1351,74 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "充电宝 俗称尿袋",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%85%E7%94%B5%E5%AE%9D+%E4%BF%97%E7%A7%B0%E5%B0%BF%E8%A2%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何评价曼联九二黄金一代？",
+    "url": "https://www.zhihu.com/question/26943838",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "国内小家电市场的崛起，意味着国内的消费升级还是降级？",
+    "url": "https://www.zhihu.com/question/627881608",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "业内懂行的人首推什么电视？选电视是否是外行看参数，内行看调校？",
+    "url": "https://www.zhihu.com/question/625436606",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Bird with GPS flies into typhoon, carried 700 miles, reaching 15000 ft altitude",
+    "url": "https://newatlas.com/biology/bird-typhoon-ride/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38030705\">Comments</a>",
+    "publish_time": "2023-10-27 03:37:07",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "War Thunder game engine released under BSD license",
+    "url": "https://github.com/GaijinEntertainment/DagorEngine",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38030050\">Comments</a>",
+    "publish_time": "2023-10-27 02:47:42",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "OpenAI Preparedness Challenge",
+    "url": "https://openai.com/form/preparedness-challenge",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38029307\">Comments</a>",
+    "publish_time": "2023-10-27 01:58:05",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
