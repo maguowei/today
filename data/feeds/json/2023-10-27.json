@@ -1420,5 +1420,107 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "费翔重演故乡的云",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B4%B9%E7%BF%94%E9%87%8D%E6%BC%94%E6%95%85%E4%B9%A1%E7%9A%84%E4%BA%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "会讲故事的艺术电视",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BC%9A%E8%AE%B2%E6%95%85%E4%BA%8B%E7%9A%84%E8%89%BA%E6%9C%AF%E7%94%B5%E8%A7%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "美国加州州长纽森访华",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%B7%9E%E5%B7%9E%E9%95%BF%E7%BA%BD%E6%A3%AE%E8%AE%BF%E5%8D%8E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "欺骗自己的不是眼睛而是大脑",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%AC%BA%E9%AA%97%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%8D%E6%98%AF%E7%9C%BC%E7%9D%9B%E8%80%8C%E6%98%AF%E5%A4%A7%E8%84%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Tell HN: 0.61 USD per week for daily sprouts of grains and pulses",
+    "url": "https://news.ycombinator.com/item?id=38030642",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38030642\">Comments</a>",
+    "publish_time": "2023-10-27 03:32:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Making PostgreSQL tick: New features in pg_cron",
+    "url": "https://www.citusdata.com/blog/2023/10/26/making-postgres-tick-new-features-in-pg-cron/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38029671\">Comments</a>",
+    "publish_time": "2023-10-27 02:21:42",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Roombas at the End of the World",
+    "url": "https://spectrum.ieee.org/south-pole-roombas",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38029893\">Comments</a>",
+    "publish_time": "2023-10-27 02:37:24",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Germany set to eclipse Japan as No. 3 economy in 2023, IMF says",
+    "url": "https://www.japantimes.co.jp/business/2023/10/24/economy/japan-gdp-biggest-economies-imf/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38030934\">Comments</a>",
+    "publish_time": "2023-10-27 03:56:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Linux Mint Working on Wayland Support",
+    "url": "https://blog.linuxmint.com/?p=4591",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38031361\">Comments</a>",
+    "publish_time": "2023-10-27 04:34:35",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "An implementation of the NTFS filesystem in a Rust crate",
+    "url": "https://github.com/ColinFinck/ntfs",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38031260\">Comments</a>",
+    "publish_time": "2023-10-27 04:24:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
