@@ -64,5 +64,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "看了下极客湾的 8Gen3 测评，感觉苹果在 SOC 的优势正在缩小",
+    "url": "https://www.v2ex.com/t/985571",
+    "summary": "Morii: <p>来源：<a href=\"https://www.bilibili.com/video/BV1me411R7Ha/?spm_id_from=333.337.search-card.all.click&amp;vd_source=3f22c0cbc5734cd4b5d6e8850ae61897\" rel=\"nofollow\">小米 14 性能分析：骁龙 8Gen3 到底有多强？</a></p>\n<p>省流：单核打不过 Apple ，GPU 大幅度领先 A17 Pro</p>",
+    "publish_time": "2023-10-26 10:59:19",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "小米 14 / 骁龙 8Gen3 发布了",
+    "url": "https://www.v2ex.com/t/985613",
+    "summary": "charlieethan: <p>参考极客湾的视频： <a href=\"https://www.bilibili.com/video/BV1me411R7Ha\" rel=\"nofollow\">https://www.bilibili.com/video/BV1me411R7Ha</a></p>\n<p>虽然小米 14 今晚才开发布会，但视频已经出了，8Gen3 这次稳定发挥，成绩非常亮眼：CPU 单核成绩相比 A17 Pro 还有点差距，但多核成绩已经超越了 A17 Pro\n<img alt=\"CPU\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/g9O74j9.png\" /></p>\n<p>并且 CPU 多核负载的能耗也要强于 A17 Pro ，相比 8Gen2 也有不少的提升\n<img alt=\"CPU2\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/HEUsiBp.png\" /></p>\n<p>同样的，在 GPU 上，8Gen3 的性能比苹果 A17 Pro 高 5%，但功耗只有 A17 Pro 的 75%，属实是赢麻了\n<img alt=\"GPU\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/VW11W7a.png\" /></p>\n<p>GPU 的能耗方面也是目前移动端最强，尤其是高负载情况下，遥遥领先 A17 Pro\n<img alt=\"GPU2\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/raAgUEu.png\" /></p>\n<p>配合小米 14 可以看到 8Gen3 的 GPU 压力测试：性能接近当年笔记本上的 GTX 1050 ，并且稳定度达到了 89.6%，远高于 iPhone 15 Pro 上搭载的 A17 Pro\n<img alt=\"GPU3\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/Gfufjks.png\" /></p>\n<p>光追性能方面：性能比 A17 Pro 高 14%，但功耗只有 A17 Pro 的 76%\n<img alt=\"GPU4\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/gYQCvZJ.png\" /></p>\n<p>最后是传统项目，30 分钟原神机身温度测试，小米 14 是 45.4 度，而 iPhone 15 Pro 来到了 46.9 度\n<img alt=\"ALL\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/j0Ap8XN.png\" /></p>\n<p>还有一个值得关注的点是，8Gen3 彻底抛弃了 32 位的支持，仅支持 64 位应用，考虑到这次芯片很给力，安卓厂商应该都会上搭载 8Gen3 的新机，因此会推动某些顽固应用转向 64 位</p>",
+    "publish_time": "2023-10-26 12:28:12",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "不想洗内裤怎么办，觉得好麻烦",
+    "url": "https://www.v2ex.com/t/985699",
+    "summary": "KOMA1NIUJUNSHENG: <p>之前是洗澡之后就顺手把内裤手洗了，但是时间长了以后就觉得很麻烦，哪怕只要一两分钟的时间但是每天都要重复这个过程就觉得这两分钟时间都不想动。盆里已经堆了几条没洗的内裤了，看了一点没有想碰的欲望。最近一直在看内衣洗衣机，那种仿手洗的要好几千，便宜的几十的看起来操作很麻烦，而且担心洗不干净😓。好纠结，还是太懒惹的祸😅</p>",
+    "publish_time": "2023-10-26 16:23:09",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
