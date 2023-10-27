@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Uber将4000多个微服务迁移到新的多云平台Up",
+    "url": "https://www.infoq.cn/article/L6OstRwrReRhRCOk8DZN",
+    "summary": "<p>Uber将其大部分容器化微服务从µDeploy<a href=\"https://www.uber.com/en-GB/blog/up-portable-microservices-ready-for-the-cloud/\">迁移</a>\"到一个叫作Up的新多云平台，准备将相当一部分计算迁移到云端。Uber花了两年时间将其许多微服务变得可移植，以便可以在不同的计算基础设施和容器管理平台之间进行迁移。</p><p>&nbsp;</p><p>2014年，Uber还只是一个单体应用程序，随着业务的增长，开始迁移到微服务架构。Uber开发了<a href=\"https://www.uber.com/en-DK/blog/micro-deploy-code/?uclick_id=108114e5-eff8-44df-a68f-1ead4dbb5dd1\">µDeploy</a>\"来帮助标准化大规模的应用服务部署。这一措施抽象了主机管理方面的东西，但服务管理仍然是高度手动的，这意味着服务工程师仍然需要决定哪些服务应该在哪个特定区域的哪个区域(物理数据中心)内运行。</p><p>&nbsp;</p><p>Uber高级工程师<a href=\"https://www.linkedin.com/in/mathiasschwarz/\">Mathias Schwarz</a>\"和工程经理<a href=\"https://www.linkedin.com/in/andrewneverov/\">Andrew Neverov</a>\"解释了Uber决定将工程团队与基础设施团队完全解耦的原因：</p><p>&nbsp;</p><p></p><blockquote>在运营本地数据中心时，由于芯片短缺和供应链问题，我们的交付周期较长。2023年2月13日，<a href=\"https://www.forbes.com/sites/danielnewman/2023/02/21/uber-goes-big-on-cloud-with-google-and-oracle-as-cloud-architecture-debate-continues/\">Uber与甲骨文和谷歌</a>\"合作，致力于多元化和降低公司在供应链问题上的风险。如果没有一个可以将底层基础设施与数千名负责为业务提供数百种不同的服务Uber工程师解耦的系统，那么执行这一战略是不可能的。</blockquote><p></p><p>&nbsp;</p><p>2018年，Uber的平台团队开始研究一个新的多云、多租户联合控制平面，负责自动化服务部署和基础设施级迁移。这个叫作Up的新平台旨在成为服务工程师与基础设施系统交互的主要工具。它还将管理和执行最佳实践，以推动安全的代码部署。</p><p>&nbsp;</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/13/13bff7cc61397b396c9b93782e2f3118.png\" /></p><p></p><p>Up的高级架构(来源：<a href=\"https://www.uber.com/en-GB/blog/up-portable-microservices-ready-for-the-cloud/\">Uber工程博客</a>\")</p><p>&nbsp;</p><p>Up平台采用了分层架构，其中体验层负责用户交互和系统管理，包括工作负载管理和伸缩。平台层为体验层组件提供通用的抽象和概念模型，用来表达基于主机能力和计算能力的服务部署约束。联邦层实现与计算集群的集成，并负责基于可用容量和定义的部署约束来执行服务部署。变更管理组件提供渐进式发布功能。最底层包含实际的集群实例，使用了基于<a href=\"https://mesos.apache.org/\">Apache Mesos</a>\"而构建的<a href=\"https://github.com/uber/peloton\">Peleton</a>\" （<a href=\"https://www.uber.com/en-GB/blog/open-sourcing-peloton/\">Uber自己的开源容器编排平台</a>\"）和<a href=\"https://kubernetes.io/\">Kubernetes</a>\"。</p><p>&nbsp;</p><p>为了准备迁移到云端，Uber花了两年时间使所有无状态微服务都变得可移植，可以在无需服务工程师参与的情况下在区域之间进行集中式管理。他们使用现有工具在区域之间移动服务，确保它们是可移植的。首先，他们允许将服务移回原始区域以解决可移植性问题，一旦解决了可移植性问题，就定期移动服务以验证其可移植性并防止出现回归。</p><p>&nbsp;</p><p>在变得可移植之后，微服务逐步自动迁移到Up上，得益于自动伸缩和效率，节省了大量的资金，并大大减少了服务团队的维护负担。Uber的大部分微服务平台现在都通过Up来管理，可以自由地启动其云迁移工作，而不会对服务团队产生太大影响。他们也关注自动化持续交付和部署安全方面的东西。</p><p>&nbsp;</p><p>&nbsp;</p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2023/10/uber-up-cloud-microservices/\">https://www.infoq.com/news/2023/10/uber-up-cloud-microservices/</a>\"</p>",
+    "publish_time": "2023-10-27 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
