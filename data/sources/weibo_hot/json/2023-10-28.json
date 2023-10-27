@@ -565,5 +565,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "二手杰作献给像我这样的人",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8C%E6%89%8B%E6%9D%B0%E4%BD%9C%E7%8C%AE%E7%BB%99%E5%83%8F%E6%88%91%E8%BF%99%E6%A0%B7%E7%9A%84%E4%BA%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "花少5宫斗版",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%915%E5%AE%AB%E6%96%97%E7%89%88%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
