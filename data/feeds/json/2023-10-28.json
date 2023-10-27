@@ -1269,5 +1269,78 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "动漫界时代的眼泪",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8A%A8%E6%BC%AB%E7%95%8C%E6%97%B6%E4%BB%A3%E7%9A%84%E7%9C%BC%E6%B3%AA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "微博年度大学生推荐名单",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E5%B9%B4%E5%BA%A6%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8E%A8%E8%8D%90%E5%90%8D%E5%8D%95%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Google paid $26.3B in 2021 to be the default search engine",
+    "url": "https://www.theverge.com/2023/10/27/23934961/google-antitrust-trial-defaults-search-deal-26-3-billion",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38041335\">Comments</a>",
+    "publish_time": "2023-10-28 01:26:54",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Why America doesn't build",
+    "url": "https://www.theatlantic.com/ideas/archive/2023/10/wind-farms-community-opposition/675791/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38040636\">Comments</a>",
+    "publish_time": "2023-10-28 00:32:07",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The downside of AI language translation",
+    "url": "https://www.theatlantic.com/ideas/archive/2023/07/the-terrible-downside-of-ai-language-translation/674687/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38042574\">Comments</a>",
+    "publish_time": "2023-10-28 03:06:24",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Shadow: New browser engine made almost entirely in JavaScript",
+    "url": "https://goose.icu/introducing-shadow/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38043033\">Comments</a>",
+    "publish_time": "2023-10-28 03:46:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Quadcopters Can Now Visually Track Targets More Effectively",
+    "url": "https://mosfet.net/quadcopters-can-now-visually-track-targets-more-effectively/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38042590\">Comments</a>",
+    "publish_time": "2023-10-28 03:07:44",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
