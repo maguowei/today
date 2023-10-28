@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Spotify采用Bazel构建系统，构建时间缩短75%",
+    "url": "https://www.infoq.cn/article/F3OjkvHDqy657MgSA9rO",
+    "summary": "<p>经过三年的试用，2020年，<a href=\"https://engineering.atspotify.com/2023/10/switching-build-systems-seamlessly/\">Spotify决定采用Bazel作为Spotify iOS应用程序的官方构建系统</a>\"。按照Spotify工程师Patrick Balestra的说法，这一切换将他们的构建时间减少了四分之三。</p><p>&nbsp;</p><p>对于Spotify的iOS团队来说，重要的是切换过程不能中断开发或影响发行频率。在采用Bazel之前，Spotify使用基于YAML的自定义Ruby DSL，开发人员可以声明式地添加新模块，包括构建目标的规范、构建它所需的源文件、资源和依赖项。Balestra说，因为可以重用相同的DSL脚本来生成BUILD.bazel文件而不是Xcode.pxbproj文件，这有助于确保我们无缝地切换到Bazel。</p><p>&nbsp;</p><p>他提到，切换到Bazel将构建加测试时间从80分钟降低到了20分钟。</p><p></p><p></p><blockquote>从耗时最长的配置开始，我们将CI配置一个接一个地迁移到Bazel。其中有一个配置包含超过800个测试目标、近300万行代码，使用Xcode构建花费的时间在45分钟以上。迁移到Bazel之后不到10分钟就可以构建完成。</blockquote><p></p><p>&nbsp;</p><p>根据Balestra的说法，这种改进主要得益于Bazel高效的远程缓存以及它对多台机器并行构建的支持。</p><p>&nbsp;</p><p>不过，这个过程并不是说直接将构建文件输入到Bazel就可以了。相反，它会涉及到一个严谨的过程，即使用<a href=\"https://www.buildbuddy.io/\">BuildBuddy</a>\"提供的遥测洞察来识别性能问题和瓶颈（BuildBuddy是一个旨在通过图形用户界面和命令行界面解锁Bazel功能的工具）。另外，借助<a href=\"https://github.com/tinder/bazel-diff\">bazel-diff</a>\"，团队还可以更好地确定每个更改会影响到构建图的哪些部分，这样就可以尽可能地减少针对每个新构建所运行的测试集。</p><p>&nbsp;</p><p>为了改善Xcode构建（开发人员在本地运行）和Bazel构建（在CI基础设施中使用）之间的共存，Spotify采用了<a href=\"https://github.com/MobileNativeFoundation/rules_xcodeproj\">rules-xcodeproj</a>\"。这使得他们可以直接从Bazel构建文件生成Xcode项目，而不是使用遗留的Ruby/YAML构建系统，这样就可以减少在本地构建成功但在CI中失败的情况，从而降低维护和故障排除的成本。</p><p>&nbsp;</p><p>向Bazel迁移的最后一步是定义一个发布策略，在将Bazel构建直接部署到员工设备上两周之后，再将其推送给外部Alpha和Beta测试人员，最后向普通用户发布。</p><p>&nbsp;</p><p>Balestra说，所有这些做完之后，切换就成功了，故障和性能指标也没有显示什么异常。</p><p>&nbsp;</p><p>&nbsp;</p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2023/10/spotify-bazel-ios-transition/\">https://www.infoq.com/news/2023/10/spotify-bazel-ios-transition/</a>\"</p>",
+    "publish_time": "2023-10-28 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "适配更多国产芯片 智谱AI推出第三代基座大模型ChatGLM3",
+    "url": "https://www.infoq.cn/article/D5BW4LdBUGislXBCOFIZ",
+    "summary": "<p>2023年10月27日，<a href=\"https://www.infoq.cn/article/MhabGNAVvf1NgAeZ2oIZ?utm_campaign=geek_search&amp;utm_content=geek_search&amp;utm_medium=geek_search&amp;utm_source=geek_search&amp;utm_term=geek_search\">智谱AI</a>\"于2023中国计算机大会（CNCC）上，推出了全自研的第三代基座大模型ChatGLM3及相关系列产品，这也是智谱AI继推出千亿基座的对话模型ChatGLM和ChatGLM2之后的又一次重大突破。</p><p>&nbsp;</p><p>据悉，此次推出的ChatGLM3采用了独创的多阶段增强预训练方法，使训练更为充分。评测显示，在44个中英文公开数据集测试中，ChatGLM3在国内同尺寸模型中排名首位。智谱AI CEO张鹏在现场做了新品发布，并实时演示了最新上线的产品功能。</p><p>&nbsp;</p><p>通过更丰富的训练数据和更优的训练方案，智谱AI推出的ChatGLM3性能更加强大。与ChatGLM2相比，MMLU提升36%、CEval提升33%、GSM8K提升179% 、BBH提升126%。</p><p>&nbsp;</p><p>同时，ChatGLM3瞄向GPT-4V本次实现了若干全新功能的迭代升级，包括多模态理解能力的CogVLM-看图识语义，在10余个国际标准图文评测数据集上取得SOTA；代码增强模块Code Interpreter根据用户需求生成代码并执行，自动完成数据分析、文件处理等复杂任务；网络搜索增强WebGLM-接入搜索增强，能自动根据问题在互联网上查找相关资料并在回答时提供参考相关文献或文章链接。ChatGLM3的语义能力与逻辑能力得到了极大的增强。</p><p>&nbsp;</p><p>ChatGLM3还集成了自研的AgentTuning技术，激活了模型智能体能力，尤其在智能规划和执行方面，相比于ChatGLM2提升了1000% ；开启了国产大模型原生支持工具调用、代码执行、游戏、数据库操作、知识图谱搜索与推理、操作系统等复杂场景。</p><p>&nbsp;</p><p>此外，ChatGLM3本次推出可手机部署的端测模型ChatGLM3-1.5B和 ChatGLM3-3B，支持包括vivo、小米、三星在内的多款手机以及车载平台，甚至支持移动平台上CPU芯片的推理，速度可达20 tokens/s。精度方面1.5B和3B模型在公开benchmark上与ChatGLM2-6B模型性能接近。</p><p>&nbsp;</p><p>自2022年初，智谱AI推出的GLM系列模型已支持在昇腾、神威超算、海光DCU架构上进行大规模预训练和推理。截至目前，智谱AI的产品已支持10余种国产硬件生态，包括昇腾、神威超算、海光DCU、海飞科、沐曦曦云、算能科技、天数智芯、寒武纪、摩尔线程、百度昆仑芯、灵汐科技、长城超云等。</p><p>&nbsp;</p><p>基于最新的高效动态推理和显存优化技术，ChatGLM3当前的推理框架在相同硬件、模型条件下，相较于目前最佳的开源实现，包括伯克利大学推出的 vLLM 以及Hugging Face TGI的最新版本，推理速度提升了2-3倍，推理成本降低一倍，每千tokens仅0.5分，成本最低。</p><p>&nbsp;</p><p>另外，随着WebGLM大模型能力的加入，智谱清言也具有了搜索增强能力，可以帮助用户整理出相关问题的网上文献或文章链接，并直接给出答案。此前已发布的CogVLM 模型则提高了<a href=\"https://www.infoq.cn/article/Keo5MOT4MavSIyyxTmII?utm_campaign=geek_search&amp;utm_content=geek_search&amp;utm_medium=geek_search&amp;utm_source=geek_search&amp;utm_term=geek_search\">智谱清言</a>\"的中文图文理解能力，取得了接近GPT-4V的图片理解能力，它可以回答各种类型的视觉问题，并且可以完成复杂的目标检测，并打上标签，完成自动数据标注。</p>",
+    "publish_time": "2023-10-28 08:11:36",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
