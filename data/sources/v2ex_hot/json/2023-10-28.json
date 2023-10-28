@@ -9,5 +9,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "HHKB 用了 10 年，手感变差怎么办？",
+    "url": "https://www.v2ex.com/t/986182",
+    "summary": "davidlau:",
+    "publish_time": "2023-10-28 08:53:16",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "从最近发的一个工单来吐槽一下群晖的技术支持和 DSM Raid",
+    "url": "https://www.v2ex.com/t/986195",
+    "summary": "gridsah: <p>以下内容纯主观吐槽，各位看个乐即可，也给双 11 准备买群晖的朋友提供一点 FS 方面的参考。</p>\n<p>事情起因是，我把自用的存储从 zfs/ext4 迁移到了 btrfs: Gen10 从 zfs 迁到了 btrfs raid10 ，白群晖从 ext4 切到了 btrfs 。</p>\n<p>然后我就开始读 btrfs 的文档。(btrfs 和 zfs 的区别还挺大，这点等我下次摸鱼的时候再开帖子唠</p>\n<p>我要吐槽的是:</p>\n<p>a. 群晖在销售页面关于 btrfs 如何保护用户数据吹得有点过。zfs/btrfs 实现 self-healing 功能的前提是，数据有热冗余，单凭 checksum 只能检测出 data corruption 但无法修复。而群晖的销售给用户的印象是，他们有黑科技能恢复损坏的数据，但实际上他们只是尽量让 mdadm 和 btrfs 不出问题，至于用户的数据，坏了就坏了，修不了</p>\n<p>b. 群晖的技术支持的客服，不知道是水平不行，还是警惕心太强，回复不但笼统，而且敷衍，甚至有时是错的。这个工单中，可能认为我是他们竞争对手的人，来套他们的方案...... 但我只是想知道他们如何保护我的数据。以上情况也不是第一次出现在我提的工单里了</p>\n<p>下面贴一下工单对话，主题是 \"关于存储池'数据清理'功能可以修复 checksum 异常的数据的疑惑\":</p>\n<pre><code>看了一下我的设备所使用的存储空间的结构，先用 mdadm 创建 raid1 ，再将映射为 md2 的设备作为 pv 交由 lvm 管理，lvm 在 pv 上创建 vg ，进而创建 lv ，最后把 btrfs 放在 lv 上。\n\n据我所知，btrfs 会记录每个 extent 的 checksum 值用于验证这个 extent 中的数据是否完整。而修复 checksum 有异常的数据需要额外的，具有正常的 checksum 的另一份数据。\n\n比如在 Linux 上 btrfs 默认存储两份 metadata 用于在 metadata 损坏时修复这些损坏的 metadata ，而 data 则只存了一份，所以在这种情况下，如果 data 的 checksum 出现异常则无法修复。\n\n而群晖 btrfs 文件系统中也使用了一样的配置，即，2 份 metadata 和 1 份 data 。所以我的理解是数据清理这个功能只能修复 btrfs 中的 metadata ，而不能修复 data 。是这样的吗？\n\n如果不是的话，数据清理的行为和结果是什么样的？\n</code></pre>\n<pre><code>您对于数据清理中 FS scrubbing 这个部分理解没有问题，但是执行数据清理这个操作会包含两个操作，FS scrubbing 和 RAID scrubbing 。\n\n理论上如果 Btrfs 不开 COW 的话其实并不会知道某个 data 有损坏，只有读到这个文件才会知道文件损坏了。\n\n而当文件系统在进行 FS scrubbing 的时候如果查到某个文档 data 真的坏了，那就会去做 RAID scrubbing 然后用 RAID parity 来修修看（不管有没有开 COW ）。\n</code></pre>\n<pre><code>数据清理如果包含 btrfs scrub &amp; mdadm scrub 两个操作的话，它们的执行逻辑是怎样的？\n先 btrfs scrub ，再 mdadm scrub ，这两个步骤一定会按这样的顺序发生？\n或者像你说的那样，btrfs scrub 遇到 data checksum 不一致时才发生 mdadm scrub ？\n\n我注意到，对于 mdadm scrub 来说:\n1. mdadm raid5/6 在遇到数据不一致时会假定 checksum 错误，然后根据(尽管可能已经损坏的)已有数据重新计算 checksum\n2. mdadm raid1 遇到数据不一致时会假定第一个硬盘的数据是正确的，然后覆写到其他的硬盘中\n如果发生 data checksum 不一致的情况，那么 mdadm scrub 为什么可以修复 btrfs 中的数据？\n\n按照我的理解来看，mdadm scrub 所更新的数据只是用于构成 mdadm 的数据。mdadm 暴露给 btrfs 的，btrfs 可以看到的数据并没有变化，所以我认为 mdadm scrub 无法修复 btrfs 中 data checksum 不一致的问题。这个推断的过程哪里有问题？\n</code></pre>\n<pre><code>抱歉让您久等了，目前这边有与相关工程师讨论，回复如下：\n\n目前 DSM 在执行数据清理的时候是会先执行 FS scrubbing 再执行 RAID scrubbing ，但由于您当前的许多问题涉及到 Btrfs 的底层原理及行为，由于 Btrfs 是 Oracle 所研发，因此对于此文件系统的具体原理与技术规范的准确解释，我们建议您可以直接查阅或咨询 oracle 官方。\n\n参考： https://docs.oracle.com/en/operating-systems/oracle-linux/8/fsadmin/fsadmin-ManagingtheBtrfsFileSystem.html#btrfs-setup\n</code></pre>\n<pre><code>我不关心 btrfs 的技术细节，我想问的是 DSM 如何保证数据被修复，或者向用户报告数据无法被修复。\n\nbtrfs 存储 2 份 metadata 和 1 份 data ，那么 data 损坏时，DSM 所用的 raid(mdadm)又不能保证 data 可以被修复。那么，在这种情况下，一旦数据无法被修复，DSM 会向用户报告拥有这部分 data 的文件损坏，需要用户手动介入？\n</code></pre>\n<pre><code>首先，DSM 本身、Btrfs 文件系统又或是带有冗余功能的 RAID ，都不能完全保证在原始数据错误的情况下数据的完整性。\n\n一般情况下如果数据在文件系统中出现错误，则大概率就已经发生文件系统错误，而文件系统检查都是以修好文件系统本身的结构为主，损坏的文件本身很有可能还是坏的。\n\n因此若您的数据十分重要，Synology 始终建议您备份多个数据副本到不同的地方，以保证数据安全。\n\n参考：如何备份 Synology NAS\n</code></pre>\n<p>关于这句 \"首先，DSM 本身、Btrfs 文件系统又或是带有冗余功能的 RAID ，都不能完全保证在原始数据错误的情况下数据的完整性。\" 本身就不对。</p>\n<p>对于 Btrfs raid1/10 以及不稳定的 btrfs raid5/6 ，又或者是 zfs mirror/raidz 这种有 self-healing 的 fs 来说，在一份 data 损坏的情况下都可以根据 fs 内部的热冗余或 raid 中的奇偶校验码来修复损坏的那份数据。只有当 data 损坏且没有热冗余的情况下 fs 才会报告 data corruption 需要用户介入。</p>\n<p>(注意，目前只有 btrfs/zfs 有 self-healing 。mdadm 没有，硬件 raid 也没有。</p>\n<p>威联通用的是纯 zfs ，使用 mirror/raidz 的情况下可以触发 self-healing 修复 corrupted data ；或者像我一样自建存储，使用 btrfs raid10 也能让 self-healing 生效。</p>\n<p>总之，准备购买群晖的朋友要注意，就我目前阅读的结论来看，群晖，不论采用什么方案都无法保证数据完整性，他们只能尽量保证 DSM 的运行不出问题；就我发了六七个工单的体验来看，对于知识不够丰富的个人用户来说，群晖的技术支持约等于 0 ，对于有服务器运维经验的用户来说，客服的回复多数时候有误导性。</p>",
+    "publish_time": "2023-10-28 10:12:56",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "36 岁一事无成，是不是非常失败",
+    "url": "https://www.v2ex.com/t/986206",
+    "summary": "hero158: 目前失业，还负债 10w",
+    "publish_time": "2023-10-28 11:05:12",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
