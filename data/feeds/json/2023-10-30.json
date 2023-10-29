@@ -1145,5 +1145,54 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "商店店员被曝当街用开水烫杀狗",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%95%86%E5%BA%97%E5%BA%97%E5%91%98%E8%A2%AB%E6%9B%9D%E5%BD%93%E8%A1%97%E7%94%A8%E5%BC%80%E6%B0%B4%E7%83%AB%E6%9D%80%E7%8B%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "熬夜吃什么补回来",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%86%AC%E5%A4%9C%E5%90%83%E4%BB%80%E4%B9%88%E8%A1%A5%E5%9B%9E%E6%9D%A5%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "为什么巷战难打？",
+    "url": "https://www.zhihu.com/question/27384502",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Carl Sagan's Rules for Bullshit-Busting and Critical Thinking",
+    "url": "https://www.themarginalian.org/2014/01/03/baloney-detection-kit-carl-sagan/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38060912\">Comments</a>",
+    "publish_time": "2023-10-30 01:47:20",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How many billions of transistors in your iPhone processor?",
+    "url": "https://lemire.me/blog/2023/10/18/how-many-billions-of-transistors-in-your-iphone-processor/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38061096\">Comments</a>",
+    "publish_time": "2023-10-30 02:10:13",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
