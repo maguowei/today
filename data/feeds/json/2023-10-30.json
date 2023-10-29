@@ -1194,5 +1194,45 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "双十一购物车自查",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%8C%E5%8D%81%E4%B8%80%E8%B4%AD%E7%89%A9%E8%BD%A6%E8%87%AA%E6%9F%A5%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "EDGZmjjKK 跟我兄弟从地下站上",
+    "url": "https://s.weibo.com/weibo?q=%23EDGZmjjKK+%E8%B7%9F%E6%88%91%E5%85%84%E5%BC%9F%E4%BB%8E%E5%9C%B0%E4%B8%8B%E7%AB%99%E4%B8%8A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "12ft.io has been banned by Vercel",
+    "url": "https://twitter.com/thmsmlr/status/1718663563353755982",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38061779\">Comments</a>",
+    "publish_time": "2023-10-30 03:29:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "YouTube's Anti-Adblock and uBlock Origin",
+    "url": "https://andadinosaur.com/youtube-s-anti-adblock-and-ublock-origin",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38061187\">Comments</a>",
+    "publish_time": "2023-10-30 02:20:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
