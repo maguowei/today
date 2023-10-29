@@ -664,5 +664,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "方太新品Y系列首发体验",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%96%B9%E5%A4%AA%E6%96%B0%E5%93%81Y%E7%B3%BB%E5%88%97%E9%A6%96%E5%8F%91%E4%BD%93%E9%AA%8C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "心愿上太空",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BF%83%E6%84%BF%E4%B8%8A%E5%A4%AA%E7%A9%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "现在日本中小学生这么卷了吗",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E6%97%A5%E6%9C%AC%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%BF%99%E4%B9%88%E5%8D%B7%E4%BA%86%E5%90%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
