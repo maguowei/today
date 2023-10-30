@@ -1,0 +1,35 @@
+[
+  {
+    "title": "噫，某些运营商开始在光猫内置反诈插件了",
+    "url": "https://www.v2ex.com/t/986550",
+    "summary": "oblivion: 同事周六参加了某运营商加 1 元提速 2000m 送 fttr 1+2 活动后，<br />当天装好，师傅提到新装 fttr 有在线时长要求，要求 45 天内保持在线并且要使用路由模式，<br />如果中途改桥接或者更换光猫，在线率不达标后台会认为设备丢失或倒卖，扣师傅 800 元工资，<br /><br />装的是某厂主光猫没有 2.5g 接口，组网光猫有一个 2.5g 接口那一种，<br />测速达标姑且先用着路由模式，等过段时间改桥接用，<br /><br />好巧不巧的当天晚上，同事自建的某上网功能出现不能连接的情况，<br /><br />周日偶然打开了 <a href=\"http://xenyth.net/\" rel=\"nofollow noopener\" target=\"_blank\">xenyth.net</a> 这家 vps 官网下单买来玩，<br />没想到直接跳转到了反诈页面，同事没在意直接关闭，<br />不到 3 分钟，当地某反诈热线就打来电话，询问同事有没有访问一个叫做 <a href=\"http://xenyth.net/\" rel=\"nofollow noopener\" target=\"_blank\">xenyth.net</a> 的诈骗网站，<br />并提到这是一个网购诈骗网站，付款后不会发货，要求不再访问，如有需要可以安排民警上门，<br />给同事吓了一跳，回过神来在同事群里吐槽了几次，<br /><br />中午打开 cloudflare ，是 rst ，解析的地址是 127.0.0.1 ，更换 dns 仍然如此，<br />午饭时某反诈又打来电话，询问有没有访问诈骗网站，<br /><br />第二次在群里吐槽最近这反诈有点高效，<br />我们觉得事出必有妖，给这位同事经过一顿操作排查，<br />唯一有变动的就是升级 fttr 更换光猫了，<br />另一个同事带了个普通的 hn8145v 给这位同事测试，<br />拿到 loid 用普通光猫注册后，cloudflare 可以打开，而 <a href=\"http://xenyth.net/\" rel=\"nofollow noopener\" target=\"_blank\">xenyth.net</a> 仍然跳转到反诈页面，<br />奇怪的是这次没有反诈电话，等了很久也没有打来，<br /><br />晚上 8 点，测试普通光猫可以打开 cloudflare ，<br />更换 fttr 光猫后，依仍然是 rst ，测试 443 端口 tcpping 只有 0.8ms ，<br />随后某反诈电话又打来....<br />至此，可以确定是这个 fttr 光猫有问题，很有问题<br /><br />搞到超级密码后进入光猫，嘿，<br /><br /><a href=\"https://i.imgur.com/pqhI38R.png\" rel=\"nofollow noopener\" target=\"_blank\"><img class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/pqhI38R.png\" /></a><br /><br />不做评价",
+    "publish_time": "2023-10-30 05:12:38",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "闪电贷资金违规？才用了一个月，如何避免？",
+    "url": "https://www.v2ex.com/t/986560",
+    "summary": "ggp1ot2: <p>上个月闪电贷 3.4% 年利率，借了 20w</p>\n<p>主要感觉很划算。先息后本 2 年，每个月 600 左右利息，2 年后一次性还 20w ，感觉很香</p>\n<p>但是前几天打电话来说资金用途违规，要求一次性归还，我就 20w 全还掉了。</p>\n<p>自己查了下明细，发现是招行贷款通过后，20w 打到了我的招行卡上，然后我在支付宝余额宝有一个什么定时的存款计划，于是就有一笔钱存进了余额宝，对方账户可能是什么天弘基金 xxx 。</p>\n<p>是不是因为这一笔 G 掉的？</p>\n<p>其余的钱我直接一次性转账到了我的另外一张建行卡，然后充值了微信，这应该没问题吧。</p>\n<p>现在问题来了，我 20w 全还了之后，额度还是满的，利率居然更低了。</p>\n<p>如果我一次性取出来，直接全部转账到另外一张卡，会被检测到违规吗？</p>",
+    "publish_time": "2023-10-30 09:09:27",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "被“摇一摇”广告逼疯了",
+    "url": "https://www.v2ex.com/t/986575",
+    "summary": "paopaotang001: 最近一个月无论点进哪个 app 都是稍微动一下手机就跳转到购物软件。<br /><br />花再多的钱买再贵的手机，这跟电视开机广告有什么区别，比开机广告还恶心。<br /><br />Apple 有没有办法管一下这些国产 app 啊，到底谁发明的烦死了...<br /><br />Musk 赶快抄袭",
+    "publish_time": "2023-10-30 09:39:33",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  }
+]
