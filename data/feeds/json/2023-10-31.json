@@ -1759,5 +1759,107 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "黄龄买iPhone也选京东",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%BE%84%E4%B9%B0iPhone%E4%B9%9F%E9%80%89%E4%BA%AC%E4%B8%9C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "夺冠如7而至",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%BA%E5%86%A0%E5%A6%827%E8%80%8C%E8%87%B3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "结局了来了三个客串",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BB%93%E5%B1%80%E4%BA%86%E6%9D%A5%E4%BA%86%E4%B8%89%E4%B8%AA%E5%AE%A2%E4%B8%B2%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "小猫咪会因为家里来了新的猫咪而离家出走吗？",
+    "url": "https://www.zhihu.com/question/628026355",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Autoworkers Score Big Wins in New Contracts with Carmakers",
+    "url": "https://www.nytimes.com/2023/10/30/business/economy/gm-uaw-contract-deal.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38076303\">Comments</a>",
+    "publish_time": "2023-10-31 05:39:55",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Unlogged – open-source record and replay for Java",
+    "url": "https://news.ycombinator.com/item?id=38071552",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38071552\">Comments</a>",
+    "publish_time": "2023-10-31 00:17:41",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Incus 0.2 adds NVMe, NixOS images and more",
+    "url": "https://discuss.linuxcontainers.org/t/incus-0-2-has-been-released/18185",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38076284\">Comments</a>",
+    "publish_time": "2023-10-31 05:38:22",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "OpenBSD Webzine Special 2023",
+    "url": "https://webzine.puffy.cafe/issue-16-special-octopenbsd-2023.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38074834\">Comments</a>",
+    "publish_time": "2023-10-31 03:57:11",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Apple CPU Architecture Through the Ages",
+    "url": "https://jacobbartlett.substack.com/p/through-the-ages-apple-cpu-architecture",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38074739\">Comments</a>",
+    "publish_time": "2023-10-31 03:51:03",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Apple's Safari browser is still vulnerable to Spectre attacks",
+    "url": "https://news.rub.de/english/press-releases/2023-10-26-security-gap-apples-safari-browser-still-vulnerable-spectre-attacks",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38075971\">Comments</a>",
+    "publish_time": "2023-10-31 05:15:27",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
