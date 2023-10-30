@@ -745,5 +745,14 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "双11省学指南",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%8C11%E7%9C%81%E5%AD%A6%E6%8C%87%E5%8D%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
