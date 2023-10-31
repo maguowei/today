@@ -682,5 +682,41 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "天猫双11",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E7%8C%AB%E5%8F%8C11%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "金晨的舒适穿搭秘籍",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E7%9A%84%E8%88%92%E9%80%82%E7%A9%BF%E6%90%AD%E7%A7%98%E7%B1%8D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "三岁宝宝会滚床",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%B2%81%E5%AE%9D%E5%AE%9D%E4%BC%9A%E6%BB%9A%E5%BA%8A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "孙怡从e人变i人了",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%E4%BB%8Ee%E4%BA%BA%E5%8F%98i%E4%BA%BA%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
