@@ -1613,5 +1613,96 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "双十一卖空了的淡斑精华",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%8C%E5%8D%81%E4%B8%80%E5%8D%96%E7%A9%BA%E4%BA%86%E7%9A%84%E6%B7%A1%E6%96%91%E7%B2%BE%E5%8D%8E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "杜海涛吴昕百分百合拍友谊",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B5%B7%E6%B6%9B%E5%90%B4%E6%98%95%E7%99%BE%E5%88%86%E7%99%BE%E5%90%88%E6%8B%8D%E5%8F%8B%E8%B0%8A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "78岁奶奶坚持健身18年状态满分",
+    "url": "https://s.weibo.com/weibo?q=%2378%E5%B2%81%E5%A5%B6%E5%A5%B6%E5%9D%9A%E6%8C%81%E5%81%A5%E8%BA%AB18%E5%B9%B4%E7%8A%B6%E6%80%81%E6%BB%A1%E5%88%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何评价《崩坏星穹铁道》1.6版的三个卫星角色？",
+    "url": "https://www.zhihu.com/question/628504993",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "ROScribe: An LLM-based robotic platform",
+    "url": "https://discourse.ros.org/t/looking-inside-roscribe-and-the-idea-of-llm-based-robotic-platform/34298",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38091046\">Comments</a>",
+    "publish_time": "2023-11-01 04:39:29",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "WeWork Plans to File for Bankruptcy as Early as Next Week",
+    "url": "https://www.wsj.com/articles/wework-plans-to-file-for-bankruptcy-as-early-as-next-week-1fdcb6a5",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38091216\">Comments</a>",
+    "publish_time": "2023-11-01 04:52:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A giant European telescope rises as U.S. rivals await rescue",
+    "url": "https://www.science.org/content/article/giant-european-telescope-rises-u-s-rivals-await-rescue",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38091679\">Comments</a>",
+    "publish_time": "2023-11-01 05:32:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Phind Model beats GPT-4 at coding, with GPT-3.5 speed and 16k context",
+    "url": "https://www.phind.com/phindmodelhn",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38088538\">Comments</a>",
+    "publish_time": "2023-11-01 01:40:47",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Engineers develop a 96% efficient process to make formate fuel from CO2",
+    "url": "https://news.mit.edu/2023/engineers-develop-efficient-fuel-process-carbon-dioxide-1030",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38091000\">Comments</a>",
+    "publish_time": "2023-11-01 04:35:14",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
