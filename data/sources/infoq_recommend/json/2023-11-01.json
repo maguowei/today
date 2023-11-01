@@ -53,5 +53,49 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "数智赋能云课堂第 1 期·企业数字化战略规划",
+    "url": "https://www.infoq.cn/article/zg4SomcKv0DBkqglWKGo",
+    "summary": "<p><img alt=\"unpreview\" src=\"https://static001.infoq.cn/resource/image/f1/61/f19aba58cc0c032456f2f90099f92561.jpg\" /></p>",
+    "publish_time": "2023-11-01 14:06:26",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "蚂蚁SOFA Stack融合大模型发布升级版 助力机构产研效能提升30%",
+    "url": "https://www.infoq.cn/article/jQTpFmq9SqamtQEwdc0M",
+    "summary": "<p>11月1日，在云栖大会上，蚂蚁集团正式发布CodeFuse全面加持的SOFAStack5.0升级版本，向企业提供全方位研发运维智能助手相关能力。这是继蚂蚁集团在外滩大会发布代码大模型CodeFuse之后，首次公布面向行业的商业化产品进展。</p><p>&nbsp;</p><p>“大模型将为研发效能带来颠覆性机遇。”蚂蚁集团数字科技事业群产品总监马振雄在发布会上指出。</p><p>&nbsp;</p><p>记者了解到，目前CodeFuse已经与SOFA产品线全面融合，涵盖设计、研发、测试、运维等领域，形成从领域建模到智能运维的端到端Copilot产品解决方案，预计将为企业产研效能提升30%。</p><p>&nbsp;</p><p><img src=\"https://static001.geekbang.org/infoq/5c/5cd0d1b716d80689035335361a75486b.png\" /></p><p></p><p>具体而言，客户在使用SOFAStack时，相当于为企业开发者配备专属智能副驾驶，和机器人“辅助设计”、“结对编程”、“运维助手”，通过人机交互助手提升日常代码研发、测试、运维过程中的效率和质量。对企业而言，引入智能副驾驶可以显著提升人效质量，降低总体成本。</p><p>&nbsp;</p><p>此外，SOFAStack针对Codefuse大模型提供了多任务微调和高性能推理能力，结合企业专有数据构造更懂客户业务的智能副驾驶。而随着CodeFuse在产品线中不断深度融合，SOFAStack将为企业打造新一代AI云原生PaaS平台，使其在开发运维、数据分析、应用治理、绿色计算方面取得更智能的能力，可以加速响应业务创新和价值交付。</p><p>&nbsp;</p><p>针对当下企业应用上云「更异构、更智能、更经济」的三大需求趋势，马振雄表示，SOFAStack提供了一系列云原生解决方案，帮助企业在云环境下快速构建、部署和管理应用程序。这些解决方案可以满足不同行业和企业的需求，并为企业提供更加灵活和高效的技术支持。例如，针对行业进入多云时代，边缘资源调配、云上云下应用开发等统一管理挑战，其拳头产品MESH升级架构，从原来的经典Sidecar架构开始演变为Node架构，同步进行了性能、服务治理、业务可观测能力等全方位优化。</p><p>&nbsp;</p><p><img src=\"https://static001.geekbang.org/infoq/7c/7cd485b0811e68275758bb2d760a382d.png\" /></p><p></p><p>Forrester报告曾分析指出，以云原生为关键能力的下一代云平台， 不仅可以基于全栈云原生架构灵活适应市场变化，而且可以通过全云开发实践帮助企业在云上快速验证创新思路，还能借助云平台的各类自动化能力降本增效强化韧性。</p><p>&nbsp;</p><p>“服务网格降低了我们的上云门槛。如果做云原生改造，系统的所有代码都要重写一遍，大概需要20&nbsp;个人投入一年时间；使用网格（Mesh）只要&nbsp;5&nbsp;个人两三个月就能上云。”传统金融机构信息科技架构规划负责人在Forrester调研时表示。根据报告测算，三年内有&nbsp;10&nbsp;个单体应用不需要经过云原生改造，即可直接上云后统一治理，总体效率提升为企业带来941万元的收益。</p><p>&nbsp;</p><p>据悉，SOFAStack是国内部署云原生技术最广泛的平台之一，基于支付宝、蚂蚁集团各项业务需求进行研发迭代，并服务于超100家银行迈向云原生转型，已经构建了完整金融级的云原生PaaS解决方案。</p>",
+    "publish_time": "2023-11-01 14:14:11",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "从互联网到云计算再到 AI 原生，百度智能云数据库的演进",
+    "url": "https://www.infoq.cn/article/fha6fjAkOt5wCiw60B9l",
+    "summary": "<p>作为计算机系统的三大核心基础软件之一，数据库技术的发展一直备受关注。随着云计算技术的发展，能够适合更大规模业务场景，有着高可用性、可扩展性和低成本等优势的云原生和分布式数据库逐渐成为主流。</p><p></p><p>同时，AI 技术不断向前发展，尤其是 OpenAI 掀起的这场 AI 变革，使得 AI 与云计算更紧密地结合成为了可能。云原生为数据库面向更大范围的智能化应用提供了基础条件，AI 成为云原生数据库持续演进的牵引力。</p><p></p><p>为了应对大数据和 AI 应用在行业中的挑战，<a href=\"https://www.infoq.cn/news/kqPbdlvF3Jp55PodQLAo\">百度智能云</a>\"在 2020 年率先提出“云智一体”战略，以“云计算为基础”支撑产业数字化转型，以“人工智能为引擎”深入产业生产的关键场景，为企业的数字化转型和智能化升级提供新型支持。在云智一体战略的指导下，<a href=\"https://www.infoq.cn/article/o8abj2wff5yLfGWuB0E1\">百度智能云</a>\"在数据库领域不断创新，基于百度集团各项业务的多年磨炼，对外推出了云原生数据库 GaiaDB 、云数据库 GaiaDB-X、数据传输服务 DTS 等产品和解决方案。那这些产品和相关方案，都有哪些不一样的地方，又有哪些落地实践？比如：</p><p>在互联网、云计算，以及向 AI 的演进过程中，百度智能云数据库团队是如何进行技术升级，做到支持各类业务场景，满足海量数据规模，业务要求越来越苛刻的场景的。在 AI 时代，它的最新成果和规划又有哪些？相比其他云原生数据库， GaiaDB 是如何诞生于百度集团的内部业务，其产品理念有什么独特的地方，在哪些技术上面形成了优势，可以帮助用户解决什么样的挑战？在金融行业的国产化进程，GaiaDB-X 如何承载核心业务系统，满足金融行业对基础设施的高要求，在金融客户中的成功落地场景又有哪些？完善的数据库服务不止有数据库产品本身。数据库的迁移、同步、集成同样重要。这些工作和数据库本身一样，同样是复杂又至关重要的。百度智能云的数据传输服务 DTS 如何将繁琐复杂的这类业务变得可靠简单，在业务实践中帮助头部客户成功上云？</p><p></p><p>为了帮助大家解决这些问题，<a href=\"https://www.infoq.cn/article/ACXL3WviaTtr2U0v5NlB\">百度智能云</a>\"团队特推出《百度智能云数据库》系列云智公开课。前四期课程便将围绕“从互联网到云计算再到 AI 原生，百度智能云数据库的演进”、“高性能和多级高可用，云原生数据库 GaiaDB 架构设计解析”、“面向金融场景的 GaiaDB-X 分布式数据库应用实践”、“一站式数据库上云迁移、同步与集成平台 DTS 的设计和实践”四个主题展开。从 11 月 15 日起，每周三都将有一位百度智能云的大咖与各位一起探讨百度智能云数据库的创新、变革和应用。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/cf/cf46378ce27ef5e83b5b6abf599ec8d3.jpeg\" /></p><p></p><p>第一讲：《从互联网到云计算再到 AI 原生，百度智能云数据库的演进》</p><p>你将获得：</p><p>全局完整地了解数据库行业的历史和发展趋势；了解百度智能云数据库在各个阶段的典型产品、应用和关键技术；了解百度智能云数据库在 AI 原生时代的创新和变革。</p><p>&nbsp;</p><p>第二讲：《高性能和多级高可用，云原生数据库 GaiaDB 架构设计解析》</p><p>你将获得：</p><p>了解云原生数据库的不同技术路线和能力对比；了解相比传统单体数据库，云原生数据库的技术差异和挑战；了解 GaiaDB 在高性能和多级高可用方向上的技术架构。</p><p>&nbsp;</p><p>第三讲：《面向金融场景的 GaiaDB-X 分布式数据库应用实践》</p><p>你将获得：</p><p>了解金融核心系统在构建分布式数据库的技术挑战；了解 GaiaDB-X 数据库的架构及在金融场景的分布式特性；了解 GaiaDB-X 在金融机构的核心系统分布式的落地实践。</p><p>&nbsp;</p><p>第四讲：《一站式数据库上云迁移、同步与集成平台DTS的设计和实践》</p><p>你将获得：</p><p>了解数据库上云迁移、数据库同步 / 集成的业务场景，以及实践中可能遇到的技术挑战；了解百度智能云 DTS 的关键特性、核心技术和实践案例。</p>",
+    "publish_time": "2023-11-01 14:23:22",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "数智赋能云课堂第 2 期·数字化组织演进路径与方法",
+    "url": "https://www.infoq.cn/article/ELqwMUsPhkVTjQ8Trrod",
+    "summary": "<p><img alt=\"unpreview\" src=\"https://static001.infoq.cn/resource/image/3e/c7/3e6088715b0056aa452f4a9c9ce6b7c7.jpg\" /></p>",
+    "publish_time": "2023-11-01 15:29:11",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
