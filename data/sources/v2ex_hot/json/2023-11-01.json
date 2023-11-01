@@ -42,5 +42,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "防不胜防，防不胜防啊，经过对光猫固件分析发现更多插件",
+    "url": "https://www.v2ex.com/t/987392",
+    "summary": "oblivion: 前一贴插件后有人通过帖内信息成功开盒到我同事，并联系到该同事，<br />经过了解他们是某安全圈的几个人，他们提议提取光猫 nand 固件进行静态分析，<br /><br />使用编程器提取了光猫 nand 完整的 256MB 镜像，<br />在今天上午的简单解包，静态分析后发现还有两个插件：GXBMONITOR 和 RZX （任子行）<br /><br />其中 GXBMONITOR 会向 <a href=\"http://bbums.org/\" rel=\"nofollow noopener\" target=\"_blank\">bbums.org</a> 和 <a href=\"http://bbums.org.cn/\" rel=\"nofollow noopener\" target=\"_blank\">bbums.org.cn</a> 发送数据，<br />其中包含光猫特征信息，经纬度，周边 WiFi 列表（可选），宽带测速等信息，<br />主要接口 <a href=\"http://www.bbums.org/reg/\" rel=\"nofollow noopener\" target=\"_blank\">www.bbums.org/reg/</a><br /><br />任子行插件就不多说了，懂得都懂，其官网介绍：<br /><br />嵌入式审计软件：在光猫、融合网关或网关设备上嵌入审计软件，不改变原有的网络拓扑结构，不影响网络的正常使用，对终端用户的上网行为进行审计 GRAM 默认支持 28 种虚拟身份协议；<br /><br /><br />如何查看我的光猫启用了哪些插件：<br /><br />对于遥遥领先的光猫，使用超级密码进入后台，找到故障收集相关功能，点启动收集，收集完成后点下载故障收集信息，在下载到的 TXT 中不区分大小写搜索 GXBMONITOR ，如 HW_SSMP 相关的 GXBMONITOR 为 1 ，则插件已启用。<br />搜索 RZX 或其他插件名称，如在 ps 结果中看到进程，则为已启用<br />对于移动定制，则搜索 cmccdpi ，对于联通定制，则搜索 CUInform 和 ufw<br /><br />如何进入 shell 查看我的光猫配置了哪些特性：<br />对于遥遥领先的光猫，需要补全 shell 并启用 telnet/ssh 功能，<br />连接到光猫 shell 后，使用 su 和 shell 两个命令后进入光猫 shell 模式，<br />rzx 插件在/mnt/jffs2 目录下，<br />相关配置文件在/etc/wap/customize/china 目录下，找到您的运营商简称配置文件，如上海电信对应 SHCT_ft.cfg ，搜索关键字 GXBMONITOR 即可<br /><br /><br /><br />目前仅分析得到以上信息，各位安全大拿还在进一步逆向分析中",
+    "publish_time": "2023-11-01 11:04:00",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
