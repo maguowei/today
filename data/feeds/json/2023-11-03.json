@@ -1064,5 +1064,85 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "莲花楼长尾效应好强",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E6%A5%BC%E9%95%BF%E5%B0%BE%E6%95%88%E5%BA%94%E5%A5%BD%E5%BC%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "中式元素混搭妆",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%BC%8F%E5%85%83%E7%B4%A0%E6%B7%B7%E6%90%AD%E5%A6%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "《三体》将改编成五部电影，你对这几部影片都有哪些期待？",
+    "url": "https://www.zhihu.com/question/627358885",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "德国杯第二轮，德丙球队萨尔布吕肯2比1战胜拜仁慕尼黑，如何评价这场比赛？",
+    "url": "https://www.zhihu.com/question/628769133",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Arch: Remove Itanium (IA-64) architecture",
+    "url": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=cf8e8658100d4eae80ce9b21f7a81cb024dd5057",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38115989\">Comments</a>",
+    "publish_time": "2023-11-03 00:28:40",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Beatles Release 'Now and Then'",
+    "url": "https://www.goldradiouk.com/artists/the-beatles/now-and-then-listen-stream-video/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38117167\">Comments</a>",
+    "publish_time": "2023-11-03 01:34:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ciro (YC S22) is hiring founding engineers to build an SMB search engine",
+    "url": "https://www.ycombinator.com/companies/ciro/jobs",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38116571\">Comments</a>",
+    "publish_time": "2023-11-03 01:00:49",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Martin Fowler – Current thoughts on social media",
+    "url": "https://martinfowler.com/articles/2023-social-media.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38116498\">Comments</a>",
+    "publish_time": "2023-11-03 00:56:54",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
