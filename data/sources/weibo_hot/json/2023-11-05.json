@@ -565,5 +565,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "德国国家德比",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%BE%B7%E6%AF%94%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "2023暴雪嘉年华",
+    "url": "https://s.weibo.com/weibo?q=%232023%E6%9A%B4%E9%9B%AA%E5%98%89%E5%B9%B4%E5%8D%8E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]

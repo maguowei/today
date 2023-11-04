@@ -1149,5 +1149,76 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "德国国家德比",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%BE%B7%E6%AF%94%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "2023暴雪嘉年华",
+    "url": "https://s.weibo.com/weibo?q=%232023%E6%9A%B4%E9%9B%AA%E5%98%89%E5%B9%B4%E5%8D%8E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "买车以后，没有车位，你是怎么解决停车问题呢？",
+    "url": "https://www.zhihu.com/question/628602795",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "After decades of dreams, a commercial spaceplane is almost ready to fly",
+    "url": "https://arstechnica.com/space/2023/11/after-decades-of-dreams-a-commercial-spaceplane-is-almost-ready-to-fly/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38143369\">Comments</a>",
+    "publish_time": "2023-11-05 01:45:33",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "OpenELA releases redhat source code on github",
+    "url": "https://github.com/orgs/openela-main/repositories",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38143690\">Comments</a>",
+    "publish_time": "2023-11-05 02:16:39",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Software that supports your body should always respect your freedom",
+    "url": "https://www.fsf.org/blogs/community/software-that-supports-your-body-should-always-respect-your-freedom",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38143180\">Comments</a>",
+    "publish_time": "2023-11-05 01:26:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "I need more USB power",
+    "url": "https://atomic14.substack.com/p/i-need-more-usb-power",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38142606\">Comments</a>",
+    "publish_time": "2023-11-05 00:36:26",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
