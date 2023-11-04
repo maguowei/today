@@ -1220,5 +1220,98 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "广东世仇村和解开始通婚",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%B8%96%E4%BB%87%E6%9D%91%E5%92%8C%E8%A7%A3%E5%BC%80%E5%A7%8B%E9%80%9A%E5%A9%9A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "丞磊黑白双鲨",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9E%E7%A3%8A%E9%BB%91%E7%99%BD%E5%8F%8C%E9%B2%A8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何评价「进击的巨人」最终季完结篇（后篇）？",
+    "url": "https://www.zhihu.com/question/629108941",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "C++ Sudoku Solver by Singapore PM Lee Hsien Loong",
+    "url": "https://twitter.com/adad8m/status/1720822885496049863",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38144124\">Comments</a>",
+    "publish_time": "2023-11-05 03:07:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "AI Company Plans to Run Clusters of 10k Nvidia H100 GPUs in International Waters",
+    "url": "https://www.extremetech.com/computing/ai-company-plans-to-run-clusters-of-10000-nvidia-h100-gpus-in-international",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38144122\">Comments</a>",
+    "publish_time": "2023-11-05 03:07:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Scrcpy 2.2 adds Android camera mirroring",
+    "url": "https://github.com/Genymobile/scrcpy/releases/tag/v2.2",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38143818\">Comments</a>",
+    "publish_time": "2023-11-05 02:30:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Discord will switch to temporary file links to block malware delivery",
+    "url": "https://www.bleepingcomputer.com/news/security/discord-will-switch-to-temporary-file-links-to-block-malware-delivery/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38144158\">Comments</a>",
+    "publish_time": "2023-11-05 03:11:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Cami.js – A No Build, Web Component Based Reactive Framework",
+    "url": "https://github.com/kennyfrc/cami.js",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38143844\">Comments</a>",
+    "publish_time": "2023-11-05 02:33:36",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Bevy 0.12",
+    "url": "https://bevyengine.org/news/bevy-0-12/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38144417\">Comments</a>",
+    "publish_time": "2023-11-05 03:39:45",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
