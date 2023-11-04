@@ -5310,5 +5310,384 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "广东恩平地震",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%81%A9%E5%B9%B3%E5%9C%B0%E9%9C%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "T1 压力",
+    "url": "https://s.weibo.com/weibo?q=%23T1+%E5%8E%8B%E5%8A%9B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "炮车立功",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%82%AE%E8%BD%A6%E7%AB%8B%E5%8A%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "尺帝太c了",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%BA%E5%B8%9D%E5%A4%AAc%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "JDG晋级S13四强",
+    "url": "https://s.weibo.com/weibo?q=%23JDG%E6%99%8B%E7%BA%A7S13%E5%9B%9B%E5%BC%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "尼泊尔6.4级地震",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%B3%8A%E5%B0%946.4%E7%BA%A7%E5%9C%B0%E9%9C%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "吴楚一微博加了认证",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%A5%9A%E4%B8%80%E5%BE%AE%E5%8D%9A%E5%8A%A0%E4%BA%86%E8%AE%A4%E8%AF%81%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "S13四强已有三支LPL战队",
+    "url": "https://s.weibo.com/weibo?q=%23S13%E5%9B%9B%E5%BC%BA%E5%B7%B2%E6%9C%89%E4%B8%89%E6%94%AFLPL%E6%88%98%E9%98%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "火星6又好哭又好笑",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%81%AB%E6%98%9F6%E5%8F%88%E5%A5%BD%E5%93%AD%E5%8F%88%E5%A5%BD%E7%AC%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "国防部回应加拿大舰载直升机挑衅",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%88%B0%E8%BD%BD%E7%9B%B4%E5%8D%87%E6%9C%BA%E6%8C%91%E8%A1%85%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "深圳震感",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E9%9C%87%E6%84%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Knight和369亮标TES",
+    "url": "https://s.weibo.com/weibo?q=%23Knight%E5%92%8C369%E4%BA%AE%E6%A0%87TES%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "余承恩去年奶今年A",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E6%81%A9%E5%8E%BB%E5%B9%B4%E5%A5%B6%E4%BB%8A%E5%B9%B4A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "加拿大舰载直升机逼近中国西沙领空挑衅",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%88%B0%E8%BD%BD%E7%9B%B4%E5%8D%87%E6%9C%BA%E9%80%BC%E8%BF%91%E4%B8%AD%E5%9B%BD%E8%A5%BF%E6%B2%99%E9%A2%86%E7%A9%BA%E6%8C%91%E8%A1%85%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Ruler全球总决赛登场排名第三",
+    "url": "https://s.weibo.com/weibo?q=%23Ruler%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B%E7%99%BB%E5%9C%BA%E6%8E%92%E5%90%8D%E7%AC%AC%E4%B8%89%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "广州震感",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E9%9C%87%E6%84%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "周也穿的是姐姐设计的衣服",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B9%9F%E7%A9%BF%E7%9A%84%E6%98%AF%E5%A7%90%E5%A7%90%E8%AE%BE%E8%AE%A1%E7%9A%84%E8%A1%A3%E6%9C%8D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "珠海震感",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8F%A0%E6%B5%B7%E9%9C%87%E6%84%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "我可以47",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%8F%AF%E4%BB%A547%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "LCK最后的希望",
+    "url": "https://s.weibo.com/weibo?q=%23LCK%E6%9C%80%E5%90%8E%E7%9A%84%E5%B8%8C%E6%9C%9B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Ruler的卡莎",
+    "url": "https://s.weibo.com/weibo?q=%23Ruler%E7%9A%84%E5%8D%A1%E8%8E%8E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "地震快讯",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E5%BF%AB%E8%AE%AF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "你好星期六",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "为什么不Ban洛",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8DBan%E6%B4%9B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "S13 八强赛 JDG 3:1 淘汰 KT 成为第三支晋级四强的 LPL 队伍，如何评价这场比赛？",
+    "url": "https://www.zhihu.com/question/629068455",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "你读过哪些充满智慧的句子从而成为你的座右铭？",
+    "url": "https://www.zhihu.com/question/629050763",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "上班的路上，大家都在想什么呢？",
+    "url": "https://www.zhihu.com/question/623412811",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "你读过哪些直击灵魂的文字？",
+    "url": "https://www.zhihu.com/question/623411870",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么中国很少有人穿三件套西服？",
+    "url": "https://www.zhihu.com/question/26913812",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "领导突然对你说「有人在背后说你坏话」，该如何做出正确回应？",
+    "url": "https://www.zhihu.com/question/628707799",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "日本央行进一步调整收益率曲线控制政策，美元兑日元直线拉升重上 150 关口，哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/628510836",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "截至11月2日八强第一场结束，WBG夺冠的概率有多大?",
+    "url": "https://www.zhihu.com/question/628839131",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "英雄联盟S13 八强赛WBG 3：0 NRG，如何看待这场比赛？",
+    "url": "https://www.zhihu.com/question/628817920",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "普京称乌克兰的内部腐败在世界上无人能及，如何评价这一言论？",
+    "url": "https://www.zhihu.com/question/629069974",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "报道称「缅北流弹击中瑞丽居民楼」，当地具体情况如何？战事对我国边境还会带来哪些影响？",
+    "url": "https://www.zhihu.com/question/629066920",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "S13 全球总决赛上 LPL 队伍该怎么破解 LCK 队伍的塔姆体系？",
+    "url": "https://www.zhihu.com/question/628490915",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "我们应当对自由软件作者说，你们的事业是正义的，正因如此，请更加注意保护自己。",
+    "url": "https://www.v2ex.com/t/988474",
+    "summary": "LTuser: <p>历史总是充满了意外，正义的事业践行者不一定会见到正义事业大行于世。</p>\n<p>我们坚信自由软件的事业是正义的、我们坚信交流是自由的、我们坚信这是未来的方向。人类历史上从未出现过如此无私的、庞大的奉献</p>\n<p>每次见到 linux 数不胜数的发行版时，都不由赞叹这个奇迹————一个真正由全人类无私努力集合而成的奇迹。无分性别、种族的人们建造了她，她也向无分性别、种族的人们播撒她的光辉，包括从未为她作出贡献乃至诋毁她的人。</p>\n<p>所以，请更加注意保护自己，保存正义事业的力量。</p>",
+    "publish_time": "2023-11-04 00:50:09",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "关于开源软件作者的激励问题",
+    "url": "https://www.v2ex.com/t/988513",
+    "summary": "HaroldFinchNYC: <p>这个问题一直都是问题，从来没有被解决</p>\n<p>著名的 Linus 因为有 Linux Foundation ，而 Linux 基金会又是由各大厂商给的会员费生存，活得很好</p>\n<p>大量的大型小型开源项目作者其实是一毛钱没有的，纯粹是用爱发电；这就很难坚持。</p>\n<p>唯一一个似乎找到了开源项目商业模式的公司是红帽\n但红帽最近也收紧了，不想让其他人白嫖他们的工作了。</p>\n<p>最近的 clash ，tuic 等，显然也同样存在着激励问题</p>\n<blockquote>\n<p>人在墙内，容易被喝茶；人在墙外，不需要翻墙，如果没有金钱刺激，就没有动力来写代码。</p>\n<p>所以我说的金钱刺激，是为了让在墙外的人能有动力去做这个事</p>\n</blockquote>\n<p>二十年前，其实是 xx 功大量发放免费翻墙的工具，这才有了第一次大规模普通民众的科学上网</p>\n<p>总之呢，要考虑一个合适的激励模式，这样才能让全世界的人才来解决上网的问题</p>",
+    "publish_time": "2023-11-04 10:00:45",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "Apple TV 上去如何看 A 片",
+    "url": "https://www.v2ex.com/t/988556",
+    "summary": "CNM47589: <p>有没有那种直接订阅黄网资源的 app ，三角播放器能吗？请高雅男士进来讨论</p>",
+    "publish_time": "2023-11-04 13:19:41",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "Making \"LCD, Please\"",
+    "url": "https://dukope.com/devlogs/papers-please/lcdplease/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38138085\">Comments</a>",
+    "publish_time": "2023-11-04 12:16:37",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A blog post is a long and complex search query to find people",
+    "url": "https://www.henrikkarlsson.xyz/p/search-query",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38137377\">Comments</a>",
+    "publish_time": "2023-11-04 10:02:56",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
