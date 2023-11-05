@@ -9,5 +9,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "为啥同一个视频下 Firefox 和 Chrome 性能差距这么大",
+    "url": "https://www.v2ex.com/t/988709",
+    "summary": "stanishappy: <p><img alt=\"Imgur\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://imgur.com/L0CoLQm.png\" />\n左右分屏播放同一个 youtube 视频（ 1440p60 ）</p>\n<p>听说过 Firefox 和 chrome 性能有差距，怎么一对比性能差距这么大，这内存占用为啥多了一倍</p>\n<p>而且，有没有大佬讲讲后面 GPU-3D 和 GPU-Video Decode 有啥区别，哪个效率更高一点啊</p>",
+    "publish_time": "2023-11-05 02:43:23",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
