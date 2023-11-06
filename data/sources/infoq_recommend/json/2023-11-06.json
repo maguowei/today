@@ -53,5 +53,38 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "火山引擎云原生多云负责人袁晓沛确认出席 FCon，分享云原生提升资源利用率实践",
+    "url": "https://www.infoq.cn/article/3XG0cxwVjpAbrl1OqO3T",
+    "summary": "<p><a href=\"https://fcon.infoq.cn/2023/shanghai/?utm_source=infoqweb&amp;utm_medium=atricle\">FCon 全球金融科技大会</a>\"，将于 11 月在上海召开。火山引擎云安全解决方案负责人林扬将发表题为《<a href=\"https://fcon.infoq.cn/2023/shanghai/presentation/5608?utm_source=infoqweb&amp;utm_medium=article\">云原生提升资源利用率实践</a>\"》主题分享，介绍包含在离线混部的 5 种有效提升资源利用率能力的实践与商用验证的方法论，希望客户能够在降本增效的实践上有所收获。</p><p></p><p><a href=\"https://fcon.infoq.cn/2023/shanghai/presentation/5608?utm_source=infoqweb&amp;utm_medium=article\">袁晓沛</a>\"，2022 年加入字节跳动，在火山引擎负责云原生多云、混合云方向。之前曾就职于 EMC、七牛云、百度等，专注大规模分布式应用及基础架构的构建，早期曾参与 100+PB 对象存储的架构和研发。有 8 年云原生技术落地实践经验，致力于通过云原生 PaaS 平台，提升业务迭代效率与质量，提升资源利用率。近期关注基于 K8s 的分布式云原生平台、资源效能（在离线混部）、云原生 AI 等。他在本次会议的演讲内容如下：</p><p></p><p>演讲：云原生提升资源利用率实践</p><p></p><p>Kubernetes 已成为云原生应用部署和管理的事实标准，很多金融企业的云原生用量已经达到相当规模，但受限于资源利用率不高，不少用户的 K8s 集群 CPU 平均利用率在 10% 以内。降本增效一直是企业 IT 投资不断的追求，字节开源 Katalyst 在离线混部后，有效提升资源利用率，很多企业客户关注问询混部的落地，侧面印证了企业降本增效的核心诉求。</p><p></p><p>然而，在离线混部技术在企业中的落地非常漫长。首先是组织壁垒，传统企业中，在线业务、离线业务、运维、财务、采购往往横跨多个部门，涉及资源池合并、业务融合、成本核算和分摊、资源采购等多个方面需要协作，在离线混部往往很难落地。</p><p></p><p>实际上，虽然在离线混部是提升资源利用率的一大利器，但并不是解决资源效能问题的唯一手段。除在离线混部外，还有规格推荐（container right-sizing）、资源超售（overcommit）、潮汐混部（aka. 01 混部或分时复用）、智能 HPA 等一系列常见的技术手段，来解决资源利用率的问题。本分享侧重于介绍包含在离线混部的 5 种有效提升资源利用率能力的实践与商用验证的方法论，希望客户能够在降本增效的实践上有所收获。</p><p></p><p>演讲提纲：</p><p></p><p>云原生资源利用率的痛点；五种资源效能能力的产品技术介绍；字节跳动的落地实践效果；未来演进方向与展望。</p><p></p><p>你将获得：</p><p></p><p>○ 在小规模集群的情况下，如何提升利用率；</p><p>○ 在业务算力潮汐需求下，如何分时复用资源；</p><p>○ 如何用更智能的手段，动态调整业务应用的副本数和质量；</p><p>○ 在大规模在离线业务背景下，如何利用混部解决问题。</p><p></p><p>除上述演讲外，FCon 上海还将围绕&nbsp;<a href=\"https://fcon.infoq.cn/2023/shanghai/track/1580?utm_source=infoqweb&amp;utm_medium=atricle\">DevOps&nbsp;在金融企业落地实践</a>\"、<a href=\"https://fcon.infoq.cn/2023/shanghai/track/1591?utm_source=infoqweb&amp;utm_medium=atricle\">金融行业大模型应用</a>\"、<a href=\"https://fcon.infoq.cn/2023/shanghai/track/1576?utm_source=infoqweb&amp;utm_medium=atricle\">创新的金融科技应用</a>\"、<a href=\"https://fcon.infoq.cn/2023/shanghai/track/1577?utm_source=infoqweb&amp;utm_medium=atricle\">金融实时数据平台建设之路</a>\"、<a href=\"https://fcon.infoq.cn/2023/shanghai/track/1588?utm_source=infoqweb&amp;utm_medium=atricle\">金融安全风险管控</a>\"、<a href=\"https://fcon.infoq.cn/2023/shanghai/track/1589?utm_source=infoqweb&amp;utm_medium=atricle\">数据要素流通与数据合规</a>\"等进行交流。</p><p></p><p>FCon 上海 2023，相约 11 月！现在购票，享 8 折优惠 ，立省 ￥1360！咨询购票请联系：17310043226（微信同手机号）。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/a8/a8ec7f7fb25c7949931b2b8a5deffddd.png\" /></p><p></p>",
+    "publish_time": "2023-11-06 11:30:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "2023深圳国际金融科技大赛暨微众银行2024校园招聘宣讲会",
+    "url": "https://www.infoq.cn/article/atB6FuOvpIQGQPWLX0Eo",
+    "summary": "<p>在金融科技发展的过程中，人才培养是举足轻重的关键一环。为推动金融科技行业发展，并向高校学子提供一个展示自身知识、能力和创意的平台，深圳大学微众银行金融科技学院与微众银行联合举办了“2023 深圳国际金融科技大赛（FinTechathon）——西丽湖金融科技大学生挑战赛”。</p>\n<p>11 月 3 日，2023 深圳国际金融科技大赛—— 西丽湖金融科技大学生挑战赛暨微众银行2024校园招聘宣讲会在深圳大学圆满落幕，本次宣讲会邀请到深大微众金融科技学院党委书记刘山海书记、深大微众金融科技学院院长助理祁涵、微众银行零售存款部总经理邢海鹏、微众银行人力资源部室资深经理杨帆、微众银行区块链高级架构师周禄、微众银行个人直通银行部室经理金虎光和微众银行人工智能资深研究员&amp;FATE 开源社区技术委员会成员范涛围绕大赛三大赛道、微众银行2024校招内容展开了主题分享。</p>",
+    "publish_time": "2023-11-06 12:04:11",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "晋升神器：AI 一键生成 PPT，技术好的同时也做好PPT｜InfoQ 用户的双十一福利",
+    "url": "https://www.infoq.cn/article/evEep3Yxl4hs8H3g4xSm",
+    "summary": "<p>升职加薪自然是每位职场人都渴望的事情，程序员们也不例外。但是，晋升就需要汇报过去一年的主要成绩，并介绍自己接下来的具体规划，这时候就要考验各位的 PPT 水平了。过去几年，程序员的圈子里广泛流传着一句话：技术再好，不如 PPT 做得好！</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/62/62558b508f91e83607cc773353ba54dd.jpeg\" /></p><p></p><p><a href=\"https://mp.weixin.qq.com/s?__biz=MzIzODQ3NDQ4Mw%3D%3D&amp;chksm=e9398033de4e0925f3cb70287083d06fe9abae4e15a4999ad3e049039603fbaee9e26afe3ddf&amp;idx=1&amp;mid=2247484847&amp;scene=27&amp;sn=e7f72229a61027479fddf81828a9697d&amp;utm_campaign=geek_search&amp;utm_content=geek_search&amp;utm_medium=geek_search&amp;utm_source=geek_search&amp;utm_term=geek_search#wechat_redirect\">PPT </a>\"不仅仅是把想说的话呈现出来，最重要的其实是背后的抽象总结能力和逻辑思维能力。其次才是选择合适的框架将内容有序组织起来，最后才是美化。</p><p></p><p>一份制作良好的 PPT，不仅能够清晰地呈现你的思维和观点，更能够让你在众多竞争者中脱颖而出。但是，繁琐的制作过程，费时的排版，以及无法完全达到期望的效果，都是制作 PPT 时所面临的困扰。现在，爱设计 AiPPT 将为广大程序员解决这些问题，让大家在技术好的同时通过有效的内容呈现，获得晋升！</p><p></p><p></p><p></p><p>据悉，<a href=\"https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HNhuSGWjyZFUhGN608tMnwAr-8P6v2nBNFTplteR&amp;target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzU1NDA4NjU2MA%253D%253D%26chksm%3Dfbeb1b50cc9c9246033e7ad2c008c78f34fdb2d3ee0472f79890f09d9562a7b698ca46972ba1%26idx%3D2%26mid%3D2247574175%26scene%3D27%26sn%3D215f4d6a1899210cba77401d5274a635%26utm_campaign%3Dgeek_search%26utm_content%3Dgeek_search%26utm_medium%3Dgeek_search%26utm_source%3Dgeek_search%26utm_term%3Dgeek_search#wechat_redirect\">爱设计</a>\" AiPPT 是一款真正智能的 PPT 生成工具。它运用了人工智能技术与自然语言处理两项技术，能够智能理解用户输入的主题，并快速生成符合需求的 PPT 内容。无论是文字、图片、表格，还是图表，都能够以最短的时间为你呈现出一份专业而精美的 PPT。</p><p></p><p>具体来说，爱设计 AiPPT 具有以下特点：</p><p></p><p><a href=\"https://www.infoq.cn/article/understand-huawei-ai-strategy?utm_campaign=geek_search&amp;utm_content=geek_search&amp;utm_medium=geek_search&amp;utm_source=geek_search&amp;utm_term=geek_search\">AI</a>\" 一键智能生成。基于人工智能和自然语言处理技术，能智能分析用户输入的主题，并快速生成符合需求的 PPT 内容</p><p></p><p>2.文档上传生成。支持多种文件格式上传（doc、docx、xmind、mm），一键上传，AI 智能排版配色、快速生成 PPT</p><p></p><p>3.在线自由编辑器。支持一键整体更换模板、更换配色，内置上千套定制级 PPT 模板及超 10w+ 素材，只需拖拉拽即可快速修改</p><p></p><p>4.云端存储，跨设备同步。PPT 云端制作在线保存，无需下载，打开网站即随时随地开启创作和演示，跨设备不再是障碍</p><p></p><p>5.兼容.pptx 格式，支持源文件导出。支持 JPG、PNG、PDF、PPT 文件导出，PPT 源文件格式导入导出均无格式错乱问题</p><p></p><p>在流程上，用户只需要在 PC 端登录 aippt.cn，输入你的要求和目标，它就会自动生成脑图，帮助大家想清楚整体规划，这个脑图还可以直接增减修改，确定好内容结构大纲后，就可以自动生成对应的 PPT 文件，还支持更换 PPT 风格等。</p><p></p><p>值此双十一之际，InfoQ 为广大用户推出了专属福利，现在通过专属渠道（链接：https://shop18793264.m.youzan.com/wscgoods/detail/3nu6184aqcboong）购买爱设计 AiPPT 一年仅需 89 元！这是一个难得的机会，让你在享受高效、智能的 PPT 生成服务的同时，还能够节省大量的时间和精力。</p><p></p><p>与此同时，InfoQ 联合极客时间推出了《PPT 设计进阶 · 从基础操作到高级创意》的课程，帮助大家基于爱设计 AiPPT 完成 PPT 制作，课程 + 工具打包购买将享受更多优惠，仅需 129 元（链接：https://shop18793264.m.youzan.com/wscgoods/detail/3nu6184aqcboong）。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/04/04c0d719c29a36eec3ff0257fba4bd88.jpeg\" /></p><p></p>",
+    "publish_time": "2023-11-06 12:49:50",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
