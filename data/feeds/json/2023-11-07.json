@@ -1486,5 +1486,96 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "为什么要大力发展混合动力",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%A4%A7%E5%8A%9B%E5%8F%91%E5%B1%95%E6%B7%B7%E5%90%88%E5%8A%A8%E5%8A%9B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "主持人大赛治好了我的精神内耗",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%A4%A7%E8%B5%9B%E6%B2%BB%E5%A5%BD%E4%BA%86%E6%88%91%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%85%E8%80%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "小朋友跳绳方圆十里不能站人",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9C%8B%E5%8F%8B%E8%B7%B3%E7%BB%B3%E6%96%B9%E5%9C%86%E5%8D%81%E9%87%8C%E4%B8%8D%E8%83%BD%E7%AB%99%E4%BA%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "有哪些适合 25+ 男性职场人的木质调或偏中性香水推荐？",
+    "url": "https://www.zhihu.com/question/622957524",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美股三大指数小幅收涨，理想汽车涨超8%",
+    "url": "https://www.36kr.com/newsflashes/2507374045364232",
+    "summary": "36氪获悉，11月6日收盘，美股三大指数均小幅上涨，纳指涨0.3%，标普500指数涨0.18%，道指涨0.1%。大型科技股多数上涨，苹果、英伟达、微软涨超1%，Meta、谷歌、Netflix、亚马逊小幅上涨，特斯拉小幅下跌。热门中概股涨跌不一，理想汽车涨超8%，富途控股涨超4%，小鹏汽车、微博涨超1%，拼多多、京东、阿里巴巴小幅上涨，蔚来跌超3%，百度、爱奇艺、B站、网易跌超1%。",
+    "publish_time": "2023-11-07 07:00:00",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "QUIK is a method for quantizing LLM post-training weights to 4 bit precision",
+    "url": "https://github.com/IST-DASLab/QUIK",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38168807\">Comments</a>",
+    "publish_time": "2023-11-07 04:50:25",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "OpenChat surpass ChatGPT and Grok on various benchmarks",
+    "url": "https://github.com/imoneoi/openchat",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38169665\">Comments</a>",
+    "publish_time": "2023-11-07 06:01:55",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "DAK and the Golden Age of Gadget Catalogs",
+    "url": "https://cabel.com/2023/11/06/dak-and-the-golden-age-of-gadget-catalogs/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38169290\">Comments</a>",
+    "publish_time": "2023-11-07 05:29:45",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Happy 20th Birthday to Inkscape",
+    "url": "https://inkscape.gitlab.io/inkscape-docs/awesome-web-pages/20th_anniversary/#frame4804",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38169816\">Comments</a>",
+    "publish_time": "2023-11-07 06:12:39",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
