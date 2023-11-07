@@ -64,5 +64,38 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "欠下29亿美元巨债后，WeWork申请破产保护！网友：眼看它起朱楼，眼看它宴宾客，眼看它楼塌了",
+    "url": "https://www.infoq.cn/article/ZFVXHdYl6AGBXheXpeIQ",
+    "summary": "<p>WeWork 的快速崛起使其成为全球最受欢迎的初创企业之一，2019 年，WeWork的估值一度达 470 亿美元。但风光背后，它从楼顶跌落的速度更快。在达到峰值估值四年后，该公司就申请破产。</p><p>&nbsp;</p><p>这家披着科技公司外衣的企业实际上是一家办公室租赁公司。WeWork之所以能够快速崛起，是因为它曾斥巨资在全球一些最昂贵的房地产市场获得了大量长期租赁合同。然后，WeWork将这些商业地产细分为较小的空间租给租户使用，通常都是短期租赁。虽然从事的业务实际上是办公室租赁业务，但它向客户描绘的蓝图不仅仅是廉价的办公桌和技术，而是将自己置于无数乌托邦理想的核心——追求“提升世界意识”的“使命”。</p><p>&nbsp;</p><p>WeWork曾经承诺对公司和数万名员工的工作方式进行一场革命——包括为员工提供桶装啤酒、免费咖啡和小吃、舒适的家具、独立的照明、大量的社交活动等。</p><p>&nbsp;</p><p>WeWork 周一宣布申请破产保护后，联合创始人 Adam Neumann 在一份声明中表示，自 2019 年以来，他一直被排除在公司之外，“眼睁睁地看着 WeWork 未能用最先进的技术武装自己从而走向穷途末路”。</p><p>&nbsp;</p><p>WeWork 被两场危机逼到了崩溃的边缘：风险投资推动的鼎盛时期的结束，以及疫情引发的办公方式的巨变。</p><p>&nbsp;</p><p>Sabino &amp; Sabino 律师事务所的破产专家、圣约翰大学托宾商学院的法学教授安东尼·萨比诺 (Anthony Sabino) 表示：“首先，也是最明显的问题是出在了疫情上。”&nbsp;“谁能想到不再像以前那样允许任何人去办公室？疫情不仅直接导致办公室空置，还摧毁了办公空间市场”。</p><p>&nbsp;</p><p>“它迫使公司进行远程工作，有些公司甚至接受了它。无论自愿与否，结果都是一样的：对 WeWork 唯一商品办公空间的需求显著减少。”Sabino 补充道。</p><p>&nbsp;</p><p>事实上，在宣布破产的几个月前，WeWork就已经快支撑不下去了。早在今年9 月份，该公司就实施了 40 股换 1 股的反向拆股，以避免从纽约证券交易所退市。上个月，WeWork 表示将无法支付总计 9500 万美元的利息。</p><p>&nbsp;</p><p>由于疯狂的重组和董事会成员的更替，WeWork 今年上半年烧掉了 5.3 亿美元，截至 6 月份手头现金仅为 2.05 亿美元。8月，该公司警告称，人们对其能否继续经营存在“重大疑问”。</p><p>&nbsp;</p><p>该公司申请破产保护，这是解决巨额债务负担并调整房地产投资组合规模的最后一搏。</p>",
+    "publish_time": "2023-11-07 16:08:09",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "从ES到CK：信息技术发展的新浪潮",
+    "url": "https://www.infoq.cn/article/vHIDsIcLNhSA3TY6RWfK",
+    "summary": "<p></p><h2>背景</h2><p></p><p></p><p>Bonree ONE是博睿数据发布的国内首个一体化智能可观测平台。会话数据是Bonree ONE平台重要的业务模块，在切换到Clickhouse之前是基于ElasticSearch进行存储的。ElasticSearch（下文简称ES）是一种基于Lucene的分布式全文搜索引擎，主要使用场景在全文检索方向。</p><p></p><h2>ES存储会话数据的痛点</h2><p></p><p></p><p>会话数据的写入量很大，而且涉及一些联动数据，比如基于对象存储的快照数据，查询效率要求在秒级到亚秒级返回，在日志场景，ES存在以下痛点：</p><p></p><p>写入同步慢、写入效率差，业务写入会话数据到ES的同时，相关联的快照数据写入对象存储系统，相对于快照数据的写入时间，ES数据写入返回响应需要等待至少亚秒级的延迟，导致产品上会有查询不到数据的现象，影响体验。数据占用存储多，压缩不好，随着数据量的上涨，成本会越来越高。查询效率低，海量数据近30天经常查不出来。维护成本高，IO资源开销大，尤其私有化混部场景，对部署在同一个机器上的其他组件，影响较大。</p><p></p><p>ES存在的诸多问题，使得我们迫切寻找一个新的存储方案来进行升级，解决写入和查询的性能问题以及集群管理。</p><p></p><h2>为什么选择Clickhouse</h2><p></p><p></p><p>新的存储方案需要具备高写入吞吐、高读取效率、集群管理方便的特点。</p><p></p><p>写入效率：Clickhouse写入可以达到100M/秒，同时在延迟性上，受攒批效率的影响，实现了亚秒级别的数据写入延迟，而且稳定性相对于ES来说更强。在ES里，随着数据量积累增加，索引的更新成本是在逐步增长的相对的，写入稳定性也在受影响。读取效率：在会话场景里，业务查询数据的时间范围以及对应的统计分析都是不确定的，Clickhouse基于高频查询确认主键字段，基于常用高优查询指定索引等优化手段，保证查询效率稳定。而ES在应对非固定查询的场景下，会占用大量内存，同时由于索引块换入换出的问题，会引起IO较高的问题。集群管理：我们自研了Clickhouse集群的管理平台，支持对Clickhouse服务的数据写入、读取、节点状态等的监控，以及常用运维操作，比如扩缩容、数据均衡等。在ES的集群管理上，没有足够的手段覆盖到监控、数据迁移等运维操作。易用性：Clickhouse基于sql查询，业务接入直接基于jdbc的方式或者http的方式就可以直接使用。在ES中，大段的Json格式的查询，有一定的学习门槛。</p><p></p><h4>基于ES存储数据的架构如下：</h4><p></p><p></p><p><img src=\"https://static001.geekbang.org/infoq/86/86e5138850b3c01fc198b5663ec146c8.png\" /></p><p></p><h4>基于Clickhouse存储会话的架构如下：</h4><p></p><p></p><p><img src=\"https://static001.geekbang.org/infoq/9b/9bc594bb29ffb6e141e1a2f6fb49ae7d.png\" /></p><p></p><p>使用基于Clickhouse的方式进行存储，实现了多租户管理、查询资源管控、业务写入追踪和个性化调优等手段，让业务在写入效率和查询效率上提升明显。</p><p></p><h3>Clickhouse关键的参数调优</h3><p></p><p></p><p>parts_to_throw_insert：表分区之中活跃part数目超过多少，会抛出异常。针对不同的业务量，这个数字应该是不同的，用来保证相应的资源匹配相应的写入量级。max_threads：用于控制一个用户的查询线程数。max_execution_time：单个查询最大执行时间。一般跟业务相关，是业务可容忍的最大查询时间。background_pool_size：表引擎操作后台的线程数。太大会影响cpu资源，太小会影响parts数量，从而可能触发parts_to_throw_insert的异常。max_memory_usage：单个查询最多能够使用的内存大小，应对不同的硬件配置以及不同的用户会配置不同的内存大小。</p><p></p><h2>遇到了哪些问题</h2><p></p><p></p><p>问题一：too many parts</p><p></p><p>当写入超过Clickhouse服务承受的上限的时候，就会出现too many parts异常。这个异常的本意是防止Clickhouse服务在超负载的情况下挂掉，同时给维护人一个信号。因此，出现too many parts异常的时候，维护人就要关注当前服务是不是遇到超高峰数据的写入了。此时可以关注的指标如下：</p><p></p><p>当前服务占用的cpu是不是超预期了。</p><p></p><p>关注merge任务是不是占满队列，通常写入超预期的情况下，parts数量也是暴涨，Clickhouse为了保证查询效率，merge任务就会暴涨，而merge任务是消耗硬件资源的，如果资源不够，merge任务运行缓慢，就会降低parts数量的减少效率，从而导致parts数量缓慢增加，当增加到parts_to_throw_insert的数值时，就会产生too many parts的异常。</p><p></p><p>关注写入数据攒批的状态，如果写入频繁，单批次数量较小，会导致parts数量增长很快，很容易触发到merge任务运行的最大值，从而引发too many parts异常。</p><p></p><p>问题二：重启耗时很长</p><p></p><p>当集群容纳的数据量比较多的时候，Clickhouse的重启耗时会比较长，通常会达到几十分钟到小时级别不等。重启服务时间过长，对于整个服务的高可用会挑战很大，写入端的稳定性、容错性以及实时性，都会受到挑战。Clickhouse本身在解决超大容量服务时，也提供了解决方案，即元数据缓存。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/64/6445b159edce75e1dec754d0c3368e43.png\" /></p><p></p><h2>效果展示</h2><p></p><p></p><p></p><p></p><p><img src=\"https://static001.geekbang.org/infoq/ea/ead95a9d70c4343f53307c8f30940e28.png\" /></p><p></p><p>用Clickhouse存储会话模块的数据，存储资源节省明显，计算资源同样收益可观，解决了在ES存储方案中遇到的性能瓶颈和集群管理问题，同时在易用性上降低了门槛，让业务更加亲和地进行存储切换。</p><p></p><p>将会话数据从ES切换到Clickhouse，总体运维成本更低，而且提升了写入和查询效率，在用户进行会话数据统计分析和明细时，查询稳定性提升明显，用户体验得到大幅改善。</p><p></p><p>未来，我们会更加专注Clickhouse集群的精细化管理和优化，主要聚焦在以下方向：</p><p></p><p>merge的效率提升。存算分离。高并发查询的优化。</p><p></p><p>以上三个方向的优化与完善都能够进一步巩固Clickhouse集群的稳定性，帮助我们应对更多的业务场景，让业务发展稳中提效。</p>",
+    "publish_time": "2023-11-07 16:22:38",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "网易数帆大数据产品线总经理余利华博士，确认担任 QCon 现代数据架构演进专题出品人",
+    "url": "https://www.infoq.cn/article/Xzo2rhW0wQWOyeAt7xL2",
+    "summary": "<p><a href=\"https://qcon.infoq.cn/2023/shanghai/?utm_source=infoqweb&amp;utm_medium=teacherart&amp;utm_campaign=7&amp;utm_term=1107&amp;utm_content=yulihua\">QCon 全球软件开发大会</a>\"，将于 12 月在上海召开。网易数帆大数据产品线总经理余利华博士将担任「<a href=\"https://qcon.infoq.cn/2023/shanghai/track/1606?utm_source=infoqweb&amp;utm_medium=teacherart&amp;utm_campaign=7&amp;utm_term=1107&amp;utm_content=yulihua\">现代数据架构演进</a>\"」的专题出品人。在此次专题中，你将了解到大数据架构的转变升级包括，从传统数仓到云原生数仓，从 Hadoop 到数据湖，从 ETL 到 ELT，从以 IT 为中心的交付到业务自助分析等等。</p><p></p><p><a href=\"https://qcon.infoq.cn/2023/shanghai/track/1606?utm_source=infoqweb&amp;utm_medium=teacherart&amp;utm_campaign=7&amp;utm_term=1107&amp;utm_content=yulihua\">余利华博士</a>\"，2008 年获浙江大学计算机专业博士学位，之后加入网易公司研发网易第一代分布式存储系统和分布式数据库系统，并一直专注于后端数据存储处理方向。</p><p></p><p>相信余利华博士的到来，可以帮助提升此专题的质量，让你认识到敏捷 BI 已经开始成熟，面向业务人员的指标中台正快速发展，DataOps 备受关注，以 GPT 为代表的 AIGC 技术有望提升数据加工、分析效率，降低数据门槛。数据领域开始了新一轮的升级，人人用数据、时时用数据这样的数据平民化时代即将到来。</p><p></p><p>除上述专题外，QCon 上海还将围绕&nbsp;<a href=\"https://qcon.infoq.cn/2023/shanghai/track/1598?utm_source=infoqweb&amp;utm_medium=teacherart\">智能化信创软件&nbsp;IDE</a>\"、<a href=\"https://qcon.infoq.cn/2023/shanghai/track/1595?utm_source=infoqweb&amp;utm_medium=teacherart\">GenAI和通用大模型应用探索</a>\"、<a href=\"https://qcon.infoq.cn/2023/shanghai/track/1597?utm_source=infoqweb&amp;utm_medium=teacherart\">LLM&nbsp;时代的性能优化</a>\"、<a href=\"https://qcon.infoq.cn/2023/shanghai/track/1599?utm_source=infoqweb&amp;utm_medium=teacherart\">LLM&nbsp;时代的大前端技术</a>\"、<a href=\"https://qcon.infoq.cn/2023/shanghai/track/1602?utm_source=infoqweb&amp;utm_medium=teacherart\">面向人工智能时代的架构</a>\"、<a href=\"https://qcon.infoq.cn/2023/shanghai/track/1604?utm_source=infoqweb&amp;utm_medium=teacherart\">性能工程：提升效率和创新的新方法</a>\"等专题进行交流。</p><p></p><p>QCon 上海 2023，相约 12 月！现在购票，享 7 折优惠，立减￥2040！咨询购票请联系：18514549229（微信同手机号）。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/01/0113b3dfb187d5f9988b7eb16d2e0594.png\" /></p><p></p>",
+    "publish_time": "2023-11-07 16:30:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
