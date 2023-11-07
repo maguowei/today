@@ -1782,5 +1782,136 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "别高估一年别低估十年",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%88%AB%E9%AB%98%E4%BC%B0%E4%B8%80%E5%B9%B4%E5%88%AB%E4%BD%8E%E4%BC%B0%E5%8D%81%E5%B9%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "任素汐每句话都砍在了大姨的动脉上",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BB%BB%E7%B4%A0%E6%B1%90%E6%AF%8F%E5%8F%A5%E8%AF%9D%E9%83%BD%E7%A0%8D%E5%9C%A8%E4%BA%86%E5%A4%A7%E5%A7%A8%E7%9A%84%E5%8A%A8%E8%84%89%E4%B8%8A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "张雨绮红毯状态",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E7%BA%A2%E6%AF%AF%E7%8A%B6%E6%80%81%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "产妇羊水栓塞抢救15分钟后成功分娩",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%A7%E5%A6%87%E7%BE%8A%E6%B0%B4%E6%A0%93%E5%A1%9E%E6%8A%A2%E6%95%9115%E5%88%86%E9%92%9F%E5%90%8E%E6%88%90%E5%8A%9F%E5%88%86%E5%A8%A9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "浙江一中学学生有了校内家长",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E4%B8%80%E4%B8%AD%E5%AD%A6%E5%AD%A6%E7%94%9F%E6%9C%89%E4%BA%86%E6%A0%A1%E5%86%85%E5%AE%B6%E9%95%BF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何看待索尼 Alpha 9 III 相机和 FE 300mm F2.8 GM OSS 镜头？",
+    "url": "https://www.zhihu.com/question/629109746",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "'Ray, this is a religion': How Bridgewater lost two top hires",
+    "url": "https://nymag.com/intelligencer/article/ray-dalio-rob-copeland-the-fund-book-excerpt.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38181408\">Comments</a>",
+    "publish_time": "2023-11-08 03:15:00",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Are language models good at making predictions?",
+    "url": "https://www.lesswrong.com/posts/CkhJAxHeyFCg2EcET/are-language-models-good-at-making-predictions",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38183414\">Comments</a>",
+    "publish_time": "2023-11-08 05:50:50",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Chopstick robot handle boxes with ease",
+    "url": "https://spectrum.ieee.org/warehouse-robots",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38183514\">Comments</a>",
+    "publish_time": "2023-11-08 05:58:08",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Gleam: a type safe language on the Erlang VM",
+    "url": "https://gleam.run/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38183454\">Comments</a>",
+    "publish_time": "2023-11-08 05:53:29",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Core to core latency data on large systems",
+    "url": "https://chipsandcheese.com/2023/11/07/core-to-core-latency-data-on-large-systems/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38182712\">Comments</a>",
+    "publish_time": "2023-11-08 04:57:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "What does and doesn't matter about Apple shooting their October event on iPhone",
+    "url": "https://prolost.com/blog/scarybts",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38182869\">Comments</a>",
+    "publish_time": "2023-11-08 05:08:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "What the QWAC? an EV Certificate all over again",
+    "url": "https://scotthelme.co.uk/what-the-qwac/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38183259\">Comments</a>",
+    "publish_time": "2023-11-08 05:40:30",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
