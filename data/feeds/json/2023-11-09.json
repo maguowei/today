@@ -1505,5 +1505,76 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "中国平安已清仓碧桂园",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%B9%B3%E5%AE%89%E5%B7%B2%E6%B8%85%E4%BB%93%E7%A2%A7%E6%A1%82%E5%9B%AD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "小伙离职后驻岛当起水獭铲屎官",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E7%A6%BB%E8%81%8C%E5%90%8E%E9%A9%BB%E5%B2%9B%E5%BD%93%E8%B5%B7%E6%B0%B4%E7%8D%AD%E9%93%B2%E5%B1%8E%E5%AE%98%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "下属不听从自己的安排，作为领导，该怎么办？",
+    "url": "https://www.zhihu.com/question/629278935",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Microservices aren't the problem. Incompetent people are",
+    "url": "https://nondv.wtf/blog/posts/microservices-arent-the-problem-incompetent-people-are.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38195856\">Comments</a>",
+    "publish_time": "2023-11-09 03:43:11",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Interesting Bugs Caught by ESLint's no-constant-binary-expression",
+    "url": "https://eslint.org/blog/2022/07/interesting-bugs-caught-by-no-constant-binary-expression/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38196644\">Comments</a>",
+    "publish_time": "2023-11-09 04:41:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Understanding Dual Polarized Antenna",
+    "url": "https://www.acceltex.com/understanding-the-awesomeness-of-dual-polarized-antennas-for-high-density/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38197184\">Comments</a>",
+    "publish_time": "2023-11-09 05:16:46",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How Bad Rails Conventions Got Me a Weekend Stay with the CEO of Airbnb",
+    "url": "https://blog.josephofiowa.com/airbnb-weekend/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38196770\">Comments</a>",
+    "publish_time": "2023-11-09 04:50:57",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
