@@ -5147,5 +5147,535 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "让互联网更好造福世界各国人民",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%AE%A9%E4%BA%92%E8%81%94%E7%BD%91%E6%9B%B4%E5%A5%BD%E9%80%A0%E7%A6%8F%E4%B8%96%E7%95%8C%E5%90%84%E5%9B%BD%E4%BA%BA%E6%B0%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "孟羽童在职曾发65篇非格力产品内容",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AD%9F%E7%BE%BD%E7%AB%A5%E5%9C%A8%E8%81%8C%E6%9B%BE%E5%8F%9165%E7%AF%87%E9%9D%9E%E6%A0%BC%E5%8A%9B%E4%BA%A7%E5%93%81%E5%86%85%E5%AE%B9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "陆家嘴",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%99%86%E5%AE%B6%E5%98%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "乳腺癌 男性",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B9%B3%E8%85%BA%E7%99%8C+%E7%94%B7%E6%80%A7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "她赢了赌约 他占了便宜",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B9%E8%B5%A2%E4%BA%86%E8%B5%8C%E7%BA%A6+%E4%BB%96%E5%8D%A0%E4%BA%86%E4%BE%BF%E5%AE%9C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "胰腺癌为什么被称为癌中之王",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%83%B0%E8%85%BA%E7%99%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A2%AB%E7%A7%B0%E4%B8%BA%E7%99%8C%E4%B8%AD%E4%B9%8B%E7%8E%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "25岁女子欲离婚被丈夫割喉杀害",
+    "url": "https://s.weibo.com/weibo?q=%2325%E5%B2%81%E5%A5%B3%E5%AD%90%E6%AC%B2%E7%A6%BB%E5%A9%9A%E8%A2%AB%E4%B8%88%E5%A4%AB%E5%89%B2%E5%96%89%E6%9D%80%E5%AE%B3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "迪丽热巴 丑衣服穿出文艺感",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4+%E4%B8%91%E8%A1%A3%E6%9C%8D%E7%A9%BF%E5%87%BA%E6%96%87%E8%89%BA%E6%84%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "中山二院癌症患者家属称确实被踢出群聊",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E7%99%8C%E7%97%87%E6%82%A3%E8%80%85%E5%AE%B6%E5%B1%9E%E7%A7%B0%E7%A1%AE%E5%AE%9E%E8%A2%AB%E8%B8%A2%E5%87%BA%E7%BE%A4%E8%81%8A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "唐三葬",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%94%90%E4%B8%89%E8%91%AC%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "王安宇胡先煦意见分歧",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E8%83%A1%E5%85%88%E7%85%A6%E6%84%8F%E8%A7%81%E5%88%86%E6%AD%A7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "迪丽热巴被e人包围了",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%A2%ABe%E4%BA%BA%E5%8C%85%E5%9B%B4%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "胰腺癌发病率",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%83%B0%E8%85%BA%E7%99%8C%E5%8F%91%E7%97%85%E7%8E%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "景甜 情绪稳定的人简直就是人间宝藏",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%99%AF%E7%94%9C+%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A%E7%9A%84%E4%BA%BA%E7%AE%80%E7%9B%B4%E5%B0%B1%E6%98%AF%E4%BA%BA%E9%97%B4%E5%AE%9D%E8%97%8F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "杨超越露背紫纱裙",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E9%9C%B2%E8%83%8C%E7%B4%AB%E7%BA%B1%E8%A3%99%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "炎亚纶回应被公诉",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%85%AC%E8%AF%89%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "孙颖莎朱芊曦对练",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E6%9C%B1%E8%8A%8A%E6%9B%A6%E5%AF%B9%E7%BB%83%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "李雪琴简直就是我的互联网嘴替",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9B%AA%E7%90%B4%E7%AE%80%E7%9B%B4%E5%B0%B1%E6%98%AF%E6%88%91%E7%9A%84%E4%BA%92%E8%81%94%E7%BD%91%E5%98%B4%E6%9B%BF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "袁弘演变态真的有点怕",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%A2%81%E5%BC%98%E6%BC%94%E5%8F%98%E6%80%81%E7%9C%9F%E7%9A%84%E6%9C%89%E7%82%B9%E6%80%95%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "A股",
+    "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "成都警方通报地铁3号线打人事件",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%9C%B0%E9%93%813%E5%8F%B7%E7%BA%BF%E6%89%93%E4%BA%BA%E4%BA%8B%E4%BB%B6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "涉过愤怒的海 尺度",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B6%89%E8%BF%87%E6%84%A4%E6%80%92%E7%9A%84%E6%B5%B7+%E5%B0%BA%E5%BA%A6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "米兰球迷向多纳鲁马扔假钞",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%B1%B3%E5%85%B0%E7%90%83%E8%BF%B7%E5%90%91%E5%A4%9A%E7%BA%B3%E9%B2%81%E9%A9%AC%E6%89%94%E5%81%87%E9%92%9E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "花儿与少年",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "米兰黑客帝国tifo",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%B1%B3%E5%85%B0%E9%BB%91%E5%AE%A2%E5%B8%9D%E5%9B%BDtifo%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "“拟同意”，到底是“同意”还是“没同意”？",
+    "url": "https://www.zhihu.com/question/629182408",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "何小鹏发文再谈 AEB，称静态 AEB 会改变传统驾驶，如何看待此次隔空激辩？测试视频透露哪些信息？",
+    "url": "https://www.zhihu.com/question/629411597",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "龙珠中的王子战法为什么饱受嘲讽？",
+    "url": "https://www.zhihu.com/question/629137187",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "爱因斯坦如果不提出相对论，只算他在量子力学的贡献的话算几流物理学家？",
+    "url": "https://www.zhihu.com/question/629367832",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "《拯救大兵瑞恩》开头的抢滩登陆真的符合军事学吗？",
+    "url": "https://www.zhihu.com/question/273748436",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "猫咪自己在家，会不会孤独啊？",
+    "url": "https://www.zhihu.com/question/516334132",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "你认为高考和考研相比，哪个考试更难？",
+    "url": "https://www.zhihu.com/question/356041460",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "很好奇，为何一部分人非要使用 CPU 是基于 ARM 架构的 Windows 10 或 11？",
+    "url": "https://www.v2ex.com/t/989698",
+    "summary": "bclerdx: 很好奇，为何一部分人非要使用 CPU 是基于 ARM 架构的 Windows 10 或 11 ？<br /><br />这些使用的人，难道不知道，你使用基于 ARM 架构的 Windows 10 或 11 ，但是现在基于 ARM 架构的第三方设备的 Windows 驱动的支持性不好，或根本就没有支持马？使用基于 x86 或 x64 架构的 Windows 10 或 11 不香？",
+    "publish_time": "2023-11-08 00:27:37",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "专为开发者开发一个工具集合网站",
+    "url": "https://www.v2ex.com/t/989720",
+    "summary": "DomenicCarter: <p>本身自己在开发过程中, 就需要一个小工具集合, 网上的一些网站都不能很好地满足我的要求(基本上有些网站一个站就一个工具), 我这个站目前的模式是: 我开发过程中, 需要什么工具, 我就开发什么工具, 然后发布上去, 如果大家有什么需要的工具, 也欢迎留言, 我来加上去, 目标就是做个简约, 轻量, 移动/PC 友好的工具集合~</p>\n<p>目前有的功能: </p>\n<ul>\n<li>base64 编码 / 解码功能</li>\n<li>base64 转图片功能 / 图片转 base64 功能</li>\n<li>url encode / url decode 功能</li>\n<li>时间戳转换功能: 当前时间戳获取, 时间戳转时间, 时间转时间戳工具, 并且全部能灵活指定时间戳的格式(秒, 毫秒, 微妙, 纳秒)</li>\n<li>MD5 加密</li>\n<li>JSON 格式化</li>\n<li>JWT Decode(jwt token 解码, 查看 payload 里面的信息)</li>\n<li>搜索意图(一个使用 GPT 获取搜索意图工具, 该工具目前需要登录, 如果有需要的朋友, 登录成功后, 发邮件地址给我, 我给开通使用权限)</li>\n<li>其他大家需要的工具, 欢迎留言</li>\n</ul>\n<p>我做的小站地址: <a href=\"https://tools4dev.work/\" rel=\"nofollow\">https://tools4dev.work</a></p>\n<p>网站还在逐步完善和建设中, 有任何意见建议请提出 谢谢</p>",
+    "publish_time": "2023-11-08 08:31:25",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "广州的 it 佬们，给个建议吧",
+    "url": "https://www.v2ex.com/t/989733",
+    "summary": "chuxaidechuyong: 网上最近一直在说前端已死。导致，我本来想继续学的念头产生迷茫了。<br />其次，学历本来就是 21 年大专嵌入式的。然后今年黑马又整了个嵌入的培训班。<br />导致我现在有点犹豫了。<br /><br />我现在是走前端方向还是换赛道。<br /><br />如果是继续前端方向，那我接下来有 react 和 three 这几个要学。vue3 要做个项目练练手。之前有过 vue-element-admin 二开的经验，接触了 echart 、高德地图。小程序和 uniapp 也没怎么做过。原来的工作经验基本都是在 vue2 的基础上的。<br />如果明年出去找工作，还需要补充点什么好呢，还有就是想知道 three 到底有没有优势，大专 ok 吗<br /><br />如果换赛道，目前我知道的就有广州的粤嵌，深圳的黑马或者 B 站找资源 ，三个选择。<br />想到培训班的原因主要是，没有这个方向的经验。也是因为嵌入的东西太杂太多方向可以走了。和前后端不一样。<br />B 站上找的话，又不知道具体的学习路线和找工作需要的能力<br /><br />所有想问问老哥们，该怎么走。<br />是继续在前端耕耘，还是换赛道<br />换赛道的话，报班还是多花时间找资源",
+    "publish_time": "2023-11-08 09:13:25",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "各位第一份实习是什么？",
+    "url": "https://www.v2ex.com/t/989743",
+    "summary": "V2Micheal: 最近在某中厂实习，想看看大家第一份实习经历🤔",
+    "publish_time": "2023-11-08 09:27:20",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "3D打印概念股震荡走低，森远股份跌超10%",
+    "url": "https://www.36kr.com/newsflashes/2509234500976646",
+    "summary": "36氪获悉，截至发稿，3D打印概念股震荡走低，森远股份跌超10%，银邦股份跌逾8%，悦安新材、杰普特、华曙高科、有研粉材等跟跌。",
+    "publish_time": "2023-11-08 14:05:19",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "陈茂波：香港积极推动与大湾区内地城市的双向数据交流",
+    "url": "https://www.36kr.com/newsflashes/2509209839468545",
+    "summary": "香港特区政府财政司司长陈茂波提到，创新及科技蓬勃的生态环境，吸引了越来越多的初创公司来到香港。具体而言，人工智能和生物科技公司选择香港，由于香港在获取国际的数据信息方面不受限制，很多内地和相关行业公司都有意来港，同时很多国际公司亦希望未来可以在港存取到内地的数据。他续指，香港在中央支持下，正积极推动与大湾区内地城市双向数据交流，数据汇聚有利于不同行业发展，特别是生物医药行业。（21财经）",
+    "publish_time": "2023-11-08 14:05:26",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "北向资金净流出超50亿元",
+    "url": "https://www.36kr.com/newsflashes/2509238123757832",
+    "summary": "36氪获悉，截至发稿，北向资金净流出超50亿元，其中，沪股通净流出超27亿元，深股通净流出超31亿元。",
+    "publish_time": "2023-11-08 14:09:00",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "万分级高精度MEMS谐振式压力传感器转化应用取得新进展",
+    "url": "https://www.36kr.com/newsflashes/2509240786141193",
+    "summary": "36氪获悉，据中国航天科技集团官微，中国航天科技集团有限公司九院704所完成了万分级高精度MEMS谐振式压力传感器研制。万分级高精度MEMS谐振式压力传感器主要技术指标比传统应变式、压阻式、电容式等原理的压力传感器高1~2个数量级，且具有数字化输出、抗干扰、长寿命和抗辐照等优点，技术指标、稳定性、可靠性和环境适应性均达到国际先进水平。目前，该产品已应用于航天发动机压力监测、航空大气数据系统等领域。",
+    "publish_time": "2023-11-08 14:11:43",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "日本上半年出生35.2万人，同比减少4.1%",
+    "url": "https://www.36kr.com/newsflashes/2509244162883848",
+    "summary": "日本厚生劳动省7日公布的人口动态统计（概数）数据显示，2023年上半年（1～6月）新生儿数量较上年同期减少4.1%，为352240人。该统计不同于8月公布的速报值，不包含外国人等。少子化加速的趋势若不发生改变，2023年全年的出生数可能为70万人左右。据分析，不婚人数增多以及晚婚化是背后原因。（财联社）",
+    "publish_time": "2023-11-08 14:15:09",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "CINNO：三季度全球AMOLED手机面板出货量约1.8亿片，同比增长29.6%",
+    "url": "https://www.36kr.com/newsflashes/2509254082691074",
+    "summary": "在旺季效应的带动下，第三季度AMOLED智能手机面板需求明显增长。根据CINNO Research统计数据显示，2023年第三季度全球市场AMOLED智能手机面板出货量约1.8亿片，同比增长29.6%，环比增长25.1%，同比、环比双增长。其中，柔性AMOLED智能手机面板占比近八成，同比上升4.0个百分点。（智通财经）",
+    "publish_time": "2023-11-08 14:25:15",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "合源生物：首个中国原研CD19 CAR-T产品源瑞达（纳基奥仑赛注射液）获批上市",
+    "url": "https://www.36kr.com/newsflashes/2509258405429506",
+    "summary": "36氪获悉，据合源生物官微，国家药品监督管理局（NMPA）已正式批准公司免疫细胞CAR-T治疗产品源瑞达®（纳基奥仑赛注射液  Inaticabtagene Autoleucel Injection，CNCT19细胞注射液）的新药上市申请（NDA），用于治疗成人复发或难治性B细胞急性淋巴细胞白血病（r/r B-ALL）。据介绍，纳基奥仑赛注射液是首款具有中国全自主知识产权CD19 CAR-T细胞治疗产品，也是首款中国白血病治疗领域CAR-T细胞治疗产品。",
+    "publish_time": "2023-11-08 14:29:38",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "马斯克称SpaceX明年将每两天发射一次火箭",
+    "url": "https://www.36kr.com/newsflashes/2509260963496197",
+    "summary": "马斯克在社交平台X上发帖称，他的SpaceX公司目前平均每三天发射一次火箭，预计明年将每两天发射一次。这意味着SpaceX明年平均每月将发射15次，全年发射180次。（新浪财经）",
+    "publish_time": "2023-11-08 14:32:14",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "港股中国平安盘中跳水，跌超5%",
+    "url": "https://www.36kr.com/newsflashes/2509263365341449",
+    "summary": "36氪获悉，截至发稿，港股中国平安盘中跳水，跌超5%。",
+    "publish_time": "2023-11-08 14:34:41",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "抖音电商推出图文免佣 “学霸图文笔记”",
+    "url": "https://www.36kr.com/newsflashes/2509269167620353",
+    "summary": "为助力商家创作图文好内容，收获更多免佣，抖音电商平台近日推出“图文免佣考试学霸笔记”。据了解，笔记从画面、文案、音乐三个维度入手，详细拆分如何做好画面、写好文案、用好音乐，教商家做出优质图文。此外，笔记还在营销专业度、安全层面内容给出指导。",
+    "publish_time": "2023-11-08 14:40:35",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "中国平安发声明回应路透社不实报道",
+    "url": "https://www.36kr.com/newsflashes/2509270391586821",
+    "summary": "中国平安保险（集团）股份有限公司注意到路透社发布的一篇有关本公司被有关政府部门/机构要求收购碧桂园控股有限公司并承继其债务的新闻报导。公司严正声明，该报道完全与事实不符，公司从未收到任何有关政府部门/机构的相关要求。此前，公司在收到相关问讯时，已书面向路透社作出澄清，但路透社仍执意发布相关的不实报道，公司对此深表遗憾。（券中社）",
+    "publish_time": "2023-11-08 14:41:50",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "主力尾盘持续加仓传媒板块，抛售非银金融板块",
+    "url": "https://www.36kr.com/newsflashes/2509274457227529",
+    "summary": "主力资金尾盘持续净流入传媒、计算机、医药生物等板块，净流出非银金融、有色金属、银行等板块。具体到个股来看，四川长虹、北汽蓝谷、神州数码获净流入18.10亿元、12.33亿元、8.79亿元。净流出方面，欧菲光、太平洋、万华化学分别遭抛售3.97亿元、3.89亿元、3.81亿元。（第一财经）",
+    "publish_time": "2023-11-08 14:45:58",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "沪深两市成交额突破1万亿元",
+    "url": "https://www.36kr.com/newsflashes/2509281871986950",
+    "summary": "36氪获悉，截至发稿，沪深两市成交额突破1万亿元。",
+    "publish_time": "2023-11-08 14:53:31",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "A股三大指数收盘涨跌不一",
+    "url": "https://www.36kr.com/newsflashes/2509289949298691",
+    "summary": "大金融走弱，方正证券跌超4%，太平洋跌超3%，中国平安跌超1%；贵金属、化工跌幅居前，游戏、影视领涨；沪指跌0.16%，深成指跌0.04%，创业板指涨0.02%；北向资金净流出37.1亿元。",
+    "publish_time": "2023-11-08 15:01:44",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "阿里云CTO周靖人：API和模型级别开放大模型能力，做to C 产品不是目标",
+    "url": "https://www.infoq.cn/article/zptXlfRaUrtvBoE8bYmu",
+    "summary": "<p>10月31日，阿里云正式发布千亿级参数大模型通义千问2.0。官方数据显示，在10个权威测评中，通义千问2.0综合性能超过GPT-3.5，正在加速追赶GPT-4。此外，阿里云还发布了智能编码助手通义灵码等行业应用大模型。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/cc/cc23cc39efb9acd3e61f3863210bbba1.jpeg\" /></p><p>&nbsp;</p><p>针对阿里云的大模型策略，阿里云CTO周靖人在接受记者采访时表示，“我们的目标并不是做toC的产品，而是希望更多地把模型的能力开放出来，让更多开发者、合作伙伴使用。”</p><p>&nbsp;</p><p>据周靖人介绍，阿里云的定位是“服务好各种各样在AI时代的创业者、开发者和企业客户等。通过多层技术能力，包括AI基础设施、模型等能力，最好地支持开发者和客户，帮助他们解决在创业、落地、创新等方面的问题。”</p><p>&nbsp;</p><p>具体来讲，模型创业公司希望使用到最先进的AI基础设施；企业客户希望将开源模型与自己产品做二次结合，这类产品包括通义千问等开源模型、帮助企业做模型定制的阿里云百炼等；还有关注业务系统的开发者，通过简单的API集成到自己业务体系中。</p><p>&nbsp;</p><p>周靖人表示，这次AI技术变革的实质是一次技术体系的全面升级。对云计算来说，主要包括以下纬度：第一，系统优化，即如何利用模型能力优化复杂庞大的分布式系统，让它真正变成一个“自动驾驶的云”；第二，用模型帮助提升开发效率，即让用云这件事本身变得更加智能；第三，以模型为中心打造最好的AI基础设施，提供低成本、一站式的模型训练、微调、推理等服务。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/9f/9f74a49d11d71efa482b001ac1473b48.jpeg\" /></p><p>&nbsp;</p><p>“而云厂商既要懂AI，又要懂云计算，才能在这次竞争里取得一个重要的战略性优势。”周靖人表示。具体来说，云厂商要做的事情就是让用户以更低的成本使用模型来提供服务。</p><p>&nbsp;</p><p>“今天基础设施的目标，特别是模型推理方面，不单是提升延迟等各个方面的性能，同时还要能够降低使用成本。在这方面，我们还有大量的工作需要做。”周靖人表示，阿里云不是简单开发界面的开放，而是API级别、模型级别的开放。用户可以借这些产品发挥更大的想象空间，做更多业务的创新。</p><p>&nbsp;</p><p>周靖人呼吁，大家要给这个领域一些时间。“毕竟从国内来讲，整个产业的变化是从今年开始的，甚至到了3、4月份，大家才陆陆续续发模型。在这方面，我们的确比海外要晚，海外拥有至少一年的先发优势，甚至更长的时间。”</p><p>&nbsp;</p><p>不过，周靖人表示，国内也在快速地追赶中。短短半年时间内，国内模型生态已经慢慢发展起来了。模型的生态发展起来，一定代表了算力发展得起来。</p><p>&nbsp;</p>",
+    "publish_time": "2023-11-08 12:17:25",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "“2023深圳国际金融科技大赛暨微众银行2024校园招聘宣讲会”走进深大：AI、区块链、产品经理的未来在何方？",
+    "url": "https://www.infoq.cn/article/NjkLsroBG4rfmaAYdu13",
+    "summary": "<p>在金融科技发展的过程中，人才培养是举足轻重的关键一环。为了推进深圳市金融科技人才高地建设工作，并向高校学子提供一个展示自身知识、能力和创意的平台，深圳大学微众银行金融科技学院与微众银行联合举办了“<a href=\"https://www.infoq.cn/news/9AYU96ZSPoCZ6kyClK94\">2023 深圳国际金融科技大赛（FinTechathon）——西丽湖金融科技大学生挑战赛</a>\"”（下文称“大赛”）。</p><p></p><p>在本次大赛赛程中，大赛组委会特别设置了技术公开课以让同学们更加了解大赛及人工智能、区块链、金融产品经理的发展现状。继 10 月 25 日<a href=\"https://www.infoq.cn/article/ZKeta6LLZD97sHwPv2UC\">第一场线上技术公开课</a>\"圆满开课，为了让同学们能够更直接、更近距离地了解大赛内容，11 月 3 日，大赛组委会联动微众银行人力资源部门共同走进<a href=\"https://www.infoq.cn/video/atB6FuOvpIQGQPWLX0Eo\">深圳大学</a>\"，在线下组织了一场 2023 深圳国际金融科技大赛的第二场技术公开课暨微众银行 2024 校园招聘宣讲会。此次活动将金融科技大赛、企业招聘和高校教育结合在一起，形成了一个良好的产学研合作模式，将高校培养成果嫁接至高质量人才输送链路之中，为学生提供实践和就业的机会的同时，将学术成果有效转化为实际产业解决方案。</p><p></p><p>本次宣讲会邀请到了深大微众金融科技学院党委书记刘山海书记、深大微众金融科技学院院长助理祁涵及微众银行的多位专家来到现场，围绕大赛赛题、赛制和微众银行 2024 校招内容展开宣讲。以下为本期公开课直播精华内容整理：</p><p></p><p></p><h2>一、深大微众金融科技学院院长助理祁涵再次介绍大赛规则及流程</h2><p></p><p></p><p>2023 深圳国际金融科技大赛—— 西丽湖金融科技大学生挑战赛致力于推动国内外高校学生探索金融科技领域的技术应用创新，促进政、学、企三方交流，全面提高学生的创新能力、实践能力和就业竞争力。</p><p>作为 2023 年深圳市金融科技节的重要一环，本届大赛在深圳市地方金融监督管理局、深圳市福田区人民政府、深圳市南山区人民政府战略指导下，由深圳大学、微众银行、深圳香蜜湖国际金融科技研究院等多方联合举办。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/b2/b2f51f27c732fb8f013d743bc29fb043.png\" /></p><p></p><p>本届大赛将通过初赛、复赛在各赛道分别遴选出 10 支队伍进入决赛角逐，并设置总额超过 69 万人民币的赛事奖金及参赛专属区块链数字证书，以奖励各赛道获得一等奖、二等奖、三等奖的队伍及成员。此外，本次大赛还邀请了学术和企业界的众多资深专家为参赛选手答疑解难——特邀国家统计局原副局长许宪春、微众银行首席智能官杨强、中国人民银行研究局原局长张健华等担任学术顾问，评委嘉宾来自微众银行及国内各大顶尖高校。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/f5/f52bd2e8110a8dbb969698a29a8a0175.png\" /></p><p></p><p>据祁涵介绍，本届大赛所有参赛队员必须是全日制在校大学生（包括本科生、研究生和博士生），须以团队形式参赛，每支队伍人数 2~5 人，每人只能参加一支队伍，必须要独立完成题目，最后产品的知识产权归参赛选手所有，大赛不收取任何报名费用，决赛期间的队伍食宿及往返交通费用由组委会统一安排。</p><p></p><p></p><h2>二、微众银行区块链高级架构师周禄：区块链赛道高分秘籍</h2><p></p><p></p><p>周禄在宣讲最开始就强调，区块链赛道的参赛项目需要基于 FISCO BCOS 平台及微众区块链系列开源技术设计并开发一个区块链系统，以解决 ESG 相关的某个行业或场景的痛点或问题。具体来说，选手可以将区块链技术应用于大湾区一体化、双碳、乡村振兴、公共服务等 ESG 领域。过往赛事中，有一些作品的创意就非常值得参考。比如 2019 年大赛区块链赛道第一名作品就基于 FISCO BCOS 构建了一个排污权许可区块链交易平台，配合交易纠纷仲裁、黑名单、监督审计等链上机制，健全、活化市场，实现企业、政府、公众在环保排污上的三权制衡、多元共治，以辅助排污政策制定，共建污水治理生态循环。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/86/861dcbc86a0af420dde7ecfcff970638.png\" /></p><p></p><p>2020 年区块链赛道第二名作品 WeHelp 则基于微众银行社会治理框架“善度”，使用区块链底层平台 FISCO BCOS、分布式身份解决方案 WeIdentity 等区块链技术，加速求救与救援的匹配。项目还采用可共享的分布式账本记录善行，保证数据公信力，解决求助过程中的信任问题。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/b2/b2221f7277edb82f51bb676863e5ccf9.png\" /></p><p></p><p>2021 年区块链赛道第三名作品《亿点爱》旨在通过区块链构建公益众筹平台，利用隐私保护技术实现安全可信存储，保护用户个人隐私的同时，有效预防虚假筹款和善款被挪用等问题，以此促进互联网公益行业健康有序地发展。</p><p></p><p>周禄总结了上述获奖作品的特点第一就是应用方向符合 ESG 命题，其次就是充分理解了区块链的特性，并融入应用场景；以上述获奖作品为参考，周禄继续讲解了本届大赛中获得高分的锦囊。</p><p></p><p>参赛作品要赢得评委青睐，首先要选择适合区块链应用场景的正确方向。ESG 指环境、社会和治理，其本质是一种价值观，鼓励企业更多重视财务数据以外的贡献，在保护环境、有利社会和加强治理方面创造价值。而区块链是传递信任的机器，可以大幅降低信任成本；同时区块链可以保护隐私，避免个人数据泄露；区块链还是激励相容的，很容易设计激励机制；区块链的交易记录可全程追溯、可信可验证，这也是它的一大优势。而正是因为具备了这些特性，区块链技术很适合用于 ESG 实践。</p><p></p><p>此外，周禄还为同学们讲解了开发区块链应用的基本步骤。区块链应用的架构包括了用户、分布式应用 DAPP、服务接口 API、智能合约和底层平台，其中 DAPP 可以是命令行、网页、手机或 PC 应用，通过接口和平台通信；服务接口采用通用 JSON 格式 RPC 调用；智能合约采用 Solidity 语言编写；底层平台包含网络、共识、加密和存储等模块。</p><p></p><p>同学们在开发区块链应用时，可以首先使用大赛官方提供的快速建链工具搭建区块链，然后使用业务模版开发 Solidity 合约，并通过交互式控制台的 SDK 部署合约，使用 SDK 开发业务，通过 RPC 协议交互，这里的交互语言没有限制。最后部署业务系统，发起查询和上链交易。这些工作要在团队内分工合作，提高效率。</p><p></p><p>参赛选手要善用各类区块链组件，微众区块链全部开源，提供了众多组件供公众使用。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/97/97690f91de649a76fe37f04bb4e68101.png\" /></p><p></p><p>大赛官方还提供了大量代码仓库（https://github.com/FISCO-BCOS/FISCO-BCOS），包含很多参考 demo 和开源项目，选手可以直接克隆研究。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/68/68870ba93cf861429ca6fa9a514a8e81.png\" /></p><p></p><p>官方的黑客松目录收集了基于 FISCO BCOS 开发的，参与各种大赛的优秀案例，包括每个案例的项目介绍、设计文档、源代码等，供选手参考。周禄推荐各位选手充分利用上述资源，在比赛中取得佳绩。</p><p></p><p></p><h2>三、微众银行个人直通银行部室经理金虎光：银行线上场景的交互式智能柜台服务</h2><p></p><p></p><p>本届大赛产品经理赛道的赛题是《银行线上场景的交互式智能柜台服务》，金虎光在解析赛题时表示，参赛选手应当基于对话式交互的应用进行银行产品方案设计，实现对客户全场景的陪伴式交互，为客户提供智能、便捷、懂用户、有温度的线上银行服务（可选择微众银行 APP、微众银行 We2000 小程序或其他银行产品作为产品框架进行设计）。设置该赛题的背景是银行业传统的线下柜台服务帮助实现银行职员与客户之间的互动，可以处理较为复杂和个性化的问题，更容易发展信任关系，但由于网点服务存在地点和工作时间限制服务效率比较低。近年来兴起的银行线上远程服务则希望通过各种技术手段为客户带来随时随地、方便快捷的体验，同时尽可能做到像线下一样可以处理复杂、个性化的问题。从电话银行到网上银行、银行 APP 再到虚拟数字人服务，银行正在努力将线上数字银行打造成新的增长点，提升金融服务体验和质量，提升客户经营质效。</p><p></p><p>如今各家银行的线上服务都已经包括了几乎所有银行服务功能，但随着功能指数级增长，客户的线上交互也变得非常复杂。每家银行都有多个 APP，如何让客户更方便地找到所需功能是银行面临的普遍挑战。金虎光提到，评委们希望看到参赛选手的创新想法，展现出如何在功能、场景、信息繁多的背景下让用户更加便捷地体验线上银行服务。</p><p></p><p>最近火热的生成式 AI 技术可以贯穿从市场、销售到运营、研发、风控的所有银行服务，带来许多创新性的体验。金虎光建议选手可以选择某一个垂直场景或服务，或基于一揽子服务模式来利用生成式 AI 改进交互形式。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/11/1128d3ad32ef06751999b20f30492ff8.png\" /></p><p></p><p>例如作品可以为投资小白用户基于生成式 AI 技术分析、总结投研报告，辅助投资决策。选手还可以参考智能投顾、智能客服、远程面签等技术和场景拓展思路，发挥创意。例如招行 APP 左上角的小猫就会根据用户行为提供实时建议，APP 中的 AI 小招机器人则利用数字人模式提供了智能财富管理顾问服务；百信银行则探索利用虚拟空间模式服务线上用户等等。</p><p></p><p>微众银行也在做相关探索。例如用户可以在微众银行 APP 中与虚拟小 weiWE 机器人对话获得服务，或者使用微众银行小程序快速完成操作。金虎光建议，参赛同学可以选择微众银行 APP 或小程序，亦或是任何自己熟悉的银行 APP 作为底层框架来设计作品。</p><p></p><p>针对产品经理赛道的参赛规则，金虎光也做了详细解读。本赛道中，评委主要考虑以下四个维度为作品打分：</p><p>创新性：参赛作品具备创意亮点，用新思维解决现有问题，或探索新的行业模式，有望开拓新的产业运作模式，市场空间等。商业价值：参赛作品所面向的场景和用户有一定代表性，且作品能够很好地结合实际应用场景解决所描述场景痛点；参赛作品有良好的社会价值，运作合法合规，或具备一定商业价值、成长性和可持续性，值得规模化推广。完整性及可行性：进行有效的竞品、市场及用户分析，并总结产品相对竞品的优劣势、可借鉴及可创新之处，了解用户需求，针对用户痛点提出对应解决方案；有完整的产品设计方案，包括设计背景、产品流程、功能模块说明等，产品架构设计完整，产品流程可形成闭环。技术先进性：可清晰阐述使用的技术，技术有一定先进或创新性。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/b9/b9b56b49f06ebd08c59291ac2eb5f881.png\" /></p><p></p><p>同时还需要注意的是，参赛作品一定要“有需求、有场景”，同时技术是可落地的，尤其要避免创意大而空的问题，要注重实际的创意内涵。与此同时，因为银行的金融交易非常关注安全性，所以作品一定要考虑必要的安全、核身和信息保护环境，理解银行产品背后的相关设计。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/56/56908a6e25ce3a93ec23fa9448cbfc54.png\" /></p><p></p><p>金虎光还提醒同学们，参赛作品需提供完整的产品设计文档，建议包括市场及竞品分析、用户调研、产品分析和产品设计说明。初赛需提供产品设计文档（Doc 格式），复赛和决赛还需提供作品展示文档（PPT 格式）。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/f5/f5f39f7ae9b9a27d9dcdc5174809e6e1.png\" /></p><p></p><p></p><h2>四、微众银行人工智能资深研究员、FATE 开源社区技术委员会成员范涛：人工智能赛道讲解</h2><p></p><p></p><p>范涛首先介绍了基于微众人工智能技术开源的 FATE 项目。这是目前国内最大的联邦学习开源项目和社区之一。FATE 不仅提供了底层框架，还提供了很多应用组件。选手须基于该平台构建人工智能产品，可以充分利用 FATE 提供的各类算法和组件。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/5d/5ddedbc44d28162945c216cfdc791716.png\" /></p><p></p><p>本赛道命题为开放式，作品可基于 AI 联邦学习开源平台 FATE，设计纵向联邦学习、横向联邦学习或者联邦大模型创新性产品或算法，包括并不限于联合风控，联合营销，智能权益定价，数据交易定价等场景。项目须使用 FATE 开源技术实现，选手须将实现代码提交至 Github 供评委考核。评委基于作品的产品实现完备性、创新性和商业价值打分：</p><p>产品实现完备性占 40% 分数，考察作品在技术层面的复杂度和实现完成度。完备性包括可行性分析、方案设计文档、代码实现、测试报告等方面。创新性占 40% 分数，考察作品在设计层面的新颖度。创新性包括但不限于全新的场景痛点，用新的算法或技术手段，有效综合利用多个技术组件从而产生新的效能。商业价值考察作品在人工智能领域中的综合价值。综合价值包括但不限于作品与实际产业的贴合度、是否有效解决真实行业痛点、是否有效地发挥了联邦学习的实用价值等。</p><p></p><p>选手须组队参赛，个人可先报名，由平台协助组队；初赛作品于 11 月 27 日截止提交，包含作品介绍（PPT 格式）、技术文档（Doc 格式）、作品展示材料（包括但不限于作品部分 demo 或演示视频等）。12 月 5 日大赛公布决赛入围名单，16-17 日在深圳举办线下 36 小时封闭马拉松，选手对初赛提交作品进行开发和完善，并做现场路演答辩。</p><p></p><p>除了赛程相关的信息，范涛还向同学们解读了横向联邦学习、纵向联邦学习和联邦大模型三大技术栈：</p><p>横向联邦学习是指每个终端都有一些同质数据，但每一方都有数据隐私保护需求，仅靠自己的数据不足以构建较好的模型，所以希望综合多方数据构建模型，本质上是扩充数据样本来提升模型效果和稳健性的方法，适用于参与者数据特征重叠较多，而样本 ID 重叠较少的情况。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/82/821713d23a19373d8feb8a34f18024ff.png\" /></p><p></p><p>纵向联邦学习在金融领域应用非常广泛。它通过引用第三方数据与金融数据结合来提升风控、营销等场景的效果，本质上是通过扩充特征维度来提升模型效果，适用于参与者样本重叠较多的情况。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/15/157d0219eec8cfabb4b7fa7e65d3c274.png\" /></p><p></p><p>大模型技术与联邦迁移学习有很多结合点，后者也是大模型领域的新兴范式。通过联邦迁移学习，大模型可以和本地私有数据结合，成为适合本地数据的中小模型。该课题是本届大赛的新增部分，范涛推荐选手关注。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/9e/9ef4d47d97602fb405fcfbfaef48c6a8.png\" /></p><p></p><p>范涛最后介绍了 2022、2020、2019 年人工智能赛道名列前茅的一些作品，他希望参赛选手参考这些优秀案例，设计出令人称赞的高分作品：</p><p>2022 年：一等奖作品是面向真人体验感知的系统，通过横向联邦学习场景综合多人信息去做感知应用；二等奖作品是将联邦学习应用于工业智能，如火焰检测、工业设备缺陷检测等场景；三等奖作品是纵向联邦学习应用于电网的场景。2021 年：一等奖作品是心理健康预测监控系统，综合用户的文本、图像、社交媒体数据心理健康行为预测平台；二等奖作品是基于 FATE 构建的联邦营销一站式平台，可以综合多企业数据来做更精准的营销。三等奖作品横向联邦场景来做保险经纪人，通过 F ATE 平台保护用户隐私。2019 年：一等奖作品是横向联邦学习场景，通过车载行为数据对车险定价；二等奖作品基于联邦做了联邦图形预算法，联合多个银行的交易网络，在不泄露隐私数据的前提下预测欺诈用户；三等奖作品是基于联邦学习平台做个人数据定价，形成新的数据交易模式。</p><p></p><p></p><h2>五、写在最后</h2><p></p><p></p><p>除了以上干货内容，深大微众金融科技学院党委书记刘海山书记在本次宣讲会开场时就为同学们加油鼓气。刘书记希望参赛学生能够积极探索金融科技领域的技术应用创新，将创新成果转化为实际应用，向金融科技行业提供更有价值的技术解决方案，为深圳乃至全国的金融科技发展贡献力量。</p><p></p><p>在本次宣讲会的校招环节，微众银行零售存款部总经理邢海鹏整体介绍了微众银行的业务和技术。据其介绍，微众银行是全国首家数字银行，2019 年与深圳大学合作成立了深大微众金融科技学院。微众银行在 IT 方面的投入营收占比超过了 9%，科技人员占比超过 50%，微众银行在 AI、区块链、云计算、大数据等方面都有大量投入，并取得了一系列行业领先的成果。</p><p></p><p>微众银行人力资源部室资深经理杨帆详细介绍了微众银行的人才结构——银行员工平均年龄 33 岁，本科及以上学历超过 99%，人才来源也非常多元化。校招生身份入职的微众银行的同学，可以获得专属“私塾学习计划”，并为校招生设置了一年的培养期。</p><p></p><p>2024 年微众银行校园招聘主要分为技术研发、数据算法、产品业务、综合职能、财富管理五大类别，具体的招聘详情可以根据下列途径进行了解 ↓</p><p><img src=\"https://static001.infoq.cn/resource/image/96/fb/96ee25124fde526ded7913138c2199fb.png\" /></p><p></p>",
+    "publish_time": "2023-11-08 13:58:46",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "Antidepressants or Tolkien",
+    "url": "https://antidepressantsortolkien.vercel.app/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38186190\">Comments on Hacker News</a> | <a href=\"https://antidepressantsortolkien.vercel.app/\">Source</a>",
+    "publish_time": "2023-11-08 02:53:20",
+    "source": {
+      "name": "hackernews_best",
+      "desc": "Hacker News Best",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Government Surveillance Reform Act of '23 Seeks to End Warrantless Police Spying",
+    "url": "https://www.wired.com/story/government-surveillance-reform-act-2023/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38185720\">Comments</a>",
+    "publish_time": "2023-11-08 09:48:11",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
