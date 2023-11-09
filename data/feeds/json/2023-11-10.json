@@ -1650,5 +1650,76 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "苹果京东更便宜",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E4%BA%AC%E4%B8%9C%E6%9B%B4%E4%BE%BF%E5%AE%9C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "有什么大家都不知道的动物冷知识？",
+    "url": "https://www.zhihu.com/question/387598947",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "你可以接受自己的孩平庸吗？",
+    "url": "https://www.zhihu.com/question/629161655",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美股三大指数集体收跌，热门中概股普跌",
+    "url": "https://www.36kr.com/newsflashes/2511629114867713",
+    "summary": "36氪获悉，11月9日收盘，美股三大指数集体下跌，道指跌0.65%，纳指跌0.94%，标普500指数跌0.81%。大型科技股多数下跌，特斯拉跌超5％，谷歌、亚马逊跌超1％，微软跌0.69％，Netflix跌0.34％，苹果跌0.26％，Meta涨0.24％。热门中概股普跌，微博、蔚来跌超5％，理想汽车、名创优品跌超4％，京东、阿里巴巴、百度跌超2％，小鹏汽车、拼多多跌超1％。",
+    "publish_time": "2023-11-10 07:00:00",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Doctors complete first successful face and whole-eye transplant",
+    "url": "https://www.scientificamerican.com/article/doctors-complete-first-successful-face-and-whole-eye-transplant/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38209680\">Comments</a>",
+    "publish_time": "2023-11-10 03:25:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The 20 Farming Families Who Use More Water from Colorado River Than Some States",
+    "url": "https://projects.propublica.org/california-farmers-colorado-river/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38212223\">Comments</a>",
+    "publish_time": "2023-11-10 06:22:39",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "On medieval cats",
+    "url": "https://going-medieval.com/2023/05/16/on-cats/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38211383\">Comments</a>",
+    "publish_time": "2023-11-10 05:11:48",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]

@@ -682,5 +682,14 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "苹果京东更便宜",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E4%BA%AC%E4%B8%9C%E6%9B%B4%E4%BE%BF%E5%AE%9C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
