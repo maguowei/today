@@ -1,0 +1,13 @@
+[
+  {
+    "title": "DoorDash重构多层缓存系统，提高性能并解决碎片化问题",
+    "url": "https://www.infoq.cn/article/lFbaXCiRFqWOPgstNZHi",
+    "summary": "<p>DoorDash重构了他们在所有微服务中使用的异构缓存系统，<a href=\"https://doordash.engineering/2023/10/19/how-doordash-standardized-and-improved-microservices-caching/\">创建了一个通用的多层缓存</a>\"，提供了一种通用的机制，解决了因采用碎片化缓存所带来的诸多问题。</p><p>&nbsp;</p><p>缓存是一种常用的机制，不需要进行成本高昂的优化就可以提升系统的性能。DoorDash工程师Lev Neiman和Jason Fan解释说，这在DoorDash的场景中尤为重要，因为对他们来说，实现业务逻辑比优化性能更重要。</p><p>&nbsp;</p><p>遗憾的是，DoorDash的不同团队使用了不同的缓存系统，包括<a href=\"https://github.com/ben-manes/caffeine\">Caffeine</a>\"、<a href=\"https://redis.io/\">Redis Lettuce</a>\"和HashMap。这也意味着他们会一次又一次地经历和解决同样的问题，比如缓存过期、严重依赖Redis、键模式不一致等。出于这个原因，DoorDash的一个工程师团队开始为他们所有的微服务创建一个共享缓存库，从DashPass开始，这是一个由于流量增加而面临扩展挑战和频繁故障的关键服务。</p><p>&nbsp;</p><p>第一步是基于两个Kotlin接口定义一个公共API：CacheManager，为特定的键类型和回退方法创建新的缓存；CacheKey类，对键类型进行抽象。</p><p></p><p></p><blockquote>这让我们可以使用依赖注入和多态性在后台注入任意逻辑，同时保持业务逻辑缓存调用的统一性。</blockquote><p></p><p>&nbsp;</p><p>在尽力保持缓存简单的同时，DoorDash工程师选择了一种包含三层的多层设计，进一步提高性能优化的可能性。第一层称为请求本地缓存，数据驻留在哈希映射中，其生存期受请求约束。第二层为本地缓存，使用Caffeine在同一Java虚拟机的所有工作线程之间共享数据。第三层是Redis缓存，同一Redis集群中的所有pod都可以使用Redis Lettuce访问。</p><p>&nbsp;</p><p>这个多层缓存系统的一个重要特性是运行时控制，每个层都有，可以打开或关闭缓存，设置缓存生存时间（TTL）或是影子模式（在这种模式下，会将一定比例的缓存请求与真实来源进行比较）。此外，缓存系统还支持指标收集，包括命中和未命中、缓存延迟和日志记录。</p><p>&nbsp;</p><p>在缓存系统准备就绪并在DashPass中达到预期效果后，他们就把它逐步推广到组织的其他部门，并就何时使用、如何使用或者是何时不使用提供明确的指导。</p><p>&nbsp;</p><p>根据Neiman和Fan的说法，新的缓存系统提高了他们所有服务的可扩展性和安全性，同时也方便了团队在必要时采用缓存来提高性能。</p><p>&nbsp;</p><p>&nbsp;</p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2023/10/doordash-multilayered-cache/\">https://www.infoq.com/news/2023/10/doordash-multilayered-cache/</a>\"</p>",
+    "publish_time": "2023-11-10 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
