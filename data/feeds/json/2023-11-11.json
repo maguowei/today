@@ -1077,5 +1077,81 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "第3年双十一NO.1的卫生巾",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%AC%AC3%E5%B9%B4%E5%8F%8C%E5%8D%81%E4%B8%80NO.1%E7%9A%84%E5%8D%AB%E7%94%9F%E5%B7%BE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Bin x 酷风 携手冲冠",
+    "url": "https://s.weibo.com/weibo?q=%23Bin+x+%E9%85%B7%E9%A3%8E+%E6%90%BA%E6%89%8B%E5%86%B2%E5%86%A0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "对陈楚生独唱直到世界尽头的执念",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AF%B9%E9%99%88%E6%A5%9A%E7%94%9F%E7%8B%AC%E5%94%B1%E7%9B%B4%E5%88%B0%E4%B8%96%E7%95%8C%E5%B0%BD%E5%A4%B4%E7%9A%84%E6%89%A7%E5%BF%B5%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "你常喝一点点奶茶吗",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%B8%B8%E5%96%9D%E4%B8%80%E7%82%B9%E7%82%B9%E5%A5%B6%E8%8C%B6%E5%90%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "「国内唯一满级滑雪女教练在滑雪场不幸身亡」，具体事故原因是什么？哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/629699797",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "在大荧幕看宫崎骏动画电影《红猪》是什么感受？",
+    "url": "https://www.zhihu.com/question/629712783",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Zuckerberg 'vetoed,' 'ignored' plans to boost teen well-being on Meta platforms",
+    "url": "https://thehill.com/policy/technology/4302145-zuckerberg-vetoed-teen-mental-health-facebook-instagram/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38221954\">Comments</a>",
+    "publish_time": "2023-11-11 01:46:08",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Don't Build AI Products the Way Everyone Else Is Doing It",
+    "url": "https://www.builder.io/blog/build-ai",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38221552\">Comments</a>",
+    "publish_time": "2023-11-11 01:20:08",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
