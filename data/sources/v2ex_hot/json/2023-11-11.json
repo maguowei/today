@@ -1,0 +1,68 @@
+[
+  {
+    "title": "买了个阿里云香港突发性能实例 t6 ecs，硬盘 io 导致总是卡",
+    "url": "https://www.v2ex.com/t/990849",
+    "summary": "keepRun: <p>我从最初的高效云盘升级到 ESSD PL0 ，我发现 ECS 的 IO 是真的坑爹，完全不能挂载为虚拟内存用，一旦系统使用硬盘作为虚拟内存，直接系统卡死好几分钟，只能强行关机重启。\n用 hdparm 测试硬盘速度：</p>\n<pre><code>hdparm -Tt --direct /dev/vda3\n\n/dev/vda3:\n Timing O_DIRECT cached reads:   326 MB in  2.02 seconds = 161.44 MB/sec\n Timing O_DIRECT disk reads: 430 MB in  3.01 seconds = 142.82 MB/sec\n</code></pre>\n<p>速度是这样，我感觉这也太坑爹了吧，这不是机械硬盘的速度吗？ IOPS 给的是 2k 。</p>\n<p>我用 docker 安装个 flask 、docker 启动 mysql 、docker compose 关闭 mysql 时不时就整个系统卡死，只能强行停止系统，然后重启，已经好几次了。每次系统卡死看云盘监控都是 IO 达到极限。</p>\n<p>我觉得很奇怪，我的机器是 2 核 1G 内存，我就 docker 启动个 mysql 都能给我整除整个系统卡死的问题，这 IO 也太差劲了吧。一开始我以为是内存问题，从 512m 加到 1G ，还是会出现卡死是系统 IO 打满情况；对比我在搬瓦工卖的 512m 1 核的小机器，我直接分了 1G 作为 swap 空间，跑同样的 docker compose 服务完全没问题，从未出现整个系统卡死情况，这阿里云的 ecs 咋就这么不争气？</p>\n<p>dockerfile 环境：mysql:8.0.35,python 安装的依赖：</p>\n<pre><code>Flask==3.0.0\npillow-avif-plugin==1.4.1\npillow-heif==0.13.1\nPillow~=10.1.0\n</code></pre>\n<p>我查了好几次到底是啥问题，头都大了，发现最大可能就是这羸弱的 IO 导致，一开始我还用 swap ，后来开都不敢开，但是系统好像自动在内存不足时会用硬盘当 swap 空间，我已经打开了 ecs 的无性能约束模式。</p>\n<p>原本我想用这台阿里云 ecs 跑 java spring 项目+python flask+openresty+mysql ，结果光一个 mysql 就偶现让 ecs 卡死，我想问下各位我这种情况正常吗？阿里云硬盘 IO 这正常吗？我如果想自己搭建个 mysql 应该配个怎样的服务器</p>",
+    "publish_time": "2023-11-11 07:56:22",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "一加是小米的平替吗?",
+    "url": "https://www.v2ex.com/t/990857",
+    "summary": "sofukwird:",
+    "publish_time": "2023-11-11 09:15:53",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "Apple TV 4K 128 GB（海外自营）京东 PLUS 用户 1161 元",
+    "url": "https://www.v2ex.com/t/990858",
+    "summary": "Davic1: <p>叠加京豆和信用卡减免，最终到手 1001.81 元。</p>\n<p>直接在京东上搜索 Apple TV 4K 128 GB 看自营就找到了。</p>",
+    "publish_time": "2023-11-11 09:17:10",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "MacBook Pro 16 吋 140W 充电器怎么选？",
+    "url": "https://www.v2ex.com/t/990869",
+    "summary": "apppa: 双 11 价格都不错：<br />- 贝尔金 140W （ 2 个 C 口 1 个 A 口）：633 块<br />- 苹果原装 140W （单 C 口）：692 块<br />- Anker 717 140W （单 C 口）：489 块<br /><br />各位老哥，N 年前用非原装充电器，电流不稳导致 Mac 的 SSD 坏了，心有余悸，现在非原装的充电器还靠谱吗？有的时候需要带出门，也想少带个充电器，比较倾向于贝尔金，它家 140W 怎么样？",
+    "publish_time": "2023-11-11 09:58:09",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "想入手一个新的安卓手机，求推荐",
+    "url": "https://www.v2ex.com/t/990883",
+    "summary": "shuiyingwuhen: 1 、双卡双待，现在手机也是这样，但是一通电话自动从 4G 掉 3G ，如果没有 3G 网络覆盖，那么就无法通话 <br />2 、因为工作原因需要具备通话自动录音功能<br />3 、要求设备可以刷机，但不知道第三方刷机怎么找？<br /><br />想入手 OnePlus ACE2 或者  OnePlus 11  但不知道如何找第三方 ROM",
+    "publish_time": "2023-11-11 10:48:49",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "突然发现阿里云盘 11 年会员只要 1111 元,合计 101 一年,感觉还蛮划算?",
+    "url": "https://www.v2ex.com/t/990893",
+    "summary": "codeself: <p>如题,\n<img alt=\"image\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://github.com/dcloudio/uni-app/assets/27074730/bf9c0c43-9ebe-48d2-9222-cd75cba2a289\" /></p>",
+    "publish_time": "2023-11-11 11:31:25",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  }
+]
