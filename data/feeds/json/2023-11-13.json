@@ -1053,5 +1053,114 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "中美元首会晤",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "57国联合谴责以色列",
+    "url": "https://s.weibo.com/weibo?q=%2357%E5%9B%BD%E8%81%94%E5%90%88%E8%B0%B4%E8%B4%A3%E4%BB%A5%E8%89%B2%E5%88%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "小虎打Faker",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%99%8E%E6%89%93Faker%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "孙俪 婚姻里付出不被认可是悲哀的事",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA+%E5%A9%9A%E5%A7%BB%E9%87%8C%E4%BB%98%E5%87%BA%E4%B8%8D%E8%A2%AB%E8%AE%A4%E5%8F%AF%E6%98%AF%E6%82%B2%E5%93%80%E7%9A%84%E4%BA%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "为什么很多软件“另存为”的时候只能一层层选文件夹而不能直接输地址呢？",
+    "url": "https://www.zhihu.com/question/628399152",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "大城市真的有那么多机会吗？",
+    "url": "https://www.zhihu.com/question/422648061",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "European digital identity: provisional agreement reached on eID",
+    "url": "https://www.consilium.europa.eu/en/press/press-releases/2023/11/08/european-digital-identity-council-and-parliament-reach-a-provisional-agreement-on-eid/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38242420\">Comments</a>",
+    "publish_time": "2023-11-13 01:48:19",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Cars downloading text messages from phones doesn't violate state privacy law",
+    "url": "https://arstechnica.com/tech-policy/2023/11/five-big-carmakers-beat-lawsuits-alleging-infotainment-systems-invade-privacy/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38242233\">Comments</a>",
+    "publish_time": "2023-11-13 01:29:30",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Lockheed Martin Jets into Nuclear Electrical Spacecraft Power",
+    "url": "https://www.lockheedmartin.com/en-us/news/features/2023/lockheed-martin-jets-into-nuclear-electrical-spacecraft-power.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38242244\">Comments</a>",
+    "publish_time": "2023-11-13 01:30:06",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "SanDisk Extreme Pro Failures Result from Design Flaw, Says Researcher",
+    "url": "https://www.tomshardware.com/news/sandisk-extreme-pro-failures-are-due-to-design-flaw",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38241583\">Comments</a>",
+    "publish_time": "2023-11-13 00:27:25",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Sieve (YC W22), a video/audio AI cloud, is hiring AI / product engineers",
+    "url": "https://sievedata.com/about/jobs",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38241951\">Comments</a>",
+    "publish_time": "2023-11-13 01:02:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
