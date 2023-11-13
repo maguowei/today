@@ -1496,5 +1496,67 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "在东北 一切笨的东西都会被吃掉",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%9C%A8%E4%B8%9C%E5%8C%97+%E4%B8%80%E5%88%87%E7%AC%A8%E7%9A%84%E4%B8%9C%E8%A5%BF%E9%83%BD%E4%BC%9A%E8%A2%AB%E5%90%83%E6%8E%89%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "冬天不用出门的锻炼方式",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A4%A9%E4%B8%8D%E7%94%A8%E5%87%BA%E9%97%A8%E7%9A%84%E9%94%BB%E7%82%BC%E6%96%B9%E5%BC%8F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "美股三大指数收盘涨跌不一，特斯拉涨超4%",
+    "url": "https://www.36kr.com/newsflashes/2517252740763910",
+    "summary": "36氪获悉，11月13日，美股三大指数涨跌不一，道指涨0.16%，标普500指数跌0.08%，纳指跌0.22%。大型科技股多数下跌，特斯拉涨超4%，创10月19日以来收盘新高；Meta小幅上涨，苹果、Netflix、微软、谷歌、亚马逊小幅下跌。热门中概股多数上涨，理想汽车涨超6%，小鹏汽车涨超2%，B站、百度、网易、爱奇艺涨超1%，拼多多、腾讯音乐小幅上涨，微博跌超1%，阿里巴巴、蔚来、京东小幅下跌。",
+    "publish_time": "2023-11-14 07:00:45",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Zelle finally caves after years of refusing to refund scam victims",
+    "url": "https://arstechnica.com/tech-policy/2023/11/zelle-finally-caves-after-years-of-refusing-to-refund-scam-victims/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38255884\">Comments</a>",
+    "publish_time": "2023-11-14 05:53:35",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "AlmaLinux 9.3 Stable",
+    "url": "https://almalinux.org/blog/2023-11-13-announcing-93-stable/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38252597\">Comments</a>",
+    "publish_time": "2023-11-14 01:18:45",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "We've learned nothing from the SolarWinds hack",
+    "url": "https://www.macchaffee.com/blog/2023/solarwinds-hack-lessons-learned/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38255923\">Comments</a>",
+    "publish_time": "2023-11-14 05:56:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
