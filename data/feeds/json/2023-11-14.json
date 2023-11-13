@@ -1421,5 +1421,80 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "如果有人在地铁突然放下手机",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E6%9C%89%E4%BA%BA%E5%9C%A8%E5%9C%B0%E9%93%81%E7%AA%81%E7%84%B6%E6%94%BE%E4%B8%8B%E6%89%8B%E6%9C%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Show HN: Bitemporal – Binary JSON database system and event store",
+    "url": "https://news.ycombinator.com/item?id=38252963",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38252963\">Comments</a>",
+    "publish_time": "2023-11-14 01:51:42",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Shopify Storefronts Are Down",
+    "url": "https://www.shopifystatus.com/incidents",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38255354\">Comments</a>",
+    "publish_time": "2023-11-14 05:03:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Reauthorizing Mass Surveillance Shouldn't Be Tied to Funding the Government",
+    "url": "https://www.eff.org/deeplinks/2023/11/reauthorizing-mass-surveillance-shouldnt-be-tied-funding-government",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38254656\">Comments</a>",
+    "publish_time": "2023-11-14 04:04:56",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "It's true. Your devices are listening to you",
+    "url": "https://www.cmglocalsolutions.com/cmg-active-listening",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38255425\">Comments</a>",
+    "publish_time": "2023-11-14 05:10:12",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Algorithms (2019)",
+    "url": "http://jeffe.cs.illinois.edu/teaching/algorithms/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38254153\">Comments</a>",
+    "publish_time": "2023-11-14 03:28:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Discouraging the use of web application firewalls",
+    "url": "https://www.macchaffee.com/blog/2023/wafs/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38255004\">Comments</a>",
+    "publish_time": "2023-11-14 04:32:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]

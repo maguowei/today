@@ -574,5 +574,14 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "如果有人在地铁突然放下手机",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E6%9C%89%E4%BA%BA%E5%9C%A8%E5%9C%B0%E9%93%81%E7%AA%81%E7%84%B6%E6%94%BE%E4%B8%8B%E6%89%8B%E6%9C%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
