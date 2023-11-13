@@ -547,5 +547,14 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "鲨鱼夹发型",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%B2%A8%E9%B1%BC%E5%A4%B9%E5%8F%91%E5%9E%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
