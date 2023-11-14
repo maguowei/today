@@ -9,5 +9,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "全票通过！Seata进入Apache孵化器",
+    "url": "https://www.infoq.cn/article/p2OhRzr7HxKhfgJor6zx",
+    "summary": "<p>北京时间2023年10月29日，分布式事务开源项目Seata正式通过Apache基金会的投票决议，以全票通过的优秀表现正式成为Apache孵化器项目！</p><p></p><p>根据Apache基金会邮件列表显示，在包含13个约束性投票(binding&nbsp;votes)和6个无约束性投票(non-binding&nbsp;votes)的投票全部持赞同意见，无弃权票和反对票，投票顺利通过。</p><p></p><p>“Welcome&nbsp;Seata&nbsp;to&nbsp;the&nbsp;ASF&nbsp;incubator.”</p><p></p><p></p><p><img src=\"https://static001.geekbang.org/infoq/a0/a026e521f8f62735aea2a8ff2ba97616.png\" /></p><p></p><p></p><h3>项目历史</h3><p></p><p></p><p>早在2007年，阿里巴巴和蚂蚁集团内部开发了分布式事务中间件，用于解决电商、支付、物流等业务场景中应用数据的一致性问题。内部项目分别被称为TXC&nbsp;(Taobao&nbsp;Transaction&nbsp;Constructor)/XTS&nbsp;(eXtended&nbsp;Transaction&nbsp;Service)，该项目几乎在每笔订单的交易支付链路几乎都有使用。&nbsp;自2013年以来，阿里巴巴和蚂蚁集团已在阿里云和金融云上向企业客户分别发布了分布式事务云服务产品GTS(global&nbsp;transaction&nbsp;service)/DTX(Distributed&nbsp;Transaction-eXtended)，在各个行业领域积累了大量用户。2019年1月，阿里巴巴集团正式开源了该项目，项目命名为&nbsp;Fescar&nbsp;(Fast&nbsp;&amp;&nbsp;Easy&nbsp;Commit&nbsp;and&nbsp;Rollback)）。项目开源以来，它受到了众多开发人员的热烈欢迎和赞扬，开源一周收获了超3k&nbsp;star，曾一度蝉联GitHub&nbsp;Trending排行榜第一。2019年4月，蚂蚁集团数据中间件团队加入了Fescar社区。为了创建一个更加开放和中立的社区，Fescar改名为Seata（Simple&nbsp;Extensible&nbsp;Autonomous&nbsp;Transaction&nbsp;Architecture），代码仓库从Alibaba&nbsp;organization迁移到其独立的Seata&nbsp;organization。&nbsp;2019年12月，Seata开源项目正式发布1.0.0&nbsp;GA版本，标志着项目已基本可生产使用。2023年10月，为了更好的通过社区驱动技术的演进，阿里和蚂蚁集团正式将Seata捐赠给Apache基金会，提案通过了Apache基金会的投票决议。</p><p></p><h3>项目现状</h3><p></p><p></p><p>Seata开源4年来主项目在GitHub累计收获star超24k，累计发布版本超40次，参与代码贡献人数超300人。Seata被各领域企业/组织广泛应用于解决分布式事务问题，在GitHub「Used&nbsp;by」超过3.1k的仓库依赖，金融领域企业纷纷试点使用。Seata&nbsp;对于市面上主流的关系数据库，RPC框架做了广泛的支持，同时被许多第三方社区做了主动和被动集成。</p><p></p><p></p><p><img src=\"https://static001.geekbang.org/infoq/98/98d5852f5d03fe57d6184df8d7375583.png\" /></p><p></p><h3>项目特性</h3><p></p><p>提供AT、TCC、Saga&nbsp;和&nbsp;XA事务模式，支持事务模式的混用，满足不同业务场景的数据一致性需求。提供Java、Golang等多语言SDK支持。支持了Apache&nbsp;Dubbo、Spring&nbsp;Cloud&nbsp;Alibaba、gRPC、Motan、sofaRPC、HttpClient等服务调用框架。支持了MySQL、MariaDB、Oracle、PostgreSQL、OceanBase、TiDB、SQLServer、PolarDB、Dameng等关系数据库无侵入AT事务模式的支持。支持基于多种关系数据库、Redis存储的存算分离的集群模式，支持基于Raft的存算不分离集群模式，满足不同运维场景下的集群高可用需求。支持了市面上主流的注册中心和配置中心。提供了丰富的插件化扩展机制，支持用户自定义SDK侧30多个扩展点。</p><p></p><p></p><h3>致谢</h3><p></p><p></p><p>感谢所有曾经参与到社区的贡献者。</p><p></p><p>特别感谢愿意给Seata提供指导的champion和mentors:</p><p></p><p>Champion：</p><p>Sheng&nbsp;Wu(wusheng&nbsp;at&nbsp;apache&nbsp;dot&nbsp;org)</p><p></p><p>Mentors：</p><p>Sheng&nbsp;Wu(wusheng&nbsp;at&nbsp;apache&nbsp;dot&nbsp;org)Justin&nbsp;Mclean(justin&nbsp;at&nbsp;classsoftware&nbsp;dot&nbsp;com)Huxing&nbsp;Zhang(huxing&nbsp;at&nbsp;apache&nbsp;dot&nbsp;org)Heng&nbsp;Du(duhengforever&nbsp;at&nbsp;apache&nbsp;dot&nbsp;org)</p><p></p><p>我们坚信将Seata引入ASF可以推动更强大，更多元化的开源社区的发展。我们将努力践行Apache&nbsp;Way，同时欢迎更多的公司和个人加入到开发者队伍中来，让Seata社区更加健康和健壮的成长，让更多人享受开源带来的技术红利！</p>",
+    "publish_time": "2023-11-14 10:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
