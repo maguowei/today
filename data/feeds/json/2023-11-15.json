@@ -1407,5 +1407,112 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "温州医院试点一号管三天",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B7%9E%E5%8C%BB%E9%99%A2%E8%AF%95%E7%82%B9%E4%B8%80%E5%8F%B7%E7%AE%A1%E4%B8%89%E5%A4%A9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "你读过最有能量的文字是什么？",
+    "url": "https://www.zhihu.com/question/630001209",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "只要上班就难受，下班立马舒坦，是「厌班」了吗？",
+    "url": "https://www.zhihu.com/question/630020729",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "PINN还有研究的必要吗？",
+    "url": "https://www.zhihu.com/question/526459912",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如果从事一份自己真正热爱的工作，就不会出现「职场心霾」了吗？",
+    "url": "https://www.zhihu.com/question/630020773",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "到底夜跑好还是晨跑好？",
+    "url": "https://www.zhihu.com/question/625186867",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "在家带孩子的你们崩溃过吗?",
+    "url": "https://www.zhihu.com/question/630062548",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "LLMs and the End of Programming – CS50 Tech Talk with Dr. Matt Welsh [video]",
+    "url": "https://www.youtube.com/watch?v=JhCl-GeT4jw",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38268470\">Comments</a>",
+    "publish_time": "2023-11-15 03:40:16",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "YJIT Is the Most Memory-Efficient Ruby JIT",
+    "url": "https://railsatscale.com/2023-11-07-yjit-is-the-most-memory-efficient-ruby-jit/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38265773\">Comments</a>",
+    "publish_time": "2023-11-15 00:46:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Music painted on wall of a Venetian orphanage will be heard 250 years later",
+    "url": "https://theconversation.com/music-painted-on-the-wall-of-a-venetian-orphanage-will-be-heard-again-nearly-250-years-later-211995",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38267739\">Comments</a>",
+    "publish_time": "2023-11-15 02:53:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "'Reptar', a new CPU vulnerability",
+    "url": "https://cloud.google.com/blog/products/identity-security/google-researchers-discover-reptar-a-new-cpu-vulnerability",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38268043\">Comments</a>",
+    "publish_time": "2023-11-15 03:14:47",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
