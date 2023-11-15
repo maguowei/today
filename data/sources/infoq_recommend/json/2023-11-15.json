@@ -1,0 +1,13 @@
+[
+  {
+    "title": "NVIDIA发布新的C++数值计算库：支持GPU加速",
+    "url": "https://www.infoq.cn/article/6P17qXTgH2XI6oYKmgvh",
+    "summary": "<p>&nbsp;<a href=\"https://developer.nvidia.com/blog/speeding-up-numerical-computing-in-c-with-a-python-like-syntax-in-nvidia-matx/\">MatX 是一个 C++ 库</a>\"，由 Nvidia 为其自有的 GPU 开发，，旨在使用高级语法在数值计算中实现接近本地性能，不遑多让于 Python 的 scipy 或 MATLAB。<a href=\"https://github.com/NVIDIA/MatX/releases\">它的最新版本引入了</a>\"许多新功能，包括可以将变换作为运算符，以及新的运算符，如上采样、下采样、pwelch 等等。</p><p>&nbsp;</p><p>现在，可以在任何运算符表达式中使用变换，以使用运算符融合来进行延迟评估。运算符融合是 MatX 中的一个特殊功能，旨在提高性能，通过减少内存访问，从而避免内存访问成本相对寄存器访问昂贵数个数量级的问题。</p><p>&nbsp;</p><p>旨在通过减少内存访问来提高性能，内存访问的成本可能比寄存器访问高出几个数量级。使用运算符融合，一个表达式不会立即计算，而是转换为表示该表达式的 C++ 类型，该类型将在需要其值时进行评估。换句话说，不是立即计算表达式的结果，比如：</p><p>&nbsp;</p><p><code lang=\"null\">(A = B * (cos(C) / D)).run();</code></p><p>&nbsp;</p><p>你可以将其值存储在一个中间表达式中：</p><p>&nbsp;</p><p><code lang=\"null\">auto op = (B * (cos(C) / D));</code></p><p>&nbsp;</p><p>将其与其他表达式组合，并在需要时进行延迟评估。这一特性是通过重载 C++ 运算符实现的。MatX 的最新版本将这一功能扩展到了变换中，例如在以下表达式中：</p><p>&nbsp;</p><p><code lang=\"null\">(A = B * fft(C)).run();</code></p><p>&nbsp;</p><p>编译器能够理解乘法运算符的右侧是 FFT 变换，而左侧是另一个表达式，可以在编译时与前者的结果进行融合。</p><p>&nbsp;</p><p>值得注意的是，将变换用作运算符的这种新语法与以前的变换使用方式存在一些不兼容。具体而言，以前你可能会写成matmul(C, A, B, stream)，而现在应该使用(C = matmul(A,B)).run(stream)。</p><p>&nbsp;</p><p>MatX 0.6.0 引入的另一个新功能是新的<a href=\"https://github.com/NVIDIA/MatX/pull/459#issuecomment-1658987574\">多相通道化运算符</a>\"，它可以将输入信号分成一组通道。例如，它可用于将高采样率的宽带信号转换为多个低采样率的窄带信号。</p><p>&nbsp;</p><p>新的运算符包括 <a href=\"https://nvidia.github.io/MatX/api/signalimage/general/upsample.html\">`upsample`</a>\"，用于通过插入零来上采样信号；<a href=\"https://nvidia.github.io/MatX/api/signalimage/general/downsample.html\">downsample</a>\"，用于通过丢弃样本来下采样信号；<a href=\"https://github.com/NVIDIA/MatX/pull/479\">pwelch</a>\"，用于可视化信号的频谱，而无需进行预处理。</p><p>&nbsp;</p><p>MatX 的最新版本拥有更多功能，此处无法详尽列出。如果你对完整细节感兴趣，不要错过官方发布说明。</p><p>&nbsp;</p><p>&nbsp;</p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2023/10/Nvidia-matx-cpp-numerical-lib/\">https://www.infoq.com/news/2023/10/Nvidia-matx-cpp-numerical-lib/</a>\"</p>",
+    "publish_time": "2023-11-15 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
