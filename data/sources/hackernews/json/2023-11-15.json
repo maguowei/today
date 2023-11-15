@@ -559,5 +559,49 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Unix Time reaches 1.7 billion",
+    "url": "https://www.epochconverter.com/countdown?q=1700000000",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38266923\">Comments</a>",
+    "publish_time": "2023-11-15 01:59:22",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Writing a GPT-4 script to check Wikipedia for the first unused acronym",
+    "url": "https://gwern.net/tla",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38270714\">Comments</a>",
+    "publish_time": "2023-11-15 06:27:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "LLM can invade privacy through benign questions depite usual protections",
+    "url": "https://arxiv.org/abs/2310.07298",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38272495\">Comments</a>",
+    "publish_time": "2023-11-15 10:07:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Please Don't Ask If an Open Source Project Is Dead",
+    "url": "https://minimaxir.com/2023/11/open-source-dead-github/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38265884\">Comments</a>",
+    "publish_time": "2023-11-15 00:52:43",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
