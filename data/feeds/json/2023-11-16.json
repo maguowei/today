@@ -1351,5 +1351,176 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "中美元首旧金山会晤正式开始",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%97%A7%E9%87%91%E5%B1%B1%E4%BC%9A%E6%99%A4%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%A7%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "中美元首时隔1年再次面对面会晤",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%97%B6%E9%9A%941%E5%B9%B4%E5%86%8D%E6%AC%A1%E9%9D%A2%E5%AF%B9%E9%9D%A2%E4%BC%9A%E6%99%A4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "你通常几点入睡",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E9%80%9A%E5%B8%B8%E5%87%A0%E7%82%B9%E5%85%A5%E7%9D%A1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "谢娜蔡少芬综艺合体",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E8%94%A1%E5%B0%91%E8%8A%AC%E7%BB%BC%E8%89%BA%E5%90%88%E4%BD%93%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "这不是水墨画是真实的枝头小鸟",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%8D%E6%98%AF%E6%B0%B4%E5%A2%A8%E7%94%BB%E6%98%AF%E7%9C%9F%E5%AE%9E%E7%9A%84%E6%9E%9D%E5%A4%B4%E5%B0%8F%E9%B8%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "台湾有关方面抓扣大陆渔船，并将船上 13 人全部带回，国台办回应「尽速放人放船」，哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/630267595",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "电子游戏可不可能实现「玩家直接把想要表达的语言输入对话框，并影响剧情」？",
+    "url": "https://www.zhihu.com/question/628394041",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "到底怎么才能稳定交易心态？",
+    "url": "https://www.zhihu.com/question/617811362",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Inflation Appears to Be Over",
+    "url": "https://politicalwire.com/2023/11/15/inflation-appears-to-be-over/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38280862\">Comments</a>",
+    "publish_time": "2023-11-16 03:01:50",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Firefox Is Going to Try and Ship with Wayland Enabled by Default",
+    "url": "https://www.phoronix.com/news/Firefox-Change-Wayland-Release",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38281264\">Comments</a>",
+    "publish_time": "2023-11-16 03:31:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Azure announces new AI optimized VM series featuring AMD's flagship MI300X GPU",
+    "url": "https://techcommunity.microsoft.com/t5/azure-high-performance-computing/azure-announces-new-ai-optimized-vm-series-featuring-amd-s/ba-p/3980770",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38280974\">Comments</a>",
+    "publish_time": "2023-11-16 03:11:47",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Intro to Multi-Object Tracking",
+    "url": "https://github.com/kharitonov-ivan/multi-object-tracking-in-python",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38280490\">Comments</a>",
+    "publish_time": "2023-11-16 02:36:48",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Australia's overuse of antibiotics driving rate of drug-resistant infections",
+    "url": "https://www.theguardian.com/society/2023/nov/16/australia-antibiotics-overuse-drug-resistant-infections",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38281137\">Comments</a>",
+    "publish_time": "2023-11-16 03:21:54",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Godot Engine GPT",
+    "url": "https://chat.openai.com/g/g-0e9nkbuRV-godot-assistant",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38280594\">Comments</a>",
+    "publish_time": "2023-11-16 02:43:28",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Feds Have No Idea How Many Times Cruise Driverless Cars Hit Pedestrians",
+    "url": "https://www.404media.co/feds-have-no-idea-how-many-times-cruise-driverless-cars-hit-pedestrians/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38281316\">Comments</a>",
+    "publish_time": "2023-11-16 03:36:13",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "David Attenborough is now narrating my life",
+    "url": "https://twitter.com/charliebholtz/status/1724815159590293764",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38281079\">Comments</a>",
+    "publish_time": "2023-11-16 03:19:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Demoscene",
+    "url": "https://www.demoscene.info/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38280937\">Comments</a>",
+    "publish_time": "2023-11-16 03:08:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
