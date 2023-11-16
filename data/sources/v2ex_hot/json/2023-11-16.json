@@ -9,5 +9,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "初入 Java ，看不懂 各种奇奇怪怪的 PO、VO、DTO、BO、**O…求一份攻略",
+    "url": "https://www.v2ex.com/t/992296",
+    "summary": "mangojiji: 一大堆疑惑：<br /><br />入参时，Controller 接收哪个 O ？<br />Service 接收和 Mybatis 接收哪个 O ？<br /><br />Mybatis 返回的可能是 PO (比如 getById 或者 selectByPrimaryKey)，但也可能是自定义的 POJO 吧(比如一条复杂 Join 的结果)，在这类情况下，Mybatis 返回的这些对象属于什么 O ？这些对象能被 Service 直接返回吗？<br /><br />Service 应该返回什么 O 给 Controller ？<br /><br />BO 又是个啥，看了不少资料愣是没整明白。<br /><br />DTO 在什么时候用，有说层之间入参和输出的，也有说调用其它系统的，总之乱七八糟。。。<br /><br />PS：项目没有使用 DDD ，是传统 SpringMVC+Mybatis 三层的设计。主要原因是我不懂 DDD…能力有限<br /><br />最好能够配合示例代码或者伪代码，谢谢大佬们。",
+    "publish_time": "2023-11-16 06:27:04",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "看着亮亮夫妻被打感觉是真的心塞，普通人只能传播支持一下",
+    "url": "https://www.v2ex.com/t/992353",
+    "summary": "bevishe: <p>亮亮夫妻，昨天去融创售楼部直播，然后被断网，抢手机，然后打人，看视频真的心塞，普通人真难，现在他们自己抖音发的被打视频已经抖音屏蔽看不见了，</p>",
+    "publish_time": "2023-11-16 10:29:41",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "「抽奖送码🎁」照片整理 app，超级感谢上周 V 友们给的建议，我来送码了",
+    "url": "https://www.v2ex.com/t/992356",
+    "summary": "tanjianwei: V 友老哥们太好了！！！ 事情是这样的<br />我做了一款专注照片整理和翻看的 iOS app ，叫「轻翻相册」，上周在 V 站发了一个求助帖子： <a href=\"https://v2ex.com/t/989886\" rel=\"nofollow noopener\" target=\"_blank\">https://v2ex.com/t/989886</a>  <br />得到了非常多的 V 友的建议反馈，还有几个用户开了永久会员，真的非常感谢支持，所以开了这个帖子。<br /><br />首先根据大家的建议，专门做了优化：  <br />1 、安装包大小缩减一半，并且兼容了 iOS15   <br />2 、上线了“记录此刻”功能 和 “往年今日”，方便回顾照片   <br />3 、增加按图片大小、时间、随机排序功能  @<a href=\"https://www.v2ex.com/member/jvmname\" rel=\"nofollow noopener\" target=\"_blank\">jvmname</a> ，修复了隐藏的 bug  @<a href=\"https://www.v2ex.com/member/maemolee\" rel=\"nofollow noopener\" target=\"_blank\">maemolee</a>  @<a href=\"https://www.v2ex.com/member/gscsnm\" rel=\"nofollow noopener\" target=\"_blank\">gscsnm</a>     <br />4 、增加点击删除功能 + 详细的使用说明，感谢建议和启发 @<a href=\"https://www.v2ex.com/member/sprzwty\" rel=\"nofollow noopener\" target=\"_blank\">sprzwty</a>  @<a href=\"https://www.v2ex.com/member/Ethanccc\" rel=\"nofollow noopener\" target=\"_blank\">Ethanccc</a>  @<a href=\"https://www.v2ex.com/member/yxc\" rel=\"nofollow noopener\" target=\"_blank\">yxc</a> @<a href=\"https://www.v2ex.com/member/W20NY\" rel=\"nofollow noopener\" target=\"_blank\">W20NY</a>  @<a href=\"https://www.v2ex.com/member/aero99\" rel=\"nofollow noopener\" target=\"_blank\">aero99</a>  @<a href=\"https://www.v2ex.com/member/gdgoldlion\" rel=\"nofollow noopener\" target=\"_blank\">gdgoldlion</a>  <br /><br />特别感谢以上 V 友的支持，如需要请留下邮箱，我会直接发送兑换码（不需要参与抽奖）。<br />  <br />---------------- 抽奖方式说明 -----------------   <br />1 、在这里留下评论，随机抽取 15 位回复的用户，送出 iOS 版本的「轻翻相册的永久会员」   <br />2 、评论截止时间：本周五晚上 23 点   <br />3 、抽奖方式：通过 js 脚本生成楼层范围内的随机数（如果是上面的提到的 V 友，或多次回复的用户，会作废重新抽）  <br />---------------- 抽奖方式说明 -----------------   <br /><br />轻翻相册 APP 下载地址： <a href=\"https://apps.apple.com/cn/app/id6449437172\" rel=\"nofollow noopener\" target=\"_blank\">https://apps.apple.com/cn/app/id6449437172</a>   <br />另外 11.16-11.17 两天，永久会员活动 3 折，临时降价至 20 元（ APP 上显示仍然是 68 ，但实际付款弹窗为 20 ） <br /><br />附几张 app 截图：  <br /><a href=\"https://i.imgur.com/MkmtDN2.png\" rel=\"nofollow noopener\" target=\"_blank\"><img class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/MkmtDN2.png\" /></a>",
+    "publish_time": "2023-11-16 10:32:18",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
