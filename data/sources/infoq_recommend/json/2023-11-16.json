@@ -20,5 +20,27 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "百度资深研发工程师、文心一言 APP 技术负责人樊中恺，确认担任 QCon LLM 时代的大前端技术专题出品人",
+    "url": "https://www.infoq.cn/article/cyBA56ToQEPYGDZKCu3X",
+    "summary": "<p><a href=\"https://qcon.infoq.cn/2023/shanghai/?utm_source=infoqweb&amp;utm_medium=teacherart&amp;utm_campaign=7&amp;utm_term=1116&amp;utm_content=fanzhongkai\">QCon 全球软件开发大会</a>\"，将于 12 月在上海召开。百度资深研发工程师、文心一言 APP 技术负责人樊中恺将担任「<a href=\"https://qcon.infoq.cn/2023/shanghai/track/1599?utm_source=infoqweb&amp;utm_medium=teacherart&amp;utm_campaign=7&amp;utm_term=1116&amp;utm_content=fanzhongkai\">LLM 时代的大前端技术</a>\"」的专题出品人。在此次专题中，你将了解到 LLM 时代的大前端技术发展趋势与企业级应用开发的机遇和挑战。</p><p></p><p><a href=\"https://qcon.infoq.cn/2023/shanghai/track/1599?utm_source=infoqweb&amp;utm_medium=teacherart&amp;utm_campaign=7&amp;utm_term=1116&amp;utm_content=fanzhongkai\">樊中恺</a>\"，百度资深研发工程师，文心一言 APP 技术负责人，2008 年接触前端开发，2012 年开始移动端开发至今，曾先后负责百度浏览器、文库、阅读、百度 APP 前端技术架构、搜索前端架构、推荐前端架构、Paddle.js 等研发工作，对于端智能、工程化、前端架构等方向有较为丰富的经验。<a href=\"https://qcon.infoq.cn/202309/beijing/presentation/5408?utm_source=infoqweb&amp;utm_medium=teacherart&amp;utm_campaign=7&amp;utm_term=1116&amp;utm_content=fanzhongkai\">QCon 北京 2023 「明星讲师」</a>\"。</p><p></p><p>相信樊中恺的到来，可以帮助提升此专题的质量，通过对 LLM 时代大前端技术的解读，能够让你对大前端技术有更深入的了解，为企业面临相关机遇和挑战，提供了有效的解决思路。</p><p></p><p>除上述专题外，QCon 上海还将围绕&nbsp;<a href=\"https://qcon.infoq.cn/2023/shanghai/track/1595?utm_source=infoqweb&amp;utm_medium=teacherart\">GenAI和通用大模型应用探索</a>\"、<a href=\"https://qcon.infoq.cn/2023/shanghai/track/1596?utm_source=infoqweb&amp;utm_medium=teacherart\">AI&nbsp;Agent&nbsp;与行业融合应用的前景</a>\"、<a href=\"https://qcon.infoq.cn/2023/shanghai/track/1597?utm_source=infoqweb&amp;utm_medium=teacherart\">LLM&nbsp;时代的性能优化</a>\"、<a href=\"https://qcon.infoq.cn/2023/shanghai/track/1598?utm_source=infoqweb&amp;utm_medium=teacherart\">智能化信创软件&nbsp;IDE</a>\"、<a href=\"https://qcon.infoq.cn/2023/shanghai/track/1602?utm_source=infoqweb&amp;utm_medium=teacherart\">面向人工智能时代的架构</a>\"、<a href=\"https://qcon.infoq.cn/2023/shanghai/track/1604?utm_source=infoqweb&amp;utm_medium=teacherart\">性能工程：提升效率和创新的新方法</a>\"等专题进行交流。</p><p></p><p>QCon 上海 2023，相约 12 月！ 7 折优惠仅剩最后 2 天，现在购票，立减￥2040！咨询购票请联系：17310043226（微信同手机号）。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/01/0113b3dfb187d5f9988b7eb16d2e0594.png\" /></p><p></p>",
+    "publish_time": "2023-11-16 11:33:24",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "OceanBase：中国场景推动树立分布式数据库四项新标准",
+    "url": "https://www.infoq.cn/article/Mu0894he9sGM1JvWzlm4",
+    "summary": "<p>11月16日，在OceanBase2023年度发布会上，OceanBase CEO杨冰介绍，中国数字经济的蓬勃发展催生了对分布式数据库的强大需求，这种需求也牵引了OceanBase坚定投入自主研发，从而推动树立了分布式数据库的四项新标准。据了解，四项新标准分别是：</p><p>&nbsp;</p><p>性能新标准：刷新TPC-C、TPC-H性能榜，3次打破世界纪录，可在高并发场景下按需实现不停机、不改应用的扩缩容和性能的线性增长，同时实现一份数据同时支持事务处理与实时分析；</p><p></p><p>容灾新标准：自研首个“三地五中心”容灾架构，建立城市级故障自动无损容灾新标准，满足国标金融6级容灾标准，保障城市级业务持续高可用；</p><p></p><p>高可用新标准：业内首个实现RPO=0、RTO＜8s，故障恢复进入秒级时代，时刻保障企业用户关键业务顺利运行；</p><p></p><p>架构新标准：单机分布式一体化，打破分布式技术的不可能，首次突破分布式数据库技术的单机性能瓶颈，适应企业全生命周期的业务需求。</p><p>&nbsp;</p><p>13年前，中国移动互联网爆发式增长，带来了前所未有的海量数据以及数据高并发，如何应对这一全球独一无二的海量数据处理问题，OceanBase选择了完全自研之路。杨冰介绍：“刚开始举步维艰，但当我们完成了支付宝核心系统替换，轻舟已过万重山。对代码完全的掌控力和掌控权也使OceanBase能够逢山开路遇水搭桥，厚积薄发。”</p><p>&nbsp;</p><p>2010年，OceanBase&nbsp;关注到中国独特场景带来的海量数据处理挑战，从0起步，致力于完全自研国产分布式数据库。2022年，&nbsp;OceanBase&nbsp;发布单机分布式一体化数据库OceanBase 4.0“小鱼”，突破分布式数据库的边界，让分布式数据库真正走向通用。</p><p>&nbsp;</p><p>这背后是13年来，OceanBase&nbsp;持续的自研投入，在性能、高可用、性价比和单机分布式一体化架构上不断达到技术新高度，得到行业认可，推动树立分布式数据的新行业标准</p><p>&nbsp;</p><p>OceanBase首席科学家阳振坤在发布会现场表示，唯有完全自研才能真正掌握核心代码，主导产品发展，成为国际一流的数据库系统。“OceanBase用十年构筑了分布式关系数据库的根技术，OceanBas的初心是让数据处理越来越普惠，为此OceanBase会在技术上坚持自研、持续突破。”</p>",
+    "publish_time": "2023-11-16 11:48:49",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
