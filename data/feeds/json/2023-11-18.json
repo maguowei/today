@@ -1583,5 +1583,116 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "美团外卖十周年福利",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%A2%E5%A4%96%E5%8D%96%E5%8D%81%E5%91%A8%E5%B9%B4%E7%A6%8F%E5%88%A9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "电影刀尖口碑",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E5%88%80%E5%B0%96%E5%8F%A3%E7%A2%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "王栎鑫 谁比谁差",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB+%E8%B0%81%E6%AF%94%E8%B0%81%E5%B7%AE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "80后首富或为山东39岁的他",
+    "url": "https://s.weibo.com/weibo?q=%2380%E5%90%8E%E9%A6%96%E5%AF%8C%E6%88%96%E4%B8%BA%E5%B1%B1%E4%B8%9C39%E5%B2%81%E7%9A%84%E4%BB%96%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "坐火车去旅行是一种什么样的体验？",
+    "url": "https://www.zhihu.com/question/600302115",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Sentry Relicense Again (FSL)",
+    "url": "https://blog.sentry.io/introducing-the-functional-source-license-freedom-without-free-riding/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38306320\">Comments</a>",
+    "publish_time": "2023-11-18 01:01:12",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How the gas turbine conquered the electric power industry",
+    "url": "https://www.construction-physics.com/p/how-the-gas-turbine-conquered-the",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38307596\">Comments</a>",
+    "publish_time": "2023-11-18 02:17:30",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "UpCodes (YC S17) Is Hiring a Recruiter to Help Build Out Remote Team",
+    "url": "https://up.codes/careers?utm_source=HN",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38310270\">Comments</a>",
+    "publish_time": "2023-11-18 05:02:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: nbi.ai – Generative Business Intelligence",
+    "url": "https://www.narrative.bi/ai",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38310502\">Comments</a>",
+    "publish_time": "2023-11-18 05:18:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Covid strain that killed 8k cats found in UK",
+    "url": "https://www.independent.co.uk/news/uk/home-news/covid-strain-cats-cyprus-sypmtoms-fcov23-b2446492.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38309042\">Comments</a>",
+    "publish_time": "2023-11-18 03:44:07",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Mirai Confessions: Three Young Hackers Who Built a Web-Killing Monster",
+    "url": "https://www.wired.com/story/mirai-untold-story-three-young-hackers-web-killing-monster/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38309424\">Comments</a>",
+    "publish_time": "2023-11-18 04:16:48",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
