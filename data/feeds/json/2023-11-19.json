@@ -1564,5 +1564,34 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "千万热爱大片首映",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E7%83%AD%E7%88%B1%E5%A4%A7%E7%89%87%E9%A6%96%E6%98%A0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "班上唯一认真听课的同学被抓走了",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8F%AD%E4%B8%8A%E5%94%AF%E4%B8%80%E8%AE%A4%E7%9C%9F%E5%90%AC%E8%AF%BE%E7%9A%84%E5%90%8C%E5%AD%A6%E8%A2%AB%E6%8A%93%E8%B5%B0%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "OpenAI board in discussions with Sam Altman to return as CEO",
+    "url": "https://www.theverge.com/2023/11/18/23967199/breaking-openai-board-in-discussions-with-sam-altman-to-return-as-ceo",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38325552\">Comments</a>",
+    "publish_time": "2023-11-19 06:51:39",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
