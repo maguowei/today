@@ -53,5 +53,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "Linux 部署 gitea。无法用 service 启动",
+    "url": "https://www.v2ex.com/t/992990",
+    "summary": "helee9199: <p>./gitea web 可以启动\n但是想设置为 service 启动就失败\n/etc/systemd/system/gitea.service 配置</p>\n<pre><code class=\"language-xml\">[Unit]\nDescription=Gitea\nAfter=syslog.target\nAfter=network.target\n\n[Service]\nRestartSec=2s\nType=simple\nUser=git\nGroup=git\nExecStart=/usr/local/gitea web --config /usr/local/gitea/custom/conf/app.ini\nRestart=always\n\n[Install]\nWantedBy=multi-user.target\n</code></pre>\n<p>权限也给了</p>\n<pre><code class=\"language-xml\">[root@localhost local]# ls -l /usr/local/gitea\ntotal 131008\ndrwxrwxr-x.  3 git git        18 Nov 18 06:21 custom\ndrwxrwxr-x. 15 git git       213 Nov 18 07:30 data\n-rwxr-xr-x.  1 git git 134150560 Oct  3 21:27 gitea\ndrwxrwxr-x.  2 git git         6 Nov 18 06:10 log\n[root@localhost local]# ls -l /usr/local/gitea/custom/conf/app.ini\n-rw-r--r--. 1 git git 1602 Nov 18 06:21 /usr/local/gitea/custom/conf/app.ini\n[root@localhost local]# sudo chown git:git /usr/local/gitea\n[root@localhost local]# sudo chmod 755 /usr/local/gitea\n[root@localhost local]# sudo systemctl start gitea\n[root@localhost local]# systemctl status gitea\n● gitea.service - Gitea\n   Loaded: loaded (/etc/systemd/system/gitea.service; disabled; vendor preset: disabled)\n   Active: activating (auto-restart) (Result: exit-code) since Sat 2023-11-18 17:59:04 CST; 1s ago\n  Process: 2945 ExecStart=/usr/local/gitea web --config /usr/local/gitea/custom/conf/app.ini (code=exited, status=203/EXEC)\n Main PID: 2945 (code=exited, status=203/EXEC)\n\nNov 18 17:59:04 localhost.localdomain systemd[1]: gitea.service: main process exited, code=exited, status=203/EXEC\nNov 18 17:59:04 localhost.localdomain systemd[1]: Unit gitea.service entered failed state.\nNov 18 17:59:04 localhost.localdomain systemd[1]: gitea.service failed.\n</code></pre>\n<p>就是启动不起来 是什么原因</p>",
+    "publish_time": "2023-11-18 10:03:50",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "由于域名被某司抢注了，于是我们做了一个艰难的决定，决定改为 LafTools，另外送礼品卡！",
+    "url": "https://www.v2ex.com/t/993044",
+    "summary": "lstz: <p>大家好，我们是 CodeGen 工具箱开发团队。（若干礼品卡在文末，感兴趣可直接跳过主文）</p>\n<p>说来话长，其实我们一直都希望能注册到 <a href=\"http://codegen.com/\" rel=\"nofollow\">codegen.com</a> ，  但奈何我们手头里只有  <a href=\"http://codegen.cc/\" rel=\"nofollow\">codegen.cc</a>  ，经过这一年来的开发和推广，发现 cc 域名是收录是真的不行，而且很多用户其实只认可 com 域名的。</p>\n<p>所以我们一直在观察 <a href=\"http://codegen.com/\" rel=\"nofollow\">codegen.com</a> 啥时候到期，其实也就是 11 月 15 日这天能到期能注册到，可是未曾想它是如此的受欢迎，到了那天发现没办法注册到，打开这个网站一看，好家伙，已经被一家叫 CodeGen 的公司抢注了。。。。 我打开 <a href=\"http://codegen.com/\" rel=\"nofollow\">codegen.com</a> 一看连官网和软件都做好了，具体如下图：</p>\n<p>其实我们是不介意有同名产品的，因为很多其他 codegen 网站都是做外包公司类型，与我这个工具箱不相关，但是这个产品貌似是针对 Github 写代码流程而设计的，我害怕未来产品冲突，更让我害怕的是 v2.0.0 开源会被他拿去作宣传，<a href=\"http://xn--gmqt6wclf48nd1nr9e6x0c.com/\" rel=\"nofollow\">毕竟很多人眼里.com</a> 才是权威的。</p>\n<p>因此，我们决定更名为 LafTools ，域名将会是 <a href=\"http://laf-tools.com/\" rel=\"nofollow\">laf-tools.com</a> ，但这个产品名只会在 v2.0.0 正式推出后上运用，目前网址和现有程序不受影响，包括变更之后权益也不会受影响。</p>\n<p>最近我们一直在筹备 v2.0.0 的版本开发，用 Go+Node.js 重构开发并开源在 Github 仓库上。</p>\n<ul>\n<li>官网网址： <a href=\"https://codegen.cc/\" rel=\"nofollow\">https://codegen.cc</a></li>\n<li>代码仓库： <a href=\"https://github.com/work7z/LafTools\" rel=\"nofollow\">https://github.com/work7z/LafTools</a> </li>\n<li>产品用途：专门为了程序员而开发的一款工具箱</li>\n<li>在线版本： <a href=\"https://cloud.codegen.cc/\" rel=\"nofollow\">https://cloud.codegen.cc</a></li>\n</ul>\n<h2>礼品卡列表（先到先得）</h2>\n<p>DB9975FE1A904<br />\n061306ED102C4<br />\nF47D7573215E4<br />\n17A476B774B14<br />\nBCF5DE40496E4<br />\nB85E5B52C6FB4<br />\n304C2327EA294<br />\n5A7D574D240C4<br />\n5BF2F76BE1E34<br />\nA89284F047014<br />\n1913EED4EC414  </p>\n<h1>现有产品（稳定）</h1>\n<p><img alt=\"https://codegen.cc/pub-v2/static//preview/dark.png\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://codegen.cc/pub-v2/static//preview/dark.png\" /></p>\n<h1>新产品预览(v2.0.0 还在开发中)</h1>\n<p><img alt=\"https://github.com/work7z/LafTools/raw/dev/dev-source/img-preview.png?raw=true\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://github.com/work7z/LafTools/raw/dev/dev-source/img-preview.png?raw=true\" /></p>\n<p>最后，对于完全开源和付费服务，我们认为是不冲突的，我们需要一些收入来平衡服务器+付费 API 的成本，我们相信时间会证明一切，好产品值得您的帮助，我们也会继续努力哒</p>",
+    "publish_time": "2023-11-18 14:08:57",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
