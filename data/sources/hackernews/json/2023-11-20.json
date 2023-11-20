@@ -691,5 +691,16 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "TIL you could make xkcd-like plots with matplotlib",
+    "url": "https://matplotlib.org/stable/gallery/showcase/xkcd.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38343203\">Comments</a>",
+    "publish_time": "2023-11-20 14:10:46",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
