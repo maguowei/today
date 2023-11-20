@@ -9,5 +9,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "网易数帆云原生网关团队负责人韩佳浩确认出席 QCon 上海，分享云原生时代的通用流量入口：高性能云原生网关实践",
+    "url": "https://www.infoq.cn/article/azZ1tat6zspGZaB5Bh8X",
+    "summary": "<p><a href=\"https://qcon.infoq.cn/2023/shanghai/?utm_source=infoqweb&amp;utm_medium=teacherart&amp;utm_campaign=8&amp;utm_term=1120&amp;utm_content=hanjiahao\">QCon 全球软件开发大会</a>\"，将于 12 月在上海召开。网易数帆云原生网关团队负责人韩佳浩将发表题为《<a href=\"https://qcon.infoq.cn/2023/shanghai/presentation/5597?utm_source=infoqweb&amp;utm_medium=teacherart&amp;utm_campaign=8&amp;utm_term=1120&amp;utm_content=hanjiahao\">云原生时代的通用流量入口：高性能云原生网关实践</a>\"》主题分享，探讨网易数帆基于高性能云原生网关建设云原生通用流量入口的实践，剖析构建云原生网关的架构，探索纳管云原生通用流量的可行性及落地经验。</p><p></p><p><a href=\"https://qcon.infoq.cn/2023/shanghai/presentation/5597?utm_source=infoqweb&amp;utm_medium=teacherart&amp;utm_campaign=8&amp;utm_term=1120&amp;utm_content=hanjiahao\">韩佳浩</a>\"，网易数帆云原生网关团队负责人，负责网易数帆云原生网关及服务网格在集团内部、金融重点客户大规模落地及产品化建设。具有五年以上相关研发及大规模实践经验。目前主要聚焦在云原生网关金融场景的落地实践以及通用网关建设。他在本次会议的演讲内容如下：</p><p></p><p>演讲：云原生时代的通用流量入口：高性能云原生网关实践</p><p></p><p>云原生场景下的入口流量众多，从业务边缘流量到安全认证数据流，从传统的 API 统一暴露到 Serverless 的弹性流量，纷繁复杂的入口流量的统一纳管是一个复杂的课题。本次分享介绍网易数帆基于高性能云原生网关建设云原生通用流量入口的实践。深入剖析构建云原生网关的架构，探索纳管云原生通用流量的可行性及落地经验。介绍在私有协议扩展、全链路灰度能力、业务平滑灰度上云、多集群建设、插件市场等实际业务场景下的最佳实践。</p><p></p><p>演讲提纲：</p><p></p><p>背景与趋势</p><p></p><p>○ 网关作为南北向流量入口的背景</p><p>○ 网关的核心诉求分析</p><p></p><p>云原生网关架构</p><p></p><p>○ 网易对云原生网关的探索：以 Envoy 为数据引擎，构建高性能云原生网关</p><p>○ 云原生网关架构 ：设计目标、设计架构</p><p>○ 纳管通用流量 ：融合网关纳管云原生时代通用流量，不局限于 API 网关</p><p>○ 开源 Hango 建设：能力及经验输出</p><p></p><p>云原生网关金融场景大规模实践</p><p></p><p>○ 私有协议扩展：以金融客户大量私有协议为出发点，在实践中探索支持多协议的通用扩展能力</p><p>○ 全链路灰度能力：以全链路灰度为场景，分享在实践中网关作为入口流量的最佳实践</p><p>○ 业务平滑灰度上云：网关作为入口流量的入口，协助业务平滑灰度上云，减少业务上云负担，提升稳定性</p><p>○ 插件市场：在敏捷开发场景下，支持快速对网关治理能力进行敏捷扩展</p><p>○ 多集群 / 两地三中心：高可用能力建设</p><p>○ 融合网关构建网关分组：隔离性 - 稳定性 / 机器成本 / 资源效率</p><p></p><p>总结与展望</p><p></p><p>听众收益点：</p><p></p><p>○ 了解到网易在云原生网关领域的大规模实践经验</p><p>○ 了解到云原生网关管理云原生时代的通用流量的技术路线及经验</p><p>○ 了解到云原生网关在金融场景落地的大规模经验</p><p></p><p>除上述演讲外，QCon 上海还将围绕&nbsp;<a href=\"https://qcon.infoq.cn/2023/shanghai/track/1595?utm_source=infoqweb&amp;utm_medium=teacherart\">GenAI和通用大模型应用探索</a>\"、<a href=\"https://qcon.infoq.cn/2023/shanghai/track/1596?utm_source=infoqweb&amp;utm_medium=teacherart\">AI&nbsp;Agent&nbsp;与行业融合应用的前景</a>\"、<a href=\"https://qcon.infoq.cn/2023/shanghai/track/1597?utm_source=infoqweb&amp;utm_medium=teacherart\">LLM&nbsp;时代的性能优化</a>\"、<a href=\"https://qcon.infoq.cn/2023/shanghai/track/1598?utm_source=infoqweb&amp;utm_medium=teacherart\">智能化信创软件&nbsp;IDE</a>\"、<a href=\"https://qcon.infoq.cn/2023/shanghai/track/1602?utm_source=infoqweb&amp;utm_medium=teacherart\">面向人工智能时代的架构</a>\"、<a href=\"https://qcon.infoq.cn/2023/shanghai/track/1604?utm_source=infoqweb&amp;utm_medium=teacherart\">性能工程：提升效率和创新的新方法</a>\"等专题进行交流。</p><p></p><p>QCon 上海 2023，相约 12 月！ 现在购票，享 8 折优惠，立减￥1360！咨询购票请联系：18514549229（微信同手机号）。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/01/0113b3dfb187d5f9988b7eb16d2e0594.png\" /></p><p></p>",
+    "publish_time": "2023-11-20 11:30:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
