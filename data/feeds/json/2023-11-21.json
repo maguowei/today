@@ -1305,5 +1305,105 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "习近平同法国总统马克龙通电话",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E6%B3%95%E5%9B%BD%E6%80%BB%E7%BB%9F%E9%A9%AC%E5%85%8B%E9%BE%99%E9%80%9A%E7%94%B5%E8%AF%9D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "冬日氛围大赏",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%86%AC%E6%97%A5%E6%B0%9B%E5%9B%B4%E5%A4%A7%E8%B5%8F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "人到中年，什么是最宝贵？",
+    "url": "https://www.zhihu.com/question/624856855",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "学生时期常跑的 800、1000 米为什么没有发展成马拉松这种大众商业赛事？",
+    "url": "https://www.zhihu.com/question/630310153",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "职场上认真干活的人，尤其是女性，怎样才能不成为透明人？让领导同事看到你的业绩?",
+    "url": "https://www.zhihu.com/question/630011211",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Venmo, Cash App users sue Apple over peer-to-peer payment fees",
+    "url": "https://www.reuters.com/legal/transactional/venmo-cash-app-users-sue-apple-over-peer-to-peer-payment-fees-2023-11-20/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38353146\">Comments</a>",
+    "publish_time": "2023-11-21 03:27:06",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Google quietly open sourced a 1.6T parameter MOE model",
+    "url": "https://old.reddit.com/r/LocalLLaMA/comments/17zo2ml/google_quietly_open_sourced_a_16_trillion/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38352794\">Comments</a>",
+    "publish_time": "2023-11-21 03:06:08",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "After Boeing declines to pay up, ransomware group leaks 45 GB of data",
+    "url": "https://www.itbrew.com/stories/2023/11/17/after-boeing-declines-to-pay-up-ransomware-group-leaks-45-gb-of-data",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38352484\">Comments</a>",
+    "publish_time": "2023-11-21 02:47:18",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Sam Altman is still trying to return as OpenAI CEO",
+    "url": "https://www.theverge.com/2023/11/20/23969586/sam-altman-plotting-return-open-ai-microsoft",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38352891\">Comments</a>",
+    "publish_time": "2023-11-21 03:11:21",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "15-150: Principles of Functional Programming",
+    "url": "https://brandonspark.github.io/150/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38351195\">Comments</a>",
+    "publish_time": "2023-11-21 01:34:50",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
