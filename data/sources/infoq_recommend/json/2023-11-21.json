@@ -9,5 +9,27 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "中国专家主导的ISO隐私计算国际标准立项，蚂蚁集团专家担任主编",
+    "url": "https://www.infoq.cn/article/xCz1CewwoLeS0OCkT7KN",
+    "summary": "<p>近日，国际标准化组织（ISO）隐私计算系列标准第三部分（ISO/IEC JTC 1 SC27 4922-3 基于混淆电路的机制），正式通过立项投票，并将由中、日、韩、荷、英、法、爱尔兰、奥地利等8个国家的专家共同参与编撰。据了解，这是中国专家团队主导推动的首个ISO安全多方计算国际标准，将规范并指导业界对数据流通的算法安全及性能优化工作，加速数据价值释放。其中，三位标准负责人黄智聪、白晓媛、赵原均来自蚂蚁集团。</p><p><img src=\"https://static001.geekbang.org/infoq/55/55abc834f154a3999cfef7ebe1c93c91.png\" /></p><p></p><p>隐私计算是在保障数据安全的前提下，实现数据价值合规有序释放的技术体系。安全多方计算（MPC）是隐私计算的核心解决方案之一，已被广泛应用于跨机构数据协作。但由于各机构技术实现思路存在差异，安全水位参差不齐，影响协作信任和全链路安全。安全多方计算基础协议标准的制定，有助于规范并指导各机构实现安全和高效的基础算法组件，同时为应用协议的互联互通奠定基础。</p><p></p><p>ISO是全球最具权威性的国际标准化机构，其安全多方计算标准4922系列标准包括：第一部分“安全多方计算通则”、第二部分“基于秘密共享的机制”，以及中国专家主导的第三部分“基于混淆电路的机制”。混淆电路是安全多方计算的经典算法，在信贷风控、联合反诈等场景中被广泛使用。该立项标准对混淆电路的协议定义、推荐方案和接口定义等都进行了规范。标准负责人之一、蚂蚁摩斯算法专家赵原介绍，蚂蚁摩斯在混淆电路领域持续投入多年，基于自研的混淆电路算法库构建安全脚本、安全统计等多种商业化产品，已帮助上百家企业开展数字化协作。他表示：“希望通过推动该标准的制定，将摩斯在混淆电路领域的实践经验向业界分享，助力全行业的算法安全与高效实现。”</p><p></p><p>公开资料显示，蚂蚁商用隐私计算平台摩斯在权威研究机构IDC《2022年中国隐私计算平台市场份额》报告中，以36.9%的市场份额排名第一。</p>",
+    "publish_time": "2023-11-21 10:32:45",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "淘天集团高级技术专家邓波确认出席 QCon 上海，分享 Tengine-Ingress 高性能高可用云原生网关",
+    "url": "https://www.infoq.cn/article/EUv1rCb6TPsYiti4Ic1w",
+    "summary": "<p><a href=\"https://qcon.infoq.cn/2023/shanghai/?utm_source=infoqweb&amp;utm_medium=teacherart&amp;utm_campaign=8&amp;utm_term=1121&amp;utm_content=dengbo\">QCon 全球软件开发大会</a>\"，将于 12 月在上海召开。淘天集团高级技术专家邓波将发表题为《<a href=\"https://qcon.infoq.cn/2023/shanghai/presentation/5603?utm_source=infoqweb&amp;utm_medium=teacherart&amp;utm_campaign=8&amp;utm_term=1121&amp;utm_content=dengbo\">Tengine-Ingress 高性能高可用云原生网关</a>\"》主题分享，探讨 Tengine-Ingress 云原生网关背景、网关架构、超大规模网关设计，以及其在淘天集团的应用。</p><p></p><p><a href=\"https://qcon.infoq.cn/2023/shanghai/presentation/5603?utm_source=infoqweb&amp;utm_medium=teacherart&amp;utm_campaign=8&amp;utm_term=1121&amp;utm_content=dengbo\">邓波（花名：光锥）</a>\"，2016 年加入阿里巴巴，致力于淘天集团接入网关的技术演进，为淘天集团提供稳定、高效的接入网关能力，同时主导推进云原生网关 Tengine-Ingress 的技术开源。他在本次会议的演讲内容如下：</p><p></p><p>演讲：Tengine-Ingress 高性能高可用云原生网关</p><p></p><p>Tengine 作为淘宝网发起的 Web 服务器开源项目，具备高性能、高可用特点，在进入云原生时代之后，存在的一些限制逐步凸显出来，如缺乏配置动态编排功能，用户侧流量可配置性和可观测性能力弱等问题。随着云原生 Ingress 入口网关规范的事实标准化以及淘天集团 Kubernetes 的大范围落地，也为 Tengine 的云原生化奠定基础。</p><p></p><p>Tengine-Ingress 网关基于 Kubernetes Ingress 标准，实现接入层的架构升级，技术底座在深度优化 Kubernetes/Ingress-Nginx 基础上融合 Tengine，不断提升自身性能和可用性，彻底根除痛点问题。同时由于淘天集团对稳定性的极致要求，扩展配置一致性和配置灰度生效能力，并将其反哺 Tengine 开源社区，保持对 Tengine 开源社区的持续输出。</p><p></p><p>演讲提纲：</p><p></p><p>Tengine-Ingress 云原生网关背景超大规模网关设计</p><p>○ 高性能低延迟 </p><p>○ 云原生架构 </p><p>○ 配置实时动态更新 </p><p>○ 配置灰度发布 </p><p>○ 超大规模配置全局一致性保障 </p><p>○ 多维度精细化路由</p><p>Tengine-Ingress 网关在淘天集团的应用未来规划</p><p></p><p>听众收益点：</p><p></p><p>○ Tengine-Ingress 云原生网关架构，以及演进过程中的思考</p><p>○ 大规模网关稳定性保障所需具备因素</p><p>○ 云原生网关在大型场景下落地经验</p><p></p><p>除上述演讲外，QCon 上海还将围绕&nbsp;<a href=\"https://qcon.infoq.cn/2023/shanghai/track/1595?utm_source=infoqweb&amp;utm_medium=teacherart\">GenAI和通用大模型应用探索</a>\"、<a href=\"https://qcon.infoq.cn/2023/shanghai/track/1596?utm_source=infoqweb&amp;utm_medium=teacherart\">AI&nbsp;Agent&nbsp;与行业融合应用的前景</a>\"、<a href=\"https://qcon.infoq.cn/2023/shanghai/track/1597?utm_source=infoqweb&amp;utm_medium=teacherart\">LLM&nbsp;时代的性能优化</a>\"、<a href=\"https://qcon.infoq.cn/2023/shanghai/track/1598?utm_source=infoqweb&amp;utm_medium=teacherart\">智能化信创软件&nbsp;IDE</a>\"、<a href=\"https://qcon.infoq.cn/2023/shanghai/track/1602?utm_source=infoqweb&amp;utm_medium=teacherart\">面向人工智能时代的架构</a>\"、<a href=\"https://qcon.infoq.cn/2023/shanghai/track/1604?utm_source=infoqweb&amp;utm_medium=teacherart\">性能工程：提升效率和创新的新方法</a>\"等专题进行交流。</p><p></p><p>QCon 上海 2023，相约 12 月！ 现在购票，享 8 折优惠，立减￥1360！咨询购票请联系：18514549229（微信同手机号）。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/01/0113b3dfb187d5f9988b7eb16d2e0594.png\" /></p><p></p>",
+    "publish_time": "2023-11-21 11:30:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]

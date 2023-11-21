@@ -9,5 +9,49 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "大功率，大电池的电动车比摩托车香多了",
+    "url": "https://www.v2ex.com/t/993690",
+    "summary": "clacf1: <p>本来准备考完驾照，买买摩托车的。所以买了个电动车过渡用。\n配置如下，72V120A 的电池，2000w 电机，6000W 功率的控制器。\n骑了两个月，我已经不打算买摩托车了，优势如下：</p>\n<ol>\n<li>成本低，充满 9 度电，大概 4 块钱，可以跑 180 公里</li>\n<li>速度块，我都是走机动车道，以开汽车的标准走，跟着车流的速度，很安全。</li>\n<li>刹车性能优秀，这个我重点讲一下。我是松油门电流回收制动，我开到了最大。经过我测试，在各种雨水路面，都可以稳稳刹停下。由于前轮没有制动，所以丝毫不会失控。如果需要更短的制动，保持车把正，带前刹即可。我个人觉得，电机制动，比 ABS 还好使，后面看情况再给前轮加一个 ABS 就齐活了。目前后轮电机制动，我觉得可以吊打没有 ABS 的踏板了。</li>\n</ol>\n<p>实在想不出买摩托车的理由了。</p>\n<p>补充下：我摔过一次，下雨天的时候，前面的小车右转加油，我打方向，带刹车，直接摔车。</p>",
+    "publish_time": "2023-11-21 09:13:16",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "idea 特别耗资源",
+    "url": "https://www.v2ex.com/t/993692",
+    "summary": "cMoon: <p>一打开就吃了快 6g 的内存,项目都还没打开一半内存没了  </p>\n<p>特别是在开新项目建索引或者构建的时候,cpu 也是动不动就 100</p>\n<p>笔记本<br />\ncpu: 8400<br />\n内存: 16g<br />\n系统: win10<br />\nidea 版本: 20.3.3</p>\n<p>感觉硬件没有瓶颈啊,是版本问题吗</p>\n<p>百度找的 idea 优化的 vm 设置也没啥用</p>\n<pre><code># 堆栈设置\n-Xms4G\n-Xmx4G\n-XX:MetaspaceSize=1G\n-XX:MaxMetaspaceSize=1G\n-XX:+AlwaysPreTouch\n-XX:InitialCodeCacheSize=1G\n-XX:ReservedCodeCacheSize=1G\n\n# GC 参数\n-XX:ParallelGCThreads=4\n\n# JIT 参数\n-XX:+TieredCompilation\n-XX:CICompilerCount=4\n-XX:TieredStopAtLevel=1\n-XX:MaxInlineLevel=3\n-XX:Tier4MinInvocationThreshold=100000\n-XX:Tier4InvocationThreshold=110000\n-XX:Tier4CompileThreshold=120000\n\n-Djava.net.preferIPv4Stack=true\n-Djdk.attach.allowAttachSelf\n\n#Error and Dump\n\n# 关闭启动图片\n-Dnosplash=true\n\n-Dfile.encoding=utf-8\n-javaagent:C:\\Users\\Public\\.BetterIntelliJ\\BetterIntelliJ-1.16.jar\n</code></pre>",
+    "publish_time": "2023-11-21 09:16:31",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "虽然现在 M3 了，但 M1 是真好用且够用",
+    "url": "https://www.v2ex.com/t/993710",
+    "summary": "x1024m: <p>刚从 win 阵营换成了 mac ，用了一周之后逐渐熟悉，有感而发。</p>\n<p>入手的二手 macbookpro(m1/16g)，对我日常 java/vue/react/小程序/app 开发、ps 简单图片处理、服务器数据库运维工作来说，m1 相对 intel11 代的提升是非常明显的，而且性能足够，多线程工作从来没有卡壳过，风扇很少转，配合 applewatch/airpods/iphone ，简直丝滑的不得了。</p>\n<p>可能是我追求太低，不过感觉 m2/m3 对我这种平平的程序员（非大数据/ai 工程师）来说实属过剩了。</p>\n<p>性能，够用就好，多出来的都是浪费。</p>",
+    "publish_time": "2023-11-21 09:51:51",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "请分享一首或者一句你最喜欢的诗词！中外文不限",
+    "url": "https://www.v2ex.com/t/993716",
+    "summary": "Vvvv22: <p>如题^^</p>",
+    "publish_time": "2023-11-21 09:59:57",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
