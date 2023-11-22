@@ -42,5 +42,49 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "大家都在听什么播客?",
+    "url": "https://www.v2ex.com/t/994034",
+    "summary": "boomer995: 想看看大家平时都在听些什么样的播客呢?愿意的话,就分享下你最近最喜欢的 1-2 个播客,最好能简单介绍一下它的主题和独特之处。",
+    "publish_time": "2023-11-22 09:25:18",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "苹果生态好像有种聚光灯效应，无法被超越。",
+    "url": "https://www.v2ex.com/t/994045",
+    "summary": "hfl1995: 苹果生态有种聚光灯效应，无法被超越。<br /><br />你可以轻松地在电商平台买到 不同样式的 MagSafe 磁吸配件，不同设计的手机壳。<br /><br />可以在各大软件厂商官网 download 按钮旁边，自豪的选择 download  for apple silicon 。<br /><br />可以在微博热搜看到你在用机型获得系统新版本更新的讨论。即使你的手机已经用了好几年了。<br /><br />可以踏实的使用高品质系统自有服务，iMessage  FaceTime  健康 音乐 tv+ 不用担心停更被抛弃被糊弄。<br /><br />以上这些，无法通过选择某个性价比小厂商来获得，虽然苹果有的，它可能都照猫画虎的做出来了，但这又好像纽约时代广场和你老家村口广场的区别，都是广场，都很聚人，但就是差点意思。",
+    "publish_time": "2023-11-22 09:49:08",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "Obsidian 最优的跨平台数据同步方案是什么？",
+    "url": "https://www.v2ex.com/t/994099",
+    "summary": "Jaeger: <p>目前我用的是 Self-hosted LiveSync 同步方案， 使用自己搭建的 CouchDB 服务器，如果仅仅同步文档数据没什么问题。</p>\n<p>但是我想同步插件和设置，不想在每个设备上重复的配置，也就是同步 .obsidian 目录。</p>\n<p>开启 .obsidian 同步之后体验就不是很好了，每次在其它设备上打开 Obsidian 总是要等待同步很大半天，而且同步期间还经常需要多次重启应用，重新加载配置，而且还时不时会出现冲突文件需要手动解决，体验很不丝滑。</p>\n<p>目前使用 Obsidian 需要在三台设备之间同步：Mac 、IOS 、Windows 。</p>\n<p>请教一下大家平时使用 Obsidian ，用的跨设备同步方案是什么？有没有体验与 Saas 软件类似的比较丝滑的同步方案？</p>",
+    "publish_time": "2023-11-22 11:08:24",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "话说深圳地铁真贵啊，一个月向深圳地铁稳定贡献三四百都没有任何优惠",
+    "url": "https://www.v2ex.com/t/994156",
+    "summary": "V2er0755: <p>每天单程 8 块，刷 nfc 刷交通卡 95 折单程也要 7.6 ，一天 15 块多了。\n请问各位坐深圳地铁有没有什么方式可以优惠一些呀</p>",
+    "publish_time": "2023-11-22 13:45:00",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
