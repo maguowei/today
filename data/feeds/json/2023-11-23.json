@@ -1365,5 +1365,129 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "电影化风格贾樟柯访谈录",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E5%8C%96%E9%A3%8E%E6%A0%BC%E8%B4%BE%E6%A8%9F%E6%9F%AF%E8%AE%BF%E8%B0%88%E5%BD%95%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "有些蔬菜嘌呤比肉还高",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%BA%9B%E8%94%AC%E8%8F%9C%E5%98%8C%E5%91%A4%E6%AF%94%E8%82%89%E8%BF%98%E9%AB%98%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "五六千预算，买笔记本划算还是买迷你主机+便携式显示器划算？",
+    "url": "https://www.zhihu.com/question/429961265",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价明日方舟危机合约#1赛季【浊燃作战】？",
+    "url": "https://www.zhihu.com/question/631146356",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Microsoft's internal memo about the chaos at OpenAI",
+    "url": "https://www.theverge.com/2023/11/22/23972572/microsoft-internal-memo-kevin-scott-openai",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38382907\">Comments</a>",
+    "publish_time": "2023-11-23 02:17:06",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Researchers develop a flat metalens that can change its focal length",
+    "url": "https://petapixel.com/2023/11/21/researchers-develop-a-flat-metalens-that-can-change-its-focal-length/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38382481\">Comments</a>",
+    "publish_time": "2023-11-23 01:50:03",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Western Digital Releases 24TB Ultrastar and Gold Hard Drives, 28TB SMR Ramping",
+    "url": "https://www.anandtech.com/show/21146/western-digital-ships-24tb-hdds-ramps-28tb-hard-drives",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38384434\">Comments</a>",
+    "publish_time": "2023-11-23 04:07:49",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "For RoR, see in production every method call, parameter and return value",
+    "url": "https://callstacking.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38383646\">Comments</a>",
+    "publish_time": "2023-11-23 03:07:49",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "All design and engineering of the original Tesla Roadster is now open source",
+    "url": "https://twitter.com/elonmusk/status/1727392569238159491",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38383099\">Comments</a>",
+    "publish_time": "2023-11-23 02:31:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Poor Charlie's Almanack: The Essential Wit and Wisdom of Charles T. Munger",
+    "url": "https://press.stripe.com/poor-charlies-almanack",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38384587\">Comments</a>",
+    "publish_time": "2023-11-23 04:21:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "My experience trying to write human-sounding articles using Claude AI",
+    "url": "https://idratherbewriting.com/blog/writing-full-length-articles-with-claude-ai",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38382067\">Comments</a>",
+    "publish_time": "2023-11-23 01:22:17",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Fast self-hostable open-source workflow engine",
+    "url": "https://www.windmill.dev/blog/launch-week-1/fastest-workflow-engine",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38383138\">Comments</a>",
+    "publish_time": "2023-11-23 02:33:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
