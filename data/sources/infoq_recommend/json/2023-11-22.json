@@ -53,5 +53,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "锚定应用！九章云极DataCanvas大模型系列成果重磅发布",
+    "url": "https://www.infoq.cn/article/NYpY2ibURWJDMB6QVutt",
+    "summary": "<p>11月21日，「筑基赋能&nbsp;智向未来」九章云极DataCanvas大模型系列成果发布会（以下简称“发布会”）在北京重磅召开，本次成果发布距离今年6月30日DataCanvas&nbsp;Alaya九章元识大模型公布仅4个多月。</p><p></p><p>发布会上，九章云极发布了围绕DataCanvas&nbsp;Alaya九章元识大模型的开源底层LLMOps大模型工具链，开源Alaya-7B大模型系列，以及TableAgent数据分析智能体等一系列直击应用的大模型创新成果。</p><p></p><h2>Alaya-7B通识&amp;对话大模型+ LLMOps工具链，大模型「全家桶」重磅开源</h2><p></p><p></p><p>发布会上，九章云极DataCanvas公司自主研发的DataCanvas&nbsp;Alaya&nbsp;九章元识大模型矩阵正式开源一系列新成果，其中包括「Alaya-7B大模型系列」中的Alaya-7B Foundation&nbsp;Model通识大模型和Alaya-7B Chat&nbsp;Model对话大模型两大模型，以及「LLMOps大模型工具链」中的LMS模型运行工具和LMPM&nbsp;提示词管理器两大工具。</p><p></p><p>九章云极DataCanvas 公司副总裁于建岗博士介绍，Alaya-7B大模型系列是DataCanvas Alaya九章元识大模型矩阵的成员之一，基于Alaya通识大模型，由自我采集、精心筛选处理的万亿token数据集（包含网络上的中英文文章、新闻、百科等数据源）上从0开始预训练而成。</p><p></p><p>Alaya-7B Chat&nbsp;Model&nbsp;是Alaya-7B Foundation&nbsp;Model的对话版本，通过在精心选择的微调数据集上进行微调，并对基于涉毒、涉黄以及不良偏见数据进行去毒，从而生成和人类价值观对齐的对话式大模型。Alaya-7B Chat&nbsp;Model具备多轮对话、自我认知和偏见拒答的能力，能够完成知识问答、代码编写、信息提取、阅读理解、创意写作等多项语言任务。</p><p></p><p>于建岗博士称，Alaya-7B大模型系列在保证模型表现的同时，对使用者的安装使用硬件要求更低、应用技术难度更低、训练所需的算力资源消耗更小，有助于加速大模型在各类行业场景的实际应用。</p><p></p><p>据悉，LLMOps大模型工具链覆盖了大模型从训练、精调、压缩、部署、推理到监控的全生命周期过程。本次开源两大工具——LMS(Large&nbsp;Model&nbsp;Serving)模型运行工具和LMPM (Large Model Prompt Manager) 提示词管理器——在大模型业务赋能过程中均起着关键作用。</p><p></p><p>LMS模型运行工具，能够提高大模型的交付速度和质量，降低大模型的运维和运营成本，以及完成大模型生产化及服务运营等方面的需求。LMPM提示词管理器，通过帮助用户设计更好的提示词，引导大模型生成更加准确、可靠、符合预期的输出内容。该工具既可面向技术人员提供development toolkit的开发模式，也可以面向非技术人员提供人机交互的操作模式，满足更多人群使用大模型的需求。</p><p></p><p>九章云极DataCanvas正在不断尝试工具链、大模型和行业应用的融合创新。此前，工具链之一DingoDB多模向量数据库，与DataCanvas&nbsp;Alaya九章元识大模型联合打造了企业知识管家解决方案，赋能企业构建高度自动化与智能化的企业知识库，加速多模态大模型落地应用。</p><p></p><p>从DingoDB多模向量数据库、LMS模型运行工具、LMPM提示词管理器，到Alaya-7B通识+对话大模型系列，九章云极DataCanvas已经为用户提供了从数据管理到大模型应用的一站式、0门槛、全链条开源工具组合。</p><p></p><p>开源地址：</p><p>Alaya-7B大模型：<a href=\"https://github.com/DataCanvasIO/Alaya\">https://github.com/DataCanvasIO/Alaya</a>\"</p><p>DingoDB多模向量数据库：https://github.com/DingoDB</p><p>LMS模型运行工具：<a href=\"https://github.com/DataCanvasIO/LMS\">https://github.com/DataCanvasIO/LMS</a>\"</p><p>LMPM提示词管理器：<a href=\"https://github.com/DataCanvasIO/LMPM\">https://github.com/DataCanvasIO/LMPM</a>\"</p><p></p>",
+    "publish_time": "2023-11-22 13:11:46",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
