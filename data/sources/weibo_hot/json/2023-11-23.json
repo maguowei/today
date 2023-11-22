@@ -592,5 +592,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "接英雄回家",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%8E%A5%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "李佳琦现身直播间辟谣双11后停播传闻",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%8E%B0%E8%BA%AB%E7%9B%B4%E6%92%AD%E9%97%B4%E8%BE%9F%E8%B0%A3%E5%8F%8C11%E5%90%8E%E5%81%9C%E6%92%AD%E4%BC%A0%E9%97%BB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "秦岚 情绪稳定的东北粮仓",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A+%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A%E7%9A%84%E4%B8%9C%E5%8C%97%E7%B2%AE%E4%BB%93%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
