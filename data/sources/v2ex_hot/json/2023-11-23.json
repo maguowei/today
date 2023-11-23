@@ -20,5 +20,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "和 mentor 代码习惯不一样，好头痛",
+    "url": "https://www.v2ex.com/t/994435",
+    "summary": "Ainokiseki: 校招生一枚，入职半年了，和 mentor 一起负责项目的某个模块，代码自然是两个人互相 review 。<br />mentor 之前在某大厂，看起来是比较资深的那种，再加上前期对项目不熟，小透明基本上是 mentor 说啥是啥。<br />review 的时候 mentor 的代码只要功能 ok 那就好，但是 mentor review 我的时候就有点不走心，有些地方没看懂就写 comment ，还有些地方我的设计本来 ok 的，他又要按他自己的习惯来改。<br />我理解这项目最开始是 mentor 写的，可能看着自己创造的东西被别人改来改去总会不舒服？至少我是无数次幻想着哪天 mentor 不在了我要把现在的代码按我的风格从头到尾重构一下 hhhh<br />可能 mentor 觉得我菜吧，但我觉得我只是经验不足，好歹哥们也是名校出来的，开发工作难度也就那样，要是功能缺陷那让我改我没话说，但只是代码习惯不一样就被要求改就很烦",
+    "publish_time": "2023-11-23 11:00:07",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
