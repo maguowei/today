@@ -1019,5 +1019,103 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "赵寅成 姨母笑",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%AF%85%E6%88%90+%E5%A7%A8%E6%AF%8D%E7%AC%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "SMTOWN日本家族演唱会",
+    "url": "https://s.weibo.com/weibo?q=%23SMTOWN%E6%97%A5%E6%9C%AC%E5%AE%B6%E6%97%8F%E6%BC%94%E5%94%B1%E4%BC%9A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "第一眼就喜欢的人会喜欢很久",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E7%9C%BC%E5%B0%B1%E5%96%9C%E6%AC%A2%E7%9A%84%E4%BA%BA%E4%BC%9A%E5%96%9C%E6%AC%A2%E5%BE%88%E4%B9%85%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "范丞丞关晓彤去王安宇外婆家吃饭",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%85%B3%E6%99%93%E5%BD%A4%E5%8E%BB%E7%8E%8B%E5%AE%89%E5%AE%87%E5%A4%96%E5%A9%86%E5%AE%B6%E5%90%83%E9%A5%AD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "i人生活再遭曝光",
+    "url": "https://s.weibo.com/weibo?q=%23i%E4%BA%BA%E7%94%9F%E6%B4%BB%E5%86%8D%E9%81%AD%E6%9B%9D%E5%85%89%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何评价2023亚太赛C题？",
+    "url": "https://www.zhihu.com/question/631470828",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Texas officials warn of rolling blackouts to ease strain on power grid",
+    "url": "https://www.dailymail.co.uk/news/article-12785185/Texas-officials-warn-rolling-blackouts-winter.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38405275\">Comments</a>",
+    "publish_time": "2023-11-25 00:03:25",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Some observations on the final text of the European Digital Identity framework",
+    "url": "https://blog.xot.nl/2023/11/20/some-observations-on-the-final-text-of-the-european-digital-identity-framework-eidas/index.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38406261\">Comments</a>",
+    "publish_time": "2023-11-25 01:38:19",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ask HN: How should I setup a phone for a newly blind relative?",
+    "url": "https://news.ycombinator.com/item?id=38406156",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38406156\">Comments</a>",
+    "publish_time": "2023-11-25 01:26:05",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Generative AI for Beginners",
+    "url": "https://microsoft.github.io/generative-ai-for-beginners/#/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38405823\">Comments</a>",
+    "publish_time": "2023-11-25 00:50:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
