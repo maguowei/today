@@ -907,5 +907,117 @@
       "desc": "知乎热榜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
     }
+  },
+  {
+    "title": "动物MBTI",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8A%A8%E7%89%A9MBTI%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "时代少年团演唱会后台跳舞",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%8E%E5%8F%B0%E8%B7%B3%E8%88%9E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "新闻女王 神之预判",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B+%E7%A5%9E%E4%B9%8B%E9%A2%84%E5%88%A4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "10种听起来吓人但无需治疗的病",
+    "url": "https://s.weibo.com/weibo?q=%2310%E7%A7%8D%E5%90%AC%E8%B5%B7%E6%9D%A5%E5%90%93%E4%BA%BA%E4%BD%86%E6%97%A0%E9%9C%80%E6%B2%BB%E7%96%97%E7%9A%84%E7%97%85%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "小时代的风吹进了黑白密码",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%97%B6%E4%BB%A3%E7%9A%84%E9%A3%8E%E5%90%B9%E8%BF%9B%E4%BA%86%E9%BB%91%E7%99%BD%E5%AF%86%E7%A0%81%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "快乐减肥操",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BF%AB%E4%B9%90%E5%87%8F%E8%82%A5%E6%93%8D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "甲骨文是王懿荣伪造的吗？",
+    "url": "https://www.zhihu.com/question/631604812",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如果三国杀司马懿多加一个技能使他成为神将，怎么改?",
+    "url": "https://www.zhihu.com/question/625862972",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "小学生该不该超前学？超前学是利大于弊还是弊大于利？",
+    "url": "https://www.zhihu.com/question/623005831",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "你都见过哪些不动声色的善良？",
+    "url": "https://www.zhihu.com/question/537980991",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Yi-34B-Chat",
+    "url": "https://huggingface.co/01-ai/Yi-34B-Chat",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38405406\">Comments</a>",
+    "publish_time": "2023-11-25 00:14:46",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "100% timeout for OpenAI API since 15:00 UTC. Anyone else?",
+    "url": "https://news.ycombinator.com/item?id=38405750",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38405750\">Comments</a>",
+    "publish_time": "2023-11-25 00:42:29",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
