@@ -1419,5 +1419,103 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "特斯拉连撞11车当天刚上牌",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E8%BF%9E%E6%92%9E11%E8%BD%A6%E5%BD%93%E5%A4%A9%E5%88%9A%E4%B8%8A%E7%89%8C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "尖叫之夜男明星怼脸生图",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E7%94%B7%E6%98%8E%E6%98%9F%E6%80%BC%E8%84%B8%E7%94%9F%E5%9B%BE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "金钟大抱女儿过马路",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E9%92%9F%E5%A4%A7%E6%8A%B1%E5%A5%B3%E5%84%BF%E8%BF%87%E9%A9%AC%E8%B7%AF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "为什么黛玉不嫉妒宝琴？为什么宝钗反而嫉妒宝琴？",
+    "url": "https://www.zhihu.com/question/582560282",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何看待和评价2022年度复旦医院排行榜？有何亮点和值得思考的地方？哪些进步/退步最大，原因是什么？",
+    "url": "https://www.zhihu.com/question/631906234",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "网络电视直播被禁止，免费的替代方案是什么？还是说要用更贵的有线电视？",
+    "url": "https://www.zhihu.com/question/631287067",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "PCSX2 Disables Wayland Support",
+    "url": "https://github.com/PCSX2/pcsx2/pull/10179",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38424657\">Comments</a>",
+    "publish_time": "2023-11-27 04:23:40",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Oracle of Zotero: LLM QA of Your Research Library",
+    "url": "https://github.com/Frost-group/The-Oracle-of-Zotero",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38423623\">Comments</a>",
+    "publish_time": "2023-11-27 02:13:55",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Noninvasive theta-burst stimulation enhances skill learning",
+    "url": "https://www.nature.com/articles/s41593-023-01457-7",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38424061\">Comments</a>",
+    "publish_time": "2023-11-27 03:10:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Dependencies Belong in Version Control",
+    "url": "https://www.forrestthewoods.com/blog/dependencies-belong-in-version-control/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38425042\">Comments</a>",
+    "publish_time": "2023-11-27 05:08:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
