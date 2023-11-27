@@ -53,5 +53,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "程序员没有在规定时间内完成开发任务，大家会怎么处理？",
+    "url": "https://www.v2ex.com/t/995469",
+    "summary": "laaaaaa: <h2>如题</h2>\n<pre><code>项目每个模块都有节点，相互依赖，本来 A 模块排期 第一周结束，第二周开始 B 模块，B 模块会依赖 A 模块，因为 A 模块的没有完成 就会一直拖，导致最终上线时间延期。 想问问大家对这一问题 都是怎么处理的？\n</code></pre>\n<h2>举个例子</h2>\n<pre><code>A 模块一个功能，安排给了一个开发人员，我评估大概需要 3 天工作量，实际开发人员评估 5 天完成，给了他 5 天时间，结果 5 天之后 各种理由说没有完成， 而且每天走的都是第一个，当然这也不是第一次， 之前几次都不了了之， 我觉得就是因为有前几次的情况 他觉得完不成也没啥，所以这种事情越来越严重， 但是这次领导给我施压，一定到杜绝这种现象；\n\n罚钱 或者 明确在绩效里？ 满几次就走人？\n</code></pre>",
+    "publish_time": "2023-11-27 10:29:48",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "武汉定居怎么样？预算 500 万买房。",
+    "url": "https://www.v2ex.com/t/995480",
+    "summary": "imes: <p>准备找个地方定居了。几个一线城市开销太大，看来看去还是区域性的中心城市适合。北边太冷，南边吃不惯，最后落定武汉了。<br />\n最近在看房子，正好在二环边上，黄鹤楼附近的楼盘，500 万能买到 140 平的新房。<br />\n有武汉的朋友说一说生活状态怎么样？怕现在看着是二线城市，等定居了发现落差太大，还得折腾着挪城市。<br /></p>",
+    "publish_time": "2023-11-27 10:44:20",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
