@@ -1741,5 +1741,76 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "科学提高免疫力的3个关键",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%AD%A6%E6%8F%90%E9%AB%98%E5%85%8D%E7%96%AB%E5%8A%9B%E7%9A%843%E4%B8%AA%E5%85%B3%E9%94%AE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "珠帘玉幕 打工奴端午",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8F%A0%E5%B8%98%E7%8E%89%E5%B9%95+%E6%89%93%E5%B7%A5%E5%A5%B4%E7%AB%AF%E5%8D%88%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如果给罗马军团的士兵提供青梅、各种肉类、各种蔬菜、奶酪、葡萄酒、鱼露、面包、酥油会怎样？",
+    "url": "https://www.zhihu.com/question/631656036",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美股三大指数集体收涨，拼多多大涨18％",
+    "url": "https://www.36kr.com/newsflashes/2538464337290752",
+    "summary": "36氪获悉，11月28日收盘，美股三大指数集体上涨，道指涨0.24%，纳指涨0.29%，标普500指数涨0.1%。大型科技股多数上涨，特斯拉涨超4％，Meta、微软涨超1％，谷歌涨0.58％，苹果涨0.32％，亚马逊跌0.47％，Netflix跌0.04％。热门中概股涨跌不一，拼多多涨超18％，叮咚买菜涨近7％，36氪、新东方涨近3％，唯品会涨超1％，虎牙跌超5％，斗鱼跌超4％，百度跌超3％，B站、微博跌超2％。",
+    "publish_time": "2023-11-29 07:00:00",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Powering cost-efficient AI inference at scale with Cloud TPU v5e on GKE",
+    "url": "https://cloud.google.com/blog/products/containers-kubernetes/cost-efficient-ai-inference-with-cloud-tpu-v5e-on-gke",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38450123\">Comments</a>",
+    "publish_time": "2023-11-29 03:32:47",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "SDXL Turbo: A Real-Time Text-to-Image Generation Model",
+    "url": "https://stability.ai/news/stability-ai-sdxl-turbo",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38450390\">Comments</a>",
+    "publish_time": "2023-11-29 03:56:56",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Shutting down the Matrix bridge to Libera Chat",
+    "url": "https://matrix.org/blog/2023/11/28/shutting-down-bridge-to-libera-chat/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38451920\">Comments</a>",
+    "publish_time": "2023-11-29 05:58:55",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
