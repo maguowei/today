@@ -1546,5 +1546,116 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "大学生独游华山坠崖失联10天",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%8B%AC%E6%B8%B8%E5%8D%8E%E5%B1%B1%E5%9D%A0%E5%B4%96%E5%A4%B1%E8%81%9410%E5%A4%A9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "流感",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B5%81%E6%84%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "电视剧《三体》有哪些让你哭笑不得的片段？",
+    "url": "https://www.zhihu.com/question/629815487",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "内存划分为什么要分为堆和栈，当初设计这两个的时候分别是要解决什么问题？",
+    "url": "https://www.zhihu.com/question/447017261",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价《崩坏 星穹铁道》1.5最新忘却之庭，万载盟誓的难度和满奖励需求提快到10回合？",
+    "url": "https://www.zhihu.com/question/632133877",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Positional description matters for transformers arithmetic",
+    "url": "https://arxiv.org/abs/2311.14737",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38448655\">Comments</a>",
+    "publish_time": "2023-11-29 01:56:37",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Some might not see how much work it was to maintain xorg server",
+    "url": "https://mastodon.social/@csoriano/111489425631719327",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38450284\">Comments</a>",
+    "publish_time": "2023-11-29 03:47:56",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Reasonable expectation of effectiveness for large dog lifespan extension",
+    "url": "https://loyalfordogs.com/posts/loyal-announces-historic-fda-milestone-for-large-dog-lifespan-extension-drug",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38447491\">Comments</a>",
+    "publish_time": "2023-11-29 00:27:43",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Hacking my filter coffee machine",
+    "url": "https://diziet.dreamwidth.org/17079.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38450576\">Comments</a>",
+    "publish_time": "2023-11-29 04:10:54",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Parsing 8-bit integers quickly",
+    "url": "https://lemire.me/blog/2023/11/28/parsing-8-bit-integers-quickly/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38450716\">Comments</a>",
+    "publish_time": "2023-11-29 04:19:44",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The camel, the rope, and the needle's eye",
+    "url": "http://kiwihellenist.blogspot.com/2023/11/camel.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38450577\">Comments</a>",
+    "publish_time": "2023-11-29 04:10:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
