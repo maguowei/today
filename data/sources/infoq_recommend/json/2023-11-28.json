@@ -86,5 +86,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "re:Invent 2023开幕！亚马逊云科技宣布推出三款新的无服务器产品",
+    "url": "https://www.infoq.cn/article/qvyCbNKj7gpbqlIPqyqb",
+    "summary": "<p>北京时间11月28日，亚马逊云科技re:Invent 2023会议正式开幕，在今天的主题演讲中，亚马逊云科技宣布了三项创新功能，旨在让管理 Amazon Aurora、Amazon Elastic Cache 和 Amazon Redshift Serverless服务变得更加容易。</p><p>&nbsp;</p><p></p><h2>Amazon Aurora Limitless Database</h2><p></p><p>&nbsp;</p><p>亚马逊云科技高级副总裁Peter DeSantis在主题演讲中指出，当今企业通过多个渠道生成和存储PB级别的数据，因此需要采用端到端的策略来进行大规模的分析和管理。他表示，亚马逊云科技提供了多种基于云的大数据服务，其中包括Amazon Aurora、Amazon ElastiCache和Amazon Redshift，以协助实施这些策略。通过这些服务，客户能够避免手动运行与其数据系统相关的大部分繁琐工作。</p><p>&nbsp;</p><p>Amazon Aurora是一项完全托管的MySQL和PostgreSQL数据库服务，具备可扩展性，能够支持每秒数十万个事务，支持细粒度的增量实时扩展和缩减容量。</p><p>&nbsp;</p><p>然而，DeSantis解释道，一些应用程序，比如金融交易处理和游戏，需要支持全球数亿用户。大多数组织尝试通过水平扩展，将工作负载分布到多个数据库实例来实现这一点。这个过程被称为分片，需要开发定制软件，将请求分流到最佳实例并跨多个实例进行更改。同时，还必须实时监控数据库活动，这些都是巨大的开销。</p><p>&nbsp;</p><p>为了解决这一问题，亚马逊云科技今天推出了Amazon Aurora Limitless Database，这是Amazon Aurora数据库的一项创新功能，能够自动扩展至超出原始写入限制，使开发人员更容易扩展其应用程序。目前已提供预览版，并且性能上可以扩展到每秒数百万个写入事务并管理数十PB的数据。</p><p>&nbsp;</p><p>对于客户而言，所有这些都是自动在后台完成的，这意味着客户无需再花费数月的时间创建定制软件来将请求路由到适当的数据库实例。对于工程团队而言，他们只需要管理实际上仍然是单个数据库的内容，因为任何更改都会自动应用于多个数据库实例，大大减少了运维管理上的开销。</p><p>&nbsp;</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/ba/ba5c042ac9177c2a9ca6e9d890534f3b.png\" /></p><p></p><p>&nbsp;</p><p>&nbsp;</p><p></p><h2>Amazon ElastiCache Serverless</h2><p></p><p>&nbsp;</p><p>此外，亚马逊云科技还宣布了Amazon ElastiCache Serverless功能，这是一个完全托管的Redis和Memcached数据缓存平台。尽管Amazon ElastiCache非常有用，但组织需要投入大量精力来配置该服务并完成所有初始设置。现在有了新功能，这些用户就能够在短短几秒钟内创建高度可用的数据缓存，无需进行预配或配置，整个设置过程是完全自动化的，并且该服务能够自动跨多个可用区复制数据，可用性高达99.99%。</p><p>&nbsp;</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/6d/6d4728e8122102a1a4b32113408bd520.jpeg\" /></p><p></p><p>&nbsp;</p><p></p><h2>Amazon Redshift Serverless优化功能</h2><p></p><p>&nbsp;</p><p>最后，亚马逊云科技宣布推出AI-driven scaling and Optimizations for Amazon Redshift Serverless新功能，使用 AI 自动优化和扩展 Amazon Redshift 数据仓库，从而大大减少 IT 运维工作量。</p><p>&nbsp;</p><p>在主题演讲中，DeSantis表示，Amazon Redshift Serverless现在能够根据工作负载模式主动改变其使用的资源：在白天，它可以在需求较低时减少数据库容量，同时在有必要的时候增加数据库容量，比如需要处理更复杂的查询时。随后，在晚上，它将主动增强其支持大数据处理任务的能力，无需任何人工干预。</p><p>&nbsp;</p><p>DeSantis补充说，其工作原理是预测和自动调整资源，同时进行成本效益分析，以确保针对每个工作负载进行优化。用户所需做的就是在亚马逊云科技的控制台中定义他们的性价比目标，调整成本和性能之间的平衡。该功能现已提供预览版。</p>",
+    "publish_time": "2023-11-28 17:32:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
