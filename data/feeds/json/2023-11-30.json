@@ -1544,5 +1544,76 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "医生建议学校改网课",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%BB%BA%E8%AE%AE%E5%AD%A6%E6%A0%A1%E6%94%B9%E7%BD%91%E8%AF%BE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "韩国红毯妆造",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%BA%A2%E6%AF%AF%E5%A6%86%E9%80%A0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "生动诠释了什么叫绩效工资",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%9F%E5%8A%A8%E8%AF%A0%E9%87%8A%E4%BA%86%E4%BB%80%E4%B9%88%E5%8F%AB%E7%BB%A9%E6%95%88%E5%B7%A5%E8%B5%84%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "美股三大指数收盘涨跌不一，热门中概股普跌",
+    "url": "https://www.36kr.com/newsflashes/2539926961481472",
+    "summary": "36氪获悉，11月29日收盘，美股三大指数涨跌不一，道指微涨0.04%，纳指跌0.16%，标普500指数跌0.09%。大型科技股多数下跌，Meta跌2%，谷歌、特斯拉跌超1%。热门中概股普跌，哔哩哔哩跌超11%，理想汽车跌超5%，小鹏汽车跌超4%，爱奇艺、微博跌超3%，阿里巴巴、京东、富途控股跌超2%；拼多多涨近2%，盘中市值一度超越阿里巴巴。",
+    "publish_time": "2023-11-30 07:00:59",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Show HN: Pgxman – npm for Postgres extensions",
+    "url": "https://pgxman.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38463731\">Comments</a>",
+    "publish_time": "2023-11-30 03:08:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Amazon Unveils Graviton4: A 96-Core ARM CPU with 536.7 GBps Memory Bandwidth",
+    "url": "https://www.anandtech.com/show/21172/amazon-unveils-graviton4-a-96core-cpu-with-5367-gbs-memory-bandwidth",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38465736\">Comments</a>",
+    "publish_time": "2023-11-30 05:44:24",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Cybertruck Launch",
+    "url": "https://www.tesla.com/cybertruck",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38465944\">Comments</a>",
+    "publish_time": "2023-11-30 06:03:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
