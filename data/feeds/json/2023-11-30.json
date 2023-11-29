@@ -1384,5 +1384,107 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "太原地震",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AA%E5%8E%9F%E5%9C%B0%E9%9C%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "乐游原最好的帝后爱情",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B9%90%E6%B8%B8%E5%8E%9F%E6%9C%80%E5%A5%BD%E7%9A%84%E5%B8%9D%E5%90%8E%E7%88%B1%E6%83%85%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "为什么英国的政党愿意叫自己保守党？",
+    "url": "https://www.zhihu.com/question/439796409",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么老实被认为是个缺点？",
+    "url": "https://www.zhihu.com/question/631998385",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Reddit Sans",
+    "url": "https://github.com/reddit/redditsans",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38463953\">Comments</a>",
+    "publish_time": "2023-11-30 03:22:28",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Cristiano Ronaldo faces $1B lawsuit over Binance ads",
+    "url": "https://www.bbc.com/news/technology-67566602",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38464788\">Comments</a>",
+    "publish_time": "2023-11-30 04:25:54",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The origins of the steam engine",
+    "url": "https://rootsofprogress.org/steam-engine-origins",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38463195\">Comments</a>",
+    "publish_time": "2023-11-30 02:32:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Llamafile lets you distribute and run LLMs with a single file",
+    "url": "https://github.com/Mozilla-Ocho/llamafile",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38464057\">Comments</a>",
+    "publish_time": "2023-11-30 03:29:49",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "EasyPost (YC S13) Is Hiring",
+    "url": "https://www.easypost.com/careers",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38465254\">Comments</a>",
+    "publish_time": "2023-11-30 05:00:41",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Unix-Haters Handbook (1994) [pdf]",
+    "url": "https://web.mit.edu/~simsong/www/ugh.pdf",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38464715\">Comments</a>",
+    "publish_time": "2023-11-30 04:20:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
