@@ -1403,5 +1403,134 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "探索鲜活终极密码",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%8E%A2%E7%B4%A2%E9%B2%9C%E6%B4%BB%E7%BB%88%E6%9E%81%E5%AF%86%E7%A0%81%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "国行PS5轻薄版今日发售",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%A1%8CPS5%E8%BD%BB%E8%96%84%E7%89%88%E4%BB%8A%E6%97%A5%E5%8F%91%E5%94%AE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "王者新英雄海诺",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E6%96%B0%E8%8B%B1%E9%9B%84%E6%B5%B7%E8%AF%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "举办大众马拉松赛事对于当地跑步文化有哪些带动作用？",
+    "url": "https://www.zhihu.com/question/629063086",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "2023 年即将结束，你想对辛苦工作一年的自己说些什么？你满意今年的工作成绩吗？",
+    "url": "https://www.zhihu.com/question/630270358",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "2023 年，你是否拿到了自己想要的 offer呢？在找工作的路上，你的心历路程是怎样的？",
+    "url": "https://www.zhihu.com/question/630290146",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "互联网是否将人们的各种情绪放大了？",
+    "url": "https://www.zhihu.com/question/630150006",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "To safely deploy generative AI in health care, models must be open source",
+    "url": "https://www.nature.com/articles/d41586-023-03803-y",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38478087\">Comments</a>",
+    "publish_time": "2023-12-01 03:38:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Firefox Developer Edition and Beta: Try Out Mozilla's .deb Package",
+    "url": "https://hacks.mozilla.org/2023/11/firefox-developer-edition-and-beta-try-out-mozillas-deb-package/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38478354\">Comments</a>",
+    "publish_time": "2023-12-01 04:03:47",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Evernote will restrict free users to 50 notes starting December 4",
+    "url": "https://techcrunch.com/2023/11/29/its-official-evernote-will-restrict-free-users-to-50-notes/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38478398\">Comments</a>",
+    "publish_time": "2023-12-01 04:07:35",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Firefox for Android is adding support for 400 add-ons",
+    "url": "https://liliputing.com/firefox-for-android-is-adding-support-for-400-add-ons/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38478238\">Comments</a>",
+    "publish_time": "2023-12-01 03:52:49",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Retro.directory",
+    "url": "http://retro.directory/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38478404\">Comments</a>",
+    "publish_time": "2023-12-01 04:08:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "eBPF – Introduction, Tutorials and Community Resources",
+    "url": "https://ebpf.io/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38478587\">Comments</a>",
+    "publish_time": "2023-12-01 04:25:26",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
