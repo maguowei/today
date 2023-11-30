@@ -1363,5 +1363,45 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "伊能静 最高级的悲喜在喜剧",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E8%83%BD%E9%9D%99+%E6%9C%80%E9%AB%98%E7%BA%A7%E7%9A%84%E6%82%B2%E5%96%9C%E5%9C%A8%E5%96%9C%E5%89%A7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何看待《崩坏：星穹铁道》获得 2023 App Store 和GooglePlay 年度最佳游戏？",
+    "url": "https://www.zhihu.com/question/632611961",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Chicken Hypnotism",
+    "url": "https://en.wikipedia.org/wiki/Chicken_hypnotism",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38477452\">Comments</a>",
+    "publish_time": "2023-12-01 02:53:17",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The weirdest bug I've seen yet",
+    "url": "https://engineering.gusto.com/the-weirdest-bug-ive-seen-yet/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38477100\">Comments</a>",
+    "publish_time": "2023-12-01 02:29:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
