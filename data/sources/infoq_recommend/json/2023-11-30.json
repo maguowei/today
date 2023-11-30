@@ -141,5 +141,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "亚马逊云科技推出生成式AI新工具和服务",
+    "url": "https://www.infoq.cn/article/wA47BLsxXDasYWNZ0R28",
+    "summary": "<p>亚马逊云科技于昨天推出“<a href=\"https://www.infoq.cn/article/KMJf53gIuk9mhQSgeOH6\">生成式AI技术堆栈</a>\"”后，又在今天的 re:Invent 2023大会上宣布了一系列支持这一全新堆栈的关键服务和工具。</p><p>&nbsp;</p><p>亚马逊云科技数据和人工智能副总裁 Swami Sivasubramanian在今天的主题演讲中，将生成式人工智能与“超新星爆炸”进行了比较，以描述当前的人工智能给我们带来的创新潜力。Sivasubramanian表示：“人类与技术之间的强大关系正在我们所有人面前展开。我愿意将今天发生的事情看作是数据、生成式AI与人类之间的有益关系。”</p><p>&nbsp;</p><p><img src=\"https://static001.geekbang.org/infoq/8d/8d12fc1aac6037c1d154a055bf91e039.jpeg\" /></p><p></p><p></p><p>但要应用好生成式AI的能力，必须要有相对应的用于构建和部署应用程序的工具以及机器学习基础设施。在今天的演讲中，亚马逊云科技主要从三个方面讲述了他们的人工智能工具与服务：机器学习平台SageMaker、新推出的Amazon Q 、提供基础模型服务的Amazon Bedrock平台。</p><p>&nbsp;</p><p>亚马逊云科技为SageMaker推出了名为HyperPod的新解决方案，旨在消除优化模型训练所涉及的繁琐机器学习基础设施工作。该公司声称，这一新产品能够将模型训练时间缩短40%。</p><p>&nbsp;</p><p>“这是一项重大事件，客户将明显感受到改善。”Sivasubramanian强调。</p><p>&nbsp;</p><p>HyperPod解决了分布式基础设施在处理大数据和训练模型复杂性方面的限制。通常，这包括将模型训练任务分散到数百或数千个加速器上，并在数周或数月内并行运行数万亿次数据计算。这意味着要编写大量代码并不断进行优化。而SageMaker HyperPod则允许自动分配训练工作负载到计算资源之间，并定期保存检查点，以避免在某个组件发生故障时损失时间。</p><p>&nbsp;</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/89/893d5db76a1f1a88f342b9b9b714374f.jpeg\" /></p><p></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>另外，亚马逊云科技在本周发布的 Amazon Q 基础上，在 Redshift 中添加了生成式 SQL来简化查询编写，并在无服务器Amazon Glue平台中添加了一个数据集成功能，可以通过自然语言来调用（Amazon Q data integration）。</p><p>&nbsp;</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/5e/5e09e307c651bfb44f76ea7916dc6af6.jpeg\" /></p><p></p><p>&nbsp;</p><p>“Q 通过连接你的数据来支持业务的每个领域，”Sivasubramanian 说。“我们可以利用这项技术来解决数据管理中的一些重大挑战。”</p><p>&nbsp;</p><p>Amazon Bedrock 是这次大会中的重头戏，在首席执行官Adam Selipsky和Sivasubramanian的主题演讲中均有展示。Amazon Bedrock已被超过10,000名客户使用，该公司一直在稳步为Amazon Bedrock 积累新功能，并进行一系列增强，包括昨天Selipsky演讲中提到的微调功能和新的安全服务。</p><p>&nbsp;</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/b1/b19ef7ccd082ec53a6cf7b1f4092b723.jpeg\" /></p><p></p><p>&nbsp;</p><p>为了满足更广泛的模型选择需求，亚马逊云科技宣布已纳入 Anthropic公司语言模型的最新版本 Claude 2.1，同时还将在 Bedrock 中添加 Meta公司的 Llama2 70B。</p><p>&nbsp;</p><p>“我们仍处于生成式AI的早期阶段，这些模型将继续加速发展，”Sivasubramanian 说。</p><p>&nbsp;</p><p>除此之外，向量数据库对生成式AI也很重要，亚马逊云科技为很多成熟的数据库增加了向量搜索功能，包括Amazon Aurora PostgreSQL、Amazon RDS for PostgreSQL、Amazon OpenSearch Service、Amazon OpenSearch Serverless等。Amazon Document DB, Amazon Dynamo DB也新添加了向量检索功能。</p><p>&nbsp;</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/3c/3c3f8071b038b35a6a7c3cbff4995517.jpeg\" /></p><p></p><p>&nbsp;</p><p>此外，Sivasubramanian还专门介绍了Amazon MemoryDB for Redis中的向量搜索功能，并强调其在最高召回率和最高吞吐量的条件下也能提供毫秒级的响应。</p><p>&nbsp;</p><p>“数据、生成式AI和人类之间强大的共生关系正在加速我们创新能力，”Sivasubramanian 说。“亚马逊云科技具有解锁这项强大技术的一切。”</p><p>&nbsp;</p>",
+    "publish_time": "2023-11-30 18:44:25",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
