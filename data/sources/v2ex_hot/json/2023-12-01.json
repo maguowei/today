@@ -20,5 +20,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "关于苹果未做右侧返回手势的猜想——由三星手势联想到的",
+    "url": "https://www.v2ex.com/t/996732",
+    "summary": "howoldareyou2: <p>目前安卓和苹果大部分触控开关都在右侧（经验加猜测），我在使用三星右侧返回手势的时候，经常会有这种情况出现：右侧返回和某个触控开关同时响应操作，这有时会带来意想不到的麻烦。</p>\n<p>所以我猜测，上述情况可能不容易解决，因此苹果没有使用右侧返回手势。</p>\n<p>还有一个问题，就是三星（安卓）右侧的触控开关按钮，有时通过左侧“滑动”也可以控制，虽然不如右侧灵敏，但这也有可能导致它的左侧返回手势出现误操作。</p>\n<p>于是这里我又对比了苹果，发现苹果虽然不少功能选项可以左侧操作，但是对于触控开关按钮，左侧无法控制，这就进一步避免了误操作。</p>\n<p>上面就是我从三星右侧返回手势联想到的，由于其它安卓品牌用的不多，姑且就以三星代表了安卓，所以猜想可能很狭隘。</p>",
+    "publish_time": "2023-12-01 10:08:56",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
