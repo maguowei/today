@@ -1391,5 +1391,47 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "肚子上的肥肉如何拯救",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%82%9A%E5%AD%90%E4%B8%8A%E7%9A%84%E8%82%A5%E8%82%89%E5%A6%82%E4%BD%95%E6%8B%AF%E6%95%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Embrace, Extend, and Extinguish",
+    "url": "https://en.wikipedia.org/wiki/Embrace,_extend,_and_extinguish",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38509780\">Comments</a>",
+    "publish_time": "2023-12-04 03:08:06",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "American Librarians Helped Defeat the Nazis",
+    "url": "https://daily.jstor.org/how-american-librarians-helped-defeat-the-nazis/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38509739\">Comments</a>",
+    "publish_time": "2023-12-04 03:02:47",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Let's learn how modern JavaScript frameworks work by building one",
+    "url": "https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38510209\">Comments</a>",
+    "publish_time": "2023-12-04 04:00:49",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
