@@ -53,5 +53,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "Vue 项目中，每个页面都有 2~3 个对话框，应该如何整理存放和复用？",
+    "url": "https://www.v2ex.com/t/997210",
+    "summary": "giter: <p>前端基于 Vue3 + Element Plus + Vite + TypeScript 。当前，每个页面都有类似于：详情对话框、编辑对话框和各种嵌套对话框等，该复用的已经复用过了，剩下的对话框都含有各自的特色内容，不宜复用，强行复用可能会导致单文件代码量过多不利于后期维护。</p>\n<p><strong>目前的疑问</strong>：我现在的做法是拆分每个 <code>el-dialog</code> 为单文件组件，存放到 <code>components</code> 文件夹下（可能有违 <code>components</code> 这个文件夹的定义，我的理解是 <code>components</code> 用来存放一些复用性很高的组件，而不是这种零散的对话框单组件文件）所以就导致我现在的项目结构很多 <code>xxxDialog.vue</code> 文件，既不知道如何归类存放，也不知道该怎么高效复用。</p>",
+    "publish_time": "2023-12-03 11:09:05",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "每天通勤 100KM 左右 一年内无车位 帮我看看选什么电车？",
+    "url": "https://www.v2ex.com/t/997261",
+    "summary": "clemente: <p>当考虑购买电车技术快速发展且预算在 25 万以内时，以下是一些选择，按照预算从低到高排列，并考虑了家用、SUV 、充电速度、机械素质以及长期可维护性：</p>\n<table>\n<thead>\n<tr>\n<th>序号</th>\n<th>类型</th>\n<th>车型</th>\n<th>预算</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>合资</td>\n<td>零跑 C10 丐版 SUV</td>\n<td>约 15 万左右</td>\n</tr>\n<tr>\n<td>2</td>\n<td>国产</td>\n<td>小米 SU7 丐版 轿车</td>\n<td>约 20 万左右</td>\n</tr>\n<tr>\n<td>3</td>\n<td>合资</td>\n<td>上汽别克 E5 先锋版 SUV</td>\n<td>约 17 万左右</td>\n</tr>\n<tr>\n<td>4</td>\n<td>国产</td>\n<td>小鹏 G6PRO SUV</td>\n<td>约 21 万</td>\n</tr>\n<tr>\n<td>5</td>\n<td>国产</td>\n<td>比亚迪元 SUV</td>\n<td>约 15 万</td>\n</tr>\n<tr>\n<td>6</td>\n<td>国产</td>\n<td>奇瑞 iCar03 SUV</td>\n<td>约 15 万左右</td>\n</tr>\n<tr>\n<td>7</td>\n<td>国产</td>\n<td>奇瑞智界 S7 轿车</td>\n<td>约 25 万左右</td>\n</tr>\n<tr>\n<td>8</td>\n<td>国产</td>\n<td>吉利极氪 007 轿车</td>\n<td>约 23 万左右</td>\n</tr>\n</tbody></table>",
+    "publish_time": "2023-12-03 16:36:06",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
