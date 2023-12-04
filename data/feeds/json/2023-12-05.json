@@ -1497,5 +1497,111 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "重返庭审现场",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%87%8D%E8%BF%94%E5%BA%AD%E5%AE%A1%E7%8E%B0%E5%9C%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何评价查理芒格？",
+    "url": "https://www.zhihu.com/question/68542131",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "No genuinely 'safe' alternatives to engineered stone bench tops, study finds",
+    "url": "https://www.abc.net.au/news/2023-12-05/study-finds-safety-concerns-in-engineered-stone-alternatives/103185450",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38522671\">Comments</a>",
+    "publish_time": "2023-12-05 04:35:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Demo of Agent Based Model on GPU with CUDA and OpenGL (Windows/Linux)",
+    "url": "https://github.com/KienTTran/ABMGPU",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38521998\">Comments</a>",
+    "publish_time": "2023-12-05 03:34:56",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Generating random terrains with Enu – a Nim lang based interactive sandbox",
+    "url": "https://moigagoo.svbtle.com/generating-random-terrains-in-enu-0-2",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38520901\">Comments</a>",
+    "publish_time": "2023-12-05 02:21:47",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A Windows Update bug is renaming everyone's printers to HP M101-M106",
+    "url": "https://www.xda-developers.com/windows-update-bug-renaming-printers-m101-m106/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38522325\">Comments</a>",
+    "publish_time": "2023-12-05 03:59:17",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Switch off weird smart TV settings",
+    "url": "https://practicalbetterments.com/switch-off-bad-tv-settings/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38518994\">Comments</a>",
+    "publish_time": "2023-12-05 00:08:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Judge: Amazon \"cannot claim shock\" that bathroom spycams were used as advertised",
+    "url": "https://arstechnica.com/tech-policy/2023/12/amazon-faces-trial-after-selling-bathroom-spycam-used-to-abuse-minor/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38522650\">Comments</a>",
+    "publish_time": "2023-12-05 04:33:12",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Mamba: Linear-Time Sequence Modeling with Selective State Spaces",
+    "url": "https://arxiv.org/abs/2312.00752",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38522428\">Comments</a>",
+    "publish_time": "2023-12-05 04:12:25",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Llamafile – The easiest way to run LLMs locally on your Mac",
+    "url": "https://ppaolo.substack.com/p/how-to-run-chatgpt-like-llms-locally",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38522636\">Comments</a>",
+    "publish_time": "2023-12-05 04:32:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
