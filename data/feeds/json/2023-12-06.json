@@ -1584,5 +1584,65 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "王安宇首次获得演员奖",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E9%A6%96%E6%AC%A1%E8%8E%B7%E5%BE%97%E6%BC%94%E5%91%98%E5%A5%96%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "新疆多地突发闹海风",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E5%A4%9A%E5%9C%B0%E7%AA%81%E5%8F%91%E9%97%B9%E6%B5%B7%E9%A3%8E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "有哪些演唱会毋庸置疑真唱的歌手？",
+    "url": "https://www.zhihu.com/question/633314234",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美股三大股指收盘涨跌不一，大型科技股多数上涨",
+    "url": "https://www.36kr.com/newsflashes/2548454062577797",
+    "summary": "36氪获悉，12月5日收盘，美股三大指数涨跌不一，道指跌0.22%，纳指涨0.31%，标普500指数跌0.06%。大型科技股多数上涨，苹果涨2.1%，市值重回3万亿美元上方；英伟达涨超2%，亚马逊、谷歌、特斯拉涨超1%。热门中概股多数下跌，微博跌超3%，腾讯音乐跌超2%，京东、网易、爱奇艺、哔哩哔哩跌超1%，蔚来、小鹏汽车涨超1%。",
+    "publish_time": "2023-12-06 07:01:31",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Google Season of Docs announces results of 2023 program",
+    "url": "https://opensource.googleblog.com/2023/12/google-season-of-docs-announces-results-2023.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38536464\">Comments</a>",
+    "publish_time": "2023-12-06 04:25:14",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "StyleX – Meta's Styling Library",
+    "url": "https://stylexjs.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38537682\">Comments</a>",
+    "publish_time": "2023-12-06 06:14:05",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
