@@ -1335,5 +1335,83 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Prada仓库故事",
+    "url": "https://s.weibo.com/weibo?q=%23Prada%E4%BB%93%E5%BA%93%E6%95%85%E4%BA%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "吴磊的真我GT5 Pro",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E7%9A%84%E7%9C%9F%E6%88%91GT5+Pro%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "73万元手表4个月就起雾",
+    "url": "https://s.weibo.com/weibo?q=%2373%E4%B8%87%E5%85%83%E6%89%8B%E8%A1%A84%E4%B8%AA%E6%9C%88%E5%B0%B1%E8%B5%B7%E9%9B%BE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "供应商或已开始为iPhone全面屏做准备",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BE%9B%E5%BA%94%E5%95%86%E6%88%96%E5%B7%B2%E5%BC%80%E5%A7%8B%E4%B8%BAiPhone%E5%85%A8%E9%9D%A2%E5%B1%8F%E5%81%9A%E5%87%86%E5%A4%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "你的 2023 年度游戏是什么？",
+    "url": "https://www.zhihu.com/question/633376685",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "W3C Leaves Twitter",
+    "url": "https://w3c.social/@w3c/111534700276754588",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38547203\">Comments</a>",
+    "publish_time": "2023-12-07 01:49:57",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "OpenAI Switch Kit: Swap OpenAI with any open-source model",
+    "url": "https://postgresml.org/blog/introducing-the-openai-switch-kit-move-from-closed-to-open-source-ai-in-minutes",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38547556\">Comments</a>",
+    "publish_time": "2023-12-07 02:17:49",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Polymath Robotics (YC S22) is hiring a robotics safety engineer – San Francisco",
+    "url": "https://www.ycombinator.com/companies/polymath-robotics/jobs/5icOcQK-robotics-safety-engineer-in-san-francisco",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38546478\">Comments</a>",
+    "publish_time": "2023-12-07 01:01:07",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
