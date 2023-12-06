@@ -1413,5 +1413,76 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "你有没有礼貌啊你就到处吐口水",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%9C%89%E6%B2%A1%E6%9C%89%E7%A4%BC%E8%B2%8C%E5%95%8A%E4%BD%A0%E5%B0%B1%E5%88%B0%E5%A4%84%E5%90%90%E5%8F%A3%E6%B0%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "2023CFS",
+    "url": "https://s.weibo.com/weibo?q=%232023CFS%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "滕哈格已经失去了半数球员的支持，曼联的更衣室开始出现问题，对此你作何评价？",
+    "url": "https://www.zhihu.com/question/633370237",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Show HN: Lume – automate data mappings using AI",
+    "url": "https://www.lume.ai/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38547033\">Comments</a>",
+    "publish_time": "2023-12-07 01:37:48",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Wikifunctions",
+    "url": "https://wikimediafoundation.org/news/2023/12/05/introducing-wikifunctions-first-wikimedia-project-to-launch-in-a-decade-creates-new-forms-of-knowledge/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38548130\">Comments</a>",
+    "publish_time": "2023-12-07 03:04:28",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Data-Oriented Design",
+    "url": "https://www.dataorienteddesign.com/dodbook/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38547737\">Comments</a>",
+    "publish_time": "2023-12-07 02:30:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Quad9 wins appeal against Sony",
+    "url": "https://quad9.net/news/blog/quad9-turns-the-sony-case-around-in-dresden/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38548209\">Comments</a>",
+    "publish_time": "2023-12-07 03:11:46",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
