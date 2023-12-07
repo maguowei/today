@@ -108,5 +108,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "Intel 芯片的 Mac 是真不行了，求机型推荐",
+    "url": "https://www.v2ex.com/t/998222",
+    "summary": "IslandOwnerHuang: 楼主机器的配置是 i9 9980H+RP5600m 。之前为了续航和发热一直在用 Turbo Boost Switcher ，默认离电关闭睿频。<br /><br />结果今天上课的时候跟组员合作写 Google Doc ，开十多个 Safari 标签页+三个 Edge 的标签页，整台电脑的速度明显下降，症状包括但不限于：在 Google Doc 的网页打英文会延迟，切换标签页卡顿，切换软件时掉帧。迫于无奈只能打开睿频，然后温度立马就从 58 度冲到 70 度了😓<br /><br />等今年期末考试考完了，确实该考虑换 ARM 芯片的 Mac 了。<br />所以文科生，不搞开发，最多就拿 Mac 玩个英雄联盟，买 M3PRO （ 12CPU18GPU ）的 18G+1T 够用吗？有必要加钱上 M3 Max 吗？",
+    "publish_time": "2023-12-07 03:54:17",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
