@@ -1363,5 +1363,90 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "王耀庆跳绿牛舞",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%80%E5%BA%86%E8%B7%B3%E7%BB%BF%E7%89%9B%E8%88%9E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "北京WB王者荣耀战队加油",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%ACWB%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%88%98%E9%98%9F%E5%8A%A0%E6%B2%B9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "律师称若五月天为真唱举报者无需担责",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E7%A7%B0%E8%8B%A5%E4%BA%94%E6%9C%88%E5%A4%A9%E4%B8%BA%E7%9C%9F%E5%94%B1%E4%B8%BE%E6%8A%A5%E8%80%85%E6%97%A0%E9%9C%80%E6%8B%85%E8%B4%A3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "宋威龙好帅",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A8%81%E9%BE%99%E5%A5%BD%E5%B8%85%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "鸣龙少年定档",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%B8%A3%E9%BE%99%E5%B0%91%E5%B9%B4%E5%AE%9A%E6%A1%A3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何用游戏角色的一句台词概括你的 2023 年？",
+    "url": "https://www.zhihu.com/question/632321896",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "爱喝碳酸饮料和咖啡的加班打工人，长期以往会缺钙吗？对身体健康有什么影响？",
+    "url": "https://www.zhihu.com/question/631297942",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Standard Webhooks: open-source tools and guidelines for sending webhooks",
+    "url": "https://github.com/standard-webhooks/standard-webhooks",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38559139\">Comments</a>",
+    "publish_time": "2023-12-08 01:24:54",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "OpenAI employees did not want to go work for Microsoft",
+    "url": "https://www.businessinsider.com/openai-employees-did-not-want-to-work-for-microsoft-2023-12",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38560041\">Comments</a>",
+    "publish_time": "2023-12-08 02:40:28",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
