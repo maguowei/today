@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Android 新增 Telecom 库 jetpack，简化音频/视频通话应用开发",
+    "url": "https://www.infoq.cn/article/aNLotE3G2UBH2ftFlpk4",
+    "summary": "<p>Android 新增 Telecom 库 jetpack。该库目前为 Alpha 版本，旨在简化音频及视频通话应用的开发。它为 Android 开发人员提供了多个 API，支持应答 / 拒绝、音频路由等常见功能。</p><p></p><p>首先，新库会负责声明它使用哪些前台服务。这意味着开发者不需要显式遵守 Android 14 中新引入的的隐私要求。该库还可以确保用户离开应用时通话不会中断，而这对于开发者来说是透明的。</p><p></p><p>该 Telecom 库还为智能手表提供了一个 API，用于处理用户操作，如接听、拒绝、挂断和静音呼叫。该 API 可以流畅地在手表上显示与呼叫相关的信息，并且，当用户正在进行通话而又有另一个呼叫进入时，可以为用户保持当前呼叫。</p><p></p><p>新库提供的另一个主要功能是音频路由，因此，使用它的任何应用程序都不需要使用音频管理器来跟踪设备的音频状态及获取可用音频设备的列表等。该库可以列出所有可用的去向 / 来自蓝牙音频设备的流式音频端点。</p><p></p><p>该 Telecom 库引入了一个新的 CallsManager 类，取代了以前非 jetpack 库中提供的 ConnectionService 类。如果开发人员想要利用新类所带来的好处，就需要完成一项特定的迁移。</p><p></p><p></p><blockquote>从ConnectionService 迁移到 CallManager 非常简单，但也不是改下命名空间那么简单。你可以认为，CallManager 取代的是ConnectionService ，而CallControlScope 取代的是ConnectionService.</blockquote><p></p><p></p><p>下面的代码片段展示了如何添加一个具有给定属性的呼叫：</p><p></p><p><code lang=\"java\">val attributes = CallAttributesCompat( \n       displayName = displayName, \n              address = address,\n       direction = CallAttributesCompat.DIRECTION_INCOMING,\n       callType = CallAttributesCompat.CALL_TYPE_AUDIO_CALL,\n       callCapabilities = (CallAttributesCompat.SUPPORTS_SET_INACTIVE\n                or CallAttributesCompat.SUPPORTS_STREAM \n                               or CallAttributesCompat.SUPPORTS_TRANSFER), \n)\ncallsManager.addCall(\n        attributes\n      ) { \n                // Call control scope \n\n}\n</code></p><p></p><p>谷歌表示，在未来几个月，这个库会增加许多新功能，并且向后兼容至 Android O（API level 26）。如果你对使用它创建一个 Android VoIP 应用感兴趣，那么最好从谷歌的官方示例应用入手，它向开发者展示了如何使用各种 API。</p><p></p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2023/11/android-jetpack-telecom-library/\">https://www.infoq.com/news/2023/11/android-jetpack-telecom-library/</a>\"</p><p></p><p></p><p></p><p></p>",
+    "publish_time": "2023-12-07 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
