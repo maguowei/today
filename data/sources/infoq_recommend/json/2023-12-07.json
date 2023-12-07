@@ -53,5 +53,27 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "手把手教你在 pycharm 中安装 Amazon CodeWhisperer – AI 代码生成器",
+    "url": "https://www.infoq.cn/article/Z5kqO0J3Yq7bt3IiUsCE",
+    "summary": "<p></p><blockquote>文章作者：这世上无所不能的阳～</blockquote><p></p><p></p><p><a href=\"https://aws.amazon.com/cn/codewhisperer/?trk=cndc-detail\">Amazon CodeWhisperer 官网</a>\"：<a href=\"https://aws.amazon.com/codewhisperer/\">https://aws.amazon.com/codewhisperer/</a>\"在 pycharm 使用中如果想使用&nbsp;Amazon CodeWhisperer 首先点击 File 选择setting</p><p><img src=\"https://static001.infoq.cn/resource/image/60/8f/60c8f2c6410033c30c43671505e87a8f.png\" /></p><p></p><p>找到 Plugins 在文本框中搜索“Amazon Toolkit”接着搜索结果中就会出现 Amazon Toolkit 插件，我们点击图示标注的“Install”即可安装该插件了。</p><p><img src=\"https://static001.infoq.cn/resource/image/f7/d2/f74471310c6b5900d0c1f56cac01abd2.png\" /></p><p></p><p>安装之后 pycharm 会进行自动重启，重启后再左下角就会出现 Amazon Toolkit，点击 Amazon Toolkit 后再点击“Add Connection to Amazon”按钮登录。</p><p><img src=\"https://static001.infoq.cn/resource/image/00/30/002df75c26b3c546895f8cae4d7ff730.png\" /></p><p></p><p>如果是初次使用默认选择“Use a personal email to sign up and sign in with Amazon Builder ID”，接着点击“Connect”</p><p><img src=\"https://static001.infoq.cn/resource/image/47/3b/47c634ce8fd3def7af1967b94c661f3b.png\" /></p><p></p><p>点击后接着会弹出下图所示的界面，我们点击图示标注所示的“Open and Copy Code”；</p><p><img src=\"https://static001.infoq.cn/resource/image/13/e7/1308f11540baf5490c7c034e6eab75e7.png\" /></p><p></p><p>接着会跳转到网页浏览器中打开登录界面，我们在图中所示的 code 一栏中粘贴上验证码，点击\"next\"按钮</p><p><img src=\"https://static001.infoq.cn/resource/image/13/1c/13fce4f858e69b13e3d5916d0ca7081c.png\" /></p><p></p><p>没有账号的会创建账户，在图中标注的位置中填写邮箱和姓名后点击\"next\"按钮</p><p></p><p><img src=\"https://static001.infoq.cn/resource/image/37/43/371fa0e0267b51bcea97a23a5de03e43.png\" /></p><p></p><p>填写的邮箱会收到相应的验证码，将验证码进行复制</p><p></p><p><img src=\"https://static001.infoq.cn/resource/image/60/07/6047ebf3ff2b1f9bbb2b1c145347f507.png\" /></p><p></p><p>将验证码填入图中点击\"next\"按钮，就会出现下图的设置密码，按照要求设置好密码后，点击“Create Amazon Builder ID”按钮</p><p></p><p></p><p>登录成功后如下图所示，我们点击图示标注所示的“Allow”按钮完成授权即可。</p><p><img src=\"https://static001.infoq.cn/resource/image/22/71/22d283d4ab630cb3fa1674d40d01b471.png\" /></p><p></p><p>授权成功会弹出绿色的小框</p><p></p><p><img src=\"https://static001.infoq.cn/resource/image/62/d4/6253cfc3148f31f59ff44784813178d4.png\" /></p><p></p><p>返回 pycharm 会进行提示，点击“yes”即可</p><p><img src=\"https://static001.infoq.cn/resource/image/47/c1/47ba03c9c2d91d69633c5f80f97656c1.png\" /></p><p></p><p>图中表示以安装成功，这样我们就可以开始使用 CodeWhisperer 了。</p><p><img src=\"https://static001.infoq.cn/resource/image/d9/5c/d97e99584d850e712cfb6a9c8233c55c.png\" /></p><p></p><p>在我们编写代码时，CodeWhisperer 会给出与当前光标位置相关的代码建议。如上图所示，我们在代码编辑窗口写上一个注释，例如“<a href=\"https://so.csdn.net/so/search?q=kmeans%E7%AE%97%E6%B3%95&amp;spm=1001.2101.3001.7020?trk=cndc-detail\">kmeans 算法</a>\"”，然后回车，我们就可以看到该插件为我们给出了相关代码建议，只需要直接可以通过单击鼠标来接受或拒绝建议即可，你可以选择“Next”继续生成，然后“Insert Code”插入代码。你的注释描述信息写的越精准，⽣成的代码质量越好。</p><p><img src=\"https://static001.infoq.cn/resource/image/3c/9c/3cb16yy579fc239f3ca3704e98b8d89c.png\" /></p><p></p><p>此外，如果我们点击 \"Run Security Scan\"，我们可以让 CodeWhisperer 检查你的代码是否存在安全漏洞，并给我们提供代码建议来修复它们。我们还可以通过点击鼠标接受或拒绝这些建议，或者修改这些建议以满足实际使用要求。</p>",
+    "publish_time": "2023-12-07 14:48:46",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "一站式数据库上云迁移、同步与集成平台DTS的设计和实践",
+    "url": "https://www.infoq.cn/article/Vi9e7DGG3wBMVJQF3wBW",
+    "summary": "<p>《百度智能云数据库》系列云智公开课第四期课程，百度智能云数据库资深工程师余欣纬将和大家分享数据库上云迁移与同步/集成的整体背景、百度智能云在上云迁移与同步/集成两个方向的设计、百度云DTS可复用的实践案例。</p>",
+    "publish_time": "2023-12-07 14:52:18",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
