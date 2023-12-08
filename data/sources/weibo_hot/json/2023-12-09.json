@@ -574,5 +574,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "PUBG新地图荣都",
+    "url": "https://s.weibo.com/weibo?q=%23PUBG%E6%96%B0%E5%9C%B0%E5%9B%BE%E8%8D%A3%E9%83%BD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "当你把手伸到狗狗面前时",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BD%A0%E6%8A%8A%E6%89%8B%E4%BC%B8%E5%88%B0%E7%8B%97%E7%8B%97%E9%9D%A2%E5%89%8D%E6%97%B6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "爱江珊更爱美人",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%B1%9F%E7%8F%8A%E6%9B%B4%E7%88%B1%E7%BE%8E%E4%BA%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]

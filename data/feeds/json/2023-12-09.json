@@ -1184,5 +1184,96 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "PUBG新地图荣都",
+    "url": "https://s.weibo.com/weibo?q=%23PUBG%E6%96%B0%E5%9C%B0%E5%9B%BE%E8%8D%A3%E9%83%BD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "当你把手伸到狗狗面前时",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BD%A0%E6%8A%8A%E6%89%8B%E4%BC%B8%E5%88%B0%E7%8B%97%E7%8B%97%E9%9D%A2%E5%89%8D%E6%97%B6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "爱江珊更爱美人",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%B1%9F%E7%8F%8A%E6%9B%B4%E7%88%B1%E7%BE%8E%E4%BA%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "NBA季中锦标赛冠军的含金量如何？",
+    "url": "https://www.zhihu.com/question/633752099",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "A Bike Lane Moved, and This San Francisco Neighborhood Erupted",
+    "url": "https://sfstandard.com/2023/12/08/san-francisco-small-business-protests-valencia-street-bike-lane/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38572401\">Comments</a>",
+    "publish_time": "2023-12-09 02:29:19",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "FDA Approves Sickle Cell Treatments, Including One That Uses CRISPR",
+    "url": "https://www.nytimes.com/2023/12/08/health/fda-sickle-cell-crispr.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38571972\">Comments</a>",
+    "publish_time": "2023-12-09 01:57:16",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer",
+    "url": "https://arxiv.org/abs/1701.06538",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38572284\">Comments</a>",
+    "publish_time": "2023-12-09 02:20:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "New year, new company – encouraging last-minute applications to YC",
+    "url": "https://news.ycombinator.com/item?id=38572504",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38572504\">Comments</a>",
+    "publish_time": "2023-12-09 02:36:45",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "FDA approves a CRISPR-based medicine for treatment of sickle cell disease",
+    "url": "https://www.statnews.com/2023/12/08/fda-approves-casgevy-crispr-based-medicine-for-treatment-of-sickle-cell-disease/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38571956\">Comments</a>",
+    "publish_time": "2023-12-09 01:56:30",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
