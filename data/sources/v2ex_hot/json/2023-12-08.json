@@ -86,5 +86,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "讨论下 PHP 转 go 的水平",
+    "url": "https://www.v2ex.com/t/998612",
+    "summary": "v2li32: 今天摸鱼又看到 php 性能不行的帖子,我是专业 phper,也能写 java,python,不爱写 go 是因为不喜欢 go 的语法。<br /><br /><br />不知道因为性能问题转 go 的人是否深入理解过 php.有没有了解到 php 的常驻模式下运行,了解到 select,epoll,然后在去得出结论 php 性能不行。<br /><br />都是跑在 linux 下的编程语言,都在用 select,epoll,谁又能差谁很多,不晓得大多数 phper 有没有搞到这一步。<br /><br />在回到开发效率上，php 真的是 web 语言开发效率第一。<br />orm ，一对多，多对多关联，起码是把 java 开发效率秒的车尾灯都看不到。<br /><br /><br />再说项目开发,项目大了，什么动态静态语言开发出来的都是屎山。<br /><br />不是公司硬性规定，或者自己喜欢学一下 golang ，转 golang 是为了什么。。写 php 的应该都不会喜欢 golang 的写法。  <br /><br />以下 phper 转 go 先评价下自己的 php 评分。<br /><br />会 curd 一个框架的评 a<br />...+多个框架基础的 redis 队列,自定义进程都能搞评 b<br />...+可以随意很快上手不了解的框架评 c,<br />...+可以随意点击框架/扩展包看个大概流程评 d,<br />...+了解 php 为什么跟 java 比性能不行，linux 下调试追踪，会多进程网络编程评 e,<br />...+能看懂部分 php 源码实现评 f.<br /><br />所以你(phper)转 go 在 a,b,c,d,e,f 那个层次呢。",
+    "publish_time": "2023-12-08 11:05:54",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "各位觉得鸿蒙系统的生态在未来是否能做起来？",
+    "url": "https://www.v2ex.com/t/998683",
+    "summary": "hauibojek: <p>之前体制内限制苹果手机的使用，加上中美关系的不稳定因素。在未来国内手机市场的苹果份额会不会逐渐降低，被国产替代？鸿蒙系统应用开发有没有学习的价值？希望各位能解答一下</p>",
+    "publish_time": "2023-12-08 14:22:13",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "电信运营商有能力解码 HTTPS 协议传输的正文？",
+    "url": "https://www.v2ex.com/t/998716",
+    "summary": "qsnow6: 跟一电信运营商的地区负责人聊天，吹牛逼的时候提到运营商有能力解码 HTTPS 传输的正文，让我不要在境外网站发表任何内容。<br /><br />是我落伍了吗？运营商还有这种黑科技？",
+    "publish_time": "2023-12-08 15:34:07",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
