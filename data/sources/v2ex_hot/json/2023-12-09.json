@@ -9,5 +9,49 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "大家觉得这两份工作应该怎么选",
+    "url": "https://www.v2ex.com/t/998866",
+    "summary": "a1b2c3T: <p>op 坐标西安，毕业后培训转行做了程序员，实际开发经验 4 年，技术水平中肯的说我觉得一般吧，也没有参与过什么特别高水平含量的项目。之前裸辞后找了挺久工作，目前有两个选择吧，对比图如下，老哥们能给点建议吗，谢谢。\n<a href=\"https://i.imgur.com/4rJ0ODA.jpg\" rel=\"nofollow\">https://i.imgur.com/4rJ0ODA.jpg</a>\n<a href=\"https://i.imgur.com/WGqrnnL.jpg\" rel=\"nofollow\">https://i.imgur.com/WGqrnnL.jpg</a>\nps：图片我放在一楼了 麻烦各位老哥帮忙瞅瞅</p>",
+    "publish_time": "2023-12-09 02:09:21",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "京东购买智能马桶发货错误维权之路（不定时更新）",
+    "url": "https://www.v2ex.com/t/998889",
+    "summary": "justdoitzZ: <p>2023-11-03 京东自营希箭旗舰店购买了一款 S23 的旗舰款马桶，和客服约定好 12 月份发货。</p>\n<p>2023-12-03 到货并且预约京东师傅上门安装，在最后一步涂胶水结束安装之前，进行测试。发现无法自动翻盖。\n就是人走过去，马桶会自动翻盖。或者人走过去，脚感马桶下部的感应传感器，马桶不翻盖。\n马上申请退货，结束安装。保护现场。对商品外包装，条形码等拍照。也录制了相关的视频。\n并且马上去京东申请了退货，提交了相关资料。</p>\n<p>2023-12-04 希箭售后联系，我提供较了他们需要的视频和条形码。确认，此款产品为基础款。不具备翻盖功能。</p>\n<p>2023-12-04 到 2023-12-08 期间，京东从未主动联系我，我多次打 95618 电话，要求处理。石沉大海。</p>\n<p>2023-12-08 上午，拨打北京 010-12315 投诉</p>\n<p>2023-12-09 京东还是没有任何人联系我，继续 95618.客服回复厂家拒绝退货，发货正确。可是，我明明购买的旗舰款。 此时我意识到一个问题，京东会不会修改购物界面信息。马上去京东截图，发现已经修改。但是图片和视频信息还未修改。</p>\n<p>未完待续，等更新。</p>\n<p>我也是 10 年京东老用户了，plus 会员更是开通到了 2025 年。如此让人失望的京东。纵观整个流程，主要问题就是\n1.京东不作为，我从京东自营店购买的旗舰款，但是京东要求厂家发货为标准版。\n2.售后申请点击之后，竟然不是进入售后流程，而是售后保险流程。</p>\n<p>目前马桶还在我家里，糟心的维权建议。兄弟们有什么好的办法吗？\n或者有大 V 或者 B 站或者 小红书 的博主可以帮我宣传的，哎，心累。</p>\n<p>图片还不知道怎么补充，稍候楼里补充。</p>",
+    "publish_time": "2023-12-09 09:44:22",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "马上 4202 了，你还没学会 k8s 吗（k8s 教程）",
+    "url": "https://www.v2ex.com/t/998891",
+    "summary": "lasuar: <p>在今天以前，V 站已经有几位前辈发布了 K8s 的入门教程，比如：</p>\n<ul>\n<li><a href=\"https://jp.v2ex.com/t/821329\" rel=\"nofollow\">kubernetes （ K8S ）快速上手教程 + 实践 @balabalaguguji</a></li>\n<li><a href=\"https://jp.v2ex.com/t/876087\" rel=\"nofollow\">开源 k8s 的教程 @ligz</a></li>\n</ul>\n<p>我仔细学习了它们的教程，发现它们的教程都有内容简洁、完全白话以及手把手教你上手 K8s 的特点，非常适合入门的朋友们。</p>\n<p>但同时，我也发现他们的教程有的已经是两年前的版本，有的并没有介绍一些高级主题，在一些方面没有过多详细介绍，可能让人困惑。鉴于此，小弟不才，从上次公司解散后，花费近两个月的时间编写了<strong>K8s 的入门教程和进阶教程</strong>，内中也是以<strong>概念+实操</strong>的方式进行介绍。</p>\n<p>本着人人为我，我为人人的程序员开源精神，现将此项目完全开源在 Github ，希望能给一直想要入门和些许深入 K8s 的朋友们提供力所能及的帮助！如果你已经是一名 K8s 老手，我也在项目中贴出了一些 K8s 主题的第三方文章/资料链接，希望也对你有所帮助！</p>\n<ul>\n<li><a href=\"https://github.com/chaseSpace/k8s-tutorial-cn/tree/main\" rel=\"nofollow\">Github 教程链接</a></li>\n<li>如果你只是一名业务开发者，你前期可以只看入门教程，再选择性地看进阶教程</li>\n</ul>\n<p>此教程以官方正在维护的<strong>v1.27</strong>版本为例进行演示，并提供了一些重要 K8s 资源（如 Pod/Deployment/Service/Ingress 等）的多个完整模板示例，其中包含有详实的注释。</p>\n<p>如果这能够帮到你，我会很感谢你留言此贴或 Star 此项目💛~</p>\n<blockquote>\n<p>鉴于个人能力有限，如果您发现某些内容有偏差或有误，请直接提出 ISSUE/PR ，若提供关键的帮助，我将会把你的 Github ID 提及在 <a href=\"http://readme.md/\" rel=\"nofollow\">Readme.md</a> 中，再次感谢。</p>\n</blockquote>",
+    "publish_time": "2023-12-09 10:04:58",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "Clash For Windows 自己疯狂跑流量是怎么回事",
+    "url": "https://www.v2ex.com/t/998922",
+    "summary": "sniperking1234: <p>目前现象如下：\n我电脑上装有网速监控软件，当 clash 打开的时候，并且没有开启系统代理的情况下，网络监控中的上下行带宽大幅增加。</p>\n<p>同时 clash 自带的面板显示上行网速增加，下行网速倒是正常，日志界面中也有大量日志数据，并一直在刷新，截图如下。</p>\n<p><a href=\"https://imgse.com/i/pi2g8h9\" rel=\"nofollow\"><img alt=\"pi2g8h9.md.png\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://z1.ax1x.com/2023/12/09/pi2g8h9.md.png\" /></a></p>\n<p>关闭 clash 之后，一切正常，不知道是什么原因，请大家分析一下</p>",
+    "publish_time": "2023-12-09 12:44:09",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
