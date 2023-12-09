@@ -610,5 +610,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "卡比丘新书",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8D%A1%E6%AF%94%E4%B8%98%E6%96%B0%E4%B9%A6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "照明商店 姐姐",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%85%A7%E6%98%8E%E5%95%86%E5%BA%97+%E5%A7%90%E5%A7%90%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]

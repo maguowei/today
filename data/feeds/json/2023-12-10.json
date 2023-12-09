@@ -1228,5 +1228,96 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "卡比丘新书",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8D%A1%E6%AF%94%E4%B8%98%E6%96%B0%E4%B9%A6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "照明商店 姐姐",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%85%A7%E6%98%8E%E5%95%86%E5%BA%97+%E5%A7%90%E5%A7%90%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "布林肯称美国援乌是双赢的事情，90% 的资源流向美国本土工厂，为美国人创造更多就业机会，如何看待此事？",
+    "url": "https://www.zhihu.com/question/634035629",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么有人想让芙宁娜和散兵交换人生啊？",
+    "url": "https://www.zhihu.com/question/631784723",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Ask HN: What sub $200 product improved your 2023",
+    "url": "https://news.ycombinator.com/item?id=38585109",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38585109\">Comments</a>",
+    "publish_time": "2023-12-10 03:36:08",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Mistral's mixtral-8x7B-32kseqlen on vercel",
+    "url": "https://twitter.com/rauchg/status/1733540995546190048",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38584179\">Comments</a>",
+    "publish_time": "2023-12-10 02:13:40",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Is Grok Basically Just an OpenAI Wrapper?",
+    "url": "https://twitter.com/JaxWinterbourne/status/1733360575252517001",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38584922\">Comments</a>",
+    "publish_time": "2023-12-10 03:18:17",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Dynamic music and sound techniques for video games",
+    "url": "https://blog.gingerbeardman.com/2023/12/09/dynamic-music-and-sound-techniques-for-video-games/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38584336\">Comments</a>",
+    "publish_time": "2023-12-10 02:31:08",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Make Apps for Linux",
+    "url": "https://makealinux.app",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38583399\">Comments</a>",
+    "publish_time": "2023-12-10 00:50:49",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
