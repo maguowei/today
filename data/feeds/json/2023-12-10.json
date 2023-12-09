@@ -1319,5 +1319,107 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "广州芳村金融茶崩盘",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E8%8A%B3%E6%9D%91%E9%87%91%E8%9E%8D%E8%8C%B6%E5%B4%A9%E7%9B%98%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "广州马拉松",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E9%A9%AC%E6%8B%89%E6%9D%BE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "女子腌酸菜开盖时炸得满屋白菜丝",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%85%8C%E9%85%B8%E8%8F%9C%E5%BC%80%E7%9B%96%E6%97%B6%E7%82%B8%E5%BE%97%E6%BB%A1%E5%B1%8B%E7%99%BD%E8%8F%9C%E4%B8%9D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "为什么单片机上的程序不怎么使用malloc，而PC上经常使用？",
+    "url": "https://www.zhihu.com/question/633497178",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Gross value added per worker by country and area in Europe",
+    "url": "https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6974049f-7543-41a2-ae38-8a2347c99799_1240x1052.png",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38585266\">Comments</a>",
+    "publish_time": "2023-12-10 03:50:48",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Mistral's mixtral-8x7B-32kseqlen on Vercel",
+    "url": "https://twitter.com/rauchg/status/1733540995546190048",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38584179\">Comments</a>",
+    "publish_time": "2023-12-10 02:13:40",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Remembering Jon Postel and the day he hijacked the internet (2012)",
+    "url": "https://www.wired.com/2012/10/joe-postel/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38585515\">Comments</a>",
+    "publish_time": "2023-12-10 04:12:37",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Sneakers Film Promotional Floppy",
+    "url": "https://archive.org/details/Sneakers_Film_Promotional_Floppy",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38585213\">Comments</a>",
+    "publish_time": "2023-12-10 03:45:30",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "UpCodes (YC S17) is hiring remote SWEs to help make buildings cheaper",
+    "url": "https://up.codes/careers",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38586040\">Comments</a>",
+    "publish_time": "2023-12-10 05:00:56",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Vulnerabilities in TETRA radio networks",
+    "url": "https://www.cryptomuseum.com/radio/tetra/burst.htm",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38583489\">Comments</a>",
+    "publish_time": "2023-12-10 01:02:29",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
