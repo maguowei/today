@@ -9,5 +9,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "clash 总是搞乱 dns",
+    "url": "https://www.v2ex.com/t/999090",
+    "summary": "andrewz: <p>当 clash 把 dns 搞乱后，节点也无法正常通信。\n只有手动修改 dns 到 114.114.114.114 ，才能恢复节点，恢复上网。\n折腾了两个小时找原因，太坏了，clash 。</p>",
+    "publish_time": "2023-12-10 10:58:20",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
