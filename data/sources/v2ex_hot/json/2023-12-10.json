@@ -20,5 +20,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "什么是这个时代的核心竞争力？",
+    "url": "https://www.v2ex.com/t/999095",
+    "summary": "loken2020: 我们正在经历这样一个时代，软件硬件化。一个 system 可以通过软件实现，也可以通过硬件来实现。<br /><br />通过软件来实现来好处就是可以随便更新，修改。例如微信可以经常升级。<br /><br />通过硬件来实现的好处就是性价比更高，相同效率的功能，你可以用更便宜的硬件就跑起来了。但是硬件实现不容易更新修改，当然它可以在硬件上层封装抽象起来，让它可以更方便更新。<br /><br />例如 CUDA ，但是 CUDA 也是经历了 **固定功能单元** 向 **通用执行引擎** 转换的过程，这个里程碑是 G80 。这对于 NVIDIA 来说是一个无比正确的战略。他牺牲一些性能来换取业务上的灵活性，可以激发业务层的创新。<br /><br />但是 CUDA 的编程方式，还是跟 X86 平台的编程方式是不太一样的。而且硬件也不只是 CUDA 一种，有一些硬件实现他就是不太容易更新修改的。<br /><br /><a href=\"https://mp.weixin.qq.com/s/uRpUNQShIvR-upl6xN5pIw\" rel=\"nofollow noopener\" target=\"_blank\">https://mp.weixin.qq.com/s/uRpUNQShIvR-upl6xN5pIw</a>",
+    "publish_time": "2023-12-10 11:17:57",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
