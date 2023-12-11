@@ -1411,5 +1411,45 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "涂磊连麦杜小华向所有寻亲家庭道歉",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B6%82%E7%A3%8A%E8%BF%9E%E9%BA%A6%E6%9D%9C%E5%B0%8F%E5%8D%8E%E5%90%91%E6%89%80%E6%9C%89%E5%AF%BB%E4%BA%B2%E5%AE%B6%E5%BA%AD%E9%81%93%E6%AD%89%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "MOBA游戏里，10分机制6分数值、6分机制10分数值、8分机制8分数值的三种英雄哪种最强？",
+    "url": "https://www.zhihu.com/question/632526989",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Google Fiber - 20 Gig + Wi-Fi 7 will be available to select customers",
+    "url": "https://fiber.google.com/blog/2023/12/your-most-exciting-invitation-this.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38603653\">Comments</a>",
+    "publish_time": "2023-12-12 02:43:07",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: I built an OSS alternative to Azure OpenAI services",
+    "url": "https://github.com/bricks-cloud/BricksLLM",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38603853\">Comments</a>",
+    "publish_time": "2023-12-12 02:56:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
