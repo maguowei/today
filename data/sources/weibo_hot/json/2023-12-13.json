@@ -610,5 +610,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "床头放柠檬 舒缓心情",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BA%8A%E5%A4%B4%E6%94%BE%E6%9F%A0%E6%AA%AC+%E8%88%92%E7%BC%93%E5%BF%83%E6%83%85%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "这确定是精神病院吗",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%A1%AE%E5%AE%9A%E6%98%AF%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%E5%90%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
