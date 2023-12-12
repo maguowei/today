@@ -592,5 +592,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "曼联vs拜仁",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9B%BC%E8%81%94vs%E6%8B%9C%E4%BB%81%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "代号鸢 广陵大学教师评教",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A3%E5%8F%B7%E9%B8%A2+%E5%B9%BF%E9%99%B5%E5%A4%A7%E5%AD%A6%E6%95%99%E5%B8%88%E8%AF%84%E6%95%99%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]

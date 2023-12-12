@@ -1337,5 +1337,116 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "曼联vs拜仁",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9B%BC%E8%81%94vs%E6%8B%9C%E4%BB%81%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "代号鸢 广陵大学教师评教",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A3%E5%8F%B7%E9%B8%A2+%E5%B9%BF%E9%99%B5%E5%A4%A7%E5%AD%A6%E6%95%99%E5%B8%88%E8%AF%84%E6%95%99%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "你们买完手办，手办盒子怎么处理？",
+    "url": "https://www.zhihu.com/question/467752504",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "新能源汽车扎堆发布，有哪款车型给你留下深刻印象？",
+    "url": "https://www.zhihu.com/question/634494414",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "年轻人把职业体验当人生体验，有人 12 年换 21 份工作，有人换多份工作后决定摆摊，如何看待此现象？",
+    "url": "https://www.zhihu.com/question/634450502",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "'Like we were lesser humans': Gaza boys, men recall Israeli arrest, torture",
+    "url": "https://www.aljazeera.com/features/2023/12/12/like-we-were-lesser-humans-gaza-boys-men-recall-israeli-arrests-torture",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38616550\">Comments</a>",
+    "publish_time": "2023-12-13 02:50:46",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Motorola's Pioneering 8-bit 6800: Origins and Architecture",
+    "url": "https://thechipletter.substack.com/p/motorolas-pioneering-8-bit-6800-origins",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38616591\">Comments</a>",
+    "publish_time": "2023-12-13 02:53:28",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Zapping manure with special electrode to produce fertilizers, other chemicals",
+    "url": "https://news.wisc.edu/zapping-manure-with-special-electrode-promises-an-efficient-method-to-produce-fertilizers-other-chemicals/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38615868\">Comments</a>",
+    "publish_time": "2023-12-13 02:02:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Edge Functions: Node and native NPM compatibility",
+    "url": "https://supabase.com/blog/edge-functions-node-npm",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38616691\">Comments</a>",
+    "publish_time": "2023-12-13 02:59:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Hardening Cellular Basebands in Android",
+    "url": "https://security.googleblog.com/2023/12/hardening-cellular-basebands-in-android.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38616922\">Comments</a>",
+    "publish_time": "2023-12-13 03:16:43",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "What Will Enter the Public Domain in 2024?",
+    "url": "https://publicdomainreview.org/features/entering-the-public-domain/2024/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38616753\">Comments</a>",
+    "publish_time": "2023-12-13 03:03:55",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
