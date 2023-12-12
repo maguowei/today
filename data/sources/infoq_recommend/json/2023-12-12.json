@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Canonical 推出超小型容器镜像 Chiselled Ubuntu",
+    "url": "https://www.infoq.cn/article/grSAu3pUrbKDPZPPaDLZ",
+    "summary": "<p>Canonical 正式发布了 Chiselled Ubuntu 容器，这是一个生产就绪的、安全的超小型容器镜像，侧重于效率和安全性。这些容器镜像允许用户构建的镜像仅包含其应用程序及运行时依赖，而不包含不必要的操作系统级包、实用程序或库。另外，Canonical 还承诺提供安全维护与支持。</p><p></p><p>Chiselled Ubuntu 系列镜像中包含面向流行工具链的镜像，如 Java、.NET 和 Python。此外，Canonical 还与微软合作为.NET 6、7 和 8 提供了通用 Chiselled Ubuntu 容器镜像。</p><p></p><p>正如 GitLab 在 2022 年全球 DevSecOps 调查中所强调的那样，安全仍然是容器化的一个关键问题。这份调查报告指出，只有 64% 的安全专业人员制定了容器安全计划。Canonical 通过提供具有可信来源的 Chiselled Ubuntu 容器和最佳开发 - 生产体验解决了这个问题。容器镜像使用了开发人员友好的开源包管理器“Chisel”，允许开发人员创建精确的超小型文件系统，仅包含运行其应用程序所需的内容。</p><p></p><p>与谷歌的 Distroless 和 Chainguard 的镜像类似，Chiselled Ubuntu 容器也是旨在缩小容器基础镜像。它也带来了同样的好处，比如最小化依赖，减少膨胀和资源使用，加快启动速度，并通过减少镜像中不需要的文件来增强安全性。Chisel 本身使用 Slice 定义文件，它与 Ubuntu 归档中的上游包相关，定义运行时所需的这些包内容的子集，并通过开发人员友好的 CLI 提供了细粒度的依赖项管理，缩小容器镜像攻击面并完全消除一些潜在的攻击向量，实现了更有效的容器化，同时增强了安全性。</p><p></p><p><img src=\"https://static001.geekbang.org/wechat/images/c9/c9ecd58ba558662d0d30f948172b4a31.png\" /></p><p></p><p>Chiselled Ubuntu 与流行的工具链（如.NET 和 Java）进行了集成，使得开发人员可以无缝地创建和部署安全、高效的容器镜像。举例来说，与 Eclipse Temurin Java 17 运行时镜像相比，面向 Java 运行时引擎的 Chiselled Ubuntu 镜像缩小了 51%，而且不会影响吞吐量或启动性能。</p><p></p><p>除了 Java 和 Python 镜像，还有面向.NET 和 ASP.NET 的 Chiselled Ubuntu 容器，而且可用于各种平台，包括 AMD64、基于 ARM 的平台和 s390x。微软和 Canonical 正合作为.NET 6、7 和 8 开发稳定且提供技术支持的 Chiselled 镜像。.NET 8 发布时引入了针对 Ubuntu 镜像变体的安全强化选项，让用户可以针对容器安全性做额外的控制。微软.NET 项目经理 Richard Lander 表达了对这项合作的热情，并重点说明了更小、更紧凑的容器镜像有什么好处。他还介绍了微软对 Chiselled Ubuntu 容器镜像的全力投入以及与 Canonical 的合作，Lander 说：</p><p></p><p></p><blockquote>Chiselled Ubuntu 镜像是我们为开发人员推荐的基础镜像。然而，在微软 Devblog 的一条评论中（Devclass 着重说明了这一点），Lander 指出，这些镜像只有在所有包都有切片信息的情况下才能工作，而这项工作仍在进行当中。</blockquote><p></p><p></p><p>Chiselled Ubuntu 容器符合 Ubuntu 的长期支持保证，从主存储库构建的容器可以获得 5 年免费的 Bug 修复和安全补丁。发布周期和库与 Ubuntu LTS 一致进一步增强了可靠性。Canonical 发布的 Chiselled Ubuntu 容器旨在为开发人员提供安全、高效且兼容的容器化选项。要了解更多信息可以查看 Canonical 官方网站。</p><p></p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2023/12/canonical-chiselled-ubuntu/\">https://www.infoq.com/news/2023/12/canonical-chiselled-ubuntu/</a>\"</p><p></p><p></p><p></p>",
+    "publish_time": "2023-12-12 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
