@@ -1497,5 +1497,102 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "年度书单",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B9%B4%E5%BA%A6%E4%B9%A6%E5%8D%95%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Phi-2",
+    "url": "https://huggingface.co/microsoft/phi-2",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38634490\">Comments</a>",
+    "publish_time": "2023-12-14 05:36:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ask HN: Best resources on abstracting and dealing with complexity",
+    "url": "https://news.ycombinator.com/item?id=38634020",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38634020\">Comments</a>",
+    "publish_time": "2023-12-14 04:56:26",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Quest 2 is outselling Quest 3",
+    "url": "https://twitter.com/ID_AA_Carmack/status/1734993768980402467",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38633715\">Comments</a>",
+    "publish_time": "2023-12-14 04:27:56",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Australia to Ban Engineered Stone",
+    "url": "https://www.abc.net.au/news/2023-12-13/engineered-stone-ban-discussed-at-ministers-meeting/103224362",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38634213\">Comments</a>",
+    "publish_time": "2023-12-14 05:14:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Play Othello in your web browser (made with Mithril)",
+    "url": "https://jawj.github.io/fliptiles/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38633926\">Comments</a>",
+    "publish_time": "2023-12-14 04:48:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Can a Transformer Represent a Kalman Filter?",
+    "url": "https://arxiv.org/abs/2312.06937",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38634218\">Comments</a>",
+    "publish_time": "2023-12-14 05:15:27",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Long Shadow of Checks",
+    "url": "https://www.bitsaboutmoney.com/archive/the-long-shadow-of-checks/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38632966\">Comments</a>",
+    "publish_time": "2023-12-14 03:31:25",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Tech Predictions for 2024 and Beyond Dr. Werner Vogels, CTO, Amazon.com",
+    "url": "https://www.allthingsdistributed.com/2023/11/tech-predictions-for-2024-and-beyond.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38634164\">Comments</a>",
+    "publish_time": "2023-12-14 05:09:13",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
