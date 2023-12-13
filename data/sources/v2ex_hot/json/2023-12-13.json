@@ -20,5 +20,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "问一个并发程序可见性的问题， golang 语言",
+    "url": "https://www.v2ex.com/t/999936",
+    "summary": "rockyliang: <p><a href=\"https://go.dev/ref/mem\" rel=\"nofollow\">Go 官网</a>有一段代码例子：</p>\n<pre><code class=\"language-go\">var c = make(chan int)\nvar a string\n\nfunc f() {\na = \"hello, world\"\n&lt;-c\n}\n\nfunc main() {\ngo f()\nc &lt;- 0\nprint(a)\n}\n</code></pre>\n<p>官网说使用了 channel 后，这段代码可以确保能正常打印出\"hello, world\"，原因是什么？</p>\n<p>这是我的理解（有可能不对，欢迎指正）：\n假设 [ f 协程] 运行在 cpu0 核心上， [ main 协程] 运行在 cpu1 核心上， [ f 协程] 修改完 a 变量后，由于不同 cpu 核心之间存在缓存一致性问题，这个修改对于 [ main 协程] 来说有可能是不可见的，也就是 [ main 协程] 有可能会打印出一个空字符串</p>\n<p>那么，channel 在这段代码里发挥的作用是什么，它是怎么确保 [ main 协程] 可以正常打印出\"hello, world\"的呢？</p>",
+    "publish_time": "2023-12-13 10:22:14",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
