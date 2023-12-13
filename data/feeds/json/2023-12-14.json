@@ -1594,5 +1594,67 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "夸克扫描王惊喜到我了",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%B8%E5%85%8B%E6%89%AB%E6%8F%8F%E7%8E%8B%E6%83%8A%E5%96%9C%E5%88%B0%E6%88%91%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "新能源车迎来寒潮暴雪大考",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E8%BF%8E%E6%9D%A5%E5%AF%92%E6%BD%AE%E6%9A%B4%E9%9B%AA%E5%A4%A7%E8%80%83%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "美股三大指数集体收涨，道指涨1.4%创历史新高",
+    "url": "https://www.36kr.com/newsflashes/2559777813486729",
+    "summary": "36氪获悉，12月13日收盘，美股三大指数集体上涨，道指涨1.4%创收盘新高，纳指涨1.38%，标普500指数涨1.37%，纳指、标普500指数创去年年初以来新高。大型科技股多数上涨，Netflix涨超3%，苹果涨超1%。热门中概股涨跌不一，高途涨超7%，蔚来、微博涨超2%，小鹏汽车跌1%。",
+    "publish_time": "2023-12-14 07:00:38",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Dropbox spooks users by sending data to OpenAI for AI search features",
+    "url": "https://arstechnica.com/information-technology/2023/12/dropbox-spooks-users-by-sending-data-to-openai-for-ai-search-features/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38634744\">Comments</a>",
+    "publish_time": "2023-12-14 05:57:50",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "About the \"OpenPGP Schism\"",
+    "url": "https://articles.59.ca/doku.php?id=pgpfan:schism",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38632625\">Comments</a>",
+    "publish_time": "2023-12-14 03:12:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Django Ninja CRUD – Rethinking CRUD Operations in Django",
+    "url": "https://github.com/hbakri/django-ninja-crud",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38634562\">Comments</a>",
+    "publish_time": "2023-12-14 05:43:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
