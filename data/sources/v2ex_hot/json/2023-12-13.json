@@ -31,5 +31,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "第一次在杭州过冬，有没有推荐的取暖方式？",
+    "url": "https://www.v2ex.com/t/999921",
+    "summary": "h4ckm310n: <p>自己以前一直都是在广西/广东生活，冬天也不算特别冷，今年才来的杭州工作，有点慌。</p>\n<p>也说一下自己的情况：</p>\n<ol>\n<li>住在公寓 loft ，活动范围主要就在电脑前，所以大概不需要做到全屋供暖；</li>\n<li>6 斤垫被+6 斤盖被（ 150x200 尺寸），晚上睡觉够暖（只是就目前的体验而言，再冷就不知道了）；</li>\n<li>电费：商电，1.1 ；</li>\n<li>空调：用的是中央空调，前台说公寓里冬天开空调的不多，中央空调的待机费平摊下来会贵一些，不如用取暖器划算（具体忘了怎么说的了，大概是这个意思）；</li>\n<li>如果要买取暖器的话，我大概也只会考虑暖风机这种体积小点的，一方面空间有限，另一方面这样将来搬家的时候也方便些。</li>\n</ol>\n<p>各位有没有什么取暖方面的建议？是需要弄个取暖器还是多穿点就行？</p>",
+    "publish_time": "2023-12-13 09:57:55",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "我把我和我老婆从认识到现在的聊天记录跑了个词云出来",
+    "url": "https://www.v2ex.com/t/999939",
+    "summary": "Dogergo: <p>得益于开源项目：</p>\n<pre><code>https://github.com/LC044/WeChatMsg\n</code></pre>\n<p>现在导出微信聊天记录已经是一件相当简单的事情了。但是这个项目跑出的词云好像有点问题，好像聊天记录不完整一样。所以我去找了可以读取 SQLite 的软件，读了他解码出来的数据库文件。</p>\n<p>执行 SQL：</p>\n<pre><code class=\"language-SQL\">-- MicroMsg.db 文件中的 Contact 表存的用户信息，先根据备注查微信 ID\nSELECT UserName FROM Contact WHERE Remark=?\n-- Msg.db 中的 MSG 表存的历史聊天记录\nSELECT StrContent, localId, datetime(CreateTime, \"unixepoch\", \"localtime\") as CreateTime FROM MSG WHERE StrTalker = ? AND Type = 1 AND StrContent NOT like \"%[%\" ORDER by CreateTime asc\n</code></pre>\n<p>然后发现数据是全量的，但是词云不准确，不知道什么原因。迫于不想读源码，直接找了个词云工具，重新生成。</p>\n<p>感谢开源项目：</p>\n<pre><code>https://github.com/fuqiuai/wordCloud\nhttps://github.com/silsuer/wordcloud\n</code></pre>\n<h2>上图</h2>\n<p><img alt=\"1\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/V1H7sOD.png\" />\n<img alt=\"2\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/GzM7LCV.png\" />\n<img alt=\"3\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/qHsczCy.png\" />\n<img alt=\"4\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/RFMak6o.png\" />\n<img alt=\"5\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/Xy3HlS8.png\" /></p>\n<h2>教程</h2>\n<p><a href=\"https://mp.weixin.qq.com/s/d7K6np7wd3kPLONKikGe5Q\" rel=\"nofollow\">一键提取微信聊天记录，生成 HTML 、Word 文档永久保存，还能生成微信年度聊天报告</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s/kS1De6DpNqX_4M_0WTkdhA\" rel=\"nofollow\">微信聊天记录只是备份就太无聊了，一键生成属于自己的词云图，让我们玩点有意思的</a></p>\n<h2>注意事项</h2>\n<p>所用到的工具被我放在公众号里了，如果有兄弟感觉被冒犯，那对此我感到抱歉，请联系站长帮我移动到推广节点。</p>",
+    "publish_time": "2023-12-13 10:28:04",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "程序员如何从公司上班转型",
+    "url": "https://www.v2ex.com/t/1000000",
+    "summary": "toubi: <p>程序员如何从公司上班转型<br />\n环境不好，裁的比较多，感觉纯靠在公司上班哪天就要被裁掉<br />\n年龄也上来了，要提前考虑后面的出路了</p>",
+    "publish_time": "2023-12-13 13:25:31",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
