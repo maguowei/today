@@ -1487,5 +1487,123 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "家人们这波稳了",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AE%B6%E4%BA%BA%E4%BB%AC%E8%BF%99%E6%B3%A2%E7%A8%B3%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "一汽大众ID.7上市",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%B1%BD%E5%A4%A7%E4%BC%97ID.7%E4%B8%8A%E5%B8%82%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "美团饿了么回应商家乱收打包费",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%A2%E9%A5%BF%E4%BA%86%E4%B9%88%E5%9B%9E%E5%BA%94%E5%95%86%E5%AE%B6%E4%B9%B1%E6%94%B6%E6%89%93%E5%8C%85%E8%B4%B9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "太原一上学路人均安陵容",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AA%E5%8E%9F%E4%B8%80%E4%B8%8A%E5%AD%A6%E8%B7%AF%E4%BA%BA%E5%9D%87%E5%AE%89%E9%99%B5%E5%AE%B9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "故宫玩雪",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%95%85%E5%AE%AB%E7%8E%A9%E9%9B%AA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何评价《原神》娜维娅角色PV—【特邀嘉宾】？",
+    "url": "https://www.zhihu.com/question/634817819",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "什么样的人称得上是高能量?",
+    "url": "https://www.zhihu.com/question/535994950",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "DeepMind AI outdoes human mathematicians on unsolved problem",
+    "url": "https://www.nature.com/articles/d41586-023-04043-w",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38646123\">Comments</a>",
+    "publish_time": "2023-12-15 03:33:44",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Japan says reason behind 1,200 tonnes of fish washing ashore is unknown",
+    "url": "https://www.theguardian.com/world/2023/dec/14/ive-never-seen-anything-like-this-japan-says-reason-behind-1200-tonnes-of-fish-washing-ashore-is-unknown",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38645927\">Comments</a>",
+    "publish_time": "2023-12-15 03:21:06",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Octopus – a directed acyclic graph for app development",
+    "url": "https://github.com/bbsimonbb/octopus-turbo",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38645180\">Comments</a>",
+    "publish_time": "2023-12-15 02:36:12",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Security Issue: Cloud Site Manager presented me your consoles, not mine",
+    "url": "https://community.ui.com/questions/Security-Issue-Cloud-Site-Manager-presented-me-your-consoles-not-mine/376ec514-572d-476d-b089-030c4313888c",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38643348\">Comments</a>",
+    "publish_time": "2023-12-15 00:42:06",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Maybe Getting Rid of Your QA Team Was Bad, Actually.",
+    "url": "https://davidkcaudill.medium.com/maybe-getting-rid-of-your-qa-team-was-bad-actually-52c408bd048b",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38645856\">Comments</a>",
+    "publish_time": "2023-12-15 03:15:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
