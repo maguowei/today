@@ -31,5 +31,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "货运铁路旁边的房子能不能买？",
+    "url": "https://www.v2ex.com/t/1000212",
+    "summary": "kisshere: 有没有懂行 or 实际买过这种房子的人给点意见？",
+    "publish_time": "2023-12-14 08:35:58",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "集思广益，上司提了个需求要短时间可以扛住 200 万 req/s",
+    "url": "https://www.v2ex.com/t/1000267",
+    "summary": "owen800q: <p>先说下背景，跨境电商，主要是 tiktok 直播带货，我们是下游平台，平台技术架构是用 aws serverless lambda,  api gateway 和 dynamodb </p>\n<p>一开始 aws 是给了 3000 的 concurrency quota,  后来业务爆发性增长，年中时我们向 aws 申请加到了 5 万 lambda 并发数，本来以为应该可以应付一切了，但上星期日志出现了大量 500 internal server error, 原来是达到 5 万+了，我们问了下 aws 技术支持，说我们当天的峰值到达了 12 万+ req/s</p>\n<p>导致大量商家无法创建下游订单， 大老板直接提了个要求是不允许再发生这种情况， 要求要扛住至少 200 万 请求</p>\n<p>Api gateway 和 dynamodb 是没性应限制的，主要是 lambda 并发数提不上去，  aws 那边说最多只能把 lambda 最大并发只能提到 100k</p>",
+    "publish_time": "2023-12-14 10:37:03",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
