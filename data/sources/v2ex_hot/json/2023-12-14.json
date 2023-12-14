@@ -75,5 +75,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "m3 max 和 13900k cpu 性能的简单对比",
+    "url": "https://www.v2ex.com/t/1000236",
+    "summary": "Cyshall: <p>测试项目是编译 clickhouse 。</p>\n<p>windows11 23H2 ，13900k + 64GB 内存 + 2T ，是在 wsl2 里面编译的，我网上搜了下说 wsl2 的 cpu 性能损耗大概在百分之二左右，测试结果如下：\n<img alt=\"ClickHouse Compilation Time.png\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://s2.loli.net/2023/12/13/tylSMuJ9ZdwaDTj.png\" /></p>\n<p>Mac os 14.2 ，M3 Max + 128G + 2T ，测试结果如下：\n<img alt=\"m3-max.png\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://s2.loli.net/2023/12/13/UCr8eM1hkPoDaw5.png\" /></p>\n<p>各位只需要关注最后面的 cpu total 时间就行了。</p>\n<p>13900k 之所以这么慢，我猜测主要是有两个原因：</p>\n<ol>\n<li>13900k 有 32 个逻辑核心，但从结果来看只用到 16 个核心； </li>\n<li>得益于 clang 和苹果的关系，clang 肯定在 mac os 下有特殊优化。</li>\n</ol>\n<p>测试不严谨，各位权当看个乐好了。</p>",
+    "publish_time": "2023-12-14 09:39:24",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "关于谈一个医护行业的女朋友",
+    "url": "https://www.v2ex.com/t/1000349",
+    "summary": "linround: <p>对方是医护行业，感觉这个行业很累啊。而且不像普通行业那这样能够正常的休息和作息。</p>\n<p>她们的工作需要排班，有时候可能周末都在上班，然后周一周二休息。</p>\n<p>排班有时候会被排在晚班。</p>\n<p>如果谈女朋友的话，约会的时候 都只能靠运气了，因为我们的休息时间好像很少能够碰在一起。</p>\n<p>想问一下，有没有 v 友谈过这个行业的呢？你们平常约会怎么办呢？ 也很好奇你们最终的结果怎样呢？</p>",
+    "publish_time": "2023-12-14 14:19:21",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
