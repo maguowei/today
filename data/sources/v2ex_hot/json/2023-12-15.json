@@ -20,5 +20,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "做了一个在线多人平台跳跃页游",
+    "url": "https://www.v2ex.com/t/1000545",
+    "summary": "luluxia: <p>链接：<a href=\"https://cat.llx.life/\" rel=\"nofollow\">喵喵竞赛</a></p>\n<p>以前很喜欢玩一款叫做 wtfgame 猫猫竞赛的游戏，于是今年趁着没事干，自己捣鼓模仿原作的玩法做了个新游戏。</p>\n<p>游戏核心机制为每隔 3~5 秒，地图会震动一次，此时玩家需要下蹲，否则将被传送至起点。目前有 50 多张地图，会在房间内随机轮换，分为两种类型，竞速图与积分图。</p>\n<p>游戏采用了一款小众 JS 游戏引擎 <a href=\"https://kaboomjs.com/\" rel=\"nofollow\">Kaboom.js</a> 开发，算是比较容易上手的引擎，不过坑也挺多的，运行效率似乎也不高，目前游戏在一些低端设备上运行会挺卡的，帧数和碰撞判定挂钩，帧数低了就会在游戏中穿墙。</p>\n<p>至于多人部分的后端，则是基于 Midway + <a href=\"http://socket.io/\" rel=\"nofollow\">Socket.IO</a> 。</p>\n<p>欢迎各位试玩并分享建议😘！</p>",
+    "publish_time": "2023-12-15 08:39:40",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "请教 Windows 桌面开发选择",
+    "url": "https://www.v2ex.com/t/1000641",
+    "summary": "JustinL: 先说一下背景：建筑行业公司，内部工程师用，因此只需要 Windows 即可，同时公司所有电脑已经是 Win11 ，不用兼容 xp 那种包袱，可以考虑上最新的技术。内部使用铺开后如果反馈不错，有可能对外销售。<br /><br />做了一些 study ，感觉主要是这几种：<br />1. Delphi/Lazarus 。在前公司用过，确实很方便，但是 Delphi 需要授权，Lazarus 社区也比较小，领导不喜欢，pass<br />2. C#+WPF 。主要担心被反编译问题，但是貌似很多软件也是 C#，请问是否多虑？搜了一下没有太好的解决方案。<br />3. C++ qt 。主要担心上手难度问题，团队没写过 C++，不过兴趣很大，就是怕交付时间不能保证。<br />4. C#写界面，C++写核心算法。不知道里面有没有什么调用的坑？<br /><br />限定在 Windows 就行了，不需要讨论跨平台。<br /><br />陷入选择困难症了……请有经验的大佬们指点一二～",
+    "publish_time": "2023-12-15 12:00:02",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
