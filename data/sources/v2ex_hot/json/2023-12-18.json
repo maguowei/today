@@ -64,5 +64,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "让大家见笑了， 8 年苹果用户，竟然玩不明白 icloud 同步",
+    "url": "https://www.v2ex.com/t/1001278",
+    "summary": "LaGeNanRen: 我是国区，云上贵州，平时不用 icloud 备份，上周末无聊手动去更新备份，结果被狠狠玩弄（我真的就一个大大的❓）<br />备份内容包括：相册、通讯录、备忘录、钥匙圈等。上次的备份时间大概一年前，整体内容变化挺多。以相册为例，云上的老备份和现在大概重合 60%<br /><br />我以为的：当我开启备份——现在的相册上传到云——云端去重过滤重复的照片——从云端拉取 老+新 的全部照片，传回手机完成同步——云端相册=手机相册=老备份+新备份（去重）——至此完成 icloud 同步<br /><br />我的操作：先进入 icloud 空间——管理存储空间——删除已有云端备份——开始 icloud 同步——同步完成<br /><br />同步完成后：明明我的删除云端备份是提示完成了的，显示我的云存储空间也是清掉了，但我的删除云端备份似乎没有生效。。。我完成同步后，相当于 老+新 所有的相册照片都回到了我的手机了，包括相册、通讯录、备忘录<br /><br />上周六日我按照我的理解重复操作了好几次，每次都是新+老的文件同步下来，我每次都要删除不要的照片，把相册恢复到现在的状态，然后把最近删除的那些老照片彻底删除掉，再反复清理云端备份文件，反复上传重新备份，但每一次都是老+新，wtf<br />是我的同步逻辑理解不对嘛？明明云端存储清理掉了，手机现在的相册里也删掉了老照片，为什么最后同步完成后会出现那些老照片呢？！",
+    "publish_time": "2023-12-18 11:39:44",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "有狗粮，猫粮，为什么没有人粮。",
+    "url": "https://www.v2ex.com/t/1001346",
+    "summary": "bianhui: <p>为什么没有那种均衡营养，科学的添加人体每日所需营养，可以长期食用的代餐人粮。每天出门踹三包，一天伙食都解决了，还健康。馋了就去下馆子就行了。</p>",
+    "publish_time": "2023-12-18 14:57:13",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
