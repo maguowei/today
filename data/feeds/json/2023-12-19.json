@@ -1457,5 +1457,118 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "脱轨",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%84%B1%E8%BD%A8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "于适主持首秀",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8E%E9%80%82%E4%B8%BB%E6%8C%81%E9%A6%96%E7%A7%80%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "活到现在最大的感悟是什么？",
+    "url": "https://www.zhihu.com/question/508809623",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "你对 2024 年的游戏行业有什么期待？",
+    "url": "https://www.zhihu.com/question/632325488",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Tofu-maker Yamami sees shares surge after automating ancient craft",
+    "url": "https://www.japantimes.co.jp/business/2023/12/18/companies/japan-tofu-maker-share-up/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38687443\">Comments</a>",
+    "publish_time": "2023-12-19 04:04:14",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "3Blue1Brown Calculus Blog Series",
+    "url": "https://www.3blue1brown.com/topics/calculus",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38687809\">Comments</a>",
+    "publish_time": "2023-12-19 04:34:18",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Apple Loses One of the Last Remaining Designers from Jony Ive Era",
+    "url": "https://www.bloomberg.com/news/articles/2023-12-18/apple-loses-one-of-last-remaining-designers-from-jony-ive-era",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38687899\">Comments</a>",
+    "publish_time": "2023-12-19 04:40:24",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Word2Vec received 'strong reject' four times at ICLR2013",
+    "url": "https://openreview.net/forum?id=idpCdOWtqXd60",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38684925\">Comments</a>",
+    "publish_time": "2023-12-19 00:48:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "PostgreSQL 16 Bi-Directional Logical Replication",
+    "url": "https://www.highgo.ca/2023/12/18/new-in-postgresql-16-bi-directional-logical-replication/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38687357\">Comments</a>",
+    "publish_time": "2023-12-19 03:58:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "I Love Ruby",
+    "url": "https://eliseshaffer.com/2023/12/18/i-love-ruby/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38688453\">Comments</a>",
+    "publish_time": "2023-12-19 05:18:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "PostgREST: Providing HTML Content Using Htmx",
+    "url": "https://postgrest.org/en/stable/how-tos/providing-html-content-using-htmx.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38687997\">Comments</a>",
+    "publish_time": "2023-12-19 04:47:36",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
