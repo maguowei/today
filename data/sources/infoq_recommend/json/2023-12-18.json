@@ -53,5 +53,27 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "作业帮大数据平台架构负责人孙建业确认出席 QCon 上海，分享作业帮大数据湖仓架构和实践",
+    "url": "https://www.infoq.cn/article/wqQSCIih229MRTwr7Ieu",
+    "summary": "<p><a href=\"https://qcon.infoq.cn/2023/shanghai/?utm_source=infoqweb&amp;utm_medium=teacherart&amp;utm_campaign=10&amp;utm_term=1218&amp;utm_content=sunjianye\">QCon 全球软件开发大会</a>\"，将于 12 月在上海召开。作业帮大数据平台架构负责人孙建业将发表题为《<a href=\"https://qcon.infoq.cn/2023/shanghai/presentation/5636?utm_source=infoqweb&amp;utm_medium=teacherart&amp;utm_campaign=10&amp;utm_term=1218&amp;utm_content=sunjianye\">作业帮大数据湖仓架构和实践</a>\"》主题分享，从作业帮现有架构面对的挑战出发，结合真实的业务场景，探讨相关数据湖仓技术方案和实践经验。</p><p></p><p><a href=\"https://qcon.infoq.cn/2023/shanghai/presentation/5636?utm_source=infoqweb&amp;utm_medium=teacherart&amp;utm_campaign=10&amp;utm_term=1218&amp;utm_content=sunjianye\">孙建业</a>\"，曾就职于 Talkingdata、摩拜、美团，多年大数据研发经验。目前就职于作业帮平台架构部，主要负责组件维护、平台架构和成本管控。他在本次会议的演讲内容如下：</p><p></p><p>演讲：作业帮大数据湖仓架构和实践</p><p></p><p>随着数据湖相关技术的逐渐成熟、湖仓理论的发展，生产环境落地已经非常广泛。相比较传统数仓在数据更新时效性、查询索引增强等方面有明显优势，在基于云对象存储的存算分离架构下表现更为突出。本次演讲将从作业帮现有架构面对的挑战出发，结合真实的业务场景，阐述相关数据湖仓技术方案和实践经验。</p><p></p><p>演讲提纲：</p><p></p><p>现有架构的挑战</p><p>○ 作业帮现有数据架构</p><p>○ 架构缺陷及历史问题</p><p>Iceberg 介绍</p><p>○ 元数据结构 &amp; 特性</p><p>湖仓整体架构</p><p>○ 典型场景 </p><p>○ 架构方案</p><p>湖仓实践</p><p>○ 采集入湖实践 </p><p>○ 离线计算实践</p><p>展望和不足</p><p></p><p>听众收益点：</p><p></p><p>○ 作业帮的业务场景及可复制的湖仓架构设计</p><p>○ HIVE 到 Iceberg 迁移及 Iceberg 应用实践</p><p></p><p>除上述演讲外，QCon 上海还将围绕&nbsp;<a href=\"https://qcon.infoq.cn/2023/shanghai/track/1595?utm_source=infoqweb&amp;utm_medium=teacherart\">GenAI和通用大模型应用探索</a>\"、<a href=\"https://qcon.infoq.cn/2023/shanghai/track/1596?utm_source=infoqweb&amp;utm_medium=teacherart\">AI&nbsp;Agent&nbsp;与行业融合应用的前景</a>\"、<a href=\"https://qcon.infoq.cn/2023/shanghai/track/1597?utm_source=infoqweb&amp;utm_medium=teacherart\">LLM&nbsp;时代的性能优化</a>\"、<a href=\"https://qcon.infoq.cn/2023/shanghai/track/1598?utm_source=infoqweb&amp;utm_medium=teacherart\">智能化信创软件&nbsp;IDE</a>\"、<a href=\"https://qcon.infoq.cn/2023/shanghai/track/1602?utm_source=infoqweb&amp;utm_medium=teacherart\">面向人工智能时代的架构</a>\"、<a href=\"https://qcon.infoq.cn/2023/shanghai/track/1604?utm_source=infoqweb&amp;utm_medium=teacherart\">性能工程：提升效率和创新的新方法</a>\"等专题进行交流。</p><p></p><p>12 月 28-29 日，QCon 全球软件开发大会即将落地上海，中国科学院外籍院士、国际数据库专家樊文飞院士，英特尔大数据技术全球 CTO 戴金权等大咖会亲临现场分享大数据、芯片、架构等方向的前沿洞见。</p><p></p><p>这次会议主要探讨大模型的全面技术架构的进化，不仅有跟大模型本身相关的推理加速、AI Agent、GenAI，还有架构的演进思路、性能优化，以及以智能代码助手为代表的研发效能提升等方向，感兴趣的朋友可以扫描下方二维码，查看大会详细日程。咨询购票可联系票务经理 18514549229。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/01/0113b3dfb187d5f9988b7eb16d2e0594.png\" /></p><p></p>",
+    "publish_time": "2023-12-18 11:30:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "Tech Talk丨生成式 AI 重构开发者未来竞争力",
+    "url": "https://www.infoq.cn/article/SXwiL4YY9WdLVupuW82V",
+    "summary": "<p>re:Invent 2023 圆满结束，在会上亚马逊云科技发布了一系列新产品、新服务、新工具等，其中最令开发者们兴奋的便是生成式 AI 方面的产品服务，包括面向生成式 AI 的 Graviton4 和 Trainium2 芯片、Amazon Q、Bedrock、PartyRock等等开发平台或工具；除此之外，会上还公布了亚马逊云科技在 Serverless 等方面的最新进展。</p>\n<p>透过 re:Invent 2023，我们能看到哪些技术趋势？有哪些值得开发者关注的重点？又该如何去体验相关的产品或者服务？</p>\n<p>12 月 13 号 19:00，极客邦科技创始人兼 CEO &amp; InfoQ 中国创始人 霍太稳对话亚马逊云科技大中华区解决方案架构部总经理 代闻，围绕 re:Invent 2023 上的最新发布展开探讨。</p>\n<p>探讨内容如下：<br />\n生成式 AI 正在重塑开发工具与开发规则<br />\n深度解析亚马逊云科技推出的全栈生成式 AI 服务<br />\n生成式 AI 时代，开发者们如何构建未来竞争力？</p>",
+    "publish_time": "2023-12-18 12:05:39",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
