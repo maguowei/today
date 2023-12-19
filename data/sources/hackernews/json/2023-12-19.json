@@ -647,5 +647,38 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Marvin Attack on RSA (Rust): potential key recovery through timing sidechannels",
+    "url": "https://github.com/RustCrypto/RSA/security/advisories/GHSA-c38w-74pg-36hr",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38692477\">Comments</a>",
+    "publish_time": "2023-12-19 14:21:07",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "I've Misunderstood the Single Responsibility Principle",
+    "url": "https://www.sicpers.info/2023/10/ive-vastly-misunderstood-the-single-responsibility-principle/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38692393\">Comments</a>",
+    "publish_time": "2023-12-19 14:03:18",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Qt 6.6 and 6.7 Make QML Faster Than Ever: A New Benchmark and Analysis",
+    "url": "https://www.qt.io/blog/qt-6.6-and-6.7-make-qml-faster-than-ever-a-new-benchmark-and-analysis",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38692318\">Comments</a>",
+    "publish_time": "2023-12-19 13:51:11",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
