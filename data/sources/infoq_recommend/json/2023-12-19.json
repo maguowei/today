@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Swift 5.9 Backtracer 实现并发感知，并改进可靠性和 Linux 支持",
+    "url": "https://www.infoq.cn/article/l6wqFZCEAAp4G16yoobZ",
+    "summary": "<p></p><p>除了通过宏和借用式内存管理扩展语言之外，Swift 5.9 还引入了一些有用的程序调试功能，包括进程外崩溃处理程序、即时调试支持和回溯，旨在简化使用结构化并发时的控制流解释。</p><p></p><p>进程外崩溃处理是一个非常强大的新功能，它通常可以防止程序崩溃，并让你可以检查程序或为其附加调试器。</p><p></p><p>当启用了这个新特性的程序崩溃时，你会看到一个提示，让你可以更改回溯设置，生成新的回溯，列出加载的图像，显示寄存器和内存内容，并获得进程中所有线程的列表。或者，你可以将调试器附加到崩溃的进程并交互式地检查其状态。如果你不选择任何选项，那么程序将在 30 秒或预先配置好的时间后崩溃。</p><p></p><p>进程外崩溃处理程序对 Linux 开发人员来说特别重要，因为他们习惯于在控制台中获得程序崩溃的简明错误消息，而不是借助任何其他额外的工具。为此，在 Linux 上，崩溃处理程序是默认开启的，而在 macOS 上则必须手动启用。这个新功能尚未提供 Windows 支持，但是开发者可以访问操作系统内置的崩溃报告来获取导致崩溃的其他信息。</p><p></p><p>另一项备受欢迎的改进是回溯器现在具备了并发感知能力。也就是说，它能够通过异步帧进行回溯，例如当 async 函数通过 await 语句执行时。在这种情况下，await/async 调用在回溯中和普通调用没什么不一样，并不会显示属于运行时 await/async 机制的过渡帧。不过，这个新功能要求回溯器能够查找程序符号来判断一个帧是否是异步的。</p><p></p><p>最后需要说明的是，为了提高可靠性，Swift 5.9 中的新回溯器允许你配置回溯器将生成的最大帧数以及你想要显示的堆栈顶部的帧数。此外，在默认情况下，它会跳过系统帧和 Swift thunk，应用程序开发人员很少对这些内容感兴趣。</p><p></p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2023/11/swift-5-9-backtracer-debugger/\">https://www.infoq.com/news/2023/11/swift-5-9-backtracer-debugger/</a>\"</p>",
+    "publish_time": "2023-12-19 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "2023 深圳国际金融科技大赛圆满落幕：培养创新人才，助推金融科技发展",
+    "url": "https://www.infoq.cn/article/9uBBmHfLCUGEw2u1KLOl",
+    "summary": "<p>12 月 16 日 -18 日，在深圳市地方金融监督管理局、深圳市福田区人民政府、深圳市南山区人民政府的战略指导下，由深圳大学、微众银行、深圳香蜜湖国际金融科技研究院等多方联合举办的“<a href=\"https://www.infoq.cn/video/atB6FuOvpIQGQPWLX0Eo?utm_campaign=geek_search&amp;utm_content=geek_search&amp;utm_medium=geek_search&amp;utm_source=geek_search&amp;utm_term=geek_search\">2023 深圳国际金融科技大赛（FinTechathon）</a>\"——西丽湖金融科技大学生挑战赛”（下文称“大赛”）在深圳大学圆满落幕，并举行大赛颁奖典礼仪式。深圳市地方金融监督管理局党组成员、副局长王新东，微众银行副行长、首席信息官马智涛，<a href=\"https://www.infoq.cn/article/FzhKDk2oUSugP5JLj89l?utm_campaign=geek_search&amp;utm_content=geek_search&amp;utm_medium=geek_search&amp;utm_source=geek_search&amp;utm_term=geek_search\">深圳大学</a>\"微众金融科技学院党委书记刘海山现场出席并致辞。</p><p></p><p>作为深圳市金融科技节的一环，该赛事已成功举办五届，通过发挥资源、人才、技术和协同创新优势，促成产学研合作向纵深迈进，赢得了广泛关注和认可。本届大赛历时三个月，收到超过 1500 名学生组成的逾 300 支赛队报名，其中我国双一流院校报名人数突破 670 人，并有超过 30 所境外高校报名参赛。经过激烈角逐，此次大赛为区块链、人工智能、产品经理三个赛道的获奖赛队授予了总计 69 万元的奖金及区块链数字证书。</p><p></p><p>值得一提的是，该数字证书基于微众区块链技术，采用国产安全可控开源平台 FISCO BCOS 为底层链，上链获奖信息防篡改、可追溯、数据来源可信任。获奖选手可随时查看和下载数字证书，校方、招聘企业等也可以扫码快速验证证书真伪，达到可信验证、高效互通的效果。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/21/21d7085e6835119fed32741ac854ef57.png\" /></p><p></p><p>在颁奖典礼上，深圳市地方金融监督管理局党组成员、副局长王新东表示：“本届大赛坚持学以致用的理念，对探寻金融科技发展前景、加强新兴金融科技人才培养、打造产学研深度融合新格局具有重要意义。”</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/99/99d1960f6d53a0501a0fef95e9f6e452.png\" /></p><p>图：深圳市地方金融监督管理局党组成员、副局长王新东致辞</p><p></p><p>深圳大学微众金融科技学院党委书记刘海山表示：“以赛带学，此次与<a href=\"https://www.infoq.cn/article/NjkLsroBG4rfmaAYdu13?utm_campaign=geek_search&amp;utm_content=geek_search&amp;utm_medium=geek_search&amp;utm_source=geek_search&amp;utm_term=geek_search\">微众银行</a>\"联合举办金融科技大赛，吸引海内外人才积极探索金融科技领域的技术应用创新，有机会为行业提供更多具有应用价值的技术解决方案。”</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/2b/2b0bc5430cd32b48d6014a7774c5d49b.png\" /></p><p>图：深圳大学微众金融科技学院党委书记刘海山致辞</p><p></p><p>微众银行副行长、首席信息官马智涛表示：“本届大赛有利于挖掘和培养金融科技人才，为深圳市打造金融科技发展高地提供人才储备。此外，作为以科技为核心发展引擎的数字银行，微众银行将继续以开放的态度，多措并举助推金融科技的发展和应用。”</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/a8/a8721c7db9cd1e2d25c377e5c1f4bbbd.png\" /></p><p>图：微众银行副行长、首席信息官马智涛致辞</p><p></p><p>据了解，作为大赛的发起者和主办方之一，微众银行是我国首家数字银行，持续深耕金融科技，在区块链、人工智能、云计算和大数据等关键技术领域开展产学研用攻关，并建成了全球首个完全自主可控、支持亿级用户和高并发交易的分布式核心系统，成为国内首家获得国家高新技术企业认证的商业银行。此外，该行始终注重金融科技人才的引进和培养，自成立以来，科技人员占比始终保持在 50% 以上，历年科技研发费用占营业收入比重约达 10%，为其践行普惠金融、服务实体经济发展奠定了坚实的基础。</p>",
+    "publish_time": "2023-12-19 08:30:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
