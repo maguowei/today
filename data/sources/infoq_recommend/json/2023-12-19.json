@@ -20,5 +20,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "北京飞漫软件技术有限公司创始人兼 CEO 魏永明确认出席 QCon 上海，分享 HVML 编程语言及其应用的跨端运行技术",
+    "url": "https://www.infoq.cn/article/9IDhlVR1HGWkQhFGMzCt",
+    "summary": "<p><a href=\"https://qcon.infoq.cn/2023/shanghai/?utm_source=infoqweb&amp;utm_medium=teacherart&amp;utm_campaign=10&amp;utm_term=1219&amp;utm_content=weiyongming\">QCon 全球软件开发大会</a>\"，将于 12 月在上海召开。北京飞漫软件技术有限公司创始人兼 CEO 魏永明将发表题为《<a href=\"https://qcon.infoq.cn/2023/shanghai/presentation/5639?utm_source=infoqweb&amp;utm_medium=teacherart&amp;utm_campaign=10&amp;utm_term=1219&amp;utm_content=weiyongming\">HVML 编程语言及其应用的跨端运行技术</a>\"》主题分享，探讨 HVML 语言的开源解释器实现， HVML 应用框架的解释器和渲染器分离设计原理及其带来的巨大灵活性。</p><p></p><p><a href=\"https://qcon.infoq.cn/2023/shanghai/presentation/5639?utm_source=infoqweb&amp;utm_medium=teacherart&amp;utm_campaign=10&amp;utm_term=1219&amp;utm_content=weiyongming\">魏永明</a>\"，获清华大学工学学士、硕士学位。飞漫软件创始人，2013 年度“开源软件杰出贡献人物”。1999 年发布了知名开源软件 MiniGUI 并持续研发至今。20 多年来，该软件广泛应用于各类硬件产品。编（译）著有《MiniGUI 剖析》、《Linux 实用教程》、《Linux 设备驱动程序》（二、三版）等技术著作。2018 年 11 月，发起合璧操作系统开源协作项目；2020 年 8 月，提出世界首款描述式编程语言 HVML；2022 年 7 月，开源发布 HVML 解释器及渲染器（源代码规模超百万行）。他在本次会议的演讲内容如下：</p><p></p><p>演讲：HVML 编程语言及其应用的跨端运行技术</p><p></p><p>在万物互联的市场背景下，以智能汽车为代表的行业一直在寻找比远程桌面、CarPlay 等技术更好的应用跨端运行技术方案。HVML 编程语言提出的跨端应用实现方案，不仅仅能够实现多屏同显、多屏异显，还能实现应用跨设备的热迁移。同时，HVML 作为世界首款可编程标记语言，提出了独具特色的具备内存访问安全性且无垃圾回收机制的解释器实现方案。</p><p></p><p>本次演讲将介绍 HVML 语言的开源解释器实现，并介绍 HVML 应用框架的解释器和渲染器分离设计原理及其带来的巨大灵活性。同时，作为通用编程语言，HVML 还可以作为 Web 服务器的网关程序使用，并表现出了 HVML 在性能方面的优势。本演讲给出了 HVML 和 PHP 在性能上的对比数据。</p><p></p><p>演讲提纲：</p><p></p><p>应用的跨端运行及其传统实现方案HVML 应用框架的原理和特点HVML 应用的热迁移HVML 编程语言的特点及其开源解释器HVML 作为网关程序及其和 PHP 的性能对比</p><p></p><p>听众收益点：</p><p></p><p>○ 了解可编程标记语言的特点和与众不同之处</p><p>○ 了解跨端应用的全新技术实现思路</p><p>○ 了解如何通过打破固有思维，用全新思路解决已有问题</p><p></p><p>除上述演讲外，QCon 上海还将围绕&nbsp;<a href=\"https://qcon.infoq.cn/2023/shanghai/track/1595?utm_source=infoqweb&amp;utm_medium=teacherart\">GenAI和通用大模型应用探索</a>\"、<a href=\"https://qcon.infoq.cn/2023/shanghai/track/1596?utm_source=infoqweb&amp;utm_medium=teacherart\">AI&nbsp;Agent&nbsp;与行业融合应用的前景</a>\"、<a href=\"https://qcon.infoq.cn/2023/shanghai/track/1597?utm_source=infoqweb&amp;utm_medium=teacherart\">LLM&nbsp;时代的性能优化</a>\"、<a href=\"https://qcon.infoq.cn/2023/shanghai/track/1598?utm_source=infoqweb&amp;utm_medium=teacherart\">智能化信创软件&nbsp;IDE</a>\"、<a href=\"https://qcon.infoq.cn/2023/shanghai/track/1602?utm_source=infoqweb&amp;utm_medium=teacherart\">面向人工智能时代的架构</a>\"、<a href=\"https://qcon.infoq.cn/2023/shanghai/track/1604?utm_source=infoqweb&amp;utm_medium=teacherart\">性能工程：提升效率和创新的新方法</a>\"等专题进行交流。</p><p></p><p>12 月 28-29 日，QCon 全球软件开发大会即将落地上海，中国科学院外籍院士、国际数据库专家樊文飞院士，英特尔大数据技术全球 CTO 戴金权等大咖会亲临现场分享大数据、芯片、架构等方向的前沿洞见。</p><p></p><p>这次会议主要探讨大模型的全面技术架构的进化，不仅有跟大模型本身相关的推理加速、AI Agent、GenAI，还有架构的演进思路、性能优化，以及以智能代码助手为代表的研发效能提升等方向，感兴趣的朋友可以扫描下方二维码，查看大会详细日程。咨询购票可联系票务经理 18514549229。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/01/0113b3dfb187d5f9988b7eb16d2e0594.png\" /></p><p></p>",
+    "publish_time": "2023-12-19 11:30:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
