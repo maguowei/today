@@ -42,5 +42,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "矩阵起源产品总监邓楠确认出席 QCon 上海，分享云原生环境下的新型超融合数据架构",
+    "url": "https://www.infoq.cn/article/gH7DVJrgOGszvC2143qX",
+    "summary": "<p><a href=\"https://qcon.infoq.cn/2023/shanghai/?utm_source=infoqweb&amp;utm_medium=teacherart&amp;utm_campaign=10&amp;utm_term=1221&amp;utm_content=dengnan\">QCon 全球软件开发大会</a>\"，将于 12 月在上海召开。矩阵起源产品总监邓楠将发表题为《<a href=\"https://qcon.infoq.cn/2023/shanghai/presentation/5693?utm_source=infoqweb&amp;utm_medium=teacherart&amp;utm_campaign=10&amp;utm_term=1221&amp;utm_content=dengnan\">云原生环境下的新型超融合数据架构</a>\"》主题分享，探讨 MatrixOne 这套新型数据架构如何打破传统数据库资源使用率不高，运维管理相对碎片化的局面，彻底实现应用及数据一体化的 DevOps 实践。</p><p></p><p><a href=\"https://qcon.infoq.cn/2023/shanghai/presentation/5693?utm_source=infoqweb&amp;utm_medium=teacherart&amp;utm_campaign=10&amp;utm_term=1221&amp;utm_content=dengnan\">邓楠</a>\"，矩阵起源产品总监，前腾讯云架构师，在云计算、大数据、AI 领域有十余年从业经验。他在本次会议的演讲内容如下：</p><p></p><p>演讲：云原生环境下的新型超融合数据架构</p><p></p><p>当前整个 IT 环境已经大规模走向 2.0 版本的云原生化时代，Kubernetes 已经基本等同于云原生技术栈上的 Linux。Kubernetes 管理无状态的应用层组件已经有很多成熟实践，然而对于有状态的数据层组件，在各个行业中并没有形成完善的思路。MatrixOne 作为一款新型的完全云原生化的超融合 HSTAP 数据库，将给行业带来一套完全 Kubernetes 及 S3 原生，完全容器化，线性扩展并且资源可动态调配的新型数据架构。</p><p></p><p>通过这套新型数据架构可以将大量独立的集中式数据库实例给合并到一套集群中，并且以多租户及资源池的管理模式来形成 Serverless 化的使用方式，动态调配各实例的使用资源，同时这套架构可以将 OLTP、OLAP 及流计算相关的负载都统一到一套集群中，极大的降低整个运维和管理的难度。MatrixOne 的新型架构将打破传统数据库资源使用率不高，运维管理相对碎片化的局面，彻底实现应用及数据一体化的 DevOps 实践。</p><p></p><p>演讲提纲：</p><p></p><p>云原生下的传统数据架构挑战。超融合数据库 MatrixOne 的架构介绍。MatrixOne 如何解决云原生环境下数据管理难题。MatrixOne 应用场景与落地案例。</p><p></p><p>听众收益：</p><p></p><p>○ 了解当前环境下的云原生数据库趋势</p><p>○ 了解超融合新型架构对行业的帮助，如何帮助开发和运维人员省时省力，降本增效</p><p></p><p>除上述演讲外，QCon 上海还将围绕&nbsp;<a href=\"https://qcon.infoq.cn/2023/shanghai/track/1595?utm_source=infoqweb&amp;utm_medium=teacherart\">GenAI和通用大模型应用探索</a>\"、<a href=\"https://qcon.infoq.cn/2023/shanghai/track/1596?utm_source=infoqweb&amp;utm_medium=teacherart\">AI&nbsp;Agent&nbsp;与行业融合应用的前景</a>\"、<a href=\"https://qcon.infoq.cn/2023/shanghai/track/1597?utm_source=infoqweb&amp;utm_medium=teacherart\">LLM&nbsp;时代的性能优化</a>\"、<a href=\"https://qcon.infoq.cn/2023/shanghai/track/1598?utm_source=infoqweb&amp;utm_medium=teacherart\">智能化信创软件&nbsp;IDE</a>\"、<a href=\"https://qcon.infoq.cn/2023/shanghai/track/1602?utm_source=infoqweb&amp;utm_medium=teacherart\">面向人工智能时代的架构</a>\"、<a href=\"https://qcon.infoq.cn/2023/shanghai/track/1604?utm_source=infoqweb&amp;utm_medium=teacherart\">性能工程：提升效率和创新的新方法</a>\"等专题进行交流。</p><p></p><p>12 月 28-29 日，QCon 全球软件开发大会即将落地上海，中国科学院外籍院士、国际数据库专家樊文飞院士，英特尔大数据技术全球 CTO 戴金权等大咖会亲临现场分享大数据、芯片、架构等方向的前沿洞见。</p><p></p><p>这次会议主要探讨大模型的全面技术架构的进化，不仅有跟大模型本身相关的推理加速、AI Agent、GenAI，还有架构的演进思路、性能优化，以及以智能代码助手为代表的研发效能提升等方向，感兴趣的朋友可以扫描下方二维码，查看大会详细日程。咨询购票可联系票务经理 18514549229。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/01/0113b3dfb187d5f9988b7eb16d2e0594.png\" /></p><p></p>",
+    "publish_time": "2023-12-21 11:30:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
