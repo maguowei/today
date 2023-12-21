@@ -1668,5 +1668,74 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "风起大唐",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%A3%8E%E8%B5%B7%E5%A4%A7%E5%94%90%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "人体有些部位不能推拿按摩",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BD%93%E6%9C%89%E4%BA%9B%E9%83%A8%E4%BD%8D%E4%B8%8D%E8%83%BD%E6%8E%A8%E6%8B%BF%E6%8C%89%E6%91%A9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "离职前辈留下的巨额财产",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%A6%BB%E8%81%8C%E5%89%8D%E8%BE%88%E7%95%99%E4%B8%8B%E7%9A%84%E5%B7%A8%E9%A2%9D%E8%B4%A2%E4%BA%A7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "住建部表示「动则必快，动则必成」，明年房地产工作狠抓落实，释放了哪些信号？",
+    "url": "https://www.zhihu.com/question/635983544",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美股三大指数集体收涨，热门中概股集体走高",
+    "url": "https://www.36kr.com/newsflashes/2571079207167621",
+    "summary": "36氪获悉，12月21日收盘，美股三大指数集体收涨，纳指涨1.26%，标普500指数涨1.03%，道指涨0.87%。大型科技股普涨，特斯拉涨约3%，谷歌、亚马逊、Meta涨超1%，Netflix、微软小幅上涨。热门中概股集体走高，京东、百度、B站、知乎涨超5%，蔚来、微博涨超4%，阿里巴巴、腾讯音乐涨超3%，爱奇艺、网易涨超2%，小鹏汽车涨超1%，拼多多小幅上涨。",
+    "publish_time": "2023-12-22 07:00:30",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "British teenager behind GTA 6 hack receives indefinite hospital order",
+    "url": "https://www.theguardian.com/uk-news/2023/dec/21/british-teenager-behind-gta-6-hack-receives-indefinite-hospital-order",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38727676\">Comments</a>",
+    "publish_time": "2023-12-22 06:03:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "LLM in a Flash: Efficient Large Language Model Inference with Limited Memory",
+    "url": "https://arxiv.org/abs/2312.11514",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38728018\">Comments</a>",
+    "publish_time": "2023-12-22 06:31:08",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]

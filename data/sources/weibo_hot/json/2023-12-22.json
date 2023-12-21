@@ -709,5 +709,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "风起大唐",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%A3%8E%E8%B5%B7%E5%A4%A7%E5%94%90%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "人体有些部位不能推拿按摩",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BD%93%E6%9C%89%E4%BA%9B%E9%83%A8%E4%BD%8D%E4%B8%8D%E8%83%BD%E6%8E%A8%E6%8B%BF%E6%8C%89%E6%91%A9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "离职前辈留下的巨额财产",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%A6%BB%E8%81%8C%E5%89%8D%E8%BE%88%E7%95%99%E4%B8%8B%E7%9A%84%E5%B7%A8%E9%A2%9D%E8%B4%A2%E4%BA%A7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
