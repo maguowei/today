@@ -889,5 +889,49 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "NewPipe 0.26",
+    "url": "https://github.com/TeamNewPipe/NewPipe/releases/tag/v0.26.0",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38732781\">Comments</a>",
+    "publish_time": "2023-12-22 18:14:25",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Midjourney v6",
+    "url": "https://mid-journey.ai/midjourney-v6-release/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38733784\">Comments</a>",
+    "publish_time": "2023-12-22 21:12:12",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A clickjacking vulnerability in WhatsApp that enables phishing attacks",
+    "url": "https://00xbyte.github.io/posts/Don%27t-Believe-Your-Eyes-A-WhatsApp-Clickjacking-Vulnerability/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38732770\">Comments</a>",
+    "publish_time": "2023-12-22 18:12:08",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Heynote – A Dedicated Scratchpad for Developers",
+    "url": "https://heynote.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38733968\">Comments</a>",
+    "publish_time": "2023-12-22 21:33:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
