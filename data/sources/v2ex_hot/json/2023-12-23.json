@@ -42,5 +42,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "公司发的电脑",
+    "url": "https://www.v2ex.com/t/1002792",
+    "summary": "johnzr: 大家的工作电脑都是什么系统呀？<br /><br />下班后，大家还会使用公司发的笔记本吗？",
+    "publish_time": "2023-12-23 03:59:10",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "如何自建 DNS 服务器，搭在阿里云上面有被查的风险吗",
+    "url": "https://www.v2ex.com/t/1002815",
+    "summary": "cn2010:",
+    "publish_time": "2023-12-23 11:17:39",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "btc 交易 gas 太低卡住了",
+    "url": "https://www.v2ex.com/t/1002849",
+    "summary": "ltfree: <p>小白一个，前几天买了几个 nft ，但是居然被卡了，我给的 gas 是比较高的，只不过之前有一笔转入，才 4gas ，被平均了，目前平均为 23gas ，按照这个 gas 排队的话，估计要排到明年都不一定能成交</p>\n<p>去网上查了些资料，说是再买入一笔，然后把 gas 拉高，会再次平均，这样就可以了，不过刚刚试了下，貌似没有什么效果，这笔高 gas 被平均到最低了...按照网上说的，最低值应该会被拉高才对</p>\n<p>现在已经没有思路了，有没有哪位朋友帮忙看下，谢谢了</p>\n<p>地址：bc1q3vd45tn5ym3yjqf53gxv87arz6xa7t2eyytcvk</p>",
+    "publish_time": "2023-12-23 13:50:42",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
