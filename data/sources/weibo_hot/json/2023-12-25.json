@@ -610,5 +610,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "你还过平安夜吗",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%BF%98%E8%BF%87%E5%B9%B3%E5%AE%89%E5%A4%9C%E5%90%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "真爱至上",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%9C%9F%E7%88%B1%E8%87%B3%E4%B8%8A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
