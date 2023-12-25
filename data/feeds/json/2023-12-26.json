@@ -1649,5 +1649,89 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "你跟他讲道理 他跟你讲伦理",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%B7%9F%E4%BB%96%E8%AE%B2%E9%81%93%E7%90%86+%E4%BB%96%E8%B7%9F%E4%BD%A0%E8%AE%B2%E4%BC%A6%E7%90%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "下雨天的时候，你最想做什么？",
+    "url": "https://www.zhihu.com/question/631482588",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "阶段性、结构性过剩，锂电行业逐步回归理性发展新阶段",
+    "url": "https://www.36kr.com/newsflashes/2576755201746564",
+    "summary": "不同于2022年的供需两旺、投资火热，2023年锂电产业快速进入阶段性过剩阶段。价格是最直观的反映。据统计，今年以来，锂电全产业链产品价格出现大幅下跌，部分产品如碳酸锂价格下跌了约70%，电解液价格跌幅超过60%，电芯价格普遍下跌40%至50%。亿纬锂能董事长刘金成表示：“现在，依靠技术和质量驱动，（产业）进入理性和良性发展新阶段。”产能过剩必然带来新一轮的淘汰，2024年的形势依然严峻。不过，从更长的周期来观察，锂电行业依然存在巨大的市场空间和机会。（上证报）",
+    "publish_time": "2023-12-26 07:02:46",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Zapping municipal waste helps recover valuable phosphorus fertilizer",
+    "url": "https://phys.org/news/2023-06-zapping-municipal-recover-valuable-phosphorus.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38766244\">Comments</a>",
+    "publish_time": "2023-12-26 05:22:50",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The dark side of social media on youth mental health",
+    "url": "https://www.psypost.org/2023/12/the-dark-side-of-social-media-on-youth-mental-health-215179",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38766352\">Comments</a>",
+    "publish_time": "2023-12-26 05:35:45",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Evolving Reservoirs for Meta Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2312.06695",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38766381\">Comments</a>",
+    "publish_time": "2023-12-26 05:39:46",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Do all roads lead to Rome?",
+    "url": "https://blog.datawrapper.de/roman-roads-tabula-peutingeriana/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38765525\">Comments</a>",
+    "publish_time": "2023-12-26 03:50:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Data scientists need to learn about significant digits",
+    "url": "https://lemire.me/blog/2019/01/29/data-scientists-need-to-learn-about-significant-digits/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38765698\">Comments</a>",
+    "publish_time": "2023-12-26 04:13:13",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
