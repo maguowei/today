@@ -1692,5 +1692,45 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "每天坚持这样做一觉睡到大天亮",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A9%E5%9D%9A%E6%8C%81%E8%BF%99%E6%A0%B7%E5%81%9A%E4%B8%80%E8%A7%89%E7%9D%A1%E5%88%B0%E5%A4%A7%E5%A4%A9%E4%BA%AE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "在下雪时，你第一时间想到的歌是什么？",
+    "url": "https://www.zhihu.com/question/629238156",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美股三大指数集体收涨，大型科技股多数上涨",
+    "url": "https://www.36kr.com/newsflashes/2578160795969161",
+    "summary": "36氪获悉，12月26日收盘，美股三大指数集体上涨，道指涨0.43%，纳指涨0.54%，标普500指数涨0.42%。大型科技股多数上涨，特斯拉涨超1％，Netflix涨近1％，Meta涨0.41％，微软、谷歌涨0.02％，苹果跌0.28％，亚马逊跌0.01％。热门中概股多数上涨，蔚来涨超10％，网易涨超5％，理想汽车涨超3％，小鹏汽车、腾讯音乐涨超1％，唯品会、携程跌超1％。",
+    "publish_time": "2023-12-27 07:00:00",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Schedule 37th Chaos Communication Congress",
+    "url": "https://fahrplan.events.ccc.de/congress/2023/fahrplan/timeline.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38776782\">Comments</a>",
+    "publish_time": "2023-12-27 06:27:35",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
