@@ -1357,5 +1357,54 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "下雪能让人少生病是真的吗",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8B%E9%9B%AA%E8%83%BD%E8%AE%A9%E4%BA%BA%E5%B0%91%E7%94%9F%E7%97%85%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "电影《三大队》程兵最后送水到 401 时，他在厕所里看到了什么就断定那个人是王二勇？",
+    "url": "https://www.zhihu.com/question/635321021",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "三个业余顶尖同时和柯洁下棋，胜率是多少？",
+    "url": "https://www.zhihu.com/question/602942507",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "US ban on some Apple Watch sales now in effect",
+    "url": "https://arstechnica.com/apple/2023/12/no-last-minute-reprieve-us-ban-on-some-apple-watch-sales-now-in-effect/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38773037\">Comments</a>",
+    "publish_time": "2023-12-27 00:17:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Let's Build a Compiler",
+    "url": "https://compilers.iecc.com/crenshaw/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38773049\">Comments</a>",
+    "publish_time": "2023-12-27 00:18:33",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
