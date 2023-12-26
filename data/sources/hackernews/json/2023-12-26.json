@@ -735,5 +735,27 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "It's All Bullshit",
+    "url": "https://thebaffler.com/latest/its-all-bullshit-tan",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38770151\">Comments</a>",
+    "publish_time": "2023-12-26 17:18:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A data corruption bug in OpenZFS?",
+    "url": "https://despairlabs.com/blog/posts/2023-12-25-openzfs-data-corruption-bug/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38770168\">Comments</a>",
+    "publish_time": "2023-12-26 17:21:11",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
