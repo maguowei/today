@@ -31,5 +31,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "被安卓恶心到了（准确来说是安卓 App 开发者）",
+    "url": "https://www.v2ex.com/t/1003401",
+    "summary": "sodulty: 被安卓恶心到了<br /><br />准确来说是无奈的呐喊。先说两点我遇到的情况吧<br /><br />1 、 在用小米 14 ，12306 申请临时身份证的时候，死活获取不到定位（此功能强制需要 否则无法申请），关机重启尝试 n 次均不行，已改签。。。。然后我发现只打开定位不够，必须同时打开 Wi-Fi 才能获取到定位<br /><br />2 、有在自己开发低功耗蓝牙设备，用了不少安卓 BLE 调试 app ， 发现部分 18-20 年的安卓手机无法在仅开启蓝牙的情况下扫描 BLE ，必须打开定位和蓝牙才能扫描到蓝牙 BLE<br /><br />懂技术的前提下能摸索清楚，1 这个情况要是家人等等大众碰到的时候干着急怎么办？ 12306 也不给提示，你就算给个“请打开 Wi-Fi 和蓝牙来辅助精确定位”的提示也行啊，纯傻逼，扛得起国民级出行 App 这个担子就要扛得住骂<br /><br /><br />但果子从来没出现类似的情况，为什么？<br /><br />1 、 果子不给你完全关闭 Wi-Fi 蓝牙定位的快捷方式，（一般都置灰）缺点是耗电，优点是不影响各种服务，不想给精确定位也能模糊定位，安卓端的模糊定位反而会引起部分 app 定位失效或崩溃<br /><br />2 、安卓很灵活能控制中心完全关闭定位蓝牙 Wi-Fi ，但是 app 开发者无法针对众多安卓版本的权限做全适配处理（安卓低版本和高版本的定位、连接附近设备的权限需要分开单独做处理），也没有及时通知用户，就会导致我以上遇到的情况",
+    "publish_time": "2023-12-26 09:02:49",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "如何应对公司的强制加班？",
+    "url": "https://www.v2ex.com/t/1003409",
+    "summary": "xppgg: <p>先不说公司名了，国企背景的公司，刚刚通知下来，以后每周有 3 天要 8 点以后下班，强制性的，没有群消息，也没有任何聊天记录作为证据，考勤记录也不是个人能查到的，所以目前没想到有什么可保留的证据，主要是想先保留一些证据，有可能不是长期的加班政策，发帖也不是要鱼死网破啥的，我也是刚回老家，能有目前这样的工作也挺好的，各种福利待遇都是不错，就是聊聊</p>",
+    "publish_time": "2023-12-26 09:35:08",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "手游这东西到底还要不要继续玩下去",
+    "url": "https://www.v2ex.com/t/1003484",
+    "summary": "shayang888: <p>现在手机里就一个原神，最近很纠结，到底要不要彻底弃坑掉手游了</p>\n<p>这几年里玩手游陆陆续续不知道氪进去多少钱，我信用卡至今一直没还完有一大半原因都是因为玩手游</p>\n<p>现在有个机会可以折价出掉自己的号，能回点血，这一出就意味着我再也不会碰手游了</p>",
+    "publish_time": "2023-12-26 13:25:20",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
