@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Oracle OCI 数据库提供 PostgreSQL 服务",
+    "url": "https://www.infoq.cn/article/YP8HmOJSWVQU82DEsTlU",
+    "summary": "<p>最近，Oracle 宣布 OCI 数据库正式提供 PostgreSQL 14.9。在 Oracle Cloud 提供了其第一个 PostgreSQL 托管服务之后，所有云提供商现在都提供了与 PostgreSQL 兼容的托管选项。</p><p></p><p>OCI Database with PostgreSQL 测试版于 9 月份发布，这是一个高可用的托管数据库，可以自动备份及水平扩展读取负载。与其他托管的关系型数据库类似，这个新选项会在创建和删除数据库表时动态调整存储，并实现了存储层与计算资源的解耦。</p><p></p><p>根据 Oracle 的说法，这项新服务使用了一种专门构建的共享存储架构。在这种架构中，所有数据库节点共享相同的底层存储层，可以自动跨区域复制数据。Oracle 副总裁兼杰出工程师 Deepak Agarwal 和 Oracle 首席技术架构师 Pradeep Vincent 解释了 Oracle 如何将 PostgreSQL 运用到他们的云数据库服务中。他们写道：</p><p></p><p></p><blockquote>前面已经详细讨论过，OCI Database with PostgreSQL 服务在成本、性能、规模、可用性和持久性方面提供了显著的优势。提供这些优势的关键是数据库优化存储（DbOS）层和自定义用户模式 DbOS 文件系统（DbFS）。其中，DbFS 是专门为优化 PostgreSQL 而构建的，为的是让它在云的规模下可以更有效地工作。</blockquote><p></p><p></p><p>新服务扩展了现有的基于开源软件的 OCI 选项：OCI Cache with Redis、OCI Search with OpenSearch 和 MySQL HeatWave。Oracle 副总裁 Leo Leung 评论道：</p><p></p><p></p><blockquote>我们的特色在于数据库优化存储，它将 SQL 事务处理引擎与存储层解耦。此外，加密是始终开启的，我们提供 99.99% 的 SLA，并且它是基于上游开源产品 PostgreSQL v14.9，实现了最大的可移植性。</blockquote><p></p><p></p><p><img src=\"https://static001.geekbang.org/wechat/images/87/87c719cc8c695fcdb3c309784ab50b9e.jpg\" /></p><p></p><p>图片来源：OCI 博客</p><p></p><p>随着 MySQL 背后的公司增加对 PostgreSQL 引擎的支持，开发人员将这项新服务视为对 PostgreSQL 作为云数据库事实标准 的确认。在最近发表的一篇文章“PostgreSQL 何时变得这么酷？”中，Crunchy Data 首席产品官 Craig Kerstiens 简短回顾了 PostgreSQL 的历史，并写道：</p><p></p><p></p><blockquote>Postgres 并非一直那么酷。它没有数百万美元的风险投资，它也没有一个支持它的 DevRel 布道者团队，它就那么诞生并成长起来了。作为一个开源项目，Postgres 刚刚度过了 25 年的里程碑。</blockquote><p></p><p></p><p>这个新选项主要针对的是运行在 AWS 上的 PostgreSQL 部署。Oracle 产品营销总监 Julien Lehmann 和首席产品经理 George Csaba 写道：</p><p></p><p></p><blockquote>当你在 OCI 上运行 PostgreSQL 时，你将受益于计算和存储的简明定价和低费率，你只需为自己使用的资源付费，并且所有地区（无论是在凤凰城、圣保罗还是东京）的定价都保持一致。在 AWS 上，类似的服务（Amazon Aurora PostgreSQL）比在 OCI 上贵 2.5 倍。在 Oracle Cloud 上部署 PostgreSQL 可以使用这个 Terraform 模块。</blockquote><p></p><p></p><p>原文链接：</p><p></p><p><a href=\"https://www.infoq.com/news/2023/12/oracle-oci-database-oracle/\">https://www.infoq.com/news/2023/12/oracle-oci-database-oracle/</a>\"</p><p></p><p></p><p></p>",
+    "publish_time": "2023-12-27 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
