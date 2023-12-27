@@ -42,5 +42,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "除了 VPN，还有什么安全方式在外网访问公司资源？",
+    "url": "https://www.v2ex.com/t/1003747",
+    "summary": "cndenis: <p>公司内有个内容管理平台，有些编辑同事想在公司外使用，目前的方式是先连 OpenVPN 。</p>\n<p>但是多数的编辑同事都不是技术，使用 OpenVPN 对于他们来说有点麻烦，有什么办法可以提供类似于 OpenVPN 的安全性但又更简单使用方法吗？</p>\n<p>内容管理平台本身有登录，也已经放在 WAF 后面了，期望的效果是类似于 VPN 一样，未连 VPN 的用户连内容管理平台登录页都发现不了。</p>",
+    "publish_time": "2023-12-27 10:47:25",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "中间户邻居把门改外开，怎么破",
+    "url": "https://www.v2ex.com/t/1003770",
+    "summary": "fluter: 就是同小区业主在装修，有一个边户业主在群里反馈他们这层中间户业主把门改外开(开发商门内开)，有安全隐患，同时也不方便自己家进出。物业说一开始签装修协议就和中间户业主说过换门不能外开，因为消防过不了，然后也不安全，同时会影响其他业主进出。但是中间户这个业主不听，偷偷的把门换了改外开。<br />  现在住建局、城管来了，要这家业主改回内开，但是这家业主油盐不进，反说边户业主无理取闹。如果你是边户业主，你会怎么办？<br />  下面是一个我画的图：中间户的门红色的一开，就是会挡住边户业主家，同时边户业主家出门，如果前面中间户业主家开门也不安全。<br /><a href=\"https://i.imgur.com/3NdHaEb.png\" rel=\"nofollow noopener\" target=\"_blank\"><img class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/3NdHaEb.png\" /></a>",
+    "publish_time": "2023-12-27 11:42:25",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
