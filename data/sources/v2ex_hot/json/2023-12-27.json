@@ -1,0 +1,13 @@
+[
+  {
+    "title": "信息贩卖真的无解吗？朋友差点被诈骗了",
+    "url": "https://www.v2ex.com/t/1003688",
+    "summary": "HENQIGUAI: <p>事情是这样的，朋友突然发消息说她遇到电信诈骗了，很慌。</p>\n<p>好在觉得不对劲及时反应过来，终止了步骤，然后她也报警了，也被教育了一顿。</p>\n<p>总结下来就是骗子通过不知是买来的还是从哪弄来的个人信息，包括但不限于手机号、航班信息等等，再通过打电话，使用一些话术(具体话术我不清楚，朋友用的是 iOS, 全程在手机操作，iOS 没有录音！！估计是利用信息优势 + 时间节点循循诱导)。</p>\n<p>再结合做的假网页，收集朋友自己提供的信息，比如补全银行卡号和密码等等手段，进行诈骗。</p>\n<p>朋友说骗子还让她下载了一个 APP, 然后一步步教她点击了授权未信任的企业开发者(我不清楚 iOS 开发，这个是我推测的，我看到确认授权是可以使得这个 APP 能被打开，但是不知道这个 App 打开之后其会偷走什么，问了一下 App 名称叫做“会议”，logo 看起来像是腾讯会议，是从那个假网页上面下载的，现在这个网页被重定向，我搜了一下没有搜到了，不然可以尝试拆包看看)</p>\n<p>骗子提供的域名是：<a href=\"https://www.v2ex.com/t/531226.cc\" rel=\"nofollow\">531226.cc</a>，也就是上文提到的那个仿冒国航的假网页，现在直接访问这个域名会被重定向到 <a href=\"https://www.v2ex.com/t/baidu.com\" rel=\"nofollow\">baidu.com</a></p>\n<p>whois 域名得到的信息是注册于 2023 年 12 月 25 日，注册商是 <a href=\"http://gname.com/\" rel=\"nofollow\">Gname.com</a> ，昨天注册的域名今天就拿来诈骗，真他妈的勤奋啊。</p>\n<p>我还能得到的信息是：IP 是 <a href=\"https://www.v2ex.com/t/34.126.103.155\" rel=\"nofollow\">34.126.103.155</a></p>\n<p>然后用 ZoomEye <a href=\"https://www.zoomeye.org/searchResult?q=ip%3A%2234.126.103.155%22\" rel=\"nofollow\">搜了一下</a> ，得到如下信息：</p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://s3.bmp.ovh/imgs/2023/12/26/b42c05406dd39fff.png\" /></p>\n<p>我看了其中有这样两行(应该还有其他重要信息，)：</p>\n<pre><code class=\"language-html\">1.&lt;!-- Mirrored from m.airchina.com.cn/ by HTTrack Website Copier/3.x [XR&amp;CO'2014], Fri, 06 Oct 2023 04:51:39 GMT --&gt;\n2.Http response from 302 moved url http://34.126.103.155/c/tozyH5/+aj.zyscQuery:\n</code></pre>\n<p>第一行是通过复刻了国航官方的移动端网页，第二行是把收集到的信息提交到服务器。</p>\n<p>我去了国航移动端 H5 看到了官方已经在 10 月底发布了<a href=\"https://m.airchina.com.cn/ac/c/invoke/msgDetail@pg?&amp;lang=zhcn\" rel=\"nofollow\">关于防范以国航名义进行诈骗的温馨提示</a></p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://s3.bmp.ovh/imgs/2023/12/26/483b46c5d496d552.png\" /></p>\n<p>看来被骗的人应该很多了。</p>\n<p>我不太了解渗透或者 DDOS 后续应该怎么搞了，我能做的似乎到这里就为止了，但是又有点咽不下这口气，所以发此贴，一是提醒技术同学或者非技术同学都多多留意类似的骗局，二是看看能不能有哥们也看不惯的，帮忙给揪出骗子的更多信息。</p>",
+    "publish_time": "2023-12-27 08:08:12",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  }
+]
