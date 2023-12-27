@@ -1439,5 +1439,54 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "帕梅拉 在中国遇到最惊讶的事情",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B8%95%E6%A2%85%E6%8B%89+%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%81%87%E5%88%B0%E6%9C%80%E6%83%8A%E8%AE%B6%E7%9A%84%E4%BA%8B%E6%83%85%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "网友称麦当劳再涨小心失去我",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E7%A7%B0%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%86%8D%E6%B6%A8%E5%B0%8F%E5%BF%83%E5%A4%B1%E5%8E%BB%E6%88%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "数据可视化工具你知道哪个最强？",
+    "url": "https://www.zhihu.com/question/513003329",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Julia 1.10",
+    "url": "https://docs.julialang.org/en/v1/NEWS/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38783886\">Comments</a>",
+    "publish_time": "2023-12-28 00:57:29",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "3D Map of Shinjuku Station in Three.js",
+    "url": "https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38786581\">Comments</a>",
+    "publish_time": "2023-12-28 04:50:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
