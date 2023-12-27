@@ -916,5 +916,108 @@
       "desc": "知乎热榜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
     }
+  },
+  {
+    "title": "男生被教授催眠后眼睛无神",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E8%A2%AB%E6%95%99%E6%8E%88%E5%82%AC%E7%9C%A0%E5%90%8E%E7%9C%BC%E7%9D%9B%E6%97%A0%E7%A5%9E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "工具选得好 开发下班早",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B7%A5%E5%85%B7%E9%80%89%E5%BE%97%E5%A5%BD+%E5%BC%80%E5%8F%91%E4%B8%8B%E7%8F%AD%E6%97%A9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "杭州大姐把旧羽绒服翻新成羽绒被火了",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A4%A7%E5%A7%90%E6%8A%8A%E6%97%A7%E7%BE%BD%E7%BB%92%E6%9C%8D%E7%BF%BB%E6%96%B0%E6%88%90%E7%BE%BD%E7%BB%92%E8%A2%AB%E7%81%AB%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "阿云嘎音乐剧窈窕淑女",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E4%BA%91%E5%98%8E%E9%9F%B3%E4%B9%90%E5%89%A7%E7%AA%88%E7%AA%95%E6%B7%91%E5%A5%B3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "上班摸鱼的人是怎么想的？",
+    "url": "https://www.zhihu.com/question/356636392",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "这一年那些不足与外人说的负面情绪你是如何消化的？",
+    "url": "https://www.zhihu.com/question/636929797",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "在饭店说“阿姨，我能重新换一双筷子吗？”这是一种卑微的表现吗？",
+    "url": "https://www.zhihu.com/question/630254289",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "历史上的蝴蝶效应有哪些实例？",
+    "url": "https://www.zhihu.com/question/27293796",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "非洲人为什么不打井？",
+    "url": "https://www.zhihu.com/question/263961507",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Injection of \"smart insulin\" regulates blood glucose levels for one week",
+    "url": "https://arstechnica.com/health/2023/12/injection-of-smart-insulin-regulates-blood-glucose-levels-for-one-week/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38783286\">Comments</a>",
+    "publish_time": "2023-12-28 00:05:21",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "What comes after open source? Bruce Perens is working on it",
+    "url": "https://www.theregister.com/2023/12/27/bruce_perens_post_open/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38783500\">Comments</a>",
+    "publish_time": "2023-12-28 00:25:33",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
