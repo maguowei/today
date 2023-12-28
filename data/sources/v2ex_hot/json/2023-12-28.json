@@ -20,5 +20,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "将 Github Copilot Chat 请求转换为 ChatGPT 请求，免费使用 GPT-4 模型，欢迎大家体验使用",
+    "url": "https://www.v2ex.com/t/1004009",
+    "summary": "you222: <h2>使用方法</h2>\n<p>1.访问 <a href=\"http://gpt4copilot.tech/\" rel=\"nofollow\">http://gpt4copilot.tech</a></p>\n<p>2.在设置的接口地址填入 <a href=\"http://gpt4copilot.tech/\" rel=\"nofollow\">http://gpt4copilot.tech</a></p>\n<p>3.在 API Key 中填入 Github Copilot 的 Token</p>\n<p>提供两个已经开通了 Github Copilot 账号的 Token ，可以直接使用：</p>\n<ul>\n<li>ghu_1FShK8KdA9UdoIEVUfqgDD04n0VtEz4GqEhP</li>\n<li>ghu_i6kl7qxf6JG4IkWunh3JlJG3eaOPWV4QgvWp</li>\n</ul>\n<p>（大佬们如果有开通 Github Copilot 的话，可以使用自己的 Token ，不然我怕上面那两个账号顶不住）</p>\n<p>4.支持各种 OpenAI 模型选择，目前默认使用的是 GPT-4 模型</p>\n<p><img alt=\"步骤 1\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://raw.githubusercontent.com/aaamoon/copilot-gpt4-service/master/assets/step1.png\" /></p>\n<p>之前也有其他大佬有类似的实现，最近用 golang 写了一个</p>\n<p>Github: <a href=\"https://github.com/aaamoon/copilot-gpt4-service\" rel=\"nofollow\">https://github.com/aaamoon/copilot-gpt4-service</a></p>\n<p>如果大佬们用得上，可以给个 star ~</p>",
+    "publish_time": "2023-12-28 09:55:48",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "国产车机迭代速度是真的快",
+    "url": "https://www.v2ex.com/t/1004012",
+    "summary": "iovekkk: 做车机项目好几年了，昨天下班叫的一辆滴滴，上面有一个 app 是 21 年做的一个版本<br />这个项目其实一直在做，但是已经迭代了好几个版本了，今年又交付了好几个车型<br />这个 21 年的版本，昨天看上去，感觉像是上个世纪的产物<br />跟最新的版本相比，无论是 UI 交互还是功能都被完爆<br />国产车机，迭代真的太快了，连我这个从业者都被惊到了",
+    "publish_time": "2023-12-28 10:09:01",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "国产软件征集中文名字",
+    "url": "https://www.v2ex.com/t/1004053",
+    "summary": "superliwei: <p>产品现在叫 BoardOS ，纯国产的在线白板软件。主要是没有中文名字感觉用户间传播有点别扭，希望 V 友能头脑风暴下🙏。</p>\n<p>比如我挺喜欢 MasterGo 最新的中文名字：莫高设计</p>\n<p>最后附上产品地址：\n<a href=\"https://boardos.online/\" rel=\"nofollow\">https://boardos.online/</a></p>",
+    "publish_time": "2023-12-28 12:01:20",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
