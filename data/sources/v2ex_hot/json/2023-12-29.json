@@ -20,5 +20,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "前端/客户端有什么办法来处理后端/服务端返回的不规范数据吗",
+    "url": "https://www.v2ex.com/t/1004262",
+    "summary": "mouyase: 本人是前端，技术栈 ts/java/oc ，web 和 app 都在做。<br /><br /><br /><br />现在经常遇到后端返回的值让人难以琢磨。<br /><br /><br /><br />比如同样都是表示是/否，或者打开/关闭两种状态，有点时候返回值是 0/1 ，有时候是 1/0 ，有的时候是 1/2 ，有的时候是 true/false ，有的时候是\"on\"/\"off\"，还有的时候干脆就是为否就没有这个字段了。<br /><br /><br /><br />或者是同样都是用户 id ，有时候字段叫做 user_id ，有时候叫 UserID ，有时候就只叫 id 。<br /><br /><br /><br />然后在业务逻辑中经常会出现从不同接口拿到的同一个值，但是是在同一处 UI 显示。就导致 ts 类型定义得定义好几种不同的类型用来兼容。<br /><br /><br /><br />各位大佬们有什么好的办法来处理这种情况吗？",
+    "publish_time": "2023-12-29 01:42:15",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
