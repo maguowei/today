@@ -691,5 +691,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "熬夜一次多久能恢复",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%86%AC%E5%A4%9C%E4%B8%80%E6%AC%A1%E5%A4%9A%E4%B9%85%E8%83%BD%E6%81%A2%E5%A4%8D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "红楼梦 绝杀",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%A5%BC%E6%A2%A6+%E7%BB%9D%E6%9D%80%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
