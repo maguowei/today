@@ -1101,5 +1101,138 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "ITZY新歌MV公开",
+    "url": "https://s.weibo.com/weibo?q=%23ITZY%E6%96%B0%E6%AD%8CMV%E5%85%AC%E5%BC%80%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "106在东北能吃多少麻辣烫",
+    "url": "https://s.weibo.com/weibo?q=%23106%E5%9C%A8%E4%B8%9C%E5%8C%97%E8%83%BD%E5%90%83%E5%A4%9A%E5%B0%91%E9%BA%BB%E8%BE%A3%E7%83%AB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "为什么鸭肉比鸡肉便宜却不如鸡肉普及？",
+    "url": "https://www.zhihu.com/question/624892882",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "谁是《红楼梦》最悲剧的人？",
+    "url": "https://www.zhihu.com/question/559447112",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "用人是能力重要还是人品重要？",
+    "url": "https://www.zhihu.com/question/637332541",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Self-hosting a high-availability Postgres cluster on Kubernetes",
+    "url": "https://ryan-schachte.com/blog/ha_postgres_zolando/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38843589\">Comments</a>",
+    "publish_time": "2024-01-03 00:40:03",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ask HN: Who wants to be hired? (January 2024)",
+    "url": "https://news.ycombinator.com/item?id=38842975",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38842975\">Comments</a>",
+    "publish_time": "2024-01-03 00:01:16",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Was Javascript really made in 10 days?",
+    "url": "https://buttondown.email/hillelwayne/archive/did-brendan-eich-really-make-javascript-in-10-days/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38844661\">Comments</a>",
+    "publish_time": "2024-01-03 01:59:42",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "In L.A., a new vision of incarceration proves rehabilitation works",
+    "url": "https://www.latimes.com/california/story/2023-12-26/chabria-column-los-angeles-state-prison-re-entry-facility-rehabilitation",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38844740\">Comments</a>",
+    "publish_time": "2024-01-03 02:06:00",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A Simulated Annealing FPGA Placer",
+    "url": "https://stefanabikaram.com/writing/fpga-sa-placer/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38843675\">Comments</a>",
+    "publish_time": "2024-01-03 00:46:30",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Plan9/ThinkPad T420s (2021)",
+    "url": "https://9lab.org/plan9/thinkpad-t420s/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38845000\">Comments</a>",
+    "publish_time": "2024-01-03 02:25:12",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: I've Implemented a RSS Reader",
+    "url": "https://play.google.com/store/apps/details?id=com.niviva.rssreader.streamsphere&hl=en_US",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38844888\">Comments</a>",
+    "publish_time": "2024-01-03 02:16:42",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Do It Yourself Blind Repair",
+    "url": "https://fixmyblinds.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38844274\">Comments</a>",
+    "publish_time": "2024-01-03 01:31:45",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
