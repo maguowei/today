@@ -1001,5 +1001,105 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "新年新的开始新的征途",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%B9%B4%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B%E6%96%B0%E7%9A%84%E5%BE%81%E9%80%94%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "官方回应辱骂踩踏摊贩老人系冒充城管",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E8%BE%B1%E9%AA%82%E8%B8%A9%E8%B8%8F%E6%91%8A%E8%B4%A9%E8%80%81%E4%BA%BA%E7%B3%BB%E5%86%92%E5%85%85%E5%9F%8E%E7%AE%A1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "汪小姐不会让自己不可以",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B1%AA%E5%B0%8F%E5%A7%90%E4%B8%8D%E4%BC%9A%E8%AE%A9%E8%87%AA%E5%B7%B1%E4%B8%8D%E5%8F%AF%E4%BB%A5%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "日本一飞机机场跑道起火",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E9%A3%9E%E6%9C%BA%E6%9C%BA%E5%9C%BA%E8%B7%91%E9%81%93%E8%B5%B7%E7%81%AB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "为什么唐朝没有像西汉灭亡之后，留下很多的宗室来恢复唐朝呢？",
+    "url": "https://www.zhihu.com/question/423457913",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Distributed Inference and Fine-Tuning of Large Language Models over the Internet",
+    "url": "https://browse.arxiv.org/html/2312.08361v1",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38843069\">Comments</a>",
+    "publish_time": "2024-01-03 00:06:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ask HN: Who is hiring? (January 2024)",
+    "url": "https://news.ycombinator.com/item?id=38842977",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38842977\">Comments</a>",
+    "publish_time": "2024-01-03 00:01:18",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Git Branches Have No Rules",
+    "url": "https://wizardzines.com/comics/branches-have-no-rules/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38844053\">Comments</a>",
+    "publish_time": "2024-01-03 01:15:25",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "I Hate AI Licenses",
+    "url": "https://ihateailicense.eu/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38843862\">Comments</a>",
+    "publish_time": "2024-01-03 01:01:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Online Job Posts Contain Little Wage Information [pdf]",
+    "url": "https://www.nber.org/system/files/working_papers/w31984/w31984.pdf",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38844024\">Comments</a>",
+    "publish_time": "2024-01-03 01:12:45",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
