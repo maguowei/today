@@ -574,5 +574,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "FendiFRGMTPokemon",
+    "url": "https://s.weibo.com/weibo?q=%23FendiFRGMTPokemon%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "美拉德小狗",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%8B%89%E5%BE%B7%E5%B0%8F%E7%8B%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
