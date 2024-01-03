@@ -20,5 +20,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "2024 年了，有必要上软路由吗",
+    "url": "https://www.v2ex.com/t/1005335",
+    "summary": "luckyjoe: <p>一直在犹豫要不要上软路由。其实现在的硬路由里已经撸上了 ssr plus ，可以给 apple tv 供科学上网，但是没再多空间装其他东西了</p>\n<p>其次想解决 dns 泄露的问题，正在用软路由的童鞋，来说说软路由还有哪些酷炫的功能。</p>",
+    "publish_time": "2024-01-03 07:13:55",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "你们是怎么部署 nodejs 的？",
+    "url": "https://www.v2ex.com/t/1005371",
+    "summary": "crazyTanuki: <p>1.装 nodejs 环境然后 build 完直接服务器 node  </p>\n<p>2.宝塔面板直接用 node 模块功能  </p>\n<p>3.pm2 直接跑  </p>\n<p>4.docker 跑 nodejs 镜像  </p>\n<p>5.k8s 集群部署 nodejs 镜像  </p>\n<p>6.服务器上直接 npm run dev</p>",
+    "publish_time": "2024-01-03 10:04:21",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
