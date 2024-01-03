@@ -1310,5 +1310,63 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "希望大家都能成为明快的女孩",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B8%8C%E6%9C%9B%E5%A4%A7%E5%AE%B6%E9%83%BD%E8%83%BD%E6%88%90%E4%B8%BA%E6%98%8E%E5%BF%AB%E7%9A%84%E5%A5%B3%E5%AD%A9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "听说延迟或者拖延也是自我保护的一种方式，如何理解这种状态?",
+    "url": "https://www.zhihu.com/question/634761214",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "去哈尔滨旅行，除了冰雪大世界还有什么地方值得一去？",
+    "url": "https://www.zhihu.com/question/635950106",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "新年想提升自己的睡眠质量，有什么助眠好物值得入手？",
+    "url": "https://www.zhihu.com/question/633972393",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Show HN: A Who is Hiring app with AI filters – January 2024 update",
+    "url": "https://bernawil.github.io/hn-who-is-hiring/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38858369\">Comments</a>",
+    "publish_time": "2024-01-04 03:10:00",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Niklaus Wirth has died",
+    "url": "https://twitter.com/Bertrand_Meyer/status/1742613897675178347",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38858012\">Comments</a>",
+    "publish_time": "2024-01-04 02:50:12",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
