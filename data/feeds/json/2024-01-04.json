@@ -4701,5 +4701,426 @@
       "desc": "36kr快讯",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
     }
+  },
+  {
+    "title": "微博之夜阵容官宣",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "小土豆 童年缺失",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%9C%9F%E8%B1%86+%E7%AB%A5%E5%B9%B4%E7%BC%BA%E5%A4%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "发缝大的猫",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%BC%9D%E5%A4%A7%E7%9A%84%E7%8C%AB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "尹净汉道枝骏佑 双人杂志",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%B9%E5%87%80%E6%B1%89%E9%81%93%E6%9E%9D%E9%AA%8F%E4%BD%91+%E5%8F%8C%E4%BA%BA%E6%9D%82%E5%BF%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "百元千禧龙钞曾涨至3000多元",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%99%BE%E5%85%83%E5%8D%83%E7%A6%A7%E9%BE%99%E9%92%9E%E6%9B%BE%E6%B6%A8%E8%87%B33000%E5%A4%9A%E5%85%83%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "杨幂银河星空套装",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E9%93%B6%E6%B2%B3%E6%98%9F%E7%A9%BA%E5%A5%97%E8%A3%85%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "电竞公益暖心熟人局",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%B5%E7%AB%9E%E5%85%AC%E7%9B%8A%E6%9A%96%E5%BF%83%E7%86%9F%E4%BA%BA%E5%B1%80%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "女子欲跳桥瞬间3名路人狂奔救人",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%AC%B2%E8%B7%B3%E6%A1%A5%E7%9E%AC%E9%97%B43%E5%90%8D%E8%B7%AF%E4%BA%BA%E7%8B%82%E5%A5%94%E6%95%91%E4%BA%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "伯远官宣微博之夜",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BC%AF%E8%BF%9C%E5%AE%98%E5%AE%A3%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "银行客服回应龙年纪念币预售有外挂",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%93%B6%E8%A1%8C%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E9%BE%99%E5%B9%B4%E7%BA%AA%E5%BF%B5%E5%B8%81%E9%A2%84%E5%94%AE%E6%9C%89%E5%A4%96%E6%8C%82%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "霉霉歌词 中文翻译",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9C%89%E9%9C%89%E6%AD%8C%E8%AF%8D+%E4%B8%AD%E6%96%87%E7%BF%BB%E8%AF%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何控制情绪跟自己和解",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E6%8E%A7%E5%88%B6%E6%83%85%E7%BB%AA%E8%B7%9F%E8%87%AA%E5%B7%B1%E5%92%8C%E8%A7%A3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "理解了女娲的不容易",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%90%86%E8%A7%A3%E4%BA%86%E5%A5%B3%E5%A8%B2%E7%9A%84%E4%B8%8D%E5%AE%B9%E6%98%93%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "为什么有些人会认马桶",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E4%BC%9A%E8%AE%A4%E9%A9%AC%E6%A1%B6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "宋茜动物园plog",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%8C%9C%E5%8A%A8%E7%89%A9%E5%9B%ADplog%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "伊朗总统就伊朗发生连环爆炸袭击作出回应，「誓言报复以色列」，释放出哪些信号？",
+    "url": "https://www.zhihu.com/question/637962284",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "23-24 赛季 NBA热火 110:96 湖人，如何评价这场比赛？",
+    "url": "https://www.zhihu.com/question/637951326",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "华为回应与懂车帝等平台停止合作，称系「原合作协议到期，其他合作业务仍正常进行」，哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/637781099",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "23-24 赛季 NBA快船 131:122 太阳，如何评价这场比赛？",
+    "url": "https://www.zhihu.com/question/637939219",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "湖南有湘、资、沅、澧四条河,为什么籍贯取名湘？",
+    "url": "https://www.zhihu.com/question/343594837",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "燃气灶该怎么选？方太防干烧灶可以入手吗？",
+    "url": "https://www.zhihu.com/question/637959757",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "练肩只用实力推一个动作能把肩膀练大吗？",
+    "url": "https://www.zhihu.com/question/637274472",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "早上起床第一件事情是干什么？",
+    "url": "https://www.zhihu.com/question/629542570",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何看待陈思诚被称为「产品经理式导演」？是褒是贬？",
+    "url": "https://www.zhihu.com/question/636451106",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "伊朗发生连环爆炸多人伤亡，哪方势力最有可能此时发动袭击？",
+    "url": "https://www.zhihu.com/question/637908945",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "日本能登地区地震已造成 81 人死亡，目前救援情况如何？有哪些难点？",
+    "url": "https://www.zhihu.com/question/637836901",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "户外经济概念逆势走高，浙江自然午后涨停",
+    "url": "https://www.36kr.com/newsflashes/2589925037324937",
+    "summary": "36氪获悉，截至发稿，户外经济概念逆势走高，浙江自然午后涨停，致欧科技涨超7%，三夫户外、泰鹏智能、台华新材等跟涨。",
+    "publish_time": "2024-01-04 14:07:59",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "韩国2023年进口车销量同比减4.4%，宝马时隔8年夺回榜首",
+    "url": "https://www.36kr.com/newsflashes/2589921534671745",
+    "summary": "韩国进口车协会（KAIDA）1月4日发布的数据显示，2023年韩国进口车销量同比减少4.4%，为27.1034万辆。宝马售出7.7395万辆，自2015年以后时隔8年重新夺回进口车销量榜榜首的地位。梅赛德斯-奔驰售出7.6697万辆，排名第二。其后依次为奥迪（1.7868万辆）、沃尔沃（1.7018万辆）、雷克萨斯（1.3561万辆）、保时捷（1.1355万辆）。（界面）",
+    "publish_time": "2024-01-04 14:12:25",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "荣耀赵明回应上市：要成为全球化公司，逐渐把公司交给公众",
+    "url": "https://www.36kr.com/newsflashes/2589931774425987",
+    "summary": "36氪获悉，1月4日，荣耀CEO赵明在微博发布与窦文涛的对话视频。视频中，赵明回应了关于荣耀上市话题。赵明表示，“因为我们要成为一个开放的、全球化的公司，我们一定要逐渐地把公司交给公众，增加透明度。”赵明称，今天的荣耀，现金流的利润兑现率是120%到130%，账上躺着几百个亿的现金流。",
+    "publish_time": "2024-01-04 14:14:50",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "中金公司：OLED产业链国产化进程加速，全尺寸应用空间广阔",
+    "url": "https://www.36kr.com/newsflashes/2589923028319105",
+    "summary": "36氪获悉，中金公司研报指出，有机发光二极管（OLED）是目前主流屏幕显示技术之一。OLED使用在电流驱动下可发光的有机半导体材料，具备单个像素自主发光的特性，在智能手机、平板、车载显示、电视等各类显示屏幕上有广泛应用。随着OLED性能优势带来的需求增长逐渐扩散至全尺寸领域，叠加供给侧国内本土产能布局逐步完善，OLED有望进一步提升其在各个尺寸应用场景下的渗透率，同时助推OLED产业链上中下游国产化进程。",
+    "publish_time": "2024-01-04 14:15:51",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "野村将为日本证券子公司资历较浅员工加薪16%",
+    "url": "https://www.36kr.com/newsflashes/2589920409844354",
+    "summary": "野村控股下财年将为旗舰日本证券子公司资历较浅的员工平均加薪16%，幅度远高于当地通胀水平，表明留住新雇员的竞争加剧。首席执行官Kentaro Okuda周四在东京与行业高管举行会议的间隙对记者表示，这家日本最大证券公司的加薪计划将从4月1日启动，包括基本薪资上调以及基于资历的例行加薪。这项举措覆盖在野村证券工作时间不超过三年的员工。（新浪财经）",
+    "publish_time": "2024-01-04 14:21:31",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "韩国2023年进口车销量同比减4.4%，宝马时隔8年夺回榜首",
+    "url": "https://www.36kr.com/newsflashes/2589933149305477",
+    "summary": "韩国进口车协会（KAIDA）发布的数据显示，2023年韩国进口车销量同比减少4.4%，为27.1034万辆。宝马售出7.7395万辆，自2015年以后时隔8年重新夺回进口车销量榜榜首的地位。梅赛德斯-奔驰售出7.6697万辆，排名第二。其后依次为奥迪（1.7868万辆）、沃尔沃（1.7018万辆）、雷克萨斯（1.3561万辆）、保时捷（1.1355万辆）。（界面）",
+    "publish_time": "2024-01-04 14:26:05",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "支付宝已申请社交关系处理专利",
+    "url": "https://www.36kr.com/newsflashes/2589948144138884",
+    "summary": "36氪获悉，爱企查App显示，支付宝（杭州）信息技术有限公司曾于2023年1月申请了一项名为“社交关系处理方法及装置”的发明专利。摘要显示，该专利所述的社交关系处理方法包括：获取用户终端发送的用户在目标服务进行社交关系访问的访问请求；响应于访问请求，读取用户的预测社交关系数据向用户终端返回；根据用户与选择指令对应的社交用户的预测社交关系的关系类型，生成用户与社交用户的社交关系因子；基于社交关系因子建立用户与社交用户的可信社交关系。",
+    "publish_time": "2024-01-04 14:31:29",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "港股KEEP跌幅扩大至30%",
+    "url": "https://www.36kr.com/newsflashes/2589952885078915",
+    "summary": "36氪获悉，截至发稿，港股KEEP跌幅扩大至30%，已连续7个交易日下跌，股价创上市以来新低。",
+    "publish_time": "2024-01-04 14:36:19",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "“期货市场量化交易暂停”被辟谣，期货公司返佣或发生变化",
+    "url": "https://www.36kr.com/newsflashes/2589955330292356",
+    "summary": "近日，一则“期货市场量化交易被叫停”的消息在业内传播，对此，多位头部量化私募人士透露，此消息不属实，目前并未收到任何期货市场量化交易被暂停的通知。值得注意的是，多位私募人士称近期期货市场确实发生了新变化，即新年第一周尚未收到期货公司返佣的转账，但后续是否会转账无法确定，相关情况需继续观察。如果期货公司返佣取消，那么期货市场的高频交易或许会受到一定影响。（上证报）",
+    "publish_time": "2024-01-04 14:38:48",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "四部门：到2025年，我国车网互动技术标准体系初步建成",
+    "url": "https://www.36kr.com/newsflashes/2589967081880452",
+    "summary": "36氪获悉，国家发展改革委等四部门发布关于加强新能源汽车与电网融合互动的实施意见。其中提到，到2025年，我国车网互动技术标准体系初步建成，充电峰谷电价机制全面实施并持续优化，市场机制建设取得重要进展，加大力度开展车网互动试点示范，力争参与试点示范的城市2025年全年充电电量60%以上集中在低谷时段、私人充电桩充电电量80%以上集中在低谷时段，新能源汽车作为移动式电化学储能资源的潜力通过试点示范得到初步验证。",
+    "publish_time": "2024-01-04 14:50:45",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "四部门：大力推广智能有序充电设施，原则上新建充电桩统一采用智能有序充电桩",
+    "url": "https://www.36kr.com/newsflashes/2589968638983040",
+    "summary": "36氪获悉，国家发展改革委等四部门联合发布关于加强新能源汽车与电网融合互动的实施意见。其中提到，大力推广智能有序充电设施，原则上新建充电桩统一采用智能有序充电桩，按需推动既有充电桩的智能化改造。建立健全居住社区智能有序充电管理体系和流程，明确电网企业、第三方平台企业和新能源汽车用户等各方责任与权利，明确社区有序充电发起条件和响应要求。鼓励电网企业与充电运营商合作，建立电网与充换电场站的高效互动机制，提升充换电场站的功率响应调节能力。探索研究针对不同类型智能有序充换电设施的电力接入容量核定方法和相关标准规范，有效提升配电网接入能力。",
+    "publish_time": "2024-01-04 14:52:20",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "主力尾盘持续加仓机械设备板块，抛售食品饮料板块",
+    "url": "https://www.36kr.com/newsflashes/2589967778708361",
+    "summary": "主力资金尾盘持续净流入机械设备、医药生物、煤炭等板块，净流出食品饮料、电子、电力设备等板块。具体到个股来看，九安医疗、农业银行、宏盛华源获净流入6.24亿元、3.74亿元、3.65亿元。净流出方面，贵州茅台、赛力斯、五粮液分别遭抛售6.01亿元、4.12亿元、3.82亿元。（第一财经）",
+    "publish_time": "2024-01-04 14:59:46",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "A股三大指数集体收跌",
+    "url": "https://www.36kr.com/newsflashes/2589978278804102",
+    "summary": "宁组合、茅指数双双走低，宁德时代、阳光电源跌近3%，贵州茅台跌超1%；半导体、大金融领跌，煤炭、海运涨幅居前；沪指跌0.43%，深成指跌1.24%，创业板指跌1.8%；北向资金净流出超39亿元。",
+    "publish_time": "2024-01-04 15:02:08",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Redis之父亲自上手用大模型撸代码：通晓古今的白痴队友，将来可以取代99%程序员",
+    "url": "https://www.infoq.cn/article/s2f71m8cQVqRUEdlLegx",
+    "summary": "<p></p><p></p><blockquote>Redis 创始人 antirez&nbsp;写下了自己2024年的第一篇博文，他从一名普通程序员的角度谈了谈对大语言模型的感受，虽然他的成就并不普通。他在文章里犀利评价Google引擎已经成为垃圾的海洋，并客观评价了现在的AIGC能力：愚蠢但通晓古今。&nbsp;通过长期使用，他认为现阶段的生成式AI只会让已经很强的程序员变得更强。目前大多数编程任务都是在重复工作，根本不需要大模型有太高的推理水平，大模型很适合那些“用完就扔”的程序。我们对antirez&nbsp;的博文进行了翻译，并在不改变作者原意基础上进行了一些删减。</blockquote><p></p><p>&nbsp;&nbsp;</p><p>自从ChatGPT横空出世以来，包括后面以本地方式运行的各种大模型，生成式AI已然得到了广泛应用。我个人的目的一方面是想依靠大模型提高编码能力，另外还希望把宝贵的精力从繁琐且价值有限的工作中解放出来。相信很多朋友也像我一样，花费了无数时间搜索没什么启发性的技术文档、被迫学习各种过于复杂的API、编写过短时间内就沦为垃圾的程序。工作不该是这样的，开发也不该是这样的。现如今，Google引擎已经成了垃圾的海洋，我们得费尽心思才能在其中找到一点有用的内容。</p><p>&nbsp;</p><p>另外，我本人并不是编程新手。哪怕不借助任何外部资源，我也能够编写代码，甚至可以说具备一定开发水平。只是随着时间推移，我开始越来越多地用大模型协助编写高级代码：Python代码最多，但在C语言中则应用较少。</p><p>&nbsp;</p><p>大语言模型最让我印象深刻的一点，就是我能准确意识到何时可以使用、而哪些情况下盲目使用只会拖慢进度。我还发现，大模型其实很像维基百科和YouTube上的各种视频课程：对于有意愿、有能力、更自律的使用者来说效果拔群，但对本就业务能力不足的朋友来说则边际收益递减。所以我很担心，至少在现阶段，生成式AI只会让已经很强的程序员变得更强。</p><p>&nbsp;</p><p>下面让我们一步步开始讨论。</p><p>&nbsp;</p><p></p><h1>大语言模型：全知全能还是鹦鹉学舌？</h1><p></p><p>&nbsp;</p><p>机器学习新浪潮中最令人忧心的现象之一，就是AI专家对于大模型的认知还相当有限。我们虽然发明了神经网络，但在实质上发明的仅仅是一种自动优化神经网络参数的算法。硬件已经能够训练出越来越大的模型，并使用提取自待处理数据（先验素材）的统计知识，再通过大量迭代试验排除错误、逼近正确答案。必须承认，大模型确实要比以往其他架构效果更好。但总体来讲，神经网络本身仍然极不透明。</p><p>&nbsp;</p><p>由于无法解释大模型为何具备某些新兴能力，预计科学家们的态度将更趋谨慎。但在另一个极端上，也有不少人都严重低估了大语言模型，认为它们只不过是某种更先进的马尔可夫链，最多只能重现在训练集中见到过的有限变化。但大量事实证据表明，这种大模型只是在“鹦鹉学舌”的理论根本站不住脚。</p><p>&nbsp;</p><p>也有不少热心群众觉得大语言模型获得了某种实际上不存在的超自然力量。没那么玄乎，大模型最多只能对自己在训练期间接触过的数据表示空间进行插值，而这并不是什么新鲜成果。而且哪怕单论插值，其能力也相当有限（但足以超出人类预期，甚至带来惊喜）。如果能够更进一步，在接触过的所有代码围成的空间当中进行连续插值，那么大模型哪怕无法创造出真正新奇的事物，也足以取代99%的程序员。</p><p>&nbsp;</p><p>好在现实没这么夸张，我们开发者们仍有生存的空间。大语言模型确实能编写出自己没有原样接触到的程序形式，也表现出通过融合训练集内不同出现频率的思路来引导开发方向的初步能力。只是这种能力目前还存在很大的局限性，而种种微妙的推理任务总会令大语言模型遭遇灾难性的失败。但必须承认，大语言模型已经代表着AI技术从诞生至今最伟大的成就，这一点应该成为所有讨论的前提。</p><p>&nbsp;</p><p></p><h1>既愚蠢，却又通晓古今</h1><p></p><p>&nbsp;</p><p>此言不假：大语言模型最多只能进行最基本的推理，这种推理还不够准确，很多时候充满了事实层面的幻觉和捏造。但它们同样拥有着渊博的知识。</p><p>&nbsp;</p><p>以编程领域及其他能够获取高质量数据的场景为例，大模型就像那种通晓古今的愚蠢学者。与这样的合作伙伴进行结对编程并不明智（当然，在我看来哪怕是跟人做结对编程也不明智）：它们往往会抛出荒谬的想法，而我们则需要在开发中不断努力强调自己的思路。</p><p>&nbsp;</p><p>但反过来，如果把这个博学的傻瓜当成可支配的工具、由它提出问题以作为我们激发灵感的素材，那么效果将完全不同。目前的大模型还无法引领人类跨越知识的鸿沟，但如果我们想解决某个自己不太熟悉的问题，它们往往可以帮助我们从一无所知快速前进到具备完全自学能力的程度。</p><p>&nbsp;</p><p>在编程领域，之前二、三十年间的程序员们可能对大模型的这种能力评价不高。毕竟那时候我们只需要掌握几种编程语言、特定的经典算法和那十来套基础库，余下的就纯粹是自我表达、发挥才智、运用专业知识和设计技能的部分了。只要拥有这种能力，我们就是当之无愧的专业程序员，具备了解决一切难题的潜质。</p><p>&nbsp;</p><p>但随着时间推移，各种框架、编程语言和库开始轮番上阵，爆发式的增长令开发难度激增，也给程序员的日常工作带来了既无必要、又不合理的诸多困扰。在这样的现实和背景之下，大模型这样一位通晓古今的白痴队友就成了最宝贵的前进指引。</p><p>&nbsp;</p><p>举个例子：我自己的机器学习实验在整整一年间都是靠Keras完成的。后来出于种种原因，我转而使用PyTorch。当时我已经学习了什么叫嵌入和残差网络，但我实在不想逐字逐句去研究PyTorch文档（当初我在学Keras时就是这么硬啃下来的，如果能有ChatGPT肯定可以帮我回避很多痛苦的回忆）。如今有了大语言模型，我可以非常轻松地编写出使用Torch的Python代码，唯一的前提就是对想要组合的模型拥有清晰的思路、同时能够提出正确的问题。</p><p>&nbsp;</p><p></p><h1>用案例说话</h1><p></p><p>&nbsp;</p><p>请注意，我这里说的可不是那些简单的需求，比如“X类是怎么实现Y的？”如果只是这类场景，那大语言模型的作用其实相当有限，甚至可以说跟搜索引擎和技术论坛区别不大。相反，复杂模型能做到的要多得多，包括那些短短几年前我们还无法想象的功能。</p><p>&nbsp;</p><p>现在我可以告诉GPT-4：“看看，这是我在PyTorch实现的神经网络模型。这些是我设置的批任务。我想调整张量大小，保证批函数与神经网络的输入相兼容，同时想以这种特定方式来表示。你能告诉我需要怎样的代码进行重写吗？”提示完成之后，GPT-4就会编写代码，而我要做的就是在Python CLI中测试张量结果的维度是否满足需求、数据布局是否正确。</p><p>&nbsp;</p><p>再来看另一个例子。前段时间，我需要为某些基于ESP32的设备开发BLE客户端。经过一番研究，我发现多平台蓝牙编程绑定大多无法直接使用，而解决方案非常简单，使用macOS的本机API在Objective C中编写代码即可。这就要求我同时处理两个问题：学习Objective C那繁琐的BLE API，适应种种毫无意义的模式（我属于那种极简主义者，而Objective C的BLE&nbsp;API绝对是“优秀设计”的典型反例）；同时学会如何用Objective C编程。我上次用它编程还是在十年之前，如今早就忘了事件循环、内在管理等技术细节。</p><p>&nbsp;</p><p>最终结果就是以下代码，虽然不够优雅简洁，但至少能够正常起效。在大模型的帮助下，我只用了很短时间就完成了开发，这在以往根本就无法想象：</p><p>&nbsp;</p><p><a href=\"https://github.com/antirez/freakwan/blob/main/osx-bte-cli/SerialBTE.m\">https://github.com/antirez/freakwan/blob/main/osx-bte-cli/SerialBTE.m</a>\"</p><p>&nbsp;</p><p>这些代码主要由ChatGPT生成，而我的工作就是把自己想做、但不太确定要怎么实现的要求粘贴进去。如此一来，大模型就能向我做出解释，包括问题的实质是什么、应当如何解决。</p><p>&nbsp;</p><p>的确，大模型并没有实际编写多少代码，但却帮助我显著加快了开发速度。如果没有ChatGPT，我能不能把项目做下来？当然也行，但最重要的并不是我要额外投入多少时间，而是我可能干脆就放弃了：毕竟这么麻烦的事情，已经不值得我浪费精力。</p><p>&nbsp;</p><p>在我看来，这才是真正决定性的因素。如果没有大模型，我在衡量工作量和收益之后压根不会编写这样一个程序。大模型甚至还帮我完成了一项比程序本身更重要的调整：在项目中，我修改了linenoise（我使用的行编辑库）以使其能在多路复用中生效。</p><p>&nbsp;</p><p></p><h1>即抛型程序</h1><p></p><p>&nbsp;</p><p>像前文提到的这类案例还有很多，这里就不再过多重复了，毕竟类似的故事基本都是一样的套路和效果。在日常工作中，我还经常面临另一类问题，就是想要快速获得某些可以验证的成果。在这种情况下，同样可以使用大模型来提升探索效率。</p><p>&nbsp;</p><p>对于此类场景，我往往会让大模型负责编写所有代码。例如，当我需要编写某些即抛型程序时，比如下面这个：</p><p><a href=\"https://github.com/antirez/simple-language-model/blob/main/plot.py\">https://github.com/antirez/simple-language-model/blob/main/plot.py</a>\"</p><p>&nbsp;</p><p>我想要对小型神经网络学习过程中的损失曲线进行可视化，因此向GPT-4展示了PyTorch程序生成的CSV文件格式，然后提出如果我在命令行内指定多个CSV文件，希望能对不同实验所验证的损失曲线进行比较。而以上链接就是GPT-4生成的结果，前后只用了短短30秒。</p><p>&nbsp;</p><p>同样的，我还需要一个程序来读取AirBnB CSV报告，并按月份和年份对各处公寓进行分组。之后，结合清洁费用以及单次预订的住宿天数，由它来统计一年中不同月份的平均租金价格。这款程序对我来说确实有用，但编写过程又极其无聊：因为里面根本没什么新奇有趣的功能。于是乎，我选取了一部分CSV文件并粘贴进GPT-4当中，之后描述了一下希望大模型解决的问题。输出的程序一次运行成功。但我们自己得正确理解具体的数据分组方式，否则会感觉这些数据既分散又无序。</p><p>&nbsp;</p><p>通过简单的推理，我认为大模型绝对不是简单从接触过的训练素材中照搬来的解决方案。没错，GPT-4在训练期间肯定观察到过类似的程序，只是这些程序所对应的具体分组要求跟我的提示有所不同，特别是要求分组成特定格式的CSV文件。所以在我看来，大模型应该能在一定程度上对训练集中不同程序描述的空间进行插值。</p><p>&nbsp;</p><p>让我自己浪费时间编写这类简单程序实在是不太明智。事实证明大模型可以承接此类任务，帮助我将精力集中在真正重要的工作上，这无疑变相提高了我的代码生产效率。</p><p>&nbsp;</p><p></p><h1>大模型搞不定的典型任务：系统编程</h1><p></p><p>&nbsp;</p><p>虽然我的大模型编程尝试取得了不小的成功，但在使用C语言编写程序时，我发现大模型更多只能作为便携的文档记录助手。我本人是系统编程方面的专家，在这类用例中，大模型由于缺乏复杂的推理能力而几乎帮不上什么忙。相信各位朋友也有类似的感受。</p><p>&nbsp;</p><p>下面我们一起来看这段实验性的提示词：</p><p>&nbsp;</p><p>“为bloom过滤器生成一条优雅、短小且有效的C语言实现。应重点关注哈希函数处理，然后用高质量C语言进行编写。另须考虑，这条实现的大小应可存储10万个元素，误报概率不得超过5%。添加的元素是以null结尾的字符串。“</p><p>&nbsp;</p><p>GPT-4给出的答案说不上好。Bloom过滤器其实相当普遍，涉及的数据结构也不特殊。但很明显，编写一个像样的bloom过滤器需要更强大的抽象能力：例如找到一种有效方法对同一字符串进行N次哈希处理，并确保各哈希值得到充分的去相关处理。如果换个思路，明确要求GPT-4修改哈希函数，使其产生N个去相关输出，那么它给出的解决方案就靠谱多了。如果它能自己发现这个思路，就会以不同的方式编写bloom过滤器，使用单个哈希函数一次设置K个bits。</p><p>&nbsp;</p><p>事实就是，GPT-4能够独立编写出适当也更加通用的哈希函数，但在编写bloom过滤器这类更大的项目时，它却未能表现出良好的推理能力，而是给出了两个不同但却高度相似的哈希函数。</p><p>&nbsp;</p><p>总而言之，当前大语言模型的推理能力仍然孱弱，再加上关于这个问题的资源可能比较稀少，甚至存在大量低质量资源，于是导致其给出的结果不尽如人意。而且这绝不是孤立的案例，我还多次尝试在算法或系统编程当中使用大模型，结果也非常差。哪怕是下调对推理能力的预期，它也没法重现Python编程环境中的代码生成水平。</p><p>&nbsp;</p><p>但与此同时，GPT-4能够反编译它所输出的函数（需要通过单独的会话），也能准确理解这样做的意义，因此，大模型在系统编程场景下还是具有一定作用的，只是非常有限。</p><p>&nbsp;</p><p>另一个有趣且令人期待的点，是在上述情况下，较小模型和较大模型间的表现有着显著差异。</p><p>&nbsp;</p><p>虽然Mixtral是一套适合多种用途的优秀模型，但考虑到大模型本就孱弱的推理能力，目前能够总结出的规律明显是体量越大、效果越好。另外，本地模型deepseek-coder设置为4 bits量化精度，因为本地设备的内存不足以在更高的精度上运行模型。哪怕如此，凭借340亿参数，它在同一问题上的推理能力还是更强一些。</p><p>&nbsp;</p><p>在尝试中，我给出了关于问题的解决线索，而模型则正确得出了答案、确定了引发问题的真正根源，并最终给出了行之有效的替代方案。这类应用在任何文档、书籍或者Google搜索中都没有直接答案。</p><p>&nbsp;</p><p>无论是从原始插值的角度、还是其他思路来看，模型都已经掌握了某种形式的推理能力。也只有借助这份推理能力，AI才能找到问题的根源并发现潜在的解决方案。所以我觉得没必要再争论了，大语言模型对于程序员们确实具备积极的辅助意义。</p><p>&nbsp;</p><p>但与此同时，过去几个月间的使用体验表明，在系统编程领域、特别是对于经验丰富的程序员们，大模型几乎无法给出任何可以拿来就用的解决方案。</p><p>&nbsp;</p><p>我目前负责的ggufflib项目要求编写一个读取和写入GGUF格式文件的库，也就是llama.cpp加载量化模型的格式。最初，为了理解量化编码的工作原理，我尝试使用过ChatGPT，但最后还是决定对llama.cpp的代码进行逆向工程——这样速度还更快些。</p><p>&nbsp;</p><p>理想中的大语言模型应该能根据接触到的数据编码“结构”声明和解码函数，还原出关于数据格式的说明文档，借此帮助系统程序员理解设计思路。可虽然llama.cpp的函数不大，完全可以塞进GPT-4的上下文窗口，但输出的结论却毫无意义。</p><p>&nbsp;</p><p>对于这类情况，我们就只能像最传统的程序员那样：掏出纸和笔，一行行阅读代码，查看解码器提取的bits在哪里注册。</p><p>&nbsp;</p><p></p><h1>正确看待大语言模型</h1><p></p><p>&nbsp;</p><p>虽然怀着深深的遗憾，但我不得不承认：目前大多数编程任务都是在以略有不同的形式重复着相同的工作，根本不需要太高的推理水平。而大语言模型在这方面表现出色，只是仍然受到上下文规模的硬性约束。</p><p>&nbsp;</p><p>而这也应当引起我们程序员的思考：这样的程序，真值得我们花费时间和精力动手编写吗？没错，这活能给我们带来相当丰厚的报酬，但如果大语言模型逐渐接手了这部分任务，那么五年、最多不超过十年，就会有很多程序员同行丢掉饭碗。</p><p>&nbsp;</p><p>再有，大语言模型到底具不具备一定程度的推理能力，还是说仍然是在鹦鹉学舌、只是学得更加惟妙惟肖？我认为某些情况下它们确实具备推理能力，也就是掌握了符号学家们所说的“能指”概念，即实质上并不存在的意义。</p><p>&nbsp;</p><p>相信每一位跟大模型经常打交道的朋友，都能在理解它们局限性的同时，感受到其中体现出的推理之力：它们对以往接触过的内容的融合能力，远远超出了随机输出单词的范畴。尽管其学习过程主要是在预训练阶段完成，但在预测下一个token时，大模型还是会根据目标建立起某种形式的抽象模型。这个模型虽然还很脆弱、不够完备和完美，但通过实际观察，我们会意识到这种能力的客观存在。正所谓耳听为虚、眼见为实，哪怕可能挑战数学专业的确定性原理、与最伟大的技术专家观点相背，我也仍然对大模型表现出的认知水平抱有信心。</p><p>&nbsp;</p><p>最后，希望大家能够积极拥抱大模型，尝试用它解决编程中的各种问题。向大模型提出正确问题将成为一项基础性的开发技能，而且演练的次数越多，AI就越是能更好地改进工作效果。哪怕不考虑AI因素，这种明确清晰的问题描述能力也有助于我们更好地跟他人沟通。毕竟大语言模型并不是唯一跟不上我们思维过程的会话对象。相信大家也有体会，很多程序员虽然在自己的特定领域里非常出色，但沟通能力却很差，这也成为限制其职业发展的瓶颈。</p><p>&nbsp;</p><p>现如今的Google引擎已经稀烂，所以哪怕是从浓缩和提炼文本内容的角度，大模型也肯定具备巨大的现实意义。就个人而言，我也将继续使用大模型、了解大模型。我向来不喜欢学习晦涩的通信协议细节，也不愿跟那些炫技式的复杂库编写方法打交道。对我来说，这些只是白白浪费时间和精力的“垃圾知识”。感谢大语言模型，把我从这些曾经的泥潭当中解救出来。</p><p>&nbsp;</p><p>原文链接：</p><p><a href=\"http://antirez.com/news/140\">http://antirez.com/news/140</a>\"</p><p>&nbsp;</p>",
+    "publish_time": "2024-01-04 14:05:05",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "Police Drone Footage Is Not Exempt from California Public Records Act",
+    "url": "https://www.eff.org/deeplinks/2024/01/victory-police-drone-footage-not-categorically-exempt-californias-public-records",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38863485\">Comments</a>",
+    "publish_time": "2024-01-04 13:42:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Digitization Puts Many at a Disadvantage",
+    "url": "https://cacm.acm.org/blogs/blog-cacm/279026-digitization-puts-many-at-a-disadvantage/fulltext",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38863402\">Comments</a>",
+    "publish_time": "2024-01-04 13:28:45",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A Science of Concurrent Programs by *the* Leslie Lamport [pdf]",
+    "url": "https://lamport.azurewebsites.net/tla/science.pdf",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38863339\">Comments</a>",
+    "publish_time": "2024-01-04 13:20:11",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
