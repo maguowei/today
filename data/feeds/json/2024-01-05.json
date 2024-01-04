@@ -1596,5 +1596,85 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "哈尔滨向沈阳借了两只凤凰",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E5%90%91%E6%B2%88%E9%98%B3%E5%80%9F%E4%BA%86%E4%B8%A4%E5%8F%AA%E5%87%A4%E5%87%B0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "哈尔滨一33岁患癌女子离家出走",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E4%B8%8033%E5%B2%81%E6%82%A3%E7%99%8C%E5%A5%B3%E5%AD%90%E7%A6%BB%E5%AE%B6%E5%87%BA%E8%B5%B0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "砂糖橘在北极消防站与天安门国旗合影",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%A0%82%E7%B3%96%E6%A9%98%E5%9C%A8%E5%8C%97%E6%9E%81%E6%B6%88%E9%98%B2%E7%AB%99%E4%B8%8E%E5%A4%A9%E5%AE%89%E9%97%A8%E5%9B%BD%E6%97%97%E5%90%88%E5%BD%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "人这一生最重要到底是什么？",
+    "url": "https://www.zhihu.com/question/607369838",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "GPUI 2 is now in production – Zed",
+    "url": "https://zed.dev/blog/gpui-2-on-preview",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38871732\">Comments</a>",
+    "publish_time": "2024-01-05 04:19:00",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Sit.",
+    "url": "https://sonnet.io/posts/sit/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38869235\">Comments</a>",
+    "publish_time": "2024-01-05 00:49:30",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Go: What We Got Right, What We Got Wrong",
+    "url": "https://commandcenter.blogspot.com/2024/01/what-we-got-right-what-we-got-wrong.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38872362\">Comments</a>",
+    "publish_time": "2024-01-05 05:16:08",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Clicks – Physical keyboard for iPhone",
+    "url": "https://www.clicks.tech/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38871987\">Comments</a>",
+    "publish_time": "2024-01-05 04:43:20",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
