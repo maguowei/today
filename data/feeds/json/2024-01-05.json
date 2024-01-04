@@ -1676,5 +1676,78 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "你要相信光",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%A6%81%E7%9B%B8%E4%BF%A1%E5%85%89%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "这袍子长了个明星脸",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E8%A2%8D%E5%AD%90%E9%95%BF%E4%BA%86%E4%B8%AA%E6%98%8E%E6%98%9F%E8%84%B8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "美股三大指数收盘涨跌不一，热门中概股普跌",
+    "url": "https://www.36kr.com/newsflashes/2590909952555653",
+    "summary": "36氪获悉，1月4日收盘，美股三大指数涨跌不一，纳指跌0.56%，道指涨0.03%，标普500指数跌0.34%。大型科技股多数下跌，亚马逊跌超2%，苹果、谷歌跌超1%，特斯拉、微软小幅下跌；Netflix涨近1%，Meta涨0.77%。热门中概股普跌，B站、小鹏汽车跌超3%，阿里巴巴、蔚来跌超2%，京东、理想汽车、爱奇艺、微博跌超1%，拼多多跌0.81%。",
+    "publish_time": "2024-01-05 07:00:44",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "AMD proposes an FPGA subsystem user-space interface for Linux",
+    "url": "https://www.phoronix.com/news/FPGA-User-Space-Interface-AMD",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38870351\">Comments</a>",
+    "publish_time": "2024-01-05 02:16:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "There's Waldo is a robot that finds Waldo (2018) [video]",
+    "url": "https://www.youtube.com/watch?v=-i7HMPpxB-Y",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38869961\">Comments</a>",
+    "publish_time": "2024-01-05 01:44:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Bring phone calls into the browser (SIP-to-WebRTC)",
+    "url": "https://github.com/pion/example-webrtc-applications/tree/master/sip-to-webrtc",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38869672\">Comments</a>",
+    "publish_time": "2024-01-05 01:22:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Go: What we got right, what we got wrong",
+    "url": "https://commandcenter.blogspot.com/2024/01/what-we-got-right-what-we-got-wrong.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38872362\">Comments</a>",
+    "publish_time": "2024-01-05 05:16:08",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
