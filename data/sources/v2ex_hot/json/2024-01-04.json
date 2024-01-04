@@ -75,5 +75,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "小米好像不支持 H264/H265 硬件编码,怎么破?",
+    "url": "https://www.v2ex.com/t/1005704",
+    "summary": "basncy: 装了个 linphone 视频通话, 这手机固件居然不支持 H264,H265 硬件编码. 改用 vp8, 软解 1080p 视频通话, 画面有点低延迟,发热耗电严重.<br />硬件很硬,高通 870; 软件上萎了,买了个寂寞,视频硬编码方面还不如三星 S8.",
+    "publish_time": "2024-01-04 10:27:42",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
