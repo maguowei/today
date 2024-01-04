@@ -53,5 +53,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "新年快乐🎉， 2024 你还在学英语吗 [招内测用户]",
+    "url": "https://www.v2ex.com/t/1005693",
+    "summary": "cocomiko: <p>之前发过帖子：<a href=\"https://v2ex.com/t/979790\" rel=\"nofollow\">大家觉得我这个英语产品思路怎么样</a> </p>\n<p>招过一波测试用户，上次因为功能还没完善，所以不敢加太多</p>\n<p>前段时间有点事，耽误两个多月，首先还是非常感谢上次测试用户的反馈，这次再招一波</p>\n<h2>这次主要更新的功能有：</h2>\n<ul>\n<li>\n<p>支持选择释义功能，切换之后学习卡片也会自动切到对应释义的学习例句\n<img alt=\"自选释义\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.v2ex.co/yvT0o300.png\" /></p>\n</li>\n<li>\n<p>学习卡片支持显示单词词频信息和快捷提交\n<img alt=\"学习卡片\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.v2ex.co/C09q9155.png\" /></p>\n</li>\n<li>\n<p>首页增加课程学习进度\n<img alt=\"首页改进\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.v2ex.co/Eq6uH747.png\" /></p>\n</li>\n<li>\n<p>浏览器扩展优化，在之前支持导入 YouTube 字幕的基础上新增支持导入网易云音乐歌词</p>\n</li>\n</ul>\n<h2>学习建议</h2>\n<ul>\n<li>\n<p>不要一次性学习太多单词，起效慢，需要长期坚持，同时效率不高，学的单词不能马上应用很快遗忘\n<img alt=\"传统学习方式一\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.v2ex.co/24a6uFNX.png\" /></p>\n</li>\n<li>\n<p>不要不学习直接应用，先应用再学习会导致后续学习动力不足，也浪费了在应用中检验和巩固的机会（关键）\n<img alt=\"学习方式二\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.v2ex.co/f321V0Vn.png\" /></p>\n</li>\n<li>\n<p>先导入简短文本学习再应用，在应用中检验和巩固，践行小步快跑的原则，只学习当前需要的，快速达成：“学习=&gt;应用=&gt;再学习(复习)”的循环，一次性导入生成的单词数量不要太多，否则容易因为目标太遥远而放弃，同时学习后尽快投入应用，应用后记得复习\n<img alt=\"生词透视截图\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.v2ex.co/A1TOmIb6.png\" /></p>\n</li>\n</ul>\n<h2>参与要求</h2>\n<p>因目前不预设任何生词本，词本需用户自行导入语料生成，当前版本可能不适合你：</p>\n<ul>\n<li>你需要短期内掌握大量生词以通过英语考试</li>\n<li>你平时生活工作没有接触英语的场景/需求</li>\n<li>只有 PC 版现在</li>\n</ul>\n<p>对于第一条，市面上有更适合的以考试为目标的学习类 app</p>\n<p>对于第二条，平时需要的时候用翻译软件就足矣，现在翻译软件那么先进了，同时中文影响力也越来越大，很多软件和游戏都有中文版， 连游戏中文配音都有了，学英语不像以前那么有必要了</p>\n<p>但是如果你想真正提高你的英语词汇量并应用在工作生活中或是你想尝试新的学习方式，欢迎来加入内测！</p>\n<h3>参与方式</h3>\n<ul>\n<li>\n<p><a href=\"https://form.antdv.com/r/65ed96e90dfc00ac\" rel=\"nofollow\">点此</a>提交你的邮箱</p>\n</li>\n<li>\n<p>或底下留言邮箱，我再把你们加进来。 [参与内测的用户会有专属福利🎁] </p>\n</li>\n</ul>\n<p>最后： 谢谢大家，占用了珍贵的版面，同时感谢站长提供的平台</p>",
+    "publish_time": "2024-01-04 10:03:34",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "graalvm 拯救了 Java 的启动速度，但没法拯救 Java 的内存占用",
+    "url": "https://www.v2ex.com/t/1005841",
+    "summary": "keepRun: <p>前几年，我一直期待 graalvm 把 java 编译成 native image 可以大幅减少 java 的内存占用，直到今天我用 graalvm 把我一个简单的 spring + spring mvc + mybatis plus + mysql 的小项目编译成 native 后（使用 g1gc ，配置最大堆内存 64m ），一测内存占用，好家伙，占用 184m ，优化了个寂寞，直接正常用 jvm 占用也就 200m 。启动速度确实快，285ms 即可完全启动。</p>\n<p>我彻底死心了，java 对于请求量小的小型 web 项目内存消耗太大了，以后还是转投 nodejs 、golang 搞这种小项目吧，java 内存消耗太大了。</p>\n<p>个人感觉云原生与微服务时代，java 官方对于资源占用问题解决速度还是太慢了，我阅读了 openjdk 社区的几乎所有的 jep ，发现起码未来 5 年，java 在解决内存占用问题上是不积极的。</p>",
+    "publish_time": "2024-01-04 15:34:20",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
