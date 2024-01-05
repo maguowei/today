@@ -42,5 +42,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "今天当了回地铁判官",
+    "url": "https://www.v2ex.com/t/1006029",
+    "summary": "312ybj: <h2>背景</h2>\n<p>刚上地铁，正在扣手机，看到一个老头不老实，对面做两个女生在打盹，他那个手机一直拍拍拍。 一开始我以为是在看手机图片，后面发现一直在拍照.\n<img alt=\"WechatIMG19\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i2.100024.xyz/2024/01/05/fp89t9.webp\" /></p>\n<h2>处理</h2>\n<p>我直接站到他们中间，跟老头对线了， 说“拍够了吗”</p>\n<p>老头估计吓着了， 装模作样问我“啊？”</p>\n<p>事后我就下一站下车了，虽然是个老头，但是就怕人家耍赖，今天就吓唬吓唬他。</p>",
+    "publish_time": "2024-01-05 09:53:17",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "最近好多 GUI 之争，我来给 Electron 站一票，理性讨论",
+    "url": "https://www.v2ex.com/t/1006050",
+    "summary": "Loxon: <p>最近看到几篇类似的讨论：\n<a href=\"https://www.v2ex.com/t/1005711\" rel=\"nofollow\">https://www.v2ex.com/t/1005711</a>\n<a href=\"https://www.v2ex.com/t/1005903\" rel=\"nofollow\">https://www.v2ex.com/t/1005903</a></p>\n<p>正好我也面临类似的问题，合理讨论下，先说明下需求：</p>\n<ol>\n<li>Win+Mac+移动端 桌面端为主用户群体，移动端会简单一些</li>\n<li>工具类产品，除了 GUI 层面的需求外，核心功能会用到原生 OS 的 API ，所以各端必然有小部分核心代码是不一样的</li>\n<li>整体 App 属于中等 App ，所以我不严格追求包大小，在我看来桌面端 50M~200M 都属于用户能接受的中等 App 的范畴</li>\n<li>App 里绝大部分以界面交互为主，Webview 有但也有限，可能仅仅辅助使用；性能要求也不高；</li>\n<li>不希望用户主动安装依赖（<a href=\"http://xn--9iq3fq4icth.net/\" rel=\"nofollow\">之前基于.Net</a> 开发的 Win App 需要用户手动安装依赖的痛苦回忆...）</li>\n</ol>\n<p>基于以上需求，感觉 Electron 是最适合的，有没有人提供下不同的思路见解？</p>",
+    "publish_time": "2024-01-05 10:27:29",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "时至今日, 还有多少程序员认为 Python 简单的",
+    "url": "https://www.v2ex.com/t/1006067",
+    "summary": "iorilu: <p>首先, 我标题强调了程序员三个字, 是有原因的</p>\n<p>因为外面随便搜索下, 都是什么 python 简单, 1 小时上手等等文章, 视频数不胜数</p>\n<p>但我加上程序员, 是因为这里用户大多是程序员, 或起码知道点代码的人</p>\n<p>我希望评价的人多少用过 python , 至少写过几百行代码, 或跑过一些 python 项目等等, 总之就是至少有一定深度的实践</p>\n<p>反正就我本人而已, 我几年前将 python 定位为主要使用语言</p>\n<p>我的认知是, python 压根不简单, 甚至是难度相当不小, 原因为以下几点</p>\n<ul>\n<li>python 仍然不断快速迭代, 语法不断变化, 你不学习, 可能看不懂半年后的代码</li>\n<li>一些所谓简单的语法, 后面其实包含的非常深奥的原理, 比如 generator, async 等等东西, 虽然不了解也能用, 但也就是能用一点点而已, 稍微高级点深入点用法, 你不了解原理还是不行, 或者别人代码看不懂</li>\n<li>python 本身库就极为庞大, 绝大多数人可以说 90%模块都没用过</li>\n<li>python 使用范围太广, 想多涉及点就要相当的经验, 比如 web, gui, 机器学习, 深度学习, nlp 等等, 每一块都有专属的知识点需要大量经验, 时间</li>\n</ul>\n<p>总之, 所谓简单只是指 python 可能用的代码行数少点, 但是你想写出所谓 pythonic 的代码, 需要花费大量的时间学习, 这点肯定是不简单的.</p>",
+    "publish_time": "2024-01-05 10:53:41",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
