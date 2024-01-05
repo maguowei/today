@@ -1,0 +1,35 @@
+[
+  {
+    "title": "苹果闹钟今天没响",
+    "url": "https://www.v2ex.com/t/1006003",
+    "summary": "xiaoneizang: <p>iphone 13 ，17.2.1 ，今天闹钟没响吗？</p>",
+    "publish_time": "2024-01-05 09:01:48",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "微信什么时候倒闭啊？？",
+    "url": "https://www.v2ex.com/t/1006004",
+    "summary": "hardshell: <p>作为一家用户体量如此大的公司，产品做的跟 shit 一样，完全不思进取，影响使用体验的问题不去优化，一堆没用的功能倒是一直更新，导致体积越来越臃肿。</p>\n<p>举个最简单的例子，群未读消息点进去从上往下依次翻阅，这时候群里有人发新消息进来直接自动给拉到最后一条消息了，想接着上面未读消息继续看得重新往上翻慢慢找，等你找到了继续读的时候，来条消息又冷不丁给你自动拉到最后一条了，真的让人很崩溃。</p>\n<p>还有手机容量杀手就不说了。这些方面 telegram 做的好太多了，真的抄作业都不会。</p>",
+    "publish_time": "2024-01-05 09:05:03",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "日期区间的终点是用第二天的 00:00:00 还是当天的 23:59:59 比较好?",
+    "url": "https://www.v2ex.com/t/1006014",
+    "summary": "xubingok: <p>跟后端对接口,发现关于日期区间的定义有点模糊.</p>\n<p>比如查询昨天的数据,我们一般是传起始时间点.\n对接后端 A 的参数是:</p>\n<pre><code>{\n    startTime:2024-01-04 00:00:00,\n    endTime:2024-01-04 23:59:59\n}\n</code></pre>\n<p>对接后端 B 的参数是:</p>\n<pre><code>{\n    startTime:2024-01-04 00:00:00,\n    endTime:2024-01-05 00:00:00\n}\n</code></pre>\n<p>后端 A 说他用的是小于等于,后端 B 说他用的是小于,前端的时间工具类还得写两个方法...</p>\n<p>想统一,但感觉两种方式都有自己的道理.\n个人是倾向于 00:00:00 这种,可能是来源于数组截取时顾头不顾尾的概念.\n另一位后端大佬则觉得 23:59:59 更便于理解.</p>\n<p>不知道大家都是用哪种呢?</p>",
+    "publish_time": "2024-01-05 09:23:10",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  }
+]
