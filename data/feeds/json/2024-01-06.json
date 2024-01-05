@@ -1304,5 +1304,118 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "孟子义国风DNA动了",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E5%9B%BD%E9%A3%8EDNA%E5%8A%A8%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "甲流刚好又感染乙流",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%B2%E6%B5%81%E5%88%9A%E5%A5%BD%E5%8F%88%E6%84%9F%E6%9F%93%E4%B9%99%E6%B5%81%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "最受欢迎动漫女角色榜单",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9C%80%E5%8F%97%E6%AC%A2%E8%BF%8E%E5%8A%A8%E6%BC%AB%E5%A5%B3%E8%A7%92%E8%89%B2%E6%A6%9C%E5%8D%95%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "袭人与黛玉交情甚好，为何背后总说黛玉坏话？",
+    "url": "https://www.zhihu.com/question/413022994",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "How to build a thinking AI",
+    "url": "https://aithought.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38882747\">Comments</a>",
+    "publish_time": "2024-01-06 02:35:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Comparing Performance of Julia on CPUs vs. GPUs and Julia-MPI vs. Fortran-MPI",
+    "url": "https://gmd.copernicus.org/articles/16/5539/2023/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38881008\">Comments</a>",
+    "publish_time": "2024-01-06 00:36:39",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Harlequin: SQL IDE for Your Terminal",
+    "url": "https://github.com/tconbeer/harlequin",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38882526\">Comments</a>",
+    "publish_time": "2024-01-06 02:20:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "In Europe, Trains Are Full, and More Are on the Way",
+    "url": "https://www.nytimes.com/2024/01/04/travel/europe-new-trains.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38883213\">Comments</a>",
+    "publish_time": "2024-01-06 03:05:08",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "U.S. moves closer to filing antitrust case against Apple",
+    "url": "https://www.nytimes.com/2024/01/05/technology/antitrust-apple-lawsuit-us.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38883393\">Comments</a>",
+    "publish_time": "2024-01-06 03:18:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Hard disk LEDs and noisy machines",
+    "url": "https://blogsystem5.substack.com/p/hard-disk-leds-and-noisy-machines",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38883408\">Comments</a>",
+    "publish_time": "2024-01-06 03:19:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Zeiss's \"Holocam\" turns glass windows into cameras",
+    "url": "https://www.digitalcameraworld.com/news/this-holographic-camera-turns-any-window-into-an-invisible-camera",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38881981\">Comments</a>",
+    "publish_time": "2024-01-06 01:42:37",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
