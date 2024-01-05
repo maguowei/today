@@ -610,5 +610,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "美国12月非农",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD12%E6%9C%88%E9%9D%9E%E5%86%9C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "2023年裸辞的人现在怎样了",
+    "url": "https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E8%A3%B8%E8%BE%9E%E7%9A%84%E4%BA%BA%E7%8E%B0%E5%9C%A8%E6%80%8E%E6%A0%B7%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
