@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Apache Pinot 1.0发布，提供实时的分布式OLAP数据存储",
+    "url": "https://www.infoq.cn/article/e4Jck97hysiIvHo8rsx1",
+    "summary": "<p>Apache Pinot 是一个使用 Java 编写的开源列式分布式数据存储系统。Pinot 通过在线分析处理 (OLAP) 来响应低延迟的多维分析 (MDA) 查询。</p><p></p><p>Pinot 最初在 2013 年作为 LinkedIn 的内部项目，用于支持分析解决方案，随后于 2015 年 6 月基于 Apache 2.0 许可开源。该项目于 2019 年 6 月成为 Apache 软件基金会的一部分。</p><p></p><p>在 1.0 版本发布之前的一年中，社区解决了 300 多个问题，包括引入新特性、提高性能和 bug 修复。目前该项目在 GitHub 上有 130 多万行代码，由 300 多名贡献者进行维护。</p><p></p><p>Apache Pinot 最适合用于分析不可变的实时摄入数据，尤其是在查询具有多个维度和度量的时间序列数据时。该项目使用 Apache Helix 作为集群管理嵌入式代理，使用 Apache Zookeeper 进行集群状态和健康的协调和维护。</p><p></p><p>Pinot 提供快速查询，能够在几十毫秒的 P90 延迟内过滤和聚合 PB 级的数据。数据可以使用流式解决方案（如 Apache Kafka、Apache Pulsar 和 AWS Kinesis）实时摄入，也可以使用 Apache Hadoop、Apache Spark 和 AWS S3 进行批量摄入。Pinot 具备了水平伸缩性和容错性。可使用 Pinot 查询语言 (PQL)、SQL 或 Trino 和 Presto SQL 查询引擎查询数据。PQL 支持类似于 SQL 的功能：选择、聚合、分组、排序和过滤。</p><p></p><p>该版本的关键特性之一是多阶段查询引擎的功能完整性。默认查询执行引擎从未针对复杂查询（如分布式连接和窗口操作）进行过优化。多阶段查询引擎支持多阶段运算符，如实时分布式连接和窗口操作，并配备了新的最小化了数据重洗的查询计划优化器。Apache Pinot 的文档解释了如何启用多阶段查询引擎。</p><p></p><p>入门指南描述了如何在本地、Docker、Kubernetes 或 Azure、GCP 、 AWS 公共云上运行 Pinot。下面的命令用于使用预加载的棒球数据集来运行 Pinot：</p><p></p><p><code lang=\"javascript\">docker run \\  \n    -p 9000:9000 \\  \n    apachepinot/pinot:0.12.0 QuickStart \\  \n    -type batch\n</code></p><p></p><p>快速入门示例提供了不同的示例和所有可用的启动命令。</p><p></p><p>更多详细信息可在发布说明和 Apache Pinot 1.0 的公告中找到。StarTree 开发者关系副总裁 Tim Berglund 在 YouTube 上介绍了 Apache Pinot 1.0 并解释了 Apache Pinot 的一般性情况。Apache Pinot Meetup Group 定期组织会议，开发者可在 Slack 上提问。</p><p></p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2023/12/apache-pinot/\">https://www.infoq.com/news/2023/12/apache-pinot/</a>\"</p><p></p><p></p><p></p>",
+    "publish_time": "2024-01-06 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
