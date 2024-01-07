@@ -75,5 +75,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "2024 了，返朴归 Catalina ？",
+    "url": "https://www.v2ex.com/t/1006528",
+    "summary": "Ytiaoa: <p>最后一代 Intel 芯片版本 MBP ，作为工作主力机器一直保持着最新系统，虽然记不得从哪个版本开始就存在着能耗、休眠异常，如合盖状态下的异常唤醒，总令我在通勤路上感受到后背发热……但最近更新到 Sonoma 感觉电脑不太行了，各种卡顿着实影响正常使用。</p>\n<p>考虑了下后决定重装 macOS 系统并采用 Catalina (我记得好像是出厂系统🤔)</p>\n<p>重装后用了几天，UI 上令我「耳目一新」 XD ，续航有所提升，操作使用也流畅了不少，休眠能耗似乎得到解决，合盖一晚打开还是 100% 电量，重装之前的休眠能耗一晚后能丢掉不少电量。</p>\n<p>重装后也遇到一些问题，\n软件版本的兼容性，brew 总提醒我 <code>Warning: You are using macOS 10.15.</code> 并拒绝了一些软件的安装，Arc 、OrbStack 等也无法安装，不过办法总比困难多，能找到替代的就替代了。</p>\n<p>还有就是软件的权限，「屏幕录制」的权限没有 +/- ，比如笔者用的 iShot 安装后只是提醒我要去系统设置中添加此权限，好像并没有去请求此权限，所以权限列表一直显示不到 iShot ，最后通过直接操作系统权限数据库解决。</p>\n<p>虽然觉得有可能电脑用久了，太多软件/缓存/垃圾等导致在 Sonoma 使用不佳，但苹果也可能通过系统更新进行老设备的主动迟钝？要是当前 MBP 实在不行了就去换 M 芯😂</p>\n<p>还在用 Intel 芯片 MacBook 的小伙伴在用哪个系统呢？</p>",
+    "publish_time": "2024-01-07 11:24:30",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "好无聊啊，不知道捣鼓点啥？",
+    "url": "https://www.v2ex.com/t/1006559",
+    "summary": "junjie2025: 有建议的吗，之前捣鼓软路由，现在已经完成阶段性目标了，不知道还有什么比较有意思的东西可以用来折腾。",
+    "publish_time": "2024-01-07 15:07:12",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
