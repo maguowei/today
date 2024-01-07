@@ -64,5 +64,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "求教 wifi 转有线的简单方法",
+    "url": "https://www.v2ex.com/t/1006504",
+    "summary": "huangyiyu: <p>主路由是 tplink XDR5470 。在另一个房间有一个纯有线设备需要连接，房间内 wifi 802.11ax 5g 信号覆盖没有问题。</p>\n<p>我想找一个设备连接 wifi 然后转有线。看到的似乎都要搞个路由来做无线中继，然后从路由接有线设备。\n我担心这样反而会反过来影响主路由的 wifi 信号，因为主路由在这个房间内及周边信号足够强，不需要扩展。\n不知道有没有这样的设备。</p>\n<p>求教简单低价解决方法。</p>\n<p>电力猫方案已经试过了效果不好。</p>\n<p>谢谢</p>",
+    "publish_time": "2024-01-07 08:52:20",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
