@@ -1510,5 +1510,122 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "岳云鹏和燕子火花续上了",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B2%B3%E4%BA%91%E9%B9%8F%E5%92%8C%E7%87%95%E5%AD%90%E7%81%AB%E8%8A%B1%E7%BB%AD%E4%B8%8A%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "员工因家中变故连休 37 天事假后被开除，法院判决公司应支付赔偿金8 万余元，如何从法律角度解读？",
+    "url": "https://www.zhihu.com/question/637998723",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美股三大指数集体收涨，热门中概股普跌",
+    "url": "https://www.36kr.com/newsflashes/2595153368726402",
+    "summary": "36氪获悉，1月5日收盘，美股三大指数集体上涨，纳指涨0.09%，道指涨0.07%，标普500指数涨0.18%。大型科技股多数下跌，谷歌跌0.48%，苹果跌0.4%，特斯拉跌0.18%，Netflix跌0.13%，微软跌0.05%，Meta涨超1%，亚马逊涨0.46%。热门中概股普跌，小鹏汽车跌超5%，B站、网易跌超4%，阿里巴巴、理想汽车、蔚来跌超2%，京东、爱奇艺跌超1%，拼多多跌0.82%，百度跌0.14%。",
+    "publish_time": "2024-01-08 07:00:22",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "The Erlang Ecosystem (2018) [video]",
+    "url": "https://www.youtube.com/watch?v=7AJR66p5E4s",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38903276\">Comments</a>",
+    "publish_time": "2024-01-08 01:45:36",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Japan's earthquake alters coastline, extends it by two football fields",
+    "url": "https://www.businessinsider.com/photos-japan-coastline-recedes-after-quake-2024-1",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38905046\">Comments</a>",
+    "publish_time": "2024-01-08 04:56:48",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A concrete example of what goes wrong with Apple's docs",
+    "url": "https://www.amimetic.co.uk/blog/a-concrete-example-of-why-apples-docs-are-terrible/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38904721\">Comments</a>",
+    "publish_time": "2024-01-08 04:16:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The immediate victims of a con would rather act as if the con never happened",
+    "url": "https://statmodeling.stat.columbia.edu/2024/01/07/french-bio-lab-research-scandal/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38903145\">Comments</a>",
+    "publish_time": "2024-01-08 01:32:08",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Mouse filmed tidying man's shed every night",
+    "url": "https://www.theguardian.com/world/2024/jan/07/mouse-secretly-filmed-tidying-mans-shed-every-night",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38905178\">Comments</a>",
+    "publish_time": "2024-01-08 05:11:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Shecc: A self-hosting and educational C optimizing compiler",
+    "url": "https://github.com/sysprog21/shecc",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38905182\">Comments</a>",
+    "publish_time": "2024-01-08 05:12:24",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "When random numbers are too random: Low discrepancy sequences (2017)",
+    "url": "https://blog.demofox.org/2017/05/29/when-random-numbers-are-too-random-low-discrepancy-sequences/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38905280\">Comments</a>",
+    "publish_time": "2024-01-08 05:24:17",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "What Does the Cerebellum Do?",
+    "url": "https://sarahconstantin.substack.com/p/what-does-the-cerebellum-do-anyway",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38905898\">Comments</a>",
+    "publish_time": "2024-01-08 06:34:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
