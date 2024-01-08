@@ -1294,5 +1294,100 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "鸡蛋这么做太费米饭了",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%B8%A1%E8%9B%8B%E8%BF%99%E4%B9%88%E5%81%9A%E5%A4%AA%E8%B4%B9%E7%B1%B3%E9%A5%AD%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "中国古代有哪些非汉族的名人名臣名将?",
+    "url": "https://www.zhihu.com/question/638513306",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "TIL: Go's CompareAndSwap is not always Compare-and-swap",
+    "url": "https://lu.sagebl.eu/notes/go-cas/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38915391\">Comments</a>",
+    "publish_time": "2024-01-09 01:39:40",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Elixir is now a gradually typed language",
+    "url": "https://twitter.com/josevalim/status/1744395345872683471",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38914407\">Comments</a>",
+    "publish_time": "2024-01-09 00:29:43",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "What is a standard error? [pdf]",
+    "url": "http://www.stat.columbia.edu/~gelman/research/published/standarderror.pdf",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38916694\">Comments</a>",
+    "publish_time": "2024-01-09 03:16:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Pg_rman: Backup/Restore Tool for PostgreSQL",
+    "url": "https://github.com/ossc-db/pg_rman",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38915421\">Comments</a>",
+    "publish_time": "2024-01-09 01:41:55",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Async file IO in Java is not truly async [Resource, Tech blog]",
+    "url": "https://cmhteixeira.com/concurrency/asyncfileio.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38916397\">Comments</a>",
+    "publish_time": "2024-01-09 02:54:05",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Trade-offs between Different CRDTs",
+    "url": "https://interjectedfuture.com/trade-offs-between-different-crdts/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38916647\">Comments</a>",
+    "publish_time": "2024-01-09 03:13:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Solver Performance: 1989 vs. 2024",
+    "url": "https://www.solvermax.com/blog/solver-performance-1989-vs-2024",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38916212\">Comments</a>",
+    "publish_time": "2024-01-09 02:43:16",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]

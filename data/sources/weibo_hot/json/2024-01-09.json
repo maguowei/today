@@ -556,5 +556,14 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "鸡蛋这么做太费米饭了",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%B8%A1%E8%9B%8B%E8%BF%99%E4%B9%88%E5%81%9A%E5%A4%AA%E8%B4%B9%E7%B1%B3%E9%A5%AD%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
