@@ -31,5 +31,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "V2EX - 超级增强 最近更新：新增简洁模式，再也不怕同事窥屏了。帖子正文显示 OP 注册时间， 7 天内注册的用户会被标红，再也不怕钓鱼啦",
+    "url": "https://www.v2ex.com/t/1007051",
+    "summary": "shzbkzo: <h3>吐槽</h3>\n<p>“V2EX - 超级增强” 感觉好 low <img alt=\"img\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/ZveiiGy.png\" />，我改成 “V2EX Next” 了，兄弟们可能要重新安装一下：<a href=\"https://greasyfork.org/zh-CN/scripts/458024\" rel=\"nofollow\">点击这里安装</a></p>\n<h3>开源地址</h3>\n<p><a href=\"https://github.com/zyronon/v2ex-script\" rel=\"nofollow\">https://github.com/zyronon/v2ex-script</a></p>\n<p>本项目完全开源，目前主要由我一个人维护，如果您觉得好用，<em><strong>请帮我点一个<a href=\"https://github.com/zyronon/v2ex-script\" rel=\"nofollow\">Star ⭐️</a>，您的 Star 是对我最大的鼓励</strong></em></p>\n<h3>主要更新</h3>\n<ul>\n<li>\n<p>简洁模式，再也不怕同事窥屏了\n<img alt=\"i\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/5uiQBux.png\" /></p>\n</li>\n<li>\n<p>帖子正文将显示 OP 注册时间，7 天内注册的用户会被标红\n<img alt=\"i2\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/O9wRCzv.png\" /></p>\n</li>\n<li>\n<p>新增回复展示方式“楼中楼（隐藏第一个 @用户）”。显示每条回复开头的 @xxx 似乎没有必要，隐藏之后界面看起来更舒服了\n<img alt=\"i3\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/a4dbUln.png\" /></p>\n</li>\n</ul>\n<h3>其他更新</h3>\n<ul>\n<li>用户详情页也可以查看和管理标签了</li>\n<li>适当的美化 UI 。圆角更圆了，滚动条美化、其他小细节等等</li>\n<li>更改了新标签页打开链接逻辑，不再与“帖子弹框显示”互斥，可以同时存在，但优先级比“帖子弹框显示”低</li>\n<li>回复数量检测，现在打开超过 300 条回复的帖子，脚本会自动停止解析，可以放心打开了，不会再卡死了😅😅😄</li>\n<li>增回复展示方式“冗余楼中楼”，楼中楼不仅会搭楼，还会再楼之外再显示一份，方便查看已看过的主题。PR 来自 GITHUB 用户<a href=\"https://github.com/2435043xia\" rel=\"nofollow\">2435043xia</a></li>\n</ul>\n<h3>再次吐槽</h3>\n<p>9 敏，谁懂啊，家人们，大无语事件发生，咱就是说 V2EX_Polish 主打 <em><strong>UI 美化</strong></em> 都上万安装 500 多 Star ⭐️ 了</p>\n<p>真的难蚌，给我一整个困惑了，家人们觉得好用请狠狠的给我点一个 <em><strong><a href=\"https://github.com/zyronon/v2ex-script\" rel=\"nofollow\">Star ⭐️</a></strong></em> 好吗？ 真是一把子无语住了属于是家人们</p>",
+    "publish_time": "2024-01-09 09:57:47",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "看到公司的春节放假通知， 震惊了 吓尿了",
+    "url": "https://www.v2ex.com/t/1007140",
+    "summary": "fields: <ul>\n<li>单位今天出了春节放假通知：</li>\n</ul>\n<pre><code>2024 年 2 月 8 日至 2 月 17 日放假调休，共 10 天。2024 年 2 月 4 日（星期日）、2024 年 2 月 18 日（星期日）上班。\n\n其中 2024 年 2 月 8 日（星期四）、2024 年 2 月 9 日（除夕）公司统一安排调休，优先使用年假，如无年假可休的，采取预支年假或使用调休假的方式。\n</code></pre>\n<h1>还可以预支年假？？？</h1>",
+    "publish_time": "2024-01-09 13:32:28",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
