@@ -1,0 +1,35 @@
+[
+  {
+    "title": "四年前端失业三个月，感觉未来很迷茫，求外人视角和建议",
+    "url": "https://www.v2ex.com/t/1007010",
+    "summary": "chen9604: <p>之前的账号不知道怎么回事登不了</p>\n<p>本人目前 base 合肥，20 年毕业后一直在合肥上班搞前端，技术一般，21 年主动跳槽一次，22 年初上海公司搞裁员裁了合肥的人，23 年 10 月又经历了第二波裁员，拿了 2.5 个月的赔偿。</p>\n<p>趁此机会十一月带着爷爷奶奶去北京，五天行程，来回各一天玩三天，圆了他们的北京梦（ ps：可能那个年龄段的老人心里都有一个红色梦吧），故宫，天安门，升旗，纪念堂都去了，其中顺便去了动物园，爷爷奶奶对动物园表现的倒是难得的兴奋，特别是看到非洲象和海洋馆里的大鱼的时候。这也是我 23 年做的最有价值的事情了，而且这次去北京时间卡的刚刚好，回来第二天北京就开始冷空气降温了。</p>\n<p>十月十一期间也认识一个女孩，加上北京回来时玩心渐起，后面的一个半月一直没想找工作，一直想出去溜达，直到元旦后才开始正式转入准备面试，发现机会异常的少，花了一两天时间把合肥目前能看的过去的公司都过了一遍，然后结果大概是一半已读不回或者直接拒绝，已读的中有三两个要简历面试，基本上一面结束就没了。</p>\n<p>因为<b>面试基本无果</b>，目前想是否要投其他城市看看机会，意向苏州、南京、杭州，武汉或许也行。</p>\n<p>但是本人的情况看起来我留在合肥是最优解，大概十年前父母在合肥买了一套两室房，目前贷款已经结清了，但是我 23 年 2 月又买了一套三室房（轻喷，我现在后悔死了，当时被房价回温忽悠了，我本身也想弄一个大点的房子，加上本人家庭遇到了别人要借钱的情况就冲动上车了），目前月供 30 年 4900 。然后就是九月办理贷款下来了，十月被裁了（要是晚一个月我就亏六七万把房子退了），除了公积金每个月掏 2500 ，目前公积金余额还能顶公积金贷款一年半，<b>但是我手头存款已经不多，并且我一直没和家里人说我失业了</b>，这段时间花销有点大，养了只猫还遇到猫瘟花了 5000+（不过屋里有个猫确实很治愈，防止出现抑郁）</p>\n<p>本人 96 年的独子，没有女朋友，不要考虑换城市异地的问题，现在有点迷茫换城市对我是不是更好的选择，我要不要去接受外包，接受与不接受对我的职业生涯影响多大，或者说我的职业生涯还有多长，感觉自己主要就是对未来迷茫</p>\n<p>所幸父母年纪不大都还没到 50 ，身体健康目前不需要负担，但是感觉不久的未来面临着很多压力。父母都是农村的，在身体健康的情况下他们也不愿意来合肥住（等年纪大了肯定是要接身边的），我有点迷茫那个两室房要不要卖了还一部分贷款+给他们把养老保险补到最高，还是那个房子留着他们以后住。</p>\n<p>乱七八糟说了半天，感觉主要还是没钱加上职业迷茫，前端也不是很想干了，主要是感觉我这种普通人很难干长久，想转行换个方向也不知道干啥。</p>\n<ol>\n<li>考公，毕业那年考过，差几名进面试，感觉现在考公难度也很大，而且我希望最好还是能在合肥的 hhh</li>\n<li>直接换个职业，我感觉我可能去送外卖，其他行业估计能进入的门槛也就是销售了，我又不是这块料</li>\n<li>还是在 IT 里混，但是考虑往运维后端方向发展</li>\n</ol>\n<p>感觉也就第三个具有可行性</p>",
+    "publish_time": "2024-01-09 08:35:02",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "V2EX 插件更新：主题水平布局、选项页美化、更多功能...",
+    "url": "https://www.v2ex.com/t/1007017",
+    "summary": "coolpace: <p>好久不见，V2EX 的朋友们！</p>\n<p>自上次发布了令人兴奋的<a href=\"https://www.v2ex.com/t/977271\" rel=\"nofollow\">功能更新</a>以来，时间已过去了三个月。2024 年伊始，V2EX Polish 踏着新春的脚步，带着新功能又和大家见面啦！</p>\n<h2>更新亮点</h2>\n<ul>\n<li>主题页支持水平方向划分内容区和回复区。</li>\n<li>插件选项页界面美化。</li>\n<li>选项页中新增用户标签管理。</li>\n<li>Popup 中支持查看未读消息的数量。</li>\n<li>回复内容中默认不显示 @ 提及的用户名。</li>\n<li>默认不显示回复时间。</li>\n</ul>\n<h2>详细介绍</h2>\n<h3>⊙ 主题页支持水平方向划分内容区和回复区。</h3>\n<p>这绝对是一个实用的功能。它有效地利用了页面的水平空间，让主题内容与回复同屏展示，告别了来回滚动查阅内容和回复的恼人体验。</p>\n<p><img alt=\"主题页水平布局\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/2blSYZt.png\" /> </p>\n<h3>⊙ 插件选项页界面美化</h3>\n<p>为了适应 V2EX Polish 日益复杂的选项配置，我们重新设计了选项页，现在它看上去更美观了。</p>\n<p><img alt=\"选项页界面美化\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/EhpTZ4v.png\" /> </p>\n<h3>⊙ 选项页中新增用户标签管理。</h3>\n<p>在去年四月份的<a href=\"https://www.v2ex.com/t/935916\" rel=\"nofollow\">更新</a>中，我们就已经支持设置用户标签，但一直缺少管理标签的界面。现在，它终于来了，你可以在选项页中方便地管理你所设置的标签。</p>\n<p><img alt=\"管理用户标签\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/GpNy24a.png\" /> </p>\n<h3>⊙ Popup 中支持查看未读消息的数量。</h3>\n<p>你可以在不访问网页的情况下，快速查看是否有未读消息。</p>\n<p><img alt=\"展示未读消息数量\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/fisZVqI.png\" /> </p>\n<h3>⊙ 回复内容中默认不显示 @ 提及的用户名。</h3>\n<p>鉴于有了“楼中楼”功能，回复内容中提及用户的用户名显得没有必要。为了让界面显得简洁，我们默认隐藏了用户名，不过你可以在选项页中关闭这个功能。</p>\n<h3>⊙ 默认不显示回复时间。</h3>\n<p>同样的，为了回复区的简洁利落，我们在回复区域隐藏了回复时间。只有当鼠标浮动到某个回复上时，才会显示该回复的时间。</p>\n<h2>如果你第一次听说 V2EX Polish</h2>\n<p>V2EX Polish 是一款开源的浏览器插件，为改善 V2EX 落后的浏览体验而诞生。这款轻量级但功能丰富的插件提供了丰富的功能扩展，让你在浏览 V2EX 时更加得心应手。</p>\n<ul>\n<li>查看官网了解更多： <a href=\"https://www.v2p.app/\" rel=\"nofollow\">https://www.v2p.app</a></li>\n<li>开源地址： <a href=\"https://github.com/coolpace/V2EX_Polish\" rel=\"nofollow\">https://github.com/coolpace/V2EX_Polish</a></li>\n<li>安装地址： <a href=\"https://chromewebstore.google.com/detail/v2ex-polish/onnepejgdiojhiflfoemillegpgpabdm\" rel=\"nofollow\">https://chromewebstore.google.com/detail/v2ex-polish/onnepejgdiojhiflfoemillegpgpabdm</a></li>\n</ul>\n<h2>赞赏支持</h2>\n<p>如果这个插件改善了你浏览 V2EX 的体验，让你的生活更加愉快，可以给开发者一点小小的赞赏，这会帮助插件更持续地发展。对于你们的大方支持，我们感慨万分！</p>\n<p><img alt=\"微信赞赏码\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/AHmfQyK.jpg\" /></p>",
+    "publish_time": "2024-01-09 09:04:34",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "新手索尼 a7c2 搭配什么镜头?",
+    "url": "https://www.v2ex.com/t/1007058",
+    "summary": "alibababababa: <p>近期想入个 a7c2,纯小白,求问大家有什么镜头推荐的,和一些配件也可以推荐下,谢谢🙏</p>",
+    "publish_time": "2024-01-09 10:17:50",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  }
+]
