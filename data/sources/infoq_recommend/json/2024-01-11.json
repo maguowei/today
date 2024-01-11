@@ -31,5 +31,27 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "开源态势洞察",
+    "url": "https://www.infoq.cn/article/Yw3qY9kZAvoT9oMIwjR6",
+    "summary": "<h2>卷首语</h2>\n<p>时间回到今年夏天，彼时，开放原子开源基金会正好走过了三个年头。《开源态势洞察》也正好出了十二期。基金会的行研团队也迎来了更多的同事，既有经验丰富的开源布道者，也有充满活力的年轻人，这群充满激情的同事们开始策划洞察的全新改版。</p>\n<p>策划里面有一段话是这样描述的：“当前的开源领域，蕴藏着众多专业的实践经验，希望《开源态势洞察》能搭建一个平台，一端连接开源实践专家，另一端连接着积极参与开源或是对开源实践抱有疑问的组织及个人。洞察的目标是要将行之有效的见解或是方法论送到真正有需求的人的手上，期望成为业内人士获取洞见及灵感的宝贵资源。”开放原子致力于“繁荣开源事业，共享开源价值”，深知推广开源文化，普及开源实践的重要性。作为开源领域的专业队伍，希望洞察能提供一个深入的视角，揭示开源世界的创新，成为启发思考的源泉。</p>\n<p>新版的《开源态势洞察》更加专业、丰富，融入行研部门与行业各界的深入思考，形成的过程也更加开放，我们期待各界专家的共同参与。满怀期待，这本期刊能成为开源界每月必读的一本小红书。</p>\n<p>正如同这句Slogan所言，“大家的洞察，更好的开源”。在此，我想向所有热爱开源、参与开源的朋友们发出诚挚的邀请：加入到《开源态势洞察》的共创中来，这是我们共同的“开源项目”。</p>",
+    "publish_time": "2024-01-11 17:40:23",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "GPT Store上线了！无门槛挣钱，无门槛抄袭",
+    "url": "https://www.infoq.cn/article/x7w4NdLw4FDfUyiFJ84v",
+    "summary": "<p>今天凌晨，OpenAI 的GPT Store 正式上线！过去两个月，用户已经创建了超 300 万个GPTs。这次的发布主要面向 ChatGPT Plus、团队和企业用户推出。</p><p></p><p><img src=\"https://static001.infoq.cn/resource/image/a8/a3/a8c265aed9d1362b3ee4239d2f1d6ea3.gif\" /></p><p></p><p></p><h4>赚钱小妙招？</h4><p></p><p>&nbsp;</p><p>应该不必过多介绍GPT Store了，主要用于分享用户构建的自定义 GPT 助手，开发者可以借此赚钱。构建GPT 非常简单，不需要任何编码技能：</p><p>&nbsp;</p><p>建立OpenAI账户，登录后访问GPT Builder；选择一个希望在日常生活或工作中解决的问题，最好该问题同样在困扰着其他人；对GPT进行自定义，包括合适的名称、照片和描述，并通过自然语言提示词来定义它应当执行的操作。最重要的是为其指定高质量、独特且可靠的数据源，供模型从中提取相关信息；不断学习和调整，直到模型能够输出与预期相符的结果；验证你的构建者配置文件（设置→构建者配置文件→启用你的姓名或经过验证的网站）；保存并公开你的 GPT 供所有人使用（分享链接则都无法显示在商店中）。</p><p>&nbsp;</p><p></p><p></p><p>但OpenAI并未提供具体指导方针以说明商店上线后开发者预期可获得多少被动收入，也不清楚OpenAI将从利润中抽取多大的比例。值得注意的是，目前GPT Store只能由付费订阅者使用。</p><p>&nbsp;</p><p>来自的网友搞钱小提示：GPT Store很可能短时间内涌入成百上千的开发者用户来迅速夺取GPT市场份额。所以不妨跳出圈子，考虑在直接出售GPT之外，为他们服务能带来哪些收益。</p><p>&nbsp;</p><p>另外，OpenAI 还发布了一个新的自助服务计划：ChatGPT Team，团队可以通过 32K 上下文窗口访问 GPT-4、对于DALL·E 3、GPT-4 等具有更高的消息上限、创建和共享GPT等。</p><p></p><h4>网友：放出来分分钟被抄袭</h4><p></p><p>&nbsp;</p><p>鉴于之前开发者已经用了两个月，GPT Store模式也开始暴露出一些问题。</p><p>&nbsp;</p><p>OpenAI 开发者论坛有人发帖道：<a href=\"https://community.openai.com/t/a-site-is-stealing-and-duplicating-our-gpts-how-can-we-protect-our-gpts/576736\">某个网站正在窃取并复制我们的 GPT，如何保护我们的 GPT？</a>\"发帖人称，该网站列出了许多 GPT，看起来他们正在复制别人的 GPT 并将其列为自己的。</p><p>&nbsp;</p><p>“看起来 GPT 将无法兑现他们的承诺——就像插件失败一样。我们将拥有数量巨大的 GPT，但没有人会使用这些 GPT，尤其是在可以如此轻易复制其他 GPT 的情况下。”有网友跟帖道。</p><p>&nbsp;</p><p>外媒评论称，目前GPT 并不是独立的应用程序，因此不太可能产生独立业务。OpenAl 虽然提供了所谓的Assistants API，用于在 OpenAl 网站之外构建本机平台和Web 应用程序，但GPT Store 店目前似乎只提供“堂食”体验，没有“外卖”选项。</p><p>&nbsp;</p><p>参考链接：</p><p>https://openai.com/blog/introducing-the-gpt-store</p><p>https://openai.com/blog/introducing-chatgpt-team</p>",
+    "publish_time": "2024-01-11 18:04:31",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
