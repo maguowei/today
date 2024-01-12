@@ -619,5 +619,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "下雪还能这么玩儿",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8B%E9%9B%AA%E8%BF%98%E8%83%BD%E8%BF%99%E4%B9%88%E7%8E%A9%E5%84%BF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "东阿阿胶金光闪闪",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%98%BF%E9%98%BF%E8%83%B6%E9%87%91%E5%85%89%E9%97%AA%E9%97%AA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "放弃也是一种很绝的心态",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%94%BE%E5%BC%83%E4%B9%9F%E6%98%AF%E4%B8%80%E7%A7%8D%E5%BE%88%E7%BB%9D%E7%9A%84%E5%BF%83%E6%80%81%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]

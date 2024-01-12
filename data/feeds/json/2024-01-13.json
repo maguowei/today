@@ -1274,5 +1274,96 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "下雪还能这么玩儿",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8B%E9%9B%AA%E8%BF%98%E8%83%BD%E8%BF%99%E4%B9%88%E7%8E%A9%E5%84%BF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "东阿阿胶金光闪闪",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%98%BF%E9%98%BF%E8%83%B6%E9%87%91%E5%85%89%E9%97%AA%E9%97%AA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "放弃也是一种很绝的心态",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%94%BE%E5%BC%83%E4%B9%9F%E6%98%AF%E4%B8%80%E7%A7%8D%E5%BE%88%E7%BB%9D%E7%9A%84%E5%BF%83%E6%80%81%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "深圳一房子评估价 600 万降到 200 多万，造成这一现象的原因有哪些？",
+    "url": "https://www.zhihu.com/question/639023094",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "OpenAI Deletes Ban on Using ChatGPT for \"Military and Warfare\"",
+    "url": "https://theintercept.com/2024/01/12/open-ai-military-ban-chatgpt/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38972735\">Comments</a>",
+    "publish_time": "2024-01-13 03:27:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "There has never been a better time to game on Linux",
+    "url": "https://tildes.net/~games/1dcj/there_has_never_been_a_better_time_to_game_on_linux",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38972362\">Comments</a>",
+    "publish_time": "2024-01-13 03:01:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "DevDocs",
+    "url": "https://devdocs.io",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38972153\">Comments</a>",
+    "publish_time": "2024-01-13 02:46:39",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Trilinear point splatting for real-time radiance field rendering",
+    "url": "https://lfranke.github.io/trips/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38969893\">Comments</a>",
+    "publish_time": "2024-01-13 00:18:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Marimo – an open-source reactive notebook for Python",
+    "url": "https://github.com/marimo-team/marimo",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38971966\">Comments</a>",
+    "publish_time": "2024-01-13 02:33:17",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
