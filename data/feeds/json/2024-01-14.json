@@ -1459,5 +1459,36 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "陈楚生 糊没事有彦斌",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F+%E7%B3%8A%E6%B2%A1%E4%BA%8B%E6%9C%89%E5%BD%A6%E6%96%8C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Decker – A HyperCard Replacement",
+    "url": "https://beyondloom.com/decker/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38985409\">Comments</a>",
+    "publish_time": "2024-01-14 06:44:14",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Building a fully local LLM voice assistant to control my smart home",
+    "url": "https://johnthenerd.com/blog/local-llm-assistant/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=38985152\">Comments</a>",
+    "publish_time": "2024-01-14 06:12:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
