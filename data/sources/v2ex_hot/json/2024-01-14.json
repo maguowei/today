@@ -64,5 +64,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "Spotify 被墙，如何破局",
+    "url": "https://www.v2ex.com/t/1008479",
+    "summary": "KazuhaMax: <p>（以下为前言:众所周知，Spotify 在 2023 年 12 月底被墙。流量可以正常访问，但是家宽，WiFi 不行。\n尝试修改 dns 供应商无果，之后委托国外朋友发现 GFW 未实施 dns 污染，IP 正常获得但无法 ping 通。\n尝试更换供应商，使用 WiFi 或者宽带时，甘肃电信、移动，山东电信，北京联通均无法正常连接，流量依旧正常访问，据说是 IPv6 可以连接而 IPv4 被污染。\n目前 spotify 已开美区 premium ，这次屏蔽导致 pc 版应用程序很难登陆:spotify 的 pc 端在登陆时不允许连接 VPN ，但不使用 VPN 又完全无法加载出登陆页面，目前只有凭借手速，在 pc 端获取登陆信息后秒关 VPN ，才能绕过 VPN 检测并成功登陆。）\n虽然使用 VPN 还是正常使用，但还是很窝火啊，为什么连 WiFi 就不能用，有没有国内使用 WiFi 直连的破局之法？求教。</p>",
+    "publish_time": "2024-01-14 10:49:40",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
