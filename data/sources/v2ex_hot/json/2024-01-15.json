@@ -42,5 +42,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "新手想买相机，预算 5k，求大佬们推荐",
+    "url": "https://www.v2ex.com/t/1008653",
+    "summary": "hangzhou: 各位摄影大佬，我想买个相机，人和物都想拍，预算 5k 左右，网上有的推佳能 R50 、还有尼康 Z30 。后来有人说佳能除了拍人的时候带了美颜，其他参数完败尼康，又有人说尼康拍景还好，拍人真不咋地，最后我看又有人推荐佳能 R10 ，说无脑入，景和人都可以。然后又有人说佳能的配件不好买，推荐买富士 XS-10 。现在有点乱 不知道该买哪个（问题一），京东上看旗舰店都没货 要买的话有哪些渠道呢（问题二） 真怕买到翻新机，或者说还是先买个二手的试试（实在不行预算可以到 10k ）",
+    "publish_time": "2024-01-15 09:28:44",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "「首发送码」RedisMate 是一款专为开发过程中, 简化 Redis 调试操作而设计的 macOS 原生应用。通过简洁的界面设计和场景操作优化，提升开发者的调试效率。",
+    "url": "https://www.v2ex.com/t/1008682",
+    "summary": "Kuari: <h1>介绍</h1>\n<p>RedisMate 是一款专为开发过程中, 简化 Redis 调试操作而设计的 GUI 应用。 通过简洁的界面设计和场景操作优化，提升开发者的调试效率。</p>\n<p>RedisMate 是使用 swift 开发的 macOS 原生应用，体积非常小，只有 6M 左右。占用资源也比较小。数据请求都是分页请求，所以很大量的数据，也不用担心性能。</p>\n<p>当前为 MVP 版本，在提供基础 Redis 能力之上，着重加强搜索场景的优化。后续会有更多功能继续新增。</p>\n<h1>截图</h1>\n<p><img alt=\"RedisMate\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://p.ipic.vip/70lgd1.png\" /></p>\n<p><img alt=\"RedisMate-screenshot-fast-searach\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://p.ipic.vip/g5s7io.png\" /></p>\n<p><img alt=\"Redis GUI 窗口常驻情况下搜索 Key 步骤对比\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://p.ipic.vip/kz71s2.png\" /></p>\n<p><img alt=\"RedisMate-mvp-screenshot-2\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://p.ipic.vip/bso3v1.png\" /></p>\n<p><img alt=\"RedisMate-mvp-screenshot-2\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://p.ipic.vip/uhs6mf.png\" /></p>\n<h1>产品演示和下载</h1>\n<p>产品演示和下载： <a href=\"https://redismate.hunterji.com/\" rel=\"nofollow\">https://redismate.hunterji.com</a></p>\n<h1>开发者留言</h1>\n<h2>产品由来</h2>\n<p>RedisMate 是我尝试独立开发的第一个产品，我选择这个我比较熟悉的领域来开始第一步。</p>\n<p>一两年前，我用 electron 开发过一个开源的 Redis GUI Client ，叫做 RedisFish 。当时不少 V 站的 xd 给了我很多建议和支持，真的很感谢。不过当时因为工作繁重和身体原因，停了一段时间，当我准备更新的时候，遇到 electron 一个大版本迭代，更新了一个很重的功能，还有不少前端组件的版本更新，这需要大量的时间和精力，很多地方需要重构。鉴于当时的工作经常加班没有足够时间和身体原因，决定还是慢慢开发，但是最后因为各种原因，还是不了了之了。</p>\n<p>前段时间 ，我因为一些原因刚裸辞。于是准备尝试一波独立开发。考虑到我目前在其它领域并没有涉及太多，还是决定先选择熟悉的领域。也曾考虑过用 electron 或者新的框架重构一下之前的开源项目，但是考虑到各方面成本，最终选择使用 swift 开发 macOS 应用。而且现在这方面的开源项目不少，所以还是搞点原生的吧。</p>\n<h2>产品亮点</h2>\n<p>开始是我的主观感受，我在写后端时候，总是不得劲儿。好多窗口——各种文档、设计图、postman 、mysql gui 、redis gui 、终端，加上 ide 都要一起打开，切来切去的。有时候多个后端节点项目一起开发，再多时候前后端一起开发，更多窗口了，然后又来多个语言，这里用 go ，那里写 rust ，这个功能要用 python 灌点假数据，那边前端写一下 websocket 功能，再开一个 mqttx ！</p>\n<p>我觉得我得来十个显示器！</p>\n<p>所以，我经常在想，为什么这些应用这么麻烦，总要让我切来切去，让我去不断操作，比如 redis ，我不过是经常是在上面搜个 key 看看，老是要我反复切过去，点这点那然后搜索，好烦啊！（类似的调试过程中的吐槽我能说十分钟......）</p>\n<p>后来我在看创新方面的书的时候，就发现，哦！原来是这样！</p>\n<p>然后我就跟我身边的后端朋友沟通，得到朋友们的认可后，就开始着手干起来了。</p>\n<p>就开始有了这个 MVP 版本，不仅仅局限于 Redis 提供的能力，而是 GUI 本身能带给我什么。让我在调试时候，更高效地触及到 Redis 中的数据。</p>\n<h2>后续</h2>\n<p>目前仍然在不断学习中，除了一些比如集群、发布订阅等等慢慢新增外，更多会去实践学习到的知识和技术，尝试去让产品创新，解决问题。</p>\n<p>以及很重要的运营工作！</p>\n<h1>送码</h1>\n<p>77T9RETF4HL4</p>\n<p>MT633RWKNJ9F</p>\n<p>LLH3R4MNHM6E</p>\n<p>TXNL9YXM3LNJ</p>\n<p>EN9MYRJFYFX9</p>\n<p>9RYYJ6XKT9JK</p>\n<p>AYT4R6NRFAFA</p>\n<p>9M497NEE9HPM</p>\n<p>76RA7KWYKTJP</p>\n<p>M3L76TPMNLJP</p>\n<p>FYE4RLTA99LF</p>\n<p>EJE3FPMLEPPT</p>\n<p>NHJFWKHLFNWA</p>\n<p>EM7AA9F6HMPH</p>\n<p>RW7AEXKHMXHP</p>\n<p>4KJR7XLM7PLA</p>\n<p>N6TRM4LMN6EK</p>\n<p>TRYFTJJ3ATMM</p>\n<p>Y4KRJ9WMTRJ9</p>\n<p>A39KYX6NRJA9</p>\n<h1>其它</h1>\n<p>周末更新了一个 v 1.2.3 版本，添加了按钮的悬浮提示，但是周末苹果还没审核，应该要今天才能上了。</p>\n<p>最后，再贴一波演示和下载地址： <a href=\"https://redismate.hunterji.com/\" rel=\"nofollow\">https://redismate.hunterji.com</a></p>\n<p>或者也可以直接使用 mac 的 app store 搜索\"RedisMate\"进行下载。</p>\n<p>欢迎各位 xd 的体验和反馈！</p>\n<p>大佬轻喷啊!</p>",
+    "publish_time": "2024-01-15 10:21:59",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "手机被 JC 监控，大家有遇到相同的问题吗",
+    "url": "https://www.v2ex.com/t/1008703",
+    "summary": "lastlxd: 最近 JC 不断地给我打电话，警告我不要继续浏览诈骗网站和 app 。后面我把他们电话拉黑了，现在给我发短信说继续执迷不悟要通知我的家人和公司。我对此感觉不安，自己上什么 app 和浏览什么都被监控，毫无隐私可言。同时我也很疑惑，JC 通过什么监控我手机的 app 呢？有没有懂行的。今天在拼多多下单了苹果手机（目前是华为），不知道还会不会存在同样的问题。",
+    "publish_time": "2024-01-15 11:17:04",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
