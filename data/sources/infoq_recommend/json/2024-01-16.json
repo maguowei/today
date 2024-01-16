@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Roblox 如何从 73 小时故障中吸取教训，为 7 千万用户提供可靠服务",
+    "url": "https://www.infoq.cn/article/rBofrx6EO9VkId1mmmO3",
+    "summary": "<p>在线游戏平台和创作系统 Roblox 详细介绍了他们如何提升其基础设施的效率和弹性，满足 7 千多万活跃用户参与沉浸式游戏体验的需求。这篇博&nbsp;深入探讨了 Roblox 如何实现可靠性承诺、如何应对 2021 年的重大故障以及如何通过持续转型来提升基础设施的效率和弹性。</p><p></p><p>2021 年 10 月，Roblox 遭遇了持续 73 小时的系统范围的故障，这是由一个数据中心的一个小问题引发的，然后迅速演变成大规模故障。通过事故后分析，团队加大了巩固其基础设施的工作，以应对各种故障因素，如流量峰值、天气条件、硬件故障、软件错误和人为失误。重点是防止单个组件的问题扩散到整个系统，并确保网络或用户持续重试操作不会造成与负载相关的级联故障。</p><p></p><p>为了应对类似 2021 年 10 月的故障，Roblox 最初在不同区域的数据中心采用主备方式构建了基础设施的副本。这意味着团队可以在主数据中心出现重大故障时将整个系统切换到备份基础设施上。这提供了一种应急的弹性形式，但他们的长期目标是从主备数据中心转变为双活，让两个数据中心同时处理工作负载，实现更高的可靠性和几乎即时的故障切换。</p><p></p><p>Roblox 还实现了蜂窝基础设施架构，在数据中心内建立强大的“防爆墙”，防止发生整个数据中心范围的故障。蜂窝蜂窝单元或机器集群在单个蜂窝单元内提供冗余和故障控制。Roblox 的目标是将所有服务迁移到蜂窝单元中，以此来增强弹性和高效的工作负载管理，整个蜂窝单元（每个蜂窝单元可能包含 1400 台服务器）可以在必要时进行修复或完全重新配置。这个过程需要确保一致性，要求服务进行容器化，并实现基础设施即代码的理念。Roblox 新的部署工具会自动确保服务跨蜂窝单元分布，从而使服务所有者不必考虑复制问题。</p><p></p><p>Roblox 将蜂窝单元作为一种防火门，可以将故障限制在一个蜂窝单元内。目标是使蜂窝单元变得可互换，以便在出现问题时更快地恢复。然而，管理蜂窝单元之间的通信存在一些挑战，因为需要防止“死亡查询”，即重试查询会导致级联故障。他们正在部署短期解决方案，例如将计算服务的副本部署到每个计算蜂窝单元中，并在蜂窝单元间平衡流量，以此来缓解这种情况。他们的长期计划包括实现用于服务发现的下一代服务网格以及将依赖请求定向到与原始调用方相同蜂窝单元的方法。这将降低故障从一个蜂窝单元传播到另一个蜂窝单元的风险。70% 的后端流量现在由蜂窝单元提供，他们的最终目标是达到 100%。近 3 万台服务器正在运行蜂窝单元，但这还不到总服务器数量的 10%。</p><p></p><p>在不中断用户的情况下迁移一个非常繁忙的在线平台的复杂性是巨大的。由于没有大量的资金购买全新的服务器来运行蜂窝基础设施，Roblox 创造性地利用了一小部分备用机器，并策略性地建立了新的蜂窝单元，逐步迁移工作负载，然后重新使用已释放的机器来进行下一次迁移。这在不同的数据中心之间造成了一些理想的蜂窝单元碎片，增加了蜂窝单元内的弹性。Roblox 预计将于 2025 年完成迁移，他们需要强大的工具来部署均衡的服务，并且不会干扰到用户，他们还需要进行详尽的测试，确保在蜂窝架构中运行的新服务的兼容性。</p><p></p><p><img src=\"https://static001.geekbang.org/wechat/images/b6/b6531b9e6c0757e1b080c3fffbd9e8e4.png\" /></p><p></p><p>Roblox 的努力取得了成功，但针对蜂窝单元的工作仍在进行中。他们致力于在不断扩展规模的过程中提高效率和弹性。他们的主要成就包括建立第二个数据中心，在主备数据中心创建蜂窝单元，将超过 70％的后端服务流量迁移到蜂窝单元中，以及建立了实现一致性的要求。2023 年 9 月，Roblox 在数据中心启动了双活实验，增强了可靠性并最大限度地缩短故障转移时间。这些成果让他们获得了一个实现全面双活基础设施的计划，确定了改进系统设计的模式。他们一直致力于提升效率和弹性，设想让平台成为数百万用户可靠、高性能的实用工具，并实现实时连接十亿人。</p><p></p><p>他们的基础设施现在运行在近 14 万 5 千台服务器上（大部分在本地私有混合云中心）——两年内增加了三倍。Roblox 目前正在努力改造基础设施，使平台更具弹性，更加高效，为数百万用户提供服务，为持续的增长和创新奠定基础。</p><p></p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2024/01/roblox-cellular-infrastructure/\">https://www.infoq.com/news/2024/01/roblox-cellular-infrastructure/</a>\"</p>",
+    "publish_time": "2024-01-16 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "MySQL 支持 JavaScript，目前处于预览阶段",
+    "url": "https://www.infoq.cn/article/6bT6kDa1ADuCKeTU4VlI",
+    "summary": "<p>最近，Oracle 宣布 MySQL 数据库服务器支持 JavaScript 函数和过程。用于存储过程的 JavaScript 目前处于预览阶段，仅适用于 MySQL 企业版和 MySQL Heatwave。</p><p></p><p>引入 JavaScript 支持让开发人员能够在数据库中实现高级的数据处理逻辑。通过最小化数据库服务器和客户端应用程序之间的数据移动，存储函数和过程可以降低延迟、网络开销和向外流量成本。Oracle 高级首席软件工程师 Øystein Grøvlen 和技术咨询委员会成员 Farhan Tauheed 写道：</p><p></p><p></p><blockquote>支持 JavaScript 存储程序不仅可以利用庞大的生态系统来提高开发人员的生产力，而且将会有更多的开发人员具备编写存储程序所需的必要技能。换句话说，开发企业现在可以利用广泛可用的 JavaScript 技能集进行后端开发，吸纳更多的开发人才。</blockquote><p></p><p></p><p>在常见的新特性应用场景中，Oracle 强调了数据提取、数据格式化、近似搜索、数据验证、压缩、编码和数据转换，得到了社区的积极响应。发布公告中提供了一个示例函数，JavaScript 代码直接被嵌入到 SQL 定义中：</p><p></p><p><code lang=\"sql\">CREATE FUNCTION gcd_js (a INT, b INT) RETURNS INT\nLANGUAGE JAVASCRIPT AS $$\n  let [x, y] = [Math.abs(a), Math.abs(b)];\n  while(y) [x, y] = [y, x % y];\n  return x;\n$$;\n</code></p><p></p><p>来源：Oracle 博客</p><p></p><p>当使用传统的 CALL 语句调用函数时，SQL 类型和 JavaScript 类型之间会发生隐式类型转换。文档 提到，对 JavaScript 的支持是基于 ECMAScript 2021 标准，并支持所有整数、浮点数和CHAR/VARCHAR* 类型变体。Grøvlen 和 Tauheed 补充道：</p><p></p><p></p><blockquote>为实现最佳的端到端性能，MySQL 和 JavaScript 的集成使用了自定义 VM，基于 GraalVM 的 ahead-of-time（AOT）编译，将语言编译成本机二进制表示，实现快速的处理。GraalVM 有自己的 ECMAScript 2021 标准 JavaScript 实现。尽管它是用 GraalVM 的 Polyglot 框架实现的，但在性能方面仍然具有竞争力。</blockquote><p></p><p></p><p>GraalVM 运行时包括 JDK、语言实现（JavaScript、R、Python、Ruby 和 Java）以及具有沙箱功能和工具支持的托管虚拟机。MySQL-JavaScript 可在 MySQL 企业版和 MySQL Heatwave 云服务（OCI、AWS 和 Azure）中使用，但 MySQL 社区版不提供支持。</p><p></p><p>MySQL 并不是第一个支持在存储过程中使用 JavaScript 的开源关系型数据库，PostgreSQL 使用了最为流行的 JavaScript 语言扩展 PLV8。PostgreSQL 当前所有版本均支持 PLV8，包括像 Amazon RDS 这样的托管服务，并可用在存储过程和触发器中。</p><p></p><p>Oracle 在 YouTube 发布了三个 MySQL HeatWave 视频，演示了如何使用 JavaScript 存储程序来运行 Mustache 库、验证 Web 表单输入 和 处理 Web URL。</p><p></p><p>原文链接：</p><p></p><p><a href=\"https://www.infoq.com/news/2024/01/mysql-javascript-procedures/\">https://www.infoq.com/news/2024/01/mysql-javascript-procedures/</a>\"</p><p></p><p>声明：本文为 InfoQ 翻译，未经许可禁止转载。</p><p></p><p></p><p></p><p></p><p></p>",
+    "publish_time": "2024-01-16 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
