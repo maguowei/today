@@ -1077,5 +1077,45 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "抑郁症患者可能并不需要鼓励",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%8A%91%E9%83%81%E7%97%87%E6%82%A3%E8%80%85%E5%8F%AF%E8%83%BD%E5%B9%B6%E4%B8%8D%E9%9C%80%E8%A6%81%E9%BC%93%E5%8A%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "有这些感觉请立刻休息",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9C%89%E8%BF%99%E4%BA%9B%E6%84%9F%E8%A7%89%E8%AF%B7%E7%AB%8B%E5%88%BB%E4%BC%91%E6%81%AF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Raspberry Pi Compute Module 5 Is in Development",
+    "url": "https://www.tomshardware.com/raspberry-pi/raspberry-pi-compute-module-5-confirmed-by-ceo-eben-upton",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39015200\">Comments</a>",
+    "publish_time": "2024-01-17 00:32:22",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Understanding x86_64 Paging",
+    "url": "https://zolutal.github.io/understanding-paging/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39015377\">Comments</a>",
+    "publish_time": "2024-01-17 00:44:30",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
