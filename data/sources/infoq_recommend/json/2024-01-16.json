@@ -53,5 +53,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "微服务过微怎么办？字节跳动提供了一种合并编译的方案｜QCon",
+    "url": "https://www.infoq.cn/article/pXRE3c6R6pMCiK3CYdAP",
+    "summary": "<p>随着业务规模的迅速扩张和复杂度提升，微服务架构已逐渐成为业界普遍采纳的先进策略。然而，在长期实践与演进的过程中，微服务粒度过细的现象日益突出，带来了种种问题，比如微服务分割过细导致的基础资源配置开销加剧，交互过程中链路增多引起的时延上升问题，以及服务治理开销过大等等。因此，当前针对单体架构与微服务架构的选择这一议题，又在经历着新一轮的审视与论证。</p><p>&nbsp;</p><p>那么，有没有一种方案，可以既拥有单体的性能，又拥有微服务的研发效率呢？</p><p>&nbsp;</p><p>字节跳动基础架构团队提供了一种方案——合并编译的方案，通过这种方式，可以使得服务拥有单体的性能和微服务的研发效率。目前该方案已在字节跳动内部多个业务线中使用，接入核心超过百万核，在不影响研发效率的情况下，带来数十万核的性能收益。</p><p>&nbsp;</p><p>在 <a href=\"https://qcon.infoq.cn/2024/beijing/track?utm_source=infoq&amp;utm_medium=article&amp;utm_campaign=7&amp;utm_term=yinxunran\">QCon全球软件开发大会（北京站）2024</a>\" 的「单体&nbsp;vs&nbsp;微服务」专场，字节跳动后端研发工程师尹旭然将以<a href=\"https://qcon.infoq.cn/2024/beijing/presentation/5702?utm_source=infoq&amp;utm_medium=article&amp;utm_campaign=7&amp;utm_term=yinxunran\">《大规模微服务破局之道：合并编译》</a>\"为题，把方案落地经验分享出来。据了解，尹老师主要负责合并编译方向和开源&nbsp;HTTP&nbsp;框架&nbsp;<a href=\"https://www.cloudwego.io/zh/docs/hertz/overview/\">CloudWeGo-Hertz&nbsp;</a>\"的研发，主要关注后端服务架构与技术。目前合并编译是字节跳动解决微服务过微问题上的主要解决方案之一，Hertz&nbsp;也是字节跳动内部最大的&nbsp;HTTP&nbsp;框架。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/94/941439920341f617333718dcd6b995b2.png\" /></p><p></p><p>我们不希望你错过这个演讲，因为——</p><p>这个方案是业界已经大规模落地的，微服务过微的治理方案之一，在落地过程中有较多的经验，摸着前人的肩膀过河，机会难得核心负责人亲临现场，你既能听到方案的详细情况，又能与他面对面交流，互相启发新的思路，探索下一代后端服务架构通过这个方案，你会知道，单体和微服务并不是绝对的，服务可以灵活的选择单独部署与合并部署</p><p>&nbsp;</p><p>尹旭然老师也表示，方案落地也不是没有痛点，一是理念普及是最大的难点，需要让业务的同学接受这种形态，了解哪些是真正的需求，哪些是不需要关注的点，二是相关生态（DevOps、监控、服务网格、PaaS&nbsp;等）都需要支持，牵涉部门多。但这些问题都不是无解的，在交流过程中，尹老师分享了他们的做法。</p><p>&nbsp;</p><p>“在业务接受上，我们主要有两个动作。第一点是自上而下的宣传，我在内部的平台上发表了很多文章，也有很多的分享，通过多次触达，让用户慢慢地理解这个事情。宣传的时候鼓励用户从更高维度的视角来看，跳出微服务的思维。合并之后就是一个单体服务，单体需要的哪些能力和微服务肯定是不一样的。第二点，我们也会用一些例子，找一些核心服务，在明白了这种架构形态之后接入，为我们做一些背书。随着核心服务接入的越来越多，业务接受起来也变得更加容易。第三点是打铁还须自身硬，合并编译听了很多业务的建议，对业务提到的能力也能够做到快速的补齐，慢慢的口碑也就上来了。”</p><p>&nbsp;</p><p>目前，该方案在业务侧得到了正向反馈，“大家都能够明白这件事情带来的收益，也明白接入后研发模式带来的变化。尤其是收益这方面，取得了超出预期的收益，大家的反馈普遍还是非常不错的。”</p><p></p><p>此外，QCon全球软件开发大会（北京站）将作为 InfoQ 2024 年首场会议，推出了全新主题——全面进化，并围绕着技术、产品、组织的全面进化策划了大模型场景化落地、大模型产品设计、大模型推理加速、高质量架构、单体 vs 微服务、可观测、性能优化、下一代生产力工具、开源产品的商业闭环、最新编程语言、数据质量与治理、大前端前沿技术、自研 OS 时代的大终端等超多精彩专题。全年会议 7 折特惠购票，仅限 1 月，咨询购票可联系票务经理 17310043226 。</p><p></p><p>目前大会议题同步征集中，<a href=\"https://qcon.infoq.cn/2024/beijing/track?utm_source=infoq&amp;utm_medium=article&amp;utm_campaign=7&amp;utm_term=yinxunran\">点击此处了解详情</a>\"，期待与各位开发者现场交流。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/a8/a8edd1db6d95f8a5185a000e94a6a9f9.png\" /></p><p></p>",
+    "publish_time": "2024-01-16 17:32:40",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
