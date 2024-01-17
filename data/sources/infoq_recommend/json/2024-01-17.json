@@ -86,5 +86,27 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "大语言模型综合能力测评报告2024",
+    "url": "https://www.infoq.cn/article/0xhGee6fTUuzDNbj7FdU",
+    "summary": "<h3>研究背景</h3>\n<p>InfoQ研究中心近期专注于大型语言模型产品的市场动态和性能特点，深入分析了这些模型在多个关键维度上的表现。本研究围绕语义理解、文学创作、知识问答、逻辑推理、编程、上下文理解、语境感知、多语言处理及多模态交互等十大核心领域，对包括ChatGPT-4、文心一言专业版、通义千问V2.1.1、Bard2.0、讯飞星火V3.0、Kimi Chat网页版、百川大模型V1.0、智谱清言网页版、360智脑4.0和豆包在内的十款热门模型进行了全面评估，测试题目数量超过3000道。</p>\n<p>在本次研究中，我们特别增加了对逻辑推理、商业写作及多模态能力这三个关键领域的测试权重和比例，以更准确地评估各模型在这些重要方面的实际表现。InfoQ研究中心希望通过这次评估，帮助技术领域的同仁更深入地了解国内外大型模型产品的性能、稳定性和准确性，从而为大模型的持续进步和应用实施提供参考和助力。</p>\n<h4>中国大模型及产品图谱</h4>\n<p><img alt=\"\" src=\"https://static001.infoq.cn/resource/image/1a/ea/1a05d63437b2a95fed23323084df96ea.png\" /><br />\n进入2023年下半年，国内的大型模型已经进入了一个显著的成长阶段。不仅模型的数量呈现出爆炸式的增长趋势，而且模型的质量也在持续提升。随着首批国产大型模型完成备案并向公众开放，这些模型正在越来越多地进入用户的视野和认知中。</p>\n<p>据最新统计数据显示，在目前的市场上，GPT系列大型模型和百度文心大型模型已经稳居第一梯队，受到了广泛的关注和应用。近半数的受访开发者表示，他们了解或使用过这两款模型，这充分证明了它们在行业内的领先地位和影响力。</p>\n<p>而阿里通义大型模型、LLaMA 2、讯飞星火大型模型、华为盘古大型模型以及智谱Chat GLM 3大型模型则构成了第二梯队。这些模型也受到了不少开发者的关注和使用，超过五分之一的受访者表示了解或使用过它们。</p>\n<p>此外，还有一批新兴的大型模型正在崭露头角，它们包括百川大型模型、Stable Video、Diffusion、昆仑万维天工大模型、360智脑大型模型、MOSS大型模型、智源悟道大型模型以及商汤科技的商量Sense Chat等，这些模型共同构成了第三梯队。<br />\n<img alt=\"\" src=\"https://static001.infoq.cn/resource/image/55/ce/5575e53dbaa486b476e629559ec0f6ce.png\" /></p>\n<blockquote>\n<p>上图数据来源：2023年12月InfoQ发起的用户调研，N=1217</p>\n</blockquote>\n<h3>测评结果</h3>\n<p>相较于2023年5月的测试结果，本次测试的整体得分率平均提升了 23.39%，各项性能均取得了明显的进步。反映大模型基础能力的认知和学习能力稳步提升，历史、地理、商业、医学、科学等领域，大模型依旧保持高水平。值得一提的是，反映大模型进阶能力的题目得分率平均提升了 35.77%；文生图、文生语音的多模态题目得分率相较于以往提高了近20倍，文心一言专业版、讯飞星火、ChatGPT-4等多项产品开始展现出强大的多模态能力，为大模型的发展开辟了更广阔的前景。</p>\n<h4>测评领域整体得分情况</h4>\n<p><img alt=\"\" src=\"https://static001.infoq.cn/resource/image/f5/1d/f58c2923170d4ea84a1a1578a0c4f21d.png\" /></p>\n<h4>与2023年5月的测评结果对比</h4>\n<p><img alt=\"\" src=\"https://static001.infoq.cn/resource/image/2a/39/2afb1a60a1d9e59c866e84e7ec1a9339.png\" /></p>\n<h4>各大语言模型测评结果</h4>\n<p>根据测试结果显示，ChatGPT-4的综合能力位居第一，文心一言专业版以82.90%的综合得分位列榜单第二名。令人惊喜的是，文心一言的得分与ChatGPT得分非常接近，仅仅落后0.42%。<br />\n<img alt=\"\" src=\"https://static001.infoq.cn/resource/image/7f/e8/7fe023feccdaaf25cab7a0f38c2751e8.png\" /></p>",
+    "publish_time": "2024-01-17 16:48:33",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "国产GTPs上线！智谱AI推出GLM-4全家桶，我们浅试了一下",
+    "url": "https://www.infoq.cn/article/y0D3pe0fW1O3dsVI1Te8",
+    "summary": "<p>1月16日，智谱AI团队全面展示了其投身于大模型事业三年多来所积累的技术成果，并重磅发布了新一代基座大模型GLM-4。</p><p>&nbsp;</p><p>根据智谱AI的介绍，GLM-4的整体性能相比上一代大幅提升，逼近GPT-4。具体包括：支持128k的上下文窗口长度，单次提示词可以处理的文本可以达到300页；在needle test（大海捞针）测试中，128K文本长度内GLM-4 模型均几乎100%的精度召回，并未出现长上下文全局信息因为失焦而导致的精度下降问题等。</p><p>&nbsp;</p><p>在多模态能力方面，我们也进行了尝试：（生成等待时间有点长，我们剪辑了下～）</p><p>&nbsp;</p><p><img src=\"https://static001.geekbang.org/infoq/f2/f2aa444e6f2ed7983a20ae7bc2ae74bc.gif\" /></p><p></p><p>&nbsp;</p><p>输入“以智谱AI发布大模型为主题，制作一张图片”，最后生成的图片如下：</p><p>&nbsp;</p><p><img src=\"https://static001.geekbang.org/infoq/47/474339c97223ee4f41984cf0e0201725.jpeg\" /></p><p></p><p>&nbsp;</p><p>想看GML-4和GPT-4对比的“数据党”，可以看如下对比：</p><p>&nbsp;</p><p>GLM-4 在 MMLU（81.5）达到 GPT-4 的94%；GSM8K（87.6） 达到 GPT-4 的95%；MATH（47.9）达到 GPT-4的 91% ；BBH （82.25） 达到 GPT-4 的99%；HellaSwag （85.4） 达到 GPT-4 的90% ；HumanEval（72）达到 GPT-4 的100% 水平。</p><p>&nbsp;</p><p><img src=\"https://static001.geekbang.org/infoq/1a/1aa473855c20c308b70c28239de7af21.jpeg\" /></p><p>&nbsp;</p><p>此外，GLMs个性化智能体定制能力同步上线。</p><p>&nbsp;</p><p>用简单的提示词指令就能创建属于自己的GLM智能体并分享：（等待时间也略长，我们剪辑了下～）</p><p>&nbsp;</p><p><img src=\"https://static001.geekbang.org/infoq/87/87752fa75046c278459988ee3be597d4.gif\" /></p><p></p><p>&nbsp;</p><p>&nbsp;想尝试的朋友可以智谱清言官网：<a href=\"https://www.chatglm.cn/\">https://www.chatglm.cn/</a>\"</p><p>&nbsp;</p><p>智谱AI CEO张鹏同时表示，GLMs模型应用商店、开发者分成计划也即将发布。</p><p>&nbsp;</p><p><img src=\"https://static001.geekbang.org/infoq/47/479f5afae5a4f64449f1ad7d44bd333a.png\" /></p><p></p><p>&nbsp;</p><p>此外，GLM-4的 All Tools 能力全新发布。</p><p>&nbsp;</p><p>基于GLM模型的Agent能力，GLM-4实现了自主根据用户意图，自动理解、规划复杂指令，自由调用网页浏览器、Code Interpreter代码解释器和文生图CogView3模型。</p><p>&nbsp;</p><p>GLM-4 通过代码解释器，会自动调用代码解释器进行复杂的方程或者微积分求解。对比GSM8K、Math以及Math23K三个数据集上的结果，GLM-4 All Tools取得和GPT-4 All Tools相当的效果。</p><p>&nbsp;</p><p>处理各种任务，比如包括文件处理、数据分析、图表绘制等复杂任务，支持处理 Excel、PDF、PPT 等格式的文件。</p><p>&nbsp;</p><p><img src=\"https://static001.geekbang.org/infoq/41/41cf5176e5cadb4c76c180657a7db8af.jpeg\" /></p><p>&nbsp;</p><p>2024年，智谱AI也将发起开源开放的大模型开源基金，该计划包括三个“一千”：智谱AI将为大模型开源社区提供一千张卡，助力开源开发；提供1000万元的现金用来支持与大模型相关的开源项目；为优秀的开源开发者提供1000亿免费API tokens。</p><p></p><p>张鹏表示，大模型开源基金的目的在于推动大模型研发的大进展，促进大模型整个开源生态的大繁荣。面对全球的大模型创业者，智谱AI也将“Z计划”进一步升级，联合生态伙伴发起总额10亿人民币的大模型创业基金用于支持大模型原始创新，覆盖大模型算法、底层算子、芯片优化、行业大模型和超级应用等方向。</p><p></p><p>已经尝试了GLM-4的小伙伴，快来说说你的使用体验呀～</p>",
+    "publish_time": "2024-01-17 17:29:45",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
