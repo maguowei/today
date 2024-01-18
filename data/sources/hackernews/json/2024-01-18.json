@@ -823,5 +823,27 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Tembo Operator: a Rust-Based Kubernetes Operator for Postgres",
+    "url": "https://tembo.io/blog/tembo-operator/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39038152\">Comments</a>",
+    "publish_time": "2024-01-18 13:11:46",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "WhisperSpeech – An open source text-to-speech system built by inverting Whisper",
+    "url": "https://github.com/collabora/WhisperSpeech",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39036796\">Comments</a>",
+    "publish_time": "2024-01-18 10:29:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
