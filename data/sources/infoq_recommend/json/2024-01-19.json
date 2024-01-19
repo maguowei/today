@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Cloudflare 的 ML 和 AI 之旅：MLOps 平台和最佳实践",
+    "url": "https://www.infoq.cn/article/g9leV67ZVXcfsyQ1Pkqr",
+    "summary": "<p>Cloudflare 的博客介绍了他们的 MLOps 平台和大规模运行人工智能（AI）部署的最佳实践。包括 WAF 攻击评分、僵尸管理和全球威胁识别在内的 Cloudflare 的产品，都依赖于不断发展的机器学习（ML）模型。这些模型在增强客户保护和支持服务方面都发挥着关键的作用。Cloudflare 在公司全网中提供 &nbsp;ML 方面取得了无与伦比的规模，突出了稳健 ML 培训方法的重要性。</p><p></p><p>Cloudflare 的 MLOps 是与数据科学家合作实施的最佳实践。通过 JupyterHub 部署在 Kubernetes 上的 Jupyter Notebooks 为数据探索和模型实验提供了可扩展的协作环境。GitOps 是 Cloudflare MLOps 战略实践的基石，利用 Git 作为管理基础架构和部署流程的单一真相源。ArgoCD &nbsp;是用于声明式 GitOps，实现了应用程序和基础架构的自动化部署和管理。</p><p></p><p>公司未来的路线图包括了迁移 JupyterHub 和 Kubeflow 等平台，后者为 Kubernetes 上的机器学习工具流平台，且在近期成为了 CNCF 的孵化项目。这一步是由为 Kubeflow 组件提供分布式配置管理的 deployKF &nbsp;项目促进。</p><p></p><p>为了协助数据科学家们使用正确工具，自信且高效地启动项目，Cloudflare 的 MLops 团队提供了模型模板，作为包含示例模型的生产就绪代码库。这些模板目前都是内部模板，但 Cloudflare 计划将其开源。这些模板所涵盖的使用案例包括：</p><p></p><p>训练模板： 为 ETL 流程、实验追踪和基于 DAG 的协调进行了配置。批推理模板： 为高效处理计划模型进行优化。流推理模型： 专为在 Kubernetes 上使用 FastAPI 进行实时推理而定制。可解释性模板： 使用 Streamlit 和 Bokeh 等工具生成 dashboard（仪表盘），用于模型的洞察。</p><p></p><p>MLOps 平台的另一项重要任务是高效地协调 ML 工作流，Cloudflare 根据团队偏好和用例采用了各种协调工具：</p><p></p><p>Apache Airflow：一个标准的 DAG 组成其，拥有丰富的社区支持。Argo 工作流：以 Kubernetes 原生形式协调微服务类型工作流。Kubeflow 管道：专为 ML 工作流定制，强调协调和版本管理。Temporal：专注于事件驱动型应用的有状态工作流。</p><p></p><p>性能的优化需要对工作流的理解和对硬件相应的调整。Cloudflare 强调核心数据中心在工作负载和边缘推理方面的 GPU 利用率，利用普罗米修斯（Prometheus）所提供的指标进行观察和优化。Cloudflare 的成功应用包括了对 ML 流程的简化、管道标准化，以及向缺乏数据科学专业知识的团队介绍项目。</p><p></p><p>公司的愿景是一个数据科学可以在企业中发挥重要作用的未来，这也是 Cloudflare 投资于人工智能基础设施并与 Meta 等其他公司合作的原因，其中包括在 Cloudflare 平台上向全球提供 LLama2。</p><p></p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2023/12/cloudflare-mlops-platform/\">https://www.infoq.com/news/2023/12/cloudflare-mlops-platform/</a>\"</p><p></p><p></p><p></p><p></p><p></p>",
+    "publish_time": "2024-01-19 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
