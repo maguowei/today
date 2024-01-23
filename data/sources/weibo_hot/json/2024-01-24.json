@@ -583,5 +583,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "中国中医药大会",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B8%AD%E5%8C%BB%E8%8D%AF%E5%A4%A7%E4%BC%9A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "腾讯音乐榜2023年度榜单",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E9%9F%B3%E4%B9%90%E6%A6%9C2023%E5%B9%B4%E5%BA%A6%E6%A6%9C%E5%8D%95%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
