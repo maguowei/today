@@ -1306,5 +1306,140 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "女子列车吧唧嘴3小时大爷崩溃",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%88%97%E8%BD%A6%E5%90%A7%E5%94%A7%E5%98%B43%E5%B0%8F%E6%97%B6%E5%A4%A7%E7%88%B7%E5%B4%A9%E6%BA%83%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "现在混动技术和混动车型越来越多，如何才能选到真正的好混动车？",
+    "url": "https://www.zhihu.com/question/640938677",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "你花过最大一笔冤枉钱是多少？",
+    "url": "https://www.zhihu.com/question/370003885",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "大家在《原神》里有喜欢的人气不高的角色吗？",
+    "url": "https://www.zhihu.com/question/640844597",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Show HN: Lumos, a Local LLM Chrome Extension",
+    "url": "https://github.com/andrewnguonly/Lumos",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39132766\">Comments</a>",
+    "publish_time": "2024-01-26 02:24:40",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The lithium revolution has arrived at California's Salton Sea",
+    "url": "https://www.latimes.com/environment/newsletter/2024-01-25/column-the-lithium-revolution-has-arrived-at-californias-salton-sea-boiling-point",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39133338\">Comments</a>",
+    "publish_time": "2024-01-26 02:54:48",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ex-sheriff's deputy behind SF jail 'fight club' scandal to be rehired",
+    "url": "https://missionlocal.org/2024/01/sf-rehire-ex-sheriffs-deputy-fight-club-scandal/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39134046\">Comments</a>",
+    "publish_time": "2024-01-26 03:35:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The new architecture wars",
+    "url": "https://aeon.co/essays/the-architectural-style-wars-have-started-all-over-again",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39133573\">Comments</a>",
+    "publish_time": "2024-01-26 03:07:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Two New Reasoning Methods from Google Research: COSP and USP",
+    "url": "https://thesequence.substack.com/p/about-cosp-and-usp-two-new-llm-reasoning",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39133628\">Comments</a>",
+    "publish_time": "2024-01-26 03:10:07",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Universal Self-Adaptive Prompting",
+    "url": "https://arxiv.org/abs/2305.14926",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39133608\">Comments</a>",
+    "publish_time": "2024-01-26 03:09:05",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "CRDTs Turned Inside Out",
+    "url": "https://interjectedfuture.com/crdts-turned-inside-out/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39130945\">Comments</a>",
+    "publish_time": "2024-01-26 00:00:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "CVE-2023-40547 – avoid incorrectly trusting HTTP headers",
+    "url": "https://github.com/rhboot/shim/commit/0226b56513b2b8bd5fd281bce77c40c9bf07c66d",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39132300\">Comments</a>",
+    "publish_time": "2024-01-26 01:49:14",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "New embedding models and API updates",
+    "url": "https://openai.com/blog/new-embedding-models-and-api-updates",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39132901\">Comments</a>",
+    "publish_time": "2024-01-26 02:33:05",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
