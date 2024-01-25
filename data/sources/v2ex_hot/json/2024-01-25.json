@@ -75,5 +75,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "Firefox 的没落的根本原因?",
+    "url": "https://www.v2ex.com/t/1011474",
+    "summary": "jeesk: <ol>\n<li>不注重移动端, 比如 firefox 不能像 chrome 一样直接在浏览器调试手机网页, 总之就是不重视移动端. (scrcpy h 都可以看到手机镜像)</li>\n<li>推出了 geckoView, 一款可以替代 WebView 的产品,却几乎没有开源组织使用.</li>\n</ol>\n<p>说说你们的看法?</p>\n<p>百度没落的根本原因也是因为不注重移动端, 几乎失去了移动段的市场.</p>",
+    "publish_time": "2024-01-25 14:46:57",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
