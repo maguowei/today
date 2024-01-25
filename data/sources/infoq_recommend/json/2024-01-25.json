@@ -9,5 +9,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "AutoML时代：领英工程师如何缩短模型训练时间",
+    "url": "https://www.infoq.cn/article/t6emhCPvboDkkt6pIxbh",
+    "summary": "<p>领英工程师 Shubham Agarwal 及 Rishi Gupta 解释道，为协助发现并移除违反其标准政策的内容，领英一直在使用自研的 AutoML 框架，该框架可以并行地训练分类器且试验多个模型架构。</p><p></p><p></p><blockquote>我们使用 AutoML 不断重新训练已有模型，将训练所需时间从数月缩短到数天，并减少开发新基线模型所需时间。这也让我们能积极主动地应对新出现的对抗性威胁。</blockquote><p></p><p></p><p>内容审核的关键之一在于持续的执行和调整，以应对规避审核的新手段，除此之外还必须要能适应环境的变化。这些变化包括：数据漂移，即平台上发布的内容会随着对话的进行发生固有变化；全球事件，这类事件往往会在讨论中出现并产生不同观点，其中常充斥着错误信息；对抗性威胁，其中包括欺诈和欺瞒行为，如伪造档案、实施诈骗等。</p><p></p><p>为应对上述挑战，领英采用的方法目标为“主动检测”，该方法需要一个不断调整和发展其 ML 模型和系统的过程。AutoML 是领英内部研发的工具，全称为自动化机器学习（Automated Machine Learning），用于，通过不断在新数据上重新训练模型、使用假负和假正等数据修正模型、微调参数方式提升机器学习性能。</p><p></p><p></p><blockquote>通过 AutoML，我们得以将过去冗长且复杂的流程转变为精简又高效的流程……在实现 AutoML 后，我们开发新基线模型和持续性重新训练已有模型的平均所需时间从两个月缩短直不到一周。</blockquote><p></p><p></p><p>通过 AutoML，领英工程师实现了数据准备和特征转换过程的自动化，其中包括降噪、降维和特征工程，意在创建用于分类器训练的高质量训练数据集。</p><p></p><p>在第二阶段，AutoML 通过搜索一系列超参数和优化方式，对比不同分类器架构在一组已定的评估指标下生成的模型性能。</p><p></p><p>最后，AutoML 将新完成训练的模型供给生产服务器，实现部署过程的自动化。</p><p></p><p>Agarwal 和 Gupta 认为这套工具仍有一些方面不太成熟，具体来说是需要提高速度和效率，使其能够在更大范围内应用，最终提高对计算能力的要求。他们称，另一个颇具前景的领域是使用生成式 AI，减少标签噪声并生成用于模型训练的合成数据，从而提高数据集质量，</p><p></p><p>虽然并不是所有的组织都有领英的运营规模，或者能拥有自研 ML 自动化工具的资源，但 Agarwal 和 Gupta 所描述的方式仍可在小规模范围内进行复制，从而减轻机器学习工程师与重新训练已有模型相关的重复性工作量。</p><p></p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2024/01/linkedin-automl-content-filter/\">https://www.infoq.com/news/2024/01/linkedin-automl-content-filter/</a>\"</p><p></p><p></p><p></p><p></p>",
+    "publish_time": "2024-01-25 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
