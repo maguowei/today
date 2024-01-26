@@ -31,5 +31,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "为何不选 Hibernate,非要 MyBatis？",
+    "url": "https://www.v2ex.com/t/1011737",
+    "summary": "dc2002007: <p>###一直不能理解 Hibernate 这么优秀的 orm 思想框架，为什么这么多项目还选择了在 xml 里写 sql 的 MyBatis ，求解惑？</p>\n<h5>当然我首先是不能接受在 xml 里写 sql 这种行为的！</h5>\n<h5>orm 不够优秀吗？</h5>\n<ul>\n<li>当然我知道，这个帖子一旦发出去，必定是会遭到嘲讽了，这个我已经做好了心理预期了</li>\n</ul>",
+    "publish_time": "2024-01-26 11:15:02",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
