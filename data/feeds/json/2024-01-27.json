@@ -1243,5 +1243,129 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "总书记心系文旅发展",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BF%83%E7%B3%BB%E6%96%87%E6%97%85%E5%8F%91%E5%B1%95%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "丽江市地震局回应当地居民称有震感",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BD%E6%B1%9F%E5%B8%82%E5%9C%B0%E9%9C%87%E5%B1%80%E5%9B%9E%E5%BA%94%E5%BD%93%E5%9C%B0%E5%B1%85%E6%B0%91%E7%A7%B0%E6%9C%89%E9%9C%87%E6%84%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "我想和你唱5开播",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E6%83%B3%E5%92%8C%E4%BD%A0%E5%94%B15%E5%BC%80%E6%92%AD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "有哪些适合作为礼物、能代表心意的口红？",
+    "url": "https://www.zhihu.com/question/636873494",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "X Fights 'Genshin Impact' Subpoena, Defends Alleged Leakers' \"Anonymous Speech\"",
+    "url": "https://torrentfreak.com/x-corp-fights-genshin-impact-subpoena-defends-alleged-leakers-anonymous-speech-240123/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39145124\">Comments</a>",
+    "publish_time": "2024-01-27 01:23:17",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The real 30 under 30 imo you have never heard of",
+    "url": "https://twitter.com/karpathy/status/1748816969858720232",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39146177\">Comments</a>",
+    "publish_time": "2024-01-27 02:36:35",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The blogger who spotted problems in Dana-Farber cancer papers",
+    "url": "https://www.nature.com/articles/d41586-024-00202-9",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39145728\">Comments</a>",
+    "publish_time": "2024-01-27 02:06:33",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "We've Forgotten How to Use Computers",
+    "url": "https://www.theatlantic.com/technology/archive/2024/01/computer-mouse-evolution-trackpad/677228/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39145632\">Comments</a>",
+    "publish_time": "2024-01-27 02:01:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "US agencies warn companies: Don’t delete Slack or Signal chats",
+    "url": "https://news.bloomberglaw.com/antitrust/dont-delete-slack-or-signal-chats-us-agencies-warn-companies",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39145252\">Comments</a>",
+    "publish_time": "2024-01-27 01:33:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Tweets to Citations: The Impact of Social Media Influencers on AI Research",
+    "url": "https://arxiv.org/abs/2401.13782",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39144845\">Comments</a>",
+    "publish_time": "2024-01-27 00:57:45",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: PHP API Bindings for Open Brewery DB",
+    "url": "https://github.com/JoeyMckenzie/openbrewerydb-php-api",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39145901\">Comments</a>",
+    "publish_time": "2024-01-27 02:18:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Google's Bard shows big leap on LLM performance leaderboard",
+    "url": "https://twitter.com/lmsysorg/status/1750921228012122526",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39145664\">Comments</a>",
+    "publish_time": "2024-01-27 02:03:12",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
