@@ -916,5 +916,74 @@
       "desc": "知乎热榜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
     }
+  },
+  {
+    "title": "德克萨斯",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%85%8B%E8%90%A8%E6%96%AF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "网友吐槽23岁就被迫加入催婚的队伍",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD23%E5%B2%81%E5%B0%B1%E8%A2%AB%E8%BF%AB%E5%8A%A0%E5%85%A5%E5%82%AC%E5%A9%9A%E7%9A%84%E9%98%9F%E4%BC%8D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "闫妮女儿 张小斐",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%97%AB%E5%A6%AE%E5%A5%B3%E5%84%BF+%E5%BC%A0%E5%B0%8F%E6%96%90%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "不开心的时候，你喜欢做什么呢？",
+    "url": "https://www.zhihu.com/question/639484843",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Scale of methane leaks from fossil fuel production and landfills exposed",
+    "url": "https://news.sky.com/story/vast-scale-of-methane-leaks-from-fossil-fuel-production-and-landfill-sites-exposed-13023354",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39156738\">Comments</a>",
+    "publish_time": "2024-01-28 00:16:17",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Vectorizing Unicode conversions on real RISC-V hardware",
+    "url": "https://camel-cdr.github.io/rvv-bench-results/articles/vector-utf.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39157061\">Comments</a>",
+    "publish_time": "2024-01-28 00:44:41",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Source of Europe's Mild Climate",
+    "url": "https://www.americanscientist.org/article/the-source-of-europes-mild-climate",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39156692\">Comments</a>",
+    "publish_time": "2024-01-28 00:11:00",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
