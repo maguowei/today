@@ -31,5 +31,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "C++ 如何在函数中获取作为参数的数组的长度？",
+    "url": "https://www.v2ex.com/t/1012152",
+    "summary": "rabbbit: <p>除了传个长度参数进去还有别的办法吗？</p>\n<pre><code>#include &lt;iostream&gt;\nusing namespace std;\n\nvoid f(int nums[]) \n{\ncout &lt;&lt; sizeof(nums) &lt;&lt; endl;\n}\n\nint main()\n{\nint nums[5] = {1,2,3,4,5};\nf(nums);\nreturn (0);\n}\n</code></pre>",
+    "publish_time": "2024-01-28 10:55:18",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
