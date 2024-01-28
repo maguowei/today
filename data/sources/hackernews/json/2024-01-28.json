@@ -834,5 +834,27 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Hacker Newsy: a pretty Hacker News client",
+    "url": "https://github.com/cotyhamilton/hacker-newsy",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39164612\">Comments</a>",
+    "publish_time": "2024-01-28 19:26:11",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Rowhammer Resistant Coding in Sudo",
+    "url": "https://github.com/sudo-project/sudo/commit/7873f8334c8d31031f8cfa83bd97ac6029309e4f",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39165342\">Comments</a>",
+    "publish_time": "2024-01-28 21:09:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
