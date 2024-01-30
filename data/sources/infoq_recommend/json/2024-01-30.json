@@ -20,5 +20,27 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "Neuralink完成全球首例人类脑机芯片植入手术，马斯克：植入者恢复良好",
+    "url": "https://www.infoq.cn/article/w7ks2bB2Gc31qgrt3pXB",
+    "summary": "<p>1月30日，脑机接口公司Neuralink创始人埃隆·马斯克在X（Twitter）上宣布：在昨天，人类首次接受脑机接口（Neuralink）芯片植入，植入者恢复良好。马斯克在随后的帖子中表示，Neuralink的第一款产品名为“心灵感应”。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/3a/3a4d210f40b261d175830b696a7a9c12.png\" /></p><p></p><p><img src=\"https://static001.geekbang.org/infoq/97/97165c85614dbc3f3355c3a7c5dc1383.png\" /></p><p></p><p>&nbsp;</p><p>资料显示，Neuralink由马斯克和其他一群科学家和工程师于 2016 年创立。它致力于开发脑机接口 (BCI)，将人脑连接到能够破译神经信号的计算机，旨在帮助严重瘫痪的患者仅使用神经信号来控制外部技术。马斯克称，Neuralink 的设备可以实现“超人认知”，使瘫痪的人有一天能够用他们的思想操作智能手机或机器人肢体，并“解决”自闭症和精神分裂症。</p><p>&nbsp;</p><p>如果这项技术功能正常，患有严重退行性疾病(如ALS)的患者有一天可以使用植入物通过移动光标和用大脑打字来交流或访问社交媒体。马斯克写道：“想象一下，如果斯蒂芬·霍金的沟通速度比打字员或拍卖师还快。”“这就是我们的目标。”</p><p>&nbsp;</p><p>2022 年11月30日，马斯克曾在 Neuralink 发布会上展示了一只头骨上装有电脑芯片的猴子“Sake”，在玩心灵感应视频游戏，并要到了葡萄零食的镜头。猴子“Sake”通过屏幕和脑里植入的 Neuralink 的 N1 设备，来追踪屏幕上的移动光标，拼出了“Can I please have snacks”的英文短句，全程和键盘没有物理接触。</p><p>&nbsp;</p><p>马斯克说，猴子其实不会拼写，它们只是将大脑信号转化为光标移动，迭代到下一个版本才能让猴子具备拼写能力。马斯克还在演讲中表示，Neuralink 还将致力于恢复视力。“即使有人从未有过视力，他们先天就失明了，我们相信我们的设备仍然可以帮助其恢复视力”。</p><p>&nbsp;</p><p>当时，Neuralink 还未获得美国食品和药物管理局（FDA）的批准，因此一直在在对动物进行测试。马斯克说：“我们希望非常小心，并确保它在将设备放入人体之前能正常工作。”</p><p>&nbsp;</p><p>马斯克还表示，在人体测试开始后，他将在自己的大脑中植入脑机接口设备。“你可能现在就植入了一个 Neuralink 设备，而你甚至都不知道……在（未来）其中一个演示中，我会的” 他说。活动结束后，他在推特上重申了这一点。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/cf/cf414be80d775a1718eb6f6c6fca114b.png\" /></p><p></p><p>2023年5月，Neuralink获得美国食品和药物管理局(FDA)批准。9月19日，Neuralink宣布，该公司已获得了独立机构审查委员会的批准，开始首次人体临床试验招募人员。Neuralink表示，因颈部脊髓损伤或肌萎缩侧索硬化症（ALS）而瘫痪的患者可能符合参加这项试验的条件。</p><p>&nbsp;</p><p>Neuralink没有透露将有多少人类患者参与其最初的人体试验。据悉，人体临床试验只是Neuralink走向商业化道路上的一步。去年的融资情况显示，Neuralink的估值已高达50亿美元（约合人民币359亿元）。</p><p>&nbsp;</p><p>参考链接：</p><p><a href=\"https://www.cnbc.com/2024/01/29/elon-musks-neuralink-implants-brain-tech-in-human-patient-for-the-first-time.html\">https://www.cnbc.com/2024/01/29/elon-musks-neuralink-implants-brain-tech-in-human-patient-for-the-first-time.html</a>\"</p><p><a href=\"https://www.infoq.cn/article/6s4aDChIwYEOjVH62lGa\">https://www.infoq.cn/article/6s4aDChIwYEOjVH62lGa</a>\"</p>",
+    "publish_time": "2024-01-30 11:19:06",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "百度大模型驱动下的智能代码助手提效实践",
+    "url": "https://www.infoq.cn/article/biw3d0tLbjlQXkyyHwBV",
+    "summary": "<p>Qcon上海站百度工程效能部资深研发工程师李杨坐镇，分享介绍百度大模型在智能代码助手领域的实现和落地场景。</p>\n<p>听众收益点：</p>\n<p>1.AIGC大潮下，帮助软件工程师们知道如何利用工具来进化自己<br />\n2.帮助大家了解工程师们如何用代码生成产品来提升自己的开发效率<br />\n3.了解百度代码生成工具Comate是怎么实现的，除了大模型本身，工程化方面的优化措施</p>",
+    "publish_time": "2024-01-30 11:50:44",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
