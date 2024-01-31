@@ -3938,5 +3938,556 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "习近平接受外国新任驻华大使递交国书",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8E%A5%E5%8F%97%E5%A4%96%E5%9B%BD%E6%96%B0%E4%BB%BB%E9%A9%BB%E5%8D%8E%E5%A4%A7%E4%BD%BF%E9%80%92%E4%BA%A4%E5%9B%BD%E4%B9%A6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "张波叶诚尘微信聊天记录",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%B3%A2%E5%8F%B6%E8%AF%9A%E5%B0%98%E5%BE%AE%E4%BF%A1%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "美甲 排队",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%94%B2+%E6%8E%92%E9%98%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "张波叶诚尘共同犯罪均系主犯",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%B3%A2%E5%8F%B6%E8%AF%9A%E5%B0%98%E5%85%B1%E5%90%8C%E7%8A%AF%E7%BD%AA%E5%9D%87%E7%B3%BB%E4%B8%BB%E7%8A%AF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "过年月嫂要求给三倍工资",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%87%E5%B9%B4%E6%9C%88%E5%AB%82%E8%A6%81%E6%B1%82%E7%BB%99%E4%B8%89%E5%80%8D%E5%B7%A5%E8%B5%84%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "晚晚带货",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%99%9A%E6%99%9A%E5%B8%A6%E8%B4%A7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "以军装妇女扮医生潜入医院射杀3人",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%86%9B%E8%A3%85%E5%A6%87%E5%A5%B3%E6%89%AE%E5%8C%BB%E7%94%9F%E6%BD%9C%E5%85%A5%E5%8C%BB%E9%99%A2%E5%B0%84%E6%9D%803%E4%BA%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "英雄联盟抖音全面开播",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E6%8A%96%E9%9F%B3%E5%85%A8%E9%9D%A2%E5%BC%80%E6%92%AD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "英雄联盟",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "浙江发现H3N2与H10N5混合感染病例",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E5%8F%91%E7%8E%B0H3N2%E4%B8%8EH10N5%E6%B7%B7%E5%90%88%E6%84%9F%E6%9F%93%E7%97%85%E4%BE%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "拜登被曝在寻求泰勒斯威夫特支持",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E8%A2%AB%E6%9B%9D%E5%9C%A8%E5%AF%BB%E6%B1%82%E6%B3%B0%E5%8B%92%E6%96%AF%E5%A8%81%E5%A4%AB%E7%89%B9%E6%94%AF%E6%8C%81%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "裴珠泫模仿韩素希咬笔盖",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%A3%B4%E7%8F%A0%E6%B3%AB%E6%A8%A1%E4%BB%BF%E9%9F%A9%E7%B4%A0%E5%B8%8C%E5%92%AC%E7%AC%94%E7%9B%96%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "对方及时撤回了一双鞋",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AF%B9%E6%96%B9%E5%8F%8A%E6%97%B6%E6%92%A4%E5%9B%9E%E4%BA%86%E4%B8%80%E5%8F%8C%E9%9E%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "国台办回应台湾民众热议电视剧繁花",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%BC%97%E7%83%AD%E8%AE%AE%E7%94%B5%E8%A7%86%E5%89%A7%E7%B9%81%E8%8A%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "科学家发现鼻后有个大脑污水系统",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%8F%91%E7%8E%B0%E9%BC%BB%E5%90%8E%E6%9C%89%E4%B8%AA%E5%A4%A7%E8%84%91%E6%B1%A1%E6%B0%B4%E7%B3%BB%E7%BB%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "咒术回战 乙骨忧太领域",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%92%92%E6%9C%AF%E5%9B%9E%E6%88%98+%E4%B9%99%E9%AA%A8%E5%BF%A7%E5%A4%AA%E9%A2%86%E5%9F%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "攻击嗓子的新病毒来了吗",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%94%BB%E5%87%BB%E5%97%93%E5%AD%90%E7%9A%84%E6%96%B0%E7%97%85%E6%AF%92%E6%9D%A5%E4%BA%86%E5%90%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "韩安冉长文回应发火",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%AE%89%E5%86%89%E9%95%BF%E6%96%87%E5%9B%9E%E5%BA%94%E5%8F%91%E7%81%AB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "电竞选手在线送开心龙宝",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%B5%E7%AB%9E%E9%80%89%E6%89%8B%E5%9C%A8%E7%BA%BF%E9%80%81%E5%BC%80%E5%BF%83%E9%BE%99%E5%AE%9D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "你好星期六",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "沈星回 斯哈斯哈",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%98%9F%E5%9B%9E+%E6%96%AF%E5%93%88%E6%96%AF%E5%93%88%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "波比跳 公认的燃脂运动",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B3%A2%E6%AF%94%E8%B7%B3+%E5%85%AC%E8%AE%A4%E7%9A%84%E7%87%83%E8%84%82%E8%BF%90%E5%8A%A8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "「重庆姐弟坠亡案」被告人张波、叶诚尘被执行死刑，哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/642126655",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "俄罗斯正与金砖国家讨论新的结算系统，外交部回应「支持有关机制的努力」，哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/641996476",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "23-24 赛季 NBA湖人 122:138 老鹰，如何评价这场比赛？",
+    "url": "https://www.zhihu.com/question/642104862",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "《水浒传》中林冲为什么被称作豹子头？",
+    "url": "https://www.zhihu.com/question/558652769",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价《海贼王》1106话？",
+    "url": "https://www.zhihu.com/question/641946764",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "有没有一种炸货，你吃到后就感觉「要过年了」？",
+    "url": "https://www.zhihu.com/question/639053124",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如果不是发自内心的喜欢运动，真的很难坚持下来吗？",
+    "url": "https://www.zhihu.com/question/641790814",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "那些皮肤很好的人，到底做对了什么？",
+    "url": "https://www.zhihu.com/question/639595107",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "你还记得你第一份工作的工资是多少吗？",
+    "url": "https://www.zhihu.com/question/641980956",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "敏感肌美白，需要注意什么？",
+    "url": "https://www.zhihu.com/question/633165445",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "冬季敏感肌有哪些可用的抗老护肤品？",
+    "url": "https://www.zhihu.com/question/637633399",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "铲屎官有什么办法，能尽量让家里的猫咪减轻孤单感？",
+    "url": "https://www.zhihu.com/question/639759431",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么《庆余年》的影视化大获成功？",
+    "url": "https://www.zhihu.com/question/638496086",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "养鱼人，对鱼是有感情的吗？",
+    "url": "https://www.zhihu.com/question/639925888",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "涨你一倍工资，但禁止你工作，你愿意吗？",
+    "url": "https://www.zhihu.com/question/640502310",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何看待「没有导师，研究生就什么也不是」的说法？",
+    "url": "https://www.zhihu.com/question/641659016",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "滴滴：春运打车需求预计上涨40%",
+    "url": "https://www.36kr.com/newsflashes/2628022446079106",
+    "summary": "36氪获悉，滴滴出行数据显示，相比2019年同期，今年春运开启以来打车需求上涨了65%。预计整个春运期间（1月26日-3月5日），滴滴打车需求相比2019年同期上涨约40%，其中异地打车需求上涨约50%。",
+    "publish_time": "2024-01-31 12:08:36",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "绿皮书：去年我国家庭人均旅游花费4984元",
+    "url": "https://www.36kr.com/newsflashes/2628023724145796",
+    "summary": "中国社会科学院财经战略研究院、中国社会科学院旅游研究中心与社会科学文献出版社共同发布《旅游绿皮书：2023-2024年中国旅游发展分析与预测》。绿皮书指出，2023年我国家庭人均旅游花费为4984元，旅游消费增加以“住”“吃”为核心。（澎湃）",
+    "publish_time": "2024-01-31 12:15:52",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "猿辅导在深圳成立科技新公司",
+    "url": "https://www.36kr.com/newsflashes/2628024149065993",
+    "summary": "36氪获悉，爱企查App显示，近日，猿创未来（深圳）科技有限公司成立，法定代表人为李翊，注册资本1000万元，经营范围包括技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广、教育咨询服务等。股东信息显示，该公司由北京猿力科技有限公司全资持股。",
+    "publish_time": "2024-01-31 12:23:18",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "开心汽车宣布获得千台新能源车辆出口意向订单",
+    "url": "https://www.36kr.com/newsflashes/2628026055000326",
+    "summary": "36氪获悉，开心汽车宣布和缅甸新力量汽车有限公司正式达成1000台新能源汽车出口意向订单，合作模式为SKD模式出口车辆，首批100辆新能源汽车将于近期发往缅甸市场。同时，开心汽车还获得缅甸新力量为期5年的海外授权，作为其在中国境内整车和SKD模式出口的战略合作商。",
+    "publish_time": "2024-01-31 12:30:15",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "今日电池级碳酸锂价格较上次持平，均价报9.75万元/吨",
+    "url": "https://www.36kr.com/newsflashes/2628036386930951",
+    "summary": "上海钢联发布数据显示，今日电池级碳酸锂价格较上次持平，均价报9.75万元/吨。（财联社）",
+    "publish_time": "2024-01-31 12:36:45",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "2023胡润世界500强：OpenAI首上榜，隆基绿能跌出榜单",
+    "url": "https://www.36kr.com/newsflashes/2628038168510720",
+    "summary": "胡润研究院31日发布《2023胡润世界500强》，OpenAI以500亿美元的价值首次上榜；太阳能电池板制造商隆基绿能、爱尔眼科、顺丰控股、牧原食品等跌出榜单。榜单显示，排在前五位的分别是：苹果、微软、Alphabet、亚马逊、英伟达。这“五大”总价值66万亿元，过去一年增加15万亿元。Meta Platforms升至第6位，价值达到5.9万亿元，增长一倍多。（中新经纬）",
+    "publish_time": "2024-01-31 12:42:31",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "中汽协：2023年中国品牌乘用车市场份额持续稳超50%",
+    "url": "https://www.36kr.com/newsflashes/2628047757558018",
+    "summary": "36氪获悉，据中国汽车工业协会统计分析，2023年12月，中国品牌乘用车销量161.9万辆，同比增长25.9%，市场份额为58%，上升1.2个百分点。2023年，中国品牌乘用车销量1459.6万辆，同比增长24.1%，市场份额为56%，上升6.1个百分点。",
+    "publish_time": "2024-01-31 12:48:20",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "广汽ADiGO PILOT智能驾驶开启全场景道路测试",
+    "url": "https://www.36kr.com/newsflashes/2628057145605248",
+    "summary": "36氪获悉，近日，广汽ADiGO PILOT智能驾驶开启了全场景道路测试。据介绍，此次测试在行业内率先实现了以TJP交通拥堵领航为代表的L3自动驾驶、以NDA智能领航辅助为代表的L2++领航辅助驾驶等多个复杂功能的无缝衔接。",
+    "publish_time": "2024-01-31 12:54:48",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "片仔癀：预计一季度可实现归属于上市公司股东的净利润同比增长不低于25%",
+    "url": "https://www.36kr.com/newsflashes/2628080521837702",
+    "summary": "36氪获悉，片仔癀发布公告，2024年开年期间，公司产品销售势头向好，市场呈现旺销态势，顺利实现了“开门红”。经公司初步核算，预计2024年第一季度，公司可实现归属于上市公司股东的净利润同比增长不低于25%。",
+    "publish_time": "2024-01-31 13:01:45",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "发现Rust：从开发者角度谈编程之美（二）",
+    "url": "https://www.infoq.cn/article/uC8FifDN5d3mAE8hD3Tu",
+    "summary": "<p></p><blockquote>本文是“发现Rust”系列第二篇，第一篇参见：<a href=\"https://www.infoq.cn/article/azPrGf6BilmpD9RzeHpo\">《发现 Rust：从项目化角度谈效率之变（一）》</a>\"</blockquote><p></p><p></p><h2>1、前言</h2><p></p><p></p><p>Rust作为一种安全的系统语言，将语言层面的语义约束与编译器自动化推导深度结合，实现了更加严谨的编程风格和更加安全的编程方式。从Linux 6.1内核正式合入Rust支持开始，它与Linux内核的深度融合就再也不是悬念，未来的发展充满想象。</p><p></p><p>对于开发者，从传统语言切换到Rust语言，需要一定的心理准备和思维方式转换。但这并不是多么高的门槛，关键在于对于编程技术发展趋势的理解和对Rust所倡导的编程理念的接纳。一旦接受和开始使用Rust，你会发现一切门槛都不存在。我自己的感受是，一旦开始使用Rust进行编程，完成第一个项目后，就会无法逆转地喜欢上它，再也回不到传统的编程语言。</p><p></p><h2>2、体验</h2><p></p><p></p><p>我使用过很多种编程语言，其中最熟悉的应该是C语言。我从传统语言切换到Rust语言的过程，应该算是成功的。因为通过使用Rust我超预期地达成了项目目标，更重要的是在这个过程中我喜欢上了使用Rust进行开发，甚至希望参与到Rust本身的演进发展中。</p><p></p><h4>2.1.独一无二的Rust</h4><p></p><p></p><p>如果对于Rust带来的未来缺乏了解，那么很难对使用Rust产生多少兴趣。安全编程所需要解决的问题，Rust还在不断完善中，但是更加严谨的编程的理念已经不可阻挡。Rust本身能够发展到什么程度？它是否可能被更好的语言和编译器取代？我不知道。但是，Rust目前是独一无二的。</p><p></p><p>Rust更深地剖析了编程安全性的本质，并在语言层面提供了工具。内存安全和线程安全问题的本质，是数据对象的生命周期和所有权问题。内存回收和锁是在运行时解决这两个问题的方法。内存回收和锁的长期使用，给这两个问题蒙上一层迷雾，似乎他们就是运行时问题。但Rust挥开了这层迷雾，开创性的把这两个问题从运行时放到了语言层面解决。从而使编程语言迈进了一大步。</p><p></p><p>在语言设计进步的基础上，Rust的编译器设计有很大的不同，它可以完成更多的推导工作，使得很多编程错误可以在编译阶段被发现。这也是一个很大的进步，编译器有了进行推导的基础，使编译器的能力得到了释放，可以承担更多的逻辑分析、安全检查工作。这使Rust成为一种安全的编程语言。</p><p></p><p>另外，由于大部分的软件问题和所有的编码问题在编译阶段就已经被发现，这大大降低了调试的难度。本项目目前不涉及多线程处理，仅仅是单线程的前端解释器。因为不涉及更复杂的多线程处理，所以本项目开发过程中的所有问题，基本都是在编译阶段被发现和解决，除了极个别的在调用C语言库的时候，由于不熟悉FFI，在处理字符串的unsafe代码时，由于对规则细节了解不全导致的问题之外。整体的感受是，Rust编写的程序只要编译通过，就是可以正确运行，名副其实的安全语言。对于一个长期使用C语言开发，习惯于化大量时间debug的开发者来说，这是一个非常特别的体验。使我对于“零”调试的开发方式，充满了期待，我觉得这个可能就是未来。</p><p></p><h4>2.2.改变思维习惯</h4><p></p><p></p><p>传统开发中，我们大量的时间花费在调试各种Bug中，这带来低效、糟糕的体验，以及研发和测试的矛盾。但是Rust全然不同，Rust语言的表达能力很完善，同时Rust的编译器足够强大。大多数原本在调试阶段才能发现和处理的问题，在使用Rust的开过程发中，都提前到了编译阶段，这无疑是一大进步。</p><p></p><p>诚然Rust带来了进步，但Rust也全然不同于以往的编程语言，需要开发人员也做出相应的改变。</p><p></p><p>编程是一个交互行为，是人与机器之间的交互，是使机器的表现和人的期望达成一致的过程。人与机器的行为的伦理差异在于，机器的行为都是固定的、被设计的，效率也是固定的、受限的。而人的行为则更复杂，有波峰有波谷，有偏差有创新。人的行为整体取决于期望，但行为过程和效率取决于更多复杂的因素。对于编程行为来说，编程体验对于效率和结果的影响很大。</p><p></p><p>心理学家认为，成就感是主体心中的愿望和眼前的现实达到平衡时，产生的一种心理感受。编程行为中，成就感来源于机器反馈的结果，如果机器反馈符合预期，则很有成就感。编程过程中，是否能够高效地达成预期，决定了编程体验的好坏。</p><p></p><p>但高效这个词是模糊的，因人而异，跟习惯强相关。在传统的C语言编程中，由于C语言的自由、低约束和命令式，开发者更倾向于快速编写完成主要流程，尽快让程序运行起来，然后再解决其他问题。因此C语言的开发过程中，编码部分是简约的、不断被压缩的，而调试部分则拉得很长。相信大家体验过，开始的时候疯狂码代码，等程序运行起来就觉得很放松，然后转而进行反反复复修修补补的调试过程。前一阶段看似高效，但是遗留下很多问题，整个开发过程效率、质量其实是不高的。从开发体验来说，前一段像打了鸡血，后一段被BUG按在地上摩擦，整体感受也是很差的。</p><p></p><p>这样的开发过程比较符合“习惯”，因为每个人都希望尽快的看到结果，但这种模式是不科学的，因为前一阶段遗留的问题在后面的阶段是很难弥补，调试BUG的过程更谈不上享受，很容易遗漏BUG。</p><p></p><p>在Rust中这一切则恰恰相反，更加科学、严谨，但是不太符合“习惯”。所以需要开发者打破固有习惯，才能发现Rust之美。在Rust中，不仅需要开发者在逻辑层面清晰、完整、无漏地表述，还需要在语义层面明确借用和生命周期等约束。也就是说，在编码阶段不仅要大致表述清楚需要机器做什么，还需要表述清楚细节。</p><p></p><p>Rust更加适合希望严谨、准确表达想法的人，在编译阶段之前解决逻辑和编程问题，从而避免低效重复的调试过程。</p><p></p><p>打个极端点的比喻，使用Rust编写软件就像在写一部逻辑严密、环环相扣的推理小说，整个过程连贯一致、恰到好处；而用C语言则像在编写Tweet，快速直接，不断补充、修正。</p><p></p><p>从我的体验来说，Rust程序只要编译通过就一定是正确的，唯一的例外情况出现在与C语言的unsafe边界上，而这些边界以后随着Rust原生库的丰富，会逐渐消除。因此，Rust编程的重心在设计和编码上，调试的重要性大大降低。因此我们需要改变急于使程序运行起来，通过调试来修补程序的习惯，而应该在编码阶段更加严谨、细致，把大量花在与调试器交互的时间，花在与提示器和编译器上的交互上。</p><p></p><p>改变思维习惯，在编程发展历程中，并不是第一次发生。从机器语言、到汇编、到C、再到百花齐放的C++、Java、C#等，再到Rust。开发者的习惯一直在改变，开发者应该更多地提供信息而不是指令，编写严谨的程序而不是解决调试器发现的BUG。</p><p></p><h4>2.3.只需花费一周时间来阅读</h4><p></p><p></p><p>我的印象中，故往的每一种流行编程语言都有几本很厚的被冠以“圣典”的书。</p><p></p><p>但我学些Rust的体验是，学习Rust语言不需要看很多、很厚的书。Rust的编程帮助很丰富，可以一边做项目，一边学习。它是一种安全的语言，所以你的生疏并不会导致软件可靠性问题。这可能是学习Rust的过程中最奇妙的一点，一个懵懵懂懂的初学者编写出来的代码和一个经验丰富的早鸟编写出来的代码，一样的安全和可靠。</p><p></p><p>因人而异，取决于不同的编程基础和背景，但最短一周的熟悉时间，应该就可以使用Rust开始由浅入深的开发过程，在开发中不断扩展和加深学习，可以快速实现到Rust的过渡。</p><p></p><p>在这个逐渐上手的过程中，很大部分时间是根据自己的具体需要，查阅Rust语言手册的相关部分，加深理解。查阅Rust标准库手册，了解基于标准库，如何实现自己的功能需求。还有就是在crates.io上查找相关的例子程序，学习各种使用Rust解决具体问题的方法和技巧。</p><p></p><p>比较奇妙的是，在这个上手过程中，最初的时候，你对Rust可能只有最基础的概念，犹如一个婴儿，但是即使如此，你也不会写出包含隐晦的、难以调试的错误的程序。整个上手过程，是一个稳健的，逐渐由模糊到清晰的，充满正面感受的过程。绝不会出现其他语言那种，让你百思不得其解、需要推倒重来，或者绝望到放弃的晦涩的问题。</p><p></p><p>原因就在于，Rust的严密的语法逻辑以及强大编译推导能力，将你的一切编程错误都在编译阶段陈列在眼前，并给出了清晰的提示，甚至是准确的修改建议。这几乎是等于把菜整齐地排列在桌上，把筷子放在你的手里，耐心地等你五指捏紧，然后扶着你的手去夹菜。作为一个C程序员，从来没有被这样爱护过。</p><p></p><h4>2.4.函数式元编程</h4><p></p><p></p><p>元编程可以通过更高的抽象，使程序表达更加精炼，也可以使程序表达更加的严谨，消除内部自洽的问题，提高外部可复用性。元编程也可以克服不同语言之间的隔阂，更好地实现多语言的融合。</p><p></p><p>元编程是编程行为的必要部分，除了Hello world这样的简单程序，达到一定复杂度的程序，比如逻辑层次超过三层，可能就需要一定程度的元编程。元编程使代码更加简洁优美和更易维护。</p><p></p><p>C语言中能够与元编程相关的就是宏了，但是C语言的宏很简陋，不支持循环，实际上并不完整地具备元编程能力。因此使用C语言开发，越到后来越感觉力有不逮，总有些繁琐丑陋的部分无法清除。</p><p></p><p>Rust的元编程能力比C语言强太多，Rust的宏很丰富，支持安全的迭代。Rust的元编程能力初始设计很不错，起点很高。Rust虽然还在发展过程中，但其核心的语言要素已经基本固定，唯有元编程这部分，感觉还有很大的潜力可挖，对此我充满期待。</p><p></p><p>在解释器项目中，需要使用eBPF指令来实现Unliang的指令和内置函数，还需要封装C的数据定义，因此也使用了很多宏。比如：对FUSE的一些定义的封装。</p><p></p><p><code lang=\"text\">use std::ops::AddAssign;\nmacro_rules! define_event {\n    ($($name:ident = $val:expr,)*) =&gt; {\n        $(const $name:u32 = $val;)*\n        fn convert_event(evt: &amp;str) -&gt; Option {\n            let fuse_evt: String = String::from(\"FUSE_\") + evt.to_uppercase().as_str();\n            match fuse_evt.as_str() {\n                $(stringify!($name) =&gt; Some($val),)*\n                \"FUSE_*\" =&gt; Some(u32::MAX),\n                _ =&gt; None,\n            }\n        }\n    };\n}\ndefine_event! {\n    FUSE_LOOKUP= 1,\n    FUSE_FORGET= 2,  /* no reply */\n    FUSE_GETATTR= 3,\n    FUSE_SETATTR= 4,\n    FUSE_READLINK= 5,\n    FUSE_SYMLINK= 6,\n    FUSE_MKNOD= 8,\n    FUSE_MKDIR= 9,\n    FUSE_UNLINK= 10,\n    FUSE_RMDIR= 11,\n    FUSE_RENAME= 12,\n    FUSE_LINK= 13,\n    FUSE_OPEN= 14,\n    FUSE_READ= 15,\n    FUSE_WRITE= 16,\n    FUSE_STATFS= 17,\n    FUSE_RELEASE= 18,\n    FUSE_FSYNC= 20,\n    FUSE_SETXATTR= 21,\n    FUSE_GETXATTR= 22,\n    FUSE_LISTXATTR= 23,\n    FUSE_REMOVEXATTR= 24,\n    FUSE_FLUSH= 25,\n    FUSE_INIT= 26,\n    FUSE_OPENDIR= 27,\n    FUSE_READDIR= 28,\n    FUSE_RELEASEDIR= 29,\n    FUSE_FSYNCDIR= 30,\n    FUSE_GETLK= 31,\n    FUSE_SETLK= 32,</code></p><p></p><p>上面一段，是Rust的声明式宏。下面一段，是一段原生的C语句段，通过Rust宏进行转换为Rust的定义。</p><p>通过观察C语言语句片段的特征，利用宏提取语法规律，实现直接从C语言片段生成Rust的定义，这就是Rust元编程能力的一种体现。</p><p></p><h4>2.5.审美与表现力</h4><p></p><p></p><p>编程语言，去掉编程两个字，也是一种语言。人通过语言实现人与人、人与机器的交互。语言的美感，来源于人不仅通过语言交换信息，还通过语言传达思想。</p><p></p><p>不同的人对事物的审美存在着天地之别般的差异，对于编程语言也是一样。你是希望简介表达，还是深层次表达，决定了你对Rust的审美。如果你只关注当下的结果，Rust无疑是晦涩的，同样的事物在Rust中的表达，远比C语言中复杂。但是如果你关注的是软件本身的正确性和语义的完整表达，Rust的就非常犀利，它能够把你最严谨和微妙的想法准确表达出来。从这一点说，Rust有无与伦比的美。</p><p></p><p>要想充分体验编程的乐趣，我们需要理解不同编程语言的美与其表现力。</p><p></p><p>C语言的美集中在指针。指针是机器本质之美，因为指针是机器处理的灵魂，指针的发明使高级语言深入机器的灵魂，获得了魔力。指针也是自由、灵活之美，通过它可以打破类型、范围的约束，更直接高效的实现功能。但它是不安全的。</p><p></p><p>Rust是圆满如一、无缺无漏之美。Rust的美集中在始终。始终是数据的本质之美，万事万物皆信息，始终是更本质的美。理解Rust的美，是一种编程思想的涅槃。</p><p></p><h4>2.6.体验后的遗憾</h4><p></p><p></p><p>使用Rust开发项目是一个令人愉悦的体验，整个过程出乎我预料得成功，但也有“遗憾”。</p><p></p><p>在体验Rust编程的的安全可靠后，再次使用C编程的时候，我会有一种焦虑情绪。习惯了Rust那种严谨、完整的表达后，我对我写出来的C代码的信心大大降低，总觉得言之不尽，缺漏百出。因为对比Rust我们可以很轻易的发现用C编写的代码有很多深层语义约束是没有表达出来的，缺乏一种手段来保证代码的安全，这种感觉就像在裸奔编程。只能寄希望与更加详细的单元测试和集成测试，但事实早已证明这是不够。同时，这样做带来的是更多的测试开销，更加冗长反复的研发周期。</p><p></p><h2>3、结语</h2><p></p><p></p><p>Rust是实至名归的安全语言，它的安全性有坚强的内核，来源于语言本身的创新和编译器技术的发展。这是编程语言发展历程中的一次飞跃，对于编程这种交互行为中人与工具的边界进行了重新定义，不仅产生了全新的编程方式，也使工具的作用发生了突变。这种进步不仅蕴育出编程的安全性，还衍生出了在开发效率、学习门槛上的奇异变化。</p><p></p><p>在我们的长期认知中，调试是与编程伴生的行为，有多少编程输出，就有多少调试。但遗憾的是，一个让人沮丧的统计结论是，有多少调试就有多少BUG，有解决的BUG就一定有遗漏的BUG。本质上说，调试不是编程的伴生物，是开发安全性的提现，是不安全编程的标志。</p><p></p><p>随着Rust这样的安全语言的出现，调试的比重大大降低。甚至一定条件下可以完全消除，比如：在纯函数式编程的范围内。测试的复杂度也大大降低，单元测试、集成测试的定义可能会被改写，他们的工作量会降低、结论会更加准确、有效。</p><p></p><p>整个开发过程的重心将会发生偏移，开发过程变得紧凑，甚至缩短。软件的设计和编码会更加重要，不仅体现在时间占比上，也体现在技术与工具的支持，比如：提示器、编译器，甚至未来的AI辅助编程。开发者应该改变固有的习惯，尝试、接受和喜爱这种新的开发方式。</p><p></p><p>对于有想法使用Rust开发项目的经理等管理角色，需要明确的一个概念是，Rust是安全的语言，开发人员的编码水平和对语言的熟悉程度，并不会影响项目的质量，这一点和C语言项目完全不同，经验丰富的C开发人员对于软件质量有至关重要的影响。</p><p></p><p>使用Rust编程或者启动基于Rust的产品项目，其门槛并不像想像的那么高，一旦你决定尝试Rust，历史的车轮就会隆隆地开始转动。</p><p></p><h4>作者介绍</h4><p></p><p></p><p>钟俊，统信软件研发技术专家，专注于内核与编译器技术，长期在通信、云计算、安全、信创等多个行业从事底层软件技术研发及相关工作。</p>",
+    "publish_time": "2024-01-31 11:07:23",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "刚收购VMware，博通就淘汰了其56款独立产品",
+    "url": "https://www.infoq.cn/article/wWTQ4HkY6D34IVZ3JpaL",
+    "summary": "<p></p><blockquote>VMware的根基无处不在，拔出它们定会掀起片片泥土。</blockquote><p></p><p></p><p>VMware的新东家博通公司认为，自己花690亿美元收购的VMware产品线过于复杂、分散，甚至可能在本世纪20年代中期变得无关紧要。</p><p></p><p>否则，为什么博通要淘汰其中的56款独立产品（这个数字还在增加中），要知道，这些产品在全球几乎所有的数据中心每天都在使用。</p><p></p><p>VMware的忠实客户现在可能会问出这个问题，这很合理，但问题远不止这些。</p><p></p><p>VMware价值132亿美元的业务最初由私人所有和运营，后来被戴尔旗下的EMC公司收购，后来又被一家私募股权公司收购，截至2023年11月22日，正式并入博通公司。</p><p></p><p></p><h2>虚拟化之家</h2><p></p><p></p><p>VMware的名字将永远与虚拟化联系在一起，人们普遍认为，有95%的数据中心至少使用了一个VMware的组件。</p><p></p><p>VMware的根基无处不在，拔出它们定会掀起片片泥土。这次收购严重改变了客户与这家公司之间的关系。</p><p></p><p>要想确切地知道VMware所提供的单个产品的数量是很棘手的，因为其产品组合包含了各种类型的产品——其中一些被归类为包含多个组件的套件或平台。根据客户所需的用例，平台套件的某些组件可以单独出售。</p><p></p><p>在以前的VMware，追踪单个产品的SKU是一项具有挑战性的工作，但显然，博通将不再需要这么做。</p><p></p><p>博通在正式收购VMware的第一天就改掉了VMware位于加利福尼亚州帕洛阿尔托山脚下的总部的Logo，然后迅速削减了上述产品的数量。博通的立场是简化VMware的产品组合，专注于几款“拥有最高精尖技术的产品”。被淘汰的产品包括网络和安全虚拟化平台NSX、应用移动性平台HCX、多云平台捆绑vSPhere+等（详情请参见https://blogs.vmware.com/cloud-foundation/2024/01/22/vmware-end-of-availability-of-perpetual-licensing-and-saas-services/）。</p><p></p><p></p><h2>许可问题是个重大的争议焦点</h2><p></p><p></p><p>许可的变化正在引发在大型、中型和小型企业中部署公有、私有和混合云的IT买家的广泛忧虑。</p><p></p><p>许多客户拥有一些基础设施应用程序的永久许可，只需要每年支付维护费用。如果博通坚持自己的做法，这些许可很快就会消失。客户担心，如果他们想要维持当前的部署，博通可能会试图迫使他们转向更昂贵的年度订阅。</p><p></p><p>对于一些客户来说，订阅模式可能在短期内会帮他们节约一些成本，但对于长期客户来说，他们将支付更多的费用，否则他们将被困在无法运行的IT基础设施中。这也影响到那些围绕VMware构建业务的小型集成商。</p><p></p><p>对于许可问题的疑问，VMware在1月15日的媒体咨询中给出了一个全面的回答，但后来又被撤下：“所有的许可选项，包括永久、支持和订阅（SnS）、SaaS/托管在内，以及每种产品的所有版本、套件和定价指标，除非另有说明，均包含在本公告中。这些产品均已无法购买。”</p><p></p><p></p><h2>博通向客户做出澄清</h2><p></p><p></p><p>随后，博通在1月22日发布了一篇博文，旨在澄清之前的信息（https://blogs.vmware.com/cloud-foundation/2024/01/22/vmware-end-of-availability-of-perpetual-licensing-and-saas-services/）。</p><p></p><p>云基础设施团队产品营销总监Rick Walsworth在文章中写道：“由于产品组合简化，许多VMware软件解决方案将仅作为VMware Cloud Foundation (VCF) 或 VMware vSphere Foundation (VVF) 的一部分提供。它们将不再作为独立的解决方案出售。</p><p></p><p>为明确起见，以下是我们对产品组合所做变更的概括：</p><p></p><p>VMware Cloud Foundation是VMware新的解决方案，旨在为客户提供全技术栈基础设施价值，提供具有完整Aria管理和编排套件（包括新服务）的vSphere、vSAN和NSX的平台。VMware vSphere Foundation是VMware为传统vSphere环境的数据中心优化提供的解决方案。除了Aria Operations和Aria Operations for Logs，它还将Tanzu Kubernetes Grid作为其标准功能套件的一部分。此外，那些对基本硬件整合或少量服务器虚拟化等要求较低的客户仍然可以订阅vSphere Standard和vSphere Essentials Plus Kit。VMware附加服务可用于VMware vSphere Foundation和VMware Cloud Foundation，覆盖额外的存储、安全，灾难恢复、生成式AI和其他特定用例。”</p><p></p><p>总而言之：博通将专注于销售VMware平台，而非单独的产品。</p><p></p><p></p><h2>定价和销售支持</h2><p></p><p></p><p>当然，定价是另一个重要的问题。VMware已经被认为是一项昂贵的技术，那么博通在未来是否会想要进一步提高其售价？</p><p></p><p>Oxide Computer联合创始人兼CTO Bryan Cantrill表示：“当博通收购VMware并暗示‘我们将提高价格，因为我们对客户有定价权’时，客户就像‘等等，我已经在VMware上花了很多钱了，你这是在逼我去寻找其他选择’。市场上的声音就是这样的。博通是一家与众不同的公司。我们熟知的VMware已经不存在了。”</p><p></p><p>VMware竞争对手Nutanix的产品和解决方案高级副总裁Lee Caswell表示：服务是第三个主要的问题。</p><p></p><p>Caswell说：“客户考虑替代方案，那说明他们担心未来的支持问题。因此，这里发生的变化是关于如何为合作伙伴提供支持的单方面决定，以及正在做出的改变没有充分了解其影响。”</p><p></p><p></p><h2>渠道的不确定性</h2><p></p><p></p><p>Caswell表示，由于这次合并，渠道存在很多不确定性。“VMware的产品由渠道合作伙伴、经销商合作伙伴提供支持，并交付给OEM合作伙伴。因此，经销商现在没有合约，他们在等待，这带来了不确定性，因此客户对支持服务的变化感到担忧”。</p><p></p><p>“坦率地说，他们已经看到了变化。因此，突然之间，在我看来，支持风险应该是客户需要去考虑的问题。”</p><p></p><p>Caswell表示，他认为博通团队在将基础设施视为应用程序方面可能存在重大误判，而这正是这家总部位于加州圣何塞的公司过去收购的东西。</p><p></p><p>他说：“这有点像，如果你家里的微波炉坏了，那很烦人，对吧？但你还可以用其他方法做饭。但我们现在看到的是：这不是微波炉。如果停电了，那就是另外一个问题了。这是运行所有应用程序并提供数据的基础设施。没有数据和应用程序，现代企业的业务就会停滞。”</p><p></p><p></p><h2>来到十字路口的VMware用户</h2><p></p><p></p><p>鉴于此次合并，2024年对于VMware用户来说将是一个潜在的转折点，他们可能会发现，这是一个转向基于AI应用和基础设施设计和构建新一代SaaS系统或数据中心的自然过渡。VMware技术可以追溯到1990年代末，尽管多年来一直在不断更新。</p><p></p><p>Caswell说：“公司将致力于在新的容器化应用程序中使用生成式AI，这些应用程序正在通过Kubernetes编排的应用程序进入内部部署环境，或者可能是一种新的混合多云操作模型，在本地和公有云运行应用程序。如果我想要一个经得起未来考验的系统，像Nutanix这样的公司或许可以帮得上忙。”</p><p></p><p>Virtuozzo，作为建立在OpenStack之上的VMware数据管理替代方案，是另一家有望赢得VMware用户的公司。</p><p></p><p>Virtuozzo美洲地区副总裁Rony Moyal表示：“CIO们正在努力将更多的工作负载转移到内部，或至少是大多数超大规模服务器。因此，我认为这是Red Hat尝试向上游移动、VMware向上游移动，以及CTO、CIO和云服务提供商跟进的综合结果。“</p><p></p><p>“在这之后，没有人知道它会怎样发展。我从云服务提供商那里得到很多消息，他们需要替代方案。它们不一定会立即替代VMware，但他们会建立一个并行平台，如果情况变得更糟，他们就有了替代解决方案。”</p><p></p><p>“因为收购，许多云服务提供商甚至是企业都没有更新他们的硬件。他们在等待，看看会发生什么。他们当中很多人都在寻找另一个平台。这一切将在第一季度末第二季度初达到高潮，这些服务提供商将不得不做出决定。”</p><p></p><p>据报道，博通打算以约50亿美元的价格出售VMware的终端用户计算部门，包括Workspace ONE和Horizon产品以及一套虚拟桌面产品。</p><p></p><p>【声明：本文由InfoQ翻译，未经许可禁止转载。】</p><p></p><p>原文链接：https://thenewstack.io/why-broadcom-is-killing-off-vmwares-standalone-products/</p>",
+    "publish_time": "2024-01-31 12:14:47",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "WASM：计算的未来还有多远？",
+    "url": "https://www.infoq.cn/article/8b50WxUtbZbOKSJ7dgcJ",
+    "summary": "<p></p><blockquote>导读：在涉及到 WebAssembly（WASM）的未来前景时，不同的观点和声音交织在一起。虽然取得了许多重要进展，但也有声音指出在可靠高效地支持生产用例方面仍有很多工作要做。这种多元的看法不仅仅存在于个别观点中，分析师 Torsten Volk 也持有类似的观点。当然，还有其他经验丰富的专业人士表达了截然不同的看法。在这个引人入胜的讨论中，我们将探讨不同观点，并深入了解 WebAssembly 的潜力和挑战。</blockquote><p></p><p>&nbsp;</p><p>WebAssembly 正在受到广泛关注，但它是否真的能像一些人所期望的那样颠覆游戏规则呢？</p><p>&nbsp;</p><p>有人如此评价：自 1995 年起，JavaScript 作为 Web 脚本编程的翘楚已经历数十年风雨。虽然其才华横溢，但 JavaScript 在处理性能密集任务时亦有局限。随着 Web 发展，对 Web 应用程序功能、速度和灵活性的需求也与日俱增。因此，WebAssembly （WASM）应运而生。</p><p>&nbsp;</p><p>为满足在 Web 浏览器中运行代码的高效需求，万维网联盟（W3C） 和主流浏览器厂商联手研发新型二进制格式。该格式旨在快速、高效且安全，使开发人员能以接近本地速度运行代码。因此，2015 年，WebAssembly（WASM）作为一种低级虚拟机问世，执行从高级语言翻译而来的字节码。如今，WASM 并不是编程语言，而是一种紧凑的二进制指令格式。与解释执行的 JavaScript 不同，WASM 为一种低级字节码，在浏览器内部的沙盒环境中运行，确保速度与安全。</p><p>&nbsp;</p><p>开发人员热衷使用 WebAssembly，因为它让他们能以熟悉的编程语言如 C、C++ 和 Rust 编写代码。Web 开发人员也对此感到满意，因为他们无需替换 JavaScript 程序，而是能够<a href=\"https://hacks.mozilla.org/2017/02/creating-and-working-with-webassembly-modules/\">从 JavaScript 中调用 WASM 函数，反之亦然</a>\"，实现了两者之间的无缝集成。</p><p>&nbsp;</p><p>起初，WASM 只用于 Web 领域。然后情况发生了变化。2019 年，Mozilla 推出了其 <a href=\"https://www.theregister.com/2019/03/29/mozilla_wasi_spec/\">WebAssembly 系统接口</a>\"（WASI）以访问操作系统资源。这<a href=\"https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/\">使 WebAssembly 脱离了浏览器的限制</a>\"。</p><p>&nbsp;</p><p>一旦摆脱了浏览器的限制，就像 WASM 专家和 Fastly 工程总监 Lin Clark 所说，它成为了一种 “在所有机器上运行相同代码的快速、可扩展、安全的方式”。</p><p>&nbsp;</p><p>听上去耳熟能详，是吧？你可以用相同的描述来描述容器。但你不必全然相信。正如 Docker 的联合创始人 Solomon Hykes 当时在<a href=\"https://twitter.com/solomonstre/status/1111004913222324225\">推文</a>\"中所言：“若 WASM+WASI 早在 2008 年就存在，我们便无需创立 Docker 了。其重要性不言而喻。服务器上运用 WebAssembly 乃是计算的未来所在。而标准化的系统接口则成为缺失的一环。”</p><p>&nbsp;</p><p>最近，2023 年，云原生计算基金会（<a href=\"https://cncf.io/?utm_content=inline-mention\">CNCF</a>\"）生态系统负责人 Taylor Dolezal 指出：“WebAssembly 是未来趋势，因为其在无服务器、容器化和插件技术中的应用不断增多，预计将对 Web、无服务器、游戏和容器化应用产生深远影响。”</p><p>&nbsp;</p><p>言之凿凿。那么，WASM 是否将成为 “计算的未来”？</p><p>&nbsp;</p><p>从个人角度来看，Steven J. Vaughan-Nichols 一直对此心存疑虑。虽然诸如 WASI 之类的程序以及竞争对手运行时（如 WasmEdge）已经大大简化了在边缘和后端运行经过优化的 WASM 代码，但 Steven 认为仍有很多工作要做。而且，他并非唯一看到这个问题的人。</p><p>&nbsp;</p><p>正如企业管理协会分析师 Torsten Volk <a href=\"https://thenewstack.io/is-webassembly-really-the-future/\">所言</a>\"：“在可靠高效地支持生产用例方面还有很多工作要做。”确实如此。</p><p>&nbsp;</p><p>举个例子，Python 已经成为人们快速、轻松处理机器学习程序的首选方式，这要归功于 PyTorch。然而，将这些程序简单地放入 WASM 运行时并期望它们顺利运行是不现实的。问题在于，你还需要许多目前尚未支持的第三方依赖项。</p><p>&nbsp;</p><p>随着 WASM 受欢迎度的提升，公司和开源社区将需要承担起构建这些基础设施的艰巨任务。</p><p>&nbsp;</p><p>然而，你可能会提出疑问——Kubernetes 难道不是未来吗？是的，但正如 Adobe 最近指出的，WASM 和 Kubernetes 可以合作共存。他们找到了一种方法，使一个 “<a href=\"https://www.cncf.io/blog/2022/11/17/better-together-a-kubernetes-and-wasm-case-study/\">完整的微服务</a>\"，目前在 Kubernetes 中运行，也可以在 WASM 中运行”。</p><p>&nbsp;</p><p>这样做的原因何在？这为他们带来了一种更轻盈的模型，能够在流量激增时迅速扩展，相较于粗粒度容器更具调度灵活性，同时仍然借助 Kubernetes 进行编排。对 Adobe 而言，这是两全其美的完美选择，兼顾了两者的优势。</p><p>&nbsp;</p><p>虽然 Adobe 拥有比大多数公司更多的资源来解决这些问题，但展望未来，对于规模较小的企业来说，WASM 或许会变得更加适用于后端。</p><p>&nbsp;</p><p>这得益于 <a href=\"https://www.fermyon.com/blog/webassembly-component-model\">WebAssembly 组件模型</a>\"（WACM）和 <a href=\"https://github.com/bytecodealliance/preview2-prototyping\">WASI-Preview 2</a>\" 的存在。</p><p>&nbsp;</p><p>WACM 项目将逐步定义一个组件模型，它将为从 WASM 核心模块构建的、具有可移植性、加载和运行效率高的二进制格式提供支持，从而实现了可移植性强、跨语言组合的能力。它还将更好地支持可虚拟化、静态分析、能力安全和与语言无关的接口。</p><p>&nbsp;</p><p>WASI-Preview 2 是 WASI 的下一个版本，它将扩展 WASI 的 API，不仅包括 POSIX，还包括 WASI 文件系统、HTTP、云和网络套接字。它还将提供更好的绑定支持非 C 类语言。</p><p>&nbsp;</p><p>总而言之，Steven 认为 WASM 最终可能充分释放其潜力。然而，在开发人员的构想与实际生产代码之间仍然存在诸多挑战。不过，已经奠定了构建实际 WASI 后端设计所需的基础。到了 2025 年，我们将揭晓 WASM 是否确实能成为后端软件开发的未来。</p><p>&nbsp;</p><p>在著名的技术论坛 Hacker News，也有很多大佬对 <a href=\"https://news.ycombinator.com/item?id=37385197\">WASM 的未来</a>\"发表了各自独到见解。InfoQ 精选如下：</p><p>&nbsp;</p><p>网友 ivanmontillam 对 WASM 的期望和对 Javascript 在前端开发中的挑战有深刻的认识，他认为 WASM 有望提供一种更灵活、更容易处理多种技术栈的方式，从而摆脱 JavaScript 的统治地位。他的观点强调了对 Web 开发的包容性和多样性的重要性。</p><p>&nbsp;</p><p>ivanmontillam：</p><p>&nbsp;</p><p></p><blockquote>我对 WASM 获胜充满期待。在前端 Web 开发中，我一直对 JavaScript 的怪异之处感到沮丧。它充满了陷阱，对于新手来说很难调试，除非你在入门之前学习了一门正规的 JavaScript 课程，告诉你在遭受陷阱之前要小心。除了 JavaScript，我从未遇到一种编程语言在初次接触时没有按照我期望的方式运行。&nbsp;我深知 TypeScript 的存在，也明白转译器的优势，其语法（现代 ECMAScript）和规则更适应时代。然而，它们并非浏览器的 “原生” 部分，仍需转译成危险的旧 JavaScript。虽然转译器能避免许多陷阱，但我仍感觉自己在沙地上建造摩天大楼。&nbsp;关于这个话题的难点在于，我确信我的评论会触怒许多开发人员，因为这样谈论 JavaScript 会让人感觉我侮辱了他们的信仰。澄清一下，我无意如此。我来自静态类型编程语言的世界，所以我更倾向于我的编程是最正确的。&nbsp;对我来说，假设我们能创建一个主要执行虚拟机不是 JavaScript 的浏览器，WASM 将提供坚实的基础。我梦想拥有一个支持多种技术栈的浏览器，摒弃 HTML/CSS/JavaScript 的垄断。为何不考虑类似 HTML/CSS/Python 的选择呢？&nbsp;对我而言，JavaScript 在职业发展上已成为一种挫败因素。尽管我在后端 Web 开发方面表现出色，但我深信并非只有我一个人对 JavaScript 感到沮丧。Web 应该更加包容。</blockquote><p></p><p>&nbsp;</p><p>网友 Phil_kahrl 对 WASM 赞赏有加，尤其在与 JavaScript 相较之下。他盛赞 Rust 与 WASM 的强强联合，以及 Cargo 作为出色的包管理器，使他的项目依赖管理更加得心应手。他还强调了 WASM 捆绑包的潜在大小优势，以及使用 Rust 进行低级操作的便捷性。最重要的是，他认为使用 WASM 编写的应用程序比 React 编写的应用程序更迅捷，尽管这一点也与所使用的框架（Leptos）息息相关。这一观点凸显了 WASM 在前端开发的潜力和吸引力。</p><p>&nbsp;</p><p>phil_kahrl：</p><p>&nbsp;</p><p></p><blockquote>我坚信 WASM 将胜出。经过 25 多年的 JavaScript 使用，我最近尝试了使用 Rust/WASM 和 <a href=\"https://github.com/leptos-rs/leptos\">Leptos 框架</a>\"构建一个单页应用程序（SPA），并自此不再想回到 JavaScript。Cargo 作为出色的包管理器，让我的项目静置一两年后再回来构建运行时变得轻而易举，而无需进行大量的依赖更新（与 NPM 相比）。Rust 的坚实类型系统，加上借用检查器和模式匹配，使我能够编写可靠且难以破坏的代码。无需经过多个阶段的 Babel 和 Webpack 构建流程，只需将 Rust 编译为 WASM 目标即可。此外，WASM 捆绑包的大小可能比相应的 JavaScript 捆绑包更小。借助 Rust，在客户端高效地进行低级操作，比如从镜像二进制数据中进行特征提取，也更加便捷。而且，用 WASM 编写的应用程序比我用 React 编写的类似应用程序运行得更快，尽管这主要归功于 Leptos 不像 React 那样使用虚拟 DOM。</blockquote><p></p><p>&nbsp;</p><p>网友 jeroenhd 的见解深入透彻，对 WASM 和 JavaScript 的优势与局限进行了剖析，并引发了关于开发工具和开发者教育的重要议题。</p><p>&nbsp;</p><p>jeroenhd：</p><p>&nbsp;</p><p></p><blockquote>我倡导在浏览器中运行 TypeScript，但 WASM 只是另一种编译器，就像 TypeScript 一样。无论对转译器的担忧如何，一旦将代码编译成二进制代码块，调试和解决问题都会更加困难。如果信任 Python 解释器，也可以信任 TypeScript 转译器。处理糟糕情况如 IE11 或旧版 Safari 版本时，调试可能复杂，但我们已不再生活在 2010 年。&nbsp;JavaScript 非常不便，有大量奇怪的边界情况（例如，“分号是可选的，除了这三个边界情况”），通过使用进行作用域切换，不可预测的类型转换等。然而，编写一个转译器来处理这些规则并不是那么困难。将另一种语言转译成 JavaScript 可能会放弃一些优化机会，因为需要按照另一种语言期望的方式重新实现方法，而不是直接调用本机 JavaScript API。但至少它具备正常的 API 可供依赖。&nbsp;WASM 就像 Docker，在我机器上工作，但无法让你的机器上工作，所以我们将机器一起打包。你将标准库和 JSON 解析器发送到浏览器，就像推送代码到裸金属服务器上。&nbsp;JavaScript 并不难学，HTML 和 CSS 也不难。然而，许多 WASM 开发者试图在不了解浏览器工作原理的情况下编写浏览器代码，这是糟糕的想法，最终只会导致膨胀或抽象不当。试图将 “后端开发人员变成前端开发人员” 只会带来沮丧的 Java 小程序，几乎无法在桌面浏览器上运行，更不用说触摸屏和手机上了。&nbsp;“本地” 桌面开发之所以演变成 “运行过时的 Chrome 副本并加上一些操作系统胶水”，是因为 Web 开发相较前端开发更容易，尤其需要跨平台支持。WASM 无法让后端开发人员即刻成为前端高手，需学习新框架及难以使用的工具。&nbsp;只需使用 JavaScript，尽管可能有一些不便，但比提出的其他替代方案要好得多。</blockquote><p></p><p>&nbsp;</p><p>网友 jillesvangurp 对 WASM 和前端开发提出了一系列深刻见解，强调了 WASM 作为 Web 开发的重要趋势。他讨论了 WASM 对传统观念的影响以及未来的潜力，展示了对 Web 开发领域不断演变和创新的关注。</p><p>&nbsp;</p><p>jillesvangurp：</p><p>&nbsp;</p><p></p><blockquote>对于典型的单页应用程序（SPA），其代码库通常会变得混乱不堪，精简的 JavaScript 代码中难以找到透明和可发现的特点。除了少数个别开发人员外，大多数 Web 开发者将浏览器中的 JavaScript 视为一种编译目标。&nbsp;WASM 不过是更为出色的编译目标之一，更具通用性、易于优化、更紧凑，同时还支持逐步加载等特性。若必须编译代码，则最好选择适合的编译目标。&nbsp;广泛而言，我认为 WASM 开始挑战束缚了 Web 开发者二十年之久的传统观念，即 “只能使用 DOM/CSS/JavaScript”。虽然这在过去是唯一可行方案，但移动应用开发者和游戏开发者更倾向于本地开发，因为 Web 开发技术一直表现不佳。设计师追求理想效果的同时，Web 的能力一直受限。我们曾尝试过 Flash、Shockwave 和 Silverlight 等替代方案，但 HTML5 未能完全替代它们，而由于安全原因，浏览器插件逐渐被废弃，但我们始终未找到理想的替代品。&nbsp;现在，有了 WASM，我们不再有理由坚守传统的 DOM/CSS/Javascript 技术。如果愿意，可以使用这些技术，但现在有了其他选项。尽管目前仍需要使用 C++ 和 Rust 等语言，但 WASM 正在迅速发展。&nbsp;WASM 正处于迅速成熟的过程中，浏览器中一些功能标志（例如新的垃圾回收功能）正在后台开发中。一旦这些标志得到移除，WASM 的地位将更加平等。从那时起，主要的挑战将是 UI 框架和工具链需要适应这一新现实。实际上，Jetbrains 正在积极开发基于 WASM 的多平台 UI 框架 Compose，该框架可以渲染到画布上。尽管仍处于实验阶段且需要在浏览器中设置一些功能标志才能运行，但它允许开发人员使用 Compose 进行跨平台 UI 开发，支持 Android、iOS（尽管是 alpha 版本）、桌面（基于 JVM），并计划不久的将来支持基于 WASM 的 Web 平台。可能还会有其他一些 UI 堆栈很快开始面向 Web 开发。当然，Blazor 是 WASM 的早期采用者之一，但它使用自己的垃圾回收机制，可能会导致应用程序变得臃肿。&nbsp;总而言之，HTML5 不再是唯一的选择，它必须根据实际情况竞争，而不仅仅是依赖于垄断地位。这些变化反映了 Web 开发领域的不断演进，为开发人员提供了更多选择和灵活性。</blockquote><p></p><p>&nbsp;</p><p>网友 jeroenhd 提出的观点强调了 Web 开发领域的一些关键议题，包括调试工具的重要性、新技术的复杂性、性能和用户体验的重要性，以及技术的持续演进对开发者的影响。这些观点促使我们思考如何更好地利用现有工具和技术，并在采用新技术时保持警惕。</p><p>&nbsp;</p><p>jeroenhd：</p><p>&nbsp;</p><p></p><blockquote>我一直在使用 Firefox 中的 JavaScript 调试器来修改经过精简的 JavaScript 代码。尽管开发者可能会随意重命名他们的方法，但除非有故意的混淆（在这种情况下，请忽略我的措辞），阅读经过精简的 JavaScript 代码并非难事。事实上，Firefox 甚至内置了一些用于检测常见 Web 框架的功能，这使得与大多数缩小后的代码一起正常工作成为可能。在我接受 WebAssembly 与 JavaScript 一样晦涩难懂的观点之前，我们需要在浏览器中构建一个相当先进的 WebAssembly 反编译工具套件。&nbsp;我对 WebAssembly 作为 Web 应用程序平台以及对明目张胆滥用 <canvas> 元素的趋势感到不满。尽管它旨在为开发人员节省时间，但每次这样的技术出现时，Web 页面都变得更慢、更难以使用。React（Native）多年前就已经实现了跨平台应用程序和 Web 开发的无缝集成，而无需为每个访问的页面下载数兆字节的可执行二进制块。&nbsp;WebAssembly 实际上类似于 Java 小程序和 Flash 嵌入，只是该模式的第四次出现。它们都面临相似的问题，几年后可能导致相同的性能下降和麻烦。对开发人员来说，唯一的不同在于现在可以使用现代语言如 Rust 编写 WebAssembly 模块，且无法禁用加载这些二进制块的功能。</canvas></blockquote><p></p><p>&nbsp;</p><p>网友 3cats-in-a-coat 对 WASM 提出了合理的质疑，担心其在 Web 开发领域可能面临挑战，特别是在性能和用户体验方面。他强调了在采用新技术时需审慎考虑各种因素，并指出 WASM 或许能解决特定问题，但并非所有问题的唯一解决方案。</p><p>&nbsp;</p><p>3cats-in-a-coat：</p><p>&nbsp;</p><p></p><blockquote>你还可以在没有操作系统分裂的情况下运行相同的构建。假设所有 Windows 机器运行相同的构建。所有 iPhone 运行相同的构建（实际上不完全是这样，但假设他们在 App Store 上自动化并高效地隐藏了构建，零工作量）。总的来说，构建不是问题。如果它们成为问题，那是一个分裂的、不成熟的生态系统的症状，而事实上，许多 Linux/BSD 发行版在大局上仍然是如此。&nbsp;然而，所有这些都无关紧要。因为我们有 Java 和无数其他跨平台运行时环境。WASM 充其量只是相同主题的另一种变体，投放到同一个池中。我完全可以理解，虽然人们可以热情地说 WASM 是未来，因为它具有沙箱化和多平台特性。事实是它可能不会发生，因为 WASM 既不新鲜也不独特。这个领域已经有了解决方案。&nbsp;我们可以理论上认为，每个人都将拥有一个 WASM 编译器后端，因为它在浏览器中运行，因此对于服务器上的所有内容都有编译器后端可用于 WASM。然而，你自己说过，对于 WASM 来说，Web 并不是最有趣的地方。那么，什么东西将推动 WASM 生态系统变得有趣（使 Web 不再有趣）呢？这是一个棘手的问题。可能行得通，也可能不行。&nbsp;我曾经经历过 Web 上的一个时期，那时每种编程语言都有一个 JavaScript 编译器后端。你可以将 Java 编译成 JavaScript，将 Delphi 编译成 JavaScript，将 C# 编译成 JavaScript 等等。也许其中一些解决方案仍然以某种半废弃的形式存在，但它们大多被放弃了，因为人们意识到编写 JavaScript 的最佳语言就是 JavaScript 本身。这也是 TypeScript 取得如此成功的原因，因为它本质上就是 JavaScript（但带有类型）。&nbsp;对于 WASM，我们可以争论不存在 “在 JavaScript 中编写 JavaScript” 的压力，但它的价值有限，除了 “在 Web 上使用汇编语言” 的极客领域。我知道为什么 Google 需要它。它需要它来索引网络并在网络上放置广告，因此它希望一切都成为网络，这样 Google 就可以索引并在一切上放置广告。这对 Google 有利，但对其他人并非如此。在 Web 上下载并运行像 Photoshop 之类的数百 MB 应用程序的代码绝对是一种糟糕的体验。更不用说应用程序可用的人机交互输入能力和操作系统服务在浏览器中是有限的了。</blockquote><p></p><p>&nbsp;</p><p>关于 WebAssembly（WASM）的讨论就如同一场丰富多彩的辩论。就像技术界百家争鸣、百花齐放一样，我们有着各种各样的观点和解决方案。作为多平台运行时环境，WASM 引发了对 Web 开发和跨平台性能的思考。然而，我们必须认识到技术进步是多元的，不同的问题可能需要不同的解决之道。</p><p>&nbsp;</p><p>正如历史上编程语言和工具的竞争一样，我们或许会见证 WASM 在特定领域取得成功，而在其他领域面临挑战。重要的是要从各种观点中吸取智慧，创造更多元化、创新的技术生态系统。无论 WASM 的未来如何，让我们欣然接受这个多彩的时代，继续推动技术的前沿，为未来的 Web 开发和跨平台应用程序创造更好的解决方案。</p><p>&nbsp;</p><p>参考链接：</p><p>&nbsp;</p><p>https://www.theregister.com/2023/09/01/web_assembly_wasm_column</p><p>&nbsp;</p><p>https://news.ycombinator.com/item?id=37385197</p>",
+    "publish_time": "2024-01-31 12:32:25",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "Appsmith 为何放弃微服务，选择模块化单体架构？",
+    "url": "https://www.infoq.cn/article/HwGH96PJXowBSKYLV3at",
+    "summary": "<p></p><blockquote>导读：在这篇文章中，Appsmith 的联合创始人和首席技术官分享了他们如何将 Appsmith 平台转换为单体架构，以及这个决定是如何让他们的贡献者和用户受益的。作者还探讨了单体架构和微服务的历史、优缺点，并强调了选择最佳软件架构应该依据团队的需求和情况而定。最后，作者提出了关于单体架构的一些观点，包括其如何影响 Appsmith 的开源开发模式以及如何使最终用户受益。</blockquote><p></p><p>&nbsp;</p><p>当我在面试软件工程师候选人时，我总是会问这样一个问题：“你会怎么做来改进 Appsmith？” 候选人们往往会作出这样一个普遍的回答：“我会把 Appsmith 代码库改造成微服务架构。” 这个答案反映了当今微服务架构的普及性，以及一种误解，即所有单体代码库都应该采用这种较新的模型进行重写。在谈论了微服务及其带来的优缺点之后，我不可避免地不得不透露我们有意选择不使用微服务，并解释为什么。</p><p>&nbsp;</p><p>实际上，我认为对于大多数规模为中小型企业的团队（有 150 名以下工程师），使用微服务是不好的选择。即使像 Facebook、亚马逊、Netflix 这样的大型科技公司使用微服务，也并不意味着你也应该使用微服务。</p><p>&nbsp;</p><p>作为 Appsmith 的联合创始人和首席技术官，我们的平台可以帮助开发人员快速构建内部应用程序，如支持工具、仪表盘和资产跟踪应用程序。在这个过程中，我有一个独特的视角，观察了我们的架构和开发实践是如何从早期阶段发生了变化。我想借用这个三部曲的机会，概括一下我在这段时间里看到的一些情况。其中包括我的看法，“单体架构与微服务”问题，我们如何将 Appsmith 实现为单体架构，这种选择如何影响我们转向开源开发模式，以及最重要的是，单体代码库如何使 Appsmith 的最终用户受益。</p><p>&nbsp;</p><p></p><h2>单体架构与微服务</h2><p></p><p>&nbsp;</p><p>单体架构和微服务各有适用的开发和部署需求，因此，哪种架构更好这个问题本身就不是关键所在。</p><p>&nbsp;</p><p>最佳软件架构应该是能够让你的团队以最快的速度创建最高质量的软件的那个。具体采用哪种架构会因许多因素而异。为了了解这些因素，让我们回顾一下单体架构和微服务的历史、优点和缺点。</p><p>&nbsp;</p><p></p><h2>单体架构：简单但后期成本可能很高</h2><p></p><p>&nbsp;</p><p>在互联网普及和网络连接改进之前，微服务的概念还处于起步阶段。因此，唯一的可行选项是使用单体架构，包括单一代码库（通常是单一二进制文件）和一个（通常是大型的）应用程序，在本地或私有主机上运行。所有功能都是自包含的，虽然这种架构简单易于维护，但后期成本可能会很高。</p><p>&nbsp;</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/09/09ef21c8c418c74cc62f3ef589ae999a.jpeg\" /></p><p></p><p>&nbsp;</p><p>单体架构在软件生命周期的各个阶段都有优点。在开发和调试期间，能够轻松跳转到整个代码库以深入了解发生的情况非常有用。单体应用程序可以部署到一个统一的环境中，这样可以减少复杂性和安装错误。在运行期间，调用存储在本地内存中的函数而不是经过许多层远程应用程序的 API 调用，这使得应用程序运行更快。</p><p>&nbsp;</p><p>单体架构的缺点之一是，对功能的小修改会导致部署成本高昂，并且功能无法独立扩展。如果对某个功能进行小修改，通常需要重新运行回归测试并重新部署整个应用程序。根据应用程序的大小，这可能需要很多额外的工作。</p><p>&nbsp;</p><p>扩展也是有问题的，特别是对于 Web 应用程序。通常希望根据流量要求只扩展一个组件，同时保持其他低流量组件不变以降低成本。但是，在单体架构中，单独扩展组件并不容易实现。</p><p>&nbsp;</p><p>直到 2000 年代初，单体架构是开发者们的主要选择。互联网的早期增长几乎完全依靠这些架构，因为 Web 技术栈相对简单，易于打包成单个单体应用程序。单体架构经得起考验，但随着互联网的增长，出现了一种新的可扩展性需求的替代方案——微服务。</p><p>&nbsp;</p><p></p><h2>微服务架构：更复杂，理论上后期可扩展性更高。</h2><p></p><p>&nbsp;</p><p>随着互联网和构建其上的服务的性质不断发展，一些公司意识到单体架构可能对连接软件有所限制。其中最早的例子之一是 Netflix，在 2009 年决定用单体架构进行扩展将过于昂贵，无法适应其应用程序的需求。</p><p>&nbsp;</p><p>他们从根本上重新思考了其架构，考虑到不断变化的消费者景观和因更强大的互联网而带来的技术改进。这些改进使得开发分布式应用程序成为可能，从而使他们能够将业务模式从邮寄 DVD 转变为点播流媒体视频。为了实现这一目标，他们将主机从现场转移到云端，将软件架构从单体转变为分布式微服务。</p><p>&nbsp;</p><p>这是微服务架构的最早成功实施之一。微服务的主要思想是，功能不是自包含在单个大型应用程序中，而是拆分成许多较小的应用程序，通常分布在许多不同的服务器上，并通过定义良好的 API 进行通信。</p><p>&nbsp;</p><p>微服务架构的好处包括更有组织和模块化的功能，更容易扩展，以及在多种编程语言中进行开发的可能性。通常将不同组件拆分到每个微服务的级别，使每个微服务有一个任务。这比典型的单体方法更明确界限，有助于保持组织清晰。由于功能分布在不同的二进制文件中，这些二进制文件可以部署在不同的实例上，允许对单个微服务进行扩展，而无需对整个应用程序进行扩展。</p><p>&nbsp;</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/04/04391b82e4a0500fca1433a402d30f65.jpeg\" /></p><p></p><p>&nbsp;</p><p>这种架构对于流量规模较大或变化频繁的 Web 应用程序特别有益。另一个好处是，只要 API 定义清晰，每个开发微服务的团队都可以选择符合他们偏好和技能的语言，不必像在单体应用中一样被强制使用相同的语言。</p><p>&nbsp;</p><p>当然，这种模型也有缺点，包括需要更高的网络带宽、更高的开发人员技能和知识，以及更多的潜在安全漏洞。如果你正在实现一个基于微服务的架构，你必须拥有经验丰富的团队来处理这种增加的复杂性。</p><p>&nbsp;</p><p></p><h2>Appsmith 选择了哪种架构？</h2><p></p><p>&nbsp;</p><p>自从开始，我们就考虑和尝试了许多种架构。最初，我们考虑过基于微服务的架构，因为这是我们周围所有人都在做的事情。然而，我们最终拒绝了这个选项，因为基于微服务的应用程序本地部署存在太多问题需要解决。考虑到本地部署是我们业务的重点，我们不能使部署过程变得更加复杂化，从而影响最终用户的使用。</p><p>&nbsp;</p><p>相反，在 Appsmith 早期阶段，我们依赖于纯粹的单体架构。这使我们在项目上取得了很大进展，但最终我们遇到了单体代码库扩展问题的显著工程团队问题。</p><p>&nbsp;</p><p>我们知道这些扩展问题将继续阻碍我们的发展，所以我们回到了起点，重新考虑了我们从第一原则上需要的东西，而不仅仅是采用当时最流行的方法。我们最终在两种主要架构类型之间达成了一个妥协：模块化单体架构。</p><p>&nbsp;</p><p>当时我们并不知道，但我们已经独立地发现了一个解决方案，这个解决方案<a href=\"https://martinfowler.com/bliki/MonolithFirst.html\">已经存在于社区中</a>\"，让像 <a href=\"https://shopify.engineering/deconstructing-monolith-designing-software-maximizes-developer-productivity\">Shopify</a>\"、<a href=\"https://engineering.gusto.com/building-toward-a-modular-monolith/\">Gusto</a>\"、<a href=\"https://speakerdeck.com/axelfontaine/majestic-modular-monoliths\">Boxfuse</a>\" 和许多其他公司能够在不采用基于微服务的方法的情况下扩展他们的开发。</p><p>&nbsp;</p><p></p><h2>两全其美</h2><p></p><p>&nbsp;</p><p>模块化单体结构依赖于基于微服务架构的模块化概念，同时使用单体代码库进行结构化。</p><p>&nbsp;</p><p>在模块化单体代码库中，源文件按照不同的功能层次结构化，特定的团队负责管理这些目录的所有权和责任。这是两种架构的很好折衷方案，因为它可以在不引入其他性能和部署缺点的情况下，分离功能、所有权和责任。</p><p>&nbsp;</p><p>从实际角度来看，这意味着当你添加新功能时，可以为其创建一个新的目录结构并负责管理，同时可以确信不会干扰任何其他人正在进行的工作。如果你是 Appsmith 的贡献者，那么可以更快地发现需要更改的相关代码，并且无需核心开发人员提供更少的指导。</p><p>&nbsp;</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/4c/4c0c449f6ec80dd01408a2628be2f594.jpeg\" /></p><p></p><p>&nbsp;</p><p>模块化单体架构还拥有单体架构的所有部署优点——用户只需部署单个二进制文件，而不是数百个独立服务。这对于 Appsmith 的终端用户来说非常重要，特别是那些本地部署应用程序的用户，因为他们只需考虑一个自包含的应用程序，而不是数百个相互通信的微服务。</p><p>&nbsp;</p><p></p><h2>为我们做出正确的选择</h2><p></p><p>&nbsp;</p><p>模块化的单体架构使我们能够维护一个大型的代码库并部署一个单一的二进制文件，同时以清晰、有组织的方式模块化功能。这使我们能够平衡我们最终客户的利益（他们希望部署过程更简单）和我们内部团队以及开源社区的利益（他们希望功能更清晰地分离并且为贡献提供更好的指导）。</p><p>&nbsp;</p><p>总的来说，转换到模块化的单体架构是我们在 Appsmith 做出的最好决定之一，这对我们、我们的贡献者和用户都有益。我们并不总是完美的，仍在学习如何最好地使用这个架构，但我们已经学到了一些重要的教训，将在我们关于选择正确架构的系列文章的下一篇中介绍。</p><p>&nbsp;</p><p>原文链接：</p><p>&nbsp;</p><p>https://www.appsmith.com/blog/monoliths-vs-microservices-1</p>",
+    "publish_time": "2024-01-31 12:47:34",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "中国软件技术发展洞察和趋势预测研究报告2024",
+    "url": "https://www.infoq.cn/article/YcyRCPwj38Upvdj4qVmx",
+    "summary": "<h3>研究背景</h3>\n<p>2023年，大模型与生成式AI的崛起无疑成为了技术领域的焦点。在这一年里，大模型和生成式AI的讨论持续“破圈”，各类商用大模型和开源大模型的发布和更新将技术创新推向了新的高峰，相关产品不断发布。<br />\n然而，AI领域的巨大变革外，其他数字技术也在助力实体经济的道路上稳步迈进。5G、数据资产、云计算、数字孪生等技术正融入工业互联网的各个环节，产品设计、资源勘探、生产制造、设备管理、安全生产各个环节之间也日益融合。5G工厂、双跨平台等工业互联网建设成果不断累积和爆发。<br />\n在此背景下，InfoQ研究中心从人工智能新纪元和以数强实稳根基两大篇章，从数据定量和公开资料、专家访谈定性的角度，深入回顾2023年技术市场的重大进展和演进，并以此为基础，探究2024年技术发展的未来方向。<br />\n我们期望，这个VUCA时代，这份报告能够在帮助各位开发者、科技领导者以及各类对技术领域感兴趣的读者朋友，把握未来技术发展的脉络。InfoQ研究中心也将继续以专业、客观和持续的报告产出，同大家一起见证技术发展的每一个重要时刻。</p>\n<h3>数据来源</h3>\n<p><img alt=\"\" src=\"https://static001.infoq.cn/resource/image/80/68/80ece3203d3b06ff613f0c289d802e68.jpg\" /></p>\n<h3>技术成熟度</h3>\n<p><img alt=\"\" src=\"https://static001.infoq.cn/resource/image/51/d7/51c342704909de7d31fed9b361a9cdd7.jpg\" /></p>\n<h3>报告专家团</h3>\n<ul>\n<li>蔡超 汇量科技 Mobvista 技术 VP 兼首席架构师</li>\n<li>董晓聪 作业帮 基础架构 负责人</li>\n<li>冯嘉 分布式基础软件领域资深专家，现任华为云中间件首席专家，部门负责人</li>\n<li>郭炜 白鲸开源 CEO，Apache&nbsp;Software&nbsp;Foundation&nbsp;Member</li>\n<li>胡宗星 九章云极 DataCanvas 高级产品总监</li>\n<li>蒋林泉 阿里云CIO&amp;aliyun.com负责人</li>\n<li>李洁 北京阿哇科技 创始人</li>\n<li>李飞 数势科技AI负责人</li>\n<li>刘道儒 星汉未来CEO</li>\n<li>刘东 网易杭州研究院 人工智能专家，AI 算法团队负责人</li>\n<li>刘松 PingCAP 副总裁</li>\n<li>芦宇峰（肉山）小电科技 董事兼VP，TGO鲲鹏会（杭州）董事会成员</li>\n<li>孙百冬 中国石油昆仑数智&nbsp;数字化咨询中心副主任&nbsp;油气数字化转型资深专家</li>\n<li>吴晟 Tetrate 创始工程师，Apache SkyWalking创始人</li>\n<li>宜博 大模型农场 LLMFarm 创始人，&nbsp;TGO&nbsp;鲲鹏会（北京）董事会成员</li>\n<li>张文举 人工智能领域专家</li>\n<li>Fabarta技术团队</li>\n</ul>",
+    "publish_time": "2024-01-31 12:53:27",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "Alphabet just banked $3.0B by stretching the life of its servers",
+    "url": "https://www.theregister.com/2024/01/31/alphabet_q4_2023/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39199841\">Comments</a>",
+    "publish_time": "2024-01-31 12:16:13",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "USCIS announces strengthened integrity measures for H-1B program",
+    "url": "https://www.uscis.gov/newsroom/news-releases/uscis-announces-strengthened-integrity-measures-for-h-1b-program",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39197550\">Comments</a>",
+    "publish_time": "2024-01-31 07:36:24",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Relationship Hero (YC S17) is hiring relationship coaches",
+    "url": "https://relationshiphero.com/careers?role=coach",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39195747\">Comments</a>",
+    "publish_time": "2024-01-31 05:00:35",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "165 m private submersible superyacht",
+    "url": "https://www.migaloo-submarines.com/m5-1-of-1/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39198281\">Comments</a>",
+    "publish_time": "2024-01-31 08:55:17",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Google search drops cache link from search results",
+    "url": "https://www.seroundtable.com/google-search-drops-cache-link-from-search-results-36787.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39198329\">Comments</a>",
+    "publish_time": "2024-01-31 09:01:11",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
