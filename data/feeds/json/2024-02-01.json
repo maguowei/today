@@ -1725,5 +1725,89 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "潘玮柏宣云芬兰看极光",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%BD%98%E7%8E%AE%E6%9F%8F%E5%AE%A3%E4%BA%91%E8%8A%AC%E5%85%B0%E7%9C%8B%E6%9E%81%E5%85%89%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "刘德华扫楼听到恭喜发财的反应",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E6%89%AB%E6%A5%BC%E5%90%AC%E5%88%B0%E6%81%AD%E5%96%9C%E5%8F%91%E8%B4%A2%E7%9A%84%E5%8F%8D%E5%BA%94%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "美股三大指数集体收跌，大型科技股多数下跌",
+    "url": "https://www.36kr.com/newsflashes/2629131488641282",
+    "summary": "36氪获悉，1月31日收盘，美股三大指数集体下跌，道指跌0.82%，纳指跌2.23%，标普500指数跌1.61%。大型科技股多数下跌，谷歌跌超7%，Meta、亚马逊、微软、特斯拉跌超2%，苹果跌超1%，Netflix涨0.22%。热门中概股涨跌不一，高途涨超5%，B站、拼多多涨超1%，理想汽车涨0.47%，百度、网易小幅上涨，小鹏汽车跌超3%，蔚来跌超2%，京东跌近1%，阿里巴巴小幅下跌。",
+    "publish_time": "2024-02-01 07:00:38",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Tried Vision Pro. Here's what I thought",
+    "url": "https://old.reddit.com/r/OculusQuest/comments/1aetqks/long_posttried_vision_pro_heres_what_i_thought/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39210431\">Comments</a>",
+    "publish_time": "2024-02-01 06:39:08",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Comcast reluctantly agrees to stop its misleading \"10G Network\" claims",
+    "url": "https://arstechnica.com/tech-policy/2024/01/comcast-to-stop-calling-entire-network-10g-as-name-is-ruled-misleading/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39209469\">Comments</a>",
+    "publish_time": "2024-02-01 05:10:13",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Visual Analysis of Binary Files",
+    "url": "http://binvis.io/#/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39210436\">Comments</a>",
+    "publish_time": "2024-02-01 06:39:35",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Non-deterministic execution of Python functions",
+    "url": "https://gitlab.inria.fr/cpaperma/nondet",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39209684\">Comments</a>",
+    "publish_time": "2024-02-01 05:31:29",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "I don't want anything your AI generates",
+    "url": "https://coryd.dev/posts/2024/i-dont-want-anything-your-ai-generates/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39210126\">Comments</a>",
+    "publish_time": "2024-02-01 06:11:08",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
