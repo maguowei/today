@@ -1266,5 +1266,107 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "我家的显眼包",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%AE%B6%E7%9A%84%E6%98%BE%E7%9C%BC%E5%8C%85%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "乱港艺人王宗尧暴动罪成立",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B9%B1%E6%B8%AF%E8%89%BA%E4%BA%BA%E7%8E%8B%E5%AE%97%E5%B0%A7%E6%9A%B4%E5%8A%A8%E7%BD%AA%E6%88%90%E7%AB%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "金道英生日卡",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E9%81%93%E8%8B%B1%E7%94%9F%E6%97%A5%E5%8D%A1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "熬夜后吃护肝片或增加肝损伤",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%86%AC%E5%A4%9C%E5%90%8E%E5%90%83%E6%8A%A4%E8%82%9D%E7%89%87%E6%88%96%E5%A2%9E%E5%8A%A0%E8%82%9D%E6%8D%9F%E4%BC%A4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Starlink's Laser System Is Beaming 42 Petabytes of Data per Day",
+    "url": "https://www.pcmag.com/news/starlinks-laser-system-is-beaming-42-million-gb-of-data-per-day",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39219568\">Comments</a>",
+    "publish_time": "2024-02-02 02:44:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Watch a 7k-LB Rivian R1T Destroy a Guardrail in Eyebrow-Raising Test",
+    "url": "https://www.thedrive.com/news/rivian-r1t-destroys-guardrail-ev-safety-crash-test-video",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39219371\">Comments</a>",
+    "publish_time": "2024-02-02 02:27:19",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Analysts Estimate Nvidia Owns 98% of the Data Center GPU Market",
+    "url": "https://www.extremetech.com/computing/analysts-estimate-nvidia-owns-98-of-the-data-center-gpu-market",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39219258\">Comments</a>",
+    "publish_time": "2024-02-02 02:19:48",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Artificial Intelligence and Peace – Pope Francis",
+    "url": "https://www.vatican.va/content/francesco/en/messages/peace/documents/20231208-messaggio-57giornatamondiale-pace2024.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39218867\">Comments</a>",
+    "publish_time": "2024-02-02 01:50:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The web just gets better with Interop 2024",
+    "url": "https://webkit.org/blog/14955/the-web-just-gets-better-with-interop/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39218638\">Comments</a>",
+    "publish_time": "2024-02-02 01:33:33",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A SQLite extension that brings column-oriented tables to SQLite",
+    "url": "https://github.com/dgllghr/stanchion",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39219349\">Comments</a>",
+    "publish_time": "2024-02-02 02:25:37",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
