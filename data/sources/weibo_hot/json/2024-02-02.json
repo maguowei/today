@@ -628,5 +628,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "京东采销上春晚了",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C%E9%87%87%E9%94%80%E4%B8%8A%E6%98%A5%E6%99%9A%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "回南天 独属南方人的中式怪谈",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%9B%9E%E5%8D%97%E5%A4%A9+%E7%8B%AC%E5%B1%9E%E5%8D%97%E6%96%B9%E4%BA%BA%E7%9A%84%E4%B8%AD%E5%BC%8F%E6%80%AA%E8%B0%88%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "南方的回南天有多离谱",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%96%B9%E7%9A%84%E5%9B%9E%E5%8D%97%E5%A4%A9%E6%9C%89%E5%A4%9A%E7%A6%BB%E8%B0%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
