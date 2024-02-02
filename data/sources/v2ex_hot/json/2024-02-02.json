@@ -53,5 +53,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "学历一般，经历也一般，想进大厂。如何破局？",
+    "url": "https://www.v2ex.com/t/1013625",
+    "summary": "yannickwhoo: op 本科末流 211 计算机，目前在 od 干外包，履历比较烂。。想进大厂只有考研校招了么，各位大佬、前辈点进来给点建议吧",
+    "publish_time": "2024-02-02 11:30:16",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "农村亲戚炫耀二本儿子在福建当程序员月薪一万二，应该如何应对？",
+    "url": "https://www.v2ex.com/t/1013644",
+    "summary": "W3Cbox: 最近过年返乡遇到一件让我有些尴尬的事情。在一次酒席上，同桌而坐的亲戚一直说自己儿子有多厉害，还不停地夸耀月薪一万二，说的他儿子好有出息。其实我也知道我不如他儿子优秀，但是作为专科生的我还是感觉有点尴尬。而且亲戚这样炫耀，让我感觉好像我们其他人的孩子都不如他家的一样。虽然心里有些不满，但我也知道不能直接和亲戚翻脸。那么应该如何应对这种情况呢？",
+    "publish_time": "2024-02-02 12:57:26",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "为什么会认为 2w 的活儿 给的钱太少了？？",
+    "url": "https://www.v2ex.com/t/1013672",
+    "summary": "Motorola3: <p>大致需求如下</p>\n<ol>\n<li>多平台直播定时推流 （需要分为 代理推流和本地推流）</li>\n<li>直播活动进度监控 与 直播活动完成情况监控</li>\n<li>直播活动定时抢</li>\n<li>卡密验证/账号密码验证</li>\n<li>机器监控(探针)</li>\n</ol>\n<p>这是上一个帖子的大致需求，我真不理解 什么开发经费 10w-20w ？\n又不要求 ui 主打一个能用就行\n推流很难吗 要求推的是.mp4 或者是 flv 的视频文件而已 ffmpeg+循环不就搞定？\n代理推流配 nginx 不可以？\n难点主要在于 活动的监控与抢卡密\n和账号密码验证\n探针不能吧开源的哪吒改动改动放进来用？\n开发周期 30 天 足够慢慢做了吧</p>\n<p>我真不理解 什么 啊 2w 就是死命打工人 这不是工资之外的钱？\n我不知道这种发言的都年薪多少 不能理解\n还有雇三年的 外包都 2500 一天？ 哪怕是真的 中间公司抽多少？ 真落到个人身上能落多少？\n到底是真大牛看不上这价格 还是说就是口嗨 觉得啊 我中间抽成了 我中间抽成是因为我要担责任 人家有事找我 看的间的看不见的对接不麻烦嘛？ 我就不应该抽成？ 就应该无私的吧项目包出去然后出问题找我嘛\n不能理解</p>",
+    "publish_time": "2024-02-02 14:39:27",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
