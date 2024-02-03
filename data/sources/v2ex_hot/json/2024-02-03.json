@@ -1,0 +1,35 @@
+[
+  {
+    "title": "tauri 真的太难用了，浪费了我整整一天",
+    "url": "https://www.v2ex.com/t/1013792",
+    "summary": "drymonfidelia: <p>天天看 V2 有人吹 tarui ，刚好有客户反应我们客户端太大了，于是给公司打包新网站（启动动画播完 location.href 跳转到线上地址，没别的功能）成 exe 的时候想试一下</p>\n<p>我们网站检测是否客户端访问是检测请求头的 app-name 字段是否有值（有个中间件，全部请求都检测）</p>\n<p>Electron 非常简单，三行代码搞定</p>\n<pre><code> session.defaultSession.webRequest.onBeforeSendHeaders(filter, (details, callback) =&gt; {\n    details.requestHeaders['app-name'] ='myapp'\n    details.requestHeaders['app-ver'] = '1.0-win'\n    details.requestHeaders['app-iver'] = '20240202-01M'\n    \n    callback({ requestHeaders: details.requestHeaders })\n  })\n</code></pre>\n<p>tauri 这个问题 Google 能搜到 4 篇讨论贴，实际给出方案的只有这一篇 <a href=\"https://github.com/tauri-apps/tauri/discussions/4912\" rel=\"nofollow\">https://github.com/tauri-apps/tauri/discussions/4912</a></p>\n<p>有人在下面提问说编译不了，快半年了没人回复</p>\n<p>我看 Rust 和 tauri 文档折腾了一天还没搞定，放弃了，用 Electron 3 分钟打好包提交 <strong>（最后还被领导骂了这么简单一个需求弄了一天是不是又在上班时间打游戏）</strong></p>\n<p>附上我改的最后一版，还是不行，有能力的 V 友看看要写多少行才能实现这个简单的功能</p>\n<pre><code>fn main() {\n    tauri::Builder::default()\n        .setup(|app| {\n            let main_window = app.get_window(\"main\").unwrap();\n            main_window.with_webview(|webview| unsafe {\n                let core = webview.controller().CoreWebView2().unwrap();\n                let mut token: EventRegistrationToken = EventRegistrationToken::default();\n                core.AddWebResourceRequestedFilter(\"*\", COREWEBVIEW2_WEB_RESOURCE_CONTEXT_ALL);\n                core.add_WebResourceRequested(\n                    CoreWebView2WebResourceRequestedEventHandler::create(Box::new(move |sender, args| {\n                        if let Some(args) = args {\n                            let request: ICoreWebView2WebResourceRequest = args.Request().unwrap();\n                            request\n                                .Headers()\n                                .unwrap()\n                                .SetHeader(\"app-name\", \"myapp\")\n                                .SetHeader(\"app-ver\", \"1.0-win\")\n                                .SetHeader(\"app-iver\", \"20240202-01W\")\n                                .unwrap();\n                        }\n                        Ok(())\n                    })),\n                    &amp;mut token,\n                );\n            });\n            Ok(())\n        })\n        .invoke_handler(tauri::generate_handler![greet])\n        .run(tauri::generate_context!())\n        .expect(\"error while running tauri application\");\n}\n</code></pre>",
+    "publish_time": "2024-02-03 01:20:49",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "有必要升级到 win11 吗",
+    "url": "https://www.v2ex.com/t/1013804",
+    "summary": "luckyjoe: <p>win10 用了好几年了，手痒痒想升级 win11 ， 有必要升级吗？ win11 相比 win10 ，有哪些明显的优点和缺点？ 谢谢。</p>",
+    "publish_time": "2024-02-03 07:21:17",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "都陆续放假了，我还要连上四天，要吐了。。。。",
+    "url": "https://www.v2ex.com/t/1013811",
+    "summary": "Lyn321: <p>本来连上 10 天就挺累的，但是今天看到群里别的小伙伴都放假了，心里更累了。难过，上吐了要。</p>",
+    "publish_time": "2024-02-03 08:59:47",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  }
+]
