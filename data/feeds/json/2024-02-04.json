@@ -1551,5 +1551,34 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "以茶会友会友为龙",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%8C%B6%E4%BC%9A%E5%8F%8B%E4%BC%9A%E5%8F%8B%E4%B8%BA%E9%BE%99%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "马天宇说cp都是假的",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%A4%A9%E5%AE%87%E8%AF%B4cp%E9%83%BD%E6%98%AF%E5%81%87%E7%9A%84%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "The scientists fighting the epidemic of fraudulent science research",
+    "url": "https://www.analystnews.org/posts/plagiarism-paper-mills-and-profit-these-scientists-are-fighting-the-epidemic-of-fraudulent-science-research",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39244601\">Comments</a>",
+    "publish_time": "2024-02-04 04:49:39",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
