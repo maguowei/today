@@ -1614,5 +1614,76 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Apple 贺岁片 小蒜头",
+    "url": "https://s.weibo.com/weibo?q=%23Apple+%E8%B4%BA%E5%B2%81%E7%89%87+%E5%B0%8F%E8%92%9C%E5%A4%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "你努把力把他拐回国结婚",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%8A%AA%E6%8A%8A%E5%8A%9B%E6%8A%8A%E4%BB%96%E6%8B%90%E5%9B%9E%E5%9B%BD%E7%BB%93%E5%A9%9A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "只有陈都灵在前面认真拍照",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%AA%E6%9C%89%E9%99%88%E9%83%BD%E7%81%B5%E5%9C%A8%E5%89%8D%E9%9D%A2%E8%AE%A4%E7%9C%9F%E6%8B%8D%E7%85%A7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Solving the Darknet Riddle",
+    "url": "https://sizeof.life/posts/darknet-riddle/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39254274\">Comments</a>",
+    "publish_time": "2024-02-05 04:47:07",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The pain points of building a copilot",
+    "url": "https://austinhenley.com/blog/copilotpainpoints.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39254869\">Comments</a>",
+    "publish_time": "2024-02-05 05:50:47",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Netflix: Piracy Is Difficult to Compete Against and Growing Rapidly",
+    "url": "https://torrentfreak.com/netflix-piracy-is-difficult-to-compete-against-and-growing-rapidly-240204/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39254807\">Comments</a>",
+    "publish_time": "2024-02-05 05:44:22",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Sapling: A highly experimental vi-inspired editor where you edit code, not text",
+    "url": "https://github.com/kneasle/sapling",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39253798\">Comments</a>",
+    "publish_time": "2024-02-05 04:01:07",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
