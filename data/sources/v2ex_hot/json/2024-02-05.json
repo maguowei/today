@@ -1,0 +1,35 @@
+[
+  {
+    "title": "在扩展脚本方面，用户为何不太愿意接受 Python ?",
+    "url": "https://www.v2ex.com/t/1014257",
+    "summary": "MegatronKing: <p>大家好，我是<a href=\"https://reqable.com/\" rel=\"nofollow\">Reqable</a>的开发者，给大家分享我在推广 Python 作为程序扩展脚本时遇到的一些问题和思考。如果大家对这个方面有想法和建议也非常欢迎一起讨论，不甚感激。</p>\n<p>先说下大体的背景，我的产品 Reqable 是 API 抓包和测试一体化工具。这一类工具基本上都会用到扩展脚本，比如 Fiddler 使用了 FiddlerScript 作为扩展脚本，Postman 和 Proxyman 等使用 Javascript 。用户可以编写扩展脚本来动态地修改请求或者响应数据，相比静态功能来说，提供了更多的可能性。</p>\n<p>在设计 Reqable 的时候，我考虑了两种方案：方案 A 是 Javacript ，方案 B 是 Python ，最后定下来方案 B 。谈谈我当初的考虑，Reqable 本身是基于 Flutter 而不是基于 Web 引擎，如果需要支持 Javacript 需要像 React Native 一样额外引入 JSCore 来解释执行 Javacript ，技术实现上来说稍微麻烦点但难度也不大，包体积会大一些但也还好。对于 Python 而言，主流 Windows 和 Mac 上系统默认都已经预安装了，用 Linux 的基本上也会安装，所以可以直接借助用户的 Python 环境来执行脚本，不需要引入额外的库。另外，我考虑到 Python 的在用户宽度可能会更广，比如测试工程师、安全工程师、爬虫工程师等等，而 Javacript 在前端会更加流行。综上原因，最终我选择了 Python 作为扩展脚本语言。</p>\n<p>但是想法虽好，用户却不是很买单。有些用户建议我支持 Javacript 脚本，还有一些说 Python 直接劝退。这些反馈让我不得不重新审视之前的想法，考虑是否需要增加 Javascript 作为扩展脚本。当然，维护两套扩展脚本框架我不是很情愿，这个会极大地增加后续维护和迭代的工作量。技术实现难度反而是其次，大佬 Levi 也很贴心地给我提供了他产品目前使用 Javascript 作为扩展脚本的方案： <a href=\"https://zhuanlan.zhihu.com/p/672772729\" rel=\"nofollow\">https://zhuanlan.zhihu.com/p/672772729</a> 。</p>\n<p>说回目前的困境，大家不太能接受 Python 的原因，我的个人的反思和调研出来的是以下几点：</p>\n<ul>\n<li>Python 作为扩展脚本不多见，或者和用户的技术栈不匹配。</li>\n<li>Reqable 内置的代码编辑器功能不完善，无法流畅编写 Python 代码。</li>\n<li>生态不佳，大家更喜欢现成拿来就用的而不是自己去编写。</li>\n</ul>\n<p>针对这几个原因，我做了一些努力和尝试，希望能再挣扎几下：</p>\n<p>第一点：技术栈的问题目前无解，但我还是相信 Python 的用户宽度更广。当然，如果能熟用 GPT ，技术栈也不是什么问题，直接提需求让 GPT 写。</p>\n<p>第二点：确实是一个很大的问题，例如代码编辑器缺少代码提示和补全，调试功能不方便。针对这个问题，我完善了代码编辑器，加上了代码提示和补全功能。对于调试，则提供了日志控制台功能，当然断点调试目前还不知道怎么去支持。</p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://pic4.zhimg.com/v2-f2b8b682976c2ded057440457e70f693_b.jpg\" /></p>\n<p>第三点：对于拿来主义，我的设想是提供一个开源的<a href=\"https://github.com/reqable/reqable-scripting-templates\" rel=\"nofollow\">公共模板仓库</a>，将一些常用的脚本放进去，用户可以直接在 Reqable 里面 Fork 并使用。例如，我写了个利用 Python 扩展脚本自动生成并添加阿里云 OSS 资源访问的签名头部。</p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://pic2.zhimg.com/v2-dd03806d318bc58b3f14276fd657bf01_b.jpg\" /></p>\n<p>我暂时就想到了这么多，效果好不好目前还不确定，如果大家还有想法和见解，欢迎补充。</p>",
+    "publish_time": "2024-02-05 00:07:05",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "1000 块的闲钱，买什么东西好？",
+    "url": "https://www.v2ex.com/t/1014286",
+    "summary": "FlutterKira: a. 一副看电脑专用的防蓝光眼镜<br />b. 一台显示器<br />c. 人体工学鼠标<br />d. 分体式人体工学键盘<br /><br />a：我近视度数比较高，戴着眼镜看电脑很累，摘下眼镜能看书但看不清电脑，有度数低的旧眼镜但磨损得太严重已经不适合佩戴了，想再配一副低度数眼镜，既然是看电脑专用的话就选个好点的防蓝光镜片<br />b：手上只有 16 寸的笔记本<br />c 和 d 则是添头，手上已经有一套键鼠了，出于新鲜感想试试人体工学的有什么不一样<br /><br />如果不考虑便宜货和二手，以上四个最多买两个，想知道大家会怎么选择，或是有什么其他的选项",
+    "publish_time": "2024-02-05 09:08:00",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "如何评价我旁边同事写的代码，给我气笑了",
+    "url": "https://www.v2ex.com/t/1014293",
+    "summary": "tmtstudio: <p><img alt=\"9c1dc009a062100e00002f5024d139ac.png\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.miji.bid/2024/02/05/9c1dc009a062100e00002f5024d139ac.png\" /></p>",
+    "publish_time": "2024-02-05 09:34:44",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  }
+]
