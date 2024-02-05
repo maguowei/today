@@ -1204,5 +1204,107 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "祝绪丹新剧妆造",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%A5%9D%E7%BB%AA%E4%B8%B9%E6%96%B0%E5%89%A7%E5%A6%86%E9%80%A0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "湖北高速暴雪互助",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8C%97%E9%AB%98%E9%80%9F%E6%9A%B4%E9%9B%AA%E4%BA%92%E5%8A%A9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "杨紫要久久爱攻克哭戏难关",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%A6%81%E4%B9%85%E4%B9%85%E7%88%B1%E6%94%BB%E5%85%8B%E5%93%AD%E6%88%8F%E9%9A%BE%E5%85%B3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "梅西领衔迈阿密国际抵达日本东京，正式开启日本行，微笑与球迷打招呼，如何看待此事？",
+    "url": "https://www.zhihu.com/question/643135492",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Ask HN: What have you built with LLMs?",
+    "url": "https://news.ycombinator.com/item?id=39263664",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39263664\">Comments</a>",
+    "publish_time": "2024-02-06 01:16:27",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "WA House bill would make it illegal for police to lie during interrogations",
+    "url": "https://www.seattletimes.com/seattle-news/politics/wa-house-would-make-it-illegal-for-police-to-lie-during-interrogations/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39264383\">Comments</a>",
+    "publish_time": "2024-02-06 02:03:37",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Weaveworks is shutting down",
+    "url": "https://www.linkedin.com/posts/richardsonalexis_hi-everyone-i-am-very-sad-to-announce-activity-7160295096825860096-ZS67",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39262650\">Comments</a>",
+    "publish_time": "2024-02-06 00:06:50",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Out-of-bounds read and write in the glibc's qsort()",
+    "url": "https://www.openwall.com/lists/oss-security/2024/01/30/7",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39264396\">Comments</a>",
+    "publish_time": "2024-02-06 02:04:06",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Bootstrap or VC? [video]",
+    "url": "https://www.youtube.com/watch?v=D81y-kh11oI",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39264116\">Comments</a>",
+    "publish_time": "2024-02-06 01:47:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Atopile – Design circuit boards with code",
+    "url": "https://news.ycombinator.com/item?id=39263854",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39263854\">Comments</a>",
+    "publish_time": "2024-02-06 01:30:50",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
