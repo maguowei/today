@@ -64,5 +64,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "第三方平台爬 12306 的数据、抢票是否涉嫌破坏计算机信息系统？",
+    "url": "https://www.v2ex.com/t/1014283",
+    "summary": "yuzo555: <p>我之前以为 12306 至少和携程/飞猪/去哪儿这种大型出行平台有合作。</p>\n<p>今天看到新闻，铁路 12306 科创中心技术负责人杨立鹏就公众关注的春运火车票购票相关问题进行解答。其中提到：</p>\n<blockquote>\n<p>“网传‘抢票软件’可通过集中抢票，然后不支付返票或支付后退票，再让退回的车票满足自己提交的候补需求”，其实，利用这种手段抢到车票的概率极低。因为“抢票软件”提交候补需求最终需要进入 12306 候补队列，而 12306 系统的候补是按订单生成的时间顺序兑现，抢票软件无法将其排在后面的候补需求调整至前列，同时 12306 系统可通过多种途径，识别出有异常的候补需求订单并加以处置，不会将票额优先满足异常候补需求。</p>\n</blockquote>\n<blockquote>\n<p>一些“抢票软件”在其相关页面和功能介绍中大量设置 12306 字样，让旅客误以为其与铁路 12306 平台有合作，票额有保证。<strong>实际情况是，12306 平台从未与任何第三方平台机构有合作，也未将票额分配给任何第三方平台发售，也没有与任何第三方平台进行数据链接。</strong></p>\n</blockquote>\n<blockquote>\n<p>“抢票软件”平台页面上显示的余票数据，是从 12306 平台爬取页面显示的信息，然后再修改加工而成。当某车次列车车票售完后，12306 平台上会显示该车次无票，但“抢票软件”平台上显示时将其更改为“有票”，实质是让旅客“买长乘短”和“买短乘长”。“抢票软件”诱导旅客设置多个发到站组合，采用多花钱、购买实际到站前方几站车票的“买长乘短”方式，以及先买短途车票上车、违规不下车的“买短乘长”方式购票。在“有票”下方附加设置小字提示，如“多买几站”或“全程不用下车、上车补票”等，这种“有票”并不是真的有出发站至到站车票。“买长乘短”让旅客多付费用，“买短乘长”、上车补票可能会引发列车超员报警、影响列车运行安全，铁路部门将依规请“买短乘长”人员下车，旅客出行会受到很大影响。</p>\n</blockquote>\n<p>那这些第三方平台的爬虫，除了爬取数据，还能抢票，是否涉嫌<strong>破坏计算机信息系统罪</strong>，12306 是否可以报警？如果可以，为什么它没有这么做呢？</p>",
+    "publish_time": "2024-02-05 08:50:38",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "快过年了，整个活， AI 春联～",
+    "url": "https://www.v2ex.com/t/1014312",
+    "summary": "YunYouJun: <p>AI 定制春联，欢迎返图（👏</p>\n<ul>\n<li><a href=\"https://ai-sfc.yunyoujun.cn/\" rel=\"nofollow\">ai-sfc.yunyoujun.cn</a></li>\n<li>GitHub: <a href=\"https://github.com/YunYouJun/ai-sfc\" rel=\"nofollow\">YunYouJun/ai-sfc</a></li>\n</ul>\n<p><img alt=\"IMG_0602.JPG\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://s2.loli.net/2024/02/05/Z4gmJci3YXFIoWr.jpg\" />\n<img alt=\"GFgrTGcaUAAN3xn.jpeg\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://s2.loli.net/2024/02/05/LwJDY1clRVSyrW3.jpg\" />\n<img alt=\"IMG_0598.JPG\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://s2.loli.net/2024/02/05/F5jL8Gh2SgAUKDk.jpg\" /></p>",
+    "publish_time": "2024-02-05 10:18:26",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
