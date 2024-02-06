@@ -1620,5 +1620,96 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "谢娜玩游戏从不让着女儿",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E7%8E%A9%E6%B8%B8%E6%88%8F%E4%BB%8E%E4%B8%8D%E8%AE%A9%E7%9D%80%E5%A5%B3%E5%84%BF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "吴磊赵今麦床头咚的一百种姿势",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E8%B5%B5%E4%BB%8A%E9%BA%A6%E5%BA%8A%E5%A4%B4%E5%92%9A%E7%9A%84%E4%B8%80%E7%99%BE%E7%A7%8D%E5%A7%BF%E5%8A%BF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如果在影响最小的前提下去掉尽可能多的英文字母，你会怎么选择？",
+    "url": "https://www.zhihu.com/question/642843235",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价《崩坏：星穹铁道》开拓任务「长日入夜行」?",
+    "url": "https://www.zhihu.com/question/643189169",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美股三大指数集体收涨，热门中概股普涨",
+    "url": "https://www.36kr.com/newsflashes/2637614350090504",
+    "summary": "36氪获悉，2月6日收盘，美股三大指数集体收涨，道指涨0.37%，纳指涨0.07%，标普500指数涨0.23%。大型科技股涨跌不一，特斯拉涨超2%，苹果涨0.86％，谷歌涨0.29％，Netflix、Meta跌超1％，亚马逊跌0.68％，微软跌0.04％。热门中概股普涨，蔚来、B站、爱奇艺涨超12%，小鹏汽车涨超11%，理想汽车涨超10%，京东涨超7%，阿里巴巴、36氪涨超4%，百度、拼多多涨超3%。",
+    "publish_time": "2024-02-07 07:00:00",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Apple to EU: \"Go fuck yourself\"",
+    "url": "https://pluralistic.net/2024/02/06/spoil-the-bunch/#dma",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39281914\">Comments</a>",
+    "publish_time": "2024-02-07 06:46:27",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Geppetto, an open source AI companion for your Slack teams",
+    "url": "https://github.com/Deeptechia/geppetto",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39280358\">Comments</a>",
+    "publish_time": "2024-02-07 04:48:06",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Demystifying GPU compute architectures",
+    "url": "https://thechipletter.substack.com/p/demystifying-gpu-compute-architectures",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39279163\">Comments</a>",
+    "publish_time": "2024-02-07 03:20:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "SQL for data scientists in 100 queries",
+    "url": "https://gvwilson.github.io/sql-tutorial/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39281178\">Comments</a>",
+    "publish_time": "2024-02-07 05:50:26",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
