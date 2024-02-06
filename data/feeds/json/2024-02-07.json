@@ -1235,5 +1235,94 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "论深入学习贯彻习近平文化思想",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%AE%BA%E6%B7%B1%E5%85%A5%E5%AD%A6%E4%B9%A0%E8%B4%AF%E5%BD%BB%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%87%E5%8C%96%E6%80%9D%E6%83%B3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "联盟的意志厨神争霸",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%81%94%E7%9B%9F%E7%9A%84%E6%84%8F%E5%BF%97%E5%8E%A8%E7%A5%9E%E4%BA%89%E9%9C%B8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "2024 LPL 春季赛EDG 1:2 FPX，如何评价这场比赛？",
+    "url": "https://www.zhihu.com/question/643237552",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价周一围、王丽坤主演的电视剧《大唐狄公案》?",
+    "url": "https://www.zhihu.com/question/640052319",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "“龙行龘龘，前程朤朤”怎么读，具体意义是什么？（龙年美好祝福）?",
+    "url": "https://www.zhihu.com/question/640193374",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Three million malware-infected smart toothbrushes used in Swiss DDoS attacks",
+    "url": "https://www.tomshardware.com/networking/three-million-malware-infected-smart-toothbrushes-used-in-swiss-ddos-attacks-botnet-causes-millions-of-euros-in-damages",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39277990\">Comments</a>",
+    "publish_time": "2024-02-07 02:07:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "BuildKit in depth: Docker's build engine explained",
+    "url": "https://depot.dev/blog/buildkit-in-depth",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39277451\">Comments</a>",
+    "publish_time": "2024-02-07 01:31:24",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "DeepSeekMath 7B achieved 51.7% on MATH benchmark",
+    "url": "https://github.com/deepseek-ai/DeepSeek-Math",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39276623\">Comments</a>",
+    "publish_time": "2024-02-07 00:45:16",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The world is awful. The world is much better. The world can be much better",
+    "url": "https://ourworldindata.org/much-better-awful-can-be-better",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39278631\">Comments</a>",
+    "publish_time": "2024-02-07 02:46:25",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
