@@ -574,5 +574,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "今朝cp再上恋综",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%9C%9Dcp%E5%86%8D%E4%B8%8A%E6%81%8B%E7%BB%BC%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "短剧少爷和我",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E5%B0%91%E7%88%B7%E5%92%8C%E6%88%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
