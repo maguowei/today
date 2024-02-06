@@ -75,5 +75,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "葱省联通已经禁止光猫改桥接了",
+    "url": "https://www.v2ex.com/t/1014670",
+    "summary": "raysonx: <p>上星期一周内新装了两条联通宽带，一条是在北京新加装的第二条宽带，另一条是给爱人山东老家的房子装的。北京联通装机时改桥接要公网 IP 一气呵成，装机师傅当场全给搞定。</p>\n<p>山东这边的装机师傅说从上个月开始不允许改桥接了，真要改的话需要向省公司报备同意，还扬言说投诉也没用。我给他讲我的 NAS 、游戏机联机因为 NAT 类型限制没法用怎么解决，对方说他们知道有这些影响，让我去找客服或者报装的地方，意思是和他们装机人员无关。</p>\n<p>现在因为光猫拔号，下接的路由器（非 AP 模式）既没有公网 IPv4 地址，也获取不到 IPv6 的 PD 地址段，内网设备完全没法暴露公网。因为我们在这房子不常住，宽带也不在我名下，还没有去尝试破解或者去通管局或者工信部投诉。感觉这种事情非常符合葱省一刀切的官僚作风。</p>",
+    "publish_time": "2024-02-06 15:05:30",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
