@@ -1571,5 +1571,78 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "张小斐反差",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E5%8F%8D%E5%B7%AE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何评价游戏《崩坏3rd》制作组在2024年2月4日发布的问题说明和补偿？",
+    "url": "https://www.zhihu.com/question/642897815",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Nvidia's \"Grace\" Arm CPU holds its own against x86 for HPC",
+    "url": "https://www.nextplatform.com/2024/02/06/nvidias-grace-arm-cpu-holds-its-own-against-x86-for-hpc/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39294433\">Comments</a>",
+    "publish_time": "2024-02-08 05:17:49",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Adaptive Cards: Platform-agnostic snippets of UI, authored in JSON",
+    "url": "https://adaptivecards.io/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39294372\">Comments</a>",
+    "publish_time": "2024-02-08 05:11:05",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A conspiracy to kill IE6 (2019)",
+    "url": "https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39294406\">Comments</a>",
+    "publish_time": "2024-02-08 05:14:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The appendix is not, in fact, useless",
+    "url": "https://www.npr.org/sections/health-shots/2024/02/02/1228474984/appendix-function-appendicitis-gut-health",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39294346\">Comments</a>",
+    "publish_time": "2024-02-08 05:09:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Disney to take $1.5B stake in Epic Games",
+    "url": "https://www.cnbc.com/2024/02/07/disney-to-take-1point5-billion-stake-in-epic-games-maker-of-fortnite.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39294799\">Comments</a>",
+    "publish_time": "2024-02-08 05:54:45",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
