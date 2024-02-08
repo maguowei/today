@@ -1302,5 +1302,78 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "坐小孩那桌",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%9D%90%E5%B0%8F%E5%AD%A9%E9%82%A3%E6%A1%8C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "2024深圳成都城市春晚",
+    "url": "https://s.weibo.com/weibo?q=%232024%E6%B7%B1%E5%9C%B3%E6%88%90%E9%83%BD%E5%9F%8E%E5%B8%82%E6%98%A5%E6%99%9A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "The wealthy are cutting the line at the airport, Disney World and ski resorts",
+    "url": "https://www.cnn.com/2024/02/08/business/line-skipping-clear-disney/index.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39305912\">Comments</a>",
+    "publish_time": "2024-02-09 02:51:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Days Since Incident",
+    "url": "https://neal.fun/days-since-incident/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39306513\">Comments</a>",
+    "publish_time": "2024-02-09 03:35:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Apple Vision Pro review: Eyes on the future",
+    "url": "https://sixcolors.com/post/2024/02/apple-vision-pro-review-eyes-on-the-future/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39306695\">Comments</a>",
+    "publish_time": "2024-02-09 03:48:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Daily price tracking for Trader Joe's",
+    "url": "https://traderjoesprices.com",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39304068\">Comments</a>",
+    "publish_time": "2024-02-09 00:37:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Physics for Mathematicians – Introduction",
+    "url": "https://nicf.net/articles/physics-for-mathematicians/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39305931\">Comments</a>",
+    "publish_time": "2024-02-09 02:52:37",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
