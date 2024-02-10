@@ -1,0 +1,13 @@
+[
+  {
+    "title": "DoorDash 使用 Flink 开发了新的会话平台以提升通知投递的及时性",
+    "url": "https://www.infoq.cn/article/umRpE4jAPUuVqFzkWqQ7",
+    "summary": "<p>DoorDash 工程团队的 Chen Yang 和 Fan Zhang 最近利用 Apache Flink 开发了一个基于内存的会话平台，它可以实时识别用户活动和用户会话。下图所示的新系统解决了 DoorDash 以前面临的诸多挑战之一，也就是识别用户何时真正放弃了购物车，而不仅仅是去浏览更多的商品或不同的商家。这种区分对于及时发送相关的购物车放弃通知至关重要。像批处理这样的传统方式会耗费大量的资源，并且会产生滞后，几乎不可能实现实时检测。</p><p></p><p><img src=\"https://static001.geekbang.org/wechat/images/17/17f7dbb8e0acf3e70f8adbc083b72b53.png\" /></p><p></p><p>DoorDash 工程团队设计的实时会话检测数据流。</p><p></p><p>新的会话平台基于大型、有状态的 Flink job 来进行构建，通过内存中的移动和 web 客户端事件来监控用户会话。这种方法使它们能够处理用户活动事件流，而无需“在处理前将大量数据从冷存储加载到内存中”，因此，“避免了巨大的计算成本和延迟”，还能“在较短的时间范围检测不活动的时段，[以便于] 在更合适的时机发送通知”。但是，新平台并非没有任何挑战。由于 Flink 实时处理内存中的所有事件，所以它需要保留所有的用户会话事件，直到会话结束。考虑到 DoorDash 目前的规模，以及每个消费者会话的时长为一个小时的事实，本地活跃的状态可能会达到数百 GB。</p><p></p><p>DoorDash 采用 Apache Flink 进行实时的会话检测和通知投递，这大大提高了用户参与度和转化率。新设计帮助 DoorDash 显著提高了通知投递的及时性和准确性，使“发送并打开”的比例提高了 40%。这一成功已经推动该平台进行了一系列的新实验，包括在购物车的放弃通知中添加促销活动和控制购物车放弃通知的频率。</p><p></p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2024/01/doordash-flink-sessionization/\">https://www.infoq.com/news/2024/01/doordash-flink-sessionization/</a>\"</p>",
+    "publish_time": "2024-02-10 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
