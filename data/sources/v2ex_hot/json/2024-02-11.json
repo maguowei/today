@@ -75,5 +75,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "可暂停加速器的计费逻辑/数据库设计疑问",
+    "url": "https://www.v2ex.com/t/1015307",
+    "summary": "sduoduo233: <p>正在设计一个类似雷神/Golink 的加速器系统，没想好怎么实现暂停时长</p>\n<p>目前的想法是有一个用户表记录剩余时长和是否暂停:</p>\n<pre><code>id int\n...\npaused bool\ntime_remain int\n</code></pre>\n<p>然后再开一个定时任务每五分钟把没有暂停的用户时间-5</p>\n<p>求教各位老哥有没有更优雅的方法</p>",
+    "publish_time": "2024-02-11 10:51:37",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
