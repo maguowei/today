@@ -1,0 +1,13 @@
+[
+  {
+    "title": "大佬们有没有什么办法可以让原生安卓使用 socks 代理的",
+    "url": "https://www.v2ex.com/t/1015294",
+    "summary": "NanJuly: 现在是这么个情况<br />我手里安卓手机 A 没有 root ，想通过热点转发科学或者端口代理给安卓设备 B 去激活设备。<br />安卓设备 B 本身是个游戏设备，激活是通过 udp 协议完成的，不激活无法进入系统安装 app 。<br />以我浅薄的知识我知道 2 点……<br />1 是安卓手机不 root 无法直接通过热点转发科学。<br />2 是安卓原生只能 HTTP 代理，而 HTTP 不支持 UDP 协议。<br /><br />所以有没有我知识外的可能性<br />1 是有没有什么办法让安卓手机 A 在不 root 的情况下热点转发科学。<br />2 是有没有什么办法让 HTTP 代理可以转发 UDP 协议。<br />3 是有没有什么办法让安卓原生可以使用 socks 代理。<br /><br />或者…有没有个方法 4…是我想不到的…<br />求助各位大佬了！<br />跪求！",
+    "publish_time": "2024-02-11 01:59:48",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  }
+]
