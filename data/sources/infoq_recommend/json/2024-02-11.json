@@ -1,0 +1,13 @@
+[
+  {
+    "title": "基于 RabbitMQ 和 Redis，美版“携程”网使用微服务提升搜索扩展性",
+    "url": "https://www.infoq.cn/article/zid9c53iY3IJ5ffA0qVj",
+    "summary": "<p>lastminute.com 的团队将单个服务分解为多个服务，并引入异步集成来重新构建了搜索结果聚合流程。他们的开发人员使用 RabbitMQ 进行消息传递，使用 Redis 存储来自数据供应商的结果。改进后的架构有了更强的可扩展性和可部署性，资源占用率也有所下降。</p><p>lastminute.com 平台在平台的旅行解决方案搜索聚合流程中使用的是第三方供应商。过去，他们使用一个称为运输供应商聚合器 (TA) 的单个 Java 组件封装了整个聚合过程。具体来说，该组件在内部生成许多线程来执行对数据供应商系统的 HTTP POST 请求，并随后在可用时收集和处理结果。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/f2/f2ae0e753c8930cd444e47a91b9d4b46.jpeg\" /></p><p>初始搜索结果聚合架构（来源：lastminute.com 技术博客）</p><p></p><p>lastMinute.com 团队发现，之前这个聚合流程架构存在耦合度高、扩展性差、部署复杂、资源利用率高等问题。lastMinute.com 的产品工程师 Giuseppe Pinto 解释了在该架构中观察到的资源利用率挑战：</p><p></p><blockquote>该系统每天必须处理大约 5000 万个请求 [...]，这意味着每秒大约 600 个请求（这里还是按日常流量算出来的数字；但在某些情况下，流量甚至可能会增加一倍）。值得注意的是，每个单独的请求都会生成 N+1 个线程来实现系统的目标。每个线程负责处理来自供应商的完整响应，在某些情况下，一个 HTTP 响应就封装了一个旅行解决方案，大小达到 25 兆字节之多。总之，就线程和内存使用而言，它是高度资源密集型的。</blockquote><p></p><p>开发人员选择了分解 TA 服务，并将其中的数据提供者集成逻辑移至独立的微服务中，同时让 TA 服务专注于编排和结果聚合工作。新架构引入了 RabbitMQ 作为消息传递服务，它负责将搜索任务分派给数据提供者搜索驱动程序，并将任务完成通知从搜索驱动程序传递回聚合服务。</p><p>TA 服务和搜索驱动程序之间的交互采用了远程过程调用（RPC）模式，基于更通用的请求 - 答复模式。该模式需要两个消息队列，第一个用于发送搜索任务请求，包含相关标识符和回复队列的名称；第二队列传送搜索任务完成通知，包含来自搜索任务消息的相关标识符。聚合服务跟踪待处理的搜索任务，并使用相关标识符来匹配分派的搜索任务和接收到的完成通知。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/9c/9c0d375ecf38c76f5001a29b1d6ef3ab.jpeg\" /></p><p></p><p>新的搜索结果聚合架构（来源：lastminute.com 技术博客）</p><p>在新设计中，搜索驱动程序服务在发送回 TA 服务的通知消息中不包含数据提供商返回的旅行解决方案数据。相反，它们以标准化形式将数据存储在 Redis 缓存中，一旦所有搜索完成通知到达，TA 服务就会从 Redis 获取这些数据。</p><p>原文链接：</p><p>lastminute.com Improves Search Scalability Using Microservices with RabbitMQ and Redis (https://www.infoq.com/news/2024/01/lastminute-search-rabbitmq-redis/)</p>",
+    "publish_time": "2024-02-11 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
