@@ -565,5 +565,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "贾玲回眸",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E5%9B%9E%E7%9C%B8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "张艺兴lauv官宣合作",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4lauv%E5%AE%98%E5%AE%A3%E5%90%88%E4%BD%9C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
