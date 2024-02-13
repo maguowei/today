@@ -42,5 +42,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "2024 年了，云游戏体验还是不行",
+    "url": "https://www.v2ex.com/t/1015449",
+    "summary": "xfrgux: 先试了下 GeforceNOW 的免费版，晚上登陆排队需要等 1-2 小时，如果有问题退出游戏/steam ，session 就自动结束，想玩得重新排队。硬件好像是共享的，有时给 1060 ，有时给 2080 。游戏必须是平台支持的才能玩，比如吃鸡、战神 4 就是没有的。连接 Steam 账号，游戏存档只支持通过 steam 云存档读取。试了下博德之门 3 第三章下城区，开 1080p 高特效，进去贴图都要加载好久，跑动非常卡，30 帧都不到，基本不能玩。<br /><br />然后开了 GeforceNOW 的 Priority 会员又试了试，月费 10 美元+税，NV 官网说是最高支持 1080P 60 帧。进游戏读到的显卡有时是 2080 ，有时是 3060 。游戏加载还是很慢，不过贴图总算是能正常显示出来了。帧率不动的时候能有 40 帧，动起来就只有 30 帧左右了。如果是实体机 3060 跑 60 帧应该没问题。<br /><br />网络延迟方面，我家 1.5Gbps 下行，1G 上行，用 5G WiFi 在 MBP 上进行测试，Steam 下载能到 70MB/s ，附近有 NV 服务器节点，在 GeforceNOW 里检测是延迟低于 16ms ，packet loss 0.6%。但是实际游戏中感觉有时还是会卡顿，同时鼠标点击也会有肉眼可见的延迟，感觉网络稳定性影响还是比较大的。<br /><br />测试这个游戏主要也是想看一看云游戏 CPU 方面的性能水平。这种云服务估计都是用的服务器 CPU ，天生主频比较低，又是通过虚拟化共享的，跑一些吃 CPU 性能的游戏估计就不太行，这次测试基本证实了。<br /><br />成本方面，即便是家大业大的 NV 自己的服务，3060 级别的卡，年费 100 美元+税，4080 年费 200 美元+税。现在显卡价格也回归正常了，实体卡用 2 年卖了估计也不会贬值那么多，云游戏不便宜还需要一个稳定的网络，而且现在连以前不能玩游戏的 MBP 都能原生跑不少游戏了。可能这也是为什么到现在都没出现纯在云端玩的 3A 游戏。<br /><br />有兴趣的可以看录屏 <a href=\"https://www.bilibili.com/video/BV1iC411s7da\" rel=\"nofollow noopener\" target=\"_blank\">https://www.bilibili.com/video/BV1iC411s7da</a>",
+    "publish_time": "2024-02-13 00:11:08",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "“大病医疗专项附加扣除”条件这么苛刻吗？",
+    "url": "https://www.v2ex.com/t/1015476",
+    "summary": "naminokoe: <p>起步线是 15000 元，而且只能是医保目录范围内的自付部分，而且不能全家一起合计，要每个人分开计算。</p>\n<p>日本的起步线是 10 万日元（约人民币 4800 元），可以全家一起合计，可以包括去医院的交通费、医保外费用。</p>\n<p>附：<a href=\"https://springwood.me/jp-health-insurance/\" rel=\"nofollow\">日本医保制度</a></p>",
+    "publish_time": "2024-02-13 12:20:30",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "新手入门信用卡求教",
+    "url": "https://www.v2ex.com/t/1015486",
+    "summary": "SJH0402: 各位大佬们，需要使用信用卡覆盖国内支付 + 相当一部分国外支付场景(可能用不到，但就是想折腾)。<br /><br />基于这种情况下应该办什么样的卡<br />一张国内卡 + 一张国外单币卡？<br />一张双币卡？比如招行美国运通<br /><br />有什么适合新手入门的卡吗",
+    "publish_time": "2024-02-13 14:58:38",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
