@@ -1,0 +1,13 @@
+[
+  {
+    "title": "在软件测试中使用 ChatGPT",
+    "url": "https://www.infoq.cn/article/XBNcLIEZVE9U7JtCephH",
+    "summary": "<p>AI 可以为软件交付带来帮助，并用于自动化软件测试和优化项目工作。Dimitar Panayotov 使用 ChatGPT 生成测试数据、创建电子邮件模板，并基于测试结果生成解释。这为他节省了时间，提高了生产效率。</p><p></p><p>Dimitar Panayotov 在 2023 年 QA Challenge Accepted 大会 上分享了他如何在测试中使用 ChatGPT。</p><p></p><p>Panayotov 说，AI 是一组经过足够多数据训练的算法和神经网络，可以用来辅助 IT 从业人员。它是非常先进的辅助工具，对质量保证工程师的日常生活带来帮助，从特定主题的信息转储、测试文档和案例编写，到工作流程猜想模式。</p><p></p><p>Panayotov 说，ChatGPT 非常擅长生成测试数据，这是它的最大优势。它还可以根据需求和最佳实践创建测试策略。它可以编写测试用例，但需要额外的支持，因为它没有得到足够多的训练。</p><p>ChatGPT 可用于根据测试结果生成电子邮件模板和解释，正如 Panayotov 所说的：</p><p></p><p></p><blockquote>它可以为只有图形和数字的测试结果生成人类可读的解释。此外，它可以根据输入创建表格。</blockquote><p></p><p></p><p>由于 AI 模型仍在发展当中，在使用过程中可能会出现一些错误和故障，正如 Panayotov 所解释的那样：</p><p></p><p></p><blockquote>由于数据过拟合（ChatGPT 开发者输入的信息可能不正确，或者数据的来源有缺陷），AI 在回答问题时可能提供不正确的答案或缺失值。幻觉是另一个主要问题——基本上，大模型试图根据用户输入的字符串编写答案，但由于它存在一些限制且必须遵循一些规则，因此答案可能是完全虚构的。</blockquote><p></p><p></p><p>Panayotov 表示，ChatGPT 是一种比 Google 或 Reddit，甚至是众所周知的 Stackoverflow 更强大的软件工具。他建议将其作为一种常规工具，了解其局限性，并不要将其用于作恶。他建议：</p><p></p><p>它将为你节省大量的时间，这些时间可以用来提高生产效率，例如学习新的编程语言和工具，或扩展你的工作能力。</p><p></p><p>InfoQ 采访了 Dimitar Panayotov，了解他如何在日常工作中使用 ChatGPT。</p><p>&nbsp;</p><p></p><h4>InfoQ：你如何使用 ChatGPT 来进行自动化测试？</h4><p></p><p></p><p>Dimitar Panayotov：我使用 ChatGPT 进行许多操作，缩短自动化项目和 CI/CD 管道的创建和执行时间，比如：</p><p>准备测试计划和测试场景——在创建基于 Web、移动或 Cucumber 测试用例的测试场景时大模型非常有用。用不同的语言创建脚本——大模型所掌握的每一种编程语言的知识令人惊叹。设计测试用例——它可以根据通用模型为特定业务逻辑创建特定的设计模式。创建电子邮件模板——生成测试数据是模型的最大优势之一。</p><p>&nbsp;</p><p></p><h4>InfoQ：ChatGPT 在优化软件项目工作方面表现如何？</h4><p></p><p></p><p>Panayotov：以下是大模型可以帮助你提高执行速度、优化资源使用和项目结构的一些示例：</p><p>格式化数据并编写文档——为项目编写文档是 IT 从业人员生活中最无聊的事情。大模型可以帮助生成这些东西，但你需要提供项目的结构。几乎从头开始实现 CI/CD 管道——通过简单的请求和规范，大模型可以生成适用于几乎所有 CI/CD 系列软件和产品的执行脚本。创建特定的类——大模型可以根据项目结构为你的项目生成特定的类。代码评审和错误处理——大模型可以对你的代码进行基本的评审，甚至找到漏洞，但你的数据可能会被用在大模型未来的答案生成中。</p><p></p><p>我们必须确定是否希望大模型访问我们的项目并向其提供私有信息。ChatGPT 是一个开源产品，向其输入任何客户或个人敏感信息都是不明智的。</p><p>&nbsp;</p><p></p><h4>InfoQ：对于使用 ChatGPT 进行软件测试，你有何建议？</h4><p></p><p></p><p>Panayotov：正如我一直说的：要聪明地工作，不要辛苦地工作。所有的手动输入和数据生成步骤最终都可以被跳过，因为 ChatGPT 大模型就是为这个目的而生的。可以根据需要创建尽可能多的虚拟数据和基本项目结构，只是不要加入个人或客户数据，因为它们可能会在将来的版本或数据挖掘中被利用。</p><p></p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2024/01/chatgpt-software-test-delivery/\">https://www.infoq.com/news/2024/01/chatgpt-software-test-delivery/</a>\"</p>",
+    "publish_time": "2024-02-14 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
