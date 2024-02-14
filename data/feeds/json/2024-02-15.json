@@ -1184,5 +1184,98 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "吴磊直播间为赵今麦打圆场",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E7%9B%B4%E6%92%AD%E9%97%B4%E4%B8%BA%E8%B5%B5%E4%BB%8A%E9%BA%A6%E6%89%93%E5%9C%86%E5%9C%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "香港偶遇虞书欣逛街",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%81%B6%E9%81%87%E8%99%9E%E4%B9%A6%E6%AC%A3%E9%80%9B%E8%A1%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "你在哪一个瞬间突然意识到，宠物已经是和家人一样重要的存在了？",
+    "url": "https://www.zhihu.com/question/641183735",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Carbon capture tech a 'complete falsehood', says Fortescue Metals chairman",
+    "url": "https://www.reuters.com/business/energy/carbon-capture-tech-complete-falsehood-says-fortescue-metals-chairman-2024-02-13/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39373538\">Comments</a>",
+    "publish_time": "2024-02-15 02:45:44",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Just one bad packet can bring down a vulnerable DNS server thanks to DNSSEC",
+    "url": "https://www.theregister.com/2024/02/13/dnssec_vulnerability_internet/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39372384\">Comments</a>",
+    "publish_time": "2024-02-15 01:18:56",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "U.S. Internet Leaked Years of Internal, Customer Emails",
+    "url": "https://krebsonsecurity.com/2024/02/u-s-internet-leaked-years-of-internal-customer-emails/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39372087\">Comments</a>",
+    "publish_time": "2024-02-15 00:56:00",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Nginx Security Advisory",
+    "url": "https://mailman.nginx.org/pipermail/nginx-announce/2024/NW6MNW34VZ6HDIHH5YFBIJYZJN7FGNAV.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39373612\">Comments</a>",
+    "publish_time": "2024-02-15 02:53:17",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Cosmic Desktop: Closing in on a Cosmic Alpha",
+    "url": "https://blog.system76.com/post/closing-in-on-a-cosmic-alpha",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39372762\">Comments</a>",
+    "publish_time": "2024-02-15 01:48:24",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Core Nginx developer announces fork, freenginx",
+    "url": "https://mailman.nginx.org/pipermail/nginx-devel/2024-February/K5IC6VYO2PB7N4HRP2FUQIBIBCGP4WAU.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39373327\">Comments</a>",
+    "publish_time": "2024-02-15 02:29:40",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
