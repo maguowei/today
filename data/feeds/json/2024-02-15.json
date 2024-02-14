@@ -1574,5 +1574,25 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "礼物不重要只要能相逢便是幸福",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%A4%BC%E7%89%A9%E4%B8%8D%E9%87%8D%E8%A6%81%E5%8F%AA%E8%A6%81%E8%83%BD%E7%9B%B8%E9%80%A2%E4%BE%BF%E6%98%AF%E5%B9%B8%E7%A6%8F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Internal tools often make bad startup ideas",
+    "url": "https://philosophicalhacker.substack.com/p/internal-tools-often-make-bad-startup",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39376059\">Comments</a>",
+    "publish_time": "2024-02-15 05:53:39",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
