@@ -1486,5 +1486,129 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "又幸福了小老棣",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%88%E5%B9%B8%E7%A6%8F%E4%BA%86%E5%B0%8F%E8%80%81%E6%A3%A3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "生孩子的气让孩子无气可生",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%9F%E5%AD%A9%E5%AD%90%E7%9A%84%E6%B0%94%E8%AE%A9%E5%AD%A9%E5%AD%90%E6%97%A0%E6%B0%94%E5%8F%AF%E7%94%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "邱泽许玮宁爆改龙珠",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%82%B1%E6%B3%BD%E8%AE%B8%E7%8E%AE%E5%AE%81%E7%88%86%E6%94%B9%E9%BE%99%E7%8F%A0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "大学老师是如何看待当代大学生的？",
+    "url": "https://www.zhihu.com/question/636719321",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Drug offers 'wonderful' breakthrough in treatment of asbestos-linked cancer",
+    "url": "https://www.theguardian.com/science/2024/feb/15/drug-offers-wonderful-breakthrough-in-treatment-of-asbestos-linked-cancer",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39387692\">Comments</a>",
+    "publish_time": "2024-02-16 03:52:57",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Plastics producers deceived public about recycling, report reveals",
+    "url": "https://www.theguardian.com/us-news/2024/feb/15/recycling-plastics-producers-report",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39387387\">Comments</a>",
+    "publish_time": "2024-02-16 03:32:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Apple confirms it's breaking iPhone web apps in the EU on purpose",
+    "url": "https://techcrunch.com/2024/02/15/apple-confirms-its-breaking-iphone-web-apps-in-the-eu-on-purpose/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39388218\">Comments</a>",
+    "publish_time": "2024-02-16 04:22:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Fine Art of Baloney Detection [pdf]",
+    "url": "https://www.inf.fu-berlin.de/lehre/pmo/eng/Sagan-Baloney.pdf",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39386293\">Comments</a>",
+    "publish_time": "2024-02-16 02:24:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Build your own 3D printed Hexapod",
+    "url": "https://github.com/MakeYourPet/hexapod",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39388269\">Comments</a>",
+    "publish_time": "2024-02-16 04:25:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Every default macOS wallpaper",
+    "url": "https://512pixels.net/projects/default-mac-wallpapers-in-5k/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39384731\">Comments</a>",
+    "publish_time": "2024-02-16 00:29:39",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Building an LLM from Scratch: Automatic Differentiation",
+    "url": "https://bclarkson-code.github.io/posts/llm-from-scratch-scalar-autograd/post.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39387850\">Comments</a>",
+    "publish_time": "2024-02-16 04:01:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Uv: Python packaging in Rust",
+    "url": "https://astral.sh/blog/uv",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39387641\">Comments</a>",
+    "publish_time": "2024-02-16 03:50:27",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
