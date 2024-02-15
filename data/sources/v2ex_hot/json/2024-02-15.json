@@ -42,5 +42,60 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "人类目前算法领域最高的结晶,是什么?",
+    "url": "https://www.v2ex.com/t/1015671",
+    "summary": "996bujiaban: 我目前能想到就是 2 个<br />1:航空领域那种稳定系统吧,听说都运行几十年不出错了<br />2:应该就是机器学习,代表作就是 GPT 了吧",
+    "publish_time": "2024-02-15 01:36:28",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "特斯拉告诉自动驾驶靠谱吗？",
+    "url": "https://www.v2ex.com/t/1015687",
+    "summary": "balabalaguguji: <p>有特斯拉的说说看，有修路，放有雪糕筒需要变道、前方堵车、前方突然刹车，这些都应该能放心避开吧？</p>",
+    "publish_time": "2024-02-15 10:52:40",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "百度地图 VS 高德地图",
+    "url": "https://www.v2ex.com/t/1015695",
+    "summary": "Apple2023: 2024 刚开始 你们用哪家的导航出行(⌐■_■)✈️<br /><br />我主用百度地图☺️",
+    "publish_time": "2024-02-15 11:38:52",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "利益绑定婚姻是否可行？",
+    "url": "https://www.v2ex.com/t/1015705",
+    "summary": "haimianbihdata: 楼主 25 。不相信爱情。婚姻本来就是契约精神。<br /><br />是否可以通过 车贷，房贷。一些利益去绑定感情。婚姻。",
+    "publish_time": "2024-02-15 12:49:11",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "超大型文件比较，内存不足，只能分页读区再匹配，但头都秃了，也没想到优化的方式，朋友们帮帮忙啊。",
+    "url": "https://www.v2ex.com/t/1015733",
+    "summary": "FeifeiJin: 有两个本地文件，PersonListA.csv 和 PersonListB.csv ，文件过于巨大，我需要分批读取到内存里，变成 List&lt;Person&gt; A 和 List&lt;Person&gt; B ，我现在要把 A 和 B 进行对比，获得下面结果：<br /><br />Person 有两个属性，一个 Name ，一个 Age ，Name 是唯一的，但两个列表中相同 Name 的人 Age 不一样<br /><br />1 ，找出存在于 A 但不存在于 B 的元素。<br /><br />2 ，找出存在于 B 但不存在于 A 的元素。<br /><br />3 ，找出两个列表中不同的元素。<br /><br />有以下限定条件：<br /><br />1 ，本地文件过大，无法一次性读取到内存中，需要分页进行比较。<br /><br />2 ，无法对两个列表进行排序，数据在列表中都是乱序的，需要用 Name 进行匹配。<br /><br />如果要实现以上 function ，需要用到什么算法，请分析后给出算法的名称。<br /><br />现在的策略是，把 A 中的数据分为 10 组 10 条，然后把 B 中的数据分为 10 组 10 条的数据，分别拿 A 中的每一组数据和 B 中的每一组数据进行比较，这个方法叫做 GetUniqueResult<br /><br />1 ，在找到只存在 A 不存在 B 的元素调用一次 GetUniqueResult 。<br /><br />2 ，在找到只存在 B 不存在 A 的元素调用一次 GetUniqueResult 。<br /><br />3 ，在通过 FindDiffer 找到 A 和 B 中不同的元素。<br /><br />相当于我需要循环 3*(10^10)次才能结束，其中也有使用 HashMap 来进行优化，使得实际执行次数小于 3*(10^10)次。（比如 A 中的第一组数据在和 B 的所有数据比较时，如果第一组的所有数据都找到了，就提前结束。）<br /><br />我现在想问的是，有没有什么更好的算法能从 3*(10^10) 优化到 (10^10)，如果能跟优化到 N （ 1 ）<br /><br />有没有什么方法能只对调用一次 GetUniqueResult ，获得全部结果。<br /><br />-----------------------------------------------<br /><br />浓缩版：<br /><br />我有两个本地 FileA.csv 和 FileB.csv ，分别存储了从 Oracle 中和 PostgreSQL 导出的同一个表。<br /><br />1 ，单个文件超过 10GB ，无法一次性读取到内存中。<br /><br />2 ，两个导出的文件是乱序的，需要用主键在程序里进行数据匹配（文件无法修改）。<br /><br />需要获取结果：<br /><br />1 ，在 A 中存在，但 B 中不存在的数据。<br /><br />2 ，在 B 中存在，但 A 中不存在的数据。<br /><br />3 ，在 A 和 B 中都存在，但有差异的数据。<br /><br /><br />可以有什么办法吗？或者给我一些算法关键字，比如我现在使用的是类哈希分页对比。",
+    "publish_time": "2024-02-15 16:36:41",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
