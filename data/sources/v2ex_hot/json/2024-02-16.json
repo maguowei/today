@@ -31,5 +31,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "大家如何看待代码中的拼写错误？",
+    "url": "https://www.v2ex.com/t/1015793",
+    "summary": "mikewang: <p>举几个例子我看见过的：</p>\n<p>红帽是 redhad ，乌班图是 ubutu ，<br />\n加密是 encript ，解密是 discrypt ，<br />\n前台是 forground ，后台进程是 damon 。  </p>\n<p>最初是项目里编译出 <code>lib/redhad/lib*.so</code>，这个 redhad 让我震惊了一整天。</p>\n<hr />\n<p>刚接触代码时，我是想去改掉的。但是了解到这个目录 N 年前就是这样了，而且也不清楚到底有多少依赖，便作罢。</p>\n<p>后来我也佛系了，毕竟不关我事，能跑就行。</p>\n<p>直到我某天写代码，要用到一个大写的常量 某 DEFALUT ，怎么看怎么怪，定睛一瞧还是拼错的。一搜发现有三十多处。</p>\n<hr />\n<p>如果是你，该怎么办？</p>\n<ol>\n<li>全改掉</li>\n<li>捏着鼻子继续用</li>\n</ol>\n<hr />\n<p>...我最终还是选择了 2 ，因为前者会让 git blame 全变成了我，而我并不想背这个锅...</p>",
+    "publish_time": "2024-02-16 03:07:59",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "仅仅是一个猜想，如果春节期间高速公路不免费，堵车情况会有改善么？",
+    "url": "https://www.v2ex.com/t/1015800",
+    "summary": "xtx:",
+    "publish_time": "2024-02-16 07:43:20",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
