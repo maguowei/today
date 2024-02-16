@@ -64,5 +64,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "使用 docker 运行 clash 作为旁路由",
+    "url": "https://www.v2ex.com/t/1015815",
+    "summary": "A01514035: <p>刚刚看到论坛里有人在问 ubuntu 旁路由 clash 的问题，正好我自己就是使用 docker 运行 clash 作为局域网中的旁路由使用的，配合网页 UI 进行管理，非常的丝滑好用。主要是利用 docker+macvlan+clash(mihomo)+iptables 来实现的旁路由功能。\n<a href=\"https://github.com/UntaggedRui/clashindocker\" rel=\"nofollow\">https://github.com/UntaggedRui/clashindocker</a></p>\n<p>制作 docker 镜像并创建容器</p>\n<p>获取代码</p>\n<pre><code>git clone https://github.com/UntaggedRui/clashindocker\ncd clashindocker\ncp example.yml config.yml\n</code></pre>\n<p>更改地址 docker-compose.yml 中的 ipv4_address 为你的 ip 地址.</p>\n<p>更改 config.yml 中的 proxy-provider 的 url 为你的机场订阅地址.</p>\n<p>启动容器</p>\n<p>docker compose up -d\n假设你的 docker 容器 ip 地址为 192.168.3.23. 通过 <a href=\"http://192.168.3.23:9090/ui/%E5%8F%AF%E4%BB%A5%E7%AE%A1%E7%90%86\" rel=\"nofollow\">http://192.168.3.23:9090/ui/可以管理</a> clash,进行切换节点等.后端地址为 <a href=\"http://192.168.3.23:9090/,%E5%AF%86%E7%A0%81%E4%B8%BA\" rel=\"nofollow\">http://192.168.3.23:9090/,密码为</a> yourpassword.</p>\n<p>在同一个局域网下,将其他机器的网关设置为 192.168.3.23 就可以实现该机器的所有流量都经过 clash,并且根据 clash 的规则进行分流.</p>",
+    "publish_time": "2024-02-16 10:31:55",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "小米 14 和一加 12，选哪个？",
+    "url": "https://www.v2ex.com/t/1015854",
+    "summary": "genkidesu: <p>很纠结，题主想要一台拍照尚可的手机，一加 12 主要是曲面屏和太重这两点不喜欢，小米 14 又怕续航不佳，V 友们给点意见？</p>",
+    "publish_time": "2024-02-16 14:47:57",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
