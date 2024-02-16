@@ -9,5 +9,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "生成式AI最大飞跃！OpenAI 首个视频生成模型重磅发布，奥特曼被“跪求”：不要让我失业",
+    "url": "https://www.infoq.cn/article/u3USgtmYw11CHkZRh7EO",
+    "summary": "<p>2月16日，OpenAI在其官网发布文生视频模型Sora。据介绍，该模型可以生成长达一分钟的视频，同时保持视觉品质并遵循用户提示。</p><p>&nbsp;</p><p>Sora在日语中意为天空，该技术背后的团队包括Tim Brooks 和 Bill Peebles，之所以选择这个名字，是希望它能激起无限的创造潜力。</p><p></p><p></p><p><img src=\"https://static001.geekbang.org/infoq/b1/b11b043246361ba6e905f712818ee0d8.jpeg\" /></p><p>&nbsp;</p><p>OpenAI给出了不少令人印象深刻的例子：在龙年春节里的舞龙活动，人山人海的场景真假难辨，甚至还有群众拿着手机跟拍的细节；动物世界中，站在树上、戴着王冠的猴子等；在社交媒体上教大家做曲奇的老奶奶；戴着耳机听音乐的两只金毛狗.....</p><p></p><p></p><p><img src=\"https://static001.geekbang.org/infoq/5e/5efa3a2dd8f0cf4da4371ca520c60c8d.gif\" /></p><p></p><p><img src=\"https://static001.infoq.cn/resource/image/5f/e1/5ff966d25d881f576b58a4149254ece1.gif\" /></p><p></p><p></p><p>有网友评论说，AI能根据文字生成图片的时候，他就在想离生成视频的日期不远了，没想到这么快！“又有一波‘固执的’从业者和艺术家们要失业了，从业者门槛进一步拉低！YouTube/TikTok等一众长视频或短视频网站估计要迎来一波新的流量。”</p><p>&nbsp;</p><p>一些YouTube网红确实开始担心，MrBeast发帖半开玩笑地求奥特曼不要让他失业。</p><p></p><p></p><p><img src=\"https://static001.geekbang.org/infoq/db/db5c008a888a9cebd110a86a95b09f76.jpeg\" /></p><p>&nbsp;</p><p>有投资者则发表评论说，他们早就认为“内容生成干不过大公司，初创公司要做产品和应用……”他们一直认为Pika应该转型……</p><p>&nbsp;</p><p>而OpenAI员工will depue则表示，他们过去两个月一直忙于此事，目前Sora还处于早期宣传阶段。根据OpenAI随后发布的论文来看，这个模型的能力确实已经超出了OpenAI最初所宣传的。</p><p></p><p></p><p><img src=\"https://static001.geekbang.org/infoq/c8/c804ca9140a7d097f354a865b687c590.jpeg\" /></p><p>&nbsp;</p><p>这篇论文揭示了Sora架构的一些关键方面，比如它可以生成任意分辨率和宽高比的视频（最高1080p）。根据论文，Sora能够执行各种图像和视频编辑任务，比如创建循环视频、延长视频时长或更改现有视频的背景。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/1b/1b595371d2b3a4f391351644efd1d1ae.jpeg\" /></p><p>将DALL·E 2 或DALL·E 3生成的图片转为视频</p><p>&nbsp;</p><p>然而，最令人感兴趣的是Sora“模拟数字世界”的能力。它不仅仅是生成单个照片或视频，而是确定环境中每个对象的物理特性，并根据这些计算渲染照片或视频（或交互式 3D 世界，视情况而定）。正如Nvidia 高级研究员 Jim Fan所评论的那样，Sora 更像是一个“数据驱动的物理引擎”，而不是一个创意引擎。</p><p>&nbsp;</p><p>对于Sora目前存在的弱点，OpenAI也不避讳：模型在准确模拟复杂场景的物理特性方面可能会遇到困难，也可能无法理解具体的因果关系实例。</p><p><img src=\"https://static001.infoq.cn/resource/image/52/47/520865e8e6698yye4bf24730a9b7f747.gif\" /></p><p></p><p>&nbsp;</p><p>例如“五只灰狼幼崽在一条偏僻的碎石路上互相嬉戏、追逐”，狼的数量会变化，一些凭空出现或消失。</p><p>&nbsp;</p><p>现在，Sora正面向部分成员开放，以评估关键领域的潜在危害或风险。</p>",
+    "publish_time": "2024-02-16 12:44:25",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
