@@ -1208,5 +1208,56 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "专家谈胖东来开除当事员工",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E8%B0%88%E8%83%96%E4%B8%9C%E6%9D%A5%E5%BC%80%E9%99%A4%E5%BD%93%E4%BA%8B%E5%91%98%E5%B7%A5%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "南阳60岁老人连救两名落水男子",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%98%B360%E5%B2%81%E8%80%81%E4%BA%BA%E8%BF%9E%E6%95%91%E4%B8%A4%E5%90%8D%E8%90%BD%E6%B0%B4%E7%94%B7%E5%AD%90%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Experimenting with GPTs custom actions, an example written in Rust",
+    "url": "https://danielegarbagnati.com/articles/neuro-rs",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39411380\">Comments</a>",
+    "publish_time": "2024-02-18 01:24:56",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Hitchhiking cancer vaccine makes progress in the clinic",
+    "url": "https://news.mit.edu/2024/hitchhiking-cancer-vaccine-makes-progress-in-clinic-0215",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39413339\">Comments</a>",
+    "publish_time": "2024-02-18 04:39:28",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Bevy 0.13: ECS-driven game engine built in Rust",
+    "url": "https://bevyengine.org/news/bevy-0-13/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39412940\">Comments</a>",
+    "publish_time": "2024-02-18 04:01:13",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]

@@ -119,5 +119,38 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Experimenting with GPTs custom actions, an example written in Rust",
+    "url": "https://danielegarbagnati.com/articles/neuro-rs",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39411380\">Comments</a>",
+    "publish_time": "2024-02-18 01:24:56",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Hitchhiking cancer vaccine makes progress in the clinic",
+    "url": "https://news.mit.edu/2024/hitchhiking-cancer-vaccine-makes-progress-in-clinic-0215",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39413339\">Comments</a>",
+    "publish_time": "2024-02-18 04:39:28",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Bevy 0.13: ECS-driven game engine built in Rust",
+    "url": "https://bevyengine.org/news/bevy-0-13/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39412940\">Comments</a>",
+    "publish_time": "2024-02-18 04:01:13",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
