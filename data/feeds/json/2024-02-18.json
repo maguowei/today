@@ -1064,5 +1064,65 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "热辣滚烫取景地",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E5%8F%96%E6%99%AF%E5%9C%B0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "马思纯孙千你俩有点暧昧了",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%80%9D%E7%BA%AF%E5%AD%99%E5%8D%83%E4%BD%A0%E4%BF%A9%E6%9C%89%E7%82%B9%E6%9A%A7%E6%98%A7%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "英国为什么买f35b不买f35c?",
+    "url": "https://www.zhihu.com/question/644528630",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Chain-of-Thought Reasoning Without Prompting",
+    "url": "https://arxiv.org/abs/2402.10200",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39410669\">Comments</a>",
+    "publish_time": "2024-02-18 00:06:40",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The epidemic of fraudulent DMCA takedowns",
+    "url": "https://taxpolicy.org.uk/2024/02/17/the-invisible-campaign-to-censor-the-internet/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39411570\">Comments</a>",
+    "publish_time": "2024-02-18 01:45:26",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "I worry our Copilot is leaving some passengers behind",
+    "url": "https://joshcollinsworth.com/blog/copilot",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39411912\">Comments</a>",
+    "publish_time": "2024-02-18 02:21:42",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
