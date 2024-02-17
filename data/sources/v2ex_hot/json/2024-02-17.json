@@ -64,5 +64,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "分享一个最近发现的挺好用的「 剪贴板./文件互传 」互传项目吧",
+    "url": "https://www.v2ex.com/t/1015956",
+    "summary": "0xCAFEF00D: <p>背景是这样的，日常冲浪/学习需要，很多时候都需要手机或电脑剪贴板互传，用过很多诸如 kde connect 、localsend 、文件闪传等等的局域网文件互传工具，都没很好符合个人的使用需求，</p>\n<p>我个人的使用需求很简单：</p>\n<ol>\n<li>尽量少的操作，尽量无感</li>\n<li>传输速度不能太低</li>\n<li>剪贴板主动互传</li>\n<li>最好是加密传输</li>\n</ol>\n<p>上面之前用过那些或多或少都有都不能完全满足以上几个点，直到过年前几天在逛着酷安发现了这个项目 <a href=\"https://github.com/doraemonkeys/WindSend\" rel=\"nofollow\">https://github.com/doraemonkeys/WindSend</a></p>\n<p>体验了一周确实很不错分享一下，日常使用电脑传到手机，不管是剪贴板文件还是文字甚至是文件夹，只需要在电脑端 ctrl+c ，然后去手机端去 app 复制就完成了，完美满足了像我这种不需要完全同步剪贴板，但有些时候又需要传输文字或文件还嫌麻烦的人，同时也是加密传输，服务的占用极小</p>",
+    "publish_time": "2024-02-17 10:16:19",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
