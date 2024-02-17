@@ -1,0 +1,13 @@
+[
+  {
+    "title": "微软发布 Visual Studio 扩展 NuGetSolver，简化 NuGet 依赖项冲突解决过程",
+    "url": "https://www.infoq.cn/article/IEZ3ZJ0DQPltSx4YvyPB",
+    "summary": "<p>最近，微软发布了一款名为 NuGetSolver 的实验性工具。这个 Visual Studio 扩展是与微软研究院合作创建的，旨在简化 Visual Studio 项目中 NuGet 依赖项冲突的解决过程。该扩展高效地解决了常见的 NuGet 错误和警告，帮助开发者在 Visual Studio IDE 中提高工作效率。</p><p></p><p>据报道，该工具有效地解决了最常见的 NuGet 错误和警告，如依赖包之间的 约束（NU1107）、依赖包不包含任何与项目兼容的资源（NU1202）、检测到的包降级（NU1605），以及当资源可能不是 100% 兼容时的警告（NU1701)。</p><p></p><p>要开始使用 NuGetSolver，开发者可以从 Visual Studio Marketplace 下载这个名为 NuGetSolver 的扩展。这个实验性扩展通过分析所有依赖关系并提供智能和自动化建议来解决 NuGet 依赖冲突的问题。</p><p></p><p>用户可以通过在&nbsp;Solution Explorer&nbsp;中右键单击并选择Resolve Dependency Conflicts&nbsp;选项来访问该工具。据报道，该工具会通过快速计算来确定可能的建议，并显示当前状态与建议状态之间的差异。用户还可以切换到&nbsp;Show only changes&nbsp;来查看完整的依赖列表。</p><p></p><p><img src=\"https://static001.geekbang.org/wechat/images/b1/b1f670ae33125ca3f95db0f36910c8ba.png\" /></p><p></p><p>(在 Visual Studio 中使用 NuGetSolver，来源：Microsoft DevBlogs)</p><p></p><p>默认情况下，该工具建议使用稳定版本，如果需要，还可以选择包含预发布版本。原博文透露，如果开发人员接受推荐的建议，应选择 Apply fix 选项，然后重新构建解决方案以验证解决方案。此外，作者还指出：</p><p></p><p></p><blockquote>建议在你的存储库中启用源代码控制，以便在必要时可以轻松恢复 NuGetSolver 所做的更改。</blockquote><p></p><p></p><p>此外，文中还指出，如果解决方案当前没有依赖冲突，开发者仍然可以运行该工具来升级依赖项，尽量减少更改。这比使用 NuGet 包管理器一个一个地升级包更快速、更可靠，尤其是在面对其他依赖约束时。</p><p></p><p>该工具需要 Visual Studio 2022 和网络连接才能正常使用。它从 nuget.org 检索可用的包版本，并从提供的缓存托管服务下载缓存数据库文件。</p><p></p><p>不过，在使用时要注意一些使用建议和已知的限制。目前仅支持 nuget.org 源，不支持多源和本地源。虽然尚未完全支持多目标框架，但该工具可能会为某些目标框架生成修复方案。如果使用自定义 MSBuild 逻辑进行版本设置，Apply Fix 功能可能无法完全支持更新版本。</p><p></p><p>需要注意的是，当切换到 Include prerelease 选项时，NuGetSolver 在建议计算中可能不会考虑所有可用的预览版本。对于使用packages.config或 legacy-sdk 样式的项目，该工具可以生成建议，但无法直接应用修复，需要开发者手动修复。</p><p></p><p>虽然 NuGetSolver 可以解决编译时依赖冲突，但仍可能出现运行时错误。此外，该工具不验证建议的版本是否存在已知漏洞，因此建议开发者使用 NuGet 中的审计功能来解决此问题。</p><p></p><p>总的来说，NuGetSolver 对于希望在 Visual Studio 中简化 NuGet 依赖管理的开发者来说非常宝贵的一款工具。它通过自动化冲突解决并提供依赖图的可视化表示，提高了效率，让开发人员能够专注于构建出色的应用程序。</p><p></p><p>查看英文原文：</p><p><a href=\"https://www.infoq.com/news/2024/01/introducing-nuget-solver/\">https://www.infoq.com/news/2024/01/introducing-nuget-solver/</a>\"</p>",
+    "publish_time": "2024-02-17 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
