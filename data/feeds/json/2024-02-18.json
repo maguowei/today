@@ -1124,5 +1124,89 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "汪苏泷幕后",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%B9%95%E5%90%8E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "沈月Vlog",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%9C%88Vlog%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Inner Platform Effect",
+    "url": "https://en.wikipedia.org/wiki/Inner-platform_effect",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39412321\">Comments</a>",
+    "publish_time": "2024-02-18 03:01:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Unreal Engine 5 can now run in a web browser",
+    "url": "https://www.pcgameshardware.de/Unreal-Engine-Software-239301/News/5-Entwickler-zeigt-Spiel-im-Browser-dank-WebGPU-1440861/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39412480\">Comments</a>",
+    "publish_time": "2024-02-18 03:17:25",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Replicate vs. Fly GPU cold-start latency",
+    "url": "https://venki.dev/notes/replicate-vs-fly",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39411748\">Comments</a>",
+    "publish_time": "2024-02-18 02:03:26",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Amazon argues that national labor board is unconstitutional",
+    "url": "https://apnews.com/article/amazon-nlrb-unconstitutional-union-labor-459331e9b77f5be0e5202c147654993e",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39411829\">Comments</a>",
+    "publish_time": "2024-02-18 02:13:43",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "AI hiring tools may be filtering out the best job applicants",
+    "url": "https://www.bbc.com/worklife/article/20240214-ai-recruiting-hiring-software-bias-discrimination",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39412283\">Comments</a>",
+    "publish_time": "2024-02-18 02:56:22",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Headphone and Amp Impedance (2011)",
+    "url": "http://nwavguy.blogspot.com/2011/02/headphone-amp-impedance.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39412198\">Comments</a>",
+    "publish_time": "2024-02-18 02:49:07",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
