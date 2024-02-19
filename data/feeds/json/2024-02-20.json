@@ -1441,5 +1441,133 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "南来北往剧情坐高铁了",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%9D%A5%E5%8C%97%E5%BE%80%E5%89%A7%E6%83%85%E5%9D%90%E9%AB%98%E9%93%81%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "北漂女子自嘲回老家像乡下人进城",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%BC%82%E5%A5%B3%E5%AD%90%E8%87%AA%E5%98%B2%E5%9B%9E%E8%80%81%E5%AE%B6%E5%83%8F%E4%B9%A1%E4%B8%8B%E4%BA%BA%E8%BF%9B%E5%9F%8E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Qualcomm hardware support increasingly in good shape with Linux kernel",
+    "url": "https://www.phoronix.com/news/Qualcomm-Mainline-Linux-2024",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39434417\">Comments</a>",
+    "publish_time": "2024-02-20 04:29:24",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Wyze camera breach let 13,000 strangers look into other people's homes",
+    "url": "https://www.zdnet.com/home-and-office/smart-home/wyze-camera-breach-let-13000-strangers-view-other-peoples-homes/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39434991\">Comments</a>",
+    "publish_time": "2024-02-20 05:23:49",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Monitoring latency: Cloudflare Workers vs Fly vs Koyeb vs Railway vs Render",
+    "url": "https://www.openstatus.dev/blog/monitoring-latency-cf-workers-fly-koyeb-raylway-render",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39434271\">Comments</a>",
+    "publish_time": "2024-02-20 04:17:36",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Creating a Snake game clone with Rust/Bevy",
+    "url": "https://bbarrows.com/posts/bevy-snake",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39433104\">Comments</a>",
+    "publish_time": "2024-02-20 02:34:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Death Valley National Park now offering a rare opportunity – kayaking",
+    "url": "https://edition.cnn.com/travel/death-valley-national-park-kayaking-temporary-lake/index.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39434701\">Comments</a>",
+    "publish_time": "2024-02-20 04:56:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Measuring energy usage: regular code vs. SIMD code",
+    "url": "https://lemire.me/blog/2024/02/19/measuring-energy-usage-regular-code-vs-simd-code/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39435159\">Comments</a>",
+    "publish_time": "2024-02-20 05:41:40",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Story of Curl",
+    "url": "https://un.curl.dev/mine/curl",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39435244\">Comments</a>",
+    "publish_time": "2024-02-20 05:49:11",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Building a Hybrid Native Application with Gleam and Tauri",
+    "url": "https://www.wezm.net/v2/posts/2024/gleam-tauri/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39435262\">Comments</a>",
+    "publish_time": "2024-02-20 05:51:19",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "My productivity app is a never-ending .txt file (2022)",
+    "url": "https://jeffhuang.com/productivity_text_file/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39432876\">Comments</a>",
+    "publish_time": "2024-02-20 02:14:12",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "FTC proposes new protections to combat AI impersonation of individuals",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2024/02/ftc-proposes-new-protections-combat-ai-impersonation-individuals",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39433674\">Comments</a>",
+    "publish_time": "2024-02-20 03:31:22",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
