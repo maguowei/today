@@ -1046,5 +1046,76 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "WeTalk",
+    "url": "https://s.weibo.com/weibo?q=%23WeTalk%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "杨幂祝黄明昊郭采洁生日快乐",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E7%A5%9D%E9%BB%84%E6%98%8E%E6%98%8A%E9%83%AD%E9%87%87%E6%B4%81%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "巨人新周边 美得不敢认",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B7%A8%E4%BA%BA%E6%96%B0%E5%91%A8%E8%BE%B9+%E7%BE%8E%E5%BE%97%E4%B8%8D%E6%95%A2%E8%AE%A4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "EU opens formal investigation into TikTok over possible online content breaches",
+    "url": "https://www.reuters.com/technology/eu-opens-formal-proceedings-against-tiktok-under-digital-services-act-2024-02-19/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39432349\">Comments</a>",
+    "publish_time": "2024-02-20 01:31:54",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Israel's economy shrinks more than expected on Gaza war",
+    "url": "https://www.bbc.com/news/business-68337731",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39432355\">Comments</a>",
+    "publish_time": "2024-02-20 01:32:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "About Y Combinator's software team (which is currently hiring)",
+    "url": "https://news.ycombinator.com/item?id=39432015",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39432015\">Comments</a>",
+    "publish_time": "2024-02-20 01:00:28",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "OTP at a High Level (2019)",
+    "url": "https://adoptingerlang.org/docs/development/otp_high_level/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39432085\">Comments</a>",
+    "publish_time": "2024-02-20 01:06:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
