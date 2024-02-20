@@ -702,5 +702,60 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Microsoft's Commitment to Azure IoT",
+    "url": "https://techcommunity.microsoft.com/t5/internet-of-things-blog/microsoft-s-commitment-to-azure-iot/ba-p/4059725",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39438861\">Comments</a>",
+    "publish_time": "2024-02-20 15:35:29",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Opening /proc/self/fd/1 is not the same as dup(1)",
+    "url": "https://blog.gnoack.org/post/proc-fd-is-not-dup/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39434727\">Comments</a>",
+    "publish_time": "2024-02-20 04:58:30",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "LKML discusses merging Rust access to filesystem APIs",
+    "url": "https://lwn.net/Articles/958072/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39438944\">Comments</a>",
+    "publish_time": "2024-02-20 15:54:41",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "DJI – The Art of Obfuscation",
+    "url": "https://blog.quarkslab.com/dji-the-art-of-obfuscation.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39438842\">Comments</a>",
+    "publish_time": "2024-02-20 15:31:03",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "WebKit switching to Skia for 2d graphics rendering",
+    "url": "https://blogs.igalia.com/carlosgc/2024/02/19/webkit-switching-to-skia-for-2d-graphics-rendering/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39438908\">Comments</a>",
+    "publish_time": "2024-02-20 15:46:45",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
