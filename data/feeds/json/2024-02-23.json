@@ -1665,5 +1665,94 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "返工必看特工疯片阿盖尔",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%94%E5%B7%A5%E5%BF%85%E7%9C%8B%E7%89%B9%E5%B7%A5%E7%96%AF%E7%89%87%E9%98%BF%E7%9B%96%E5%B0%94%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "身体出现这5个迹象说明你累过头了",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BD%93%E5%87%BA%E7%8E%B0%E8%BF%995%E4%B8%AA%E8%BF%B9%E8%B1%A1%E8%AF%B4%E6%98%8E%E4%BD%A0%E7%B4%AF%E8%BF%87%E5%A4%B4%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "悉尼偶遇郑敬淏崔秀英",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%82%89%E5%B0%BC%E5%81%B6%E9%81%87%E9%83%91%E6%95%AC%E6%B7%8F%E5%B4%94%E7%A7%80%E8%8B%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "没人会像妈妈一样爱我",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B2%A1%E4%BA%BA%E4%BC%9A%E5%83%8F%E5%A6%88%E5%A6%88%E4%B8%80%E6%A0%B7%E7%88%B1%E6%88%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "杭州部分医院，发热门诊、呼吸科患者明显增长，有的甚至翻倍增长，哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/645307851",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Google Pay app will no longer be available",
+    "url": "https://support.google.com/googlepay/answer/14555219?hl=en",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39473592\">Comments</a>",
+    "publish_time": "2024-02-23 05:34:37",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "I recorded a screen capture of a task. Gemini generated code to replicate it",
+    "url": "https://twitter.com/DynamicWebPaige/status/1760537379369304309",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39473611\">Comments</a>",
+    "publish_time": "2024-02-23 05:35:55",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Htmx vs. React: A Complete Comparison – Semaphore",
+    "url": "https://semaphoreci.com/blog/htmx-react",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39474414\">Comments</a>",
+    "publish_time": "2024-02-23 06:47:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Supermaven, the first code completion tool with 300k token context",
+    "url": "https://supermaven.com/blog/introducing-supermaven",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39473773\">Comments</a>",
+    "publish_time": "2024-02-23 05:49:39",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
