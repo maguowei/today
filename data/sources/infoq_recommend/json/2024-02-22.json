@@ -42,5 +42,16 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "硅谷 AI 企业卷出新高度，谷歌推出开放大语言模型 Gemma，声称超越 Meta Llama-2 ，谁将成为最强王者？ | 讨论",
+    "url": "https://www.infoq.cn/article/2hgvNSuRdHqGjkWLy1zJ",
+    "summary": "<p>当地时间 2 月 21 日，谷歌开放了2个新的不同参数规模的模型，分别是Gemma 7B和Gemma 2B，其技术与Gemini模型一致。但是这两个模型完全公开，可以商用授权。具体报道请看这篇文章：<a href=\"https://www.infoq.cn/news/MNJ8kPf81k5ZG6ssPjqp\">谷歌深夜炸场！发布最强开放模型 Gemma：性能碾压 LLaMA，可在笔记本上运行</a>\"。</p><p></p><p><img src=\"https://static001.infoq.cn/resource/image/9a/54/9a1da21c8cc1b7b10667974813bfdc54.jpeg\" /></p><p></p><p></p><p>从开放的内容看，本次Google的诚意满满，不仅模型能力很强，在生态和社区支持方面也非常好。关于模型具体的代码示例、预训练开源地址可以参考如下信息：</p><p></p><p>Gemma 模型HuggingFace链接：</p><p></p><p>7B：<a href=\"https://huggingface.co/google/gemma-7b\">https://huggingface.co/google/gemma-7b</a>\"2B：<a href=\"https://huggingface.co/google/gemma-2b\">https://huggingface.co/google/gemma-2b</a>\"体验链接：<a href=\"https://huggingface.co/chat\">https://huggingface.co/chat</a>\"</p><p></p><p>在线演示地址：<a href=\"https://colab.research.google.com/github/google/generative-ai-docs/blob/main/site/en/gemma/docs/lora_tuning.ipynb\">https://colab.research.google.com/github/google/generative-ai-docs/blob/main/site/en/gemma/docs/lora_tuning.ipynb</a>\"</p><p></p><p>官方博文：<a href=\"https://blog.google/technology/developers/gemma-open-models/\">https://blog.google/technology/developers/gemma-open-models/</a>\"</p><p></p><p>谷歌的深夜王炸在 AI 领域引起了轩然波澜，也引发了人们对于大语言模型发展趋势的思考。Gemma 的发布意味着什么？目前有以下几个观点可以讨论，欢迎投票：</p><p></p><p>最后放个这两天最火的网络梗图。</p><p><img src=\"https://static001.geekbang.org/infoq/13/139bf672610daa86cd691dd9b8c79967.png\" /></p><p></p><p></p><p></p><p></p><p>AI革新时代，InfoQ AIGC学习资料包限时免费领取！我们精心准备了一系列独家学习资料，涵盖从基础到高级的AI知识，助您在人工智能领域一飞冲天！</p><p></p><p><img src=\"https://static001.infoq.cn/resource/image/5e/61/5e188189cbcefa3f62a0f34e8727yy61.png\" /></p><p></p><p></p><p>📚 资料包内容概览：</p><p>《中国人工智能成熟度模型报告》：本报告基于三大关键指标，参考市场规模、融资事件等公开资料，并结合了AI行业内硬件、模型、应用不同领域的各位专家观点，构建涵盖40+技术点的中国人工智能成熟度模型，为技术的应用决策和未来投资参考提供研究分析工具。《InfoQ大模型测评报告2024》：InfoQ 研究中心本研究围绕语义理解、文学创作、知识问答、逻辑推理、编程、上下文理解、语境感知、多语言处理及多模态交互等十大核心领域，对包括 ChatGPT-4、文心一言专业版、通义千问 V2.1.1、Bard2.0、讯飞星火 V3.0、Kimi Chat 网页版、百川大模型 V1.0、智谱清言网页版、360 智脑 4.0 和豆包在内的十款热门模型进行了全面评估，测试题目数量超过 3000 道。《AIGC热潮下的技术百态》：聚焦 AIGC 引发的变革，与50多位头部专家深度对话，细数过去一年不同领域的创新和进展，希望能为你揭示未来技术发展方向，明晰不同行业大模型应用思路和路径。《软件产品中的AIGC》：我们深度采访了LeptonAI、智谱AI、Dify.AI 和京东云言犀团队，讲述他们的大模型故事。另外，我们还与来自网易、百度、广推科技等企业专家，就AIGC 编程、算法及应用等话题做了深入探讨。</p><p></p><p>🎯 适合人群：</p><p>AI行业从业者：获取行业深度分析，把握市场脉搏。技术研究者：了解AI技术的最新进展和应用案例。产品经理和开发者：探索AIGC在产品开发中的创新应用。</p>",
+    "publish_time": "2024-02-22 16:06:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
