@@ -20,5 +20,49 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "推广太难了，尝试下半开源的运营方式",
+    "url": "https://www.v2ex.com/t/1017708",
+    "summary": "MegatronKing: <p><a href=\"https://reqable.com/\" rel=\"nofollow\">Reqable</a>正式发布后这大半年的真实感受，就是推广实在是太难了，尤其是海外推广。国内市场，由于语言文化没有隔阂，相对来说好一点，至少写一些技术文章还有受众。海外市场，尝试了 Twitter 和 ProductHunt 等，完全没有流量。如果有资金，打广告，找运营团队，都还好说，但是对于独立开发者来讲，这个成本难以接受。如果专职运营，一个人精力有限，产品的功能上新和迭代必然要受到大幅影响。</p>\n<p>针对这个困局，我的计划是采用半开源的方式，试试效果。这里的半开源，包括两大方面：</p>\n<ul>\n<li>模块开源。</li>\n<li>云服务开源。</li>\n</ul>\n<p>Reqable 本身是开发人员工具，开源可以给项目带来一些曝光和流量，同时也能给社区做贡献，共同成长，一举两得。</p>\n<h2>1. 模块开源</h2>\n<p>开源 Reqable 项目中的重要模块，很多都是 Flutter 生态中目前的痛点，也是我花了很大精力去完成的，这部分开源的模块会随着 Reqable 项目一起迭代和成长。只要 Reqable 项目还活着，这些仓库都会持续维护和迭代下去。</p>\n<p>Reqable 采用了组件化开发，很多模块都是以单独仓库的形式存在，下面是项目全部的组成部分。</p>\n<p><img alt=\"image.png\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4e1eebd0a24446cc9a52d667ab3b3ada%7Etplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=1780&amp;h=1316&amp;s=437935&amp;e=png&amp;b=fefefe\" /></p>\n<p>第一批已经开源的有三个模块：</p>\n<ul>\n<li>代码编辑器</li>\n<li>文本高亮</li>\n<li>python 脚本框架</li>\n</ul>\n<p>后续我会抽时间整理下其他模块的代码和编写文档，助力 Flutter 生态越来越好！</p>\n<h4>1.1 代码编辑器</h4>\n<p>项目地址： <a href=\"https://github.com/reqable/re-editor\" rel=\"nofollow\">https://github.com/reqable/re-editor</a></p>\n<p><code>Re-Editor</code>是一个强大的轻量级文本和代码编辑器组件，既可以作为一个简单多行文本输入组件，也可以作为一个具备基本功能的代码编辑器。</p>\n<p><img alt=\"art01.gif\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ff0f7500690149539ebd24e1d4a5aa09%7Etplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=800&amp;h=629&amp;s=3722598&amp;e=gif&amp;f=276&amp;b=faf7fa\" /></p>\n<p><code>Re-Editor</code>采用自绘而不是控件组装的方案，因此具备很高的性能，支持大文件编辑。<code>Re-Editor</code>解决了 Flutter 官方的<code>TextField</code>组件的很多痛点问题，同时还具备下面这些特性：</p>\n<ul>\n<li>横向和纵向双向滚动。</li>\n<li>文本语法高亮。</li>\n<li>内容折叠和展开。</li>\n<li>输入提示和自动补全。</li>\n<li>搜索替换功能。</li>\n<li>自定义上下文菜单。</li>\n<li>快捷键支持。</li>\n<li>大文本显示和编辑。</li>\n<li>显示行号和焦点行。</li>\n<li>智能输入。</li>\n</ul>\n<h4>1.2 文本高亮</h4>\n<p>项目地址： <a href=\"https://github.com/reqable/re-highlight\" rel=\"nofollow\">https://github.com/reqable/re-highlight</a></p>\n<p><code>Re-Highlight</code>是一个强大的文本语法高亮库，可以将一个文本自动语法高亮，只需要定义好一个语法规则。当然，<code>Re-Highlight</code>已经内置了几十种编程语言的语法高亮规则，几行代码即可实现代码语法高亮。</p>\n<p><img alt=\"art01.png\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/611d91ad4c1a4f63bc9bc732a901d603%7Etplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=1406&amp;h=1064&amp;s=70439&amp;e=png&amp;b=2b2b2b\" /></p>\n<p><code>Re-Highlight</code>的实现代码全部由<code>Dart</code>语言编写，翻译自知名的<a href=\"https://github.com/highlightjs/highlight.js\" rel=\"nofollow\">highlightjs</a>项目，实现思路和灵感则来自于<a href=\"https://github.com/git-touch/highlight.dart\" rel=\"nofollow\">highlight.dart</a>项目（已停止更新维护）。<code>Re-Highlight</code>已同步<code>highlightjs</code>当前的最新版本 v11.9.0 ，并验证通过全部的测试用例，应该是目前 Flutter 生态里最强大的文本语法高亮库。</p>\n<h4>1.3 python 脚本框架</h4>\n<p>项目地址： <a href=\"https://github.com/reqable/python-scripting-api\" rel=\"nofollow\">https://github.com/reqable/python-scripting-api</a></p>\n<p>Reqable 目前使用的 Python 脚本框架，基本都是 Python 代码，对 Flutter 社区的贡献倒不大，所以不多介绍，熟悉 Python 的可以看看。</p>\n<h2>2. 云服务开源</h2>\n<p>目前几乎所有的 API 相关软件都是靠云服务收费，我也这么想过，但是还是放弃了。我觉得 Reqable 需要做一些改变，将云服务完全开源，主要考虑下面几点：</p>\n<ul>\n<li>\n<p>数据安全。几乎所有上规模的企业都注重数据安全，将非常重要的 API 数据放到第三方服务器是不现实的，所以很多竞品都是靠私有部署来收费。但是很多小公司或者个人，根本付不起私有部署的成本。所以，我的想法是反其道而行之，云服务免费，并支持自由部署，用户只需要一台服务器。</p>\n</li>\n<li>\n<p>技术栈。Reqable 项目目前只有我一个人在开发，除了开发客户端，还要做网站开发、运营推广、运维、客服等等，真的忙不过来。而且，我可以拍胸脯说我精通客户端，这个没问题，但是让我说精通服务端，那就真扯淡了。</p>\n</li>\n</ul>\n<p>关于云服务项目，还在计划和筹备中，目前暂定的是<a href=\"https://github.com/monkeyWie\" rel=\"nofollow\">Levi</a>大佬会和我一起开发，当然也是由 Levi 主导，这里要感谢 Levi 的支持。</p>\n<p>项目地址： <a href=\"https://github.com/reqable/restapi-cloud-server\" rel=\"nofollow\">https://github.com/reqable/restapi-cloud-server</a></p>\n<h2>结语</h2>\n<p>今年再接再厉，让 Reqable 随着社区一起成长吧！</p>",
+    "publish_time": "2024-02-23 00:14:04",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "优衣库的线上购买线下换货阴阳条款，必须要和线上价格一致",
+    "url": "https://www.v2ex.com/t/1017735",
+    "summary": "adgad2: <p>前几天在优衣库买了条裤子，小了，于是确定换货，被告知可以门店换货。提前打电话问门店库存，已经提前告知是网络购买，以及货号，查了相应的库存，告诉我直接到店就可以更换。</p>\n<p>第二天，带着商品和退货单到店，同款没这个色了，想要更换相同款式不同颜色尺码的，店员告知我网上价格和线下不一样，换货需要补足差价，不然无法提供换货。</p>\n<p>无法认同这个规则，联系淘宝官方旗舰店客服，期间问了我一堆奇奇怪怪的问题，比如原因是什么（我回答说店员告知需要补差价），现在店里什么价格等等，最后升级专员处理，专员打电话到店里，店员告诉他可以操作，也可以成功，但是他拒绝操作。最后店员告诉我他们店里卖 249 ，你 99 买的，要是换给你他们就亏了。</p>\n<p>于是我持续和淘宝客服沟通，客服一开始说他们显示已经换货成功了，我告知他们店员拒绝为我换货。然后又是继续处理，期间我一直在询问需要多少时间，因为在已经在门店等待已经一个多小时了，客服就是扯皮说需要时间，不说需要处理多久，导致我一直没有离开门店。</p>\n<p>在等待约半小时后，这个时候我已经等待接近 2 个小时了，客服依然无法给我准行，无奈，我只能先行离开。又过了 40 分钟，客服这个时候只会反复重复他们的退换货条款。</p>\n<blockquote>\n<p>换货仅支持更换同款同价的不同颜色或尺码的商品，不支持更换不同款号的商品。若购买了同款号仅部分颜色降价销售的商品，换货时只能更换同款号同价格的商品。</p>\n</blockquote>\n<p>在我反复追问下，客服告知我价格要以商品的售卖金额为准，说时候，这句话也是又歧义的，吊牌价是商品的售卖价格，那降价后的价格也是商品售卖价格啊。我无奈，只能转投诉，不过他们只会说什么抱歉，记录，我想根本一点屁用没有。</p>\n<p>如果要线上线下价格一致才可以门店换货，那么这个功能一点吊用没有。更加离谱的是，没有人会提前告知你这个事情，你到了门店才发现换货还需要补差价，而你一点办法没有。如果需要线上线下价格一致才允许换货，那么你至少应该提醒说明，因为这个条件实际上很难保证。</p>\n<p>我比较倾向于这家门店是有问题的，如果不满足 [仅支持更换同款同价的不同颜色或尺码的商品] ，那么应该直接拒绝我的换货申请，而不是让我补差价，如果是 [若购买了同款号仅部分颜色降价销售的商品，换货时只能更换同款号同价格的商品。] ，那我还只能认了，但我认为我不属于这种情况，线上降价是全颜色的，他们也很少有这种部分颜色降价的促销，而且门店一直说原因是价格不一致，而不是颜色问题。</p>\n<p>最后，大家有什么投诉或者举报的渠道么，浪费了我接近 3 小时就这个结果。</p>\n<p>因为非常奇怪，要么客服业务不熟练，根本不了解这个换货政策，导致一直在处理，让我等待长达 2 个多小时，要么客服就是恶心下我，明知我不满足换货条件，依然假装在处理，拖延我。</p>",
+    "publish_time": "2024-02-23 09:31:05",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "既然举报违章有奖励，行车记录仪或者自动驾驶车为什么不出个自动举报功能",
+    "url": "https://www.v2ex.com/t/1017777",
+    "summary": "liuhuihao: <p>最近看到 [女子春节举报违章车辆获奖 1500 ] 这个新闻，感觉给车辆的行车记录仪或者车辆摄像头，搞个自动识别周围违章车辆或者自动抓拍应急车道车辆车牌号然后自动举报这个功能有搞头啊~开个车在路上还能赚钱哈哈\n纯瞎想，勿喷</p>",
+    "publish_time": "2024-02-23 10:38:44",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "大家有收藏充电头的爱好吗？",
+    "url": "https://www.v2ex.com/t/1017783",
+    "summary": "random1221: RT ，大家最近两年在这花了多少钱？<br /><br />能不能帮我剖析一下这种癖好背后是什么心理呢",
+    "publish_time": "2024-02-23 10:49:14",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
