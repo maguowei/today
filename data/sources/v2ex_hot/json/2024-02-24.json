@@ -53,5 +53,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "入职远程工作两周,感觉不舒服要不要辞职?",
+    "url": "https://www.v2ex.com/t/1018062",
+    "summary": "996bujiaban: 第一次远程工作,过年的时候入职,现在差不多两周<br /><br />公司是新加坡,都是坐班模式,我面试的时候,特别提能不能远程<br /><br />面完大概 2 个月通知可以远程上班<br /><br />目前遇见的问题就是<br />1:公司坐班模式,然后群里基本不说话,只有我一个在汇报,甚至早会,运营技术对接会,都不让我参加<br />2:我入职就开始独立开发一个项目,是从考察,对比,规划,开发一个人全包<br />3:这让我有一种,本来可以外包价给你开发,但是你入职了可以更便宜,进度更快让你开发,因为要日报,周报,星期五下午还要写自己这周有什么升级点<br /><br />第 3 个念头起来的时候,我就浑身不舒服,感觉就是这样<br /><br />现在犹豫的点就是<br />A:是不是我太懒,上几天班受不了<br />B:现在上班是不是都这样,只是我不习惯?",
+    "publish_time": "2024-02-24 10:08:43",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "分享神级去除 IOS 应用开屏广告的方法",
+    "url": "https://www.v2ex.com/t/1018073",
+    "summary": "weijancc: <p>之前在 v2 搜索去开屏广告, 大多都是通过小火箭或 surge 对广告域名或接口进行屏蔽, 但规则不能覆盖全部互联网 APP, 今天刷小红书发现可以通过快捷指令打开 url schema 跳转的方式来屏蔽广告.</p>\n<p>这是模拟从其他地方跳转进 APP ，不少 APP 为了更好的体验，此时不会展示开屏广告, 使用步骤:</p>\n<ol>\n<li>新建快捷指令: 添加操作-&gt;搜索\"打开 url\"</li>\n</ol>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.v2ex.co/27Ju3J89.jpeg\" /></p>\n<ol>\n<li>输入应用的 url schema, 例如 bilibili://, 点击最下方的感叹号, 选择添加到主屏幕</li>\n</ol>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.v2ex.co/9gBqNrEs.jpeg\" /></p>\n<p>bilibili 设置后，不仅可以去开屏广告，还能加快启动速度，因为 bilibili 在启动时会故意延迟进入显示开屏画面😅，估计是在展示开屏画面的期间加载广告.</p>\n<p>应用的 url schema 需要自己去找, 或者自己对安装包解包去获取, 我目前用的几个:</p>\n<ul>\n<li>小红书: xhsdiscover://home/</li>\n<li>招商银行: cmbmobilebank://</li>\n<li>京东读书: openapp.jdreader://</li>\n<li>携程: CtripWireless://</li>\n<li>一些合集: <a href=\"https://gist.github.com/zhuziyi1989/3f96a73c45a87778b560e44cb551ebd2\" rel=\"nofollow\">https://gist.github.com/zhuziyi1989/3f96a73c45a87778b560e44cb551ebd2</a></li>\n</ul>\n<p>添加到主屏幕可自己配置图标, 建议在<a href=\"https://play.google.com/store/apps?hl=zh_CN&amp;gl=US\" rel=\"nofollow\">Google Play</a>(无牛皮癣图标)上搜索对应的 app, 然后保存其图标</p>",
+    "publish_time": "2024-02-24 11:14:05",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
