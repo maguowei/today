@@ -1,0 +1,24 @@
+[
+  {
+    "title": "强烈建议删除 mac 上的 Rosetta2",
+    "url": "https://www.v2ex.com/t/1018208",
+    "summary": "gsy20050126: <p>有几个问题：<br />\n1.安装 Rosetta2 之后，mac 会自动运行一些 intel 进程，如果长期开启，实测耗电。<br />\n2.新增的 oah 启动项和一个隐藏的用户，名称：_oah 可以在终端输入 passwd _oah 测试电脑上有没有这个用户。<br />\n3.如果不小心下载了病毒软件，没有 Rosetta 运行不起来的。这个跟个人上网习惯有关。<br />\n4.m 芯片就是 arm 的，该用 arm 软件就不要用 x86 ，就像用杯子吃饭一样，可以但是不建议。<br />\n为了删除 Rosetta ，我重装了电脑。删除文件的方法不能删除_oah 用户，这是写在数据库文件里的。\n在这里劝有想删 Rosetta 的 v 友，不要犹豫，长痛不如短痛，重装虽然麻烦，但是干净，以后注意不要再点击安装。</p>",
+    "publish_time": "2024-02-25 03:52:32",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "一道 Java 八股，检测 AI 智商",
+    "url": "https://www.v2ex.com/t/1018215",
+    "summary": "dtla: <pre><code>You should give me the interview answer directly, without explaining anything unless necessary. Your answers are expected to be directly used for a Java interview. Please be concise, but your answers should perfectly satisfy the interviewer.\n\nThe question is: How do you deal with the error?\n</code></pre>\n<p>这个八股的内在逻辑在于，<strong>error 不等于 exception ，问的是遇到 error 该怎么办，而不是 exception handle 。</strong></p>\n<p>经过多次测试</p>\n<p>只要一上来就回答 try-catch 或者 exception handle 的，都是智商不行的。<strong>google 家的所有 AI 全部垃圾</strong>，<strong>copilot\nPro 也垃圾。不能通过测试</strong></p>\n<p>官网的 GPT 4 可以过，gpt4-1124 模型回答的最好，<a href=\"http://claude.ai/\" rel=\"nofollow\">claude.AI</a> 回答的可以接受。</p>\n<p>官网 GPT 4:\n<img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://p.ipic.vip/lp3i06.jpg\" /></p>\n<p>1124 模型：\n<img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://p.ipic.vip/mjgfw2.jpg\" /></p>\n<p>Google gemini ultra:</p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://p.ipic.vip/9ao0pe.jpg\" /></p>",
+    "publish_time": "2024-02-25 09:19:16",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  }
+]
