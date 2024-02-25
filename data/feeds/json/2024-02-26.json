@@ -1547,5 +1547,47 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "东北父母式审美",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E7%88%B6%E6%AF%8D%E5%BC%8F%E5%AE%A1%E7%BE%8E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "美股三大指数收盘涨跌不一，热门科技股涨跌互现",
+    "url": "https://www.36kr.com/newsflashes/2664483137413897",
+    "summary": "36氪获悉，2月23日收盘，美股三大指数涨跌不一，道指涨0.16%，纳指跌0.28%，标普500指数涨0.04%。大型科技股涨跌互现，ARM涨超3%，英伟达、亚马逊小幅上涨，特斯拉跌超2%，苹果跌1%，微软、Meta、谷歌小幅下跌。热门中概股多数下跌，蔚来跌超7%，小鹏汽车跌超5%，拼多多、B站、爱奇艺跌超2%，理想汽车、京东、阿里巴巴小幅下跌，百度小幅上涨。",
+    "publish_time": "2024-02-26 07:00:16",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Killing VMware",
+    "url": "https://www.computerworld.com/article/3713242/killing-vmware.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39504766\">Comments</a>",
+    "publish_time": "2024-02-26 05:07:30",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How to Create a Scrivener Project to Use as Your Second Brain",
+    "url": "https://www.literatureandlatte.com/blog/how-to-create-a-scrivener-project-to-use-as-your-second-brain",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39504524\">Comments</a>",
+    "publish_time": "2024-02-26 04:41:36",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
