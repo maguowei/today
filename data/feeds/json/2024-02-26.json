@@ -1235,5 +1235,109 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "GUCCI拍的肖战",
+    "url": "https://s.weibo.com/weibo?q=%23GUCCI%E6%8B%8D%E7%9A%84%E8%82%96%E6%88%98%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "哪种水果吃起来最狼狈",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%93%AA%E7%A7%8D%E6%B0%B4%E6%9E%9C%E5%90%83%E8%B5%B7%E6%9D%A5%E6%9C%80%E7%8B%BC%E7%8B%88%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "1,2,4,8,16……数列的下一项是什么？",
+    "url": "https://www.zhihu.com/question/642087948",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Parasite infection is associated with entrepreneurship (2020)",
+    "url": "https://journals.sagepub.com/doi/full/10.1177/1042258719890992",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39503054\">Comments</a>",
+    "publish_time": "2024-02-26 01:59:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Readability.js",
+    "url": "https://github.com/mozilla/readability",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39503522\">Comments</a>",
+    "publish_time": "2024-02-26 02:48:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A Girl and Her ViewBuilder",
+    "url": "https://cuteios.dev/2024/01/10/viewbuilder.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39503487\">Comments</a>",
+    "publish_time": "2024-02-26 02:42:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Console.delight",
+    "url": "https://frontendmasters.com/blog/console-delight/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39504072\">Comments</a>",
+    "publish_time": "2024-02-26 03:43:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Vega-Altair: Declarative Visualization in Python",
+    "url": "https://altair-viz.github.io/index.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39503193\">Comments</a>",
+    "publish_time": "2024-02-26 02:12:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Write Dumb Code (2018)",
+    "url": "https://matthewrocklin.com/write-dumb-code.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39503777\">Comments</a>",
+    "publish_time": "2024-02-26 03:14:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Efficient recovery and recycling of cobalt from spent lithium-ion batteries",
+    "url": "https://pubs.acs.org/doi/10.1021/acsomega.2c07780",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39502165\">Comments</a>",
+    "publish_time": "2024-02-26 00:33:21",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
