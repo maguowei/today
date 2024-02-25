@@ -42,5 +42,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "很痛苦，火狐对扩展程序的限制让我开始自我怀疑了",
+    "url": "https://www.v2ex.com/t/1018209",
+    "summary": "rizon: <p>开发的扩展程序准备适配火狐时发现火狐在 mv3 版本里，禁用了 script-src 的外部资源只允许使用 self ，而且还禁止了 blob 。<br />\n我的扩展程序的用户认证用的是 clerk 这个服务，这个服务里的代码有很多都是远程 js 和 blob 。\n我费劲改了 clerk 的代码把远程 js 改成本地，结果发现还有 blob 的问题，就不知道怎么办了。</p>\n<p>没有看到任何社区询问这个问题，现在我开始怀疑是不是我写扩展的思路不对。。。扩展程序的登录是不是不是这么搞，也没有相关的教程和案例可以看。。。</p>\n<p>找不到相关知识就很难受。\n痛，非常之痛。。。</p>",
+    "publish_time": "2024-02-25 04:33:57",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "同事直接往 master 推未经测试的代码",
+    "url": "https://www.v2ex.com/t/1018230",
+    "summary": "justR: 最近新来个同事，代码写了就直接推到 master, 一堆 bug,说了也不听，遇到这种人怎么办",
+    "publish_time": "2024-02-25 11:06:34",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
