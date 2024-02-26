@@ -4949,5 +4949,344 @@
       "desc": "36kr快讯",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
     }
+  },
+  {
+    "title": "今日辟谣",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%97%A5%E8%BE%9F%E8%B0%A3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "A股超3600只个股上涨",
+    "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%B6%853600%E5%8F%AA%E4%B8%AA%E8%82%A1%E4%B8%8A%E6%B6%A8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "向佐郭碧婷约会照",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E9%83%AD%E7%A2%A7%E5%A9%B7%E7%BA%A6%E4%BC%9A%E7%85%A7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "汪峰女儿小苹果近照",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B1%AA%E5%B3%B0%E5%A5%B3%E5%84%BF%E5%B0%8F%E8%8B%B9%E6%9E%9C%E8%BF%91%E7%85%A7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "考研调剂",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E8%B0%83%E5%89%82%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "山东考研成绩",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "高叶收到范丞丞送的海鲜",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%8F%B6%E6%94%B6%E5%88%B0%E8%8C%83%E4%B8%9E%E4%B8%9E%E9%80%81%E7%9A%84%E6%B5%B7%E9%B2%9C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "男子听老婆话挪车成功躲过一劫",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%90%AC%E8%80%81%E5%A9%86%E8%AF%9D%E6%8C%AA%E8%BD%A6%E6%88%90%E5%8A%9F%E8%BA%B2%E8%BF%87%E4%B8%80%E5%8A%AB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "邱贻可 球不落地永不放弃",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%82%B1%E8%B4%BB%E5%8F%AF+%E7%90%83%E4%B8%8D%E8%90%BD%E5%9C%B0%E6%B0%B8%E4%B8%8D%E6%94%BE%E5%BC%83%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "王俊凯黑色深V",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E9%BB%91%E8%89%B2%E6%B7%B1V%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "宇多田光香港演唱会",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E5%A4%9A%E7%94%B0%E5%85%89%E9%A6%99%E6%B8%AF%E6%BC%94%E5%94%B1%E4%BC%9A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "论收件人名称可以有多离谱",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%AE%BA%E6%94%B6%E4%BB%B6%E4%BA%BA%E5%90%8D%E7%A7%B0%E5%8F%AF%E4%BB%A5%E6%9C%89%E5%A4%9A%E7%A6%BB%E8%B0%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "不要指责曾经那个别扭的小孩",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E6%8C%87%E8%B4%A3%E6%9B%BE%E7%BB%8F%E9%82%A3%E4%B8%AA%E5%88%AB%E6%89%AD%E7%9A%84%E5%B0%8F%E5%AD%A9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "当代年轻人都是这样省钱的",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BB%A3%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%83%BD%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9C%81%E9%92%B1%E7%9A%84%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "李兰迪新妆造",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%B0%E8%BF%AA%E6%96%B0%E5%A6%86%E9%80%A0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "柯南2024剧场版IMAX海报",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9F%AF%E5%8D%972024%E5%89%A7%E5%9C%BA%E7%89%88IMAX%E6%B5%B7%E6%8A%A5%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "李若彤饰演的小龙女为何难以超越？",
+    "url": "https://www.zhihu.com/question/643837514",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么网络形容小丑用joker而不用clown?",
+    "url": "https://www.zhihu.com/question/645421649",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "2 月 26 日沪指跌近 1% 止步 8 连阳，机器人板块逾 50 股涨停，如何看待今日行情？",
+    "url": "https://www.zhihu.com/question/645860703",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "阮梅和多托雷看起来很相似，但是为什么我却对阮梅讨厌不起来？",
+    "url": "https://www.zhihu.com/question/645730898",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "江西崇义规定「零彩礼」「低彩礼」夫妻、岳父母享县内国有景区大门票免费，子女可优先入学等，如何看待此事？",
+    "url": "https://www.zhihu.com/question/645870274",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "今年 1 月赴华韩国民众超 14 万人次，同比增长 908%，韩国家庭对张家界情有独钟，如何看待此事？",
+    "url": "https://www.zhihu.com/question/645872934",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "互联网公司为什么不能将晚上加班调整为提早上班呢？",
+    "url": "https://www.zhihu.com/question/645336600",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "A股三大指数收盘集体下跌，工业母机概念领涨",
+    "url": "https://www.36kr.com/newsflashes/2665003318649605",
+    "summary": "36氪获悉，A股三大指数收盘集体下跌，沪指跌0.93%，深成指跌0.04%，创业板指跌0.37%。工业母机、人形机器人概念领涨，华中数控、迈赫股份涨停，科大智能涨超15%；煤炭、银行板块跌幅居前，中煤能源跌近5%，建设银行、交通银行跌超3%；北向资金净流出13.13亿元。",
+    "publish_time": "2024-02-26 15:01:33",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "蔡崇信：阿里已重返中国顶级电商轨道",
+    "url": "https://www.36kr.com/newsflashes/2665007542478599",
+    "summary": "阿里巴巴主席蔡崇信表示，经过一段时间的压力，阿里已重返中国顶级电商企业轨道。 蔡崇信接受采访时指出，随着架构重组和新管理层的到位，阿里对能够成为中国顶级电子商务企业之一更具信心。阿里虽然不像以前那样自信，并感受到竞争压力，但现在“阿里回来了”。他又预期，未来5年中国电子商务的渗透率将超过40%，大幅高于目前的30%水平。阿里巴巴早前搁置阿里云IPO计划，蔡崇信称，若投资者情绪较好，推进IPO计划才会较为合理。至于已在香港提交上市申请的菜鸟，目前市场表现欠佳，公司仍在等待更好的时机。（新浪财经）",
+    "publish_time": "2024-02-26 15:05:51",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "主力尾盘持续加仓机械设备股，抛售大金融股",
+    "url": "https://www.36kr.com/newsflashes/2665007733843719",
+    "summary": "主力资金尾盘持续净流入机械设备、轻工制造、电子等板块，净流出银行、非银金融、公共事业等板块。具体到个股来看，鸿博股份、北汽蓝谷、中科曙光获净流入12.15亿元、5.54亿元、5.09亿元。净流出方面，贵州茅台、平安银行、长安汽车分别遭抛售8.34亿元、6.11亿元、4.05亿元。（第一财经）",
+    "publish_time": "2024-02-26 15:06:03",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "长江证券：短剧“春节档”热度再起，AI有望加速内容变现",
+    "url": "https://www.36kr.com/newsflashes/2665009479688961",
+    "summary": "36氪获悉，长江证券研报表示，短剧“春节档”热度再起，AI有望加速内容变现。春节档短剧市场火热，日消耗约8000-9000万元，总消耗预估8亿元。2023年短剧市场供给理性增长，备案量上涨9%；需求端月活用户规模近1.5亿，同比增长782.8%。2月21日，国家广电智库指出“微短剧已成为网络视听创新发展的新动能”，精品创作导向下，抖音、快手、腾讯三大流量媒体均发布相关短剧扶持计划。AI技术创新推动短剧创作，OpenAI发布的文生视频工具Sora可一次性生成长达60秒的视频、多角度镜头无缝切换。对于短剧，特别是单集时长1-2分钟的小程序短剧，Sora可生成的视频长度与之天然契合。Sora等AI工具有望降低短视频领域的创作门槛，为短剧内容的商业变现创造更多可能性。",
+    "publish_time": "2024-02-26 15:13:44",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "航天彩虹：已将部分市值管理指标纳入部分管理层考核指标中",
+    "url": "https://www.36kr.com/newsflashes/2665033904071427",
+    "summary": "36氪获悉，航天彩虹在互动平台表示，公司为国资控股上市公司。公司已将部分市值管理指标纳入部分管理层考核指标中。公司接下来将国家政策的指引下，继续深入研究与逐步完善，落实实施管理的战略、计划、措施。",
+    "publish_time": "2024-02-26 15:32:40",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "维峰电子：公司已有产品成熟应用于工业机器人",
+    "url": "https://www.36kr.com/newsflashes/2665034724025095",
+    "summary": "36氪获悉，维峰电子2月26日在互动平台表示，公司已有产品成熟应用于工业机器人。",
+    "publish_time": "2024-02-26 15:33:30",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "阿科力：将对万吨级聚醚胺生产线进行停产检修",
+    "url": "https://www.36kr.com/newsflashes/2665046351636230",
+    "summary": "36氪获悉，阿科力公告称，公司按照既定的压力设备定期检维修计划，将于2024年2月27日起对万吨级聚醚胺生产线进行停产检修，停产检修时间预计20天左右。",
+    "publish_time": "2024-02-26 15:45:20",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "广哈通信：关注人工智能在行业市场的应用",
+    "url": "https://www.36kr.com/newsflashes/2665054663058177",
+    "summary": "36氪获悉，广哈通信在互动平台表示，公司关注人工智能在行业市场的应用，目前在智能语音识别、声纹识别、图像识别等方向有相关的研究开发，并在电力领域客户有相关方案实施落地。",
+    "publish_time": "2024-02-26 15:53:47",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "夸父炸串宣布完成B轮融资",
+    "url": "https://www.36kr.com/newsflashes/2665060098467589",
+    "summary": "夸父炸串宣布完成B轮融资，由愉悦资本、绝了基金联合领投，不二资本和老股东华映资本跟投，蔚澜资本担任独家融资顾问。至此，夸父炸串已完成近5亿元人民币融资，成为近年小吃连锁总融资额最高的品牌。（界面）",
+    "publish_time": "2024-02-26 15:59:19",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "PID Without a PhD (2016) [pdf]",
+    "url": "https://www.wescottdesign.com/articles/pid/pidWithoutAPhd.pdf",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39506420\">Comments</a>",
+    "publish_time": "2024-02-26 08:22:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "New car buying guide: the algorithm (2021)",
+    "url": "https://github.com/kutinden/buyingacar/blob/main/README.md",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39507402\">Comments</a>",
+    "publish_time": "2024-02-26 11:36:22",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Home Screen Advantage",
+    "url": "https://infrequently.org/2024/02/home-screen-advantage/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39508257\">Comments</a>",
+    "publish_time": "2024-02-26 14:46:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
