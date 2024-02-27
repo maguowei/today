@@ -31,5 +31,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "[vip 大放送，人人有份]某抖、某快、某书等数十个平台图文视频无水印下载小程序",
+    "url": "https://www.v2ex.com/t/1018735",
+    "summary": "wwzgxsyf: <p>之前做的一个小玩意儿，日活不高，索性送点会员给大家玩玩</p>\n<p>使用方式在首页教程浮窗里面，每个平台的使用方式大同小异，都是点击分享视频，复制链接然后粘贴等待解析</p>\n<p>评论区放一下你在小程序中的用户 id ，每人送一个月会员\n<img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/psnzl0F.png\" /></p>\n<p>小程序码奉上：</p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/kCbHMvA.jpeg\" /></p>\n<p>看情况评论区再抽 5 个永久吧</p>\n<p>最后弱弱问一句，v2 的 markdown 支持是不是不完整，没法通过代码对图片做些控制，起码预览时看上去不太正常</p>",
+    "publish_time": "2024-02-27 10:55:53",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "关于使用丐版 Mac mini 又想保护固态寿命的正确姿势",
+    "url": "https://www.v2ex.com/t/1018752",
+    "summary": "HojiOShi: <p>众所周知，mac mini 现在的内存和固态都是焊死在主板上的。所以我担心正常使用丐版的情况下，内置固态禁不住 swap 的频繁读写，又不能更换导致整部机器报废。我查了一下，似乎可以重装系统在外置固态上，这样可以用外置固态承受 swap 的压力解决这个问题。但是我并不确定是否真的能够这样做，这样做实际上对性能有多大的影响我也不是很清楚。按照我的使用场景，8G 内存肯定是不够用的，swap 情况肯定会非常严重。</p>",
+    "publish_time": "2024-02-27 11:25:32",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
