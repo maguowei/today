@@ -1,0 +1,57 @@
+[
+  {
+    "title": "React 19 要来了：你准备好了吗？｜讨论",
+    "url": "https://www.infoq.cn/article/R7x8TGNPFrQvBqo151y3",
+    "summary": "<p>React，作为前端领域中备受瞩目的技术框架之一，自其诞生以来一直以快速的版本迭代和引入新特性而闻名。然而，最近一年多以来，React 18版本停滞不前，当前的稳定版本是18.2，发布于22年6月，之后便没有新的稳定版本发布。直到今年2月15日，官方博客才透露了下一个稳定版本的计划，即React 19。具体更新新闻大家可以看这篇报道：<a href=\"https://www.infoq.cn/news/2t41mOMj3Hw2fBiTGLJH\">沉寂 600 多天后，React 憋了个大招</a>\"。</p><p></p><p><img src=\"https://static001.infoq.cn/resource/image/a9/e4/a96be12495e7d0f490e70b37a26202e4.png\" /></p><p></p><p></p><p>尽管停止了稳定版本的发布，但React在过去一年中的活跃度并未降低。从代码提交量来看，React仍然保持着较高的活跃度，主要集中在底层架构的重构，因此一年没发新版并非意味着停滞不前，而是其发展理念转变的必然结果。</p><p></p><p>对于 React 19，普通开发者无需担心学习成本过大。如果你不使用 Next 等框架，那么你大概率不会接触到 RSC 体系下的新特性。React 19 对你的最大影响可能就是新特性对老 API 的影响，例如 useContext 变为 use(promise)等。</p><p></p><p>了解更多</p><p></p><p>React 官方博客： <a href=\"https://react.dev/blog\">https://react.dev/blog</a>\"YouTube 视频: <a href=\"https://www.youtube.com/watch?v=B-tjhF7ojeA\">https://www.youtube.com/watch?v=B-tjhF7ojeA</a>\"</p><p></p><p>关于React 19 的进一步消息，可以关注今年 5 月 15 日至 16 日的 React Conf 。那么你最期待 React 哪些功能更新呢？欢迎留言～</p><p></p><p>InfoQ 为大家在前端学习的道路上准备了一份厚礼！扫码免费领取～</p><p><img src=\"https://static001.infoq.cn/resource/image/b7/fd/b74de49052a627a99c4769d3ec6037fd.png\" /></p><p></p>",
+    "publish_time": "2024-02-27 10:30:26",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "aiXcoder 代码大模型在企业的应用实践",
+    "url": "https://www.infoq.cn/article/JQsMsolAbd7TQ7kI4cVA",
+    "summary": "<p>本次演讲针对代码大模型在企业真实落地中存在数据安全、计算资源有限、企业领域知识融合等挑战，结合实际落地案例，介绍 aiXcoder 代码大模型的构建与应用实践，包括代码大模型的训练、私有化部署、结合企业领域知识的个性化训练等。</p>\n<p>听众收益点：</p>\n<p>了解代码大模型的构建基本流程；<br />\n企业如何应用代码大模型提升研发效能。</p>",
+    "publish_time": "2024-02-27 11:24:16",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "借助 LangChain 与 LLM Agent 加速生成式 AI 应用开发",
+    "url": "https://www.infoq.cn/article/mSVS28xKaCQMfKR3lZDq",
+    "summary": "<p>本次分享将会介绍 LLM-based Agent 特性，业界发展情况以及如何利用 Agent 构建生成式 AI 应用，让你快速借助 LangChain 和 Agents for Amazon Bedrock 构建企业自己的可落地的生成式AI应用。</p>\n<p>听众收益：</p>\n<p>了解 LLM-based Agent 特性与发展<br />\n初步掌握如何利用 LLM-based Agent 构建生成式 AI 应用</p>",
+    "publish_time": "2024-02-27 11:24:20",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "AI Native 化的大前端开发模式",
+    "url": "https://www.infoq.cn/article/CK0PJe62BNc5N15PaUIj",
+    "summary": "<p>在本次的分享中，我将向大家展示如何将传统的交互方式与对话流相结合，这包括上下文和状态流转的设计策略。除了交互设计本身，我们还会探讨特定场景下的 PatternPlugin，这将涉及如何将状态机技术应用于肉鸽游戏和活动设计。此外，我还将分享如何利用大型模型来进行业务监控和效果评估。</p>\n<p>听众收益点：</p>\n<p>了解传统交互与 LLM 对话的结合方案<br />\n了解 PatternPlugin 状态机的设计<br />\n基于大模型的 EDD 设计思想</p>",
+    "publish_time": "2024-02-27 11:36:10",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "Sora 技术报告深度解读",
+    "url": "https://www.infoq.cn/article/w72jY5dZOrW1f8ANARpG",
+    "summary": "<p></p><h2>你将获得</h2><p></p><p>理解 Sora 令人惊叹的 8 大特性了解 Sora 背后的 6 大技术支撑深入探索 Sora 模拟世界的能力大胆探究 Sora 发展方向与前景</p><p></p><h2>课程介绍</h2><p></p><p>Sora 是啥？到底带来了哪些改变？Sora 背后的技术都有哪些？AGI 时代真的要来了吗？</p><p></p><p>OpenAI 的首个视频生成模式 Sora 发布，效果令人惊叹。作为技术人，除了看热闹，我们还要看门道；咱也不必跟着瞎焦虑，踏实下来研究些干货内容。这个公开课是对 Sora 官方技术报告的深度解读，郑建勋老师带我们从 4 个主题层层深入，看懂 Sora 背后技术，探索更多未来可能。</p><p></p><p>这是最好的时代，这是最坏的时代。而我们，跟上技术发展的脚步，扎扎实实练内功，成为同行者。</p><p></p><p><img src=\"https://static001.infoq.cn/resource/image/d4/eb/d4ca5c2433cb6802f77e957c919f24eb.png\" /></p><p></p><h2>讲师介绍</h2><p></p><p>郑建勋，Go 语言技术专家，成都慧眸科技创始人。极客时间《Go 进阶 · 分布式爬虫实战》专栏讲师，《Go 语言底层原理剖析》《聚沙成塔：Go 语言构建高性能、分布式爬虫项目》图书作者。Go 语言垃圾回收源码贡献者，Go 语言精度库 shopspring/decimal 核心贡献者。曾就职于人工智能独角兽公司的视觉中台与大型互联网企业的业务中台，拥有丰富的大规模云原生、分布式、微服务集群的实战经验。确保了百万级流量系统的服务稳定性，并经历和主导了复杂业务系统的性能优化与系统重构。</p>",
+    "publish_time": "2024-02-27 12:29:31",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
