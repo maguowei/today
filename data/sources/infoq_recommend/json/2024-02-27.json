@@ -64,5 +64,38 @@
       "desc": "InfoQ推荐",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
     }
+  },
+  {
+    "title": "AI Native 化的大前端开发模式 | QCon",
+    "url": "https://www.infoq.cn/article/CK0PJe62BNc5N15PaUIj",
+    "summary": "<p>在本次的分享中，我将向大家展示如何将传统的交互方式与对话流相结合，这包括上下文和状态流转的设计策略。除了交互设计本身，我们还会探讨特定场景下的 PatternPlugin，这将涉及如何将状态机技术应用于肉鸽游戏和活动设计。此外，我还将分享如何利用大型模型来进行业务监控和效果评估。最新会议动态：QCon 全球软件开发大会暨智能软件开发生态展将于4月11-13日在北京·国测国际会议会展中心举办，点击<a href=\"https://qcon.infoq.cn/2024/beijing/?utm_source=qconshanghai&amp;utm_medium=playback\">链接</a>了解大模型如何革新软件开发全流程。</p>\n<p>听众收益点：</p>\n<p>了解传统交互与 LLM 对话的结合方案<br />\n了解 PatternPlugin 状态机的设计<br />\n基于大模型的 EDD 设计思想</p>",
+    "publish_time": "2024-02-27 11:36:09",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "华为发布通信行业首个大模型，提供基于角色的Copilots和基于场景的Agents应用能力",
+    "url": "https://www.infoq.cn/article/0PuOGSrqVePTwmZh5lk3",
+    "summary": "<p>当地时间2月26日，在MWC24巴塞罗那展期间，华为发布了通信行业首个大模型。据了解，华为通信大模型是一款基于AI的商用大模型，采用先进的技术和算法，提供关键的智能化技术能力，用于优化通信网络性能、智能调度资源等，实现5G-A（5.5G）时代的智能化目标。</p><p>&nbsp;</p><p>针对行业提出的敏捷业务发放、精准用户体验保障、跨领域高效运维的高阶智能化目标，该大模型提供基于角色和基于场景的智能化应用，助力运营商赋能员工、提升用户满意度，全面使能网络生产力。</p><p>&nbsp;</p><p>华为董事、ICT产品与解决方案总裁杨超斌介绍，华为通信大模型发挥智能化技术优势，提供基于角色的Copilots（AI助手）和基于场景的Agents（智能体）的两类应用能力，帮助运营商赋能员工的同时，提升用户满意度，最终将全面提升网络生产力。</p><p>&nbsp;</p><p>杨超斌还分享了华为通信大模型的典型场景实践。在敏捷业务发放案例中，通过放号助手的多模态精准评估，实现了快速用户放号；在用户体验保障案例中，通过大模型的寻优能力，实现了多目标体验保障；在辅助排障场景下，跨流程的质差分析和对话辅助处理，显著改善了故障处理效率。</p><p>&nbsp;</p><p>在MWC24巴塞罗那大会上，华为公司高级副总裁、ICT销售与服务总裁李鹏表示，2024年是5G-A商用元年，结合云和AI技术的发展，运营商商业增长的潜力巨大。李鹏指出，全球运营商可以抓住四个方面的战略机会：优质网络是实现商业成功的基础；多维体验变现，充分挖掘网络每比特的价值；新业务不断涌现，支撑面向未来的持续增长；生成式AI，驱动移动产业走向全面智能化。</p>",
+    "publish_time": "2024-02-27 15:51:27",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "大模型时代：最大化CPU价值的优化策略|Qcon",
+    "url": "https://www.infoq.cn/article/RFIYuIN1wdG1lQAjMfaI",
+    "summary": "<p>本次演讲将探讨在大语言模型时代充分利用 CPU 资源的关键策略。具体介绍一些结合硬件特性的优化方法，例如利用 CPU 的多核特性、采用并行计算和 AMX 指令集扩展技术来提高处理速度。</p>\n<p>此外还将介绍一种结合 CPU 和 GPU 的投机采样方法，通过在 CPU 上运行部分计算任务，充分利用 CPU 资源并减少对 GPU 的依赖。最后，我将分享一些最新的性能情况，让您了解这些优化策略的实际效果。通过这些方法，您将能够更好地利用 CPU 资源，提高模型推理速度，以更快速高效的实现生成式模型部署落地。</p>\n<p>最新会议动态：QCon 全球软件开发大会暨智能软件开发生态展将于4月11-13日在北京·国测国际会议会展中心举办，点击<a href=\"https://qcon.infoq.cn/2024/beijing/?utm_source=qconshanghai&amp;utm_medium=playback\">链接</a>了解大模型如何革新软件开发全流程。</p>\n<p>听众收益点：</p>\n<p>理解并结合硬件特性进行优化，提高模型推理速度和处理能力<br />\n了解 CPU 上的最新性能情况，为实际业务的大模型线上部署提供更多选择<br />\n掌握结合 CPU 和 GPU 协同工作的优化策略，减少对 GPU 的依赖，提高资源利用率</p>",
+    "publish_time": "2024-02-27 16:17:45",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
   }
 ]
