@@ -3071,5 +3071,400 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "ROG代言人周冠宇",
+    "url": "https://s.weibo.com/weibo?q=%23ROG%E4%BB%A3%E8%A8%80%E4%BA%BA%E5%91%A8%E5%86%A0%E5%AE%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "研究生招生人数6年翻倍",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F%E4%BA%BA%E6%95%B06%E5%B9%B4%E7%BF%BB%E5%80%8D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "姚安娜芭蕾水平",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A7%9A%E5%AE%89%E5%A8%9C%E8%8A%AD%E8%95%BE%E6%B0%B4%E5%B9%B3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "D社放弃跟拍的女爱豆",
+    "url": "https://s.weibo.com/weibo?q=%23D%E7%A4%BE%E6%94%BE%E5%BC%83%E8%B7%9F%E6%8B%8D%E7%9A%84%E5%A5%B3%E7%88%B1%E8%B1%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "中国的高保湿面霜",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%9A%84%E9%AB%98%E4%BF%9D%E6%B9%BF%E9%9D%A2%E9%9C%9C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "陈乔恩6天减六斤",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B9%94%E6%81%A96%E5%A4%A9%E5%87%8F%E5%85%AD%E6%96%A4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "豪杰春香男主借钱不还",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B1%AA%E6%9D%B0%E6%98%A5%E9%A6%99%E7%94%B7%E4%B8%BB%E5%80%9F%E9%92%B1%E4%B8%8D%E8%BF%98%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "中国资产再次大爆发",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B5%84%E4%BA%A7%E5%86%8D%E6%AC%A1%E5%A4%A7%E7%88%86%E5%8F%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "董宇辉再回应不理解女生做美甲",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E5%86%8D%E5%9B%9E%E5%BA%94%E4%B8%8D%E7%90%86%E8%A7%A3%E5%A5%B3%E7%94%9F%E5%81%9A%E7%BE%8E%E7%94%B2%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "国台办再回应台撞击大陆渔船恶性事件",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%86%8D%E5%9B%9E%E5%BA%94%E5%8F%B0%E6%92%9E%E5%87%BB%E5%A4%A7%E9%99%86%E6%B8%94%E8%88%B9%E6%81%B6%E6%80%A7%E4%BA%8B%E4%BB%B6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "国家对贵州近期森林火灾多发进行督办",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%AF%B9%E8%B4%B5%E5%B7%9E%E8%BF%91%E6%9C%9F%E6%A3%AE%E6%9E%97%E7%81%AB%E7%81%BE%E5%A4%9A%E5%8F%91%E8%BF%9B%E8%A1%8C%E7%9D%A3%E5%8A%9E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "赵又廷高圆圆陪女儿骑车",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%8F%88%E5%BB%B7%E9%AB%98%E5%9C%86%E5%9C%86%E9%99%AA%E5%A5%B3%E5%84%BF%E9%AA%91%E8%BD%A6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "斯特鲁斯致命绝杀",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%96%AF%E7%89%B9%E9%B2%81%E6%96%AF%E8%87%B4%E5%91%BD%E7%BB%9D%E6%9D%80%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "姚安娜表情包",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A7%9A%E5%AE%89%E5%A8%9C%E8%A1%A8%E6%83%85%E5%8C%85%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "全员加速中弹幕",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%91%98%E5%8A%A0%E9%80%9F%E4%B8%AD%E5%BC%B9%E5%B9%95%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "第一次尝试自己睡觉的小朋友",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%B0%9D%E8%AF%95%E8%87%AA%E5%B7%B1%E7%9D%A1%E8%A7%89%E7%9A%84%E5%B0%8F%E6%9C%8B%E5%8F%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "骑士绝杀独行侠",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%AA%91%E5%A3%AB%E7%BB%9D%E6%9D%80%E7%8B%AC%E8%A1%8C%E4%BE%A0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "葡萄柚减肥法",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E6%9F%9A%E5%87%8F%E8%82%A5%E6%B3%95%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "长相很凶的狗狗没人和它玩",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E5%BE%88%E5%87%B6%E7%9A%84%E7%8B%97%E7%8B%97%E6%B2%A1%E4%BA%BA%E5%92%8C%E5%AE%83%E7%8E%A9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "大陆方面保留采取一切措施的权利",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%99%86%E6%96%B9%E9%9D%A2%E4%BF%9D%E7%95%99%E9%87%87%E5%8F%96%E4%B8%80%E5%88%87%E6%8E%AA%E6%96%BD%E7%9A%84%E6%9D%83%E5%88%A9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "患有厌食症女生成功增重30kg",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%82%A3%E6%9C%89%E5%8E%8C%E9%A3%9F%E7%97%87%E5%A5%B3%E7%94%9F%E6%88%90%E5%8A%9F%E5%A2%9E%E9%87%8D30kg%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "模仿暮光之城",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%A8%A1%E4%BB%BF%E6%9A%AE%E5%85%89%E4%B9%8B%E5%9F%8E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "女生问男友新裙子好看吗",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E9%97%AE%E7%94%B7%E5%8F%8B%E6%96%B0%E8%A3%99%E5%AD%90%E5%A5%BD%E7%9C%8B%E5%90%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "俄罗斯计划从 3 月 1 日起禁止汽油出口 6 个月，这背后的原因是什么？",
+    "url": "https://www.zhihu.com/question/646093231",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "宝可梦 2024 年 2 月 27 日晚 10 点举办发布会，你认为有哪些值得关注的信息？",
+    "url": "https://www.zhihu.com/question/646178329",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "电脑耗电多少算大?",
+    "url": "https://www.zhihu.com/question/645926865",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "宋美龄曾经说过来华的苏联军事顾问崔可夫不懂军事，这个怎么评价？",
+    "url": "https://www.zhihu.com/question/643049036",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "公司领导要求员工与公司共患难是一种PUA吗？",
+    "url": "https://www.zhihu.com/question/645892007",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "优刻得联合智谱AI构建超千卡推理集群",
+    "url": "https://www.36kr.com/newsflashes/2667553004544773",
+    "summary": "36氪获悉，优刻得联合智谱AI构建超千卡推理集群，双方将联合构建超千卡规模的推理集群。目前，智谱AI新一代基座大模型GLM-4稳定、高效运行于云端，具备大规模实时推理能力，其推理速度更快，并发性更高，且成本显著降低。",
+    "publish_time": "2024-02-28 10:15:14",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "PEEK概念股再度拉升，中欣氟材2连板",
+    "url": "https://www.36kr.com/newsflashes/2667554823070469",
+    "summary": "36氪获悉，截至发稿，PEEK概念股再度拉升，中欣氟材2连板，沃特股份、富恒新材、新瀚新材、华密新材、聚赛龙等跟涨。",
+    "publish_time": "2024-02-28 10:17:05",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "宝马集团泰国公司据悉计划今年在泰国建设一家电动汽车电池工厂",
+    "url": "https://www.36kr.com/newsflashes/2667555569149704",
+    "summary": "据外媒消息，宝马集团泰国公司计划今年在泰国建设一家电动汽车电池工厂，该公司表示，工厂的投资预算和产能将很快确定。（界面）",
+    "publish_time": "2024-02-28 10:17:50",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "中国光伏行业协会：今年计划组织召开央国企与民营企业交流会议，探讨更为合理的招投标价格形成机制",
+    "url": "https://www.36kr.com/newsflashes/2667560041637634",
+    "summary": "2月28日，由中国光伏行业协会主办的“光伏行业2023年发展回顾与2024年形势展望研讨会”在北京举办。中国光伏行业协会名誉理事长王勃华透漏，中国光伏行业协会2024年部分重点工作，包括：协助开展《光伏制造行业规范条件》修订工作；加强产能监测工作；﻿探索制定光伏价格指数；充分发挥知识产权专委会的平台作用，维护企业合法权益；组织召开央国企与民营企业交流会议，探讨更为合理的招投标价格形成机制。（证券时报）",
+    "publish_time": "2024-02-28 10:22:23",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "菜鸟与Spotter达成合作，将向其提供新一代智慧仓储管理系统",
+    "url": "https://www.36kr.com/newsflashes/2667566346282759",
+    "summary": "36氪获悉，菜鸟物流科技出海再获新进展。近日，菜鸟与B2B跨境贸易分销渠道商Spotter签署合作协议。菜鸟将发挥自身在数字供应链方面的领先优势，向Spotter提供新一代智慧仓储管理系统，帮助其海外仓建设标准高效的仓储管理体系，共同助力中国品牌出海。这也是继与Daraz、Flash Express等企业展开科技合作之后，菜鸟物流科技出海取得的又一成果。",
+    "publish_time": "2024-02-28 10:28:48",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "传媒、游戏股持续走高，华谊兄弟20%涨停",
+    "url": "https://www.36kr.com/newsflashes/2667567504549634",
+    "summary": "36氪获悉，截至发稿，传媒、游戏、短剧概念股早盘持续走强，华谊兄弟20CM涨停，慈文传媒、姚记科技、浙版传媒、国脉文化涨停，冰川网络、中青宝、实丰文化、昆仑万维等涨超5%。",
+    "publish_time": "2024-02-28 10:29:59",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "李想谈苹果放弃造车转向人工智能：绝对正确的战略选择",
+    "url": "https://www.36kr.com/newsflashes/2667581887472386",
+    "summary": "36氪获悉，理想汽车CEO李想发文称，苹果放弃造车，选择聚焦人工智能是绝对正确的战略选择，时间点也合适。人工智能会成为所有设备、服务、应用、交易的最顶层入口，苹果的必争之战。李想表示，“做成了汽车，大获成功，苹果会增加2万亿美金的市值，但是汽车大获成功的必要条件仍然是人工智能。汽车的电动化是上半场，人工智能才是决赛。”",
+    "publish_time": "2024-02-28 10:44:37",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "机器人、减速器概念股震荡走低，爱仕达逼近跌停",
+    "url": "https://www.36kr.com/newsflashes/2667585131718400",
+    "summary": "36氪获悉，截至发稿，机器人、减速器概念股震荡走低，爱仕达逼近跌停，日发精机跌超7%，南方精工、光洋股份、丰立智能、宁波东力等跟跌。",
+    "publish_time": "2024-02-28 10:47:55",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "汽车整车板块盘中震荡下挫，亚星客车触及跌停",
+    "url": "https://www.36kr.com/newsflashes/2667588482426630",
+    "summary": "36氪获悉，截至发稿，汽车整车板块盘中震荡下挫，亚星客车触及跌停，江淮汽车、宇通客车跌超5%，长安汽车、力帆科技、安凯客车、中通客车等跟跌。",
+    "publish_time": "2024-02-28 10:51:19",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "腾讯云与Orange中东非洲公司达成战略合作",
+    "url": "https://www.36kr.com/newsflashes/2667592097325826",
+    "summary": "36氪获悉，在世界移动通信大会（MWC）期间，腾讯云与全球领先的电信运营商Orange中东非洲公司达成战略合作。借助腾讯云的小程序平台（TCMPP），OMEA将打造超级应用Max It，为中东和非洲地区的用户提供服务。",
+    "publish_time": "2024-02-28 10:55:00",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "半导体芯片股震荡走低，睿能科技跌停",
+    "url": "https://www.36kr.com/newsflashes/2667596568470278",
+    "summary": "36氪获悉，截至发稿，半导体芯片股震荡走低，睿能科技跌停，芯海科技、必易微、和林微纳、成都华微、易天股份等多股跌超5%。",
+    "publish_time": "2024-02-28 10:59:33",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "12分钟内部会结束了苹果十年造车梦，转攻AIGC！数十亿美元打了水漂、2000员工或转岗或被裁",
+    "url": "https://www.infoq.cn/article/EMldNHMwc5Q59CLi3CUq",
+    "summary": "<p></p><h2>苹果叫停十年造车项目，团队成员有人转岗，有人被裁</h2><p></p><p>&nbsp;</p><p>据知情人士透露，苹果在一次时长约12分钟的内部会议上决定叫停长达十年的电动汽车研发尝试，放弃公司有史以来最具野心的重大项目之一。</p><p>&nbsp;</p><p>知情人士称，苹果公司于本周二在内部放出了上述消息，令参与电车项目的近2000名员工颇感惊讶。由于内容尚未对外公开，这些人士要求保持匿名。据称这项决定由苹果首席运营官Jeff Williams与负责具体开发工作的副总裁Kevin Lynch共同做出。</p><p>&nbsp;</p><p>这两位高管向员工们坦言，项目后续将被逐渐关停，汽车团队（内部称为「特别项目组」，简称SPG）的许多员工将被转移至高管John Giannandrea领导下的AI部门，未来参与对苹果愈发重要的生成式AI开发项目。</p><p>&nbsp;</p><p>据英国《金融时报》报道，早在去年8月，苹果就已经开始在加州、西雅图、巴黎、北京等部门已经释放了数十个AI相关岗位，并开出年薪百万吸引AIGC人才。</p><p>&nbsp;</p><p>除此之外，苹果汽车团队还拥有数百名硬件工程师与车辆设计师。其中一部分有望申请调往其他团队，也会有一部分遭遇裁员，但具体数字尚不明确。</p><p>&nbsp;</p><p>至于苹果官方，目前拒绝对此发表评论。</p><p>&nbsp;</p><p>此举也让投资者们松了一口气。继彭博社报道这一消息后，本周二苹果股价旋即上扬。截至收盘，苹果股价在纽约证券交易所上涨约1%，来到182.63美元。</p><p>&nbsp;</p><p>特斯拉公司掌门人埃隆·马斯克也对此举表示庆祝。他在社交媒体X上分享了一篇帖子，内容为敬礼表情加一支香烟。</p><p>&nbsp;</p><p><img src=\"https://static001.geekbang.org/infoq/cf/cfec7b30b8b4522e37e233370e8a24b0.jpeg\" /></p><p></p><p>最终叫停汽车研发项目的决定对苹果来说无疑是一颗重磅炸弹，也宣告这个名为“泰坦计划”、烧掉数十亿美元、力求推动苹果进入全新行业的项目落下帷幕。这家科技巨头自2014年左右开始研发汽车，目标是打造一部配备豪华内饰加语音导航功能的纯自动驾驶电车。</p><p>&nbsp;</p><p>但自起步阶段以来，该项目就长期陷入困境，苹果也曾多次调整团队管理层及发展策略。几年前，现任福特汽车公司高管Ddoug&nbsp;Field宣布离职，随后由Lynch和Williams共同接手项目。</p><p>&nbsp;</p><p>苹果距离汽车量产似乎永远还有几年时间，其间也考虑过多种不同设计。除了车辆外观之外，解决自动驾驶技术也成为一项重大挑战。自2017年以来，苹果公司一直采用雷克萨斯SUV的外壳对自家系统进行道路测试，并在美国道路上投放了数十辆汽车。苹果方面还在菲尼克斯一条曾属于克莱斯勒集团的巨型赛道上测试过更多秘密组件。</p><p>&nbsp;</p><p>但最终，电动汽车市场的降温令苹果被迫选择放弃。售价过高以及充电设施不足一直阻碍着主流受众选购纯电动汽车，导致最近几个月来纯电车销量增幅开始回落。面对纯电汽车需求低迷与制造瓶颈，通用和福特等大型车厂开始转而生产更多混合动力汽车，全行业的厂商也着手大幅削减纯电汽车的价格、计划产量和利润预测。</p><p>&nbsp;</p><p>即使身为全球电动汽车革命先驱的特斯拉，近期也警告称今年的销售增长速度将“显著降低”。瑞银集团预测，今年美国国内电动汽车的销量增速将由2023年47%的预期放缓至11%。</p><p>&nbsp;</p><p>知情人士指出，苹果最高管理团队在讨论数周之后，才最终做这个艰难的决定。就在一个月前，彭博社报道称该项目已经到达决定成败的关键点。苹果内部讨论的最终结论是将产品发布推迟至2028年，并将自动驾驶技术的规格从L4级降低至L2+级。苹果汽车团队的成员来自整个汽车行业，囊括了阿斯顿·马丁、兰博基尼、宝马和保时捷的前设计师。</p><p>&nbsp;</p><p>根据最新安排，Lynch将接受Giannandrea的领导。他此前向Williams汇报工作，而Williams还同时负责Apple Watch的软件工程项目。</p><p>&nbsp;</p><p>苹果曾经设想开发一款不设方向盘和刹车/油门踏板的汽车，但此前因现实因素而放弃了这个想法。该公司还投入时间开发了一套能够接管司机操作的远程指挥中心系统。</p><p>&nbsp;</p><p>苹果前不久曾发布预计，称这款汽车的售价约在10万美元。但高管们担心最终产品无法保持苹果在其他产品上的同等利润率。公司董事会也对态势感到悲观，不愿继续在这个可能永远无法落地的项目上每年烧掉数亿美元。</p><p>&nbsp;</p><p>但苹果在其他领域的大规模投资仍在继续。过去五年来，该公司研发总支出达到1130亿美元，年均增长率约为16%。苹果方面最近刚刚推出Vision Pro头显，成为旗下最近十年来首个建立起业务体系的全新产品类别。</p><p>&nbsp;</p><p>该公司此前也曾取消过其他项目，包括2015年左右放弃的电视机生产计划。但纵观苹果发展史，还很少有哪个项目能像电动汽车这样长久持续、占用夸张的人力与资金成本。</p><p>&nbsp;</p><p>截至目前，苹果进军汽车行业的最大举措仍是其CarPlay软件。这款软件允许驾驶员在开车时访问苹果地图、Siri等iPhone功能。经过重新设计，CarPlay希望与车辆控制与娱乐系统实现深入集成。而且由于不对车厂构成直接竞争，苹果成功推动该软件的发展，也让CarPlay被推广到众多车型当中。</p><p>&nbsp;</p><p>彭博资讯分析师Anurag Rana与Andrew Girard在一份报告中表示，苹果最终决定专注AI研发可能更为切实。“在我们看来，考虑到AI收入流拥有优于汽车产品的长期盈利潜力，苹果放弃电动汽车、并将资源转投生成式AI的决定将是个明智的战略举措。”</p><p></p><h2>裁员、高管频繁离职苹果造车怎么这么难？</h2><p></p><p>&nbsp;</p><p>苹果的最早的造车梦开始于2014年。</p><p>&nbsp;</p><p>2014 年，苹果高调宣布“泰坦（Project Titan）”自动驾驶计划，并称将投入大量人力物力发展该业务。但在这之后的很长一段时间里却没有什么太大的动静。2018 年，让这个项目进展曝光的竟然是一起<a href=\"https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247491456&amp;idx=1&amp;sn=be0df70dccbd6f9ea61f78a21e786a73&amp;chksm=fbe9a64fcc9e2f59624d262b7b6f7eeaa7c75917ba4eb33353aa76ab98d505c5250bff706109&amp;scene=21#wechat_redirect\">泄密事件</a>\"，而相关文件显示，当时苹果自动驾驶项目拥有超过 5000 名员工，其中约 2700 人为核心员工。</p><p>&nbsp;</p><p>到了 2019 年 1 月，“泰坦计划”又被传出裁员的消息，有 200 余名员工在此次事件中被裁。不同以往的是，苹果公司的一名发言人承认了裁员的消息，并表示公司仍然相信自动驾驶领域存在机会：</p><p>&nbsp;</p><p></p><blockquote>“在苹果，我们拥有一个非常有才华的团队，他们致力于自主系统和相关技术。2019 年，他们将把工作重点放在几个关键领域，一些团队成员将被转移到公司其他部门的项目，在那里，他们将支持整个苹果的机器学习和其他项目。但是，我们仍然相信，自主系统存在巨大的机遇，苹果有独特的能力做出贡献，这是有史以来最雄心勃勃的机器学习项目。”</blockquote><p></p><p>&nbsp;</p><p>虽然苹果对于自动驾驶势在必得，但该计划却在执行过程中步履维艰。据悉，由于内部争斗、领导层动荡和其他隐私等问题影响到了项目，导致苹果裁员，解聘了数百名该项目员工。</p><p>&nbsp;</p><p>当时曾有消息称，苹果造车团队在项目推进过程中出现了极大的分歧。由苹果前汽车项目负责人 Steve Zadesky 所领导的团队希望“Project Titan”项目开发一辆具备半自动驾驶功能的汽车产品，而 Jony Ive 团队则极力想要打造一个全自动驾驶平台。一个是主张整车制造，一个主张研发完全自动驾驶系统。</p><p>&nbsp;</p><p>由于内部问题，2016 年 1 月，Steve Zadesky 宣布退出该项目。2016 年 7 月，已经退休的前苹果高管 Bob Mansfield 重返团队，负责领导造车项目，并将重点放在自动驾驶汽车的“基础技术”上，而不是实际制造汽车。2016 年 8 月和 9 月，苹果公司在内部“重启”后解雇了数十名从事该项目的员工。</p><p>&nbsp;</p><p>随后有消息传出，苹果与大众汽车合作，将在大众汽车 T6 Transporter 货车中安装其自动驾驶软件，作为员工的班车。</p><p>&nbsp;</p><p>2018 年 8 月，有传言称苹果可能会再次探索打造一款完整的苹果品牌汽车。郭明錤表示，尽管有传言称苹果已经停止了自动驾驶汽车的工作，转而专注于软件，但苹果正在开发一款将于 2023 年至 2025 年间推出的 Apple Car 。</p><p>&nbsp;</p><p>2019 年 1 月，苹果再次淘汰了泰坦计划团队，并解雇了 200 多名员工。2020 年，Bob Mansfield 退休，人工智能主管 John Giannandrea 接手了造车项目。与此同时，苹果技术副总裁 Kevin Lynch 除了负责 Apple Watch 项目，还在 Apple Car 团队工作。</p><p>&nbsp;</p><p>到了 2019 年的下半年，“泰坦计划”终于有了还算不错的消息传来：6 月，苹果正式收购了 AI 大咖吴恩达及其妻子共同创立的“夫妻店”——Drive.ai，为自己的自动驾驶项目注入新鲜活力。</p><p>随后，又是一段漫长的沉寂期，苹果自动驾驶的进展就这样再次消失在了公众的视野里，直到 2020 年 1 月，新的进展出现了。</p><p>&nbsp;</p><p>2020年1 月 29 日，有媒体发现：苹果在 Arxiv.org 上发表了一篇论文，论文指出，苹果科学家 Yichuan Charlie Tang 及其团队正在使用一种方法，模拟车辆并道的驾驶场景，并逐步创建更加多样化的模拟环境。</p><p>&nbsp;</p><p>Tang 及其合著者写道：“我们在具有挑战性的多智能体变道模拟中演示了这项技术。在该模拟环境中，实验目标必须与其他车辆进行交互和协商才能成功地在道路上进行合并。虽然环境从简单路况开始，但随着训练的深入，我们通过向智能体’zoo’反复添加越来越多样化的因素来增加其复杂性。定性地说，我们发现通过自我训练，实验目标会自动学习有趣的行为，例如防御性驾驶、超车、让道以及使用信号灯与其他智能体交流。”</p><p>&nbsp;</p><p>正如研究人员所解释的那样，在自动驾驶领域，变道行为被认为是复杂的操作，因为这需要驾驶系统准确地预测意图并做出相应的反应。传统的解决方案会做出假设并依赖于手动编码的行为，但是这些灵活度受限且脆弱的策略无法很好地处理边缘情况，例如几辆车试图同时合并到同一车道。与基于规则的系统相比，强化学习通过与环境的反复交互来直接学习策略。</p><p>&nbsp;</p><p>虽然还在模拟环境中测试，但是苹果自动驾驶总算是展示了一些像样的进展。</p><p>&nbsp;</p><p>短暂的稳定以后，苹果再次遭遇了自动驾驶的多位高管相继离职。2021年2 月份，苹果自动驾驶元老成员 Benjamin Lyon 正式离开。据悉，Benjamin Lyon 是苹果自动驾驶汽车项目的创始人之一，曾担任苹果自动驾驶硬件高级总监。同月，负责自动驾驶汽车安全和监管团队的 Jaime Waydo 离开苹果公司，而这位工程师被苹果 CEO 库克赞赏为“所有人工智能项目之母”。随后几个月内，陆续又出走了 3 位高管，核心员工的离开，让苹果造车项目雪上加霜。</p><p>&nbsp;</p><p>此外，苹果自动驾驶汽车的安全报告又被指出“过于简单”，内容仅有短短的 7 页，而安全相关的重点内容则更是少之又少。</p><p>&nbsp;</p><p>基本上可以说，苹果自动驾驶项目成立以来，只要出现在新闻页面上，基本都不是什么好消息。</p><p>&nbsp;</p><p>虽然梦想很高远，但苹果造车这条路太难走了，就连CEO库克也曾表示过，自动驾驶项目可能是苹果进行的最困难的人工智能项目之一。</p><p></p><h2>造车，注定是巨头之间的游戏</h2><p></p><p>&nbsp;</p><p>最近几年，电动汽车正在成为一种标准选择，据市场研究机构IDTechEx 发布的《电动汽车：陆地、海上和空中 2024-2044 年》报告预计，2023 年注册的新车中超过 23% 是电动汽车（包括混合动力汽车），2020年到2023 年间，纯电动汽车的上牌量成倍增长。自动驾驶功能已变得越来越普遍，L2 级自动驾驶汽车现已成为默认设置，而 L3 级自动驾驶汽车也已经出现在道路上。汽车对软件的依赖正逐年加重，无线更新、订阅等新功能正成为汽车制造商们新的收入来源。据IDTechEx预测，到 2034 年，软件定义汽车的软件相关收入将超过 7000 亿美元。</p><p>&nbsp;</p><p>随着软件定义汽车概念的传播，科技公司们也盯上了“造车”这块超级大蛋糕。2023 年末，现代汽车和Amazon建立了战略合作伙伴关系，在 Amazon.com 上销售汽车，索尼与本田成立了一家合资企业，以利用索尼在人工智能、娱乐和增强现实方面的经验。但随着汽车行业的电气化，内燃机不再是决定性特征，这种趋势促使了很多科技公司开始自己生产汽车。</p><p>&nbsp;</p><p>但多年来，数百亿元砸向这个领域，却依然存在一些挑战。其中最关键的挑战就是这两个行业的优势截然不同。一些试图进入汽车制造领域的小型初创公司就已经看到了这一点，这些初创公司的底层技术往往是最先进的，但在大批量制造汽车和出色的质量控制的传统方面，他们经常陷入困境。</p><p>&nbsp;</p><p>然而，一些大型科技公司可以克服这些挑战，这些公司拥有更好的资金来建立必要的制造基础设施并获得所需的行业专业知识。例如，华为正在与国内多家汽车原始设备制造商合作，开发应用于汽车的技术，同时也生产电动汽车的驱动单元。2023 年底，小米也推出了首款电动汽车，计划成为全球Top 5 的汽车制造商之一。其他主要科技公司的汽车项目的一些传言表明，未来几年可能会看到更多的汽车项目进入市场。</p><p>&nbsp;</p><p>如此看来，造车这件事，似乎只能是科技巨头们的游戏。</p><p>&nbsp;</p><p></p><p>参考链接：</p><p><a href=\"https://finance.yahoo.com/news/apple-cancels-electric-car-ending-192732551.html?guccounter=1\">https://finance.yahoo.com/news/apple-cancels-electric-car-ending-192732551.html?guccounter=1</a>\"</p><p><a href=\"https://www.cnbc.com/2023/10/23/apple-to-spend-1-billion-a-year-in-ai-catch-up-efforts-report-.html\">https://www.cnbc.com/2023/10/23/apple-to-spend-1-billion-a-year-in-ai-catch-up-efforts-report-.html</a>\"</p><p><a href=\"https://www.theverge.com/2024/2/27/24084907/apple-electric-car-project-titan-shuts-down\">https://www.theverge.com/2024/2/27/24084907/apple-electric-car-project-titan-shuts-down</a>\"</p>",
+    "publish_time": "2024-02-28 10:27:36",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "Building Unorthodox Deep Learning GPU Machines",
+    "url": "https://www.kyleboddy.com/2024/01/28/building-deep-learning-machines-unorthodox-gpus/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39532892\">Comments</a>",
+    "publish_time": "2024-02-28 09:48:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
