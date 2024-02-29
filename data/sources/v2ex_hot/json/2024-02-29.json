@@ -75,5 +75,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "请教各位大佬， 0 基础小白的我想做一个族谱网站供个人使用，该从哪里学起？",
+    "url": "https://www.v2ex.com/t/1019388",
+    "summary": "spykids: 一直在用一位大佬的记录工具，大佬这个族谱工具基于 Microsoft Office 开发，使用需安装 ACCESS 和 Excel 这两个套件，录入信息使用 access ，数据文件是 mde ，生成世系图需要调用 Microsoft EXCEL 。<br /><br />族谱的演示视频：<br /><a href=\"https://www.bilibili.com/video/BV1dr4y1M7VD/\" rel=\"nofollow noopener\" target=\"_blank\">https://www.bilibili.com/video/BV1dr4y1M7VD/</a><br /><br />从以前开始就想做个网站，除了方便自己记录信息，还能供族人上去看，访问量肯定不高，数据也不多，到现在为止也就记录不到 1000 人。而自己有台 NAS 安装了 PVE 和黑裙，黑裙里有 docker 也安装了宝塔面板管理自己一个导航网页（静态网页，拿模板自己稍微修改下）。所以网站就放在自己 NAS 里，不需要去买服务器。<br /><br />大佬们能否给小弟提供一个学习的思路，先学什么再学什么，最后学什么把这些串联起来。<br /><br />现在自己已经开始从 html5 开始学，数据库想使用 mysql(或者大佬们有好用轻量化的可以推荐下)。<br /><br />在这先感谢各位大佬。",
+    "publish_time": "2024-02-29 10:59:55",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
