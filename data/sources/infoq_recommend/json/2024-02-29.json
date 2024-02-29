@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Snowflake CEO宣布退休，公司股价暴跌20%",
+    "url": "https://www.infoq.cn/article/T0cZBQOKeuUA9Y2az0vz",
+    "summary": "<p>当地时间2月28日，云数据平台独角兽Snowflake 宣布于 2019 年加入公司并于次年带领公司成功上市的亿万富翁首席执行官 Frank Slootman 即将退休，该职位将由前Google广告总监Sridhar Ramaswamy接任。</p><p>&nbsp;</p><p>一直以来，Snowflake这位资深的科技高管很受投资者欢迎，至少从投资者对他将辞去 Snowflake 首席执行官一职的反应来看是这样。受此消息影响，该公司股价在盘后交易中暴跌超过20%。</p><p>&nbsp;</p><p>今年65岁的Slootman曾领导软件供应商ServiceNow进入公开市场，在此之前，他曾在Data Domain担任高管。在他的职业生涯中，真正的高光时刻是在2020 年将Snowflake成功送到纽约证券交易所上市，此次上市也成为了有史以来规模最大的软件IPO，上市首日股价上涨了一倍多。虽然辞去了CEO一职，但Slootman仍将继续担任董事会主席。</p><p>&nbsp;</p><p>接替Slootman工作的是现年 57 岁的Ramaswamy，他曾在谷歌工作了 15 年，最近一次领导广告和商务业务，直到 2018 年。随后，Ramaswamy于 2019 年离职，与他人共同创立了 Neeva，这是一个消费者搜索引擎，他希望能凭借此引擎与谷歌展开竞争，直到去年他才宣布成立该公司。据一份文件显示，Snowflake&nbsp;于 6 月以 1.85 亿美元收购了Neeva。</p><p>&nbsp;</p><p>Slootman在一份声明中表示：“没有人比 Sridhar Ramaswamy更适合带领 Snowflake 进入下一阶段的增长，并抓住人工智能和机器学习领域的机遇。”&nbsp;“他是一位富有远见的技术专家，在经营和扩展成功企业方面经验丰富。”</p><p>&nbsp;</p><p>Snowflake还发布了第四季度财务业绩。期内销售额同比增长 32% 至 7.747 亿美元。第四季度产品收入为7.381亿美元，比上年增长33%。</p><p>&nbsp;</p><p>第四季度运营亏损为 2.755 亿美元，高于去年第四季度的 2.398 亿美元。</p><p>&nbsp;</p><p>据 StreetAccount 称，该公司表示第一季度产品收入将在 7.45 亿美元至 7.5 亿美元之间，低于分析师预期的 7.59 亿美元。此外，Snowflake 表示第一季度调整后营业利润率为 3%，高于分析师预期的 7.2%。</p><p>&nbsp;</p><p>Slootman 2023 年的总薪酬为 2370 万美元，几乎全部来自股票和期权奖励。根据一份监管文件，截至 2 月 9 日，Slootman 拥有 1060 万股 Snowflake 股票。截至周三收盘，该股份价值约为 24 亿美元。</p><p>&nbsp;</p><p>在 Slootman 加入 Snowflake 之前，该公司由前微软高管 Bob Muglia 领导，他将公司估值提升至 40 亿美元。Muglia 于 2019 年 4 月突然被罢免，并由 Slootman 取代。周三盘后暴跌之前，该公司的市值为 750 亿美元。</p>",
+    "publish_time": "2024-02-29 09:55:50",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "Grab 改进 Kubernetes 集群中的 Kafka 设置，无需人工干预就可轮换 Broker 节点",
+    "url": "https://www.infoq.cn/article/iASqS42eYx2tljmcsO0s",
+    "summary": "<p>Grab 更新了其 Kubernetes 上的 Kafka 设置以提高容错性，并完全避免在 Kafka Broker 意外终止时需要进行人工干预。为解决最初设计的不足，Grab 的团队集成了 AWS 节点终止处理程序（Node Termination Handler，NTH），使用负载均衡器控制器进行目标组映射，并切换到 ELB 卷进行存储。</p><p></p><p>作为其 Coban 实时数据平台的一部分，Grab 已经在 Kubernetes (EKS) 上使用 Strimzi 在生产环境中运行 Apache Kafka 两年了。团队之前使用了 Strimzi（现已成为 CNCF 孵化项目），通过应用成熟的身份验证、授权和保密机制来提升 Kafka 集群的安全性。</p><p></p><p>除了由于维护或基础设施问题导致 AWS 意外终止 EKS 节点外，初始设置运行良好。在这种情况下，Kafka 客户端会突然遇到错误，因为 Broker 没有被优雅地降级。更糟糕的是，受影响的 Broker 实例无法在新配置的 EKS 工作节点上重新启动，因为 Kubernetes 仍然指向已经不存在的存储卷。因此，如果没有 Coban 工程师的干预，Kafka 集群将以降级状态运行，三个 Broker 节点中只有两个可用。</p><p></p><p>开发人员利用 AWS 节点终止处理程序（NTH）将对 Kafka 客户端的干扰降至最低，通过排空工作节点，使用 SIGTERM 信号触发 Kafka 进程优雅地关闭。Grab 团队选择使用队列处理器模式而不是实例元数据服务（IMDS）模式，因为它捕获了更广泛的事件集合，包括与可用区（AZ）和自动扩展组（ASG）有关的事件。</p><p></p><p><img src=\"https://static001.geekbang.org/wechat/images/12/1282b63f2961e3d9391f949a54414ad4.png\" /></p><p></p><p>使用 AWS 节点终止处理程序（队列处理器）支持 Kafka 的优雅关闭（来源：Grab 工程博）</p><p></p><p>他们使用 AWS 负载均衡器控制器（LBC）动态映射网络负载均衡器（NLB）目标组来解决工作节点终止时网络连接中断的问题。工程师们通过增加健康检查频率并使用 Pod 就绪门（Pod Readiness Gate）控制器来配置 NLB，解决 NLB 将每个目标组标记为健康状态所需的时间过长的问题。</p><p></p><p>他们最后需要克服的一个最大的障碍是确保新配置的 Kafka 工作节点能够正确启动并访问数据存储卷。工程师们决定使用弹性块存储（EBS）卷而不是 NVMe 实例存储卷。使用 ESB 有许多好处，例如成本更低、将卷大小与实例规格解耦、更快的同步速度、快照备份以及在不停机的情况下增加容量。此外，他们将 EC2 实例类型从存储优化改为通用型或内存优化型。</p><p></p><p>通过对 Kubernetes 和 Strimzi 进行额外配置，能够在新集群上自动创建 EBS 卷，并在将 Kafka Pod 重定位到不同工作节点时在 EC2 实例之间附加 / 分离卷。</p><p></p><p><img src=\"https://static001.geekbang.org/wechat/images/67/673d9ad3ea9e417dbd8d9f2a5d8828e0.png\" /></p><p></p><p>经过这些改进，EC2 实例退役以及任何需要对所有工作节点进行轮换的操作都可以在没有人工干预的情况下进行，这些操作变得更快速、更不容易出错。他们正在计划做进一步的改进，包括使用 NTH Webhook 主动启动新实例并通过 Slack 通知 NTH 发起的操作，以及推出 Karpenter，用以取代 Kubernetes Cluster Autoscaler。</p><p></p><p>查看英文原文：</p><p></p><p><a href=\"https://www.infoq.com/news/2024/02/grab-kafka-kubernetes-aws-nth/\">https://www.infoq.com/news/2024/02/grab-kafka-kubernetes-aws-nth/</a>\"</p>",
+    "publish_time": "2024-02-29 10:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "从Sora代表的多模态聊起，大模型将如何重塑软件生态？｜QCon会展启航直播",
+    "url": "https://www.infoq.cn/article/rjdS63Pvw3xTb0XtLBLl",
+    "summary": "<p>2月26日，OpenAI&nbsp;Sora&nbsp;正式对外开放申请。这是一个文本到视频的生成模型（即文本生成视频），可以根据用户输入的描述性提示快速生成视频，并及时向前或向后扩展现有视频，因为前期公布的视频效果不错而受到大家的广泛关注。</p><p></p><p>与此同时，与&nbsp;Sora&nbsp;同架构的&nbsp;Stable&nbsp;Diffusion&nbsp;3.0也正式发布。从公布出来的测试图来看，归功于&nbsp;Transformer&nbsp;架构和额外的文本编码器，Stable&nbsp;Diffusion&nbsp;3.0的文字渲染能力十分强悍，图像的质量和整体性能同样有所提高。</p><p></p><p>这也让多模态再次成为大家关注的焦点，近一个月内有多场与之相关的直播，无数业内技术专家围绕此发表了自己的观点。那么，国内企业在这方面又有哪些具体进展呢？</p><p></p><p>与Sora前后脚出现的Gemma&nbsp;在过去一个月也是受到了大家的强烈关注，谷歌的Gemma&nbsp;是一个开放模型，与&nbsp;Gemini&nbsp;模型（以及更早的&nbsp;PaLM&nbsp;模型）拥有相同的技术和基础设施组件。谷歌方面称，与其他开放模型相比，Gemma&nbsp;2B&nbsp;与&nbsp;7B&nbsp;均在同等规模范围内拥有最出色的性能表现。</p><p></p><p>那么，开放模型这个概念如何理解？区别于开源和闭源，开放模型是不是将具备更好的商业前景呢？</p><p></p><p>诸如此，生成式AI技术的到来对整个软件生态带来了很多变化，我们也在期待未来有更多好的场景案例和技术突破出现。比如，Agent是否会在24年出现“现象级”的应用？可能是在C端还是B端？或者开发者日益喜欢的智能编码工具还可能朝着哪些方向演进？数字人是否会有实际的商业落地场景？角色构建又有哪些新的进展？微调工程师还是否是一个好的选择？</p><p></p><p>3月1日晚19:00，InfoQ特别策划的<a href=\"https://qcon.infoq.cn/2024/beijing/?utm_source=infoqweb&amp;utm_medium=dahuibanner\">【QCon全球软件开发大会暨智能软件开发生态展】</a>\"的启航直播中邀请了<a href=\"https://qcon.infoq.cn/2024/beijing/track/1620\">QCon大会的出品人、阿里云效、通义灵码产品技术负责人陈鑫（花名：神秀）</a>\"，<a href=\"https://qcon.infoq.cn/2024/beijing/track/1623\">QCon大会的出品人、白鲸开源CEO、Apache&nbsp;基金会成员、TGO鲲鹏会学员郭炜</a>\"，<a href=\"https://qcon.infoq.cn/2024/beijing/track/1633\">QCon大会的出品人、数势科技AI负责人李飞博士</a>\"、北京极客邦科技有限公司创始人兼CEO&nbsp;霍太稳Kevin共同讨论上述话题（感兴趣的用户可以扫描下方海报上的预约直播二维码，先行预约）。</p><p><img src=\"https://static001.geekbang.org/infoq/15/151fa75036561270851b744075da7ff0.png\" /></p><p>与此同时，直播期间购买QCon大会展区门票将享受5折优惠，大会门票将享受<a href=\"https://qcon.infoq.cn/2024/beijing/apply\">8折优惠</a>\"。此外，3张以上即可团购，每张门票将单独赠送案例会员季卡一张，可观看往届大会的精品演讲视频，涵盖人工智能、云原生、研发效能、架构设计、前端开发等众多领域（可以扫描海报上面的&lt;大会福利官&gt;二维码，提前了解相关信息）。</p>",
+    "publish_time": "2024-02-29 10:26:39",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "Cloudflare开源基于Rust语言的Pingora框架",
+    "url": "https://www.infoq.cn/article/RUxJrOykuSXwPxFZY3yR",
+    "summary": "<p>早在 2022 年，Cloudflare 就宣布他们将放弃 Nginx，转而使用内部 Rust 编写的软件，名为 Pingora。当地时间2月28日，Cloudflare宣布开源Pingora框架。</p><p>&nbsp;</p><p>据悉，Pingora 是一个 Rust 异步多线程框架，用于构建可编程网络服务，采用Apache 2.0 开源许可证。Pingora 长期以来一直在 Cloudflare 内部使用，能够维持大量流量，而现在 Pingora 正在开源，以帮助在 Cloudflare 之外构建基础设施。</p><p>&nbsp;</p><p>Cloudflare 将 Pingora 框架描述为：</p><p>&nbsp;</p><p></p><blockquote>“Pingora 提供了库和 API，用于在 HTTP/1 和 HTTP/2、TLS 或 TCP/UDP 之上构建服务。作为代理，它支持 HTTP/1 和 HTTP/2 端到端、gRPC 和websocket 代理。（HTTP/3 支持已在路线图上。）它还具有可定制的负载平衡和故障转移策略。为了合规性和安全性，它支持常用的 OpenSSL 和 BoringSSL 库，这些库具有 FIPS 合规性和后量子性除了提供这些功能之外，Pingora 还提供过滤器和回调，以允许用户完全自定义服务应如何处理、转换和转发请求。这些 API 对于 OpenResty 和 NGINX 用户来说尤其熟悉，因为许多API直观地映射到 OpenResty 的“ *_by_lua”回调。&nbsp;在操作上，Pingora 提供零停机优雅重启来升级自身，而不会丢弃单个传入请求。Syslog、Prometheus、Sentry、OpenTelemetry 和其他必备的可观察工具也可以轻松与 Pingora 集成。”</blockquote><p></p><p>&nbsp;</p><p>Cloudflare宣布Pingora 开源，其中还包含一个使用它构建负载均衡器的示例。Pingora 处于 1.0 之前的阶段，尚不具备 API 稳定性，Cloudflare 目前没有计划支持非 Unix 操作系统。</p><p>&nbsp;</p><p>Pingora Rust 代码可在<a href=\"https://github.com/cloudflare/pingora\">GitHub</a>\"上获取。</p><p>&nbsp;</p><p>Pingora项目地址：<a href=\"https://github.com/cloudflare/pingora\">https://github.com/cloudflare/pingora</a>\"</p><p>&nbsp;</p><p>参考链接：<a href=\"https://www.phoronix.com/news/Cloudflare-Pingora-Open-Source\">https://www.phoronix.com/news/Cloudflare-Pingora-Open-Source</a>\"</p>",
+    "publish_time": "2024-02-29 10:53:44",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
