@@ -416,5 +416,27 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Saturn's Hexagon",
+    "url": "https://en.wikipedia.org/wiki/Saturn%27s_hexagon",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39545385\">Comments</a>",
+    "publish_time": "2024-02-29 08:50:22",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Talc – A fast and flexible allocator for no_std and WebAssembly",
+    "url": "https://github.com/SFBdragon/talc",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39545574\">Comments</a>",
+    "publish_time": "2024-02-29 09:22:12",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
