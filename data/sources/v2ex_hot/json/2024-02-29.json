@@ -86,5 +86,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "一个工具管理所有运行时版本！",
+    "url": "https://www.v2ex.com/t/1019461",
+    "summary": "hankli: <p>这两天特意补了一下文档.</p>\n<p>文档: <a href=\"https://vfox.lhan.me/zh-hans/\" rel=\"nofollow\">https://vfox.lhan.me/zh-hans/</a></p>\n<p>仓库: <a href=\"https://github.com/version-fox/vfox\" rel=\"nofollow\">https://github.com/version-fox/vfox</a></p>\n<p>目前社区已支持的 SDK:</p>\n<p><a href=\"https://github.com/version-fox/version-fox-plugins\" rel=\"nofollow\"><img alt=\"plugins\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://skillicons.dev/icons?i=java,kotlin,nodejs,flutter,dotnet,python,dart,golang,maven,zig,deno&amp;theme=light\" /></a></p>\n<p>主要是可以在 Windows(非 WSL)下, 体验到和 asdf 一样的效果. 当然比它要棒哈哈哈哈.</p>",
+    "publish_time": "2024-02-29 13:59:48",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
