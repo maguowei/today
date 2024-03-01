@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Airbnb从Buck 迁移到 Bazel，大幅改善开发者体验",
+    "url": "https://www.infoq.cn/article/DG7z4ahDSM5RNKmOeMpE",
+    "summary": "<p>随着其他组织将他们的构建管道迁移到Bazel 之后，Airbnb 也发布了一个详细的说明，分享了他们弃用 Buck 并改善构建时间以及项目生成和加载时间的过程。</p><p></p><p>正如 Airbnb 的工程师 Qing Yang 和 Andy Bartholomew 所说的，转向 Bazel 是为了提供一种跨平台（包括后端和前端）统一而高效的构建体验。</p><p></p><p>从他们的 iOS 开发管道开始，Airbnb 的工程师们主要关注两个方面的问题：构建配置和 IDE 集成。</p><p></p><p>Bazel 和 Buck 有一些相似之处，包括相似的目录结构和命令行调用，最重要的是使用相同的配置语言 Starlark，这在某种程度上简化了构建配置的迁移。</p><p></p><p>尽管 Buck 和 Bazel 有相似之处，但它们在所提供的规则方面有所不同。</p><p></p><p></p><blockquote>例如，Buck 提供了 apple_library 和 apple_binary 等规则，而 Bazel 根据外部规则集的不同提供了 swift_library 和 apple_framework 等规则。即使在两个系统具有相同名称的规则（例如 genrule）的情况下，用于配置这些规则的语法通常也是不同的。</blockquote><p></p><p></p><p>在 Airbnb 的案例中，解决这个问题的方法是创建一个包装本地和外部规则的薄片（shim）层。为了在过渡阶段同时处理两个薄片，Airbnb 的工程师创建了一个包含两个不同目录rules_shim/buck和rules_shim/bazel的存储库，然后为每个构建系统定义了一个规则，将rules_shim标识符与正确的目录关联起来。</p><p></p><p>rules_shim层也是处理 genrule 的关键。在 Airbnb，genrules 用于生成 iOS 代码库中的样板代码，并且在两个构建系统上有不同的语法。多亏了这个包装层，Airbnb 的工程师可以在两个系统中使用相同的 genrule 脚本。</p><p></p><p>构建配置所需的最后一个问题是支持条件配置。Buck 提供了一个read_config函数来读取命令行参数，而 Bazel 不支持这个函数，因此 Bazel 和 Buck 之间出现了不匹配。解决方案是向下移动一个抽象层，并通过select重新实现两个系统都支持的命令行参数。</p><p></p><p>在 IDE 集成方面，Airbnb 工程师的目标是用一个以 Bazel 为中心的解决方案替换他们现有的以 Buck 为中心的解决方案来创建 Xcode 项目，同时又可以使用他们围绕 Buck 开发所使用的工具。为了达到这个目的，他们决定使用 XcodeGen 开发自己的 Xcode 工作区生成器。</p><p></p><p>最重要的是，他们分三个步骤执行迁移过程，避免对开发人员的工作流造成干扰。第一步，将新的生成器与他们现有的基于 Buck 的解决方案集成，确保一切都按预期工作。在第二阶段，他们添加了新的 Bazel 命令，这些命令与 Buck 中使用的命令相同，并可以在两者之间切换。最后，在新系统看起来足够稳定时，他们移除了对 Buck 的支持。</p><p></p><p></p><blockquote>迁移的最终结果令人印象深刻。与 Buck 生成项目相比，使用 XcodeGen 生成的时间缩短了 60%，Xcode 的打开时间缩短了 70% 以上。</blockquote><p></p><p></p><p>除此之外，新的基于 Bazel 的构建系统缩短了构建时间，特别增量构建时间，并支持进行进一步优化，以改善共享和协作流程。如果你对完整的细节感兴趣，请务必阅读原文。</p><p></p><p>查看英文原文：</p><p></p><p><a href=\"https://www.infoq.com/news/2024/02/airbnb-bazel-migration-ios/\">https://www.infoq.com/news/2024/02/airbnb-bazel-migration-ios/</a>\"</p>",
+    "publish_time": "2024-03-01 10:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "全球首个隐私计算一体机国际标准发布，中国企业主导",
+    "url": "https://www.infoq.cn/article/46hx13bHDkOD1vF7hxxf",
+    "summary": "<p>近日，IEEE 标准协会（IEEE-SA）正式发布并推行了由我国企业主导的全球首个隐私计算一体机国际标准《隐私计算一体机技术要求》（IEEE 3156-2023）。IEEE-SA是权威国际标准制定机构，该标准的成功发布意味着中国的隐私计算技术与应用探索受到国际高度认可，可为全球提供参考方案。</p><p></p><p><img src=\"https://static001.geekbang.org/infoq/47/477a553aa6bc3433dbc4354442baf32e.png\" /></p><p></p><p>（图：IEEE标准协会官网发布“隐私计算一体机技术要求”国际标准）</p><p>&nbsp;</p><p>隐私计算一体机作为隐私计算产业落地的重要技术探索，通过软硬件结合方式构建从硬件、固件、操作系统到应用软件的一站式隐私保护计算解决方案，提供了开箱即用、安全可证、隐私保护的数据价值流转服务，在国内外受到行业关注。</p><p>&nbsp;</p><p>信息显示，此次发布的国际标准由蚂蚁集团推动，中科院信息工程研究所、北京交通大学、中国信息通信研究院、中国电子技术标准化研究所等近20家单位共同编制。</p><p>&nbsp;</p><p>该标准针对隐私计算一体机的参考架构、功能需求、性能需求和安全需求等提出了标准解决方案，并对隐私计算一体机的硬件、系统软件、隐私保护协议、软件应用等多个层面给出了建议。IEEE专家一致认为，通过这一标准，可使得业内形成对隐私计算一体机的共识，提高隐私计算一体机的产品形态水位，引导业内利用隐私计算一体机解决多源数据计算与价值共享的难题，有效降低协作成本。</p><p>&nbsp;</p><p>隐私计算作为一种新兴的数据安全技术范式，已成为全球科技布局的焦点。公开资料显示，蚂蚁集团从2016年开始布局隐私计算技术，涵盖了多方安全计算、同态加密、可信执行环境等技术能力，推出了可信隐私计算开源框架“隐语”、隐私计算软硬一体化平台等产品，并实现规模化商业应用落地。截至目前，蚂蚁集团隐私计算领域专利申请量超过2000件，连续多年位列全球第一，并参与了多项隐私计算国际标准的制定。&nbsp;</p><p>&nbsp;</p><p>IEEE全称“电气和电子工程师协会”，是目前全球最大的非营利性专业技术学会，会员人数超过40万人，遍布全球160多个国家。IEEE在太空、计算机、电信、生物医学等领域已制定了1300多个行业标准，是新兴技术领域标准的核心来源。</p>",
+    "publish_time": "2024-03-01 10:17:40",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
