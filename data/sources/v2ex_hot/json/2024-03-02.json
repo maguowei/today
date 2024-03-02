@@ -20,5 +20,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "误删微信聊天记录，还有办法恢复吗",
+    "url": "https://www.v2ex.com/t/1019969",
+    "summary": "hillwood: rt <br />本来的操作是“查找聊天内容”，结果手滑点到“清空聊天记录”。然后哎呀，天塌了。<br /><br />微信的糟点，这么严肃的事不需要第二次确认吗？<br /><br />iCloud 的糟点，自动备份居然没有微信记录。也许还是微信的糟点。<br /><br />我的糟点，日常没有提醒家人定期备份微信，自以为是上传 iCloud 了。<br /><br />微信的帮助与反馈的小扳手也点了，无济于事。<br /><br />帮孩子，给人骂惨了。",
+    "publish_time": "2024-03-02 09:56:13",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "Bob 严重被低估，应该 mac 上最好用的 AI 助手",
+    "url": "https://www.v2ex.com/t/1019994",
+    "summary": "dtla: <p>这玩意儿根本就不是一个翻译工具，是 mac 上最好用的 AI 助手。</p>\n<p>自定义 openai 的 prompt 简直太好用。</p>\n<p>比如你想每次保证你的英语没有错误，你可以这么写\n<img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://p.ipic.vip/4k69l7.jpg\" /></p>\n<p>使用场景不仅仅是英语翻译，还能做中文扩写，中文错词检查等等 chatgpt 的功能。</p>\n<p>另外，说一下免费的 easydict ，<strong>不仅不支持自定义 prompt ，占用是 bob 的三倍多</strong></p>\n<p>总的来说，只要自己编写 prompt ，然后放入 bob ，就可以实现各种各样的功能。甚至可以提示一句话让他写邮件，发消息。bob 还支持模型自定义化，可以使用最新的 gpt-0125-preview 模型，easydict 拿头碰瓷</p>",
+    "publish_time": "2024-03-02 12:08:31",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
