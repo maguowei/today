@@ -559,5 +559,38 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Out of the Woods",
+    "url": "https://www.nytimes.com/2015/08/09/magazine/out-of-the-woods.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39564637\">Comments</a>",
+    "publish_time": "2024-03-02 02:02:16",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Text UIs != Terminal UIs",
+    "url": "https://aartaka.me/tui-is-not-tui",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39571033\">Comments</a>",
+    "publish_time": "2024-03-02 16:30:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Use KeePassXC to sign your Git commits",
+    "url": "https://code.mendhak.com/keepassxc-sign-git-commit-with-ssh/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39570955\">Comments</a>",
+    "publish_time": "2024-03-02 16:14:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
