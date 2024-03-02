@@ -1104,5 +1104,25 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "零跑汽车太卷了",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B6%E8%B7%91%E6%B1%BD%E8%BD%A6%E5%A4%AA%E5%8D%B7%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Learning Theory from First Principles [pdf]",
+    "url": "https://www.di.ens.fr/%7Efbach/ltfp_book.pdf",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39574436\">Comments</a>",
+    "publish_time": "2024-03-03 02:10:39",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
