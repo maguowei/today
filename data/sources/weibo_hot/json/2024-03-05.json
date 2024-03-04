@@ -664,5 +664,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "上天猫来点新发现",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%A4%A9%E7%8C%AB%E6%9D%A5%E7%82%B9%E6%96%B0%E5%8F%91%E7%8E%B0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "女孩公交卡掉进夹缝里司机掏出10块钱",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%85%AC%E4%BA%A4%E5%8D%A1%E6%8E%89%E8%BF%9B%E5%A4%B9%E7%BC%9D%E9%87%8C%E5%8F%B8%E6%9C%BA%E6%8E%8F%E5%87%BA10%E5%9D%97%E9%92%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
