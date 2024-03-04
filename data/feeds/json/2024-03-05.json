@@ -1617,5 +1617,72 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "全智贤为什么不会老",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E6%99%BA%E8%B4%A4%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E4%BC%9A%E8%80%81%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "校方回应教室内布满摄像头",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E6%95%99%E5%AE%A4%E5%86%85%E5%B8%83%E6%BB%A1%E6%91%84%E5%83%8F%E5%A4%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "法令纹淡化训练",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E4%BB%A4%E7%BA%B9%E6%B7%A1%E5%8C%96%E8%AE%AD%E7%BB%83%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "都说装修的尽头是极简风，真是这样吗？极简风适合低预算的家庭吗？",
+    "url": "https://www.zhihu.com/question/646518588",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "「童年的阴影」一辈子都无法治愈吗？",
+    "url": "https://www.zhihu.com/question/645841853",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美股三大指数集体收跌，英伟达涨超3%续创历史新高",
+    "url": "https://www.36kr.com/newsflashes/2675846991001349",
+    "summary": "36氪获悉，3月4日收盘，美股三大指数集体下跌，道指跌0.25%，纳指跌0.41%，标普500指数跌0.12%。大型科技股多数下跌，英伟达涨超3%续创历史新高，特斯拉跌超7%，苹果、谷歌跌超2%，Meta、Netflix、亚马逊、微软小幅下跌。热门中概股普跌，理想汽车跌超13%，微博跌超9%，小鹏汽车跌超8%，蔚来跌超7%，京东、爱奇艺跌超4%，拼多多、阿里巴巴、百度跌超3%，B站涨超3%。",
+    "publish_time": "2024-03-05 07:00:10",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Show HN: 3 years and 1M users later, I just open-sourced my \"Internet OS\"",
+    "url": "https://github.com/HeyPuter/puter",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39597030\">Comments</a>",
+    "publish_time": "2024-03-05 06:31:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
