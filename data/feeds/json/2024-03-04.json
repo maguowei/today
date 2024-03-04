@@ -1727,5 +1727,492 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "回南天",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%9B%9E%E5%8D%97%E5%A4%A9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "郎朗晒与赫敏扮演者合照",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%83%8E%E6%9C%97%E6%99%92%E4%B8%8E%E8%B5%AB%E6%95%8F%E6%89%AE%E6%BC%94%E8%80%85%E5%90%88%E7%85%A7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "农夫山泉",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%86%9C%E5%A4%AB%E5%B1%B1%E6%B3%89%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "人总是会反复爱上阮经天",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%80%BB%E6%98%AF%E4%BC%9A%E5%8F%8D%E5%A4%8D%E7%88%B1%E4%B8%8A%E9%98%AE%E7%BB%8F%E5%A4%A9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "你平时多久掏一次耳朵",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%B9%B3%E6%97%B6%E5%A4%9A%E4%B9%85%E6%8E%8F%E4%B8%80%E6%AC%A1%E8%80%B3%E6%9C%B5%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "刘耀文卡点发博给宋亚轩庆生",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E5%8D%A1%E7%82%B9%E5%8F%91%E5%8D%9A%E7%BB%99%E5%AE%8B%E4%BA%9A%E8%BD%A9%E5%BA%86%E7%94%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "不背单词 还没修好",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%83%8C%E5%8D%95%E8%AF%8D+%E8%BF%98%E6%B2%A1%E4%BF%AE%E5%A5%BD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "勇士vs凯尔特人",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8B%87%E5%A3%ABvs%E5%87%AF%E5%B0%94%E7%89%B9%E4%BA%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "刘亦菲前往巴黎",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%89%8D%E5%BE%80%E5%B7%B4%E9%BB%8E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "白桃星座",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%A1%83%E6%98%9F%E5%BA%A7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "全红婵顺利完赛",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%A1%BA%E5%88%A9%E5%AE%8C%E8%B5%9B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "本周狗屎运最旺的星座",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9C%AC%E5%91%A8%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "曼城3比1曼联",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9B%BC%E5%9F%8E3%E6%AF%941%E6%9B%BC%E8%81%94%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "袁悦夺巡回赛首冠",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%A2%81%E6%82%A6%E5%A4%BA%E5%B7%A1%E5%9B%9E%E8%B5%9B%E9%A6%96%E5%86%A0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "哈兰德空门不进",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%93%88%E5%85%B0%E5%BE%B7%E7%A9%BA%E9%97%A8%E4%B8%8D%E8%BF%9B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "DYG教练回应跑路",
+    "url": "https://s.weibo.com/weibo?q=%23DYG%E6%95%99%E7%BB%83%E5%9B%9E%E5%BA%94%E8%B7%91%E8%B7%AF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Wendy特典",
+    "url": "https://s.weibo.com/weibo?q=%23Wendy%E7%89%B9%E5%85%B8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "柯南为防剧透首次取消试映会",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9F%AF%E5%8D%97%E4%B8%BA%E9%98%B2%E5%89%A7%E9%80%8F%E9%A6%96%E6%AC%A1%E5%8F%96%E6%B6%88%E8%AF%95%E6%98%A0%E4%BC%9A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "内地买家扫货香港楼市",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%86%85%E5%9C%B0%E4%B9%B0%E5%AE%B6%E6%89%AB%E8%B4%A7%E9%A6%99%E6%B8%AF%E6%A5%BC%E5%B8%82%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "把老祖宗留下的手艺一代代传下去",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%8A%8A%E8%80%81%E7%A5%96%E5%AE%97%E7%95%99%E4%B8%8B%E7%9A%84%E6%89%8B%E8%89%BA%E4%B8%80%E4%BB%A3%E4%BB%A3%E4%BC%A0%E4%B8%8B%E5%8E%BB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "被小孩姐的舞蹈震惊了",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%B0%8F%E5%AD%A9%E5%A7%90%E7%9A%84%E8%88%9E%E8%B9%88%E9%9C%87%E6%83%8A%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "吴艳妮看到了和世界高手的差距",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE%E7%9C%8B%E5%88%B0%E4%BA%86%E5%92%8C%E4%B8%96%E7%95%8C%E9%AB%98%E6%89%8B%E7%9A%84%E5%B7%AE%E8%B7%9D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "麦当劳旧玩具",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%BA%A6%E5%BD%93%E5%8A%B3%E6%97%A7%E7%8E%A9%E5%85%B7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "张雪峰评英语分数设置问题「口语应占 120 分」，如何评价这一观点？",
+    "url": "https://www.zhihu.com/question/646581811",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "2024 年全国两会，你最关心哪些话题？有什么新的期待？",
+    "url": "https://www.zhihu.com/question/646408835",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "23/24 赛季曼市德比二番战曼联1:3曼城，哈兰德破门，福登双响，如何评价本场比赛？",
+    "url": "https://www.zhihu.com/question/646901135",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "上海买车最多可申请10000元补贴，多家车企发布官方价格限时调整",
+    "url": "https://www.36kr.com/newsflashes/2673968797726217",
+    "summary": "上海市商务委公布了新一轮燃油车以旧换新补贴政策和新能源汽车置换政策：自2024年1月1日至12月31日，个人消费者报废或转让（不含变更登记）本人名下在上海市注册登记的国五及以下排放标准非营业性燃油小客车，并且在上海市市场监督管理部门登记的汽车销售企业购买国六B燃油小客车新车，注册使用性质为非营运的，可申请一次性2800元购车补贴。自2024年1月1日至12月31日，个人消费者报废或者转让（不含变更登记）本人名下在上海市注册登记的非营业性小客车，并且在上海市市场监督管理部门登记的汽车销售机构购买纯电动小客车新车，注册使用性质为非营运的，可申请一次性10000元购车补贴。业内人士表示，随着车企“降本增效”措施显现，多家车企近期陆续发布官方价格限时调整，部分车型现金优惠达5万元，叠加各地汽车补贴政策，预计节后汽车消费热情还将持续一段时间。（央视财经）",
+    "publish_time": "2024-03-04 07:09:30",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "汤姆猫：正在推进申请接入OpenAI的Sora模型",
+    "url": "https://www.36kr.com/newsflashes/2673974345987585",
+    "summary": "36氪获悉，汤姆猫在互动平台表示，公司正在推进申请接入OpenAI的Sora模型，并计划进行相关的素材制作的测试，目前暂未正式接入Sora。",
+    "publish_time": "2024-03-04 07:14:22",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "中信建投：国内疫苗企业预计未来出海进度有望加速",
+    "url": "https://www.36kr.com/newsflashes/2673977461454337",
+    "summary": "36氪获悉，中信建投研报指出，近年来，随着国内疫苗市场快速发展，国内竞争激烈+海外市场空间广阔，疫苗企业出海逻辑逐渐显现。对于国内企业，国际化进入方式多元化；海外疫苗巨头进行国际化时多采取代理策略或在当地自建产能，以及与国际组织合作，国内企业选择出海方式时可加以借鉴。目前国内疫苗企业出海已从成品出口向价值链上下游延展，近年来进展积极，预计未来出海进度有望加速。",
+    "publish_time": "2024-03-04 07:18:27",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "紫光国微：公司的数字钥匙解决方案已经在众多国内车厂和Tier1供应商导入",
+    "url": "https://www.36kr.com/newsflashes/2673986734339591",
+    "summary": "36氪获悉，紫光国微在互动平台表示，公司的数字钥匙解决方案已经在众多国内车厂和Tier1供应商导入。车载控制芯片产品在继续优化迭代中。相关产品在传统燃油车和新能源汽车中都会有应用。",
+    "publish_time": "2024-03-04 07:22:45",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "在利率到达峰值之际，土耳其通胀率逼近70%",
+    "url": "https://www.36kr.com/newsflashes/2673993326851843",
+    "summary": "土耳其的年度通货膨胀率可能达到15个月来的最高水平，央行正密切关注这一加速趋势，在结束加息后仍保持警惕。今年最低工资的大幅上调，加上食品价格的上涨，加大了长期受通胀影响的土耳其经济的成本压力。IMF的数据显示，尽管里拉更加稳定，但到2024年底，土耳其的通胀率仍将位居全球第五。不过机构预计，土耳其的通胀率将从今年年中开始减速。由于土耳其央行目前采取观望态度，周一公布的数据料显示，2月物价涨幅将连续第四个月加速，经济学家的预估中值达66%。（新浪财经）",
+    "publish_time": "2024-03-04 07:25:38",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "沙特宣布将自愿减产100万桶石油措施延至6月底",
+    "url": "https://www.36kr.com/newsflashes/2674459555804679",
+    "summary": "沙特阿拉伯通讯社3月3日援引沙特能源部消息来源报道，沙特自2023年7月开始实施的日均100万桶的自愿减产措施将延长至今年6月底。报道说，该减产措施延长后，沙特石油日产量将在900万桶左右。之后这些额外减产措施将根据市场状况逐渐调整。（央视新闻）",
+    "publish_time": "2024-03-04 07:28:50",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "给汽车芯片上“保险”，科技创新迎来金融新助力",
+    "url": "https://www.36kr.com/newsflashes/2674462459033348",
+    "summary": "“汽车芯片专属保险可以为我们提供风险保障，降低因芯片问题导致的经济损失，参保同时也能提高我们的信誉度和竞争力。”华大半导体有限公司相关负责人表示。日前，该公司与人保财险上海分公司签约投保上海首单汽车芯片专属保险。从基础研究到成果转化、从知识产权到芯片研发，近年我国保险业正在通过科技保险大力探索支持科技创新的新模式，为助力现代化产业体系建设贡献保险力量。业内人士认为，要进一步推动科技保险发展，保险产品覆盖不完整、风险评估和定价科学性不足、企业保险意识不强、科技保险专业人才储备匮乏等问题仍待解决。建议有关部门加大对科技保险的政策支持力度，同时建立科技保险信息平台，促进各方信息交流与合作。（上证报）",
+    "publish_time": "2024-03-04 07:32:49",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "跑赢九成以上公募产品，30年国债ETF突现“惊险一跳”",
+    "url": "https://www.36kr.com/newsflashes/2674463776700163",
+    "summary": "2024年开年以来，债市延续了去年的牛市行情，其中长久期债表现得尤为出色。近期，超长国债利率持续走低，带动相关基金净值大涨，30年国债ETF的表现甚至超过了97%的公募产品，引发市场瞩目。在热度上升的同时，债市风险也随之增加。3月1日，受近期利率调整的影响，30年国债ETF净值当日下跌0.95%，创下成立以来单日最大跌幅。面对这“惊险一跳”，不少机构投资者仍认为，受益于经济复苏和货币政策的支持，债市或将迎来慢牛格局。（证券时报）",
+    "publish_time": "2024-03-04 07:34:09",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "A股资金面显著改善，机构建议把握3月修复行情",
+    "url": "https://www.36kr.com/newsflashes/2674465844622852",
+    "summary": "上周，上证指数在3000点附近震荡，成长风格反弹成为推动市场上涨的主要因素，其中科创50指数、深证成指、创业板指涨幅居前。资金面上，沪深两市成交额重回万亿元上方，市场情绪明显改善，北向资金连续5周净买入。从当前市场环境看，机构一致认为，A股资金面明显改善，前期量化调仓引发的流动性冲击已经结束，市场风险偏好显著提振。迈入3月，在政策积极发力的背景下，2024年的春季行情或已逐步开启。（上证报）",
+    "publish_time": "2024-03-04 07:36:22",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "公募REITs迎来新玩家，万科、建行等多个巨头布局",
+    "url": "https://www.36kr.com/newsflashes/2674464269678337",
+    "summary": "随着二级市场公募REITs逐渐反弹以及FOF（基金中的基金）产品首次出现重仓REITs的情况，新的玩家开始纷纷入局。3月2日，万科、建行等多个巨头发布公告，宣布入局公募REITs。此前，公募REITs曾面临投资人结构单一、流动性不足等问题，但在国内头部公募纷纷更新旗下FOF基金合同将REITs纳入投资范围后，为相关巨头布局REITs提供了信心支持。市场人士指出，公募FOF、社保年金和海外投资者的加入有望为REITs市场带来新的活力和资金流。（证券时报）",
+    "publish_time": "2024-03-04 07:38:39",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "2月基金发行整体平淡，债基延续火热势头",
+    "url": "https://www.36kr.com/newsflashes/2674466710795781",
+    "summary": "2月基金新发市场仍相对平淡。Wind数据显示，以基金成立日为口径，2月份以来，新成立的基金共60只，合计发行份额为360.97亿份。其中，债券基金仍是发行“主力军”，占比约七成。权益基金方面，虽然发行规模占比较低，但随着市场回暖，多只基金选择提前结募。近期备受关注的首批10只中证A50ETF已全部募集结束，其中摩根中证A50ETF、平安中证A50ETF、大成中证A50ETF均在2月底宣布提前结募，渠道信息显示，这3只基金募集规模均超20亿元。（证券时报）",
+    "publish_time": "2024-03-04 07:41:06",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "南向资金持续买入，机构分析港股机会",
+    "url": "https://www.36kr.com/newsflashes/2674470256572161",
+    "summary": "港股市场正迎来越来越多资金的关注。2月7日以来，南向资金已经连续12个交易日净买入，与此同时，公募也在持续布局港股相关产品。在业内人士看来，港股当前估值依然处于低位，随着美联储开启降息周期以及上市公司盈利开始恢复性增长，2024年港股市场有望迎来明显的修复行情。（上证报）",
+    "publish_time": "2024-03-04 07:44:42",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "基金清盘预警频发，ETF产品占比近半",
+    "url": "https://www.36kr.com/newsflashes/2674471545288449",
+    "summary": "数据显示，截至3月3日，年内共有86只基金发出了资产管理规模持续较低的提示性公告。值得一提的是，在发布基金清盘警示公告的产品种类中，ETF产品达到了41只，几乎占据了“半壁江山”。对此，沪上一位公募市场部人士表示，ETF的快速增长无疑是当下一个值得关注的现象。随着市场参与者对投资渠道和工具的多样化需求增加，ETF作为一种高效、灵活的投资工具，受到了投资者的欢迎。然而，随着ETF种类剧增，许多小众主题的ETF竞争也变得异常激烈。不过，在目前正式宣布清盘的38只基金中，ETF还不是主流。（证券时报）",
+    "publish_time": "2024-03-04 07:47:02",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "宽基ETF节后大幅“吸金”，AI主题基金回报率居前",
+    "url": "https://www.36kr.com/newsflashes/2674472142501380",
+    "summary": "农历龙年以来，AI相关指数整体涨幅居前，Sora概念指数涨幅居首，高达55.61%；多模态AI、云办公、液冷服务器、算力等多个细分赛道指数涨幅超过28%。AI产业火热的行情同样也反映在ETF市场，春节后云计算、大数据等主题ETF净值增长率整体居前。新华中证云计算50ETF复权单位净值增长率居首，高达23.07%；华夏中证大数据产业ETF、嘉实中证信息安全主题ETF、华夏中证云计算与大数据主题ETF等10只ETF复权单位净值增长率紧随其后，均在20%以上。（证券时报）",
+    "publish_time": "2024-03-04 07:50:40",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "古尔曼：新款iPad Pro和MacBook Air等产品或无发布会",
+    "url": "https://www.36kr.com/newsflashes/2674472807118341",
+    "summary": "彭博科技记者马克·古尔曼报道称，苹果不打算举办传统活动来发布新款iPad和Mac。相反，他表示苹果计划通过“一系列在线视频和营销活动”在其网站上宣布这些产品。若计划准确，预计新产品将在苹果官网通过新闻稿发布。古尔曼预计苹果将发布两款配备M3芯片和OLED显示屏的新iPad Pro机型；配备M3芯片的新款13英寸和15英寸MacBook Air；两款新iPad Air，其中包括首款12.9英寸型号；至少一支新Apple Pencil；适用于iPad Pro的全新妙控键盘。（界面）",
+    "publish_time": "2024-03-04 07:53:01",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "主动权益基金迅速“回血”，成长主题成反弹急先锋",
+    "url": "https://www.36kr.com/newsflashes/2674473322559235",
+    "summary": "近期，A股市场持续反弹，上证指数收复3000点，年内已经翻红，上证50、沪深300等大盘指数也表现优异。Wind数据显示，偏股混合型基金指数走出V型，年内跌幅收窄至4.12%。证券时报记者统计显示，伴随近期A股市场震荡反弹，主动权益基金业绩“回血”迹象明显。数据显示，有3000余只主动权益基金近期反弹幅度超10%，超千只主动权益基金年内收益由跌转涨。基金经理普遍认为，全年来看，顺周期板块有望受益于经济修复，而成长仍有望占优。（证券时报）",
+    "publish_time": "2024-03-04 07:55:57",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "30年期国债期货连续多日创新高，市场对后续投资策略存分歧",
+    "url": "https://www.36kr.com/newsflashes/2674475253495296",
+    "summary": "开年以来，受多重利好因素支撑，利率债收益率一路下行，超长期国债表现尤其让人瞩目。数据显示，30年期国债收益率从1月2日的2.8422%下行至3月1日的2.51%；30年期国债期货主力合约价格从2023年4月1日上市的96.21元一路狂飙至106元之上，最高触及107.34元。在这波行情中，超长期国债从配置需求标的变成了各类机构的交易标的。这给了其额外的溢价，也让其演绎了一场淋漓的上行攻势。不过，在接连冲刺之后，市场已略显疲态。上周五，债券市场已出现回调迹象，投资者开始面临追高或止盈的抉择，机构也在关注未来一段时间可能出现的超预期政策和3月资金面的影响。（上证报）",
+    "publish_time": "2024-03-04 07:58:30",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "A股思维买港股时运不济，基金经理“捡便宜”未必如愿",
+    "url": "https://www.36kr.com/newsflashes/2674478570567429",
+    "summary": "公募基金经理在A股形成的“捡便宜”思维，在港股面临不适。随着越来越多的A股基金经理兼管港股主题基金，那些在A股市场形成的买在无人问津处、左侧布局等逆向策略在港股实操过程中明显出了问题，时运不济，有不少知名基金经理在业绩靓丽、估值很低的便宜股上频遭损失。对此，多位熟悉港股市场的公私募基金经理认为，港股市场不太适宜逆向投资，以A股市场的投资思维去判断某个港股公司被低估或很便宜，可能会出现重大误判。（证券时报）",
+    "publish_time": "2024-03-04 08:01:10",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "多家公司澄清Sora相关业务布局，机构称AI投资重在基本面",
+    "url": "https://www.36kr.com/newsflashes/2674479801513730",
+    "summary": "OpenAI首个文生视频模型Sora发布后引发资本市场关注，Sora概念热度高涨。近两个交易周，同花顺Sora概念（文生视频）指数累计涨超50%。Sora概念“狂飙”之际，多家上市公司相继公告澄清相关业务布局，同时，涉嫌“蹭概念”的上市公司也被监管层重点关注。机构提醒，AI投资机会还是要看产业应用层的基本面，保持谨慎心态。（经济参考报）",
+    "publish_time": "2024-03-04 08:03:24",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "聚焦重大项目，专项债靠前发力稳投资",
+    "url": "https://www.36kr.com/newsflashes/2674480622548743",
+    "summary": "数据显示，今年2月地方债发行规模达5599.61亿元，其中新增专项债规模达3465.88亿元，规模较1月份明显扩大。专家表示，专项债稳步发行将有利于支持地方重大项目建设，在提高人民生活质量、增加就业机会、优化投资结构、促进经济发展等方面发挥积极作用。（经济参考报）",
+    "publish_time": "2024-03-04 08:05:12",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Commerce Department Proposes Imposing \"Know Your Customer\" on IaaS Providers",
+    "url": "https://www.natlawreview.com/article/us-department-commerce-publishes-proposed-rule-imposing-know-your-customer-and",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39584967\">Comments</a>",
+    "publish_time": "2024-03-04 06:04:42",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Sampling: What Nyquist Didn't Say, and What to Do About It [pdf]",
+    "url": "https://www.wescottdesign.com/articles/Sampling/sampling.pdf",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39584201\">Comments</a>",
+    "publish_time": "2024-03-04 04:25:55",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Enough with the dead butterflies (2017)",
+    "url": "https://www.emilydamstra.com/please-enough-dead-butterflies/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39585207\">Comments</a>",
+    "publish_time": "2024-03-04 06:40:13",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
