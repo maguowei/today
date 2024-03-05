@@ -1129,5 +1129,132 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "2024全国两会新词热词",
+    "url": "https://s.weibo.com/weibo?q=%232024%E5%85%A8%E5%9B%BD%E4%B8%A4%E4%BC%9A%E6%96%B0%E8%AF%8D%E7%83%AD%E8%AF%8D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "凯特王妃",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "张铭恩一种隐约的狠辣",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%93%AD%E6%81%A9%E4%B8%80%E7%A7%8D%E9%9A%90%E7%BA%A6%E7%9A%84%E7%8B%A0%E8%BE%A3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "不平凡的她",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%B9%B3%E5%87%A1%E7%9A%84%E5%A5%B9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "苗苗浪姐上班路透",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8B%97%E8%8B%97%E6%B5%AA%E5%A7%90%E4%B8%8A%E7%8F%AD%E8%B7%AF%E9%80%8F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "宋茜谈年龄焦虑",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%8C%9C%E8%B0%88%E5%B9%B4%E9%BE%84%E7%84%A6%E8%99%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "米哈游的猫娘角色为什么都有两条尾巴？",
+    "url": "https://www.zhihu.com/question/647002085",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为了不委屈孩子而委屈自己一辈子到底值不值？",
+    "url": "https://www.zhihu.com/question/646185911",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Ancient Counterfeiters and Their Fake Coins",
+    "url": "https://coinweek.com/bad-money-ancient-counterfeiters-and-their-fake-coins/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39606093\">Comments</a>",
+    "publish_time": "2024-03-06 00:53:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ask HN: How's the current state of hiring in the LLM field?",
+    "url": "https://news.ycombinator.com/item?id=39605588",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39605588\">Comments</a>",
+    "publish_time": "2024-03-06 00:19:37",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Keeper (YC S21) hiring engineers to build AI tax prep",
+    "url": "https://www.workatastartup.com/jobs/64643",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39606209\">Comments</a>",
+    "publish_time": "2024-03-06 01:00:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Microsoft is ending support for the Windows Subsystem for Android (WSA)",
+    "url": "https://learn.microsoft.com/en-us/windows/android/wsa/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39606464\">Comments</a>",
+    "publish_time": "2024-03-06 01:22:21",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Global Economy Approaches Soft Landing, but Risks Remain",
+    "url": "https://www.imf.org/en/Blogs/Articles/2024/01/30/global-economy-approaches-soft-landing-but-risks-remain",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39605682\">Comments</a>",
+    "publish_time": "2024-03-06 00:26:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
