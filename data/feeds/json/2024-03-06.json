@@ -1615,5 +1615,69 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "海景房狂跌",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B5%B7%E6%99%AF%E6%88%BF%E7%8B%82%E8%B7%8C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "美股三大指数集体收跌，热门中概股多数下跌",
+    "url": "https://www.36kr.com/newsflashes/2677238763239176",
+    "summary": "36氪获悉，3月5日收盘，美股三大指数集体下跌，道指跌1.04%，纳指跌1.65%，标普500指数跌1.02%。大型科技股普跌，英特尔跌超5%，特斯拉跌近4%，微软、苹果跌近3%；英伟达涨超0.8%继续创收盘历史新高。热门中概股多数下跌，腾讯音乐、知乎跌超6%，爱奇艺跌超5%，网易、百度、哔哩哔哩、京东跌超2%，蔚来涨近3%。",
+    "publish_time": "2024-03-06 07:00:42",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "European court favors strong encryption, calling it key to privacy rights",
+    "url": "https://www.washingtonpost.com/technology/2024/03/05/encryption-eu-human-rights-privacy-ruling/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39609846\">Comments</a>",
+    "publish_time": "2024-03-06 06:16:06",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ace of Aces: or, why you should Do Maths as a game designer",
+    "url": "https://paxsims.wordpress.com/2024/03/02/ace-of-aces-or-why-you-should-do-maths-as-a-game-designer/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39609528\">Comments</a>",
+    "publish_time": "2024-03-06 05:45:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Array languages vs. the curse of the spreadsheet",
+    "url": "https://blog.dhsdevelopments.com/array-languages-vs",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39608822\">Comments</a>",
+    "publish_time": "2024-03-06 04:32:44",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "JEDEC publishes GDDR7 graphics memory standard",
+    "url": "https://www.jedec.org/news/pressreleases/jedec-publishes-gddr7-graphics-memory-standard",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39607753\">Comments</a>",
+    "publish_time": "2024-03-06 02:57:24",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
