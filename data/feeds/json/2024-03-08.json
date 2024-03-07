@@ -1530,5 +1530,56 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "今年两会总书记再谈新质生产力",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E4%B8%A4%E4%BC%9A%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%86%8D%E8%B0%88%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "大学生 商家你再装呢",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F+%E5%95%86%E5%AE%B6%E4%BD%A0%E5%86%8D%E8%A3%85%E5%91%A2%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Researchers jailbreak AI chatbots with ASCII art",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-jailbreak-ai-chatbots-with-ascii-art-artprompt-bypasses-safety-measures-to-unlock-malicious-queries",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39634162\">Comments</a>",
+    "publish_time": "2024-03-08 04:23:46",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "WhatsApp Messaging Interoperability",
+    "url": "https://developers.facebook.com/m/messaging-interoperability/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39633936\">Comments</a>",
+    "publish_time": "2024-03-08 04:02:42",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Continue (YC S23) is hiring a founding engineer in San Francisco",
+    "url": "https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39634519\">Comments</a>",
+    "publish_time": "2024-03-08 05:00:39",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
