@@ -1471,5 +1471,76 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "全国影院抢先看功夫熊猫4",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E5%BD%B1%E9%99%A2%E6%8A%A2%E5%85%88%E7%9C%8B%E5%8A%9F%E5%A4%AB%E7%86%8A%E7%8C%AB4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "拜登正说美变得更安全现场死亡美军父亲喊叫抗议",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%AD%A3%E8%AF%B4%E7%BE%8E%E5%8F%98%E5%BE%97%E6%9B%B4%E5%AE%89%E5%85%A8%E7%8E%B0%E5%9C%BA%E6%AD%BB%E4%BA%A1%E7%BE%8E%E5%86%9B%E7%88%B6%E4%BA%B2%E5%96%8A%E5%8F%AB%E6%8A%97%E8%AE%AE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "金字塔游戏",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%97%E5%A1%94%E6%B8%B8%E6%88%8F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Uber must pay wheelchair user $35,000, provide accessible rides",
+    "url": "https://vancouversun.com/news/local-news/bc-uber-human-rights-tribunal-ruling",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39646020\">Comments</a>",
+    "publish_time": "2024-03-09 04:30:36",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Iterate over Parameter Packs in Swift 6.0",
+    "url": "https://www.swift.org/blog/pack-iteration/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39646044\">Comments</a>",
+    "publish_time": "2024-03-09 04:31:57",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "New York Times is targeting Wordle clones with DMCA takedowns",
+    "url": "https://www.theverge.com/2024/3/8/24094234/ny-times-wordle-clones-files-dmca-copyright-takedowns-knockoffs",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39645991\">Comments</a>",
+    "publish_time": "2024-03-09 04:28:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Unpacking Elixir: Phoenix",
+    "url": "https://underjord.io/unpacking-elixir-phoenix.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39645982\">Comments</a>",
+    "publish_time": "2024-03-09 04:28:14",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
