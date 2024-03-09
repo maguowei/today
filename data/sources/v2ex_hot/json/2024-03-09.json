@@ -20,5 +20,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "观隔壁贴有感，请教一下新装修网络布局",
+    "url": "https://www.v2ex.com/t/1022050",
+    "summary": "ttxhxz: <h1>一、看到隔壁的帖子，v 友都很热情，也来请教一下新装修的布网建议</h1>\n<h2>1 、家庭情况</h2>\n<ul>\n<li>套内设计师量尺 88 平。想上 AC+AP 方案，美观一点。</li>\n<li>入户有一个位置给我放机柜，准备放 nas ，软路由，AC ，交换机。</li>\n</ul>\n<h2>2 、想请教 V 友给建议的地方：</h2>\n<ol>\n<li>内网传输在思考弄 10G 还是 2.5G 。比较纠结如果电竞房两台电脑和 nas 传数据，是不是一台电脑一个网口比较好，还是可以一个口出来接交换机再分流？</li>\n<li>是否有 ACAP 设备推荐？网上搜了一下相关评测不多。预算 5k 以下.（ ubnt 太贵了，虽然 UI 很好看。可能过几年有点钱再考虑单独换）</li>\n<li>AP 是否需要三个？是不是两个也行？</li>\n<li>如果想留光纤战未来的话有推荐具体规格和配置吗？</li>\n</ol>\n<p><strong>感谢大家！！！！！！！！</strong></p>\n<h1>二、网络拓扑图和信号分布图</h1>\n<h2>1 、网络拓扑图</h2>\n<p><img alt=\"网络拓扑图\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/BnwScuf.png\" /></p>\n<h2>2 、AP 分布和信号图</h2>\n<ul>\n<li>用了 ubnt 官网自己摆了一下信号分布图</li>\n<li>棕色线条：承重墙</li>\n<li>橙色线条：普通墙</li>\n<li>蓝色线条：窗户</li>\n</ul>\n<h3>2.4G 信号图</h3>\n<p><img alt=\"2.4G 信号图\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/VZY5616.png\" /></p>\n<h3>5G 信号图</h3>\n<p><img alt=\"5G 信号图\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/h9pYE0r.png\" /></p>",
+    "publish_time": "2024-03-09 11:52:25",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "纠结是否加钱升级 100m 上传",
+    "url": "https://www.v2ex.com/t/1022067",
+    "summary": "source: <p>坐标湖北电信，用了一万年的 100m/20m 宽带，趁活动准备换千兆，费用 99/月，但是千兆只给 30m 上传，纠结要不要+30/月升 2000m/100m 。</p>\n<p>目前有公网 ip ，homelab 搭建了几个小站点，平时玩玩 PT 。但是听说国内现在查 pcdn 很严，恐怕也没法补贴网费了，大上行意义大概是能在外面看蓝光？</p>\n<p>V 友们怎么看？</p>",
+    "publish_time": "2024-03-09 13:02:47",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
