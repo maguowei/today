@@ -64,5 +64,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "垃圾小米，玩不起就别说支持解锁 BL",
+    "url": "https://www.v2ex.com/t/1022122",
+    "summary": "mnsw: <p>账号本来支持 MIUI 解锁 BL 的</p>\n<p>特地买了红米，刚到手解锁，提示要等 168 小时</p>\n<p>现在时间差不多了，再次尝试直接告诉我“账号权限不足或者账号受限”</p>\n<p>现在即没法解锁，也不能退货了</p>\n<p>垃圾小米，玩不起就别玩了</p>\n<p>关键在 x 宝上，两三百秒解</p>\n<p>太恶心了！！！！</p>",
+    "publish_time": "2024-03-09 17:35:34",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "Linux DE 与普通消费市场的距离到底在哪？",
+    "url": "https://www.v2ex.com/t/1022136",
+    "summary": "livin2: 产生这个想法是非技术背景的同事吃饭闲聊时问我 MacMini(其实是 jenkins 节点)为啥放着不用😂<br />OP 自己的主力是 Arch+i3,自己用得挺习惯的，但显然这种东西离普通消费者非常遥远。<br />Ubuntu 、PopOS 、Deepin 这些相对开箱即用的 distro ，以前也体验过。但即使是最省心的 deepin ，很多时候也是离不了终端的。<br />这种情况下普通人：搜索引擎=&gt;复制粘贴=&gt;输入 sudo 密码，要搞崩自己又不知道怎么救真是分分钟。<br />生态的问题是有或无，但 Linux distro 目前除了生态，是不是选择太多太自由而反而导致大家总在折腾的路上？<br /><br />类似 Android 或 ChromeOS 这种另类的 Linux distro ，都有类似[开发者选项]的隐藏菜单，如果有一个 DE 能够提供这样足够的底层屏蔽，为普通人做减法，提供更为稳定高容错的 GUI 和平滑更新，结合 Snap/Flatpak 这种沙盒应用商店，是否就能走向普通消费市场了？<br /><br />如果不是，又还缺什么呢？",
+    "publish_time": "2024-03-09 18:59:29",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
