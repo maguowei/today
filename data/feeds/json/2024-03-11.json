@@ -1522,5 +1522,45 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "高校规定博士五年未升副教授转岗后勤",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E8%A7%84%E5%AE%9A%E5%8D%9A%E5%A3%AB%E4%BA%94%E5%B9%B4%E6%9C%AA%E5%8D%87%E5%89%AF%E6%95%99%E6%8E%88%E8%BD%AC%E5%B2%97%E5%90%8E%E5%8B%A4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "被10千克铁锭砸到会感觉会死，被10千克棉花砸到感觉也就这样吧，这是为什么？",
+    "url": "https://www.zhihu.com/question/647053654",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美股三大指数集体收跌，大型科技股多数下跌",
+    "url": "https://www.36kr.com/newsflashes/2684298304471174",
+    "summary": "36氪获悉，3月8日收盘，美股三大指数集体下跌，道指跌0.18%，纳指跌1.16%，标普500指数跌0.65%。大型科技股多数下跌，英伟达跌超5%，创2023年5月份以来最大单日跌幅，英特尔跌超4%，特斯拉、AMD、Meta跌超1%，苹果涨超1%。热门中概股多数上涨，B站涨5%，爱奇艺涨超4%，京东涨超3%，富途控股、阿里巴巴涨超1%，小鹏汽车、蔚来、百度小幅上涨，拼多多跌超5%，唯品会跌超1%，理想汽车小幅下跌。",
+    "publish_time": "2024-03-11 07:00:19",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Nvidia is sued by authors over AI use of copyrighted works",
+    "url": "https://www.reuters.com/technology/nvidia-is-sued-by-authors-over-ai-use-copyrighted-works-2024-03-10/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39663027\">Comments</a>",
+    "publish_time": "2024-03-11 06:27:18",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
