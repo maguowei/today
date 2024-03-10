@@ -20,5 +20,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "还是不太理解 C 静态库和动态库？",
+    "url": "https://www.v2ex.com/t/1022210",
+    "summary": "nnegier: <p>我看到一个描述，“为了方便，我们需要把 moon.o 、sun.o 、earth.o 这 3 个东西弄成一个东西。这种方法 就是 静态库 跟 动态库，静态库 是可以链接进去 程序自身，动态库是共享库，可以由多个程序共享节省空间，动态库只有用到的时候才会加载。”</p>\n<p>它这里的程序是指单个应用还是指单个 C 语言文件呀？如果是单个应用，怎么说多个程序共享呢；如果是说单个 C 文件，那所谓的共享又是指啥呢；反正我横竖都弄不清，只知道都能用。（我个人背景是上层 Android 开发，使用的时候感觉没啥太大区别，当然了静态库快、动态库慢这个我能理解，像空间节省这个我没能理解）</p>",
+    "publish_time": "2024-03-10 06:20:25",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "老婆下定极氪 001 了，车来之前要买什么呢？",
+    "url": "https://www.v2ex.com/t/1022296",
+    "summary": "BNineCoding: <p>地点在深圳，目前考虑到的几个点：</p>\n<ol>\n<li>\n<p>保险</p>\n</li>\n<li>\n<p>提示车牌</p>\n</li>\n<li>\n<p>纸巾盒</p>\n</li>\n<li>\n<p>后备箱垫</p>\n</li>\n</ol>",
+    "publish_time": "2024-03-10 15:57:20",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
