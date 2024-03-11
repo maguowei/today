@@ -1626,5 +1626,88 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "金晨的有AI假期",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E7%9A%84%E6%9C%89AI%E5%81%87%E6%9C%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "王鹤棣 美羊羊限定版",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3+%E7%BE%8E%E7%BE%8A%E7%BE%8A%E9%99%90%E5%AE%9A%E7%89%88%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "香港双婴尸案今日提堂",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%8F%8C%E5%A9%B4%E5%B0%B8%E6%A1%88%E4%BB%8A%E6%97%A5%E6%8F%90%E5%A0%82%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "我是一名刚入行的程序员，各位前辈有什么忠告吗？",
+    "url": "https://www.zhihu.com/question/645307315",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么有些人心智成熟的比较晚呢？",
+    "url": "https://www.zhihu.com/question/283077831",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "有哪些书籍你看了感觉天灵盖打开了？",
+    "url": "https://www.zhihu.com/question/489639992",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "挣钱的本质是什么?",
+    "url": "https://www.zhihu.com/question/577178625",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "除了打回去，小朋友之间的摩擦还可以怎样解决？",
+    "url": "https://www.zhihu.com/question/643197939",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Google's Threat Model for Post-Quantum Cryptography",
+    "url": "https://bughunters.google.com/blog/5108747984306176/google-s-threat-model-for-post-quantum-cryptography",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39672583\">Comments</a>",
+    "publish_time": "2024-03-12 03:56:05",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
