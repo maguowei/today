@@ -1504,5 +1504,127 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "这个年纪适合转行吗",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E5%B9%B4%E7%BA%AA%E9%80%82%E5%90%88%E8%BD%AC%E8%A1%8C%E5%90%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "抑郁症，网瘾这种东西是不是人类的bug？是不是在现代社会不适合环境的劣等性状?",
+    "url": "https://www.zhihu.com/question/647871676",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "你有被哪些「爆改」震惊过？",
+    "url": "https://www.zhihu.com/question/647126234",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "在不请律师的情况下，怎么打官司？",
+    "url": "https://www.zhihu.com/question/643379200",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "有什么能长期稳定运行的电脑电源推荐吗？",
+    "url": "https://www.zhihu.com/question/634780782",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "A Dutch Quandary Offers a Glimpse of a Deepening Problem for Europe",
+    "url": "https://www.nytimes.com/2024/03/11/world/europe/geert-wilders-dutch-election-politics.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39673103\">Comments</a>",
+    "publish_time": "2024-03-12 04:51:43",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Midjourney bans all Stability AI employees over alleged data scraping",
+    "url": "https://www.theverge.com/2024/3/11/24097495/midjourney-bans-stability-ai-employees-data-theft-outage",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39672393\">Comments</a>",
+    "publish_time": "2024-03-12 03:37:22",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The later we meet someone in a sequence, the more negatively we describe them",
+    "url": "https://suchscience.org/people-encountered-later-in-a-sequence-described-more-negatively/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39672111\">Comments</a>",
+    "publish_time": "2024-03-12 03:05:40",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Prompts as WASM Programs",
+    "url": "https://github.com/microsoft/aici",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39670665\">Comments</a>",
+    "publish_time": "2024-03-12 01:00:49",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Webb and Hubble confirm Universe's expansion rate",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2024/03/Webb_Hubble_confirm_Universe_s_expansion_rate",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39673087\">Comments</a>",
+    "publish_time": "2024-03-12 04:49:35",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "OpenPlotter",
+    "url": "https://openmarine.net/openplotter",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39672901\">Comments</a>",
+    "publish_time": "2024-03-12 04:29:41",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Diffusion models from scratch, from a new theoretical perspective",
+    "url": "https://www.chenyang.co/diffusion.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39672450\">Comments</a>",
+    "publish_time": "2024-03-12 03:43:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
