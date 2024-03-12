@@ -574,5 +574,14 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "我总觉得世界是这样子的",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E6%80%BB%E8%A7%89%E5%BE%97%E4%B8%96%E7%95%8C%E6%98%AF%E8%BF%99%E6%A0%B7%E5%AD%90%E7%9A%84%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
