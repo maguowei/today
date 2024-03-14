@@ -637,5 +637,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "学习绘文",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AD%A6%E4%B9%A0%E7%BB%98%E6%96%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "老公玩股票这件事我觉得很慌",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E5%85%AC%E7%8E%A9%E8%82%A1%E7%A5%A8%E8%BF%99%E4%BB%B6%E4%BA%8B%E6%88%91%E8%A7%89%E5%BE%97%E5%BE%88%E6%85%8C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "农学院学生上课能有多离谱",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%86%9C%E5%AD%A6%E9%99%A2%E5%AD%A6%E7%94%9F%E4%B8%8A%E8%AF%BE%E8%83%BD%E6%9C%89%E5%A4%9A%E7%A6%BB%E8%B0%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
