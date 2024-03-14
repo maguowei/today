@@ -1206,5 +1206,85 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "丽水机场辟谣已建成投用并首航",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BD%E6%B0%B4%E6%9C%BA%E5%9C%BA%E8%BE%9F%E8%B0%A3%E5%B7%B2%E5%BB%BA%E6%88%90%E6%8A%95%E7%94%A8%E5%B9%B6%E9%A6%96%E8%88%AA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "小日子",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%97%A5%E5%AD%90%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "韩作家上节目称「汉字由韩国人创造」，韩网民：看得我尴尬，如何评价这一行为？",
+    "url": "https://www.zhihu.com/question/648230665",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "早晨运动，是让人精神一整天还是疲倦一整天？",
+    "url": "https://www.zhihu.com/question/647449499",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Parsing the Postgres protocol – logging executed statements",
+    "url": "https://kviklet.dev/blog/parsing-the-postgres-protocol/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39706582\">Comments</a>",
+    "publish_time": "2024-03-15 01:18:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "LA Dodgers extends $0 contract for 6th time so player can keep health insurance",
+    "url": "https://www.cbssports.com/mlb/news/dodgers-renew-contract-for-andrew-toles-maintaining-ex-players-insurance-while-treating-mental-health/amp/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39707609\">Comments</a>",
+    "publish_time": "2024-03-15 02:54:21",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Learning From DNA: a grand challenge in biology",
+    "url": "https://hazyresearch.stanford.edu/blog/2024-03-14-evo",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39707017\">Comments</a>",
+    "publish_time": "2024-03-15 01:56:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How Figma's databases team lived to tell the scale",
+    "url": "https://www.figma.com/blog/how-figmas-databases-team-lived-to-tell-the-scale/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39706968\">Comments</a>",
+    "publish_time": "2024-03-15 01:51:30",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
