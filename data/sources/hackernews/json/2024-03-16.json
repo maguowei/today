@@ -240,5 +240,27 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Great Ideas in Theoretical Computer Science",
+    "url": "https://www.cs251.com",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39720388\">Comments</a>",
+    "publish_time": "2024-03-16 04:30:45",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "GhostRace: Exploiting and Mitigating Speculative Race Conditions",
+    "url": "https://www.vusec.net/projects/ghostrace/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39720508\">Comments</a>",
+    "publish_time": "2024-03-16 04:43:41",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
