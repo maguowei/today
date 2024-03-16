@@ -1574,5 +1574,65 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "马丽折扣区挑衣服",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%B8%BD%E6%8A%98%E6%89%A3%E5%8C%BA%E6%8C%91%E8%A1%A3%E6%9C%8D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "一个竖放蛋糕引发的拉锯战",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E7%AB%96%E6%94%BE%E8%9B%8B%E7%B3%95%E5%BC%95%E5%8F%91%E7%9A%84%E6%8B%89%E9%94%AF%E6%88%98%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "为什么法俄两国在近代直到一战前才成为同盟?",
+    "url": "https://www.zhihu.com/question/647712531",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Hackathon Perl / Open Food Facts in Paris",
+    "url": "https://forum.openfoodfacts.org/t/hackathon-perl-open-food-facts-in-paris/530",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39728456\">Comments</a>",
+    "publish_time": "2024-03-17 02:56:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "CXL Is Dead in the AI Era",
+    "url": "https://www.semianalysis.com/p/cxl-is-dead-in-the-ai-era",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39729509\">Comments</a>",
+    "publish_time": "2024-03-17 05:14:06",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The language you speak changes your perception of time",
+    "url": "https://www.popsci.com/language-time-perception/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39729819\">Comments</a>",
+    "publish_time": "2024-03-17 05:53:45",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
