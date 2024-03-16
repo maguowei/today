@@ -1374,5 +1374,74 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "网红为获流量自编自演路怒砸车",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E4%B8%BA%E8%8E%B7%E6%B5%81%E9%87%8F%E8%87%AA%E7%BC%96%E8%87%AA%E6%BC%94%E8%B7%AF%E6%80%92%E7%A0%B8%E8%BD%A6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "西工大女教授公开名下研究生去向走红",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%B7%A5%E5%A4%A7%E5%A5%B3%E6%95%99%E6%8E%88%E5%85%AC%E5%BC%80%E5%90%8D%E4%B8%8B%E7%A0%94%E7%A9%B6%E7%94%9F%E5%8E%BB%E5%90%91%E8%B5%B0%E7%BA%A2%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "付辛博万鹏cha了今天你要嫁给我",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BB%98%E8%BE%9B%E5%8D%9A%E4%B8%87%E9%B9%8Fcha%E4%BA%86%E4%BB%8A%E5%A4%A9%E4%BD%A0%E8%A6%81%E5%AB%81%E7%BB%99%E6%88%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "2024全英公开赛",
+    "url": "https://s.weibo.com/weibo?q=%232024%E5%85%A8%E8%8B%B1%E5%85%AC%E5%BC%80%E8%B5%9B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Mental Health in Open Source",
+    "url": "https://antfu.me/posts/mental-health-oss",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39727217\">Comments</a>",
+    "publish_time": "2024-03-17 00:26:44",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "20 Years in the Making, GnuCOBOL Is Ready for Industry",
+    "url": "https://thenewstack.io/20-years-in-the-making-gnucobol-is-ready-for-industry/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39728519\">Comments</a>",
+    "publish_time": "2024-03-17 03:02:08",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Lambda on hard mode: serverless HTTP in Rust",
+    "url": "https://modal.com/blog/serverless-http",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39728045\">Comments</a>",
+    "publish_time": "2024-03-17 02:03:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
