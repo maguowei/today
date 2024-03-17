@@ -97,5 +97,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "各位都是如何解决 jp 区， google 搜索 显示日文的。",
+    "url": "https://www.v2ex.com/t/1024489",
+    "summary": "azure2024us: <p>RT ，</p>\n<p>先说下我的方案。</p>\n<p>开 2 个区的节点，一个是 jp ，不限流量的 ；另一个是 us ，限流量的。</p>\n<h4>具体实现细节</h4>\n<h5>网络流量架构</h5>\n<p>其他流量 -----&gt; jp</p>\n<p>google 搜索的流量 ----&gt;jp （ haproxy 中转下） ----&gt; us</p>\n<p>选择 jp 中转的原因是： 国内直连 300ms +，通过 jp 中转的延时是，国内到 jp 40ms + jp 到 us 100ms</p>\n<p>ps：为了加速，从 jp 到 us 流量可以直接裸奔。</p>\n<h5>本地通过 ipset 区分 流量。</h5>\n<pre><code># for jp\niptables -t nat -I PREROUTING -p tcp -m set --match-set jp dst -m multiport --dports 80,443 -j REDIRECT --to-ports 1234\n\n# for us\niptables -t nat -I PREROUTING -p tcp -m set --match-set us dst -m multiport --dports 80,443 -j REDIRECT --to-ports 1235\n\n</code></pre>\n<p>配合 dnsmasq</p>\n<h5>google 搜索的，通过中转到 us</h5>\n<pre><code>ipset=/google.com/us\nserver=/google.com/127.0.0.1#5301\n\n</code></pre>\n<h5>其他的，走 jp</h5>\n<pre><code>ipset=/xx.com/jp\nserver=/xx.com/127.0.0.1#5300\n\n</code></pre>\n<p>PS：\n从国内到 jp ，我用的是 ss over tls ，其他协议，也可以参考。</p>",
+    "publish_time": "2024-03-17 18:12:04",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
