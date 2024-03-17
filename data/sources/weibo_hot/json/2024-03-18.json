@@ -511,5 +511,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "汤达人你在干什么",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B1%A4%E8%BE%BE%E4%BA%BA%E4%BD%A0%E5%9C%A8%E5%B9%B2%E4%BB%80%E4%B9%88%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "关九海张霄白",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%B3%E4%B9%9D%E6%B5%B7%E5%BC%A0%E9%9C%84%E7%99%BD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "鞠婧祎刘学义捂嘴情头",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E5%88%98%E5%AD%A6%E4%B9%89%E6%8D%82%E5%98%B4%E6%83%85%E5%A4%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
