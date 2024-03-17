@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Java 、Idea、Android Studio 用户请暂缓升级到 macOS 14.4",
+    "url": "https://www.v2ex.com/t/1024389",
+    "summary": "codehz: <a href=\"https://blogs.oracle.com/java/post/java-on-macos-14-4\" rel=\"nofollow noopener\" target=\"_blank\">https://blogs.oracle.com/java/post/java-on-macos-14-4</a><br />省流：果子改了受保护页面的默认处理方式，之前是发 sigsegv 现在直接 sigkill ，而 java 从很早的版本（已知 8 ）开始就在滥用这个特性来将 null 检测改为捕获 sigsegv 信号，包括用户主动写的 if == null 也会在 jit 的帮助下被转换，这在新版本 mac 里会直接触发错误。<br />建议有 java 需求或依赖基于 java 的 ide 的 mac 用户暂缓升级",
+    "publish_time": "2024-03-17 09:03:08",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  }
+]
