@@ -1262,5 +1262,34 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "深蓝G318让硬派更舒适",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E8%93%9DG318%E8%AE%A9%E7%A1%AC%E6%B4%BE%E6%9B%B4%E8%88%92%E9%80%82%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "6万人杭州奥体合唱生日快乐",
+    "url": "https://s.weibo.com/weibo?q=%236%E4%B8%87%E4%BA%BA%E6%9D%AD%E5%B7%9E%E5%A5%A5%E4%BD%93%E5%90%88%E5%94%B1%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Optimize CSS with SAT Solving",
+    "url": "https://github.com/matthewhague/sat-css-tool",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39735669\">Comments</a>",
+    "publish_time": "2024-03-18 00:38:45",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
