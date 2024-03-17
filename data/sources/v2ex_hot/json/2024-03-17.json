@@ -64,5 +64,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "推广一下自己的开源项目，有着运维界面的分布式消息队列",
+    "url": "https://www.v2ex.com/t/1024402",
+    "summary": "BarackLee: <p>日常使用消息队列的场景中，我一直都觉得用命令的方式来创建 ConsumerGroup 和 Topic ，通过各种命令获取队列信息是一件很麻烦的事情。\n所以我开发了一个有合理运维界面的分布式消息队列系统。消息队列的数据结构沿用 Kafka 的设计，但是只要通过运维界面只要点几个按钮，就可以方便的创建 ConsumerGroup 和 Topic, 调整 ConsumerGroup 和 Topic 的关系，调整 offset 。</p>\n<p>项目地址： <a href=\"https://github.com/iambiglee/catmq\" rel=\"nofollow\">https://github.com/iambiglee/catmq</a></p>\n<p>因为还在求职中，希望感兴趣的小伙伴可以点一个 star, 方便我和面试官吹吹水。Thanks♪(･ω･)ﾉ</p>",
+    "publish_time": "2024-03-17 10:27:16",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "关于 315 时期，央广网发布曝光淀粉肠是否符实",
+    "url": "https://www.v2ex.com/t/1024410",
+    "summary": "markbang35: <p>最近国内平台上淀粉肠事件闹得很火，都说是 315 晚会曝光的，但是我把 315 回放看了一遍后，并没发现曝光淀粉肠。紧接着找到来源央广网：\n<img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/gFMGVwE.png\" /></p>\n<p>但是原视频也没有什么描述，就是一张截图下面加了那些字幕，这种找不到事实就感觉很奇怪，因为这几天刷视频有好多关于这件事的视频，热度也很大，大家都在讨论这件事，找到那些视频评论区也有说 315 根本没曝光淀粉肠的，但是很少，而且拿不出央广网的证据。。。。。。又一次感觉国内舆论真的是随便制造</p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/YH2m0rP.png\" /></p>",
+    "publish_time": "2024-03-17 10:47:04",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
