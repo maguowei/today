@@ -86,5 +86,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "各位 JS 高手你好，问一个关于 for 循环使用$.post 替换全局变量的问题，好像是竞争锁之类的",
+    "url": "https://www.v2ex.com/t/1024619",
+    "summary": "abccccabc: 各位 JS 高手你好，问一个关于 for 循环使用$.post 替换全局变量的问题，好像是竞争锁之类的。<br />```<br />var allimg = 获取到的图片数组;<br />var oldcontent = 原内容;<br />for(var i=0; i&lt;allimg.length; i++){<br />    $.post('url', 参数, function(ret) {<br />        if(ret['code'] == 200) {<br />             oldcontent = oldcontent.replace(ret['oldimgurl'], ret['newimgurl']);<br />        }else{<br />             console.log(错误信息);<br />        }<br />    }, 'json');<br />}<br />```<br />这样有一个很大的问题：多个异步去修改同一全局变量，必须要锁定全局变量 oldcontent ，不然只有最后 i 循环 修改 oldcontent 生效。<br />请高手支招？",
+    "publish_time": "2024-03-18 10:40:31",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "Gap 两年，简历造假，混进外包",
+    "url": "https://www.v2ex.com/t/1024664",
+    "summary": "hansomeneil: <p>离职考研失败案例，大家引以为鉴吧。</p>\n<p>20 届软工毕业，履历不难看，第一家：二线城市美股上市外企 7.5X13 ；第二家：杭州某独角兽 17X14 ；就是 tmd 第二家沙比公司 22 年裁员，薪资高的全噶了，剩下一两个 10k 左右的兄弟维护项目。。。由于之前就对学历一直有执念，一直在了解在职考研，被裁员之后，干脆决定不找工作，趁这个机会去脱产考研，报的 ZJU ，23 惨败，24 惜败，真的累了，再考的话，先不说一定上岸，就算上岸，出来也 30 了，调剂也放弃了，同样的理由，而且还是普本硕，作用真的有限。。</p>\n<p>然后我把自己以前博客输出的八股全都复习了一遍，3 月开始找工作，起初是顶着两年空窗期，不愿意造假，不过很快就妥协了，正儿八经的一个机会都没有。。。没人回复。。外包都不搭理。。找朋友内推也白给。。总之是真的难</p>\n<p>然后上周开始造假，拉长上一份工作经历（到 23 年 11 月），其他都不变，然后就想着投一些不背调的，基本都是大厂外包，小公司都很少，因为不咋缺人，一周笔面试排满。。。</p>\n<p>今天 oc 了一个，阿里系，面评积极，给到 14.5 ，职级我猜是 p6 或 p6+，不过外包职级也没卵用，后续再看，这周应该还能 oc 几个。</p>\n<p>顺带一提，拉长离职日期之后，我 tm 就怕背调，都不敢报自己上家 17 ，只敢说 11 、12 。。。真的憋屈，好在面评积极还是有用的，外包预算内能给拉满或略微高出预算。</p>\n<p>目前打算就是能走就走，就当蹲苦窑了，外包好在事儿少，而且面试的几个老哥给我感觉性格不错，应该能合得来，不至于为难我，据说双休，不保真，画个问号，我对阿里系的福报文化略有耳闻，不过确实也听说外包一般不加班，到点就走。</p>\n<p>总之先待半年，刷一刷流水、社保，至于简历花了，也没办法，只能接受，反正在职跳还是远远好于离职跳的。</p>\n<p>有想了解考研、空窗期的欢迎提问，知无不言，能帮一个是一个。</p>",
+    "publish_time": "2024-03-18 11:58:06",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
