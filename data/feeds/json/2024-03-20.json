@@ -1503,5 +1503,87 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "张若昀的寻味之旅",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E7%9A%84%E5%AF%BB%E5%91%B3%E4%B9%8B%E6%97%85%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "早睡1小时身体竟然有这么多变化",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%97%A9%E7%9D%A11%E5%B0%8F%E6%97%B6%E8%BA%AB%E4%BD%93%E7%AB%9F%E7%84%B6%E6%9C%89%E8%BF%99%E4%B9%88%E5%A4%9A%E5%8F%98%E5%8C%96%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "专家解析感冒的人多起来了",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E8%A7%A3%E6%9E%90%E6%84%9F%E5%86%92%E7%9A%84%E4%BA%BA%E5%A4%9A%E8%B5%B7%E6%9D%A5%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Cosmic cleaners: the scientists scouring English cathedral roofs for space dust",
+    "url": "https://www.theguardian.com/science/2024/mar/17/cosmic-cathedrals-dust-rooftops-planetary-secrets-asteroids-comets",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39760482\">Comments</a>",
+    "publish_time": "2024-03-20 05:34:08",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: jnv: interactive JSON filter using jq",
+    "url": "https://github.com/ynqa/jnv",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39759325\">Comments</a>",
+    "publish_time": "2024-03-20 03:23:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "New algorithm unlocks high-resolution insights for computer vision",
+    "url": "https://news.mit.edu/2024/featup-algorithm-unlocks-high-resolution-insights-computer-vision-0318",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39759906\">Comments</a>",
+    "publish_time": "2024-03-20 04:28:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Mechanics of Proof",
+    "url": "https://hrmacbeth.github.io/math2001/index.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39760379\">Comments</a>",
+    "publish_time": "2024-03-20 05:23:55",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Lego price per part over the years",
+    "url": "https://brickinsights.com/statistics/ppp",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39759693\">Comments</a>",
+    "publish_time": "2024-03-20 04:01:24",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
