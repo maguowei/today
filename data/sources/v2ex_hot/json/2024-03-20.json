@@ -64,5 +64,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "你买得最值得的软件是什么？",
+    "url": "https://www.v2ex.com/t/1025405",
+    "summary": "anson264556364:",
+    "publish_time": "2024-03-20 14:27:26",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "盼大佬解答，前端加密到底是不是脱裤子放屁？",
+    "url": "https://www.v2ex.com/t/1025454",
+    "summary": "userKamtao: <p>闲暇之余，探索了一个小伙伴的开源网站，无意中发现了他的修改密码接口，是明文传输的，如下图。</p>\n<p><img alt=\"6361710921930_.pic_bvfob1_.jpeg\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://cdn.jsdelivr.net/gh/lewkamtao/PicHub-Cloud@master/GeekBlog/6361710921930_.pic_bvfob1_.jpeg\" /></p>\n<p>后来我跟他反应了这个问题，我的观点是应该在前端 md5 加密一下，他说，他在后端做了加密处理，明文传输没问题，网站是 https ，前端加密不就等于脱裤子放屁吗？</p>\n<p>和他几番讨论之后，无果，也有几个小伙伴觉得前端加密等于自己骗自己。</p>\n<p>我经验比较单薄，以至于没有什么实际上的论点去论证，希望有大佬解答一下，这种场景在前端加密有没有意义。</p>",
+    "publish_time": "2024-03-20 16:16:27",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "问下大家 30 岁的人不会开车也不买车也不学驾照算失败吗？",
+    "url": "https://www.v2ex.com/t/1025457",
+    "summary": "yyqxjwxy: 在上海，个人确实对车不感冒，也确实对车没有需求，每天上班地铁出行，周末就宅家或者出去吃个饭，确实觉得没有必要，只计划过如果能结婚的话买个车，但近日被对象挖苦过几句说我连车都不学想放假出去玩都不方便，目前来看也就和她去周边玩是必要的，确实好像还是很不不方便",
+    "publish_time": "2024-03-20 16:17:16",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
