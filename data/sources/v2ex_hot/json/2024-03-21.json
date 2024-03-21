@@ -20,5 +20,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "求 macOS 上支持 OCR 的截图软件（类似 qq 截图）",
+    "url": "https://www.v2ex.com/t/1025602",
+    "summary": "v2Cj: <p>目前在用 xnip 终身版，除了不支持 ocr 都挺好的。</p>\n<p>知道系统带的截图支持 ocr ，但需要手动打开图片再进行文字识别或标记编辑，太麻烦了。</p>\n<p>想求一个类似 qq 截图那样的支持</p>\n<ol>\n<li>支持截完图后自动弹出编辑窗口</li>\n<li>支持 OCR</li>\n</ol>\n<p>付费方式只要不是订阅制都可以接受～</p>\n<p>补充一点：\n需要支持长截图，之前就是因为这个痛点找到了 xnip 。</p>",
+    "publish_time": "2024-03-21 08:40:51",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "突然断电，对台式机硬件有没有影响？",
+    "url": "https://www.v2ex.com/t/1025636",
+    "summary": "spoor: <p>租的房子水电设施太差了，一个室友洗澡开了吊顶暖风机，另一个室友用热水器烧水，结果全屋跳闸了</p>\n<p>我刚装了一台 MATX 电脑，Windows 更新正在安装，结果就断电了，虽然后来开机一切正常，但是心里很不爽，毕竟都是新的硬件，心理不爽啊</p>",
+    "publish_time": "2024-03-21 09:59:28",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "时至今日, WSL 仍然难用",
+    "url": "https://www.v2ex.com/t/1025657",
+    "summary": "weijancc: 前段时间因为重装了 Windows, 想着就装个 Docker 吧, 装软件省事. 但最终依赖的 Hyper-V 是全局虚拟化, 使得宿主机也被虚拟化, 能够明显感到掉帧, 从 wsl2 发行到现在 Hyper-V 还是一样糟糕, 最后还是使用回了虚拟机 Docker.<br /><br />不知道 2020 年左右简中怎么流行了\"Windows 是最好的 Linux 发行版\", 真的不想再看到这句话了, 被骗了好几次, 感觉说这个都没用过虚拟机或 VPS 的正版 Linux, WSL 一点都不配.(我的 Windows 配置 i9+4060+40G 内存).",
+    "publish_time": "2024-03-21 10:36:31",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
