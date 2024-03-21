@@ -9,7 +9,7 @@ license = "MIT"
 python = "^3.9"
 requests = "^2.28.0"
 feedparser = "^6.0.10"
-ipython = "^8.4.0"
+ipython = "^8.10.0"
 PyYAML = "^6.0"
 
 [tool.poetry.dev-dependencies]
