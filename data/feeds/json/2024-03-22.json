@@ -1384,5 +1384,139 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "无糖可口可乐邀你代言",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%97%A0%E7%B3%96%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90%E9%82%80%E4%BD%A0%E4%BB%A3%E8%A8%80%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "何炅演发疯",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E6%BC%94%E5%8F%91%E7%96%AF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "妈妈救了我好多次",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E6%95%91%E4%BA%86%E6%88%91%E5%A5%BD%E5%A4%9A%E6%AC%A1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "四川人的全球发音太魔性了",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E4%BA%BA%E7%9A%84%E5%85%A8%E7%90%83%E5%8F%91%E9%9F%B3%E5%A4%AA%E9%AD%94%E6%80%A7%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何评价董宇辉采访海尔创始人张瑞敏?",
+    "url": "https://www.zhihu.com/question/649262486",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "有哪些你收藏过的朋友圈好文案？",
+    "url": "https://www.zhihu.com/question/647291899",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "都是解释执行，为什么跑java的叫虚拟机，而python ruby等只能叫解释器?",
+    "url": "https://www.zhihu.com/question/647430973",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "鸟的食物基本都在地上，它为什么会进化出飞翔的能力?",
+    "url": "https://www.zhihu.com/question/649292965",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "六部门从国家层面明确预制菜定义和范围，生产过程不允许添加防腐剂，还有哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/649529586",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "李想复盘理想 MEGA 失利：将放弃大部分城市销售，降低销量预期。对此你怎么看？其失利的问题出在哪里？",
+    "url": "https://www.zhihu.com/question/649493615",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Silent Running: 1970s Environmental Fable Remains Depressingly All Too Relevant",
+    "url": "https://reactormag.com/silent-running-a-1970s-environmental-fable-remains-depressingly-all-too-relevant/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39781776\">Comments</a>",
+    "publish_time": "2024-03-22 01:35:39",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "DuckDB as the New jq",
+    "url": "https://www.pgrs.net/2024/03/21/duckdb-as-the-new-jq/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39782356\">Comments</a>",
+    "publish_time": "2024-03-22 02:19:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Continue (YC S23) is hiring a founding engineer in San Francisco",
+    "url": "https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39784349\">Comments</a>",
+    "publish_time": "2024-03-22 05:00:41",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Memories – FOSS Google Photos alternative built for high performance",
+    "url": "https://memories.gallery/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39783223\">Comments</a>",
+    "publish_time": "2024-03-22 03:25:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
