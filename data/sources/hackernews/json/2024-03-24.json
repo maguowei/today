@@ -141,5 +141,49 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Why the hell is your Kubernetes API public?",
+    "url": "https://leebriggs.co.uk/blog/2024/03/23/why-public-k8s-controlplane",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39800915\">Comments</a>",
+    "publish_time": "2024-03-24 00:10:47",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Wirequery – Full-stack session replay and more",
+    "url": "https://github.com/wirequery/wirequery",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39802120\">Comments</a>",
+    "publish_time": "2024-03-24 02:36:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ntex: Powerful, pragmatic, fast framework for composable networking services",
+    "url": "https://ntex.rs/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39801435\">Comments</a>",
+    "publish_time": "2024-03-24 01:12:46",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The man who bought Pine Bluff, Arkansas (2022)",
+    "url": "https://maxread.substack.com/p/the-man-who-bought-pine-bluff-arkansas",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39802157\">Comments</a>",
+    "publish_time": "2024-03-24 02:41:08",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
