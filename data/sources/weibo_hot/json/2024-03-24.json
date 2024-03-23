@@ -628,5 +628,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "为什么我们没有耐心和父母说话",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%BB%AC%E6%B2%A1%E6%9C%89%E8%80%90%E5%BF%83%E5%92%8C%E7%88%B6%E6%AF%8D%E8%AF%B4%E8%AF%9D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "大家说好吃但你get不到的食物",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AE%B6%E8%AF%B4%E5%A5%BD%E5%90%83%E4%BD%86%E4%BD%A0get%E4%B8%8D%E5%88%B0%E7%9A%84%E9%A3%9F%E7%89%A9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "你的吃辣程度处于哪一级",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84%E5%90%83%E8%BE%A3%E7%A8%8B%E5%BA%A6%E5%A4%84%E4%BA%8E%E5%93%AA%E4%B8%80%E7%BA%A7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
