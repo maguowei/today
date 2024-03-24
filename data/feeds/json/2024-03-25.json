@@ -1292,5 +1292,107 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "关灯玩手机屏幕是亮点好还是暗点好",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%B3%E7%81%AF%E7%8E%A9%E6%89%8B%E6%9C%BA%E5%B1%8F%E5%B9%95%E6%98%AF%E4%BA%AE%E7%82%B9%E5%A5%BD%E8%BF%98%E6%98%AF%E6%9A%97%E7%82%B9%E5%A5%BD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "三十岁才是人生的开始",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8D%81%E5%B2%81%E6%89%8D%E6%98%AF%E4%BA%BA%E7%94%9F%E7%9A%84%E5%BC%80%E5%A7%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "追风者",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%BD%E9%A3%8E%E8%80%85%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "黑执事新作 看顺眼了",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%BB%91%E6%89%A7%E4%BA%8B%E6%96%B0%E4%BD%9C+%E7%9C%8B%E9%A1%BA%E7%9C%BC%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Scientists traced a mysterious Covid case back to six toilets",
+    "url": "https://www.technologyreview.com/2024/03/22/1090059/how-scientists-traced-a-mysterious-covid-case-back-to-six-toilets/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39809369\">Comments</a>",
+    "publish_time": "2024-03-25 03:00:45",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "GPT-4, without specialized training, beat a GPT-3.5 class model that cost $10M",
+    "url": "https://www.threads.net/@ethan_mollick/post/C46AfItO8RS",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39809177\">Comments</a>",
+    "publish_time": "2024-03-25 02:34:33",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The new Windows update made me think I'd installed malware",
+    "url": "https://www.pcgamer.com/software/windows/the-new-windows-update-made-me-think-id-installed-malware-but-it-was-just-microsofts-latest-attempt-to-try-and-fool-me-into-using-bing/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39809478\">Comments</a>",
+    "publish_time": "2024-03-25 03:15:56",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Majority of web apps could just run on a single server",
+    "url": "https://old.reddit.com/r/webdev/comments/1bmfrjm/majority_of_web_apps_could_just_run_on_a_single/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39809342\">Comments</a>",
+    "publish_time": "2024-03-25 02:56:56",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Your customers hate MVPs. Make a SLC instead",
+    "url": "https://longform.asmartbear.com/slc/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39809447\">Comments</a>",
+    "publish_time": "2024-03-25 03:11:28",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The ü/ü Conundrum",
+    "url": "https://unravelweb.dev/2024/02/12/the-u-u-conundrum/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39808357\">Comments</a>",
+    "publish_time": "2024-03-25 00:50:41",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
