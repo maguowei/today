@@ -1164,5 +1164,132 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "穿AirMax感受缓震革命",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%A9%BFAirMax%E6%84%9F%E5%8F%97%E7%BC%93%E9%9C%87%E9%9D%A9%E5%91%BD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "优酷待播剧预约前十",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BC%98%E9%85%B7%E5%BE%85%E6%92%AD%E5%89%A7%E9%A2%84%E7%BA%A6%E5%89%8D%E5%8D%81%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "iroha好漂亮",
+    "url": "https://s.weibo.com/weibo?q=%23iroha%E5%A5%BD%E6%BC%82%E4%BA%AE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "IROHA 跳EASY",
+    "url": "https://s.weibo.com/weibo?q=%23IROHA+%E8%B7%B3EASY%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "市面上那么多洗碗机品牌，有哪些值得推荐？",
+    "url": "https://www.zhihu.com/question/649517262",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "网传深圳取消「7090 政策」，官方回应属实，业内人士称「其他重点城市也在逐步放开」，释放什么信号？",
+    "url": "https://www.zhihu.com/question/650231661",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美方称无证据表明乌克兰参与莫斯科州音乐厅恐袭，外交部回应「强烈谴责恐怖袭击行为」，哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/650085911",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价Stable Diffusion核心团队集体辞职和 Inflection AI 解散跳槽？",
+    "url": "https://www.zhihu.com/question/649693537",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Weird new electron behaviour in stacked graphene thrills physicists",
+    "url": "https://www.nature.com/articles/d41586-024-00832-z",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39831055\">Comments</a>",
+    "publish_time": "2024-03-27 02:17:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Why Google failed to make GPT-3",
+    "url": "https://www.latent.space/p/adept",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39831198\">Comments</a>",
+    "publish_time": "2024-03-27 02:31:08",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Podman 5.0 has been released",
+    "url": "https://blog.podman.io/2024/03/podman-5-0-has-been-released/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39831095\">Comments</a>",
+    "publish_time": "2024-03-27 02:20:55",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Mathematics for Computer Science – MIT Open Learning Library",
+    "url": "https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39831074\">Comments</a>",
+    "publish_time": "2024-03-27 02:19:26",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Rust data structures with circular references",
+    "url": "https://eli.thegreenplace.net/2021/rust-data-structures-with-circular-references/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39831001\">Comments</a>",
+    "publish_time": "2024-03-27 02:13:56",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
