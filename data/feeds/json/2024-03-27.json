@@ -1026,5 +1026,143 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "地磁暴 最好的背锅侠",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%9C%B0%E7%A3%81%E6%9A%B4+%E6%9C%80%E5%A5%BD%E7%9A%84%E8%83%8C%E9%94%85%E4%BE%A0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "范丞丞笑的对称的方式",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%AC%91%E7%9A%84%E5%AF%B9%E7%A7%B0%E7%9A%84%E6%96%B9%E5%BC%8F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "崩坏星穹铁道",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B4%A9%E5%9D%8F%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "国足主场能否战胜新加坡",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E4%B8%BB%E5%9C%BA%E8%83%BD%E5%90%A6%E6%88%98%E8%83%9C%E6%96%B0%E5%8A%A0%E5%9D%A1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "中信证券此次风波，会对市场造成什么影响？",
+    "url": "https://www.zhihu.com/question/649879216",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "大龄剩男结局怎样了？",
+    "url": "https://www.zhihu.com/question/269869308",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "既然核磁共振没有危害，为什么还要弄个厚厚的门，写着危险？",
+    "url": "https://www.zhihu.com/question/649270606",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "有什么食材和麻椒搭配在一起，堪称「人间美味」？",
+    "url": "https://www.zhihu.com/question/649692836",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "North Korea censors Alan Titchmarsh's trousers on BBC gardening show",
+    "url": "https://news.sky.com/story/north-korea-censors-alan-titchmarshs-trousers-on-bbc-gardening-show-13102181",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39830064\">Comments</a>",
+    "publish_time": "2024-03-27 00:52:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "One of the Most Anticipated AI Gadgets Now Has a Release Date",
+    "url": "https://www.inverse.com/tech/rabbit-r1-release-date",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39830639\">Comments</a>",
+    "publish_time": "2024-03-27 01:43:39",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Building WOPR: A 7x4090 AI Server",
+    "url": "https://www.mov-axbx.com/wopr/wopr_concept.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39829566\">Comments</a>",
+    "publish_time": "2024-03-27 00:15:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Hacking the genome of fungi for smart foods of the future",
+    "url": "https://www.sciencedaily.com/releases/2024/03/240314122135.htm",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39829681\">Comments</a>",
+    "publish_time": "2024-03-27 00:24:30",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The closure of a Methodist chapel on Tyneside",
+    "url": "https://www.newstatesman.com/politics/religion/2024/03/death-church-methodism-christianity-religion",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39830459\">Comments</a>",
+    "publish_time": "2024-03-27 01:25:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Banner (YC S19) Is Hiring",
+    "url": "https://www.ycombinator.com/companies/banner/jobs/4zQRxcM-data-product-manager",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39830166\">Comments</a>",
+    "publish_time": "2024-03-27 01:00:49",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
