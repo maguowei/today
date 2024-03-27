@@ -691,5 +691,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "持续黑一个历史人物十年",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%8C%81%E7%BB%AD%E9%BB%91%E4%B8%80%E4%B8%AA%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9%E5%8D%81%E5%B9%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "没和蔡依林一起去",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B2%A1%E5%92%8C%E8%94%A1%E4%BE%9D%E6%9E%97%E4%B8%80%E8%B5%B7%E5%8E%BB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "1987年版本的语文教材",
+    "url": "https://s.weibo.com/weibo?q=%231987%E5%B9%B4%E7%89%88%E6%9C%AC%E7%9A%84%E8%AF%AD%E6%96%87%E6%95%99%E6%9D%90%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
