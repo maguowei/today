@@ -1283,5 +1283,83 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "吴磊一天天使不完的牛劲",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E4%B8%80%E5%A4%A9%E5%A4%A9%E4%BD%BF%E4%B8%8D%E5%AE%8C%E7%9A%84%E7%89%9B%E5%8A%B2%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "万科2023年净利润121.6亿",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%87%E7%A7%912023%E5%B9%B4%E5%87%80%E5%88%A9%E6%B6%A6121.6%E4%BA%BF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何摆脱公婆带来的内耗和痛苦？",
+    "url": "https://www.zhihu.com/question/650008331",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价我国科学家在世界上首次观察到引力子的「投影」？",
+    "url": "https://www.zhihu.com/question/650552355",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "诺贝尔经济学奖得主丹尼尔·卡尼曼去世，著有《思考，快与慢》《噪声》等书，如何评价他的学术贡献？",
+    "url": "https://www.zhihu.com/question/650478433",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "The Next Big Step in Mojo Open Source",
+    "url": "https://www.modular.com/blog/the-next-big-step-in-mojo-open-source",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39855760\">Comments</a>",
+    "publish_time": "2024-03-29 02:43:06",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Spice.ai – materialize, accelerate, and query SQL data from any source",
+    "url": "https://github.com/spiceai/spiceai",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39854584\">Comments</a>",
+    "publish_time": "2024-03-29 01:16:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Edgar, Build a Dyson Swarm",
+    "url": "https://playedgar.netlify.app/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39855285\">Comments</a>",
+    "publish_time": "2024-03-29 02:06:55",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
