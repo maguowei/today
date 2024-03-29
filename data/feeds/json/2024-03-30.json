@@ -1230,5 +1230,149 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "申有娜转圈",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%B3%E6%9C%89%E5%A8%9C%E8%BD%AC%E5%9C%88%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "执笔直播",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%89%A7%E7%AC%94%E7%9B%B4%E6%92%AD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "为什么郭靖自始至终没有武器？",
+    "url": "https://www.zhihu.com/question/301685207",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "杨过和郭靖同样因误会报仇，为什么杨过被骂的最惨？",
+    "url": "https://www.zhihu.com/question/650532207",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "上班对着电脑屏幕一整天，眼周皮肤干燥还有细纹，该如何改善？",
+    "url": "https://www.zhihu.com/question/646339509",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Google Podcasts service shuts down in the US next week",
+    "url": "https://www.bleepingcomputer.com/news/google/google-podcasts-service-shuts-down-in-the-us-next-week/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39866748\">Comments</a>",
+    "publish_time": "2024-03-30 01:31:39",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "When new hires get paid more, top performers resign first",
+    "url": "https://hbr.org/2024/03/when-new-hires-get-paid-more-top-performers-resign-first",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39867160\">Comments</a>",
+    "publish_time": "2024-03-30 02:07:54",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Can Demis Hassabis Save Google?",
+    "url": "https://www.bigtechnology.com/p/can-demis-hassabis-save-google",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39866795\">Comments</a>",
+    "publish_time": "2024-03-30 01:35:20",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Fuchsia 2024 Roadmap",
+    "url": "https://fuchsia.dev/fuchsia-src/contribute/roadmap/2024",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39867254\">Comments</a>",
+    "publish_time": "2024-03-30 02:17:19",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Sholto Douglas and Trenton Bricken – How to Build and Understand GPT-7's Mind",
+    "url": "https://www.dwarkeshpatel.com/p/sholto-douglas-trenton-bricken",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39867185\">Comments</a>",
+    "publish_time": "2024-03-30 02:10:44",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Banner Blindness",
+    "url": "https://en.wikipedia.org/wiki/Banner_blindness",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39867632\">Comments</a>",
+    "publish_time": "2024-03-30 02:53:33",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Overlay networks based on WebRTC",
+    "url": "https://github.com/pojntfx/weron",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39866325\">Comments</a>",
+    "publish_time": "2024-03-30 01:00:07",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How to fix CSV: make it even more U+1F4A9 PILE OF POO",
+    "url": "https://www.getgrist.com/blog/how-to-fix-csv-make-it-even-more-💩/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39867412\">Comments</a>",
+    "publish_time": "2024-03-30 02:30:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A muon collider could revolutionize particle physics, if it can be built",
+    "url": "https://www.science.org/content/article/muon-collider-could-revolutionize-particle-physics-if-it-can-be-built",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39867270\">Comments</a>",
+    "publish_time": "2024-03-30 02:18:03",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
