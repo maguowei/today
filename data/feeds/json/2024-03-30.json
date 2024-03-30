@@ -4771,5 +4771,406 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "雷军回复张颂文",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%A4%8D%E5%BC%A0%E9%A2%82%E6%96%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "纪凌尘 海澜之家",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BA%AA%E5%87%8C%E5%B0%98+%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "母女卖惨编造强迫相亲情节被罚",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%AF%8D%E5%A5%B3%E5%8D%96%E6%83%A8%E7%BC%96%E9%80%A0%E5%BC%BA%E8%BF%AB%E7%9B%B8%E4%BA%B2%E6%83%85%E8%8A%82%E8%A2%AB%E7%BD%9A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "杭州东站跳轨旅客伤情得到控制",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%B8%9C%E7%AB%99%E8%B7%B3%E8%BD%A8%E6%97%85%E5%AE%A2%E4%BC%A4%E6%83%85%E5%BE%97%E5%88%B0%E6%8E%A7%E5%88%B6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "这位00后老板的处事方式简单却细腻",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BD%8D00%E5%90%8E%E8%80%81%E6%9D%BF%E7%9A%84%E5%A4%84%E4%BA%8B%E6%96%B9%E5%BC%8F%E7%AE%80%E5%8D%95%E5%8D%B4%E7%BB%86%E8%85%BB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "非师范专业男生跟初中班主任实习",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9D%9E%E5%B8%88%E8%8C%83%E4%B8%93%E4%B8%9A%E7%94%B7%E7%94%9F%E8%B7%9F%E5%88%9D%E4%B8%AD%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%AE%9E%E4%B9%A0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "综艺 剧本",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BB%BC%E8%89%BA+%E5%89%A7%E6%9C%AC%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "蛋仔派对赞萌露比联动",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%9B%8B%E4%BB%94%E6%B4%BE%E5%AF%B9%E8%B5%9E%E8%90%8C%E9%9C%B2%E6%AF%94%E8%81%94%E5%8A%A8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "白鹿直拍",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E7%9B%B4%E6%8B%8D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "10万卖旧车到家才发现印着魔法银行",
+    "url": "https://s.weibo.com/weibo?q=%2310%E4%B8%87%E5%8D%96%E6%97%A7%E8%BD%A6%E5%88%B0%E5%AE%B6%E6%89%8D%E5%8F%91%E7%8E%B0%E5%8D%B0%E7%9D%80%E9%AD%94%E6%B3%95%E9%93%B6%E8%A1%8C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "免费的化妆品小样满是狠活",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%8D%E8%B4%B9%E7%9A%84%E5%8C%96%E5%A6%86%E5%93%81%E5%B0%8F%E6%A0%B7%E6%BB%A1%E6%98%AF%E7%8B%A0%E6%B4%BB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "AG对战LGD",
+    "url": "https://s.weibo.com/weibo?q=%23AG%E5%AF%B9%E6%88%98LGD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "杨紫工作室出图",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%87%BA%E5%9B%BE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "AG的控制链",
+    "url": "https://s.weibo.com/weibo?q=%23AG%E7%9A%84%E6%8E%A7%E5%88%B6%E9%93%BE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "父母瞒了我16年我不是他们亲生女儿",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E7%9E%92%E4%BA%86%E6%88%9116%E5%B9%B4%E6%88%91%E4%B8%8D%E6%98%AF%E4%BB%96%E4%BB%AC%E4%BA%B2%E7%94%9F%E5%A5%B3%E5%84%BF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "打台球和打麻将的都沉默了",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%89%93%E5%8F%B0%E7%90%83%E5%92%8C%E6%89%93%E9%BA%BB%E5%B0%86%E7%9A%84%E9%83%BD%E6%B2%89%E9%BB%98%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "肖战的舒适日常",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%9A%84%E8%88%92%E9%80%82%E6%97%A5%E5%B8%B8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "国航就航班颠簸致歉",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%88%AA%E5%B0%B1%E8%88%AA%E7%8F%AD%E9%A2%A0%E7%B0%B8%E8%87%B4%E6%AD%89%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "金价再度爆发",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%86%8D%E5%BA%A6%E7%88%86%E5%8F%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "山东专升本计算机",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%B8%93%E5%8D%87%E6%9C%AC%E8%AE%A1%E7%AE%97%E6%9C%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "家里这些常用物品或损害大脑",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%87%8C%E8%BF%99%E4%BA%9B%E5%B8%B8%E7%94%A8%E7%89%A9%E5%93%81%E6%88%96%E6%8D%9F%E5%AE%B3%E5%A4%A7%E8%84%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "3分钟了解自由泳学习要点",
+    "url": "https://s.weibo.com/weibo?q=%233%E5%88%86%E9%92%9F%E4%BA%86%E8%A7%A3%E8%87%AA%E7%94%B1%E6%B3%B3%E5%AD%A6%E4%B9%A0%E8%A6%81%E7%82%B9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "ACT复活赛",
+    "url": "https://s.weibo.com/weibo?q=%23ACT%E5%A4%8D%E6%B4%BB%E8%B5%9B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "对你来说，周末的工作聚餐或者团建是一种「放松」还是「加班」？为什么？",
+    "url": "https://www.zhihu.com/question/650760403",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么虚拟偶像已经进化到了第四代，而「初音未来」这种第一代虚拟偶像却依然拒绝做出任何改变？",
+    "url": "https://www.zhihu.com/question/650590689",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "有一说一，众泰和小米 SU7 的受众完全不同吧",
+    "url": "https://www.v2ex.com/t/1028298",
+    "summary": "yongliu: 看到很多把小米和众泰一起调侃的，买众泰的大多冲着它像保时捷，买小米 SU7 更多看的是价格、体验和外观的吧，它的好看是源自保时捷还是米时捷，那都是其次的。",
+    "publish_time": "2024-03-30 07:51:47",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "双卡， 5G， 小巧的安卓机外出当热点用",
+    "url": "https://www.v2ex.com/t/1028299",
+    "summary": "wobuhuicode: <p>如题，大家有什么好推荐的？</p>",
+    "publish_time": "2024-03-30 08:09:30",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "开年来约3500亿资金借道ETF进场，4只ETF均被爆买超500亿元",
+    "url": "https://www.36kr.com/newsflashes/2711838469191813",
+    "summary": "一季度，沪深两市股票型ETF、商品型ETF和跨境型ETF合计净流入约3494亿元。数据显示，今年一季度，有8只ETF获资金净流入超百亿元。其中，前四名均为跟踪沪深300指数的ETF，易方达沪深300ETF净流入超800亿元，嘉实、华泰柏瑞和华夏的沪深300ETF净流入额均超500亿元。从市场表现看，这4只ETF一季度累计涨幅近3%，合计净流入约2538亿元。紧随其后的是南方中证500ETF和华夏上证50ETF，一季度分别净流入295.46亿元和274.68亿元。（每日经济新闻）",
+    "publish_time": "2024-03-30 17:04:44",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "网易游戏发布清明节假期未成年人游戏限时通知",
+    "url": "https://www.36kr.com/newsflashes/2711840798930824",
+    "summary": "36氪获悉，3月30日，网易游戏发布关于清明节假期未成年人游戏限时的通知：未成年人可以在4月4日（清明节假期）、4月5-6日（星期五、星期六）当日20时至21时体验游戏，4月7日（星期日，工作日）无法体验游戏。",
+    "publish_time": "2024-03-30 17:07:06",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "智己汽车：无图城市NOA将于4月在深圳、广州、苏州开启公测",
+    "url": "https://www.36kr.com/newsflashes/2711842647586696",
+    "summary": "36氪获悉，智己汽车3月30日宣布，将在4月于深圳、广州、苏州开启 “无图城市NOA”公测，并已开启招募公测用户。按计划，今年年中，智己汽车将正式开启推送IM AD无图城市NOA。另外，IM AD无图高速高架NOA全国公测也将于4月展开。",
+    "publish_time": "2024-03-30 17:08:59",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "微软和OpenAI据悉计划投资1000亿美元建设数据中心项目",
+    "url": "https://www.36kr.com/newsflashes/2711859281868672",
+    "summary": "3月30日消息，微软、OpenAI正在为一个数据中心项目制定计划，该项目耗资可能高达1000亿美元，其中包括一台名为“星际之门”（Stargate）的人工智能超级计算机，将于2028年启动。（界面新闻）",
+    "publish_time": "2024-03-30 17:25:54",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "广西最大工商业屋顶光伏项目在蒙娜丽莎正式并网启用",
+    "url": "https://www.36kr.com/newsflashes/2711862471358592",
+    "summary": "3月30日，位于广西的蒙娜丽莎藤县生产基地的绿色改革再次迎来重要硕果。中国电力单体容量最大的工商业屋顶分布式光伏在蒙娜丽莎正式启用。这也是目前整个广西区域最大的工商业屋顶分布式光伏项目。据数据显示，蒙娜丽莎综合智慧能源项目总装机容量为85.34MWP。（新浪财经）",
+    "publish_time": "2024-03-30 17:29:09",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "供应链称苹果探索玻璃基板芯片封装技术",
+    "url": "https://www.36kr.com/newsflashes/2711863878088580",
+    "summary": "据供应链消息，苹果公司正积极与多家供应商商讨将玻璃基板技术应用于芯片开发。业界人士普遍认为，玻璃基板的应用将为芯片技术带来革命性的突破，并有望成为未来芯片发展的关键方向之一。（选股宝）",
+    "publish_time": "2024-03-30 17:30:35",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "华泰证券：低空经济的两大投资主线",
+    "url": "https://www.36kr.com/newsflashes/2711880749774979",
+    "summary": "华泰证券研报认为，3月27日，工信部等四部门印发《通用航空装备创新应用实施方案（2024-2030）》，通用航空装备成为低空经济增长的强大推动力，形成万亿级市场规模，或带动相关规划设计、基建及材料需求旺盛。华泰证券认为短期具备民航相关业务经验的设计院均可参与低空经济发展，核心竞争优势更多体现在区域壁垒；材料中碳纤维值得关注，产能扩张较快具备成本优势的碳纤维企业有望受益。（证券时报·e公司）",
+    "publish_time": "2024-03-30 17:47:45",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "临港首辆“网联化”公交上路",
+    "url": "https://www.36kr.com/newsflashes/2711894547920768",
+    "summary": "近日，在临港新片区智能网联云控平台一期样板路段，已完成“网联化”改造的浦东33路公交投入运营。这是临港投控集团数基建板块和公共交通板块联动的最新成果——在传统公交加装OBU（车载单元）。据悉，预计于今年五月，临港新片区将完成对60台传统公交的网联化改造，进一步提升公交车辆运行的安全性和平稳性，优化公交乘坐舒适度。（证券时报·e公司）",
+    "publish_time": "2024-03-30 18:01:47",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Missouri AG sues Media Matters over its X research, demands donor names",
+    "url": "https://arstechnica.com/tech-policy/2024/03/missouri-ag-sues-media-matters-in-lawsuit-echoing-elon-musks-complaints/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39873262\">Comments</a>",
+    "publish_time": "2024-03-30 17:35:05",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "TSMC was founded by Morris Chang when he was 55 years old",
+    "url": "https://www.wsj.com/tech/tsmc-morris-chang-taiwan-semiconductor-chips-entrepreneurship-506fcbc4",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39872540\">Comments</a>",
+    "publish_time": "2024-03-30 15:09:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Debian on xz-utils: revert to version that does not contain changes by bad actor",
+    "url": "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1068024",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39873011\">Comments</a>",
+    "publish_time": "2024-03-30 16:48:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "From scratch OpenGL and shaders with raw Xlib",
+    "url": "https://hereket.com/posts/x11_window_with_shaders/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39872848\">Comments</a>",
+    "publish_time": "2024-03-30 16:08:57",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Some notes on Firefox's media autoplay settings in practice as of Firefox 124",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/web/FirefoxMediaAutoplaySettingsIV",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39873169\">Comments</a>",
+    "publish_time": "2024-03-30 17:14:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Rustic UI: Crafting the Future of UX",
+    "url": "https://blog.dragonscale.ai/rustic-ui-crafting-the-future-of-ux/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39873037\">Comments</a>",
+    "publish_time": "2024-03-30 16:53:19",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
