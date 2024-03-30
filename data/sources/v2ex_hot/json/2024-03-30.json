@@ -9,5 +9,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "[安全警告] xz 和 liblzma 5.6.0~5.6.1 版本上游被植入后门，影响所有 x64 架构 Linux 和 macOS",
+    "url": "https://www.v2ex.com/t/1028288",
+    "summary": "baobao1270: <h2>影响范围</h2>\n<p>xz 和 liblzma 5.6.0~5.6.1 版本，可能包括的发行版 / 包管理系统有：</p>\n<ul>\n<li>Fedora 41 / Fedora Rawhide</li>\n<li>Debian Sid</li>\n<li>Alpine Edge</li>\n<li>x64 架构的 homebrew</li>\n<li>滚动更新的发行版，包括 Arch Linux / OpenSUSE Tumbleweed</li>\n</ul>\n<p>如果您的系统使用 systemd 启动 OpenSSH 服务器，您的 SSH 认证过程可能被攻击。</p>\n<p>非 x64 (amd64) 架构的系统不受影响。</p>\n<p>您可以在命令行输入</p>\n<pre><code class=\"language-shell\">xz --version\n</code></pre>\n<p>来检查 xz 版本，如果输出为 5.6.0 或 5.6.1 ，说明您的系统已被植入后门</p>\n<h2>缓解措施</h2>\n<p>降级到 5.4.6 版本，或者更新到 5.6.4 版本</p>\n<h2>技术细节</h2>\n<p>攻击者污染了上游 Git 仓库的 build-to-host.m4 构建脚本和测试用例，在编译期间向 liblzma 注入攻击代码。</p>\n<p>部分发行版的 OpenSSH Server 链接到 libsystemd ，而 libsystemd 依赖 liblzma 。因此您的 sshd 会执行被植入后门的代码。</p>\n<p>该后门首先在 sshd 启动时替换 <code>crc32_resolve()</code> 和 <code>crc64_resolve</code>，然后试图从内存中解析符号表，并查找 <code>RSA_public_decrypt@....plt</code> 符号，并将其指向的地址替换为后门代码。</p>\n<p>在 SSH 登录认证时，sshd 会调用该符号，并在服务器上执行攻击代码。但是其具体行为尚未被观测。</p>\n<h2>相关链接</h2>\n<ul>\n<li><a href=\"https://xeiaso.net/notes/2024/xz-vuln/\" rel=\"nofollow\">liblzma and xz version 5.6.0 and 5.6.1 are vulnerable to arbitrary code execution compromise</a></li>\n<li>此漏洞的 CVE 编号：<a href=\"https://nvd.nist.gov/vuln/detail/CVE-2024-3094\" rel=\"nofollow\">CVE-2024-3094</a></li>\n<li><a href=\"https://www.redhat.com/en/blog/urgent-security-alert-fedora-41-and-rawhide-users\" rel=\"nofollow\">RedHat 发布的安全通告</a></li>\n<li><a href=\"https://www.openwall.com/lists/oss-security/2024/03/29/4\" rel=\"nofollow\">OpenWall 上的技术细节</a></li>\n</ul>",
+    "publish_time": "2024-03-30 03:08:11",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "求推荐一个慢充渠道",
+    "url": "https://www.v2ex.com/t/1028309",
+    "summary": "crocoBaby: <p>类似那种充 80 得 100 的</p>",
+    "publish_time": "2024-03-30 09:27:24",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "去修电脑，电脑维修人员干过前端",
+    "url": "https://www.v2ex.com/t/1028319",
+    "summary": "xiaozhu317: <p>本人大四实习生，昨天去给笔记本装新的风扇和内存条(用了四年了，过了保修)， 百度地图随便找了一家修电脑的门店，到店后闲聊几句，电脑维修人员他问我什么专业的，我说计算机，他说我也计算机，他问我现在前端用什么，我说什么 vue react 啥的，他给我来了一句，当时我们用的什么 ajax jQuery ，我沉默不语，然后最搞笑的来了，他手机响了: “美团外卖，您有新的订单”。</p>\n<p>我当时有点想笑，我也不知道为啥，可能就是单纯的被逗笑了。</p>\n<p>然后我买的内存条不合适（我本身的电脑的两个 8G 的槽）, 我只买了一个 16G 的，我换的话只能是 16 + 8 = 24 ，可能会损失一些性能之类的，这时他又来了一句:  \"你们计算机组成原理应该学过这个，我其实不怎么建议你换，当然你如果开虚拟机跑服务的话，应该也没事的\"， 我说我多开几个软件，跑一个小的微服务项目内存都有点吃紧，他说那还行，就这样吧，装上也可以用。</p>\n<p>这个时候我其实已经是笑不出来了，我在想，这会不会是十年后的我，平时组装个电脑，修个电脑，跑个外卖，跑个滴滴。</p>\n<p>骑着小街车回公司的时候，一直在想这件事，说实话，，这次交流就好像是一次跨时空对话一样，多少给了我一点冲击。我相信如果是各位经历这样的事情，也会有一些触动的。</p>",
+    "publish_time": "2024-03-30 10:46:47",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
