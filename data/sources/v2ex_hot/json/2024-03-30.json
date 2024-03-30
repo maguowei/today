@@ -64,5 +64,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "求助！ Win11 上如何安装 wsl",
+    "url": "https://www.v2ex.com/t/1028402",
+    "summary": "markbang35: <p>因为想在本地电脑上联系 docker ，于是就安装了 docker desktop ，但是打开的时候就会弹出命令行提示安装 wsl ，而且打开 vscode 也会跳出终端界面，不知道为什么\n<img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/J3U1sHA.png\" /></p>\n<p>然后安装后就一直跳灾难性故障\n<img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/R4vRNVu.png\" /></p>\n<p>这是我 Windows 打开的功能：\n<img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/DpCRrAz.png\" />\n请问大佬们如何解决上述情况？</p>",
+    "publish_time": "2024-03-30 16:55:55",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
