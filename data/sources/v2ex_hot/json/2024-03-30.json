@@ -1,0 +1,13 @@
+[
+  {
+    "title": "xz/liblzma v5.6.0/5.6.1 被植入了以 sshd 为目标的后门",
+    "url": "https://www.v2ex.com/t/1028287",
+    "summary": "Death: <p>Backdoor in upstream xz/liblzma leading to SSH server compromise</p>\n<p>原文 <a href=\"https://www.openwall.com/lists/oss-security/2024/03/29/4\" rel=\"nofollow\">https://www.openwall.com/lists/oss-security/2024/03/29/4</a></p>\n<p>HN: <a href=\"https://news.ycombinator.com/item?id=39865810\" rel=\"nofollow\">https://news.ycombinator.com/item?id=39865810</a></p>\n<p>简单来说是 liblzma5 的上游 repo 被植入了后门：</p>\n<ul>\n<li><a href=\"https://github.com/tukaani-project/xz/commit/cf44e4b7f5dfdbf8c78aef377c10f71e274f63c0\" rel=\"nofollow\">https://github.com/tukaani-project/xz/commit/cf44e4b7f5dfdbf8c78aef377c10f71e274f63c0</a></li>\n<li><a href=\"https://github.com/tukaani-project/xz/commit/e5faaebbcf02ea880cfc56edc702d4f7298788ad\" rel=\"nofollow\">https://github.com/tukaani-project/xz/commit/e5faaebbcf02ea880cfc56edc702d4f7298788ad</a></li>\n<li><a href=\"https://github.com/tukaani-project/xz/commit/72d2933bfae514e0dbb123488e9f1eb7cf64175f\" rel=\"nofollow\">https://github.com/tukaani-project/xz/commit/72d2933bfae514e0dbb123488e9f1eb7cf64175f</a></li>\n<li><a href=\"https://github.com/tukaani-project/xz/commit/82ecc538193b380a21622aea02b0ba078e7ade92\" rel=\"nofollow\">https://github.com/tukaani-project/xz/commit/82ecc538193b380a21622aea02b0ba078e7ade92</a></li>\n<li><a href=\"https://github.com/tukaani-project/xz/commit/6e636819e8f070330d835fce46289a3ff72a7b89\" rel=\"nofollow\">https://github.com/tukaani-project/xz/commit/6e636819e8f070330d835fce46289a3ff72a7b89</a></li>\n</ul>\n<p>满足以下条件才会受到影响：</p>\n<ul>\n<li>liblzma5 v5.6.0/5.6.1</li>\n<li>A debian or RPM based distro of Linux on x86_64</li>\n<li>Running OpenSSH sshd from systemd</li>\n</ul>\n<p>用以下脚本（ author: Vegard Nossum; source: <a href=\"https://www.openwall.com/lists/oss-security/2024/03/29/4/3\" rel=\"nofollow\">https://www.openwall.com/lists/oss-security/2024/03/29/4/3</a> ）亦可检测是否受到影响：</p>\n<pre><code>#! /bin/bash\n\nset -eu\n\n# find path to liblzma used by sshd\npath=\"$(ldd $(which sshd) | grep liblzma | grep -o '/[^ ]*')\"\n\n# does it even exist?\nif [ \"$path\" == \"\" ]\nthen\n\techo probably not vulnerable\n\texit\nfi\n\n# check for function signature\nif hexdump -ve '1/1 \"%.2x\"' \"$path\" | grep -q f30f1efa554889f54c89ce5389fb81e7000000804883ec28488954241848894c2410\nthen\n\techo probably vulnerable\nelse\n\techo probably not vulnerable\nfi\n</code></pre>",
+    "publish_time": "2024-03-30 02:57:11",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  }
+]
