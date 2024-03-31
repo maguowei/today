@@ -42,5 +42,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "为了眼睛，有什么软件可以口读公众号文章的？",
+    "url": "https://www.v2ex.com/t/1028497",
+    "summary": "James369: 天天看手机，眼睛很干涩，想通过听书的方式进行阅读。<br /><br />平常收藏了很多公众号文章，都是比较有深度的，有办法听这些文章吗？这样子走到哪听到哪，很方便",
+    "publish_time": "2024-03-31 09:29:15",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "[讨论] 如何减少 Xz Backdoor 类似问题的发生",
+    "url": "https://www.v2ex.com/t/1028563",
+    "summary": "xinbaoCode: <p>不知道大家有没有看过这篇帖子关于 xz 被恶意开发者注入，导致 linux 发行版有漏洞，可 ssh 连接用户服务器？🐶\n<a href=\"https://boehs.org/node/everything-i-know-about-the-xz-backdoor\" rel=\"nofollow\">https://boehs.org/node/everything-i-know-about-the-xz-backdoor</a></p>\n<p>今天早上思考了一上午这种 xz 开发者恶意投毒的问题如何解决🤔，目前想到一个方案，去中心化存储，下载别人的发布的系统(例如 linux)需要支付一笔 gas(包含保险费)费，如果有恶意投毒，那么可以要到赔偿，我们将所有知名的项目都开发一条链，允许他们发一些 NFT 等，从而可以赔偿。🐶</p>\n<p>这些链的的合约有保险触发机制，当大家投票都认为这个项目是恶意的，那么会自动触发这个项目不停生成 NFT 直到赔偿所有用户的损失，虽然这会导致这个项目的贬值，这样就达到了对开发者约束的目的，从而让他们不得不非常谨慎 review 代码🤔，因为这次 xz 攻击，攻击者看项目方去度假了，以及测试时间不充分。🤔</p>\n<p>大家觉得如何？🤔</p>",
+    "publish_time": "2024-03-31 17:56:48",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
