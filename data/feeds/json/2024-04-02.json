@@ -1213,5 +1213,65 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "周也头像",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B9%9F%E5%A4%B4%E5%83%8F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "奥本海默日本上映观众情绪复杂",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98%E6%97%A5%E6%9C%AC%E4%B8%8A%E6%98%A0%E8%A7%82%E4%BC%97%E6%83%85%E7%BB%AA%E5%A4%8D%E6%9D%82%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "花间令有第二季吗",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8A%B1%E9%97%B4%E4%BB%A4%E6%9C%89%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%90%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Terraform Industries converts electricity and air into synthetic natural gas",
+    "url": "https://techcrunch.com/2024/04/01/terraform-industries-converted-electricity-and-air-into-synthetic-natural-gas/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39896560\">Comments</a>",
+    "publish_time": "2024-04-02 01:22:37",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Good information still pollutes the epistemic ecosystem",
+    "url": "https://ronghosh.substack.com/p/good-information-still-pollutes-the",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39897233\">Comments</a>",
+    "publish_time": "2024-04-02 02:13:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Book Review: \"Tidy First?\" By Kent Beck",
+    "url": "https://www.pathsensitive.com/2024/04/book-review-tidy-first.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39897594\">Comments</a>",
+    "publish_time": "2024-04-02 02:42:57",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
