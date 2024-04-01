@@ -97,5 +97,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "为什么用 telegram 的人这么多",
+    "url": "https://www.v2ex.com/t/1028778",
+    "summary": "t41372: <p>大部分乱七八糟的频道都是在 telegram 上的，而且其中包括不少灰色产业，国内外都是。</p>\n<p>但 telegram 并... 不安全啊。正常的 telegram 频道并不是端到端加密的，只有 secret chat 才是，所以 telegram 可以读取一般频道中的聊天信息的。v2 上面也有不少人说过自己 telegram 账号被封锁或是群被封锁，而且 telegram 也曾经把用户数据提供给政府调查部门过。telegram 也会记录你的 ip 地址，手机号，手机上的联络人信息等等。</p>\n<p>如果只是用于 100%合规，符合地方法律的交流，那倒是没什么问题。但感觉很多人似乎假定 telegram 是一个很安全且隐私的聊天软件，却没有意识到 telegram 的隐私是仅作用于 secret chat 功能的，并将其使用于一些不可描述的用途上。</p>\n<p>与之相对的，比 telegram 更安全的那些使用区块链的如 session ，或是全程端到端加密还有 FBI 调查失败记录的 signal ，在中文互联网上似乎无人问津</p>",
+    "publish_time": "2024-04-01 13:59:15",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
