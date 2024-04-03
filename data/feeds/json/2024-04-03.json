@@ -3447,5 +3447,456 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "福州辟谣福飞路核辐射超标",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B7%9E%E8%BE%9F%E8%B0%A3%E7%A6%8F%E9%A3%9E%E8%B7%AF%E6%A0%B8%E8%BE%90%E5%B0%84%E8%B6%85%E6%A0%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "高铁晚点",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E6%99%9A%E7%82%B9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "雷军给小米车主开车门",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E7%BB%99%E5%B0%8F%E7%B1%B3%E8%BD%A6%E4%B8%BB%E5%BC%80%E8%BD%A6%E9%97%A8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "韩国民众冒雨排队送别福宝",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%B0%91%E4%BC%97%E5%86%92%E9%9B%A8%E6%8E%92%E9%98%9F%E9%80%81%E5%88%AB%E7%A6%8F%E5%AE%9D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "刘若英报平安",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E8%8B%A5%E8%8B%B1%E6%8A%A5%E5%B9%B3%E5%AE%89%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "高铁停运",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E5%81%9C%E8%BF%90%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "狗狗为什么喜欢嘬嘬嘬的声音",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E4%B8%BA%E4%BB%80%E4%B9%88%E5%96%9C%E6%AC%A2%E5%98%AC%E5%98%AC%E5%98%AC%E7%9A%84%E5%A3%B0%E9%9F%B3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "爱不爱喝水身体有啥区别",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E4%B8%8D%E7%88%B1%E5%96%9D%E6%B0%B4%E8%BA%AB%E4%BD%93%E6%9C%89%E5%95%A5%E5%8C%BA%E5%88%AB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "上海女婿阿福宣布离婚",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%A5%B3%E5%A9%BF%E9%98%BF%E7%A6%8F%E5%AE%A3%E5%B8%83%E7%A6%BB%E5%A9%9A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "台湾一豪宅顶楼游泳池变瀑布",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E4%B8%80%E8%B1%AA%E5%AE%85%E9%A1%B6%E6%A5%BC%E6%B8%B8%E6%B3%B3%E6%B1%A0%E5%8F%98%E7%80%91%E5%B8%83%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "金价",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "国台办回应台湾地震",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E5%8F%B0%E6%B9%BE%E5%9C%B0%E9%9C%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "台湾花莲地震现场画面",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E8%8A%B1%E8%8E%B2%E5%9C%B0%E9%9C%87%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "雷军宣布小米SU7锁单量超4万",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%AE%A3%E5%B8%83%E5%B0%8F%E7%B1%B3SU7%E9%94%81%E5%8D%95%E9%87%8F%E8%B6%854%E4%B8%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "台湾已发生10次地震",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%B7%B2%E5%8F%91%E7%94%9F10%E6%AC%A1%E5%9C%B0%E9%9C%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "赵奕欢36岁身材管理",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%A5%95%E6%AC%A236%E5%B2%81%E8%BA%AB%E6%9D%90%E7%AE%A1%E7%90%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "A股",
+    "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "沈璃 三个字让上古神破防一整天",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B2%88%E7%92%83+%E4%B8%89%E4%B8%AA%E5%AD%97%E8%AE%A9%E4%B8%8A%E5%8F%A4%E7%A5%9E%E7%A0%B4%E9%98%B2%E4%B8%80%E6%95%B4%E5%A4%A9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Girlsday时期的李惠利",
+    "url": "https://s.weibo.com/weibo?q=%23Girlsday%E6%97%B6%E6%9C%9F%E7%9A%84%E6%9D%8E%E6%83%A0%E5%88%A9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "你想活出怎样的人生今日上映",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%83%B3%E6%B4%BB%E5%87%BA%E6%80%8E%E6%A0%B7%E7%9A%84%E4%BA%BA%E7%94%9F%E4%BB%8A%E6%97%A5%E4%B8%8A%E6%98%A0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "全球资金正在加速回流中国",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E8%B5%84%E9%87%91%E6%AD%A3%E5%9C%A8%E5%8A%A0%E9%80%9F%E5%9B%9E%E6%B5%81%E4%B8%AD%E5%9B%BD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "为什么一些大学生关系越来越冷漠",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%80%E4%BA%9B%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%85%B3%E7%B3%BB%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%86%B7%E6%BC%A0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如果《三体》拍了电影，谁适合饰演庄颜这个角色？",
+    "url": "https://www.zhihu.com/question/314658553",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何看待「二线城市房子降50万，挂一年仍未卖出去」？",
+    "url": "https://www.zhihu.com/question/651286077",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "23-24 赛季 NBA湖人 128:111 猛龙，如何评价这场比赛？",
+    "url": "https://www.zhihu.com/question/651430621",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何判断候选人有没有千卡GPU集群的训练经验？",
+    "url": "https://www.zhihu.com/question/650979052",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "建不建议买沃尔沃XC60？为什么？",
+    "url": "https://www.zhihu.com/question/371119557",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "胖东来为什么没有走出河南？",
+    "url": "https://www.zhihu.com/question/650600453",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "《英雄联盟》联赛 BO5 赛制是否时间太长而影响选手的身体健康？",
+    "url": "https://www.zhihu.com/question/651243604",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "有没有朋友圈日常简短文案？",
+    "url": "https://www.zhihu.com/question/476906799",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "你会选择「封闭式阳台」多一个家政空间，还是「开放式阳台」圆一个做田园梦？",
+    "url": "https://www.zhihu.com/question/647385548",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "万科回应郁亮操控万科谋取私利指控，「内容严重失实，公司会采取法律行动维护合法权益」，哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/651293377",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何看待年轻人「假装养娃」存钱的现象？为什么越来越多人认为「养儿防老」不如买养老保险靠谱？",
+    "url": "https://www.zhihu.com/question/651363783",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "创业板指跌超1%，下跌个股近4000只",
+    "url": "https://www.36kr.com/newsflashes/2717095225194371",
+    "summary": "36氪获悉，指数走弱，截至发稿，创业板指下挫跌超1%，沪指跌0.27%，深成指跌0.66%；小米汽车、低空经济、算力、泛AI等方向跌幅居前，沪深京三市下跌个股近4000只。",
+    "publish_time": "2024-04-03 10:12:11",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "段永平：对贵州茅台一股未卖",
+    "url": "https://www.36kr.com/newsflashes/2717100968032390",
+    "summary": "昨晚茅台年报公布后，有市场猜测，段永平方面已减持茅台股票。今日早间，段永平在社交平台上称：“贵州茅台，我们一股没卖。”茅台年报显示，两家私募——金汇荣盛三号和瑞丰汇邦三号均在23Q4减持部分茅台股票，而这两家私募均被认为与段永平存在关联。（财联社）",
+    "publish_time": "2024-04-03 10:18:02",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "稀土永磁概念股震荡拉升，中国稀土涨停",
+    "url": "https://www.36kr.com/newsflashes/2717102225012612",
+    "summary": "36氪获悉，截至发稿，稀土永磁概念股震荡拉升，中国稀土涨停，中科磁业、广晟有色、北方稀土、厦门钨业、银河磁体等涨超5%。",
+    "publish_time": "2024-04-03 10:19:18",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "小米SU7开启全国首批交付，雷军亲手向首批车主交车",
+    "url": "https://www.36kr.com/newsflashes/2717107273922696",
+    "summary": "36氪获悉，4月3日上午，小米SU7首批交付仪式在北京亦庄的小米汽车工厂总装车间举行。小米集团创始人、董事长兼CEO雷军出席仪式，亲手向首批车主交车，全国28城交付中心也同步开启首批交付。雷军在交付仪式上表示，小米SU7开售短短几天时间，就有了超过10万人大定，锁单量已经超过4万单。",
+    "publish_time": "2024-04-03 10:24:27",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "“敏舒科技”获数百万元天使+轮融资",
+    "url": "https://www.36kr.com/newsflashes/2717102996256900",
+    "summary": "36氪获悉，近日北京敏舒科技有限责任公司宣布完成数百万元天使+轮融资，投资方为跨境电商深圳市亚声威格科技有限公司。本轮融资资金将用于产品研发和医疗认证。据介绍，敏舒科技是一家专注于研发缓解过敏性鼻炎症状的相关产品，为患者提供过敏预防服务的科技企业。",
+    "publish_time": "2024-04-03 10:26:07",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "汽车拆解概念震荡拉升，浩通科技涨超10%",
+    "url": "https://www.36kr.com/newsflashes/2717109254174599",
+    "summary": "36氪获悉，截至发稿，汽车拆解概念震荡拉升，浩通科技、超越科技涨超10%，怡球资源、格林美、华宏科技等跟涨。",
+    "publish_time": "2024-04-03 10:26:27",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "台积电：部分厂区进行疏散，预计对公司第二季财测影响约6000万美元",
+    "url": "https://www.36kr.com/newsflashes/2717120295958403",
+    "summary": "据台媒消息，台积电表示，为确保人员安全，依公司内部程序部分厂区已进行疏散，工安系统正常；详细情况目前尚待确认。台积电厂房目前部分石英管材破裂，在线晶圆有部分毁损，部分机台已暂停运转做停机检查，避免偏移。依现况预估，将影响工作时数在6个小时以内，对台积电第二季财报预测的影响约6000万美金，整体影响有限。（界面）",
+    "publish_time": "2024-04-03 10:37:41",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "圆信永丰基金“一姐”范妍确认离职，卸任全部在管产品",
+    "url": "https://www.36kr.com/newsflashes/2717123033954184",
+    "summary": "圆信永丰基金今日公告，公司副总经理兼首席投资官范妍卸任8只基金（AC份额合并计算）。就在3月初，市场传出，因与新任总经理高健在公司规模扩张上产生分歧，范妍或将离职。此次全部在管产品在一天之内卸任，也意味着此前的离职传言靴子落地。（财联社）",
+    "publish_time": "2024-04-03 10:40:28",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "存储芯片板块探底回升，大为股份直线涨停",
+    "url": "https://www.36kr.com/newsflashes/2717129921083264",
+    "summary": "36氪获悉，截至发稿，存储芯片板块探底回升，大为股份直线涨停，江波龙大涨8%，恒烁股份、佰维存储、普冉股份等快速跟涨。",
+    "publish_time": "2024-04-03 10:47:29",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "恒生指数跌幅扩大至1%，小米集团跌近4%",
+    "url": "https://www.36kr.com/newsflashes/2717134492776320",
+    "summary": "36氪获悉，恒生指数跌幅扩大至1%，中信股份跌超5%，小米集团跌近4%领跌成分股；恒生科技指数跌1.5%。",
+    "publish_time": "2024-04-03 10:52:08",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "A Brazilian special-forces unit fighting to save the Amazon",
+    "url": "https://www.newyorker.com/magazine/2024/04/08/the-brazilian-special-forces-unit-fighting-to-save-the-amazon",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39910383\">Comments</a>",
+    "publish_time": "2024-04-03 04:14:14",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Threat of Discontinued Software (2021)",
+    "url": "https://almy.us/softwaredeath.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39912771\">Comments</a>",
+    "publish_time": "2024-04-03 09:42:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Science fiction and the death of the sun",
+    "url": "https://www.typebarmagazine.com/2024/03/24/science-fiction-and-the-death-of-the-sun/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39911155\">Comments</a>",
+    "publish_time": "2024-04-03 05:39:49",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Choose your weapon: Survival strategies for depressed AI academics",
+    "url": "https://ar5iv.labs.arxiv.org/html/2304.06035",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39912597\">Comments</a>",
+    "publish_time": "2024-04-03 09:07:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
