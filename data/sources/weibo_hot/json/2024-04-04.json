@@ -610,5 +610,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "韩剧最强85生",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%89%A7%E6%9C%80%E5%BC%BA85%E7%94%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "台北捷运高铁全线暂停营运",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%8C%97%E6%8D%B7%E8%BF%90%E9%AB%98%E9%93%81%E5%85%A8%E7%BA%BF%E6%9A%82%E5%81%9C%E8%90%A5%E8%BF%90%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
