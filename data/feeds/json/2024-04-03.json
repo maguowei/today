@@ -5576,5 +5576,558 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "辛者库幼儿园",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%80%85%E5%BA%93%E5%B9%BC%E5%84%BF%E5%9B%AD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "胃癌就是这么一口一口吃出来的",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%83%83%E7%99%8C%E5%B0%B1%E6%98%AF%E8%BF%99%E4%B9%88%E4%B8%80%E5%8F%A3%E4%B8%80%E5%8F%A3%E5%90%83%E5%87%BA%E6%9D%A5%E7%9A%84%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "今日辟谣",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%97%A5%E8%BE%9F%E8%B0%A3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "台湾花莲地震已致7人死亡",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E8%8A%B1%E8%8E%B2%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B47%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "有个不扫兴的家人多么幸福",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%B8%AA%E4%B8%8D%E6%89%AB%E5%85%B4%E7%9A%84%E5%AE%B6%E4%BA%BA%E5%A4%9A%E4%B9%88%E5%B9%B8%E7%A6%8F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "外交部欢迎福宝回国",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E6%AC%A2%E8%BF%8E%E7%A6%8F%E5%AE%9D%E5%9B%9E%E5%9B%BD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "杭州东站",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%B8%9C%E7%AB%99%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "生理性排斥要不要继续",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%9F%E7%90%86%E6%80%A7%E6%8E%92%E6%96%A5%E8%A6%81%E4%B8%8D%E8%A6%81%E7%BB%A7%E7%BB%AD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "福宝已登机准备起飞回国",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%AE%9D%E5%B7%B2%E7%99%BB%E6%9C%BA%E5%87%86%E5%A4%87%E8%B5%B7%E9%A3%9E%E5%9B%9E%E5%9B%BD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "陈巧葳王震牵手",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B7%A7%E8%91%B3%E7%8E%8B%E9%9C%87%E7%89%B5%E6%89%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "陈乔恩明道二搭 王子变仇家",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B9%94%E6%81%A9%E6%98%8E%E9%81%93%E4%BA%8C%E6%90%AD+%E7%8E%8B%E5%AD%90%E5%8F%98%E4%BB%87%E5%AE%B6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "颜如晶宣布减肥",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%A2%9C%E5%A6%82%E6%99%B6%E5%AE%A3%E5%B8%83%E5%87%8F%E8%82%A5%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "杨紫 声线比戏路还百变",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB+%E5%A3%B0%E7%BA%BF%E6%AF%94%E6%88%8F%E8%B7%AF%E8%BF%98%E7%99%BE%E5%8F%98%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "徐正溪发文告别烈焰",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%AD%A3%E6%BA%AA%E5%8F%91%E6%96%87%E5%91%8A%E5%88%AB%E7%83%88%E7%84%B0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "白鹿进组新戏",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E8%BF%9B%E7%BB%84%E6%96%B0%E6%88%8F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "小米汽车试驾者驾龄需达2年",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E8%AF%95%E9%A9%BE%E8%80%85%E9%A9%BE%E9%BE%84%E9%9C%80%E8%BE%BE2%E5%B9%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "vivoXFold3轻薄得不像折叠屏",
+    "url": "https://s.weibo.com/weibo?q=%23vivoXFold3%E8%BD%BB%E8%96%84%E5%BE%97%E4%B8%8D%E5%83%8F%E6%8A%98%E5%8F%A0%E5%B1%8F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "凤凰传奇加场",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E5%8A%A0%E5%9C%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "TheShy回应夏季赛复出",
+    "url": "https://s.weibo.com/weibo?q=%23TheShy%E5%9B%9E%E5%BA%94%E5%A4%8F%E5%AD%A3%E8%B5%9B%E5%A4%8D%E5%87%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "中产三件套",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BA%A7%E4%B8%89%E4%BB%B6%E5%A5%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "花间令谁是一",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8A%B1%E9%97%B4%E4%BB%A4%E8%B0%81%E6%98%AF%E4%B8%80%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "为什么England可以翻译为英格兰 而Spain不翻译为斯班?",
+    "url": "https://www.zhihu.com/question/573876392",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "你们的相册里是否有一张充满遗憾的照片？",
+    "url": "https://www.zhihu.com/question/613667078",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "steam抽成百分之30是不是太高了，游戏厂商意见大吗？",
+    "url": "https://www.zhihu.com/question/522861457",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价《英雄联盟》的极地大乱斗模式？",
+    "url": "https://www.zhihu.com/question/639573105",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "江西通报「提灯定损」事件，存在违建，郭某因故意伤害被拘留，退还赔偿金，子女尚未工作，哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/651459720",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么诗经卷耳中丈夫是贵族，而妻子还要去采苍耳？",
+    "url": "https://www.zhihu.com/question/412045360",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "可以分享一张你相册中的照片吗？",
+    "url": "https://www.zhihu.com/question/617746009",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "当AI成为世界移动通信大会的焦点，云服务商需要构建怎样的数字化能力来加速其发展？",
+    "url": "https://www.zhihu.com/question/651187917",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "你最绝望的一瞬间在什么时候？",
+    "url": "https://www.zhihu.com/question/649674667",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "大学里一个人坐一排会觉得尴尬吗？",
+    "url": "https://www.zhihu.com/question/647825634",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "清明节气应该怎样养生补身？",
+    "url": "https://www.zhihu.com/question/651449253",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "日常生活中，买手环还是智能手表？",
+    "url": "https://www.zhihu.com/question/649154577",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "动漫《神奇宝贝》中哪个神奇宝贝的进化条件最困难？",
+    "url": "https://www.zhihu.com/question/559215492",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "台湾花莲地震已致 7 人死亡 711 人受伤，目前当地情况如何？哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/651479772",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美媒报道「巴方至少逮捕 12 人，涉嫌参与导致 5 名中国公民死亡的恐怖袭击」，哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/651405414",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "清明节前AI「复活亲人」平台搜索量暴增，AI情感疗愈是否会成全新趋势？",
+    "url": "https://www.zhihu.com/question/651457769",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "发一波福利，手慢无哦",
+    "url": "https://www.v2ex.com/t/1029344",
+    "summary": "shermie: <h3>废话不说，最近在学习抖音电商，亏钱上了一波纸巾福利品，兄弟们需要的可以直接白嫖，手慢无。</h3>\n<h3>在线地址： <a href=\"https://sora.it9g.com/\" rel=\"nofollow\">https://sora.it9g.com</a></h3>",
+    "publish_time": "2024-04-03 09:38:09",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "你们的宽带多少钱办的 什么套餐有推荐吗",
+    "url": "https://www.v2ex.com/t/1029360",
+    "summary": "gzldc: <p>op 是图便宜买了两年的移动宽带 300 多\n用了一年多了最近觉得实在是离谱，网络问题深受其扰\n遂决心更换宽带，大家有推荐的吗\n不想再要移动了，联通和电信都可以</p>",
+    "publish_time": "2024-04-03 10:22:56",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "2024 年 4 月， macOS 上最好用的浏览器是什么？",
+    "url": "https://www.v2ex.com/t/1029361",
+    "summary": "Pig930: 最近经常在换不同的浏览器用，所以想调查一下 V 友都在用什么浏览器",
+    "publish_time": "2024-04-03 10:26:27",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "并夕夕百亿补贴的部分商品，我已实锤是某东退货在并夕夕二次销售",
+    "url": "https://www.v2ex.com/t/1029380",
+    "summary": "lxyv: <p>先叠个盾，贪小便宜确实是我的问题。\n最近在并夕夕买了个小米全智能门锁 pro ，大概比某东自营便宜三百块，商家宣称正品全新。到手后约了小米师傅上门安装，装完之后发现已经被别人账号绑定过，且被设置了管理密码。尝试重置时也提示要输管理密码。网上查了下，也咨询了小米售后，这款门锁如果不知道管理密码且连不上米家 APP ，就完全没办法重置，只能当机械锁用钥匙开门。商家知道我的收货具体地址加门牌号，如果他们知道管理密码，完全可以上门把我家门打开，这也许是我的被害妄想症，但保险起见我把锁的电池全拆了，现在只用钥匙开门。\n再说说我是怎么实锤的，经过小米客服查询 SN ，此门锁第一次销售是在某东平台，销售时间是 2023.6.7 06:58:12 ，再加上这个锁已经绑定过他人账号，基本可以确定是被人用过的。\n目前已在各投诉渠道发起投诉，要求商家三倍赔偿。《中华人民共和国消费者权益保护法》第五十五条　经营者提供商品或者服务有欺诈行为的，应当按照消费者的要求增加赔偿其受到的损失，增加赔偿的金额为消费者购买商品的价款或者接受服务的费用的三倍;增加赔偿的金额不足五百元的，为五百元。\n请各位引以为戒。</p>",
+    "publish_time": "2024-04-03 10:58:59",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "A股三大指数集体收跌，周期股持续走强",
+    "url": "https://www.36kr.com/newsflashes/2717380534024329",
+    "summary": "36氪获悉，A股三大指数集体收跌，沪指跌0.18%，深成指跌0.44%，创业板指跌1.08%。周期股走强，基本金属、油气、煤炭、黄金板块涨幅居前，神火股份、章源钨业、北方铜业等多股涨停。小米汽车、Kimi、CPO、短剧游戏概念走低。全市场超3400只个股下跌，北向资金净流出22.75亿元。",
+    "publish_time": "2024-04-03 15:02:25",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "广州启动全国首个城中村改造立法：保障村民利益，突出城中村改造公益性",
+    "url": "https://www.36kr.com/newsflashes/2717382952040576",
+    "summary": "3月29日，《广州市城中村改造条例》获广东省人大常委会批准，成为全国首个专门针对城中村改造出台的地方性法规条例。这一条例将在城中村改造中的保障村民利益、统一征收补偿标准、突出城中村改造公益性等方面破局。此次条例明确了城中村改造资金来源涵盖中央预算内资金、地方财政资金、政府专项债券、政策性银行资金、商业银行资金、社会资金等多种渠道，也提到了鼓励银行等金融机构创新，以支持城中村改造工作的进行。（中国房地产报）",
+    "publish_time": "2024-04-03 15:04:53",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "京东方A：今年柔性AMOLED产品出货量预计增长30%以上",
+    "url": "https://www.36kr.com/newsflashes/2717401518438532",
+    "summary": "36氪获悉，京东方A接受投资者调研时表示，2023年京东方柔性AMOLED产品收入占显示器件收入的比重为25%，年度柔性AMOLED出货量近1.2亿片，同比大幅提升，成熟产线盈利能力同比改善明显，今年公司AMOLED产品目标相较去年将持续增长，预计增幅30%以上，并不断提升高端应用和品牌客户占比，总出货量1.6亿片以上。",
+    "publish_time": "2024-04-03 15:23:46",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "小米面向员工推出优惠购车，贷款年化费率可低至1.6%",
+    "url": "https://www.36kr.com/newsflashes/2717405689804676",
+    "summary": "小米近日向内部员工发送福利政策称，小米正式员工购买小米SU7可专享分期优惠活动。通知显示，2024年3月28日-6月30日期间，小米集团正式员工购买小米SU7并办理汽车分期，可享受银行分期优惠费率，年化费率低至1.6%，首付15%起，最长60期。（新浪科技）",
+    "publish_time": "2024-04-03 15:28:00",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "京东方：年销售收入0.5%用于人工智能领域",
+    "url": "https://www.36kr.com/newsflashes/2717406301403016",
+    "summary": "36氪获悉，京东方接受投资者调研时表示，京东方一直高度关注人工智能领域成就并联动内部相关组织推动人工智能的发展在京东方的实践应用。目前，京东方已成立AI创新应用领导小组和执行小组，同时拿出年度销售收入的0.5%（去年营收1745亿元），专门负责推动人工智能在各业务版块的实践落地，主要围绕提高制造过程中的执行效率、智能制造工艺、良率提升、数字化管理、更聪明的屏，目前来看效果明显。",
+    "publish_time": "2024-04-03 15:28:38",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "国家气候中心：今夏可能进入拉尼娜状态，向我国内陆输送水汽条件总体较好",
+    "url": "https://www.36kr.com/newsflashes/2717412190009477",
+    "summary": "国家气候中心副主任贾小龙表示，根据观测，目前厄尔尼诺事件仍处在持续衰减状态，预计4月~5月可能趋于结束，而夏季可能会进入拉尼娜状态。这一现象对我国的主要影响是西北太平洋副热带高压容易偏强，其结果通常是海洋向我国内陆输送水汽的条件总体是比较好的。后期国家气候中心将持续关注相关的气候因素及其对我国的影响。（每经网）",
+    "publish_time": "2024-04-03 15:34:37",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "六部门：支持内蒙古大数据产业园建设增量配电网，为算力产业提供长期稳定绿色能源保障",
+    "url": "https://www.36kr.com/newsflashes/2717412496980102",
+    "summary": "国家发展改革委等六部门发布《关于支持内蒙古绿色低碳高质量发展若干政策措施的通知》。其中提出，加快推进“东数西算”工程，建设国家算力网络枢纽节点和面向全国的算力保障基地。支持大数据产业园建设增量配电网，为算力产业提供长期稳定绿色能源保障。培育壮大人工智能、大数据、区块链、云计算等新兴数字产业，推动数字经济赋能绿色发展。（证券时报）",
+    "publish_time": "2024-04-03 15:34:56",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "埃斯顿：与小米汽车目前还未有直接业务合作",
+    "url": "https://www.36kr.com/newsflashes/2717412898436998",
+    "summary": "36氪获悉，埃斯顿在互动平台表示，公司与小米汽车目前还未有直接业务合作。",
+    "publish_time": "2024-04-03 15:35:20",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "创世纪：目前与上海峰飞航空科技有限公司暂未有直接合作",
+    "url": "https://www.36kr.com/newsflashes/2717413477988231",
+    "summary": "36氪获悉，创世纪在互动平台表示，公司已与航空航天领域部分客户建立了合作关系，目前与上海峰飞航空科技有限公司暂未有直接合作。",
+    "publish_time": "2024-04-03 15:35:56",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "紫燕食品：拟3000万元参与设立股权投资基金",
+    "url": "https://www.36kr.com/newsflashes/2717414136035461",
+    "summary": "36氪获悉，紫燕食品发布公告称，与深圳天图资本管理中心（有限合伙）签订《战略合作框架协议》，拟共同主要发起食品股权投资基金，公司拟出资不超过3000万元。",
+    "publish_time": "2024-04-03 15:36:36",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "六部门：支持内蒙古开展绿色电力交易试点，适时将内蒙古电力交易中心纳入国家绿色电力证书交易平台",
+    "url": "https://www.36kr.com/newsflashes/2717420725352579",
+    "summary": "国家发展改革委等六部门发布《关于支持内蒙古绿色低碳高质量发展若干政策措施的通知》。其中提出，创新能源绿色低碳发展体制机制。支持内蒙古因地制宜探索有利于新能源高水平开发利用的差别化政策。支持煤电企业和新能源企业实质性联营，落实煤电容量电价机制相关要求，促进煤电企业可持续健康发展。创新可再生能源高比例消纳利用模式，有序推进高耗能企业绿电替代。支持内蒙古开展绿色电力交易试点，适时将内蒙古电力交易中心纳入国家绿色电力证书交易平台。推动完善内蒙古地区电力市场建设，以市场化方式促进新能源的健康发展和高效消纳。（证券时报）",
+    "publish_time": "2024-04-03 15:43:18",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "英特尔公布代工业务财务框架，明确利润提升路径",
+    "url": "https://www.36kr.com/newsflashes/2717426253821824",
+    "summary": "36氪获悉，当地时间4月2日，英特尔公司公布了新的财务报告结构，该结构与此前宣布的面向2024年及未来的代工运营模式保持一致。为支持新结构，英特尔提供了2023年、2022年和2021年的重组运营部门财务业绩。首席财务官David Zinsner表示：这种模式旨在大幅节约成本、提高运营效率和资产价值。公司希望在2030年实现非GAAP毛利率达到60%和非GAAP运营利润率达到40%的目标。",
+    "publish_time": "2024-04-03 15:48:55",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "消息称极氪重启美国IPO计划，拟筹资至多5亿美元",
+    "url": "https://www.36kr.com/newsflashes/2717432511870851",
+    "summary": "市场消息：极氪重启美国IPO计划，拟筹资至多5亿美元。（新浪财经）",
+    "publish_time": "2024-04-03 15:55:17",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "新华网：董事、总编辑钱彤因工作调动原因辞职",
+    "url": "https://www.36kr.com/newsflashes/2717436045031556",
+    "summary": "36氪获悉，新华网发布公告称，因工作调动原因，董事、总编辑钱彤向公司董事会提请辞去公司董事、总编辑职务，同时辞去董事会战略与发展委员会委员、董事会编辑政策委员会委员职务，辞职后将不再担任公司其他任何职务。",
+    "publish_time": "2024-04-03 15:58:53",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Feds decide to do something about years-old SS7 spy holes phone networks",
+    "url": "https://www.theregister.com/2024/04/02/fcc_ss7_security/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39912835\">Comments</a>",
+    "publish_time": "2024-04-03 09:53:03",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Male archetypes in fairy tales",
+    "url": "https://sharonblackie.substack.com/p/so-what-about-the-men",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39910186\">Comments</a>",
+    "publish_time": "2024-04-03 03:55:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
