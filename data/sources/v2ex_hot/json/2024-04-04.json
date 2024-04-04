@@ -64,5 +64,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "「入土级」三星 OneUI 优化完全指南",
+    "url": "https://www.v2ex.com/t/1029665",
+    "summary": "radishzz: 分享一下自己辛苦写的指南。不知道 V2 的三星用户有多少，希望能对大家有一些帮助。其中有些优化技巧也适用于其它安卓设备。另外，博客刚开张，有互换友链的伙伴吗😺<br />------<br />🌍 传送门 <a href=\"https://radishzz.cc/posts/384776b2\" rel=\"nofollow noopener\" target=\"_blank\">https://radishzz.cc/posts/384776b2</a>",
+    "publish_time": "2024-04-04 12:44:07",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "新车停车场纠结，求老司机指点迷津",
+    "url": "https://www.v2ex.com/t/1029667",
+    "summary": "BNineCoding: <p>[声明] ：我不是任何做车类广告的😂  我只是一个刚买车的菜鸟，所以最近关于车的问题问的有点多，如果打扰大家先提前说声对不起。我自己是做移动客户端方向的，如果大家有这个方向上的问题，也可以找我咨询。</p>\n<p>---------&gt;</p>\n<p>[停车场 A ] ：大商场的地下停车场（一个月 1300 ）</p>\n<p>好处：地下停车场干净，在地铁站出口。</p>\n<p>坏处：距离我家 800 米，广东夏天走 800 米还是很热的。</p>\n<p>—</p>\n<p>[停车场 B ] ：我家楼下的地上停车场（一个月 900 ）</p>\n<p>好处：就在楼下，很近，</p>\n<p>坏处：这个地上停车场有树，经常会有树叶掉落，在地上的话容易有高温。</p>\n<p>---------&gt;</p>\n<p>[目前的决策] </p>\n<p>因为老婆说走 800 米再去开车，实在太累了，</p>\n<p>所以我现在自己倾向于选 B ，然后刚开始几个月买个轿车遮罩套上去，</p>\n<p>但我担心这么几点：</p>\n<ol>\n<li>\n<p>遮罩会不会很麻烦</p>\n</li>\n<li>\n<p>新车如果加遮罩会不会不好散味</p>\n</li>\n<li>\n<p>广州马上夏天了，加了遮罩车里面会不会更热。</p>\n</li>\n</ol>",
+    "publish_time": "2024-04-04 12:46:31",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "我们从零开发了一套支付系统，现已开放测试，请大家帮忙找 bug 提意见",
+    "url": "https://www.v2ex.com/t/1029702",
+    "summary": "HiiCash: <p>我们开发这套支付系统的目的，主要是解决传统三方支付接口开户审核严格和风控严格； USDT 之类的区块链支付费用高不稳定且对接复杂；境外支付又不支持国人经常使用的微信支付宝等痛点。简单来说，我们希望能实现一个无需实名，小学生都能开户对接使用的支付接口。</p>\n<p>我们花了一年多时间从零开始写这个项目，目前已基本完成开始公开测试。</p>\n<p><strong>我们将我们开发的支付系统命名为：HiiCash</strong></p>\n<p>关于 HiiCash 的更多内容，请转至 <a href=\"https://doc.hiicash.app/\" rel=\"nofollow\">https://doc.hiicash.app</a> 查阅。</p>\n<p><strong>废话不多说，我大概讲一下 HiiCash 可以做什么：</strong></p>\n<p>1 、HiiCash 可以作为一个钱包，可以通过 USDT 或代金券充值，可以实现内部转账、链接收款和提现。</p>\n<p>2 、HiiCash 还是一个商户收款支付系统，商户后台提供的支付收单服务可以实现类似微信支付宝之类的传统三方支付所实现的支付回调业务。</p>\n<p>3 、HiiCash 可以创建代金券卡密，用户可以销售卡密获利，也可以直接通过卡密向商户付款。</p>\n<p>4 、HiiCash 可以发行银联国际卡，并向卡内充值，用户可以持卡在全球任何支持银联的 POS 机消费，或在支持银联的 ATM 机提款。</p>\n<p>其他还有一些细节的小功能，我就不一一列出了，大家可以自己摸索体验。</p>\n<p>我这给项目虽然是涉及到钱的系统，但完全是合法合规的，请大家不要在这方面喷我了。\n请多关注技术细节和用户体验部分，我们团队希望能将这个系统的体验度打磨到完美。\n虽然我们系统到目前为止，只是一个技术验证版。</p>\n<p><strong>请通过以下网站注册：</strong></p>\n<p><a href=\"https://www.hiicash.app/register?invite_code=726179\" rel=\"nofollow\">https://www.hiicash.app/register?invite_code=726179</a></p>\n<p>注册完成后需要接收邮件验证邮件地址，验证完成后即可进入 HiiCash 主界面。</p>\n<p><strong>我们还搭建了两个演示网站，你可以体验通过 HiiCash 支付的全过程</strong></p>\n<p>商城： <a href=\"https://shop.hii.cash/\" rel=\"nofollow\">https://shop.hii.cash</a> （自动发卡）\n机场： <a href=\"https://alice66.net/\" rel=\"nofollow\">https://alice66.net</a>    （ HY2 节点）</p>\n<pre><code>下面是 10 个已激活的代金券，大家可以拿代金券直接在演示网站消费，或者给自己的账户充值。\n\n代金券号：8029974532984516   密码：44b9af5568c1660e   余额：10.00\n代金券号：8029974515649320   密码：7772df014198ae09   余额：10.00\n代金券号：8029974515670438   密码：59ad633656f8f0bf   余额：10.00\n代金券号：8029974548361790   密码：a285335a86baeca5   余额：10.00\n代金券号：8029974503928517   密码：360d0473cea5be8f   余额：10.00\n代金券号：8029974582790631   密码：0eed8d926e28597e   余额：10.00\n代金券号：8029974540879256   密码：bf4c420887294717   余额：10.00\n代金券号：8029974584097251   密码：0b52552c470ecf7a   余额：10.00\n代金券号：8029974579352841   密码：2780d4f993363aa9   余额：10.00\n代金券号：8029974565043289   密码：ddb786ecec618126   余额：10.00\n\n</code></pre>\n<p>我们的联系方式\nTG： <a href=\"https://t.me/e1vix_1\" rel=\"nofollow\">https://t.me/e1vix_1</a>\n邮箱： <a href=\"mailto:hello@hii.cash\">hello@hii.cash</a></p>",
+    "publish_time": "2024-04-04 15:56:46",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
