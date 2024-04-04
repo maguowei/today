@@ -1692,5 +1692,85 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "魏若来当官了",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%AD%8F%E8%8B%A5%E6%9D%A5%E5%BD%93%E5%AE%98%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "你暗恋的人也在暗恋你，是一种什么样的体验？",
+    "url": "https://www.zhihu.com/question/341938727",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "哪一刻，你特别心疼你的妈妈？",
+    "url": "https://www.zhihu.com/question/590551913",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "长期跑步该如何保护膝关节？",
+    "url": "https://www.zhihu.com/question/651559901",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "The Crescendo Multi-Turn LLM Jailbreak Attack",
+    "url": "https://crescendo-the-multiturn-jailbreak.github.io//",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39936064\">Comments</a>",
+    "publish_time": "2024-04-05 05:37:00",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "C but Safe",
+    "url": "https://xr0.dev/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39936291\">Comments</a>",
+    "publish_time": "2024-04-05 05:58:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "German state ditches Microsoft for Linux and LibreOffice",
+    "url": "https://www.zdnet.com/article/german-state-ditches-microsoft-for-linux-and-libreoffice/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39936284\">Comments</a>",
+    "publish_time": "2024-04-05 05:57:29",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Mario meets Pareto: multi-objective optimization of Mario Kart builds",
+    "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39936246\">Comments</a>",
+    "publish_time": "2024-04-05 05:53:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
