@@ -1393,5 +1393,131 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "与凤行",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8E%E5%87%A4%E8%A1%8C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "追风者",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%BD%E9%A3%8E%E8%80%85%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "魔兽3，为什么阿克蒙德炸死之后，其他恐惧魔王不继续进攻？",
+    "url": "https://www.zhihu.com/question/305182379",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "How should we define 'open' AI?",
+    "url": "https://thenewstack.io/how-should-we-define-open-ai/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39934320\">Comments</a>",
+    "publish_time": "2024-04-05 02:47:07",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Rule-based NLP system beats LLM for analysis of psychiatric clinical notes",
+    "url": "https://arxiv.org/abs/2403.17199",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39934322\">Comments</a>",
+    "publish_time": "2024-04-05 02:47:19",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ask HN: Most efficient way to fine-tune an LLM in 2024?",
+    "url": "https://news.ycombinator.com/item?id=39934480",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39934480\">Comments</a>",
+    "publish_time": "2024-04-05 03:01:37",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Language Models as Compilers",
+    "url": "https://arxiv.org/abs/2404.02575",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39934956\">Comments</a>",
+    "publish_time": "2024-04-05 03:46:44",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Develop in Swift Tutorials",
+    "url": "https://developer.apple.com/tutorials/develop-in-swift",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39934684\">Comments</a>",
+    "publish_time": "2024-04-05 03:21:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Containers and Unikernels: Similar, different, and intertwined",
+    "url": "https://unikraft.io/blog/containers-and-unikernels/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39934434\">Comments</a>",
+    "publish_time": "2024-04-05 02:58:05",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Understanding and managing the impact of machine learning models on the web",
+    "url": "https://www.w3.org/reports/ai-web-impact/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39934584\">Comments</a>",
+    "publish_time": "2024-04-05 03:11:41",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "JetMoE: Reaching LLaMA2 performance with 0.1M dollars",
+    "url": "https://research.myshell.ai/jetmoe",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39933076\">Comments</a>",
+    "publish_time": "2024-04-05 01:04:21",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The design philosophy of Great Tables",
+    "url": "https://posit-dev.github.io/great-tables/blog/design-philosophy/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39933833\">Comments</a>",
+    "publish_time": "2024-04-05 02:00:28",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
