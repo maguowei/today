@@ -20,5 +20,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "快速路旁边开窗 65 分贝应该怎么选窗户?",
+    "url": "https://www.v2ex.com/t/1030123",
+    "summary": "xyj998: 双层中空<br />单面夹胶中空<br />双面夹胶中空<br /><br />有做的的 v 友么, 效果和价格如何",
+    "publish_time": "2024-04-07 09:20:46",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "弱弱的问一句大家参加过这种大会吗？我想去一次 但是这票也太贵了。",
+    "url": "https://www.v2ex.com/t/1030145",
+    "summary": "kongcc: <p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/VS0qCpx.png\" /> </p>\n<p><a href=\"https://qcon.infoq.cn/2024/beijing/schedule\" rel=\"nofollow\">https://qcon.infoq.cn/2024/beijing/schedule</a></p>",
+    "publish_time": "2024-04-07 10:16:07",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "升级 Vue3, 开发体验非常糟糕",
+    "url": "https://www.v2ex.com/t/1030170",
+    "summary": "weijancc: 我的个人项目之前用的 Vue2, 很多组件都停止维护了, 项目还要维护很久, 不得不升级 Vue3, 我就在清明假期间进行了升级, 由于 Vue3 不向下兼容, 花了大量时间迁移旧语法和旧组件, 而最重要的开发体验:<br /><br />1. 无论是 webstorm 还是 vscode 官方插件, 都无法完美支持 Vue3, 开发过程经常没有提示, 非常痛苦.<br />2. Vue 官方的 VS Code 插件非常卡, 而且经常进入死循环, 必须重启, 在 win 本时散热疯狂响, 不知道的还以为我在玩 3A 游戏.<br /><br />为了方便以后维护, 用上了 Typescript+Composition API, 比起选项 API, 代码结构确实优雅了很多, 但我一看这代码, 这不是 React 吗? 除了 v-if 条件渲染方便, 其他方面真感觉没 React 好用.<br /><br />Vue2 现在每周下载量其实还是大于 Vue3 的, 但现在被标记成废弃, 看不到下载量了(总下载量-Vue3 下载量可得 Vue2 下载量), 最搞的是 Vue1 反而还在<br /><a href=\"https://www.v2ex.com/i/MMLWPgsq.jpeg\" rel=\"nofollow noopener\" target=\"_blank\" title=\"在新窗口打开图片 MMLWPgsq.jpeg\"><img class=\"embedded_image\" src=\"https://i.v2ex.co/MMLWPgsq.jpeg\" /></a><br /><br />Vue2 给国内大小公司都带来了前端工程化, 挺伟大的, 但为了强迫升级 Vue3, 把别人的商业项目当闹着玩的, 真的糟糕, 如果用上了组合 API, 建议新项目还是用 React 吧, 用迷你版 React 不如用正版.<br /><br />各位前端 er, 你们项目在用什么框架呢?",
+    "publish_time": "2024-04-07 10:46:36",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
