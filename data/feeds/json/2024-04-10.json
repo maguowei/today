@@ -1647,5 +1647,101 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "爸爸开家长会睡着女儿将其写进作文",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%BC%80%E5%AE%B6%E9%95%BF%E4%BC%9A%E7%9D%A1%E7%9D%80%E5%A5%B3%E5%84%BF%E5%B0%86%E5%85%B6%E5%86%99%E8%BF%9B%E4%BD%9C%E6%96%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "王者荣耀 酷洛米",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80+%E9%85%B7%E6%B4%9B%E7%B1%B3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "福宝应该称花花为表姨外祖母",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%AE%9D%E5%BA%94%E8%AF%A5%E7%A7%B0%E8%8A%B1%E8%8A%B1%E4%B8%BA%E8%A1%A8%E5%A7%A8%E5%A4%96%E7%A5%96%E6%AF%8D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "汉服对一个普通人改变有多大",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B1%89%E6%9C%8D%E5%AF%B9%E4%B8%80%E4%B8%AA%E6%99%AE%E9%80%9A%E4%BA%BA%E6%94%B9%E5%8F%98%E6%9C%89%E5%A4%9A%E5%A4%A7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "成都迪士尼周边",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%91%A8%E8%BE%B9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "总看到说百年海军，但这个说法是不是过于片面了?",
+    "url": "https://www.zhihu.com/question/652297854",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价 Ubuntu 24.04 LTS？",
+    "url": "https://www.zhihu.com/question/650474817",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "PostHog: Side Project Insurance",
+    "url": "https://github.com/PostHog/posthog.com/pull/8226",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39983612\">Comments</a>",
+    "publish_time": "2024-04-10 04:00:36",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Georgia's Vogtle plant, a $35B nuclear project",
+    "url": "https://grist.org/energy/plant-vogtle-georgia-nuclear/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39982054\">Comments</a>",
+    "publish_time": "2024-04-10 01:47:29",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The challenges of building modern open source software on PowerPC Mac OS X",
+    "url": "http://www.netbsd.org/~nia/tigersrc/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39983915\">Comments</a>",
+    "publish_time": "2024-04-10 04:30:56",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
