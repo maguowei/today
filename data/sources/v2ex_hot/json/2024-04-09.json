@@ -20,5 +20,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "感觉自己年纪大了，开始玩便宜 VPS 了。凌晨 2 点花了 6.6rmb/月买了一个不知名云 CN2 线路 HK 1 核 1G2M 的 VPS，大伙帮我看看值不值，虽然不知道有啥用但是感...",
+    "url": "https://www.v2ex.com/t/1030788",
+    "summary": "0x0208v0: <p>如题，最近迷上研究便宜 VPS 了，不知道是不是年纪大了的缘故。。。 </p>\n<p>用脚本跑了一下分，看着还挺好的， </p>\n<p>有点想把昨天 15.5 刀买的 cloudcone 2 核 1G2T 流量的小鸡退货了。。。  </p>\n<p>cloudcone 怎么退货啊，谁帮忙指一下路  </p>\n<p>另外还有什么不错的服务器商吗，我想玩玩  </p>\n<pre><code>curl -sL yabs.sh | bash -s -- -g  \n\n\n\n# ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## #\n#              Yet-Another-Bench-Script              #\n#                     v2024-03-05                    #\n# https://github.com/masonr/yet-another-bench-script #\n# ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## #\n\nTue Apr  9 00:23:22 UTC 2024\n\nBasic System Information:\n---------------------------------\nUptime     : 0 days, 7 hours, 10 minutes\nProcessor  : Intel(R) Xeon(R) CPU E5-2650 v4 @ 2.20GHz\nCPU cores  : 1 @ 2199.996 MHz\nAES-NI     : ✔ Enabled\nVM-x/AMD-V : ✔ Enabled\nRAM        : 991.1 MiB\nSwap       : 0.0 KiB\nDisk       : 10.0 GiB\nDistro     : CentOS Linux 7 (Core)\nKernel     : 3.10.0-957.1.3.el7.x86_64\nVM Type    : KVM\nIPv4/IPv6  : ✔ Online / ❌ Offline\n\nIPv4 Network Information:\n---------------------------------\nISP        : High Family Technology Co., Limited\nASN        : AS142032 High Family Technology Co., Limited\nHost       : HONGKONG CLOUD NETWORK TECHNOLOGY CO., LIMITED\nLocation   : London, England (ENG)\nCountry    : United Kingdom\n\nfio Disk Speed Tests (Mixed R/W 50/50) (Partition /dev/vda1):\n---------------------------------\nBlock Size | 4k            (IOPS) | 64k           (IOPS)\n  ------   | ---            ----  | ----           ----\nRead       | 30.20 MB/s    (7.5k) | 65.81 MB/s    (1.0k)\nWrite      | 30.21 MB/s    (7.5k) | 66.18 MB/s    (1.0k)\nTotal      | 60.42 MB/s   (15.1k) | 132.00 MB/s   (2.0k)\n           |                      |\nBlock Size | 512k          (IOPS) | 1m            (IOPS)\n  ------   | ---            ----  | ----           ----\nRead       | 93.80 MB/s     (183) | 102.14 MB/s     (99)\nWrite      | 98.78 MB/s     (192) | 108.95 MB/s    (106)\nTotal      | 192.58 MB/s    (375) | 211.09 MB/s    (205)\n\niperf3 Network Speed Tests (IPv4):\n---------------------------------\nProvider        | Location (Link)           | Send Speed      | Recv Speed      | Ping\n-----           | -----                     | ----            | ----            | ----\nClouvider       | London, UK (10G)          | 1.84 Mbits/sec  | 839 Kbits/sec   | 231 ms\nEranium         | Amsterdam, NL (10G)       | 1.82 Mbits/sec  | 629 Kbits/sec   | 299 ms\nTelia           | Helsinki, FI (10G)        | busy            | busy            | 315 ms\nUztelecom       | Tashkent, UZ (10G)        | 1.90 Mbits/sec  | 734 Kbits/sec   | 143 ms\nLeaseweb        | Singapore, SG (10G)       | 1.90 Mbits/sec  | 629 Kbits/sec   | 77.3 ms\nClouvider       | Los Angeles, CA, US (10G) | 1.85 Mbits/sec  | 734 Kbits/sec   | 204 ms\nLeaseweb        | NYC, NY, US (10G)         | 1.83 Mbits/sec  | 839 Kbits/sec   | 268 ms\nEdgoo           | Sao Paulo, BR (1G)        | busy            | 863 Kbits/sec   | 347 ms\n\nYABS completed in 8 min 35 sec\n</code></pre>",
+    "publish_time": "2024-04-09 08:38:03",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "有腾讯云服务器的去要 100 块",
+    "url": "https://www.v2ex.com/t/1030934",
+    "summary": "wuxin233: <p>昨天服务器波动，登录不上，可以去找客服要 100 元无门槛优惠券，刚刚打了电话 4009100100</p>\n<p>已经登记，3 个工作日到账。120 的服务器，等于 20 嫖了一年</p>",
+    "publish_time": "2024-04-09 12:38:48",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "[iOS] 嗯背单词更新了 1.4 版本，优化了 UI/UX，新增英英模式，评论抽取 50 个年度加永久会员",
+    "url": "https://www.v2ex.com/t/1030937",
+    "summary": "whitecosm0s: <p><img alt=\"img\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/zWr7JzK.png\" /></p>\n<h2>产品特色</h2>\n<ul>\n<li>状态机算法，没有固定时间要求，没有强制复习，适合碎片化的学习方式</li>\n<li>所有操作都在屏幕下半部分，单手操作非常方便</li>\n<li>自由编辑单词之间的同义，反义，相关关系，通过联想记忆轻松记住单词</li>\n</ul>\n<p>详细介绍见 <a href=\"https://sspai.com/post/85470\" rel=\"nofollow\">少数派</a></p>\n<h2>更新内容</h2>\n<ul>\n<li>新增《朗文 3000 常用词汇》词书</li>\n<li>新增英英释义，在 [学习设置] 中切换两种模式</li>\n<li>查询过的单词自动加入生词本</li>\n<li>支持加入任意单词到生词本</li>\n<li>支持批量加入单词到生词本</li>\n<li>支持删除生词本内的单词</li>\n<li>拼写单词失败两次后，提示完整单词</li>\n</ul>\n<p>[ UX/UI 优化] </p>\n<ul>\n<li>应用内图标统一视觉风格</li>\n<li>优化释义与例句排版，提高了对比度</li>\n<li>认识，掌握，遗忘标识现在同时支持点击和滑动两种操作</li>\n<li>批量操作放到屏幕下半部分，更加方便点击</li>\n<li>优化了批量移动单词时的性能问题</li>\n</ul>\n<p>[ BUG 修复] </p>\n<ul>\n<li>修复在 iOS17 上卡顿和发热的问题</li>\n<li>修复排除单词后，计数不正确的问题</li>\n<li>自动发音和手动发音不一致问题</li>\n<li>部分用户背单词过程中闪退的问题</li>\n</ul>\n<h2>下载地址</h2>\n<p><a href=\"https://apps.apple.com/cn/app/id6450109182\" rel=\"nofollow\">App Store</a></p>\n<p>免费用户每天 150 次学习次数，可以使用任意词书，也没有其它限制</p>\n<ul>\n<li>年度会员 78¥/年</li>\n<li>永久会员 198¥ </li>\n</ul>\n<h2>评论抽奖</h2>\n<p>评论留下邮箱的用户，<strong>截止本周五抽取 25 个年度会员和 25 个永久会员</strong></p>\n<h2>产品交流</h2>\n<p><img alt=\"img\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/CuqwbRs.jpeg\" /></p>",
+    "publish_time": "2024-04-09 12:51:19",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
