@@ -75,5 +75,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "发一个拼 CPU 性能的红包",
+    "url": "https://www.v2ex.com/t/1030992",
+    "summary": "iqoo: <p>继上个帖子 <a href=\"https://v2ex.com/t/1028842\" rel=\"nofollow\">网页版时间锁，一定时间后才能解密消息</a>，这次发个只有 1 人能领的红包，时间约为两小时，看看谁的 CPU 性能最高。（奖励约为一杯奶茶~ 配置低的电脑就别试了😂）</p>\n<p>链接： <a href=\"https://etherdream.github.io/timelock/#iter=7200&amp;key=0x09298ED61912E4AC&amp;cipher=0xC71CD542579361902C81481322FB971A8332062762B4778698B9426489C2DF5BDA3E9BC55E4E39AF225034967E25\" rel=\"nofollow\">https://etherdream.github.io/timelock/#iter=7200&amp;key=0x09298ED61912E4AC&amp;cipher=0xC71CD542579361902C81481322FB971A8332062762B4778698B9426489C2DF5BDA3E9BC55E4E39AF225034967E25</a></p>\n<p>点击“解密”即可开始解密时间胶囊。所有代码和数据都是公开的，有兴趣的话可以尝试更快的解密方案。</p>\n<p>当然由于每个人看到这个帖子的时间不同，即使配置低的也可能比配置高的先完成，下次得提前约定一个时间开始，这样会公平一些。</p>",
+    "publish_time": "2024-04-09 15:16:39",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
