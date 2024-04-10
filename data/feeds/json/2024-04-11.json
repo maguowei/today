@@ -1809,5 +1809,110 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "天猫新风潮今晚八点开卖",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E7%8C%AB%E6%96%B0%E9%A3%8E%E6%BD%AE%E4%BB%8A%E6%99%9A%E5%85%AB%E7%82%B9%E5%BC%80%E5%8D%96%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "研究发现年轻人加速衰老",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E5%8F%91%E7%8E%B0%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%8A%A0%E9%80%9F%E8%A1%B0%E8%80%81%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "1岁半萌娃在家攀岩练出背肌",
+    "url": "https://s.weibo.com/weibo?q=%231%E5%B2%81%E5%8D%8A%E8%90%8C%E5%A8%83%E5%9C%A8%E5%AE%B6%E6%94%80%E5%B2%A9%E7%BB%83%E5%87%BA%E8%83%8C%E8%82%8C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "井柏然腹肌偷偷藏不住",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%95%E6%9F%8F%E7%84%B6%E8%85%B9%E8%82%8C%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何评价《原神》4.6版本前瞻「两界为火，赤夜将熄」预告？",
+    "url": "https://www.zhihu.com/question/652489445",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "拿破仑年代欧洲各国骑兵的规模那是空前的，那欧洲的马政是怎么搞的能提供如此巨量的马匹?",
+    "url": "https://www.zhihu.com/question/651891524",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么很多大公司的财务总监都不懂财务?",
+    "url": "https://www.zhihu.com/question/318502977",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么恋人的爱不能代替父母的爱？",
+    "url": "https://www.zhihu.com/question/458871467",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美股三大指数集体收跌，大型科技股涨跌不一",
+    "url": "https://www.36kr.com/newsflashes/2728221664175360",
+    "summary": "36氪获悉，4月10日收盘，美股三大指数集体收跌，道指跌1.09%，纳指跌0.84%，标普500指数跌0.95%。大型科技股涨跌不一，英伟达涨近2％，Meta涨0.57％，亚马逊涨0.15％，Netflix涨0.06％，特斯拉跌超2％，苹果跌超1％，微软跌0.71％，谷歌跌0.29％。热门中概股多数下跌，蔚来、B站跌超2％，百度、拼多多、网易跌超1％，理想汽车跌0.6％；阿里巴巴、新东方涨超2％，小鹏汽车涨近1％。",
+    "publish_time": "2024-04-11 07:00:00",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "World's Smallest CSV Parser (C#)",
+    "url": "https://github.com/kjpgit/SmallestCSVParser",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39995849\">Comments</a>",
+    "publish_time": "2024-04-11 05:21:06",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "EPA Says 'Forever Chemicals' Must Be Removed from Tap Water",
+    "url": "https://www.nytimes.com/2024/04/10/climate/epa-pfas-drinking-water.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39996433\">Comments</a>",
+    "publish_time": "2024-04-11 06:37:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
