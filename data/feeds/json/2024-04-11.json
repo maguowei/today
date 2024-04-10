@@ -1572,5 +1572,159 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "让农民用最好的技术种出最好的粮食",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%AE%A9%E5%86%9C%E6%B0%91%E7%94%A8%E6%9C%80%E5%A5%BD%E7%9A%84%E6%8A%80%E6%9C%AF%E7%A7%8D%E5%87%BA%E6%9C%80%E5%A5%BD%E7%9A%84%E7%B2%AE%E9%A3%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "眼泪女王 拧巴",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%9C%BC%E6%B3%AA%E5%A5%B3%E7%8E%8B+%E6%8B%A7%E5%B7%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "肖战王玉雯超星星学园旧照",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%8E%8B%E7%8E%89%E9%9B%AF%E8%B6%85%E6%98%9F%E6%98%9F%E5%AD%A6%E5%9B%AD%E6%97%A7%E7%85%A7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如果父母长的好看那他们孩子一定也会长的好看吗？",
+    "url": "https://www.zhihu.com/question/322833888",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "该怎么和intj谈恋爱？",
+    "url": "https://www.zhihu.com/question/612208345",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "你认为最适合居住的城市是哪里？",
+    "url": "https://www.zhihu.com/question/652420328",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "大家觉得谁是古龙里面最有魅力的反派？",
+    "url": "https://www.zhihu.com/question/407617022",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "博士生们每天科研时间是多久？",
+    "url": "https://www.zhihu.com/question/27154943",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "作家们都是怎么坚持写作的？",
+    "url": "https://www.zhihu.com/question/415586093",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "电影《普罗米修斯》黑水如此危险，工程师却为何还要大量制造呢？",
+    "url": "https://www.zhihu.com/question/648313550",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "摩根大通 CEO 表示「未来几年，美国利率或飙升至 8%」，哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/652459381",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Funkwhale might be the most overlooked Fediverse project",
+    "url": "https://raphael.lullis.net/funkwhale/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39994437\">Comments</a>",
+    "publish_time": "2024-04-11 02:57:27",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Toward Inference-Optimal Mixture-of-Expert Large Language Models",
+    "url": "https://arxiv.org/abs/2404.02852",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39995541\">Comments</a>",
+    "publish_time": "2024-04-11 04:47:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Mux (YC W16) is hiring a Senior Product Designer that's excited about devtools",
+    "url": "https://mux.com/jobs?j=product-designer",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39995667\">Comments</a>",
+    "publish_time": "2024-04-11 05:00:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Nimble: A new columnar file format by Meta [video]",
+    "url": "https://www.youtube.com/watch?v=bISBNVtXZ6M",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39995112\">Comments</a>",
+    "publish_time": "2024-04-11 04:00:21",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Code search is hard",
+    "url": "https://blog.val.town/blog/search-notes/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39993976\">Comments</a>",
+    "publish_time": "2024-04-11 02:15:08",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
