@@ -53,5 +53,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "请教大佬们一个局域网自定义 DNS 的问题",
+    "url": "https://www.v2ex.com/t/1031174",
+    "summary": "felix0012: <p>== 背景</p>\n<p>在家用玩客云刷了 armbian 搭了些服务，比如 Gitea 、Wordpress 、Homeassistant 这些。平时会用台式机、手机访问自己搭的服务。\n另外还有个电视盒子，也刷成 armbian 做一些小实验。</p>\n<p>用得久了，不想每次输入 ip 、端口号这些来访问 web ，就有了自己搭 DNS 的想法，把自己的服务都映射到自定义域名上，再用 nginx 做反向代理。\n自己有一台主路由，无线网络是 802.11AC ，配置不算高但刷了官方 openwrt 。就用 openwrt 的 DNS 服务实现宏域名到 IP 的映射，比如*.onecloud.lan 映射到 192.168.1.2 这样。</p>\n<p>== 版本 0.1</p>\n<p>主路由挂在光猫下面，其他节点挂在主路由下面。拓扑大概是这样</p>\n<pre><code>---------\n|  光猫  |\n---------\n      |\n---------\n| 主路由 |\n---------\n  |  |  |\n  |  |  --------\n  |  ---       |\n  |    |       |\n节点 1  节点 2  节点 3 ...\n</code></pre>\n<p>主路由通过 LAN 连结各节点，通过 WAN 口连接光猫，开启 DHCP 和 DNS 。\n这时候 DNS 按预期工作。一切都很好，唯一的问题是主路由要跟光猫一起放在弱电箱里（因为弱电箱是全家网线汇集点）</p>\n<p>== 版本 0.2</p>\n<p>为了发挥主路由的 5GHz 无线网功能，把主路由挪到一个房间里。现在主路由跟其他节点一起挂在光猫下面，光猫连结主路由的 LAN 口。拓扑如下</p>\n<pre><code> -----------\n|   光猫    |\n -----------\n |  |  |  |\n |  |  |  ------------\n |  |  --------      |\n |  -----     |      |\n |      |     |      |\n主路由  节点 1  节点 2  节点 3 ...\n</code></pre>\n<p>关闭光猫的 DHCP ，主路由开启 DHCP 和 DNS ，DHCP 中把网关指定为光猫地址，把 DNS 指定为自己。这时候本应正常工作的。\n但实际使用时，台式机访问本地域名上的服务，本地域名无法被主路由 DNS 解析。抓包调试半天发现，台式机存在两个 DNS：\n一个是主路由通过 DHCP 配置的主路由 IPv4 地址，\n另一个是光猫通过 IPv6 的 RA 分配的光猫 IPv6 地址.\n域名解析时默认询问了光猫，光猫自然不知道本地域名所以返回了错误结果。</p>\n<p>== 问题</p>\n<p>这时候如果禁用台式机的 ipv6 是可以解决本地域名解析的，但代价比较大。\n彻底解决需要禁止光猫在 ipv6 上的 DHCP 行为，但光猫配置界面比较简单，没有这项设置。</p>\n<p>这种情况下有没有办法设置主路由 openwrt 来强制覆盖光猫的 ipv6 设置呢？</p>",
+    "publish_time": "2024-04-10 09:31:18",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "一人说一个 it 运维的面试题，顺便测试下自己的水平~~",
+    "url": "https://www.v2ex.com/t/1031191",
+    "summary": "axin2023:",
+    "publish_time": "2024-04-10 10:05:52",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
