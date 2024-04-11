@@ -1914,5 +1914,521 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "三月三",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%9C%88%E4%B8%89%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "黄金白银集体跳水",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E9%9B%86%E4%BD%93%E8%B7%B3%E6%B0%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "湖北一公职人员殴打酒店老板称副市长跟我平级",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8C%97%E4%B8%80%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E6%AE%B4%E6%89%93%E9%85%92%E5%BA%97%E8%80%81%E6%9D%BF%E7%A7%B0%E5%89%AF%E5%B8%82%E9%95%BF%E8%B7%9F%E6%88%91%E5%B9%B3%E7%BA%A7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "世界帕金森病日",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E5%B8%95%E9%87%91%E6%A3%AE%E7%97%85%E6%97%A5%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "小米汽车听劝加按键",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%90%AC%E5%8A%9D%E5%8A%A0%E6%8C%89%E9%94%AE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "奶奶忍受了一辈子的冷暴力",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E5%BF%8D%E5%8F%97%E4%BA%86%E4%B8%80%E8%BE%88%E5%AD%90%E7%9A%84%E5%86%B7%E6%9A%B4%E5%8A%9B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "熊祁 黎深",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%86%8A%E7%A5%81+%E9%BB%8E%E6%B7%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "刘冠麟 助助兴",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%86%A0%E9%BA%9F+%E5%8A%A9%E5%8A%A9%E5%85%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "早睡1小时身体会发生什么变化",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%97%A9%E7%9D%A11%E5%B0%8F%E6%97%B6%E8%BA%AB%E4%BD%93%E4%BC%9A%E5%8F%91%E7%94%9F%E4%BB%80%E4%B9%88%E5%8F%98%E5%8C%96%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "别再乱用红霉素软膏和红霉素眼膏",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%88%AB%E5%86%8D%E4%B9%B1%E7%94%A8%E7%BA%A2%E9%9C%89%E7%B4%A0%E8%BD%AF%E8%86%8F%E5%92%8C%E7%BA%A2%E9%9C%89%E7%B4%A0%E7%9C%BC%E8%86%8F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "小米汽车回应车内摄像头",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%9B%9E%E5%BA%94%E8%BD%A6%E5%86%85%E6%91%84%E5%83%8F%E5%A4%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "分手一年多的前男友的现女友加我",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%88%86%E6%89%8B%E4%B8%80%E5%B9%B4%E5%A4%9A%E7%9A%84%E5%89%8D%E7%94%B7%E5%8F%8B%E7%9A%84%E7%8E%B0%E5%A5%B3%E5%8F%8B%E5%8A%A0%E6%88%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "巴黎2比3巴萨",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E2%E6%AF%943%E5%B7%B4%E8%90%A8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "赵丽颖剧中最虐的台词",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%89%A7%E4%B8%AD%E6%9C%80%E8%99%90%E7%9A%84%E5%8F%B0%E8%AF%8D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "第1天相亲第2天领证第9天就消失",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%AC%AC1%E5%A4%A9%E7%9B%B8%E4%BA%B2%E7%AC%AC2%E5%A4%A9%E9%A2%86%E8%AF%81%E7%AC%AC9%E5%A4%A9%E5%B0%B1%E6%B6%88%E5%A4%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "辽宁天空出现遮天蔽日鸟浪奇观",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BE%BD%E5%AE%81%E5%A4%A9%E7%A9%BA%E5%87%BA%E7%8E%B0%E9%81%AE%E5%A4%A9%E8%94%BD%E6%97%A5%E9%B8%9F%E6%B5%AA%E5%A5%87%E8%A7%82%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "朱婷意甲联赛15分",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%A9%B7%E6%84%8F%E7%94%B2%E8%81%94%E8%B5%9B15%E5%88%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "手机号不用了记得解绑这些账号",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E5%8F%B7%E4%B8%8D%E7%94%A8%E4%BA%86%E8%AE%B0%E5%BE%97%E8%A7%A3%E7%BB%91%E8%BF%99%E4%BA%9B%E8%B4%A6%E5%8F%B7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "朱丹晒浪姐合照",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%B9%E6%99%92%E6%B5%AA%E5%A7%90%E5%90%88%E7%85%A7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "姆巴佩0射正",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A7%86%E5%B7%B4%E4%BD%A90%E5%B0%84%E6%AD%A3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "京城大师赛 诅咒",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%AC%E5%9F%8E%E5%A4%A7%E5%B8%88%E8%B5%9B+%E8%AF%85%E5%92%92%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "今天起广西连休4天",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E8%B5%B7%E5%B9%BF%E8%A5%BF%E8%BF%9E%E4%BC%914%E5%A4%A9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "波音工程师举报 777 、 787 客机存在制造缺陷，美联邦航空局表示「正在进行调查」，如何看待此事？",
+    "url": "https://www.zhihu.com/question/652457215",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "4 月 11 日是世界帕金森病日，关于帕金森的症状你了解多少？该如何防治？",
+    "url": "https://www.zhihu.com/question/652458403",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "日本肾脏学会公布小林制药问题保健品调查结果，多数患者为同一病症，哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/652491132",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "结果重要，还是过程重要？",
+    "url": "https://www.zhihu.com/question/652536420",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "凭心而论，这次国足进美加墨世界杯几率有多大？",
+    "url": "https://www.zhihu.com/question/651500167",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "你最希望拥有哪种动物的运动能力？",
+    "url": "https://www.zhihu.com/question/652333009",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "加拿大央行宣布维持5%的政策利率不变",
+    "url": "https://www.36kr.com/newsflashes/2727757917660425",
+    "summary": "加拿大银行（央行）当地时间4月10日宣布，维持目前5%的政策利率不变。加拿大统计局此前公布的2月份年通胀率（即按消费者价格指数衡量的通货膨胀）依然高达2.8%，仍未达到加拿大银行降低利率的门槛，即年通胀率降低到2%左右，因此外界普遍预计加拿大银行会继续维持目前的利率水平。（央视新闻）",
+    "publish_time": "2024-04-11 07:19:42",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "加拿大央行行长麦克勒姆：6月份可能会进行降息",
+    "url": "https://www.36kr.com/newsflashes/2727761930740743",
+    "summary": "加拿大央行行长麦克勒姆表示，6月份可能会进行降息；更高的中性利率并不会影响到“短期内的”货币政策。（财联社）",
+    "publish_time": "2024-04-11 07:21:45",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "拟在西班牙建厂？奇瑞汽车：目前没有消息回应",
+    "url": "https://www.36kr.com/newsflashes/2727763180152067",
+    "summary": "针对西班牙有望成为奇瑞汽车在欧洲的首个生产基地的消息，有奇瑞汽车高层表示，“目前我们没有消息回应。”今日，有报道称，西班牙政府和其首席谈判代表EV Motors表示，接近和奇瑞汽车达成协议，西班牙有望成为奇瑞汽车在欧洲的第一个生产基地。西班牙工业部在一份声明中称，对在未来几天内正式确定奇瑞在巴塞罗那开始生产的协议充满信心。（财联社）",
+    "publish_time": "2024-04-11 07:23:06",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Meta官宣下一代AI训练与推理芯片项目",
+    "url": "https://www.36kr.com/newsflashes/2727767464142089",
+    "summary": "Meta Platforms当地时间4月10日宣布其训练与推理加速器项目（MTIA）的最新版本。MTIA是Meta专门为AI工作负载设计的定制芯片系列。Meta表示，与第一代MTIA相比，最新版本显著改进了性能，并有助于强化内容排名和推荐广告模型。（界面）",
+    "publish_time": "2024-04-11 07:26:21",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "KKR计划在五年将资管规模扩大至万亿美元",
+    "url": "https://www.36kr.com/newsflashes/2727765625218313",
+    "summary": "KKR制定了一项扩大核心业务规模的计划，目标是在五年内管理的资产规模至少达到1万亿美元。该公司周三在投资者日之前向投资者介绍道，公司打算在现有的资产管理、保险和战略控股部门的基础上实现这一里程碑。KKR还希望在10年内实现每股15美元以上的年度调整后净利润。截至去年年底，该公司管理着5530亿美元的资产，调整后净利润为每股3.42美元。（智通财经）",
+    "publish_time": "2024-04-11 07:26:32",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "瑞士计划实施银行业改革，瑞银或面临更高资本金要求",
+    "url": "https://www.36kr.com/newsflashes/2727769418359808",
+    "summary": "根据瑞士政府在瑞信倒台后倡议的改革措施，瑞银面临更高的资本金要求。根据周三发布的内容广泛的银行业稳定报告，瑞士联邦委员会建议具有系统重要性的瑞士银行业因海外业务必须持有更多资本金。此外，还需要提高银行的特定资本水平以纳入未来风险。（新浪财经）",
+    "publish_time": "2024-04-11 07:29:22",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Adobe以2.62美元/分钟的价格购买视频资源来构建AI模型",
+    "url": "https://www.36kr.com/newsflashes/2728224613000198",
+    "summary": "Adobe已经开始设法获得视频，以构建自己的AI文生视频模型，从而与OpenAI掀起的文生视频Sora展开竞争。相关文件显示，该公司要求其摄影师和艺术家群体提供100多段人物动作和情感表现的短片，以及脚、手或眼睛的简单解剖照片。视频的费用平均为每分钟2.62美元左右，但也可能高达每分钟7.25美元左右。（财联社）",
+    "publish_time": "2024-04-11 07:32:20",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "日本制铁收购美国钢铁一事据悉遭美司法部正式调查",
+    "url": "https://www.36kr.com/newsflashes/2728260786087168",
+    "summary": "据报道，知情人士透露，美国司法部已对日本制铁斥资141亿美元收购美国钢铁公司一事展开深入的反垄断调查，此举升级了美国政府对这一有争议的交易的审查。（界面）",
+    "publish_time": "2024-04-11 07:36:18",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "多部门将出台具体措施推动中小微企业以“信”换“贷”",
+    "url": "https://www.36kr.com/newsflashes/2728264513020931",
+    "summary": "国务院办公厅日前印发《统筹融资信用服务平台建设提升中小微企业融资便利水平实施方案》，推动为中小微企业提供高质量金融服务。从4月10日举行的国务院政策例行吹风会上获悉，相关部门将尽快推动信用信息归集加工联合实验室正式运行，继续扩大“信易贷”专项试点，研究推动中小微企业支付资金流信息的共享应用，修订小微企业贷款风险分类办法等制度。（上证报）",
+    "publish_time": "2024-04-11 07:40:05",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "熊猫债走俏催生人民币国际化新动力",
+    "url": "https://www.36kr.com/newsflashes/2728266334856449",
+    "summary": "彭博数据显示，截至一季度末，境外机构今年发行的熊猫债规模达674亿元，同比增长220.95%，创历史新高。熊猫债的存续规模超过2754亿元。以我国国宝命名的熊猫债，是指境外机构在中国境内发行的、以人民币计价的债券。熊猫债市场今年迎来“开门红”，对应着人民币作为“融资货币”的吸引力在持续增强。展望2024年市场发展，多位外资机构人士表示，预计2024年熊猫债仍将保持较高热度、并有望进一步扩容，熊猫债市场增长潜力可期。（上证报）",
+    "publish_time": "2024-04-11 07:42:57",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "现代摩比斯据悉将向Stellanis集团供应泊车用摄像头",
+    "url": "https://www.36kr.com/newsflashes/2728266822526215",
+    "summary": "据韩国每日经济新闻，知情人士称，现代摩比斯公司签署了一项协议，将向Stellantis集团提供350万台用于停车的摄像头。价值约为1000亿韩元。现代摩比斯将为智能泊车提供关键的摄像头部件和解决方案。（界面）",
+    "publish_time": "2024-04-11 07:45:25",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "保险资金重仓股陆续揭晓，去年四季度新进47股",
+    "url": "https://www.36kr.com/newsflashes/2728267797898505",
+    "summary": "作为资本市场重要的专业机构投资者，保险资金（以下简称“险资”）的动向备受市场关注。随着上市公司2023年年报的陆续公布，险资最新持股动向也浮出水面。截至最新，险资合计现身250只股票的前十大流通股东榜单，合计持仓市值达到9236亿元，其中47只股票为险资新进重仓股。（证券时报）",
+    "publish_time": "2024-04-11 07:47:35",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "AI助力新药研发破局，上市公司抢滩黄金赛道",
+    "url": "https://www.36kr.com/newsflashes/2728268402730243",
+    "summary": "以人工智能（AI）大模型为主导的新兴技术，正在加速重塑医药制造行业。AI和医药行业的融合，有望改善行业重投入、高风险的现状，推动行业更快地发展。跨国医药巨头也纷纷拥抱这场技术革命，或通过与AI药企合作，或通过自研方式积极变革。目前国内已有两家AI制药企业晶泰科技、英矽智能提交了港交所上市申请。A股上市公司也在加速布局AI制药，不过，多家医药公司和投资人均表示，虽然AI制药赛道前景广阔，玩家众多，但仍面临商业化落地困难等多种困境，未来发展任重道远。（证券时报）",
+    "publish_time": "2024-04-11 07:50:03",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "锂价下跌盈利下降，锂矿企业年报“失色”",
+    "url": "https://www.36kr.com/newsflashes/2728270676960259",
+    "summary": "翻看锂矿企业近期披露的2023年年报，“盈利能力下降”成为高频词。“生产经营都没问题，主要还是锂价大幅下跌所致。”对于锂矿企业2023年年报数据“失色”，A股某锂矿企业人士表示，过去两年受益于锂价大幅飙涨，产业公司业绩纷纷激增，如今随着锂价回归理性，业绩下滑在所难免。尽管价格红利或一去不返，但在业内人士看来，在新能源汽车及储能产业高速发展的背景下，锂盐产品本身的需求仍旧存在。（上证报）",
+    "publish_time": "2024-04-11 07:52:22",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "业绩修复叠加低估值，港股基金开始坚定做多",
+    "url": "https://www.36kr.com/newsflashes/2728271172215815",
+    "summary": "港股QDII（合格境内机构投资者）基金首次在最近两年挤进QDII基金业绩前十，凸显出中国经济复苏的韧性。记者注意到，在内地公募资金南下、海外资金回流的助力下，港股市场连续多日大幅跑赢A股，低迷已久的港股市场正迎来复苏，甚至一些在基金合同里拥有投资美股权限的基金经理，也放弃了美股机会，反而坚定重仓更具性价比的港股。对此，多个基金经理强调，港股市场当前正处于严重低估和业绩修复双重效应下，有望逐步展开一波反弹行情。（证券时报）",
+    "publish_time": "2024-04-11 07:54:54",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "OpenAI据悉邀请前员工出售股份",
+    "url": "https://www.36kr.com/newsflashes/2728271658083333",
+    "summary": "The Information4月11日消息，OpenAI已经告诉一些前员工，他们可以出售OpenAI的股份，这是OpenAI最近发出的收购要约的延续，该要约估值为860亿美元。前员工可以在4月15日之前决定是否参与股票出售。（界面）",
+    "publish_time": "2024-04-11 07:56:21",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "理财“掘金”风渐起",
+    "url": "https://www.36kr.com/newsflashes/2728272945882118",
+    "summary": "伴随黄金价格持续走高，银行理财入场“掘金”加码。据梳理，近期招银理财、兴银理财、平安理财等多家理财公司推出“含金”理财产品，产品主要以“固收+黄金”理财产品和挂钩黄金标的的结构化理财产品为主。黄金热潮下，投资者能否安全“上车”成为焦点。市场人士认为，随着黄金市场的持续升温，银行理财机构看好黄金投资机会，所以纷纷通过多资产配置、多策略组合布局黄金资产。投资者在实际选择中，需要注意黄金市场价格波动的风险因素，谨慎投资“含金”理财产品。（上证报）",
+    "publish_time": "2024-04-11 07:58:40",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "关注上市公司一季报业绩，哑铃型策略成公募二季度标配",
+    "url": "https://www.36kr.com/newsflashes/2728273722549506",
+    "summary": "近日，多家公募基金公司二季度投资策略报告出炉。从投资策略的共同之处来看，大部分公募都将2024年上市公司一季报业绩披露作为投资重要关注点，上市公司业绩或将成为二季度投资的重要逻辑。在策略配置上，多家基金公司依然继续沿用相对均衡的哑铃型策略，即高股息叠加科技成长的配置。此外，出海产业链、资源行业、新质生产力等也成为受到较多关注的方向。（中证网）",
+    "publish_time": "2024-04-11 08:00:28",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "OpenAI奥特曼据悉会见阿联酋官员讨论人工智能合作",
+    "url": "https://www.36kr.com/newsflashes/2728274115208197",
+    "summary": "彭博4月11日消息，知情人士称，OpenAI首席执行官山姆·奥特曼（Sam Altman）本周在阿联酋会见了投资者和政府官员，讨论私营部门如何与各国合作，为人工智能提供基础设施支持。（界面）",
+    "publish_time": "2024-04-11 08:02:50",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "场内价格现“过山车”，黄金主题基金规模陡增",
+    "url": "https://www.36kr.com/newsflashes/2728275336815877",
+    "summary": "近期，受黄金价格大涨影响，黄金主题基金获得了投资者的强烈关注。一方面，多只场内基金因较高溢价接连发布停牌公告；另一方面，强势吸金、扎堆新发、提高限购金额等情况接连出现。展望后市，永赢黄金股ETF基金经理刘庭宇预计，金价或仍有上升空间。从资金层面来看，主要购金国的黄金储备占比仍在低位，未来还有大量潜在的资金买盘可能会在合适的时机进场，或推动金价进入新一轮上升行情。（中证网）",
+    "publish_time": "2024-04-11 08:05:06",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "ETag and HTTP Caching",
+    "url": "https://rednafi.com/misc/etag_and_http_caching/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39996521\">Comments</a>",
+    "publish_time": "2024-04-11 06:51:47",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "OpenGrok: Fast and usable source code search and cross reference engine",
+    "url": "https://github.com/oracle/opengrok",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39996743\">Comments</a>",
+    "publish_time": "2024-04-11 07:26:49",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Substack Writers Concerned as Subscriptions 'Plummet' Due to Follow Feature",
+    "url": "https://www.thewrap.com/substack-follow-feature-problems-subscriptions-down/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39996491\">Comments</a>",
+    "publish_time": "2024-04-11 06:47:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Do You Need IPv4 Anymore?",
+    "url": "https://blog.daknob.net/do-you-really-need-ipv4-anymore/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=39996504\">Comments</a>",
+    "publish_time": "2024-04-11 06:49:46",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
