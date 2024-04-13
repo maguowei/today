@@ -570,5 +570,38 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Self-Hosted Is Awesome",
+    "url": "https://pixeljets.com/blog/self-hosted-is-awesome/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40022152\">Comments</a>",
+    "publish_time": "2024-04-13 19:00:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How to Send an SMS in Haskell (2017)",
+    "url": "https://www.twilio.com/en-us/blog/setting-up-your-haskell-developer-environment-with-twilio-html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40022347\">Comments</a>",
+    "publish_time": "2024-04-13 19:26:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ray Tracer in a Boot Sector",
+    "url": "https://github.com/nanochess/RayTracer",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40015460\">Comments</a>",
+    "publish_time": "2024-04-13 01:33:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
