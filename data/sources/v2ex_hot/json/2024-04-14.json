@@ -75,5 +75,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "上万条数据, 短时间内连续查询几千次, 是数据库查, 还是内存查更好一点?",
+    "url": "https://www.v2ex.com/t/1032362",
+    "summary": "bthulu: <p>客户库存有一万多, 要将这一万多库存按客户要求分散到几百个工位上, 需要针对库存的多个属性进行多次查询, 循环里套循环, 能查上千次甚至更多.</p>\n<p>这种情况下, 我是直接数据库查, 还是将数据一次全拉到内存, 在内存里查更好?</p>\n<p>数据库查可以走索引, 内存里可就没索引查一次就是全量遍历一次了. 如果有内存里支持索引的列表就好了. 语言是.net8.</p>\n<p>别说什么优化查询方案一次查询搞定的了, 这不可能. 现实业务就是各个工位之间关系也是错综复杂, 只能这样查了.</p>",
+    "publish_time": "2024-04-14 15:42:17",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
