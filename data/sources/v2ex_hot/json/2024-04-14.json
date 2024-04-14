@@ -42,5 +42,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "腾讯云发布 0408 故障报告",
+    "url": "https://www.v2ex.com/t/1032290",
+    "summary": "kincaid: <p>原文： <a href=\"https://mp.weixin.qq.com/s/2e2ovuwDrmwlu-vW0cKqcA\" rel=\"nofollow\">https://mp.weixin.qq.com/s/2e2ovuwDrmwlu-vW0cKqcA</a></p>\n<p>省流版：\n故障的原因是云 API 服务新版本向前兼容性考虑不够和配置数据灰度机制不足的问题。</p>\n<p>本次 API 升级过程中，由于新版本的接口协议发生了变化，在后台发布新版本之后对于旧版本前端传来的数据处理逻辑异常，导致生成了一条错误的配置数据，由于灰度机制不足导致异常数据快速扩散到了全网地域，造成整体 API 使用异常。</p>\n<p>发生故障后，按照标准回滚方案将服务后台和配置数据同时回滚到旧版本，并重启 API 后台服务，但此时因为承载 API 服务的容器平台也依赖 API 服务才能提供调度能力，即发生了循环依赖，导致服务无法自动拉起。通过运维手工启动方式才使 API 服务重启，完成整个故障恢复。</p>\n<p>想起了之前传闻某团队修复健康码因为健康码无法展示进不了大楼的事情了</p>",
+    "publish_time": "2024-04-14 08:22:14",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "真离谱。。。被 vultr 和 hetzner 两个国外云计算商删号了。。。 vultr 填信用卡后被删， hetzner 刚注册就被删，还能抢救一下吗？（内附完整经历，请各位出出主...",
+    "url": "https://www.v2ex.com/t/1032317",
+    "summary": "0x0208v0: <p>如题，都说这两家服务稳定，机器好，想注册账号买便宜的 VPS ，部署网站，   </p>\n<p>结果。。。被删号了。。。  </p>\n<p>vultr 我填了 bewildcard 的虚拟卡，被扣了 1 美元，说等 24 小时审核  </p>\n<p>结果第二天就登不上了。。提示账号或者密码无效。。。去官网找不到联系邮箱，  </p>\n<p>提工单只能登陆账号以后才行。 。。 </p>\n<p>hetzner 更惨，刚注册完账号，就被删除了，用邮件和官方沟通， </p>\n<p>说我填的信息虚假。。。   </p>\n<p>怎么办啊，有懂的小伙伴吗？</p>",
+    "publish_time": "2024-04-14 11:21:40",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
