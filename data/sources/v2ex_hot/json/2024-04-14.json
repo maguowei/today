@@ -64,5 +64,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "QQ 邮箱不要 FACE 啊",
+    "url": "https://www.v2ex.com/t/1032338",
+    "summary": "biuyixia: <p>写了一个虚拟币的价格监控程序，有异动的时候就邮箱提醒，发件地址是 <a href=\"mailto:jiage@xxx.com\">jiage@xxx.com</a> 。</p>\n<p>晚上刚开始跑的时候正常，发了信就能接收到通知，设置的发件人姓名也能显示。</p>\n<p>后续到了凌晨 4 点就不正常了，只要 <a href=\"mailto:jiage@xxx.com\">jiage@xxx.com</a> 发的信就会延迟 15 分钟通知，微信绑定的 QQ 邮箱通知服务如此，QQ 邮箱客户端的通知也是如此，设置的发件人姓名也不显示了，直接显示发件邮箱，可能跟币价变动太快中间发信发的多点有关系。</p>\n<p>去邮箱查看会发现邮件收件时间其实 15 分钟前就已经收到了，就是给延迟了 15 分钟通知。其他发件人的邮件通知不受影响。</p>\n<p>QQ 邮箱要不要 FACE 啊，我理解他可能怕客户被轰炸，但是他也没给选择啊，就私自延迟通知。对于想自己给自己发送邮件做提醒的人来说，很是蛋疼。</p>\n<p>跪求解决办法。</p>\n<p><img alt=\"图片 1\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://img2.imgtp.com/2024/04/14/6Ta6B9X5.jpg\" title=\"开始延迟\" />\n<img alt=\"图片 2\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://img2.imgtp.com/2024/04/14/kKjLTu4q.jpg\" title=\"收件时间\" />\n<img alt=\"图片 3\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://img2.imgtp.com/2024/04/14/QtQA9DwF.jpg\" title=\"通知时间\" /></p>",
+    "publish_time": "2024-04-14 13:21:26",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
