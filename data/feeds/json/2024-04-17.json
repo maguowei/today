@@ -1832,5 +1832,81 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "谁在外滩放了台超大AIPC",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%9C%A8%E5%A4%96%E6%BB%A9%E6%94%BE%E4%BA%86%E5%8F%B0%E8%B6%85%E5%A4%A7AIPC%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "姚志明爆改门童",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A7%9A%E5%BF%97%E6%98%8E%E7%88%86%E6%94%B9%E9%97%A8%E7%AB%A5%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "极越回应员工自称因买小米SU7被辞",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9E%81%E8%B6%8A%E5%9B%9E%E5%BA%94%E5%91%98%E5%B7%A5%E8%87%AA%E7%A7%B0%E5%9B%A0%E4%B9%B0%E5%B0%8F%E7%B1%B3SU7%E8%A2%AB%E8%BE%9E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "苏州冰淇淋",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B7%9E%E5%86%B0%E6%B7%87%E6%B7%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "官方回应婆婆杀害儿媳 3 只狗「已出警并进行教育劝导」，如何看待此事？",
+    "url": "https://www.zhihu.com/question/653102599",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "跑步健身，在线路上的选择，你有哪些可以分享的经验？",
+    "url": "https://www.zhihu.com/question/653021453",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美股三大指数收盘涨跌不一，特斯拉市值一度跌破5000亿美元",
+    "url": "https://www.36kr.com/newsflashes/2736692968909062",
+    "summary": "36氪获悉，4月16日收盘，美股三大指数涨跌不一，道指涨0.17%，纳指跌0.12%，标普500指数跌0.21%。大型科技股涨跌不一，特斯拉跌近3%，盘中市值一度跌破5000亿美元；苹果跌近2%，谷歌、亚马逊、Meta小幅下跌，英伟达、Netflix涨超1%。热门中概股多数下跌，B站、蔚来跌超2%，网易、阿里巴巴、京东跌超1%，小鹏汽车、理想汽车、拼多多、百度小幅下跌，微博、爱奇艺小幅上涨。",
+    "publish_time": "2024-04-17 07:00:02",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Tvix – A New Implementation of Nix",
+    "url": "https://tvix.dev/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40057667\">Comments</a>",
+    "publish_time": "2024-04-17 05:51:27",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
