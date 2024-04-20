@@ -1493,5 +1493,85 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "主人好厉害会开这么难的车",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BB%E4%BA%BA%E5%A5%BD%E5%8E%89%E5%AE%B3%E4%BC%9A%E5%BC%80%E8%BF%99%E4%B9%88%E9%9A%BE%E7%9A%84%E8%BD%A6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "常用电脑的人手部功能退化严重",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B8%B8%E7%94%A8%E7%94%B5%E8%84%91%E7%9A%84%E4%BA%BA%E6%89%8B%E9%83%A8%E5%8A%9F%E8%83%BD%E9%80%80%E5%8C%96%E4%B8%A5%E9%87%8D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "你从别人的旧硬盘里发现了什么有趣的东西？",
+    "url": "https://www.zhihu.com/question/651339058",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "一个普通家庭，一年存款多少算合理？",
+    "url": "https://www.zhihu.com/question/305723555",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Microsoft teases deepfake AI that's too good to release",
+    "url": "https://www.theregister.com/2024/04/20/microsoft_deepfake_vasa/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40100890\">Comments</a>",
+    "publish_time": "2024-04-21 04:48:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Relatively Universal ROM Programmer Makes Retro Tech Hacking Accessible",
+    "url": "https://hackaday.com/2024/04/20/relatively-universal-rom-programmer-makes-retro-tech-hacking-accessible/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40100643\">Comments</a>",
+    "publish_time": "2024-04-21 04:14:43",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Two lifeforms merge in once-in-a-billion-years evolutionary event",
+    "url": "https://newatlas.com/biology/life-merger-evolution-symbiosis-organelle/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40101290\">Comments</a>",
+    "publish_time": "2024-04-21 05:46:12",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Bringing Exchange Support to Thunderbird",
+    "url": "https://blog.thunderbird.net/2024/04/adventures-in-rust-bringing-exchange-support-to-thunderbird/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40100672\">Comments</a>",
+    "publish_time": "2024-04-21 04:19:06",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
