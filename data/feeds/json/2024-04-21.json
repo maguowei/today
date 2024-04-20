@@ -1057,5 +1057,112 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "北汽科技品质在线",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%B1%BD%E7%A7%91%E6%8A%80%E5%93%81%E8%B4%A8%E5%9C%A8%E7%BA%BF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "张艺兴Psychic国内舞台首秀",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4Psychic%E5%9B%BD%E5%86%85%E8%88%9E%E5%8F%B0%E9%A6%96%E7%A7%80%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "不够善良的我们",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%A4%9F%E5%96%84%E8%89%AF%E7%9A%84%E6%88%91%E4%BB%AC%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "林高远张本智和",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9C%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "看见有人形容一款手游“叫好不叫座”，这种手游真的存在吗？",
+    "url": "https://www.zhihu.com/question/653523537",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "减肥真的需要饿吗？",
+    "url": "https://www.zhihu.com/question/647575142",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "能分享一下你曾经写过的诗、故事或小说吗？",
+    "url": "https://www.zhihu.com/question/650792433",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Hierarchical Clustering",
+    "url": "https://en.wikipedia.org/wiki/Hierarchical_clustering",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40098960\">Comments</a>",
+    "publish_time": "2024-04-21 01:24:56",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Multiple Planes Cross Runway While Another Is Taking Off [video]",
+    "url": "https://www.youtube.com/watch?v=KW6lAwLy_Os",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40098469\">Comments</a>",
+    "publish_time": "2024-04-21 00:20:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "VLC vs. the App Stores",
+    "url": "https://mjtsai.com/blog/2024/04/19/vlc-vs-the-app-stores/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40098867\">Comments</a>",
+    "publish_time": "2024-04-21 01:15:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Tips on adding JSON output to your command line utility. (2021)",
+    "url": "https://blog.kellybrazil.com/2021/12/03/tips-on-adding-json-output-to-your-cli-app/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40098606\">Comments</a>",
+    "publish_time": "2024-04-21 00:42:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
