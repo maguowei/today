@@ -53,5 +53,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "大家有在网上配眼镜么，有什么店铺可以推荐？",
+    "url": "https://www.v2ex.com/t/1034304",
+    "summary": "justincnn: <p>时常有看到 v 友在网上配镜，大家都是去哪里的？</p>\n<p>pdd ？ smzdm 上推荐的 jd 第三方都是商家在自推，感觉和 pdd 也没有什么区别</p>\n<p>大家有什么推荐的么？先谢谢了</p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://s2.loli.net/2024/04/14/z36OKu2WtXS1Ny5.png\" /></p>",
+    "publish_time": "2024-04-21 09:13:26",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "AlibabaCloud/Opencloud/centos8/Ubuntu/Debian 各自有什么优势",
+    "url": "https://www.v2ex.com/t/1034311",
+    "summary": "htxy1985: 新手想避避坑，问 Ai 就是说各有优势，有没有实际有使用体会的兄弟指点一下的，感谢",
+    "publish_time": "2024-04-21 10:34:01",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "分享个人认为是旁路由透明代理的终极方案",
+    "url": "https://www.v2ex.com/t/1034317",
+    "summary": "povsister: <p><del>想来想去这玩意除了 GitHub 好像只有这里能讨论了</del></p>\n<h2>开头先叠个甲</h2>\n<p>本方案，<del>配置繁琐完全不能开箱即用</del>，适合</p>\n<ul>\n<li>有一定网络基础知识（理解透明代理，路由表，防火墙等）</li>\n<li>有网关大流量吞吐需求（例如：BT/PT 下载）</li>\n<li>对家庭网络稳定性要求高（例如：主路由为纯粹电信级设备）</li>\n<li>有任意内网终端的科学需求（例如：坐在马桶上可以接力阅读电脑网页的内容）</li>\n<li>不希望在终端设备上做特殊设置（包括切换终端设备默认网关，切换 SSID 等）</li>\n<li>有异地组网需求的用户（远程 L2TP 回家，异地打洞组网等）</li>\n</ul>\n<p>以下内容不是完全教程向，仅会在关键步骤上予以解释说明。</p>\n<p>请在充分理解方案，并考虑自己需求后再进行尝试，有问题我会尽量解答。</p>\n<h1>背景</h1>\n<p>我个人需求是，\n科学只部署在旁路由上，\n主路由只承担拨号，转发，vlan ，子网划分等纯 L2/L3 的工作，追求极致稳定。\n内网设备不用安装代理软件，切换网关等。</p>\n<p>所以，基本就只有网关透明代理一种方案可选。</p>\n<p>但现有的两种基于透明代理的网关方案</p>\n<ul>\n<li>要么是流量全部经过代理（默认网关设置为旁路）</li>\n<li>要么是指定某一台内网设备全部过代理（这台设备的默认网关写旁路由）</li>\n</ul>\n<p>前者性能差，而且面对 BT/PT 等高连接数大流量的场景表现不好，而且经过代理后，NAT 状况可能会变的复杂。<del>当然你说加钱可以解决，但是我用不起 E5 当软路由网关这个确实是我的问题。</del></p>\n<p>后者不够灵活，每次要使用的时候都需要设置，用完还得恢复，过于繁琐。<del>懒才是人类进步的第一动力</del></p>\n<p>所以，我需要一种能够<strong>按需分流至旁路由，全程无需人工介入的方案。</strong></p>\n<p>在这个方案中，主路由仍然负责大多数场景的流量处理，仅在命中某些规则的时候，按需转发流量至旁路处理。</p>\n<h1>方案</h1>\n<p>现有的代理软件尤其是 *Ray-core 系列，在规则定义上已经非常成熟好用，社区也有非常多的预定义的域名/IP 列表可以使用。</p>\n<p>但是，主路由作为电信设备，不能也不适合直接加载域名列表/进行流量嗅探之类的。</p>\n<p>这种设备唯一进行流量转发的依据就只有路由表/防火墙规则。</p>\n<p>所以，我需要将这些规则，适当翻译成电信设备能理解的路由表和防火墙规则。</p>\n<p>基于这个想法，我去年<a href=\"https://github.com/v2fly/v2ray-core/discussions/2686\" rel=\"nofollow\">在 v2fly 社区，提出了基于 DNS 嗅探的动态路由通告方案</a>，详细罗列了优缺点。\n有兴趣的可以去看看。</p>\n<p><del>然后因为太忙鸽了大半年</del></p>\n<p><strong>最近终于抽出时间来，按照自己的想法，手搓了一个对应的实现。</strong></p>\n<p>但在使用中也碰到一些小问题，<a href=\"https://github.com/XTLS/Xray-core/discussions/3284\" rel=\"nofollow\">目前分享在 xray 社区讨论</a>，里边也有一些配置的截图和基本解释。\n<del>感兴趣的可以来填坑</del></p>\n<h2>原理上主要还是三大块：</h2>\n<ul>\n<li>*Ray-core 接管 DNS 解析</li>\n<li>根据 DNS 解析结果+配置的路由决策，将路由决策结果转换为动态路由表，然后通告给主路由</li>\n<li>路由环路的预防和解决</li>\n</ul>\n<h2>实现步骤为</h2>\n<ul>\n<li>将主路由的 DNS 指向旁路由</li>\n<li>旁路由上的*Ray-core 接管内网 DNS 解析，并按照国内外域名做 DNS 分流请求： <a href=\"https://github.com/Loyalsoldier/v2ray-rules-dat/\" rel=\"nofollow\">Loyalsoldier/v2ray-rules-dat</a></li>\n<li>根据域名和 DNS 解析结果，预先查询一次自身的路由规则（同样可以应用上面的规则集）</li>\n<li>如果该域名命中代理规则，则将对应的 IP 段通告给主路由，让主路由将对应流量转发过来</li>\n<li>如果不命中，则不做任何操作，返回 DNS 解析结果，对应流量仍由主路由处理</li>\n</ul>\n<h2>这一套组合拳下来</h2>\n<ul>\n<li><strong>解决了 DNS 污染问题</strong>：GFW 污染，以及同类型方案 FakeDNS 造成的污染</li>\n<li><strong>避免网关性能问题</strong>：流量按需转发，麻麻再也不怕我的旁路冒烟了</li>\n<li>避免全局透明代理可能的 NAT 问题</li>\n<li><strong>内网设备完全无感</strong>：无需 SSID 切换也无需划 vlan 换网关等操作</li>\n<li><strong>网络稳定性问题</strong>：不用担心科学爆炸导致断网</li>\n<li><strong>自动容灾</strong>：如果旁路 GG ，OSPF 探活会自动清理对应路由，实际只有 DNS 会受到影响，但并不致命</li>\n</ul>\n<h1>设备需求</h1>\n<h2>主路由</h2>\n<ul>\n<li>支持动态路由协议 OSPFv2 ，</li>\n<li>支持策略路由（用于防止路由环路）</li>\n</ul>\n<p><del>推荐使用 ROS</del></p>\n<h2>旁路由</h2>\n<ul>\n<li>可以运行 v2ray/xray 的 linux 机器，有一个网口即可</li>\n</ul>\n<p>我个人使用运行在 AIO 里的 Debian 12 </p>\n<p><del>最后，拿一根网线把主路由和旁路由连接起来</del></p>\n<p>理论上，如果你旁路由是跑在主路由里的虚拟机也没问题，但是你都主路由上软路由了，搞这个没意义的。</p>\n<h1>关键步骤</h1>\n<ol>\n<li><strong>旁路由</strong> 配置 TPROXY 方式的*Ray-core 透明代理，接管 53 UDP 的 DNS 查询，接受 TCP/UDP 协议传入，linux 内核开启 ip 转发（开 ipv4 即可）</li>\n<li><strong>旁路由</strong> *Ray-core 配置国内网站的 DNS 分流，建议使用 ISP DNS + 腾讯 DNS Backup 的形式（<a href=\"https://github.com/v2fly/v2ray-core/issues/2981\" rel=\"nofollow\">这块 v2ray 有 bug 记得不要跟我一样再踩一遍</a>），默认兜底 DNS 依据你个人喜欢，配 CF 或者谷歌都可以</li>\n<li><strong>旁路由</strong> 配置*Ray-core 的路由分流规则，建议用 GFW 黑名单规则。</li>\n<li><strong>旁路由</strong> nftable 配置 srcnat ，即所有转发 IP 报文要 masquerade<strong>（重要）</strong></li>\n<li><strong>主路由</strong> 开启 OSPFv2 动态路由协议：类型 broadcast ，area=0 ，HelloInterval=10s ，DeadInterval=40s ，RouterId 填主路由自己内网 IP 。</li>\n<li><strong>观察旁路由</strong> 的*Ray-core 是否已经完成路由协议握手，即日志有没有 neighbor state Full 的字样，同时主路由上应该也能看到旁路由的邻接状态。</li>\n<li><strong>主路由</strong> 将 DNS 服务器指向旁路由的 IP ，此时 DNS 请求应该全部由旁路的*Ray-core 进行处理。</li>\n<li><strong>主路由</strong> 设置策略路由：来源为旁路由 IP 的报文直接经由 WAN 口发出<strong>（用于配合配置 4 避免路由环路，以及直接发出透明代理不处理的流量，毕竟透明代理只处理 TCP/UDP 数据）</strong></li>\n<li>如果有访问旁路的需求，则在相同策略路由表里，再添加一条到内网地址区间的静态路由即可。</li>\n</ol>\n<p><del>这里贴不了图</del>，部分步骤的图示及配置可以参考<a href=\"https://github.com/XTLS/Xray-core/discussions/3284\" rel=\"nofollow\">xray 社区的 discussion</a></p>\n<p><strong>可用代码目前在我 fork 的 v2ray 分支上。可以自行构建。</strong></p>\n<h1>FAQ</h1>\n<p><strong>Q：主路由表不会爆炸吗</strong></p>\n<p>A：目前会以 DNS 解析结果的/24 掩码进行 OSPF 路由通告，且 2 小时内不访问的网段会自动清理。日常大概 200-300 条路由的样子。</p>\n<p><strong>Q：OSPF 收敛速度怎么样</strong></p>\n<p>A：啪的一下，很快啊。首次访问的情况下如果运气不好被 RST 了，立即刷新一下就能加载出来。</p>\n<p><strong>Q：eBPF DAE/paopaoGateway/mosdns 了解一下？</strong></p>\n<p>A：<del>别骂了别骂了，我要是买的起性能那么好的软路由做网关折腾这个干啥。</del></p>\n<p>开个玩笑，DAE 是内核态加速，本质流量还是要从透明代理过。ppGW 基于 FakeDNS ，我接受不了污染问题。mosdns 仍然需要配合多个软件使用，我的哲学还是 simple is better <del>大道智减</del>，所以最终魔改了一个仅需要*Ray-core 就可以的方案。</p>\n<p>而且我也有 L2TP 回家，vlan 划分，子网转发/ACL ，远程异地网等一堆传统电信设备强项的需求。传统的硬件路由设备稳定性都还是要好不少的。<del>呜呜我开机 600 多天的 ROS 上周被我不小心重启了</del></p>\n<p><strong>Q：碰到 IP 直连，DoH/DoT 的应用怎么办</strong></p>\n<p>A：<del>你怎么知道我被 telegram 的回旋镖打了。</del></p>\n<p>提供 persistentRoute 配置，支持 geoip 或者手写静态路由，由*Ray-core 固定通告给主路由即可。</p>\n<p>这种 case 还是比较少，完全可以挨个打地鼠解决，会视情况考虑 persistentDomain 之类的配置。</p>\n<h1>One more thing</h1>\n<p>除开 ROS 本身具有的 GRE/L2TP IPSec 这些组网工具外，XRay-core 透明代理玩的比较花的应该已经意识到了，通过透明代理这一桥梁，还可以将任意运行 XRay-core 的远程网络纳入自己的局域网（尤其是自己有公网地址的话），实现两侧网络的 L3 级别互通，再搭配 DNS 分流机制，具体用途就不细说了，一个字，香！</p>",
+    "publish_time": "2024-04-21 11:18:05",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
