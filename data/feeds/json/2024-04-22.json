@@ -1268,5 +1268,136 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "桃花坞出游季",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%A1%83%E8%8A%B1%E5%9D%9E%E5%87%BA%E6%B8%B8%E5%AD%A3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "韩网评价金秀贤演技",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BD%91%E8%AF%84%E4%BB%B7%E9%87%91%E7%A7%80%E8%B4%A4%E6%BC%94%E6%8A%80%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "曼联",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9B%BC%E8%81%94%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "皇马vs巴萨",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%9A%87%E9%A9%ACvs%E5%B7%B4%E8%90%A8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "2024澳门乒乓球男子世界杯决赛，马龙4-3逆转林高远，第3次拿到世界杯冠军，如何评价双方赛场发挥？",
+    "url": "https://www.zhihu.com/question/653673158",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何看待今晚足总杯半决赛-考文垂vs曼联，3-3平，点球大战曼联4-2险胜?",
+    "url": "https://www.zhihu.com/question/653682192",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "How do you recognize an expert?",
+    "url": "https://lemire.me/blog/2024/04/21/how-do-you-recognize-an-expert/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40107738\">Comments</a>",
+    "publish_time": "2024-04-22 01:56:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "It's not your age that's slowing your metabolism, new research says",
+    "url": "https://www.cnn.com/2021/09/24/health/how-to-boost-metabolism-wellness/index.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40107607\">Comments</a>",
+    "publish_time": "2024-04-22 01:44:08",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Anti-municipal broadband budget amendment gets nixed in New York",
+    "url": "https://communitynets.org/content/anti-muni-broadband-budget-amendment-gets-nixed-new-york",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40107201\">Comments</a>",
+    "publish_time": "2024-04-22 00:48:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "California Electricity Mix Live Dashboard",
+    "url": "https://www.gridstatus.io/live/caiso",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40108031\">Comments</a>",
+    "publish_time": "2024-04-22 02:32:22",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Lossless Acceleration of LLM via Adaptive N-Gram Parallel Decoding",
+    "url": "https://arxiv.org/abs/2404.08698",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40107787\">Comments</a>",
+    "publish_time": "2024-04-22 02:02:40",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Understanding What Matters for LLM Ingestion and Preprocessing",
+    "url": "https://unstructured.io/blog/understanding-what-matters-for-llm-ingestion-and-preprocessing",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40107509\">Comments</a>",
+    "publish_time": "2024-04-22 01:30:54",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Penzai: JAX research toolkit for building, editing, and visualizing neural nets",
+    "url": "https://github.com/google-deepmind/penzai",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40107007\">Comments</a>",
+    "publish_time": "2024-04-22 00:28:49",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
