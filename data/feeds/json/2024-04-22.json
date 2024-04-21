@@ -1399,5 +1399,54 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "哈哈哈哈哈",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%88%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "中国土味短剧在日本火了",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%9C%9F%E5%91%B3%E7%9F%AD%E5%89%A7%E5%9C%A8%E6%97%A5%E6%9C%AC%E7%81%AB%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "许美静演唱会现场观众大喊退票，当地文旅局回应「已有相关部门处理」，哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/653651513",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Simon Tatham's Portable Puzzle Collection",
+    "url": "https://www.chiark.greenend.org.uk/~sgtatham/puzzles/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40107456\">Comments</a>",
+    "publish_time": "2024-04-22 01:25:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Fading Memories of Youth",
+    "url": "https://www.science.org/content/article/are-your-earliest-childhood-memories-still-lurking-your-mind-or-gone-forever",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40108069\">Comments</a>",
+    "publish_time": "2024-04-22 02:36:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
