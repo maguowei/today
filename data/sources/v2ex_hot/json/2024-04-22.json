@@ -97,5 +97,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "逆天！干了 3 年的同事用 base64 编码做 token 并且把密码也放了进去",
+    "url": "https://www.v2ex.com/t/1034660",
+    "summary": "xhatt510: <h4>最近做项目，他搞了用户登陆和状态保持。</h4>\n<h5>当时存的时候他跑过来问我密码要不要用 base64 加密存。</h5>\n<h5>我说这和明文没啥区别把，区别就是比明文多浪费<code>1/3</code>空间。不如直接加盐然后存 md5 。</h5>\n<p>当我看到 token 的时候，我人直接傻了。</p>\n<h5>这就是 token <code>YWRtaW58cGFzczEyMzQ1NnwxNzEzNzcxNzg4</code></h5>\n<p>我相信只要干过开发的人一眼就能认出来这是什么东西。\n我本来以为这已经够逆天了。解码出来的内容才真的让人窒息。</p>\n<h4><code>admin|pass123456|1713771788</code></h4>\n<p>数据库的 user 表里面的用户名和密码也都是<code>base64 编码</code>存储的。</p>\n<p>我本以为这种最基本的常识问题，只可能在一个实习生身上发生，但是这个同事至少在这里干了 3 年了</p>\n<h5>在他的知识库里 <code>base64 编码</code>=加密</h5>\n<h4>然后只有这种格式的才叫<code>json</code>。（用一对花括号包裹<code>{}</code>）</h4>\n<pre><code class=\"language-json\">{\n    \"test\": 1\n}\n</code></pre>\n<p>这种不叫<code>json</code>，更别说其他的值类型的被叫<code>json</code></p>\n<pre><code class=\"language-json\">[\n    \"abc\",\n    \"def\"\n]\n</code></pre>",
+    "publish_time": "2024-04-22 16:03:46",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
