@@ -3138,5 +3138,417 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "我是O",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E6%98%AFO%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "清远站辟谣途经高铁车厢进水",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B8%85%E8%BF%9C%E7%AB%99%E8%BE%9F%E8%B0%A3%E9%80%94%E7%BB%8F%E9%AB%98%E9%93%81%E8%BD%A6%E5%8E%A2%E8%BF%9B%E6%B0%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "白色橄榄树首发预告",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E8%89%B2%E6%A9%84%E6%A6%84%E6%A0%91%E9%A6%96%E5%8F%91%E9%A2%84%E5%91%8A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "美国军方代表团抵达青岛",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%86%9B%E6%96%B9%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%8A%B5%E8%BE%BE%E9%9D%92%E5%B2%9B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "周迅陈坤为极星汽车代言",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E8%BF%85%E9%99%88%E5%9D%A4%E4%B8%BA%E6%9E%81%E6%98%9F%E6%B1%BD%E8%BD%A6%E4%BB%A3%E8%A8%80%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "小熊花园定档",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%86%8A%E8%8A%B1%E5%9B%AD%E5%AE%9A%E6%A1%A3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "单休的人连上九天班",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BC%91%E7%9A%84%E4%BA%BA%E8%BF%9E%E4%B8%8A%E4%B9%9D%E5%A4%A9%E7%8F%AD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "念无双预告",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BF%B5%E6%97%A0%E5%8F%8C%E9%A2%84%E5%91%8A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "华为智界S7截胡小米SU7",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E6%99%BA%E7%95%8CS7%E6%88%AA%E8%83%A1%E5%B0%8F%E7%B1%B3SU7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "DNF手游定档",
+    "url": "https://s.weibo.com/weibo?q=%23DNF%E6%89%8B%E6%B8%B8%E5%AE%9A%E6%A1%A3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "仙台有树预约",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BB%99%E5%8F%B0%E6%9C%89%E6%A0%91%E9%A2%84%E7%BA%A6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "春色寄情人今日开播",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%89%B2%E5%AF%84%E6%83%85%E4%BA%BA%E4%BB%8A%E6%97%A5%E5%BC%80%E6%92%AD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "哈尔滨一九四四死装哥和试探姐",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E4%B8%80%E4%B9%9D%E5%9B%9B%E5%9B%9B%E6%AD%BB%E8%A3%85%E5%93%A5%E5%92%8C%E8%AF%95%E6%8E%A2%E5%A7%90%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "新说唱2024",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%AF%B4%E5%94%B12024%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "县城家庭的三个阶层",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8E%BF%E5%9F%8E%E5%AE%B6%E5%BA%AD%E7%9A%84%E4%B8%89%E4%B8%AA%E9%98%B6%E5%B1%82%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "金莎已见过男友家长",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E5%B7%B2%E8%A7%81%E8%BF%87%E7%94%B7%E5%8F%8B%E5%AE%B6%E9%95%BF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "这歌坛还是被张予曦误闯进去了",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%AD%8C%E5%9D%9B%E8%BF%98%E6%98%AF%E8%A2%AB%E5%BC%A0%E4%BA%88%E6%9B%A6%E8%AF%AF%E9%97%AF%E8%BF%9B%E5%8E%BB%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "龚俊骗严浩翔吃青杏子",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E9%AA%97%E4%B8%A5%E6%B5%A9%E7%BF%94%E5%90%83%E9%9D%92%E6%9D%8F%E5%AD%90%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何评价由张黎导演，秦昊、杨幂主演的电视剧《哈尔滨一九四四》？",
+    "url": "https://www.zhihu.com/question/653658740",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "手机上的伸缩镜头有什么用，会不会引领手机影像潮流？",
+    "url": "https://www.zhihu.com/question/653411032",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么看书之后看透了很多事?",
+    "url": "https://www.zhihu.com/question/653654592",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "梦想是用来逃避现实的，还是用来创造生活的？",
+    "url": "https://www.zhihu.com/question/653679772",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "内心强大是一个怎样的状态？",
+    "url": "https://www.zhihu.com/question/653633324",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "你非常喜欢的一句话是什么？",
+    "url": "https://www.zhihu.com/question/652133297",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何量化一个企业的公司治理水平？",
+    "url": "https://www.zhihu.com/question/20632645",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么那么多人吐槽日系车？我吐槽的只是日系车主开的慢",
+    "url": "https://www.v2ex.com/t/1034465",
+    "summary": "haha922: 经常看到吐槽日系车的帖子，现在日系也很便宜了，为啥还在吐槽？马云早就不是首富了，那些吐槽马云的也没看登上富豪榜啊？<br />那些吹爆国产的都买过几辆国产？买过几辆日系才有必要吐槽日系？不会连驾照都没有吧？<br />我开过日系三大妈，同价位来说太棒了。作为国产车主，以后会换日系。",
+    "publish_time": "2024-04-22 07:53:44",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "Sensor Tower：3月全球手游下载量42.9亿次，环比增长8.2%",
+    "url": "https://www.36kr.com/newsflashes/2743988808739336",
+    "summary": "36氪获悉，Sensor Tower商店情报数据显示，Garena《FreeFire》(包括《FreeFireMAX》—）以超过2700万次下载，位列3月全球移动游戏下载榜榜首。Activision Blizzard战术竞技手游《Call of Duty®: Warzone™ Mobile》以超过2200万次下载位列下载量榜单第2名。排名前五的另外3款游戏依次为《Roblox》、Miniclip《Subway Surfers 地铁跑酷》和Gametion《Ludo King》。2024年3月，全球手游在App Store和Google Play的下载量为42.9亿次，环比增长8.2%。",
+    "publish_time": "2024-04-22 10:09:45",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "华为Pura 70标准版及Pro+版正式开售",
+    "url": "https://www.36kr.com/newsflashes/2743990634686978",
+    "summary": "36氪获悉，据华为终端官微消息，4月22日10时08分，华为Pura70 Pro+、华为Pura 70正式开售。据了解，华为Pura 70系列手机共推出4个版本，标准版、Pro版、Pro+及Ultra版。其中，标准版起步价5499元（12GB+256GB），Ultra版最高售价10999元（16GB+1TB）。",
+    "publish_time": "2024-04-22 10:11:37",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "光大证券：化妆品国货品牌进一步崛起",
+    "url": "https://www.36kr.com/newsflashes/2743927029000456",
+    "summary": "36氪获悉，光大证券研报指出，化妆品行业需求仍偏平淡，但竞争格局中，国货品牌进一步崛起。消费降级以及消费者需求细分化的趋势下，部分国货品牌有所受益、份额实现逆势提升。同时，行业内公司已经普遍认可在流量红利逐步减弱的背景下，加强精细化管理、多渠道拓展，追求销售规模和盈利能力的发展平衡。",
+    "publish_time": "2024-04-22 10:11:53",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "光伏设备板块异动拉升，京山轻机触及涨停",
+    "url": "https://www.36kr.com/newsflashes/2743992592361736",
+    "summary": "36氪获悉，截至发稿，光伏设备板块异动拉升，京山轻机触及涨停，隆基绿能、德业股份、晶澳科技、阿特斯、福莱特等跟涨。",
+    "publish_time": "2024-04-22 10:13:36",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "医药医疗股震荡反弹，万孚生物涨超10%",
+    "url": "https://www.36kr.com/newsflashes/2743995124689413",
+    "summary": "36氪获悉，截至发稿，医药医疗股震荡反弹，同和药业、万孚生物涨超10%，亚辉龙、三诺生物、祥生医疗、贝达药业、翰宇药业、艾迪药业等多股涨超5%。",
+    "publish_time": "2024-04-22 10:16:11",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Salesforce收购数据管理软件公司Informatica的谈判据悉已告吹",
+    "url": "https://www.36kr.com/newsflashes/2743991073958146",
+    "summary": "据报道，知情人士透露，Salesforce与数据管理软件公司Informatica之间的谈判告吹，因双方无法就条款达成一致。此前有报道称，Salesforce考虑收购总部位于加州雷德伍德城的Informatica，该交易的估值可能在100亿美元左右。如果成行，该交易原本会是Salesforce史上最大的收购交易之一。（界面）",
+    "publish_time": "2024-04-22 10:18:03",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "阿里云全方位支持Llama 3训练推理，并提供免费算力",
+    "url": "https://www.36kr.com/newsflashes/2743998070860041",
+    "summary": "36氪获悉，4月18日，Meta开源最新Llama 3系列，阿里云魔搭社区第一时间上架全部4款模型。今天，阿里云百炼大模型服务平台宣布在国内推出针对Llama 3系列的限时免费训练、部署、推理服务，系国内首家。企业和开发者即日起即可在阿里云上基于其打造自己的专属大模型。",
+    "publish_time": "2024-04-22 10:19:11",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "煤炭板块震荡走弱，大有能源跌近7%",
+    "url": "https://www.36kr.com/newsflashes/2744007524542722",
+    "summary": "36氪获悉，截至发稿，煤炭板块震荡走弱，大有能源跌近7%，潞安环能、平煤股份、安泰集团、淮北矿业、安源煤业等跟跌。",
+    "publish_time": "2024-04-22 10:28:48",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "猪肉概念震荡走高，立华股份涨超10%",
+    "url": "https://www.36kr.com/newsflashes/2744007988947460",
+    "summary": "36氪获悉，截至发稿，猪肉概念震荡走高，立华股份涨超10%，东瑞股份冲击涨停，神农集团、华统股份、新五丰等多股涨超6%。",
+    "publish_time": "2024-04-22 10:29:16",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "智行者联合清华大学等单位完成国内首套端到端自动驾驶系统的开放道路测试",
+    "url": "https://www.36kr.com/newsflashes/2744009390696707",
+    "summary": "36氪获悉，近日，智行者与清华大学车辆学院李克强院士、李升波教授领导的研究团队，完成了国内首套全栈式端到端自动驾驶系统的开放道路测试。依托车路云一体化智能网联驾驶架构，该团队研发的端到端自动驾驶系统涵盖了“感知-预测-决策-规划-控制”等全链路环节，从今年1月份率先启动了城市工况的开放道路验证，经过近4个月的内部测试，完成了各项性能的综合评估。这一工作为L3级及以上高级别自动驾驶系统的落地应用奠定了坚实的基础。",
+    "publish_time": "2024-04-22 10:30:41",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "港股腾讯控股涨超5%",
+    "url": "https://www.36kr.com/newsflashes/2744012075706882",
+    "summary": "36氪获悉，港股腾讯控股盘中涨超5%，成交额近50亿港元。",
+    "publish_time": "2024-04-22 10:33:25",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "吾壹汽车与北汽制造联合推出新能源多功能车Vala",
+    "url": "https://www.36kr.com/newsflashes/2744012601108996",
+    "summary": "36氪获悉，近日，吾壹汽车与北汽制造联合推出的新能源多功能车Vala，第一台量产车在北京汽车制造工厂（青岛）总部基地正式下线。据介绍，该车由51信用卡集团投资控股的吾壹汽车，与北汽制造联合开发。",
+    "publish_time": "2024-04-22 10:33:57",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "淘宝88VIP无限次退货包运费服务正式上线",
+    "url": "https://www.36kr.com/newsflashes/2744013898656000",
+    "summary": "4月22日，淘宝88VIP无限次退货包运费服务正式上线。和此前最大的变化是，在原有会员卡权益不变基础上，将每月6张5元退货券，升级为每单最高补贴25元，不限次数，并且可与运费险叠加使用。截止目前，该权益已经实现88VIP全覆盖。除了无限次退货包运费权益外，88VIP近期还将针对积分兑换等相关权益做重点升级。",
+    "publish_time": "2024-04-22 10:35:17",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "磷化工板块探底回升，川恒股份涨超8%",
+    "url": "https://www.36kr.com/newsflashes/2744019573745929",
+    "summary": "36氪获悉，截至发稿，磷化工板块探底回升，川恒股份涨超8%，川金诺涨逾5%，湖北宜化、中毅达、云图控股等跟涨。",
+    "publish_time": "2024-04-22 10:41:03",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "捷佳伟创等入股星原驰半导体公司",
+    "url": "https://www.36kr.com/newsflashes/2744020929571332",
+    "summary": "36氪获悉，爱企查App显示，近日，杭州星原驰半导体有限公司发生工商变更，新增股东捷佳伟创、杭州和达聚芯创业投资合伙企业（有限合伙）、盐城常舜芯创业投资合伙企业（有限合伙）等，注册资本由224.95万人民币增至约267万人民币，同时多位主要人员发生变更。",
+    "publish_time": "2024-04-22 10:42:26",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "水利部：一季度全国实施水利项目2.35万个，比去年同期增长15.8%",
+    "url": "https://www.36kr.com/newsflashes/2744034571659520",
+    "summary": "4月22日，水利部召开2024年第一季度水利基础设施建设进展和成效新闻发布会，水利部副部长陈敏介绍说，一季度，全国实施水利项目2.35万个，在建规模4.7万亿元，分别比去年同期增长15.8%、12.3%。其中新开工水利项目9683个，投资规模4733亿元，分别比去年同期增长33.8%、47.6%。特别是总投资1亿元以上的水利项目新开工687个，比去年同期增长了 94.6%。（澎湃）",
+    "publish_time": "2024-04-22 10:56:18",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
   }
 ]
