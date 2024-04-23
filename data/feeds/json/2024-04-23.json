@@ -2289,5 +2289,595 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "黄金白银集体大跌",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E9%9B%86%E4%BD%93%E5%A4%A7%E8%B7%8C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "莫言称每次刷完短视频都会批评自己",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8E%AB%E8%A8%80%E7%A7%B0%E6%AF%8F%E6%AC%A1%E5%88%B7%E5%AE%8C%E7%9F%AD%E8%A7%86%E9%A2%91%E9%83%BD%E4%BC%9A%E6%89%B9%E8%AF%84%E8%87%AA%E5%B7%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "PDD",
+    "url": "https://s.weibo.com/weibo?q=%23PDD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "广东暴雨",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%9A%B4%E9%9B%A8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "蝴蝶少年",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%9D%B4%E8%9D%B6%E5%B0%91%E5%B9%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "辅导员回应多地高校禁止学生挂床帘",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BE%85%E5%AF%BC%E5%91%98%E5%9B%9E%E5%BA%94%E5%A4%9A%E5%9C%B0%E9%AB%98%E6%A0%A1%E7%A6%81%E6%AD%A2%E5%AD%A6%E7%94%9F%E6%8C%82%E5%BA%8A%E5%B8%98%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "深圳天气",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%A4%A9%E6%B0%94%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "东北雨姐回应做手术",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E9%9B%A8%E5%A7%90%E5%9B%9E%E5%BA%94%E5%81%9A%E6%89%8B%E6%9C%AF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "台湾本月初地震已有1000多次余震",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%9C%AC%E6%9C%88%E5%88%9D%E5%9C%B0%E9%9C%87%E5%B7%B2%E6%9C%891000%E5%A4%9A%E6%AC%A1%E4%BD%99%E9%9C%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "深圳暴雨",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%9A%B4%E9%9B%A8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "海船擦碰九江大桥防撞墩后沉没4人失联",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B5%B7%E8%88%B9%E6%93%A6%E7%A2%B0%E4%B9%9D%E6%B1%9F%E5%A4%A7%E6%A1%A5%E9%98%B2%E6%92%9E%E5%A2%A9%E5%90%8E%E6%B2%89%E6%B2%A14%E4%BA%BA%E5%A4%B1%E8%81%94%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "凤凰传奇军训",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E5%86%9B%E8%AE%AD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "孙颖莎世排第一8300分",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E4%B8%96%E6%8E%92%E7%AC%AC%E4%B8%808300%E5%88%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "英伟达市值一夜大涨6000亿元",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E5%A4%A7%E6%B6%A86000%E4%BA%BF%E5%85%83%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "七夜雪预告",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%83%E5%A4%9C%E9%9B%AA%E9%A2%84%E5%91%8A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "HYBE获取ADOR内部文件",
+    "url": "https://s.weibo.com/weibo?q=%23HYBE%E8%8E%B7%E5%8F%96ADOR%E5%86%85%E9%83%A8%E6%96%87%E4%BB%B6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "控制早晨才能控制人生",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%8E%A7%E5%88%B6%E6%97%A9%E6%99%A8%E6%89%8D%E8%83%BD%E6%8E%A7%E5%88%B6%E4%BA%BA%E7%94%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "海克斯饮料加大儿童性早熟风险",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%85%8B%E6%96%AF%E9%A5%AE%E6%96%99%E5%8A%A0%E5%A4%A7%E5%84%BF%E7%AB%A5%E6%80%A7%E6%97%A9%E7%86%9F%E9%A3%8E%E9%99%A9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "多地高校禁止学生挂床帘",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E9%AB%98%E6%A0%A1%E7%A6%81%E6%AD%A2%E5%AD%A6%E7%94%9F%E6%8C%82%E5%BA%8A%E5%B8%98%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "TF家族三代出道人数",
+    "url": "https://s.weibo.com/weibo?q=%23TF%E5%AE%B6%E6%97%8F%E4%B8%89%E4%BB%A3%E5%87%BA%E9%81%93%E4%BA%BA%E6%95%B0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "春色寄情人 治愈",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%89%B2%E5%AF%84%E6%83%85%E4%BA%BA+%E6%B2%BB%E6%84%88%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "九江大桥实施临时交通管制",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B9%9D%E6%B1%9F%E5%A4%A7%E6%A1%A5%E5%AE%9E%E6%96%BD%E4%B8%B4%E6%97%B6%E4%BA%A4%E9%80%9A%E7%AE%A1%E5%88%B6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "台湾花莲县发生6.0级地震",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E8%8A%B1%E8%8E%B2%E5%8E%BF%E5%8F%91%E7%94%9F6.0%E7%BA%A7%E5%9C%B0%E9%9C%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "WVS商店把NewJeans移除推荐位",
+    "url": "https://s.weibo.com/weibo?q=%23WVS%E5%95%86%E5%BA%97%E6%8A%8ANewJeans%E7%A7%BB%E9%99%A4%E6%8E%A8%E8%8D%90%E4%BD%8D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "徐梦洁 人杀青故事不杀青",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%A2%A6%E6%B4%81+%E4%BA%BA%E6%9D%80%E9%9D%92%E6%95%85%E4%BA%8B%E4%B8%8D%E6%9D%80%E9%9D%92%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "自拍和他拍的哪个才是真实的自己",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%87%AA%E6%8B%8D%E5%92%8C%E4%BB%96%E6%8B%8D%E7%9A%84%E5%93%AA%E4%B8%AA%E6%89%8D%E6%98%AF%E7%9C%9F%E5%AE%9E%E7%9A%84%E8%87%AA%E5%B7%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "问界新M5将于4月23日发布，新车有哪些亮点值得期待？售价会低于小米SU7吗？",
+    "url": "https://www.zhihu.com/question/653742272",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "U23 亚洲杯国奥荣誉战，中国 2:1 阿联酋，无缘巴黎奥运会，如何评价本场比赛？",
+    "url": "https://www.zhihu.com/question/653776439",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如果真能穿越时空，是不是意味着一个时间点可以存在无数个我？",
+    "url": "https://www.zhihu.com/question/554604404",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "宿命之坏第四卷罪人已完结，如何评价这一卷？",
+    "url": "https://www.zhihu.com/question/653586786",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "在职业规划中，如何根据行业发展趋势和个人兴趣进行合理的职业转型？",
+    "url": "https://www.zhihu.com/question/651286319",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么外境是内心的投射？",
+    "url": "https://www.zhihu.com/question/646571623",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "「买书如山倒，读书如抽丝」该怎么办？",
+    "url": "https://www.zhihu.com/question/652524814",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价杨幂在《哈尔滨一九四四》中的表现？",
+    "url": "https://www.zhihu.com/question/653658881",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "作为一名设计师，需要提升什么核心竞争力来迎接 AI 时代的冲击？",
+    "url": "https://www.zhihu.com/question/596168466",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "中信证券：铝行业需求呈现超预期韧性，铝价有望高位运行",
+    "url": "https://www.36kr.com/newsflashes/2745302860889090",
+    "summary": "36氪获悉，中信证券研报表示，当前电解铝需求韧性显著超越预期。建筑型材开工并未明显下滑，工业型材和线缆开工处于近年同期新高水平，板带箔产量同比微增且具备持续改善预期。短期供给冲击之下显性库存下降验证需求韧性。预计电解铝供给年内虽然仍存增量，但增速将会下移。综上，我们预计年内国内电解铝行业将呈紧平衡态势，铝价以及吨铝盈利将维持高位。我们看好铝板块布局机会，维持铝板块“强于大市”评级。",
+    "publish_time": "2024-04-23 08:26:29",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "达利欧的著名交易策略失灵，养老基金等机构投资者撤回资金",
+    "url": "https://www.36kr.com/newsflashes/2745303540005889",
+    "summary": "桥水的达利欧和其他对冲基金曾说，“把你的钱交给我们打理，我们会把它放进长期稳赚的策略产品”。现在，看着惨淡的五年回报率，许多把钱投入风险平价基金的投资者要求撤资。随着新墨西哥、俄勒冈、俄亥俄公共养老基金等投资者赎回，风险平价基金的规模已从三年前峰值下降了约700亿美元。对于他们之中许多人来说，所谓“再给点时间”的请求听起来苍白无力。（新浪财经）",
+    "publish_time": "2024-04-23 08:27:10",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "邮轮巨头 维京即将登陆美股，IPO价格区间设为21至25美元",
+    "url": "https://www.36kr.com/newsflashes/2745304338938883",
+    "summary": "国际邮轮巨头维京控股（Viking Holdings Ltd，VIK.US）及其现有股东正寻求在纽约股票市场进行首次公开募股（IPO），筹资至多11亿美元。这家国际邮轮运营商希望在全球旅游业从新冠疫情时期的低迷中复苏之际迅速上市。据了解，该公司和大型投资者将以每股21美元至25美元的价格发行4400万股股票。维京正寻求出售1100万股股票，而股东们则打算共同出售3300万股。（智通财经）",
+    "publish_time": "2024-04-23 08:27:59",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "途虎-W：股东FIL Limited增持公司A类普通股",
+    "url": "https://www.36kr.com/newsflashes/2745305376766723",
+    "summary": "36氪获悉，途虎发布公告称，主要股东FIL Limited透过其受控法团（Fidelity实体）收购公司额外A类普通股，截至2024年4月17日拥有4134.73万股A类股份的权益，占截至公告日期公司已发行股本总额约5.03%及已发行A类股份总数的5.49%。",
+    "publish_time": "2024-04-23 08:29:02",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "五矿资源：2023年公司权益持有人应占利润900万美元，同比下降95%",
+    "url": "https://www.36kr.com/newsflashes/2745305995295745",
+    "summary": "36氪获悉，五矿资源发布公告称，2023年收入43.465亿美元，同比增长34%；年内所得税后利润1.22亿美元，同比下降50%；公司权益持有人应占利润900万美元，同比下降95%。2023年全年，MMG的铜（电解铜加铜精矿含铜）总产量为34.73万吨，锌（锌精矿含锌）总产量为20.35万吨。2023年铜产量较2022年增加14%，主要原因是Las Bambas矿山的运营没有中断。",
+    "publish_time": "2024-04-23 08:29:40",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "中信建投：火电增速趋缓，后续煤价大幅反弹的空间相对有限",
+    "url": "https://www.36kr.com/newsflashes/2745308580183049",
+    "summary": "36氪获悉，中信建投研报表示，3月份，全国规上工业发电量7477亿千瓦时，同比增长2.8%；全社会用电量7942亿千瓦时，同比增长7.4%。目前，火电增速趋缓，动力煤供需情况偏向宽松，后续煤价大幅反弹的空间相对有限。",
+    "publish_time": "2024-04-23 08:32:18",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "招商证券：预计2024年全年A股盈利有望逐季改善",
+    "url": "https://www.36kr.com/newsflashes/2745310396234760",
+    "summary": "36氪获悉，招商证券研报表示，A股盈利在2023年三季度已经出现触底回升，2023年四季度至2024年来看，随着经济复苏的持续推进，在低基数和库存、盈利周期的影响下，预计2024年全年A股盈利有望逐季改善，并在2024年年底左右达到较高水平。",
+    "publish_time": "2024-04-23 08:34:08",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "天风证券：陶瓷基复合材料产业链有望进入高景气快速成长阶段",
+    "url": "https://www.36kr.com/newsflashes/2745310745148165",
+    "summary": "36氪获悉，天风证券研报表示，伴随军用航空航天领域对超高音速、高推重比、耐高温防护等性能要求持续升温，以及国内国产商业航空航天领域对于高经济性、绿色化的推进，中国的陶瓷基复合材料（CMC）产业链有望进入高景气快速成长阶段。建议关注：火炬电子、华秦科技。",
+    "publish_time": "2024-04-23 08:34:30",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "瑞银将A股和港股股票评级上调至增配",
+    "url": "https://www.36kr.com/newsflashes/2745311304235782",
+    "summary": "瑞银将A股和港股股票评级上调至增配；将韩国股票评级下调至中性。（财联社）",
+    "publish_time": "2024-04-23 08:35:04",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "拜登宣布将拨款70亿美元，帮助低收入家庭安装屋顶太阳能",
+    "url": "https://www.36kr.com/newsflashes/2745311777651457",
+    "summary": "美国总统拜登在4月22日地球日宣布，将为屋顶太阳能项目提供70亿美元的拨款，帮助中低收入社区的90多万户家庭安装屋顶太阳能设备。该项目将创造20万个就业机会，并为参与计划的家庭每年节省约400美元。（界面）",
+    "publish_time": "2024-04-23 08:35:33",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "阳光电源：今年美国市场总体表现良好，需求旺盛",
+    "url": "https://www.36kr.com/newsflashes/2745313925741312",
+    "summary": "36氪获悉，阳光电源近期投资者关系活动记录表显示，针对问题“公司今年对美国大储市场如何判断？其他市场怎么看？”公司表示，美国市场去年上半年客户一直处于观望状态，下半年市场需求开始释放。今年市场总体表现良好，需求旺盛。公司储能业务在美国市场表现良好，美国市场比较重要，份额较大，公司也比较重视。其他市场比如欧洲，从近期订单和客户交流来看，今年增速非常快，增量主要来自大储。",
+    "publish_time": "2024-04-23 08:37:44",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "两市融资余额增加5.63亿元",
+    "url": "https://www.36kr.com/newsflashes/2745336846695424",
+    "summary": "36氪获悉，截至4月22日，上交所融资余额报7879.29亿元，较前一交易日减少0.02亿元；深交所融资余额报6998.14亿元，较前一交易日增加5.65亿元；两市合计14877.43亿元，较前一交易日增加5.63亿元。",
+    "publish_time": "2024-04-23 09:01:03",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "蓝晓科技：目前公司盐湖提锂领域在手订单尚未确认收入项目合同金额大于11亿元",
+    "url": "https://www.36kr.com/newsflashes/2745338834664201",
+    "summary": "蓝晓科技近期在业绩说明会上表示，目前公司盐湖提锂领域在手订单尚未确认收入项目合同金额大于11亿元。在全球范围内，公司已开发大量中试项目，累计数量约120个。（第一财经）",
+    "publish_time": "2024-04-23 09:03:04",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "中信证券：预计低空飞行器将先从ToB/ToG市场切入",
+    "url": "https://www.36kr.com/newsflashes/2745341200710408",
+    "summary": "36氪获悉，中信证券研报认为，当前低空经济可以类比新能源汽车2012年的发展阶段，产业仍处于商业化早期，长期发展前景广阔。中国发展低空经济具备“后发优势”，一方面，低空经济是发展新质生产力的重要一环，展望后续，预计在中央顶层设计驱动下，一系列支持会政策出台，空域管理制度将逐步优化，国内适航取证进度亦领跑全球，低空飞行器将先从ToB/ToG市场切入，逐步向ToC万亿级别大市场渗透。",
+    "publish_time": "2024-04-23 09:05:29",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "王健林罕见新增一笔对外投资",
+    "url": "https://www.36kr.com/newsflashes/2745342632409858",
+    "summary": "近日，珠海万达锐驰企业管理有限公司发生工商变更，原全资股东大连万达商业管理集团退出，新增王健林为全资股东。珠海万达锐驰是目前王健林名下唯一一家持股占比100%的企业。（中国基金报）",
+    "publish_time": "2024-04-23 09:06:56",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "辛选集团旗下主播将无限期停播？官方暂未回应",
+    "url": "https://www.36kr.com/newsflashes/2745350310034182",
+    "summary": "市场有截图流出，辛选集团旗下主播自即日起无限期停播，具体的复播日期未定。辛选表示，部分主播的小店尚未关闭，有购物需求的用户仍可下单。截至记者发稿，辛选官方和快手并未针对上述消息作出官方回复。记者从多方了解获悉，上述消息并非辛选官方发布，针对旗下主播无限期停播的内容，也有其他主播表示，平台并无限制，不违反规则的情况下仍可以正常直播。（证券时报）",
+    "publish_time": "2024-04-23 09:14:45",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "4月23日人民币对美元中间价调贬16个基点",
+    "url": "https://www.36kr.com/newsflashes/2745352104639236",
+    "summary": "36氪获悉，4月23日，人民币对美元中间价调贬16个基点，报7.1059，上一交易日中间价7.1043。",
+    "publish_time": "2024-04-23 09:16:34",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "天津银行一季度末客户存款较年初减少40亿，为上市银行今年首例",
+    "url": "https://www.36kr.com/newsflashes/2745353631579138",
+    "summary": "息差压顶之下，终于有银行对存款实施压降。天津银行发布第一季度经营业绩，数据显示该行客户存款金额人民币4466.78亿元，较年初减少人民币40.08亿元，降幅0.89%。天津银行解释称，主要原因是该行持续压降高成本存款，客户存款平均付息率较2023年下降22个基点，一定程度上影响了各项存款增长。在目前发布一季报的A股和H股上市银行中，天津银行是唯一一家一季度末存款比年初下降的银行。（财联社）",
+    "publish_time": "2024-04-23 09:18:07",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "香港恒生指数开盘涨1.02%，茶百道上市首日跌超10%",
+    "url": "https://www.36kr.com/newsflashes/2745357296990981",
+    "summary": "36氪获悉，香港恒生指数开盘涨1.02%，恒生科技指数涨1.74%。科技股普涨，京东涨近5%，哔哩哔哩涨超3%，网易、美团、腾讯、阿里巴巴、小米涨超1%。汽车股多数走高，蔚来涨超6%。茶百道上市首日破发，开跌超10%。",
+    "publish_time": "2024-04-23 09:21:51",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "央行今日进行20亿元7天期逆回购操作",
+    "url": "https://www.36kr.com/newsflashes/2745359199877896",
+    "summary": "36氪获悉，央行今日进行20亿元7天期逆回购操作，中标利率为1.8%，与此前持平。",
+    "publish_time": "2024-04-23 09:23:47",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Helios-NG: massively-parallel OS for manycore CPUs",
+    "url": "https://www.geekdot.com/helios-ng/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40121408\">Comments</a>",
+    "publish_time": "2024-04-23 05:41:43",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A 100-year-old railway Mexico hopes will rival the Panama Canal (2023)",
+    "url": "https://theweek.com/transport/the-100-year-old-railway-mexico-hopes-will-rival-the-panama-canal",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40115751\">Comments</a>",
+    "publish_time": "2024-04-23 00:14:40",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Modal is a matrioshka language based on pattern-matching to rewrite trees",
+    "url": "https://wiki.xxiivv.com/site/modal",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40126935\">Comments</a>",
+    "publish_time": "2024-04-23 07:52:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "No one buys books",
+    "url": "https://www.elysian.press/p/no-one-buys-books",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40119958\">Comments</a>",
+    "publish_time": "2024-04-23 04:36:41",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Understanding and avoiding visually ambiguous characters in IDs",
+    "url": "https://gajus.com/blog/avoiding-visually-ambiguous-characters-in-ids",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40127124\">Comments</a>",
+    "publish_time": "2024-04-23 08:20:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
