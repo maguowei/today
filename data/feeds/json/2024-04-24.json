@@ -1812,5 +1812,156 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "金价",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "红山动物园推草小猩猩疑似抑郁",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BA%A2%E5%B1%B1%E5%8A%A8%E7%89%A9%E5%9B%AD%E6%8E%A8%E8%8D%89%E5%B0%8F%E7%8C%A9%E7%8C%A9%E7%96%91%E4%BC%BC%E6%8A%91%E9%83%81%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "张云龙上午古偶下午悬疑",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%91%E9%BE%99%E4%B8%8A%E5%8D%88%E5%8F%A4%E5%81%B6%E4%B8%8B%E5%8D%88%E6%82%AC%E7%96%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "承欢记上门女婿",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%89%BF%E6%AC%A2%E8%AE%B0%E4%B8%8A%E9%97%A8%E5%A5%B3%E5%A9%BF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "「反犹」抗议席卷美国顶尖高校「哥大罢工停课、哈佛耶鲁接力示威」，将产生什么影响？哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/653845150",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "采访很多学霸，都说不上辅导班，全靠自学，你相信吗？",
+    "url": "https://www.zhihu.com/question/652958729",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "老爸说养你到十八就算义务尽完了可以怎么反驳？",
+    "url": "https://www.zhihu.com/question/653478923",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美股三大指数集体收涨，大型科技股普涨",
+    "url": "https://www.36kr.com/newsflashes/2746620606118661",
+    "summary": "36氪获悉，4月23日收盘，美股三大指数集体收涨，道指涨0.69%，纳指涨1.59%，标普500指数涨1.2%。大型科技股普涨，Netflix涨超4％，英伟达涨超3％，Meta涨超2％，特斯拉、微软、亚马逊、谷歌涨超1％，苹果涨0.64％。热门中概股多数上涨，富途控股涨超11％，爱奇艺涨超6％，腾讯音乐、36氪涨超4％，小鹏汽车、阿里巴巴、京东涨超2％，蔚来涨0.25％；B站跌超2％，理想汽车跌0.4％。",
+    "publish_time": "2024-04-24 07:00:00",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Dafny is a verification-aware programming language",
+    "url": "https://github.com/dafny-lang/dafny",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40136026\">Comments</a>",
+    "publish_time": "2024-04-24 03:18:00",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Geoffrey Hinton: Open sourcing AI models akin to open sourcing nuclear weapons",
+    "url": "https://twitter.com/ygrowthco/status/1782493076373885336",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40138073\">Comments</a>",
+    "publish_time": "2024-04-24 06:23:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Apple's risky bet on CarPlay",
+    "url": "https://www.theturnsignalblog.com/apples-risky-bet-on-carplay/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40134921\">Comments</a>",
+    "publish_time": "2024-04-24 01:54:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The man who killed Google Search?",
+    "url": "https://www.wheresyoured.at/the-men-who-killed-google/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40133976\">Comments</a>",
+    "publish_time": "2024-04-24 00:43:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Lower mortality, hospital readmission rates if treated by female physicians",
+    "url": "https://www.thenationalnews.com/health/2024/04/23/patients-less-likely-to-die-if-treated-by-a-female-doctor-study-reveals/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40138090\">Comments</a>",
+    "publish_time": "2024-04-24 06:27:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "GPU compute in the browser at the speed of native: WebGPU marching cubes",
+    "url": "https://www.willusher.io/graphics/2024/04/22/webgpu-marching-cubes",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40136076\">Comments</a>",
+    "publish_time": "2024-04-24 03:22:22",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "a poem about the Turing halting proof",
+    "url": "http://www.lel.ed.ac.uk/~gpullum/loopsnoop.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40138193\">Comments</a>",
+    "publish_time": "2024-04-24 06:42:12",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
