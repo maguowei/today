@@ -20,5 +20,60 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "How we manage individual user concurrencies with Nginx and Lua",
+    "url": "https://www.browserless.io/blog/managing-concurrencies-with-nginx-and-lua",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40146623\">Comments</a>",
+    "publish_time": "2024-04-25 00:40:18",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "TypeScript Essentials: Distinguishing Types with Branding",
+    "url": "https://prosopo.io/articles/typescript-branding/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40146751\">Comments</a>",
+    "publish_time": "2024-04-25 00:48:21",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Freshpaint (YC S19) is hiring software engineers to protect patient privacy",
+    "url": "https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40146937\">Comments</a>",
+    "publish_time": "2024-04-25 01:00:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Bionic Bee",
+    "url": "https://www.festo.com/de/en/e/about-festo/research-and-development/bionic-learning-network/bionicbee-id_1659889/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40147456\">Comments</a>",
+    "publish_time": "2024-04-25 01:43:20",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Stainless SDK Generator",
+    "url": "https://www.stainlessapi.com/blog/announcing-the-stainless-sdk-generator",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40146505\">Comments</a>",
+    "publish_time": "2024-04-25 00:34:35",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
