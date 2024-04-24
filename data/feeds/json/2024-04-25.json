@@ -1617,5 +1617,147 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "7系新顶流",
+    "url": "https://s.weibo.com/weibo?q=%237%E7%B3%BB%E6%96%B0%E9%A1%B6%E6%B5%81%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "看税收走基层",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%9C%8B%E7%A8%8E%E6%94%B6%E8%B5%B0%E5%9F%BA%E5%B1%82%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "金晨口技",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E5%8F%A3%E6%8A%80%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "斯里兰卡卖花男孩穿人字拖奔跑",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%96%AF%E9%87%8C%E5%85%B0%E5%8D%A1%E5%8D%96%E8%8A%B1%E7%94%B7%E5%AD%A9%E7%A9%BF%E4%BA%BA%E5%AD%97%E6%8B%96%E5%A5%94%E8%B7%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何看待NGA有80％的玩家预测4.6仆人流水挂零？",
+    "url": "https://www.zhihu.com/question/653981089",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "论一个合拍的旅游搭子的重要性是什么?",
+    "url": "https://www.zhihu.com/question/652704782",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Meta stock has lost $137B in market cap on weak Q2 revenue guidance",
+    "url": "https://finance.yahoo.com/video/meta-stock-falls-disappointing-q2-202013597.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40149630\">Comments</a>",
+    "publish_time": "2024-04-25 05:05:08",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Borrow Checking, RC, GC, and the Eleven () Other Memory Safety Approaches",
+    "url": "https://verdagon.dev/grimoire/grimoire",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40146615\">Comments</a>",
+    "publish_time": "2024-04-25 00:39:48",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Eric Schmidt-backed Augment, a GitHub Copilot rival, launches out of stealth",
+    "url": "https://techcrunch.com/2024/04/24/eric-schmidt-backed-augment-a-github-copilot-rival-launches-out-of-stealth-with-252m/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40149071\">Comments</a>",
+    "publish_time": "2024-04-25 04:19:46",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Pixiv Blocks Adult Content, but Only for US and UK Users",
+    "url": "https://www.404media.co/pixiv-manga-site-blocks-adult-content-but-only-for-us-and-uk-users/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40149093\">Comments</a>",
+    "publish_time": "2024-04-25 04:21:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Glass Health (YC W23) is hiring founding, senior and lead full-stack engineers",
+    "url": "https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40149581\">Comments</a>",
+    "publish_time": "2024-04-25 05:00:35",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Magic Numbers",
+    "url": "https://exple.tive.org/blarg/2024/04/24/magic-numbers/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40149446\">Comments</a>",
+    "publish_time": "2024-04-25 04:50:03",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Why does Windows use backslash as path separator? (2019)",
+    "url": "https://www.os2museum.com/wp/why-does-windows-really-use-backslash-as-path-separator/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40148795\">Comments</a>",
+    "publish_time": "2024-04-25 03:52:56",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "I now lack the juice to fuel the bluster to conceal that I am a simpleton",
+    "url": "https://lithub.com/i-now-lack-the-juice-to-fuel-the-bluster-to-conceal-that-i-am-a-simpleton-padgett-powell-legend/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40148563\">Comments</a>",
+    "publish_time": "2024-04-25 03:32:20",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]

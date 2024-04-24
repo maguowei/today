@@ -754,5 +754,41 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "7系新顶流",
+    "url": "https://s.weibo.com/weibo?q=%237%E7%B3%BB%E6%96%B0%E9%A1%B6%E6%B5%81%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "看税收走基层",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%9C%8B%E7%A8%8E%E6%94%B6%E8%B5%B0%E5%9F%BA%E5%B1%82%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "金晨口技",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E5%8F%A3%E6%8A%80%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "斯里兰卡卖花男孩穿人字拖奔跑",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%96%AF%E9%87%8C%E5%85%B0%E5%8D%A1%E5%8D%96%E8%8A%B1%E7%94%B7%E5%AD%A9%E7%A9%BF%E4%BA%BA%E5%AD%97%E6%8B%96%E5%A5%94%E8%B7%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
