@@ -1780,5 +1780,134 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "张若昀现身传祺展台",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E7%8E%B0%E8%BA%AB%E4%BC%A0%E7%A5%BA%E5%B1%95%E5%8F%B0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "神十八航天员飞天前敬礼微笑",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E5%85%AB%E8%88%AA%E5%A4%A9%E5%91%98%E9%A3%9E%E5%A4%A9%E5%89%8D%E6%95%AC%E7%A4%BC%E5%BE%AE%E7%AC%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "近期广东人听最多的声音",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%91%E6%9C%9F%E5%B9%BF%E4%B8%9C%E4%BA%BA%E5%90%AC%E6%9C%80%E5%A4%9A%E7%9A%84%E5%A3%B0%E9%9F%B3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "胡冰卿旗袍身材曲线",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%86%B0%E5%8D%BF%E6%97%97%E8%A2%8D%E8%BA%AB%E6%9D%90%E6%9B%B2%E7%BA%BF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "贾跃亭回应周鸿祎质疑",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B4%BE%E8%B7%83%E4%BA%AD%E5%9B%9E%E5%BA%94%E5%91%A8%E9%B8%BF%E7%A5%8E%E8%B4%A8%E7%96%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "请教知乎大神：如何才能获得持久的、源源不断的科研动力？",
+    "url": "https://www.zhihu.com/question/653781854",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如果让你放弃现在的所有回到20年前你愿意吗？",
+    "url": "https://www.zhihu.com/question/649593042",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Judge acquits Backpage co-founder Michael Lacey on most counts",
+    "url": "https://reason.com/2024/04/25/judge-acquits-backpage-co-founder-michael-lacey-on-most-counts/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40162433\">Comments</a>",
+    "publish_time": "2024-04-26 04:14:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Tesorio (YC S15) Is Hiring a Head of Cloud Infrastructure/Operations (Remote)",
+    "url": "https://www.tesorio.com/careers#job-openings",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40162961\">Comments</a>",
+    "publish_time": "2024-04-26 05:00:50",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Virtual Machine Administration Using QEMU Monitor",
+    "url": "https://documentation.suse.com/sles/12-SP5/html/SLES-all/cha-qemu-monitor.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40162699\">Comments</a>",
+    "publish_time": "2024-04-26 04:38:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "FCC votes to restore net neutrality rules",
+    "url": "https://www.nytimes.com/2024/04/25/technology/fcc-net-neutrality-open-internet.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40160429\">Comments</a>",
+    "publish_time": "2024-04-26 01:23:00",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Nimble File Format by Meta",
+    "url": "https://github.com/facebookexternal/nimble",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40163530\">Comments</a>",
+    "publish_time": "2024-04-26 05:52:22",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Open Sourcing DOS 4",
+    "url": "https://www.hanselman.com/blog/open-sourcing-dos-4",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40163405\">Comments</a>",
+    "publish_time": "2024-04-26 05:42:06",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
