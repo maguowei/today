@@ -2987,5 +2987,416 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "岚图梦想家贴脸开大",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B2%9A%E5%9B%BE%E6%A2%A6%E6%83%B3%E5%AE%B6%E8%B4%B4%E8%84%B8%E5%BC%80%E5%A4%A7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "AI智驾小鹏来了",
+    "url": "https://s.weibo.com/weibo?q=%23AI%E6%99%BA%E9%A9%BE%E5%B0%8F%E9%B9%8F%E6%9D%A5%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "珍爱生命远离邪教",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8F%8D%E7%88%B1%E7%94%9F%E5%91%BD%E8%BF%9C%E7%A6%BB%E9%82%AA%E6%95%99%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "小米汽车",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "KEP1ER七月解散",
+    "url": "https://s.weibo.com/weibo?q=%23KEP1ER%E4%B8%83%E6%9C%88%E8%A7%A3%E6%95%A3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "揭露主播卖抗癌化妆品女子发声",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%8F%AD%E9%9C%B2%E4%B8%BB%E6%92%AD%E5%8D%96%E6%8A%97%E7%99%8C%E5%8C%96%E5%A6%86%E5%93%81%E5%A5%B3%E5%AD%90%E5%8F%91%E5%A3%B0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "雷军 北京车展",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B+%E5%8C%97%E4%BA%AC%E8%BD%A6%E5%B1%95%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "陈雨菲高燃击球瞬间",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9B%A8%E8%8F%B2%E9%AB%98%E7%87%83%E5%87%BB%E7%90%83%E7%9E%AC%E9%97%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "未婚未育的90后开始争当月嫂",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9C%AA%E5%A9%9A%E6%9C%AA%E8%82%B2%E7%9A%8490%E5%90%8E%E5%BC%80%E5%A7%8B%E4%BA%89%E5%BD%93%E6%9C%88%E5%AB%82%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "周深杂志",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%9D%82%E5%BF%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "烈士紧握82年的照片修复了",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%83%88%E5%A3%AB%E7%B4%A7%E6%8F%A182%E5%B9%B4%E7%9A%84%E7%85%A7%E7%89%87%E4%BF%AE%E5%A4%8D%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "一眼就能看出谁是花1谁是花5",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%9C%BC%E5%B0%B1%E8%83%BD%E7%9C%8B%E5%87%BA%E8%B0%81%E6%98%AF%E8%8A%B11%E8%B0%81%E6%98%AF%E8%8A%B15%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "热火1比1凯尔特人",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%83%AD%E7%81%AB1%E6%AF%941%E5%87%AF%E5%B0%94%E7%89%B9%E4%BA%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "热火三分创队史纪录",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%83%AD%E7%81%AB%E4%B8%89%E5%88%86%E5%88%9B%E9%98%9F%E5%8F%B2%E7%BA%AA%E5%BD%95%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "上海地铁9号线",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%819%E5%8F%B7%E7%BA%BF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "五一所有人都去哪儿玩",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%80%E6%89%80%E6%9C%89%E4%BA%BA%E9%83%BD%E5%8E%BB%E5%93%AA%E5%84%BF%E7%8E%A9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "电量不足病情大赏",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%B5%E9%87%8F%E4%B8%8D%E8%B6%B3%E7%97%85%E6%83%85%E5%A4%A7%E8%B5%8F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "文笔挑战：雨落青波皱，_________。下一句你会怎么接？",
+    "url": "https://www.zhihu.com/question/653895534",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "刘邦真如他所说的，是靠用人而夺得天下的吗？",
+    "url": "https://www.zhihu.com/question/651873577",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "你最意难平的历史人物是谁呢?",
+    "url": "https://www.zhihu.com/question/646980291",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "A股三大指数集体低开，长城汽车一字涨停",
+    "url": "https://www.36kr.com/newsflashes/2748193513405444",
+    "summary": "36氪获悉，A股三大指数集体低开，沪指低开0.23%，深成指低开0.5%，创业板指低开0.7%。汽车产业链、发电设备板块领涨，长城汽车一字涨停，公司一季度净利润32.28亿元，同比增长1752.55%；隆基机械、万丰奥威涨超4%。传媒、日用化工板块跌幅居前，中文在线跌超8%，果麦文化跌超6%。",
+    "publish_time": "2024-04-25 09:27:00",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "低空经济概念持续活跃，中衡设计7连板",
+    "url": "https://www.36kr.com/newsflashes/2748196877368321",
+    "summary": "36氪获悉，截至发稿，低空经济概念持续活跃，中衡设计7连板，广联航空、万安科技、商络电子、建新股份、万丰奥威等纷纷高开。",
+    "publish_time": "2024-04-25 09:30:25",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "导远科技MEMS芯片亮相北京车展",
+    "url": "https://www.36kr.com/newsflashes/2748198203374341",
+    "summary": "36氪获悉，导远科技在北京国际汽车博览会首次公开展示其自主研发的MEMS芯片。据了解，该款芯片已流片成功即将进入量产。公司还亮相多款定位感知传感器新品，可满足多种客户的不同需求。",
+    "publish_time": "2024-04-25 09:31:46",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "减肥药概念早盘走强，常山药业20cm涨停",
+    "url": "https://www.36kr.com/newsflashes/2748200710667264",
+    "summary": "36氪获悉，截至发稿，减肥药概念早盘走强，常山药业20cm涨停，博济医药、翰宇药业、百花医药、华森制药、博瑞医药等跟涨。",
+    "publish_time": "2024-04-25 09:34:19",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "钛白粉板块开盘大涨，鲁北化工涨停",
+    "url": "https://www.36kr.com/newsflashes/2748204277005059",
+    "summary": "36氪获悉，截至发稿，钛白粉板块开盘大涨，鲁北化工、安纳达、金浦钛业涨停，惠云钛业涨超15%，天原股份、中核钛白等跟涨。",
+    "publish_time": "2024-04-25 09:37:57",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "立讯精密：2023年净利润109.53亿元，同比增长19.53%",
+    "url": "https://www.36kr.com/newsflashes/2748204385565700",
+    "summary": "36氪获悉，立讯精密发布2023年年报，公司2023年实现营收2319.05亿元，同比增长8.35%；归母净利润109.53亿元，同比增长19.53%。",
+    "publish_time": "2024-04-25 09:38:04",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "PEEK概念股盘初拉升，南京聚隆20cm涨停",
+    "url": "https://www.36kr.com/newsflashes/2748205797833734",
+    "summary": "36氪获悉，截至发稿，PEEK概念股盘初拉升，南京聚隆20cm涨停，聚赛龙、华密新材、新瀚新材、富恒新材、中研股份等跟涨。",
+    "publish_time": "2024-04-25 09:39:30",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "涉嫌篡改数据，日本发动机制造公司工厂遭国土交通省调查",
+    "url": "https://www.36kr.com/newsflashes/2748206191033345",
+    "summary": "当地时间4月25日，日本国土交通省进入IHI原动机公司位于群马县和新潟县的工厂，对IHI原动机曾篡改船舶和陆地用发动机的燃油数据等问题进行调查。当地时间24日，生产喷气发动机、核能发电设备的日本大型重工业公司IHI公司表示，其子公司IHI原动机曾篡改船舶和陆地用发动机的燃油数据，涉及的发动机数量达4361台。（央视新闻）",
+    "publish_time": "2024-04-25 09:39:54",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "天齐锂业：锂精矿定价机制的阶段性错配会逐步减弱，从而对公司后续的经营产生相对正向影响",
+    "url": "https://www.36kr.com/newsflashes/2748208636689161",
+    "summary": "36氪获悉，天齐锂业在机构调研时表示，截至2024年3月底，公司锂化工产品生产基地于2023年自泰利森采购的锂精矿库存尚有一定存量。基于公司原料出库和产成品销售的成本结转采用移动加权平均法计量，预计后续随着公司从泰利森新采购的化学级锂精矿的入库，以及公司锂化工产品生产基地稳定生产运营和销售对现有锂精矿库存的逐步消化，公司各生产基地的化学级锂精矿出库成本会逐步贴近最新采购价格，锂精矿定价机制的阶段性错配也会逐步减弱，从而对公司后续的经营产生相对正向影响。",
+    "publish_time": "2024-04-25 09:42:23",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "小米汽车：全力扩充产能，6月交付超1万辆",
+    "url": "https://www.36kr.com/newsflashes/2748209067785219",
+    "summary": "36氪获悉，小米汽车官微发文，2024年5月初计划第一次OTA，5月底计划第二次OTA；销售服务网点年底基本覆盖全国所有省份/自治区/直辖市；全力扩充产能，6月份月交付超1万辆，计划完成全年100000台交付目标。",
+    "publish_time": "2024-04-25 09:42:49",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "煤炭股震荡反弹，新大洲A涨停",
+    "url": "https://www.36kr.com/newsflashes/2748212032322312",
+    "summary": "36氪获悉，截至发稿，煤炭股震荡反弹，新大洲A涨停，潞安环能、云煤能源、中煤能源、淮北矿业、山西焦化等跟涨。",
+    "publish_time": "2024-04-25 09:45:50",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "创业板指跌超1%",
+    "url": "https://www.36kr.com/newsflashes/2748215447387145",
+    "summary": "36氪获悉，截至发稿，创业板指跌超1%，沪指跌0.23%，深成指跌0.71%，泛AI、数据要素、跨境支付、教育等方向跌幅居前，沪深京三市下跌个股近2600只。",
+    "publish_time": "2024-04-25 09:49:19",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "有色板块震荡拉升，顺博合金涨停",
+    "url": "https://www.36kr.com/newsflashes/2748218764229637",
+    "summary": "36氪获悉，截至发稿，有色板块震荡拉升，顺博合金涨停，焦作万方、鹏欣资源、神火股份、天山铝业、华钰矿业等跟涨。",
+    "publish_time": "2024-04-25 09:52:41",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "深圳一季度GDP同比增长6.4%",
+    "url": "https://www.36kr.com/newsflashes/2748224673086464",
+    "summary": "36氪获悉，据深圳市统计局消息，根据广东省地区生产总值统一核算结果，2024年一季度深圳地区生产总值为8314.98亿元，同比增长6.4%。其中，第一产业增加值为4.98亿元，同比增长0.6%；第二产业增加值为2812.32亿元，同比增长10.3%；第三产业增加值为5497.68亿元，同比增长4.5%。深圳经济延续回升向好态势，实现良好开局。",
+    "publish_time": "2024-04-25 09:58:42",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "恒生指数转涨，恒生科技指数跌幅收窄",
+    "url": "https://www.36kr.com/newsflashes/2748229345016833",
+    "summary": "36氪获悉，截至发稿，恒生指数转涨，恒生科技指数跌幅收窄至0.36%；B站涨超2%，微博涨1.8%，阿里巴巴涨0.62%。",
+    "publish_time": "2024-04-25 10:03:27",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "固态电池概念拉升，三祥新材涨停",
+    "url": "https://www.36kr.com/newsflashes/2748229992610560",
+    "summary": "36氪获悉，截至发稿，固态电池概念拉升，三祥新材涨停，紫建电子涨超17%，道氏技术涨超13%，海顺新材、翔丰华、美联新材等跟涨。",
+    "publish_time": "2024-04-25 10:04:07",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "光通信板块再度拉升，东田微大涨12%",
+    "url": "https://www.36kr.com/newsflashes/2748232442985217",
+    "summary": "36氪获悉，截至发稿，光通信板块再度拉升，东田微大涨12%，致尚科技涨逾8%，秋田微、兆龙互连、豪美新材等跟涨。",
+    "publish_time": "2024-04-25 10:06:36",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "房地产板块异动拉升，南国置业涨停",
+    "url": "https://www.36kr.com/newsflashes/2748233744481288",
+    "summary": "36氪获悉，截至发稿，房地产板块异动拉升，南国置业、科新发展涨停，新城控股、大悦城、空港股份、京能置业等跟涨。",
+    "publish_time": "2024-04-25 10:07:56",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "光伏板块低开高走，江苏新能涨停",
+    "url": "https://www.36kr.com/newsflashes/2748235219696647",
+    "summary": "36氪获悉，截至发稿，光伏板块低开高走，江苏新能涨停，中信博大涨15%，鹿山新材直线触板，京山轻机、奥克股份、秀强股份等跟涨。",
+    "publish_time": "2024-04-25 10:09:26",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Air Force picks Anduril, General Atomics to develop unmanned fighter jets",
+    "url": "https://breakingdefense.com/2024/04/air-force-picks-anduril-general-atomics-for-next-round-of-cca-work/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40152049\">Comments</a>",
+    "publish_time": "2024-04-25 09:11:16",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: See your current Spotify song in the menu bar",
+    "url": "https://github.com/jonathangarelick/SoundSeer",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40151860\">Comments</a>",
+    "publish_time": "2024-04-25 08:47:49",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
