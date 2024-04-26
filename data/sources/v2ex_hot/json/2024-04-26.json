@@ -75,5 +75,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "服务器怎么扩容系统盘？",
+    "url": "https://www.v2ex.com/t/1035787",
+    "summary": "kandaakihito: <p><strong>现状</strong>：服务器有两个硬盘，200GB 的系统盘和 2TB 的数据盘。</p>\n<p>服务器从使用开始就没把 2TB 的数据盘挂载上去使用，现在 200GB 的系统盘容量用尽了，什么都做不了。</p>\n<p>现状能想到的解决办法是下面三个，不知道有没有更好的办法？</p>\n<p><strong>方案一：</strong>把 2TB 的数据盘挂到指定路径，作为数据存储空间使用。</p>\n<p>尝试结果：服务器内部部署了非常多的东西，并没有按照规范将数据统一挂载在指定路径。</p>\n<p>有一堆没人认领的数据分散在系统盘的各个路径下，也没人敢删敢迁移。</p>\n<p>现在如果直接挂载到/data 路径的话，最终还是需要有人把 docker 的挂载卷在内等一系列的数据进行迁移；</p>\n<p><strong>方案二：</strong>通过 LVM 系统，将 2TB 的数据盘和 200GB 的系统盘合并。</p>\n<p>尝试结果：系统盘不挂在 LVM 的逻辑卷上，合并不了；</p>\n<p><strong>方案三：</strong>找运维给系统盘扩容 。</p>\n<p>运维说系统盘可以扩容，但是涉及费用变更的问题，需要走工单。；</p>",
+    "publish_time": "2024-04-26 09:05:12",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "买了俩游戏手柄，求各位大佬推荐一些，能俩人一起玩的 PC 端游戏。",
+    "url": "https://www.v2ex.com/t/1035833",
+    "summary": "liuguangxuan: <p>最近闲来无事，买了两个游戏手柄，插在笔记本上，想和对象一起玩一些有趣的游戏。</p>\n<p>但是：</p>\n<ol>\n<li>\n<p>对游戏的认知，还停留在超级玛丽那个年代；</p>\n</li>\n<li>\n<p>笔记本配置比较低（显卡：GT630 ，显存：1G ），下载了“双人成行”，瞬间卡成 PPT ，这种大型的游戏估计玩不了。</p>\n</li>\n</ol>\n<p>目前下载了 NES 模拟器，在玩超级玛丽、炸弹人、双截龙。</p>\n<p>所以麻烦各位大佬，帮忙推荐一些更有意思的 PC 端游戏（不要太大的，笔记本带不动）。</p>",
+    "publish_time": "2024-04-26 10:38:18",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
