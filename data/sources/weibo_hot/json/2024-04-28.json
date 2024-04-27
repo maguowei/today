@@ -655,5 +655,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "方时赫",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%96%B9%E6%97%B6%E8%B5%AB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "邓超说蔡文静脑子好厉害",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E8%AF%B4%E8%94%A1%E6%96%87%E9%9D%99%E8%84%91%E5%AD%90%E5%A5%BD%E5%8E%89%E5%AE%B3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "天津泡泡岛音乐节",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E6%B3%A1%E6%B3%A1%E5%B2%9B%E9%9F%B3%E4%B9%90%E8%8A%82%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]

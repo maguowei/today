@@ -1301,5 +1301,134 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "方时赫",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%96%B9%E6%97%B6%E8%B5%AB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "邓超说蔡文静脑子好厉害",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E8%AF%B4%E8%94%A1%E6%96%87%E9%9D%99%E8%84%91%E5%AD%90%E5%A5%BD%E5%8E%89%E5%AE%B3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "天津泡泡岛音乐节",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E6%B3%A1%E6%B3%A1%E5%B2%9B%E9%9F%B3%E4%B9%90%E8%8A%82%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "不说「幸福」二字，能怎样表达你的「幸福感」?",
+    "url": "https://www.zhihu.com/question/654043870",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如果你职场领导，你会怎么对待下属职工？",
+    "url": "https://www.zhihu.com/question/654278838",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如果地球的原子不断循环，那我们身上是不是也会有古人用过的原子？",
+    "url": "https://www.zhihu.com/question/351698563",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "双休政策参与者称「落实年假和双休比增加假期更重要，凑小长假致旅游业旺季太贵淡季没人」，如何看待此观点？",
+    "url": "https://www.zhihu.com/question/654263544",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Microsoft \"doubling down\" on cybersecurity",
+    "url": "https://www.axios.com/2024/04/26/microsoft-earnings-cybersecurity-hacks",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40182651\">Comments</a>",
+    "publish_time": "2024-04-28 03:22:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "As solar capacity grows, some of America's most productive farmland is at risk",
+    "url": "https://www.reuters.com/world/us/solar-capacity-grows-some-americas-most-productive-farmland-is-risk-2024-04-27/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40181876\">Comments</a>",
+    "publish_time": "2024-04-28 01:40:16",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ask HN: What have you built with ESPHome, ESP8266 or similar hardware",
+    "url": "https://news.ycombinator.com/item?id=40181000",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40181000\">Comments</a>",
+    "publish_time": "2024-04-28 00:05:45",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "VMware outsourcing their support",
+    "url": "https://rubenerd.com/vmware-outsourcing-their-support/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40182251\">Comments</a>",
+    "publish_time": "2024-04-28 02:27:13",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "ArcaneDoor – New campaign found targeting network devices",
+    "url": "https://blog.talosintelligence.com/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40181896\">Comments</a>",
+    "publish_time": "2024-04-28 01:42:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Einsum for Tensor Manipulation",
+    "url": "https://swe-to-mle.pages.dev/posts/einsum-for-tensor-manipulation/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40181612\">Comments</a>",
+    "publish_time": "2024-04-28 01:08:20",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
