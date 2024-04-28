@@ -1506,5 +1506,78 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "韩雪练舞前后对比",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E9%9B%AA%E7%BB%83%E8%88%9E%E5%89%8D%E5%90%8E%E5%AF%B9%E6%AF%94%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "买家称周鸿祎的车不卖",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B9%B0%E5%AE%B6%E7%A7%B0%E5%91%A8%E9%B8%BF%E7%A5%8E%E7%9A%84%E8%BD%A6%E4%B8%8D%E5%8D%96%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Did we lose our way in making efficient software?",
+    "url": "https://rufatmammadli.medium.com/did-we-lose-our-way-in-making-efficient-software-30-mb-doc-file-vs-browser-fed12dd866a4",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40189682\">Comments</a>",
+    "publish_time": "2024-04-29 00:22:56",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Dotenv, if it is a Unix utility",
+    "url": "https://github.com/gyf304/dotenv",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40191510\">Comments</a>",
+    "publish_time": "2024-04-29 04:25:46",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Meticulous (YC S21) is hiring to eliminate E2E UI tests",
+    "url": "https://news.ycombinator.com/item?id=40191915",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40191915\">Comments</a>",
+    "publish_time": "2024-04-29 05:06:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Personal Computing Paves the Way for Personal Library Science",
+    "url": "https://www.bramadams.dev/issue-55/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40192359\">Comments</a>",
+    "publish_time": "2024-04-29 05:57:00",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Call-to-Action on SB 1047 – Frontier Artificial Intelligence Models Act",
+    "url": "https://www.affuture.org/post/9-context/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40192204\">Comments</a>",
+    "publish_time": "2024-04-29 05:34:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
