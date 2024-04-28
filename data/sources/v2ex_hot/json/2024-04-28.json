@@ -20,5 +20,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "最近华为 P70 发布，运营商又开始掐 iPhone 信号了。",
+    "url": "https://www.v2ex.com/t/1036266",
+    "summary": "xiuming142857:",
+    "publish_time": "2024-04-28 09:37:15",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "[ Java ]中的线程池工作原理，为什么不是先创建线程而是先往阻塞队列里塞任务？",
+    "url": "https://www.v2ex.com/t/1036271",
+    "summary": "lsk569937453: <p>假设核心线程数为 n,最大线程数为 m 。线程池创建后，就提交了 n 个任务且这 n 个任务一直在执行，没有结束。此时再提交一个任务就会塞到任务队列里。我的疑问是<strong>新提交的这个任务为什么不是创建一个新的线程执行？</strong>。线程池不是应该首先要保证任务完成吗？</p>\n<p>现在的逻辑是\"先判断任务队列是否满再判断是否达到最大线程数\",这样设计有什么优点呢？</p>",
+    "publish_time": "2024-04-28 09:48:06",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "问界 m7 起火",
+    "url": "https://www.v2ex.com/t/1036296",
+    "summary": "zhangxk: <p>没有人讨论么？微博已经下热搜了</p>",
+    "publish_time": "2024-04-28 10:35:41",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
