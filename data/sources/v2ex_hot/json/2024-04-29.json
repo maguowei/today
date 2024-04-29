@@ -9,5 +9,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "[奶粉相关]大家的孩子喝的都是什么奶粉，多少钱一罐？",
+    "url": "https://www.v2ex.com/t/1036585",
+    "summary": "TimeNewRome: 1 、喝的奶粉是什么品牌的奶粉？<br />2 、多少钱一罐？<br />3 、孩子喝奶粉之后是否有不良反应？",
+    "publish_time": "2024-04-29 08:50:13",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "对接后端接口被挑战能力不行（吐槽贴，不会因为这个问题去挑战什么）",
+    "url": "https://www.v2ex.com/t/1036619",
+    "summary": "svip0dd: 原因：App 开发的时候，首页有 4 个相同的模块，在了解到数据是同一个服务提供的，所以希望后端在提供接口的时候能够一次将这个这四个模块的数据整体返回给我。<br /><br />结论：服务端的大佬说为了保证接口的原子性，不要做太多业务上的事，他们会开发一个通用的接口，有几个模块让我调用几次。其次服务端考虑到后面可能其他的服务也会调用，所以希望能尽可能通用。<br /><br />以上结论在前后端对接时他们时常用这个说法对我进行 pua ，我觉得我已经无法接受了，请问各位大佬，这种情况如何反驳？为了保证他们接口的原子性，我大部分页面通常都要 2-5 个接口，甚至更多，比如之前获取图片，因为他们的图片是两张表，一张是图片 id ，一张是 id 对应的图片地址。我只能先获取 id ，再用 id 去请求接口。但服务的通用性在这个说法我在长期对接中发现纯属扯淡，几乎只有我在对接且因为接口调用的多了增加各种复杂场景，如果没有处理好也会影响用户体验。",
+    "publish_time": "2024-04-29 09:58:45",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
