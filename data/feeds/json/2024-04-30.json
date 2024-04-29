@@ -1200,5 +1200,89 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "财经局内人",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B4%A2%E7%BB%8F%E5%B1%80%E5%86%85%E4%BA%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何评价米哈游登顶美国买量支出榜单？",
+    "url": "https://www.zhihu.com/question/654507548",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "The Financial Times and OpenAI strike content licensing deal",
+    "url": "https://www.ft.com/content/33328743-ba3b-470f-a2e3-f41c3a366613",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40201397\">Comments</a>",
+    "publish_time": "2024-04-30 01:33:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Physical fitness and risk of mental disorders in children and adolescents",
+    "url": "https://jamanetwork.com/journals/jamapediatrics/article-abstract/2818132",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40201199\">Comments</a>",
+    "publish_time": "2024-04-30 01:16:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "GitHub Copilot Workspace: Technical Preview",
+    "url": "https://github.blog/2024-04-29-github-copilot-workspace/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40200081\">Comments</a>",
+    "publish_time": "2024-04-30 00:03:03",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "30% of Children Ages 5-7 Are on TikTok",
+    "url": "https://www.honest-broker.com/p/30-of-children-ages-5-7-are-on-tiktok",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40202183\">Comments</a>",
+    "publish_time": "2024-04-30 02:38:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Liu Cixin's War of the Worlds",
+    "url": "https://www.newyorker.com/magazine/2019/06/24/liu-cixins-war-of-the-worlds",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40202027\">Comments</a>",
+    "publish_time": "2024-04-30 02:23:08",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "\"So that a truncated partial download doesn't end up executing half a script\"",
+    "url": "https://tailscale.com/install.sh",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40201920\">Comments</a>",
+    "publish_time": "2024-04-30 02:14:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
