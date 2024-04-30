@@ -601,5 +601,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "拉夫劳伦2024秋冬时装秀",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%8B%89%E5%A4%AB%E5%8A%B3%E4%BC%A62024%E7%A7%8B%E5%86%AC%E6%97%B6%E8%A3%85%E7%A7%80%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "广州天气",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%A4%A9%E6%B0%94%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "欧洲德比",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%AC%A7%E6%B4%B2%E5%BE%B7%E6%AF%94%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
