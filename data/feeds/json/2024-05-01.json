@@ -1341,5 +1341,134 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "我爱你用宫崎骏的话怎么说",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E7%88%B1%E4%BD%A0%E7%94%A8%E5%AE%AB%E5%B4%8E%E9%AA%8F%E7%9A%84%E8%AF%9D%E6%80%8E%E4%B9%88%E8%AF%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "美式前刺",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%BC%8F%E5%89%8D%E5%88%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "春色寄情人",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%89%B2%E5%AF%84%E6%83%85%E4%BA%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何看待余承东卸任华为终端BG CEO，何刚接任？",
+    "url": "https://www.zhihu.com/question/654623683",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价游戏《剑星》？",
+    "url": "https://www.zhihu.com/question/654167750",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "能分享一张你最怀念的照片吗？",
+    "url": "https://www.zhihu.com/question/654178689",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "文笔挑战：“风，轻轻拂过我的笔尖，______”，你会怎么接下一句？",
+    "url": "https://www.zhihu.com/question/654488978",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Thinking Beyond IaC",
+    "url": "https://www.youtube.com/watch?v=gg4UZ_04hZc",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40213803\">Comments</a>",
+    "publish_time": "2024-05-01 01:48:14",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Probing electron spin states at much higher resolution and efficiency",
+    "url": "https://phys.org/news/2024-04-materials-analysis-benefits-probing-electron.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40213208\">Comments</a>",
+    "publish_time": "2024-05-01 00:55:54",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Crash-only software: More than meets the eye",
+    "url": "https://lwn.net/Articles/191059/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40212967\">Comments</a>",
+    "publish_time": "2024-05-01 00:37:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Autoscale Kubernetes workloads on any cloud using any event",
+    "url": "https://kedify.io/resources/blog/kedify-keda-powered-public-beta-launch-announcement/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40213365\">Comments</a>",
+    "publish_time": "2024-05-01 01:10:11",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Good enough is good enough",
+    "url": "https://ep2013.europython.eu/conference/talks/good-enough-is-good-enough",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40213718\">Comments</a>",
+    "publish_time": "2024-05-01 01:42:30",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The File Filesystem",
+    "url": "https://mgree.github.io/ffs/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40213731\">Comments</a>",
+    "publish_time": "2024-05-01 01:43:12",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
