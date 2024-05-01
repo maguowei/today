@@ -1167,5 +1167,89 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "X光下小宝宝的手",
+    "url": "https://s.weibo.com/weibo?q=%23X%E5%85%89%E4%B8%8B%E5%B0%8F%E5%AE%9D%E5%AE%9D%E7%9A%84%E6%89%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何评价黄景瑜和王一博主演的电影《维和防暴队》？",
+    "url": "https://www.zhihu.com/question/519519826",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Xamarin has reached End of Support",
+    "url": "https://dotnet.microsoft.com/en-us/platform/support/policy/xamarin",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40226863\">Comments</a>",
+    "publish_time": "2024-05-02 02:00:44",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Apple's 'incredibly private' Safari is not so private in Europe",
+    "url": "https://www.theregister.com/2024/04/30/apple_safari_europe_tracking/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40225905\">Comments</a>",
+    "publish_time": "2024-05-02 00:54:03",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "R/Java bans Kevin Bourrillion because he mentioned another programming language",
+    "url": "https://twitter.com/kevinb9n/status/1785066830966690126",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40227292\">Comments</a>",
+    "publish_time": "2024-05-02 02:31:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The $21B influencer industry has gone off the rails",
+    "url": "https://www.businessinsider.com/influencer-industry-marketing-fraud-discrimination-unethical-deals-content-creators-brands-2024-4",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40226913\">Comments</a>",
+    "publish_time": "2024-05-02 02:04:35",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Eight Feet Jolted a $180M Real Estate Deal",
+    "url": "https://www.nytimes.com/interactive/2024/04/19/realestate/st-francis-college-brooklyn.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40226478\">Comments</a>",
+    "publish_time": "2024-05-02 01:33:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "New startup sells coffee through SSH, and exclusively through SSH",
+    "url": "https://www.terminal.shop/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40227208\">Comments</a>",
+    "publish_time": "2024-05-02 02:26:33",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
