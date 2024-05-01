@@ -53,5 +53,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "Linux 下有无类似 Windows RDP 的远程桌面/RDP 方案",
+    "url": "https://www.v2ex.com/t/1037208",
+    "summary": "liyafe1997: <p>主要不是性能（当然性能也挺重要），最重要的是以下类似 Windows RDP 的 features：</p>\n<ol>\n<li>\n<p>能够在主机/远程桌面之间切换，即像 Windows 一样，我通过远程桌面登录同一个用户时，主机控制台上的会话会被踢掉，这样不是简单远程控制屏幕这么简单，我在远程时，电脑前的人无法看到我的操作。同时我回到电脑前面时，能把之前的会话切回主机控制台上使用。</p>\n</li>\n<li>\n<p>能适应不同客户端的分辨率，能用多屏。</p>\n</li>\n</ol>\n<p>目前没有发现类似的。如果直接用 vncserver/xorgxrdp 这种，每次都是开启一个新的会话，更别说 vncserver 是每次启动时写死分辨率的。</p>\n<p>如果用 x11vnc/x0vncserver 这种「控制现存的 XServer 」，稍微好一点，但是本质上还是像 Teamviewer/ToDesk 这种远程控制桌面，无法自适应客户端分辨率，而且主机那边屏幕(xserver)能看到你的所有操作，而且没法串流音频。目前我用 xrdp 连接 127.0.0.1 的 x11vnc 将就着用。</p>\n<p>有一个商业的方案叫 Thinlinc 似乎还行，10 用户以下免费，能在不同客户端之间自适应分辨率/多屏登录到同一个会话，而且能串流音频（上面一半的需求实现了，几乎等于纯用 RDP 连接 Windows 的功能），唯一的问题是，没法在主机控制台也就是电脑前登录，只能用远程。而且必须安装它家的客户端。</p>\n<p>还有什么别的能实现上述 Features 的方案可用吗？</p>",
+    "publish_time": "2024-05-01 06:45:06",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "弟弟马上要初三毕业了",
+    "url": "https://www.v2ex.com/t/1037243",
+    "summary": "kiah: 弟弟马上要初三毕业了，学习成绩很差，问我有什么出路，其实我也不知道做什么好，感觉也只能去读个中专了，但是问了一下私立中专，学费动不动就是一两万一年，亚历山大，父母也没啥能力，只能靠我了，但是我也压力很大哎.. 感觉没有更好的出路把，说句实话 读中专也没啥卵用...",
+    "publish_time": "2024-05-01 11:47:49",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
