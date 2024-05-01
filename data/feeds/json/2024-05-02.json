@@ -1522,5 +1522,74 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "路人偶遇郭碧婷",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B7%AF%E4%BA%BA%E5%81%B6%E9%81%87%E9%83%AD%E7%A2%A7%E5%A9%B7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "很难坚持运动不是因为你懒",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BE%88%E9%9A%BE%E5%9D%9A%E6%8C%81%E8%BF%90%E5%8A%A8%E4%B8%8D%E6%98%AF%E5%9B%A0%E4%B8%BA%E4%BD%A0%E6%87%92%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "舅妈拒绝妈妈去她家做保姆，我为什么会感到伤心？",
+    "url": "https://www.zhihu.com/question/653667093",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "细水长流的爱情——在快时代中，我们如何寻觅那份慢慢喜欢的温柔？",
+    "url": "https://www.zhihu.com/question/654612632",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Paul Auster, American author of The New York Trilogy, dies aged 77",
+    "url": "https://www.theguardian.com/books/2024/may/01/paul-auster-dies-aged-77-death-american-author-new-york-trilogy",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40225674\">Comments</a>",
+    "publish_time": "2024-05-02 00:39:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Impressive Sora Demo Wasn't Made with Sora",
+    "url": "https://futurism.com/the-byte/openai-sora-demo",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40229619\">Comments</a>",
+    "publish_time": "2024-05-02 05:21:00",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Microsoft says April Windows updates break VPN connections",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-april-windows-updates-break-vpn-connections/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40230598\">Comments</a>",
+    "publish_time": "2024-05-02 06:49:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
