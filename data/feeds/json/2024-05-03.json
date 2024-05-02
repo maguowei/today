@@ -1321,5 +1321,116 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "河南大学",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%A4%A7%E5%AD%A6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "五一还剩三天",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%80%E8%BF%98%E5%89%A9%E4%B8%89%E5%A4%A9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "朱珠方发文谴责倒卖门票商品行为",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9C%B1%E7%8F%A0%E6%96%B9%E5%8F%91%E6%96%87%E8%B0%B4%E8%B4%A3%E5%80%92%E5%8D%96%E9%97%A8%E7%A5%A8%E5%95%86%E5%93%81%E8%A1%8C%E4%B8%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "切尔西vs热刺",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%88%87%E5%B0%94%E8%A5%BFvs%E7%83%AD%E5%88%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何看待鹰角被发现暗改《明日方舟》福利文案？",
+    "url": "https://www.zhihu.com/question/654615392",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "To save it, eat it",
+    "url": "https://longnow.org/ideas/to-save-it-eat-it/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40237947\">Comments</a>",
+    "publish_time": "2024-05-03 00:15:54",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Microsoft bans U.S. police departments from using enterprise AI tool",
+    "url": "https://techcrunch.com/2024/05/02/microsoft-bans-u-s-police-departments-from-using-enterprise-ai-tool/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40240037\">Comments</a>",
+    "publish_time": "2024-05-03 02:51:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Pet parrots prefer live video-calls",
+    "url": "https://phys.org/news/2024-05-pet-parrots-video-pre-videos.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40239336\">Comments</a>",
+    "publish_time": "2024-05-03 02:00:30",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Pleasure or Pain? He Maps the Neural Circuits That Decide",
+    "url": "https://www.quantamagazine.org/pleasure-or-pain-he-maps-the-neural-circuits-that-decide-20240416/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40238788\">Comments</a>",
+    "publish_time": "2024-05-03 01:21:43",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Longevity of Recordable CDs, DVDs and Blu-Rays (2020)",
+    "url": "https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/longevity-recordable-cds-dvds.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40237984\">Comments</a>",
+    "publish_time": "2024-05-03 00:19:05",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Making a 3D Modeler, in C, in a Week",
+    "url": "https://danielchasehooper.com/posts/shapeup/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40239164\">Comments</a>",
+    "publish_time": "2024-05-03 01:48:14",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
