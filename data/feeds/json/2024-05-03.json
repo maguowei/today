@@ -1432,5 +1432,96 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "声声辣喊口口解压",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A3%B0%E5%A3%B0%E8%BE%A3%E5%96%8A%E5%8F%A3%E5%8F%A3%E8%A7%A3%E5%8E%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "新加坡驻日参赞在澡堂偷拍未成年男孩",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8A%A0%E5%9D%A1%E9%A9%BB%E6%97%A5%E5%8F%82%E8%B5%9E%E5%9C%A8%E6%BE%A1%E5%A0%82%E5%81%B7%E6%8B%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E7%94%B7%E5%AD%A9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如果以后做代数方向,是不是完全没有必要学数分和高代?",
+    "url": "https://www.zhihu.com/question/653525982",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "可以留下一首好听到单曲循环的歌吗？",
+    "url": "https://www.zhihu.com/question/650111245",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Asteroid that broke up over Berlin was fastest-spinning one ever seen",
+    "url": "https://www.newscientist.com/article/2428473-asteroid-that-broke-up-over-berlin-was-fastest-spinning-one-ever-seen/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40239955\">Comments</a>",
+    "publish_time": "2024-05-03 02:44:18",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Will Cambridge support free speech? - Peter Singer on expelled Dr Cofnas",
+    "url": "https://www.koreaherald.com/view.php?ud=20240415050845",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40240522\">Comments</a>",
+    "publish_time": "2024-05-03 03:35:29",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Simple Postgres to ClickHouse replication featuring MinIO",
+    "url": "https://blog.peerdb.io/simple-postgres-to-clickhouse-replication-featuring-minio",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40240414\">Comments</a>",
+    "publish_time": "2024-05-03 03:24:05",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Online Cryptography Course (2017)",
+    "url": "https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40237745\">Comments</a>",
+    "publish_time": "2024-05-03 00:00:43",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Making a 3D modeler in C in a week",
+    "url": "https://danielchasehooper.com/posts/shapeup/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40239164\">Comments</a>",
+    "publish_time": "2024-05-03 01:48:14",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
