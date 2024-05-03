@@ -1381,5 +1381,65 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "发炎其实是人类的超能力",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%82%8E%E5%85%B6%E5%AE%9E%E6%98%AF%E4%BA%BA%E7%B1%BB%E7%9A%84%E8%B6%85%E8%83%BD%E5%8A%9B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "刘耀文Last Night",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87Last+Night%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "怎样释怀自己以前的苦难人生?",
+    "url": "https://www.zhihu.com/question/654619471",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Perimeter – Open-Source Real-Time Strategy Game",
+    "url": "https://github.com/KD-lab-Open-Source/Perimeter",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40249474\">Comments</a>",
+    "publish_time": "2024-05-04 00:27:50",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Lightsaber Battle – May the Fourth Be with You",
+    "url": "https://www.lightsabercursor.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40252053\">Comments</a>",
+    "publish_time": "2024-05-04 04:31:43",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Karate physics: How your hand can break concrete without breaking itself",
+    "url": "https://daily.jstor.org/the-physics-of-karate/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40251317\">Comments</a>",
+    "publish_time": "2024-05-04 03:25:22",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
