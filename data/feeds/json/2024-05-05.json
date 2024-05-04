@@ -1060,5 +1060,70 @@
       "desc": "知乎热榜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
     }
+  },
+  {
+    "title": "中国青年正当时",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%AD%A3%E5%BD%93%E6%97%B6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "潘玮柏演唱会大屏上的一家三口",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%BD%98%E7%8E%AE%E6%9F%8F%E6%BC%94%E5%94%B1%E4%BC%9A%E5%A4%A7%E5%B1%8F%E4%B8%8A%E7%9A%84%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "布拉德皮特60岁状态",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B8%83%E6%8B%89%E5%BE%B7%E7%9A%AE%E7%89%B960%E5%B2%81%E7%8A%B6%E6%80%81%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "宋亚轩蝴蝶元素",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E8%9D%B4%E8%9D%B6%E5%85%83%E7%B4%A0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "逐花归海首秀首胜",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%80%90%E8%8A%B1%E5%BD%92%E6%B5%B7%E9%A6%96%E7%A7%80%E9%A6%96%E8%83%9C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "香飘飘日本超市产品上印有嘲讽核污水排海标语，工作人员称已注意到该现象，有哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/654957506",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Motion (YC W20) is hiring senior software engineers",
+    "url": "https://jobs.ashbyhq.com/motion?utm_source=hn",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40258899\">Comments</a>",
+    "publish_time": "2024-05-05 01:00:50",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
