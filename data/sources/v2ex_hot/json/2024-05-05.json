@@ -64,5 +64,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "不懂就问，我这是在京东旗舰店买到扩容卡了？",
+    "url": "https://www.v2ex.com/t/1037744",
+    "summary": "lumie: 如题，去年 8 月份于京东金士顿自营店购入 128Gb tf 卡，用于某运动相机。今天晚上格式化完发现容量变成了 4.68g 。<br /><br />起初以为是格卡操作问题（因为手边没有 u 盘所以临时找这张卡想做个 ubuntu 系统盘，使用了 rufus 格式化）格完发现没法安装系统所以怀疑是 rufus 或者制作镜像过程中出错，隧使用某运动相机自带功能格式化为原有 exfat 格式，结果还是 4.68g 可用。<br /><br />到这里有点慌了（折腾到凌晨两点），于是 google 了一下 tf 卡容量变小，使用 diskpart 命令以及使用 sdcardformatter 均无法恢复，开始怀疑是卡的问题并申请京东售后。算了一下 4.68g 可用也就是 4.68*1.024^3=5gb ，也就是说这原本就是一张 5g 的扩容卡？<br /><br />现在的问题：<br />1.如果是卡的问题，这张卡是我在京东金士顿旗舰店购入的，会有可能是扩容卡吗？以及如何维权？<br />2.如果是我的操作问题，如何恢复容量 128g ？<br /><br /><a href=\"https://i.imgur.com/qllzLn7.png\" rel=\"nofollow noopener\" target=\"_blank\"><img class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/qllzLn7.png\" /></a><a href=\"https://i.imgur.com/lVaKUMk.png\" rel=\"nofollow noopener\" target=\"_blank\"><img class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/lVaKUMk.png\" /></a><a href=\"https://i.imgur.com/yM0YfPa.jpeg\" rel=\"nofollow noopener\" target=\"_blank\"><img class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/yM0YfPa.jpeg\" /></a>",
+    "publish_time": "2024-05-05 02:54:57",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
