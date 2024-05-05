@@ -1035,5 +1035,123 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "眼泪女王",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%9C%BC%E6%B3%AA%E5%A5%B3%E7%8E%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "BLG上上签",
+    "url": "https://s.weibo.com/weibo?q=%23BLG%E4%B8%8A%E4%B8%8A%E7%AD%BE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "林俊杰深圳演唱会",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%B7%B1%E5%9C%B3%E6%BC%94%E5%94%B1%E4%BC%9A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "金秀贤金智媛ins更新照",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E7%A7%80%E8%B4%A4%E9%87%91%E6%99%BA%E5%AA%9Bins%E6%9B%B4%E6%96%B0%E7%85%A7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "教育回报率越来越低了吗",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%9B%9E%E6%8A%A5%E7%8E%87%E8%B6%8A%E6%9D%A5%E8%B6%8A%E4%BD%8E%E4%BA%86%E5%90%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "2024年嵌入式还适合入吗，为什么好多人劝退？",
+    "url": "https://www.zhihu.com/question/650467304",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "皇家马德里正认真考虑与莫德里奇续约 1 年，你认为他的留队会为球队下赛季发挥有何帮助？",
+    "url": "https://www.zhihu.com/question/654784408",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Dick Rutan, co-pilot of historic round-the-world flight, dies aged 85",
+    "url": "https://www.theguardian.com/world/article/2024/may/04/dick-rutan-pilot-dies-aged-85",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40266382\">Comments</a>",
+    "publish_time": "2024-05-06 01:07:27",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Infisical Is Hiring Software Engineers to Build Open-Source Security DevTools",
+    "url": "https://infisical.com/careers",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40266333\">Comments</a>",
+    "publish_time": "2024-05-06 01:00:48",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Good Ideas in Computer Science",
+    "url": "https://danielchasehooper.com/posts/good-ideas-in-cs/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40266492\">Comments</a>",
+    "publish_time": "2024-05-06 01:20:26",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Simplicity Is an Advantage but Sadly Complexity Sells Better (2022)",
+    "url": "https://eugeneyan.com/writing/simplicity/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40266464\">Comments</a>",
+    "publish_time": "2024-05-06 01:17:07",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "ESP32-S3 has (a few) SIMD instructions",
+    "url": "https://bitbanksoftware.blogspot.com/2024/01/surprise-esp32-s3-has-few-simd.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40266015\">Comments</a>",
+    "publish_time": "2024-05-06 00:21:33",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
