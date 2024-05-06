@@ -31,5 +31,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "开发时长一年半，新一代数据库、SSH/SFTP 跨平台桌面 GUI 工具",
+    "url": "https://www.v2ex.com/t/1037926",
+    "summary": "xiwh: <h1>开发时长一年半，新一代数据库、SSH/SFTP 跨平台桌面 GUI 工具</h1>\n<p>事情的起因大概在 22 年 9 月，脑子里突然冒出来一股强烈的开发一款独立软件的念头，于是开始了这段独立开发之路，起初我只是想做关于数据库方面的功能，后面实现 MySQL SSH 隧道功能时，想到一些自己使用其他 SSH 或 SFTP 工具存在的一些痛点，于是便开了一个新坑：把 SSH/SFTP 功能也集成起来，数据库目前暂时只支持 MySQL 和 MariaDB ，预计在第三季度将 PostgreSQL 、SQLite 、Clickhouse 也集成进来，数据库方面集成优先级是 是否开源&gt;流行度，后续可能还会接入 Redis 、服务器 Docker 管理。<br />\n从 22 年 9 月开始，我一直在利用业余时间开发这款软件（这可能是我坚持时间以及付出精力最多的一个项目了哈哈），中途项目经过了多轮重构（比如说从 Vue2 升级 Vue3 ）、性能优化、以及一些基础设施的搭建(插件化、热更新、插件发布持续集成等等)，再加上我个人对自己软件有一种完美主义者的心态，页面不好看，交互不友好，页面卡顿，内存占用过大，内存泄漏，Code review 都可能引发我的调整或重构，再加上作为一个程序员对推广方面确实比较排斥，所以耗时 1 年半迟迟没有正式发布并开始推广，这个帖子就是本软件的第一个推广哈哈。<br />\nHexHub 目前应该已经是一个比较可用的状态了，因为我已经在两个月前将 SSH 和 MySQL GUI 切换到 HexHub 了,详细的功能说明我就不写，简单放几张页面截图和功能描述，欢迎大家体验，使用过程中有觉得不好地方一定记得留言我尽力解决。</p>\n<h2>预览图</h2>\n<blockquote>\n<p>首页导航页\n<img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/XJaXK3L.png\" /> </p>\n</blockquote>\n<blockquote>\n<p>暗色主题\n<img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/DsHhlnN.png\" /> </p>\n</blockquote>\n<blockquote>\n<p>数据库表列表页面：会显示表的一些摘要信息，表列表目前有两个视图类型，当表数量大于 50 时会自动切换成网格模式，能够充分利用空间显示更多的表。然后右边有个空间会实时显示当前数据库的一些指标\n<img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/6VzjntS.png\" /> </p>\n</blockquote>\n<blockquote>\n<p>表结构编辑：布局比较类似 Navicat ，不过多了一些小细节，比如说新增/编辑着色、拖拽排序、新增字段根据名称推断类型等等\n<img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/Blv2CY3.png\" /> </p>\n</blockquote>\n<blockquote>\n<p>SQL 查询：基于 CodeMirror 魔改的，自动完成智能程度我认为 DataGrip &gt; HexHub &gt; DBeaver &gt; Navicat\n<img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/235yXX6.png\" /> </p>\n</blockquote>\n<blockquote>\n<p>表数据编辑：自研的数据表格，做了相当多的优化，实现了新增/编辑作色，撤销、表格批量粘贴、多行编辑、内联编辑、不限制行数，百万甚至千万数据同屏依旧丝滑，几乎可以像 Excel 一样轻松编辑数据，不方便下载的同学可以访问官网有预览 Demo 。\n<img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/aFkQHdk.png\" /></p>\n</blockquote>\n<blockquote>\n<p>SSH/SFTP：页面同时包含终端、本地目录、远程目录，远程目录路径能够跟随终端路径发生变化，支持拖拉拽复制/粘贴文件，权限控制等等，使用起来感觉还是相当不错的。\n<img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/AHNv7Rs.png\" /> </p>\n</blockquote>\n<blockquote>\n<p>文件传输：支持 SFTP 、ZMODEM 、SCP 三种文件传输协议，SFTP 使用了并发上传技术、ZMODEM 协议我自己用 Golang 实现了一个(不得不说这个古老的非标准协议要做稳定真的是相当费劲)，很大程度解决了很多其他工具会遇到的传输不稳定传输速度慢的问题。\n<img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/9bYUmQl.png\" /> </p>\n</blockquote>\n<blockquote>\n<p>实时面板：支持网速、CPU 、内存、进程列表、Docker 容器列表、磁盘挂载列表等信息。\n<img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/pVYRjhy.png\" /> </p>\n</blockquote>\n<h2>功能表</h2>\n<h3>基础</h3>\n<ul>\n<li>Windows/Mac/Linux 支持</li>\n<li>亮色/暗色双主题</li>\n<li>云端资产同步</li>\n<li>资产导入导出</li>\n<li>多窗口</li>\n<li>插件化(按需下载)</li>\n</ul>\n<h3>数据库</h3>\n<ul>\n<li>MySQL 支持</li>\n<li>MariaDB 支持</li>\n<li>(X)PostgreSQL 支持</li>\n<li>(X)SQLite 支持</li>\n<li>(X)Clickhouse 支持</li>\n<li>SQL 查询编辑器</li>\n<li>数据内联编辑</li>\n<li>表结构编辑器</li>\n<li>视图</li>\n<li>SSH 隧道</li>\n<li>表结构同步</li>\n<li>表数据迁移</li>\n<li>实时面板</li>\n<li>数据字典导出</li>\n<li>SQL 导入导出</li>\n<li>XLSX 导入导出</li>\n</ul>\n<h3>SSH/SFTP</h3>\n<ul>\n<li>SSH 终端</li>\n<li>SFTP</li>\n<li>跳板机</li>\n<li>SOCKS5 、HTTP/HTTPS 代理</li>\n<li>密码、秘钥、交互式验证登录</li>\n<li>ZMODEM 协议</li>\n<li>SCP 协议</li>\n<li>SFTP 路径联动</li>\n<li>本地文件目录视图</li>\n<li>远程文件目录视图</li>\n<li>文件传输后台任务</li>\n<li>文件拖拽上传/下载</li>\n<li>文件直接编辑</li>\n<li>批量修改文件/文件夹权限</li>\n</ul>\n<p>技术栈：Golang TypeScript Vue3 C++ CEF<br />\n官网：<a href=\"https://www.hexhub.cn/\" rel=\"nofollow\">www.hexhub.cn</a></p>\n<blockquote>\n<p>最后奉上 5 折折扣码:v2ex, 当然免费版已经足够日常使用，诸位可按需购买。</p>\n</blockquote>",
+    "publish_time": "2024-05-06 09:14:50",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "25W 左右 suv 求推荐",
+    "url": "https://www.v2ex.com/t/1037965",
+    "summary": "wwowowowo: <p>上班不开，平时带家人出去玩或者回老家。（ 500KM ，农村没车真的连门都出不去）。</p>\n<p>新能源和油车无所谓，个人偏向于新能源但是家人更偏向油车，但是都没到非 XX 不可的地步。</p>\n<p>只试驾过 model y ，驾驶体验确实不错，不过内饰简陋了点。加上 3 年免息和最近降价 有点心动。</p>",
+    "publish_time": "2024-05-06 10:24:09",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
