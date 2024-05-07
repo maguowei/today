@@ -1123,5 +1123,81 @@
       "desc": "知乎热榜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
     }
+  },
+  {
+    "title": "真的讨厌HR问我空窗期干嘛了",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%9C%9F%E7%9A%84%E8%AE%A8%E5%8E%8CHR%E9%97%AE%E6%88%91%E7%A9%BA%E7%AA%97%E6%9C%9F%E5%B9%B2%E5%98%9B%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "于正关注Zzr",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E5%85%B3%E6%B3%A8Zzr%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "新款iPadAir新增13英寸机型",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%AC%BEiPadAir%E6%96%B0%E5%A2%9E13%E8%8B%B1%E5%AF%B8%E6%9C%BA%E5%9E%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何评价苹果发布会在iPad Pro上首发Apple M4芯片？",
+    "url": "https://www.zhihu.com/question/655276381",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如果世界末日以全球高温的形式出现，那应如何自救？",
+    "url": "https://www.zhihu.com/question/543093974",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么说不要试探人性？",
+    "url": "https://www.zhihu.com/question/561103298",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "The Grateful Dead's Wall of Sound",
+    "url": "https://audioacademy.in/the-grateful-deads-wall-of-sound/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40289323\">Comments</a>",
+    "publish_time": "2024-05-08 02:06:29",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Convert your Containerfile to a bootable OS",
+    "url": "https://github.com/containers/podman-desktop-extension-bootc",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40289120\">Comments</a>",
+    "publish_time": "2024-05-08 01:50:21",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
