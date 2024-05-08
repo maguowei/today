@@ -240,5 +240,27 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "XLSTM: Extended Long Short-Term Memory",
+    "url": "https://arxiv.org/abs/2405.04517",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40294650\">Comments</a>",
+    "publish_time": "2024-05-08 13:28:43",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The C++ Iceberg",
+    "url": "https://fouronnes.github.io/cppiceberg/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40294555\">Comments</a>",
+    "publish_time": "2024-05-08 13:12:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
