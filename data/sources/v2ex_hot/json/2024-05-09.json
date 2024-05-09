@@ -64,5 +64,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "Remote 大半年了，好像也开始了抑郁阶段，有没有相同经历的伙伴，有什么好的建议吗？",
+    "url": "https://www.v2ex.com/t/1039015",
+    "summary": "zhusanshi: 求分享，有 AA 互助小组的也拉一拉，谢谢！",
+    "publish_time": "2024-05-09 10:50:26",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "一些正向作用的后门接口有没有其它的名称，直接叫后门不太好听",
+    "url": "https://www.v2ex.com/t/1039147",
+    "summary": "studyrun: <p>后台项目，有个后门接口是用来修复某些状态异常的数据，使用频次也不高。因为一些原因，这个功能不能放在管理系统上，需要使用的时候，运维上去 curl 执行一下。<br />\n平常一说到后门，一般都会联想到不好的事情，删除客户文件，窃取之类的。想知道有没有其它的好听的称呼，来描述上面说的这类功能的接口</p>",
+    "publish_time": "2024-05-09 15:43:50",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
