@@ -53,5 +53,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "留下你的 json 格式化查看工具吧, 看看那个更好用",
+    "url": "https://www.v2ex.com/t/1040158",
+    "summary": "wenjie0032: 由于经常有 格式化查看 json 的需求, <br /><br />我的工作流是: 复制 -&gt; 开浏览器 -&gt; 打开 <a href=\"http://json.cn/\" rel=\"nofollow noopener\" target=\"_blank\">json.cn</a> -&gt; 黏贴看内容<br /><br />用多了就觉得这个链路太长, 所以想 有没有自动化的一些工具, 没有找到<br /><br />所以做了这个小应用, 基于 tauri2 + react, <br /><br />特性是: 当你复制了 json 数据后, 可以自动展示格式化后的数据<br /><br />口号是: Json 美化, 只需一步!<br /><br />现在已经支持了 json/sql 的自动美化, 后续考虑增加 xml/curl 等<br /><br /><a href=\"https://github.com/daodao97/quick-view\" rel=\"nofollow noopener\" target=\"_blank\">https://github.com/daodao97/quick-view</a><br /><br /><div class=\"embedded_video_wrapper\"></div>",
+    "publish_time": "2024-05-13 10:24:32",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "上班活很少，可以干啥消磨时间，提升自己",
+    "url": "https://www.v2ex.com/t/1040206",
+    "summary": "MRG0: 看过一点电子书，困得不行，内容不入脑",
+    "publish_time": "2024-05-13 11:45:31",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
