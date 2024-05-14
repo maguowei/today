@@ -86,5 +86,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "为什么 golang 提倡 「接收接口，返回结构体」这样的原则呢？",
+    "url": "https://www.v2ex.com/t/1040434",
+    "summary": "shinelamla: <p>看到很多 go 代码在构造对象的时候，Newxxx()的时候，都喜欢接收接口，然后返回结构体，查阅了一些资料，始终无法理解这一操作的精髓，所以想问问大家，对这个 go 惯例的理解是怎么样的，希望得到一些指点</p>",
+    "publish_time": "2024-05-14 00:34:39",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "公司强制阅读打卡，表示拒绝遭反怼，如何处理？",
+    "url": "https://www.v2ex.com/t/1040438",
+    "summary": "ill: <p>不喜欢形式，不喜欢强制。明天找老板 battle ，我该怎么说？</p>\n<p><img alt=\"1000004050.png\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://s2.loli.net/2024/05/14/wx23oR4SkKMI9X7.png\" />\n<img alt=\"1000004051.png\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://s2.loli.net/2024/05/14/GYE9zgBnRm4Z5as.png\" /></p>",
+    "publish_time": "2024-05-14 01:41:48",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
