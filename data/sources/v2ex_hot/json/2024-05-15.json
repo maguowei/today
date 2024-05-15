@@ -42,5 +42,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "经常睡懒觉，有什么早餐推荐，代餐也可以？",
+    "url": "https://www.v2ex.com/t/1040838",
+    "summary": "leesin8848: 最好是快速好吃，还有营养的",
+    "publish_time": "2024-05-15 09:36:27",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "虚心求教，数据量上亿的爬虫数据用什么该用什么数据库呢",
+    "url": "https://www.v2ex.com/t/1040896",
+    "summary": "morost: <p>本来数据量小的时候用的就是 MySQL ，后来爬虫做过升级后，无论是广度和深度都有了改进，数据量慢慢已经来到了亿级，查询越来越慢，只能一直加索引来加快查询速度，但是这不是长久之计，准备从数据库上改善这个问题。</p>\n<p>希望更换一个对于大数据量支持友好的数据库，奈何本人这方面了解的确实不多，希望各位 v 友给点建议。</p>",
+    "publish_time": "2024-05-15 10:51:43",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
