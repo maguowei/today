@@ -1538,5 +1538,76 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "杨超越五年后跟谢涤葵再过招",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E4%BA%94%E5%B9%B4%E5%90%8E%E8%B7%9F%E8%B0%A2%E6%B6%A4%E8%91%B5%E5%86%8D%E8%BF%87%E6%8B%9B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何评价《一人之下》第672话情报？",
+    "url": "https://www.zhihu.com/question/656082927",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "对友谊产生极度内耗，如何解决这类心理问题？",
+    "url": "https://www.zhihu.com/question/655915081",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Show HN: I made a Mac app to search my images and videos locally with ML",
+    "url": "https://desktopdocs.com",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40371467\">Comments</a>",
+    "publish_time": "2024-05-16 03:44:46",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "SSD death, tricky read-only filesystems, and systemd magic?",
+    "url": "https://rachelbythebay.com/w/2024/05/15/ro/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40372317\">Comments</a>",
+    "publish_time": "2024-05-16 05:02:50",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Making a Postgres query 1k times faster",
+    "url": "https://mattermost.com/blog/making-a-postgres-query-1000-times-faster/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40372296\">Comments</a>",
+    "publish_time": "2024-05-16 05:00:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "In medicine what's the difference between an -ectomy, an -ostomy, and an -otomy? (1986)",
+    "url": "https://www.straightdope.com/21341781/in-medicine-what-s-the-difference-between-an-ectomy-an-ostomy-and-an-otomy",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40371650\">Comments</a>",
+    "publish_time": "2024-05-16 04:01:37",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
