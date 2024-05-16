@@ -1093,5 +1093,101 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "博主想用叶子换饭听障摊主写下我请你",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BB%E6%83%B3%E7%94%A8%E5%8F%B6%E5%AD%90%E6%8D%A2%E9%A5%AD%E5%90%AC%E9%9A%9C%E6%91%8A%E4%B8%BB%E5%86%99%E4%B8%8B%E6%88%91%E8%AF%B7%E4%BD%A0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "谁能认得出这是小鬼",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B0%81%E8%83%BD%E8%AE%A4%E5%BE%97%E5%87%BA%E8%BF%99%E6%98%AF%E5%B0%8F%E9%AC%BC%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "富士新品",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AF%8C%E5%A3%AB%E6%96%B0%E5%93%81%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "吴镇宇说丞磊这样子拍不了武侠",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E9%95%87%E5%AE%87%E8%AF%B4%E4%B8%9E%E7%A3%8A%E8%BF%99%E6%A0%B7%E5%AD%90%E6%8B%8D%E4%B8%8D%E4%BA%86%E6%AD%A6%E4%BE%A0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "武艺 综艺感的神",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%AD%A6%E8%89%BA+%E7%BB%BC%E8%89%BA%E6%84%9F%E7%9A%84%E7%A5%9E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "周杰伦福州演唱会",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%A6%8F%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何评价《一人之下》第672（714）话？",
+    "url": "https://www.zhihu.com/question/656237485",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "I Don't Want to Spend My One Precious Life Dealing with Google's AI Search",
+    "url": "https://aftermath.site/google-ai-search-god-no-why",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40380639\">Comments</a>",
+    "publish_time": "2024-05-17 01:02:40",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Using Llamafiles for Embeddings in Local RAG Applications",
+    "url": "https://future.mozilla.org/news/llamafiles-for-embeddings-in-local-rag-applications/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40380158\">Comments</a>",
+    "publish_time": "2024-05-17 00:20:03",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Reflex (YC W23) Is Hiring Software Engineers",
+    "url": "https://www.ycombinator.com/companies/reflex/jobs/6kHXK7x-software-engineer",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40380596\">Comments</a>",
+    "publish_time": "2024-05-17 01:00:11",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
