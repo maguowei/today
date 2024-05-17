@@ -1239,5 +1239,90 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "时代少年团爆料优酸乳",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E7%88%86%E6%96%99%E4%BC%98%E9%85%B8%E4%B9%B3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "张若昀说庆余年2比预想晚了好多",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E8%AF%B4%E5%BA%86%E4%BD%99%E5%B9%B42%E6%AF%94%E9%A2%84%E6%83%B3%E6%99%9A%E4%BA%86%E5%A5%BD%E5%A4%9A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "公积金真的有用吗",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%AC%E7%A7%AF%E9%87%91%E7%9C%9F%E7%9A%84%E6%9C%89%E7%94%A8%E5%90%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "哈哈哈哈哈",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%88%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "原神4.6版本",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E4.6%E7%89%88%E6%9C%AC%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "请问工作中的原则性+灵活性是怎么回事？",
+    "url": "https://www.zhihu.com/question/654809949",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "男朋友总是诋毁我说我胖怎么办？",
+    "url": "https://www.zhihu.com/question/653678556",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Show HN: I built a website to create financial models for any stock online",
+    "url": "https://www.useequityval.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40392548\">Comments</a>",
+    "publish_time": "2024-05-18 01:59:22",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Thinking out loud about 2nd-gen email",
+    "url": "https://gabrielsieben.tech/2024/05/17/thinking-out-loud-2nd-gen-email/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40392709\">Comments</a>",
+    "publish_time": "2024-05-18 02:16:14",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
