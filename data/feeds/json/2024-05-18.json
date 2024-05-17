@@ -1436,5 +1436,54 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "不用剥壳的小龙虾",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E7%94%A8%E5%89%A5%E5%A3%B3%E7%9A%84%E5%B0%8F%E9%BE%99%E8%99%BE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "房贷新政买房人能省多少钱",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%BF%E8%B4%B7%E6%96%B0%E6%94%BF%E4%B9%B0%E6%88%BF%E4%BA%BA%E8%83%BD%E7%9C%81%E5%A4%9A%E5%B0%91%E9%92%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "老板总是强调狼性文化怎么办？",
+    "url": "https://www.zhihu.com/question/656036272",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "The Delta Emulator is changing its logo after Adobe threatened it",
+    "url": "https://www.theverge.com/2024/5/17/24159268/delta-emulator-logo-change-app",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40394291\">Comments</a>",
+    "publish_time": "2024-05-18 05:16:36",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "ILGPU: Write GPU programs with C# and F#",
+    "url": "https://github.com/m4rs-mt/ILGPU",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40393873\">Comments</a>",
+    "publish_time": "2024-05-18 04:25:40",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
