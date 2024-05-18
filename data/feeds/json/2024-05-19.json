@@ -1199,5 +1199,92 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "竞燃星纪录",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%AB%9E%E7%87%83%E6%98%9F%E7%BA%AA%E5%BD%95%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "大四学生拍毕业照意外与婚纱照同框",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9B%9B%E5%AD%A6%E7%94%9F%E6%8B%8D%E6%AF%95%E4%B8%9A%E7%85%A7%E6%84%8F%E5%A4%96%E4%B8%8E%E5%A9%9A%E7%BA%B1%E7%85%A7%E5%90%8C%E6%A1%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "李佳薇 煎熬",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E8%96%87+%E7%85%8E%E7%86%AC%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "纽约中央公园偶遇网红凤姐",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BA%BD%E7%BA%A6%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9B%AD%E5%81%B6%E9%81%87%E7%BD%91%E7%BA%A2%E5%87%A4%E5%A7%90%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Bin说三比零T1",
+    "url": "https://s.weibo.com/weibo?q=%23Bin%E8%AF%B4%E4%B8%89%E6%AF%94%E9%9B%B6T1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "美国拟将大麻降级为三级管制药物，美股相关概念股上扬，拜登亲自拍短视频助阵，哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/656401960",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Why is China producing so many export goods, anyway?",
+    "url": "https://www.noahpinion.blog/p/why-is-china-producing-so-many-export",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40400441\">Comments</a>",
+    "publish_time": "2024-05-19 01:16:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "International Scientific Report on the Safety of Advanced AI [pdf]",
+    "url": "https://assets.publishing.service.gov.uk/media/66474eab4f29e1d07fadca3d/international_scientific_report_on_the_safety_of_advanced_ai_interim_report.pdf",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40400438\">Comments</a>",
+    "publish_time": "2024-05-19 01:16:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "I organized a 20-acre game of Capture the Flag",
+    "url": "https://www.ntnbr.com/61/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40400139\">Comments</a>",
+    "publish_time": "2024-05-19 00:21:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
