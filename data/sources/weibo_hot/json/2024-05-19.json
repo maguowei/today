@@ -700,5 +700,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "爱怎么样就怎么样",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%80%8E%E4%B9%88%E6%A0%B7%E5%B0%B1%E6%80%8E%E4%B9%88%E6%A0%B7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "KPL",
+    "url": "https://s.weibo.com/weibo?q=%23KPL%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
