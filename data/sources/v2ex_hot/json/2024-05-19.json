@@ -53,5 +53,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "光猫重置后无法上网了",
+    "url": "https://www.v2ex.com/t/1041956",
+    "summary": "pig1984: <p>新装的宽带，新的光猫，想改桥接，超级用户进不去，就直接把光猫重置了，重置之后用超级用户登录进去，输入 pppoe 信息也无法上网，wifi 连接上去提示什么逻辑 id 注册，问了装宽带的要了逻辑 id ，输入之后卡在 30%不动了，问宽带小哥也不懂，有谁见过这种状况的？ 这如何解决，谢谢。</p>",
+    "publish_time": "2024-05-19 09:18:30",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "[求助] 如何有效地保存用户名和密码?",
+    "url": "https://www.v2ex.com/t/1041961",
+    "summary": "wzhings: 请教各位大牛，如何保存自己的用户名和密码?<br /><br />我目前的做法是：开一个加密的 note, 然后把所有的用户名，密码，包括密保问题都一一记下。如果密码更新了，就到这个 note 里对应修改。<br /><br />这样的弊端是：要记得同步修改自己的密码，而且不方便在不同的设备间同步（我曾经用过有道云笔记来保存密码，发现会限制登录设备数以及同步不及时的问题)<br /><br />想问问各位前辈有没有其他的方法可以借鉴一下，感谢。",
+    "publish_time": "2024-05-19 10:11:33",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "320 万买的房子还了两年贷款，想脱手算了一下亏进去 100 万，怎么办？",
+    "url": "https://www.v2ex.com/t/1042025",
+    "summary": "Ceelog: <p><del>有个朋友</del></p>\n<p>坐标杭州，前两年 320 万买的房子，看了一下小区最新的成交价 跌了 15% 左右，想着问题不大</p>\n<p>算了一下，结果惊掉下巴，出手的话亏进去 100 万！</p>\n<p>现在怎么办？ 继续还 30 年房贷，还是认亏离场？</p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://picx.zhimg.com/80/v2-bea1fc4aaadf1f0a9bd0807c4b4bfd31_1440w.png\" /></p>",
+    "publish_time": "2024-05-19 15:52:57",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
