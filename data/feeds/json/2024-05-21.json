@@ -1438,5 +1438,94 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "朝日x曼城超爽冠军之路",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9C%9D%E6%97%A5x%E6%9B%BC%E5%9F%8E%E8%B6%85%E7%88%BD%E5%86%A0%E5%86%9B%E4%B9%8B%E8%B7%AF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "一百年前国外的婴儿车",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%99%BE%E5%B9%B4%E5%89%8D%E5%9B%BD%E5%A4%96%E7%9A%84%E5%A9%B4%E5%84%BF%E8%BD%A6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "刘亦菲520开屏",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2520%E5%BC%80%E5%B1%8F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "今天这条视频爱意拉满",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E8%BF%99%E6%9D%A1%E8%A7%86%E9%A2%91%E7%88%B1%E6%84%8F%E6%8B%89%E6%BB%A1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "为什么古代只说长江天险，很少提到黄河天险？",
+    "url": "https://www.zhihu.com/question/609130033",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "A New Jersey couple survived the Alaskan wilderness on a homestead",
+    "url": "https://www.bbc.com/culture/article/20240517-the-intrepid-new-jersey-couple-that-survived-the-alaskan-wilderness-on-a-homestead",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40418607\">Comments</a>",
+    "publish_time": "2024-05-21 02:38:14",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Lumina's legal threats and my about-face",
+    "url": "https://trevorklee.substack.com/p/luminas-legal-threats-and-my-about",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40417624\">Comments</a>",
+    "publish_time": "2024-05-21 01:09:28",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Edited highlights from the evisceration of Craig Wright",
+    "url": "https://www.ft.com/content/83dc246e-99ca-4af3-bd07-a815fdafa7c0",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40419141\">Comments</a>",
+    "publish_time": "2024-05-21 03:22:21",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Using Postgres for Everything",
+    "url": "https://www.timescale.com/blog/how-to-collapse-your-stack-using-postgresql-for-everything/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40418983\">Comments</a>",
+    "publish_time": "2024-05-21 03:07:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
