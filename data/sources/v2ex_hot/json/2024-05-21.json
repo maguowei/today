@@ -31,5 +31,71 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "个人开发一个网站，收款怎么解决",
+    "url": "https://www.v2ex.com/t/1042462",
+    "summary": "zhangjiashu2023: <p>准备写一个网站，主要是提供一些 AI 服务，然后靠卖订阅。有几个问题请教下各位</p>\n<ol>\n<li>个人开发，需要接入微信或者支付宝支付，但是没有个体工商经营执照，所有有什么靠谱好用的第三方支付平台推荐的嘛</li>\n<li>盈利的话，网站需要办什么资质嘛，还是说直接搞就完了。</li>\n<li>卖不出啥钱就当自己写着玩了。</li>\n<li>还有什么意见或者建议嘛</li>\n</ol>",
+    "publish_time": "2024-05-21 08:44:55",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "一年两箱油选手买什么车？混动 or 油车",
+    "url": "https://www.v2ex.com/t/1042486",
+    "summary": "RichardX2023: <p>可能仅用于节假日，出门玩一玩，平常上班什么的用不上。</p>",
+    "publish_time": "2024-05-21 09:44:29",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "有没有大佬解释一下腾讯视频看庆余年 2 手机非常热？",
+    "url": "https://www.v2ex.com/t/1042498",
+    "summary": "bjfane: <p>机器是 iphone15 ，其他平台不热，比如 bilibili ，\n腾讯看其他的好像也不热，\n看起来不像是开弹幕的原因，一只开精简弹幕，而且看剧弹幕必不可少，不然少了很多乐趣，\n打王者都没看腾讯视频热，这不合理啊</p>",
+    "publish_time": "2024-05-21 10:02:46",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "微软发布 ARM 版本的 Surface Pro 系列",
+    "url": "https://www.v2ex.com/t/1042507",
+    "summary": "alexcding: <p>微软宣布，新的 Surface Pro 速度比 15 英寸的 M3 MacBook Air 更快。Surface Pro 配备了基于高通骁龙 X Elite 处理器，宣称在多线程性能和电池寿命方面优于 MacBook Air 。Surface Pro 的 12 核处理器在 Cinebench 基准测试中表现出 58%的更好持续多线程性能。它支持 15 小时的网页浏览或 22 小时的视频播放，而 MacBook Air 在本地视频播放上仅支持 18 小时。Surface Pro 起价为 1000 美元，高配版为 1500 美元，将于 6 月 18 日发售。</p>\n<p><img alt=\"Sample Image\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://images.macrumors.com/t/8nsmQvrNBLBuA57JXBo1rrJwDVA=/1600x0/article-new/2024/05/microsoft-surface-pro-qualcomm.jpg\" /></p>\n<p><a href=\"https://www.macrumors.com/2024/05/20/microsoft-surface-pro-faster-macbook-air/\" rel=\"nofollow\">https://www.macrumors.com/2024/05/20/microsoft-surface-pro-faster-macbook-air/</a></p>\n<p>给苹果施加压力，对于消费者来说可能是件好事.</p>",
+    "publish_time": "2024-05-21 10:16:09",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "自定义域名邮箱服务",
+    "url": "https://www.v2ex.com/t/1042514",
+    "summary": "shineshane: <p>求过来人推荐一下自定义域名邮箱服务，个人的需求如下：</p>\n<ul>\n<li>可以使用自己的域名作为邮箱后缀。</li>\n<li>收发件稳定，不丢件不进垃圾箱。</li>\n<li>支持多邮箱，如 <code>user1@example.com</code>、<code>user2@example.com</code>、<code>user3@example.com</code>，使用起来最好相互独立（逻辑上可以清晰地互相区分也可，比如可以清晰地知道是谁收的件，用谁进行回件，如果是空间上互相独立的话更好）。</li>\n<li>支持 IMAP （或 POP3 ），为了使用第三方客户端。</li>\n<li>非国内服务，免费或性价比高的优先。</li>\n</ul>\n<p>目前已知的方案有：</p>\n<ul>\n<li>Zoho 国际版：缺点是免费版没法 POP3 / IMAP ，而且不清楚丢件情况。</li>\n<li>Cloudflare + Gmail：本质上是邮件转发服务，看起来貌似不太满足我的需求，有可以实现我的需求的方式么？</li>\n</ul>\n<p>如果有其他更好的方案也可以推荐下，希望管理成本可以低一点。</p>",
+    "publish_time": "2024-05-21 10:25:23",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "惨！洗完烘干了一下 HHKB 键帽，成这样了。。求问除了官方还有什么键帽可选",
+    "url": "https://www.v2ex.com/t/1042633",
+    "summary": "oldcai: <p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.v2ex.co/TNn9s773.jpeg\" /></p>",
+    "publish_time": "2024-05-21 14:48:27",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
