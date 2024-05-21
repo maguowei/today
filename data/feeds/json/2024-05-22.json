@@ -1658,5 +1658,100 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "学生偶遇的萌兽竟是二级保护动物",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E5%81%B6%E9%81%87%E7%9A%84%E8%90%8C%E5%85%BD%E7%AB%9F%E6%98%AF%E4%BA%8C%E7%BA%A7%E4%BF%9D%E6%8A%A4%E5%8A%A8%E7%89%A9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "最让你震惊的网站有哪些？",
+    "url": "https://www.zhihu.com/question/20030360",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美股三大指数收盘涨跌不一，热门中概股普跌",
+    "url": "https://www.36kr.com/newsflashes/2786270370104448",
+    "summary": "36氪获悉，5月21日收盘，美股三大指数普涨，道指涨0.17%，纳指涨0.22%，标普500指数涨0.25%。大型科技股普涨，特斯拉涨超6%，奈飞涨超1%，苹果涨0.69%，英伟达涨0.64%。热门中概股普跌，理想汽车、哔哩哔哩、百度、微博跌超3%，阿里巴巴跌超2%，小鹏汽车涨超5%。",
+    "publish_time": "2024-05-22 07:00:47",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Semantic note-taking",
+    "url": "https://cceckman.com/writing/notes/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40432656\">Comments</a>",
+    "publish_time": "2024-05-22 03:21:36",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Openpanel – An open-source alternative to Mixpanel",
+    "url": "https://github.com/Openpanel-dev/openpanel",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40432213\">Comments</a>",
+    "publish_time": "2024-05-22 02:43:50",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "iTerm2 feature request: disable all AI-related features",
+    "url": "https://gitlab.com/gnachman/iterm2/-/issues/11475",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40434091\">Comments</a>",
+    "publish_time": "2024-05-22 05:18:48",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Continue (YC S23) is hiring a founding engineer in San Francisco",
+    "url": "https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40434680\">Comments</a>",
+    "publish_time": "2024-05-22 06:11:05",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Clever code is probably the worst code you could write",
+    "url": "https://read.engineerscodex.com/p/clever-code-is-probably-the-worst",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40434766\">Comments</a>",
+    "publish_time": "2024-05-22 06:21:35",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Sam Altman Is Showing Us Who He Really Is",
+    "url": "https://slate.com/technology/2024/05/scarlett-johansson-ai-voice-sam-altman-openai.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40434800\">Comments</a>",
+    "publish_time": "2024-05-22 06:25:56",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
