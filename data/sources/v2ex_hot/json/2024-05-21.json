@@ -9,5 +9,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "沉浸式翻译强制收集所有用户的 token 令牌，这合理吗？",
+    "url": "https://www.v2ex.com/t/1042477",
+    "summary": "ThinkStu: 起因是无意中看到「沉浸式翻译」中有这么一个云服务同步功能，但是并没有提供开关选项：<br /><a href=\"https://www.v2ex.com/i/fH6Ipd4h.png\" rel=\"nofollow noopener\" target=\"_blank\" title=\"在新窗口打开图片 fH6Ipd4h.png\"><img class=\"embedded_image\" src=\"https://i.v2ex.co/fH6Ipd4h.png\" /></a><br /><br />然后抓包发现，沉浸式翻译强制会收集所有用户大模型服务和翻译服务的 token ，同步至他们的服务器，我的所有 token 都被收集了。<br />具体 api 网址为： <a href=\"https://api2.immersivetranslate.com/v1/user/settings\" rel=\"nofollow noopener\" target=\"_blank\">https://api2.immersivetranslate.com/v1/user/settings</a><br /><a href=\"https://www.v2ex.com/i/7ah31Q0Q.png\" rel=\"nofollow noopener\" target=\"_blank\" title=\"在新窗口打开图片 7ah31Q0Q.png\"><img class=\"embedded_image\" src=\"https://i.v2ex.co/7ah31Q0Q.png\" /></a><br /><br /><a href=\"https://www.v2ex.com/i/n5ma6fY4b.png\" rel=\"nofollow noopener\" target=\"_blank\" title=\"在新窗口打开图片 n5ma6fY4b.png\"><img class=\"embedded_image\" src=\"https://i.v2ex.co/n5ma6fY4b.png\" /></a><br /><br />个人理解，虽然沉浸式翻译提供了许多免费功能，但本质上是一款商业软件。用户的 token 作为一项很隐私的数据，未经允许就会全部上传至自己的服务器，存在滥用以及被盗用的风险。这合理吗？",
+    "publish_time": "2024-05-21 09:21:59",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "对于父母还是不要开玩笑的为好。",
+    "url": "https://www.v2ex.com/t/1042531",
+    "summary": "proletariat00: <p>事情的发展是这样的，上周末回家一次，我妈还是依旧惯例谈起结婚生子的事情（本人母胎 solo ，99 年，男，正常取向，经济目前养活自己没问题，没啃老，毕业出来也给家里五六万了），依照惯例应该是满口答应下来绝不还口，但这次和她开了个玩笑说“你竟然这么想要我听你的，那你就给我 100w 结婚，没有的话就让我自己处理自己的事情”。100w 他们肯定是拿不出来的，这点我很清楚，我的本意就是让他们别操心我这点破事。随即我妈听到这句好像有点茫然，我当时感觉到有点不对，怕她当真，就跟她解释了不是找他们要钱，就是开个玩笑。</p>\n<p>今天，我爸打电话过来，把我说了一顿，说我结婚生子用得了这么多钱吗，意思是我狮子大开口啃老的意思，说我逼他们这种话。我本来就跟我父亲就不对付，当即反驳道你这是真不知道我的意思还是假的，说到：“我态度就是很明显，结婚的事是我自己的事，我希望你们不要过多干预，并不是强求你们给我多少钱”。他回到：“人活下来的意思是什么，你都不成家立业还有什么意义，他还要什么脸面，村里和你一起上学的有的孩子都会说话了”。然后又是一场翻旧账讲大道理的对话。</p>\n<p>我现在有点害怕，他们把 100w 当真了，这弄的我就很愧疚了（怕他们给自己心里压力），虽然我已经解释了两遍了。\n大家还是不要跟父母乱开玩笑的，恐怕他们真当真了。另外问问各位 v 友，面对父母的催婚的压力，选择硬刚到底，还是顺从妥协，或是两手都要抓。</p>",
+    "publish_time": "2024-05-21 10:40:32",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
