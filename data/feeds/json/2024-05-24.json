@@ -1368,5 +1368,136 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "1664玩味新法适",
+    "url": "https://s.weibo.com/weibo?q=%231664%E7%8E%A9%E5%91%B3%E6%96%B0%E6%B3%95%E9%80%82%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "涂山红红 遥遥领先",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B6%82%E5%B1%B1%E7%BA%A2%E7%BA%A2+%E9%81%A5%E9%81%A5%E9%A2%86%E5%85%88%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "百万留学回国后月薪7000",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%99%BE%E4%B8%87%E7%95%99%E5%AD%A6%E5%9B%9E%E5%9B%BD%E5%90%8E%E6%9C%88%E8%96%AA7000%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何看待「渴望优秀的人，其实是渴望被爱」这个观点？",
+    "url": "https://www.zhihu.com/question/656803674",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "必应搜索打开后是一串字符是怎么回事？",
+    "url": "https://www.zhihu.com/question/588247704",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "一直坚持运动的人，一旦停止运动，会很快变得肥胖吗？",
+    "url": "https://www.zhihu.com/question/655852106",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "A connection between the northern lights and Hubble's death",
+    "url": "https://bigthink.com/starts-with-a-bang/northern-lights-hubble/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40458846\">Comments</a>",
+    "publish_time": "2024-05-24 03:25:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Excel to Python Compiler",
+    "url": "https://pyoneer.ai?source=hn&utm_campaign=shn1",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40457631\">Comments</a>",
+    "publish_time": "2024-05-24 01:40:20",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The S-matrix is the oracle physicists turn to in times of crisis",
+    "url": "https://www.quantamagazine.org/the-s-matrix-is-the-oracle-physicists-turn-to-in-times-of-crisis-20240523/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40456801\">Comments</a>",
+    "publish_time": "2024-05-24 00:35:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Running PHP fast at the edge with WebAssembly",
+    "url": "https://wasmer.io/posts/running-php-blazingly-fast-at-the-edge-with-wasm",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40457229\">Comments</a>",
+    "publish_time": "2024-05-24 01:09:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "US Army researched the health effects of radioactivity in St Louis 1945-1970",
+    "url": "https://mospace.umsystem.edu/xmlui/handle/10355/13170",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40458686\">Comments</a>",
+    "publish_time": "2024-05-24 03:09:42",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Fossil fuels could have been left in the dust 25 years ago",
+    "url": "https://timharford.com/2024/05/fossil-fuels-could-have-been-left-in-the-dust-25-years-ago/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40458617\">Comments</a>",
+    "publish_time": "2024-05-24 03:05:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Cement recycling method could help solve one of the big climate challenges",
+    "url": "https://www.cam.ac.uk/stories/cement-recycling",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40457856\">Comments</a>",
+    "publish_time": "2024-05-24 02:03:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
