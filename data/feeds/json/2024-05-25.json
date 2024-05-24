@@ -1191,5 +1191,65 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "陈昊宇会唱",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E6%98%8A%E5%AE%87%E4%BC%9A%E5%94%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "多方向抵近台岛战巡演练模拟动画",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E5%90%91%E6%8A%B5%E8%BF%91%E5%8F%B0%E5%B2%9B%E6%88%98%E5%B7%A1%E6%BC%94%E7%BB%83%E6%A8%A1%E6%8B%9F%E5%8A%A8%E7%94%BB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "伊朗发布首份直升机事故调查报告，直升机在到达高空后起火，没有发现弹痕或类似情况，哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/657000549",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Google AI Said to Put Glue in Pizza, So I Put Glue in Pizza",
+    "url": "https://www.businessinsider.com/google-ai-glue-pizza-i-tried-it-2024-5",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40469238\">Comments</a>",
+    "publish_time": "2024-05-25 02:44:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How to win at Enterprise AI – A playbook",
+    "url": "https://platforms.substack.com/p/how-to-win-at-enterprise-ai-a-playbook",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40468653\">Comments</a>",
+    "publish_time": "2024-05-25 01:51:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Mp3tag – The Universal Tag Editor",
+    "url": "https://www.mp3tag.de/en/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40468933\">Comments</a>",
+    "publish_time": "2024-05-25 02:15:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
