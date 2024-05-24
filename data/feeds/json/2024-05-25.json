@@ -1448,5 +1448,87 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "古茗买一送一",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%A4%E8%8C%97%E4%B9%B0%E4%B8%80%E9%80%81%E4%B8%80%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "关晓彤短发西服",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%9F%AD%E5%8F%91%E8%A5%BF%E6%9C%8D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "曼城本赛季荣获英超四连冠，但竞争力有所下降，你认为下赛季曼城需要补强哪些球员？",
+    "url": "https://www.zhihu.com/question/656952982",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Guys what is wrong with ACATS",
+    "url": "https://www.bitsaboutmoney.com/archive/how-acats-transfers-work/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40470134\">Comments</a>",
+    "publish_time": "2024-05-25 04:18:23",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Factorio Undo/Redo Improvements and Car Latency Driving",
+    "url": "https://factorio.com/blog/post/fff-412",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40470448\">Comments</a>",
+    "publish_time": "2024-05-25 04:59:43",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The inaccessible and abandoned islands of New York – in pictures",
+    "url": "https://www.theguardian.com/artanddesign/gallery/2024/may/24/inaccessible-abandoned-islands-new-york-in-pictures",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40470614\">Comments</a>",
+    "publish_time": "2024-05-25 05:26:13",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Another US state repeals law that protected ISPs from municipal competition",
+    "url": "https://arstechnica.com/tech-policy/2024/05/another-us-state-repeals-law-that-protected-isps-from-municipal-competition/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40471172\">Comments</a>",
+    "publish_time": "2024-05-25 06:49:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Giving Windows total recall of everything a user does is a privacy minefield",
+    "url": "https://www.theregister.com/2024/05/22/windows_recall/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40470806\">Comments</a>",
+    "publish_time": "2024-05-25 05:55:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
