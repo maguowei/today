@@ -1251,5 +1251,72 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "以进一步全面深化改革为动力",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%85%A8%E9%9D%A2%E6%B7%B1%E5%8C%96%E6%94%B9%E9%9D%A9%E4%B8%BA%E5%8A%A8%E5%8A%9B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "思念",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%80%9D%E5%BF%B5%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "祖国统一是历史大势人间正道",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%A5%96%E5%9B%BD%E7%BB%9F%E4%B8%80%E6%98%AF%E5%8E%86%E5%8F%B2%E5%A4%A7%E5%8A%BF%E4%BA%BA%E9%97%B4%E6%AD%A3%E9%81%93%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "机械键盘那么贵，为啥有那么多人买它，机械键盘到底有什么迷人之处？",
+    "url": "https://www.zhihu.com/question/654183652",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价《鸣潮》这款游戏？",
+    "url": "https://www.zhihu.com/question/656905211",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "The Student Syndrome: Delaying until right before deadlines",
+    "url": "https://solvingprocrastination.com/student-syndrome/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40469040\">Comments</a>",
+    "publish_time": "2024-05-25 02:25:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Spot – Simple, cross-platform, reactive desktop GUI toolkit for Go",
+    "url": "https://github.com/roblillack/spot",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40469592\">Comments</a>",
+    "publish_time": "2024-05-25 03:19:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
