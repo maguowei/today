@@ -610,5 +610,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "和成毅Yi起纯享吧",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%92%8C%E6%88%90%E6%AF%85Yi%E8%B5%B7%E7%BA%AF%E4%BA%AB%E5%90%A7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "韩国水果的价格",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%B0%B4%E6%9E%9C%E7%9A%84%E4%BB%B7%E6%A0%BC%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
