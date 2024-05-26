@@ -1400,5 +1400,47 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "总书记对进一步全面深化改革的重要部署",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%AF%B9%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%85%A8%E9%9D%A2%E6%B7%B1%E5%8C%96%E6%94%B9%E9%9D%A9%E7%9A%84%E9%87%8D%E8%A6%81%E9%83%A8%E7%BD%B2%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Ask HN: How would you chunk a large Excel file?",
+    "url": "https://news.ycombinator.com/item?id=40485185",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40485185\">Comments</a>",
+    "publish_time": "2024-05-27 04:38:27",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "FILE_ID.DIZ Description (1994)",
+    "url": "http://pcmicro.com/getdiz/file_id.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40484930\">Comments</a>",
+    "publish_time": "2024-05-27 04:04:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "AI firms mustn’t govern themselves, say ex-members of OpenAI’s board",
+    "url": "https://www.economist.com/by-invitation/2024/05/26/ai-firms-mustnt-govern-themselves-say-ex-members-of-openais-board",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40485318\">Comments</a>",
+    "publish_time": "2024-05-27 04:55:48",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
