@@ -75,5 +75,60 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Milk Watcher",
+    "url": "https://en.wikipedia.org/wiki/Milk_watcher",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40484513\">Comments</a>",
+    "publish_time": "2024-05-27 03:00:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Self-hosted offline transcription and diarization service with LLM summary",
+    "url": "https://github.com/transcriptionstream/transcriptionstream",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40483878\">Comments</a>",
+    "publish_time": "2024-05-27 01:30:50",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "My $2.2k laptop can't drive two screens",
+    "url": "https://notes.nokun.eu/post/2024-05-26-expensive-laptops-dont-pro/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40484702\">Comments</a>",
+    "publish_time": "2024-05-27 03:31:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "llama-fs: A self-organizing file system with llama 3",
+    "url": "https://github.com/iyaja/llama-fs",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40484512\">Comments</a>",
+    "publish_time": "2024-05-27 03:00:21",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The CompCert C Compiler",
+    "url": "https://compcert.org/compcert-C.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40484190\">Comments</a>",
+    "publish_time": "2024-05-27 02:15:41",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
