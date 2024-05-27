@@ -42,5 +42,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "求助懂网络的大神，我这个问题找不到根源",
+    "url": "https://www.v2ex.com/t/1044149",
+    "summary": "JuicyVenom: 1 电脑玩联网类游戏经常发生断连现象<br />2 断连情况发生时 任务栏网络连接状态正常 打开浏览器也正常上网<br />3 使用加速器与否都发生过这样的情况（尝试过不同加速器 和朋友开黑同一加速器 同一节点 她没有掉 我却掉了）<br />4 目前尝试过 重装系统 更换路由器固件 更换光猫 都无效<br />5 在玩游戏时 ping 外部域名和 ping 路由器 都没有发生断连<br />6 偶尔发生断连情况后 测速变得特别慢 重新连接网络后才恢复正常 (不知道是否有关系)<br />7 还有个更神奇的情况就是 偶尔有些带语音的游戏发生断连后 还能听到队友语音<br /> <br />网络状况：光猫桥接 主路由红米 ac2100 拨号 有一个旁路由 n1 pc 网线从墙内埋线连接到主路由 pc 主板华硕 z790-p 内置螃蟹 2.5g 网卡(已更新到华硕官网最新驱动) 1000m 带宽<br /><br />感谢 V2EX 的各位神通广大的网友帮忙！",
+    "publish_time": "2024-05-27 01:38:49",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "别再纠结前端要不要提交明文口令，浏览器已经内置非常好的方案",
+    "url": "https://www.v2ex.com/t/1044263",
+    "summary": "iqoo: <p>这个十年前就有结论的问题每隔一段时间都会有人讨论。结论是不管什么环境，前端提交 hash 后的口令总是好的，防的不是中途的嗅探者，而是脱库后的破解者。前端 hash 越耗时，脱库后跑字典越慢。</p>\n<p>至于前端 hash 也不用自己捣鼓 js/wasm 这些，主流浏览器早已内置 PBKDF2 算法，较新的 CPU 都有相应的硬件加速，比自己实现可以快很多倍。</p>\n<p>演示：</p>\n<pre><code class=\"language-js\">const username = new TextEncoder().encode('alice')\nconst password = new TextEncoder().encode('hello1234')\n\n// 重复 1000 万次 SHA256\nconst pbkdfOpts = {\n  name: 'PBKDF2',\n  hash: 'SHA-256',\n  salt: username,\n  iterations: 1e7,\n}\n\nasync function pbkdf2(pwd, opts, bits) {\n  const baseKey = await crypto.subtle.importKey('raw', pwd, 'PBKDF2', false, ['deriveBits'])\n  const buf = await crypto.subtle.deriveBits(opts, baseKey, bits)\n  return new Uint8Array(buf)\n}\n\nconst dk = await pbkdf2(password, pbkdfOpts, 256)\n\n// 注册/登录提交 dk 即可，无需提交 password\nconsole.log(dk)\n\n</code></pre>",
+    "publish_time": "2024-05-27 11:41:37",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
