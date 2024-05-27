@@ -1431,5 +1431,54 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "突然发现消费习惯正在悄悄改变",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E5%8F%91%E7%8E%B0%E6%B6%88%E8%B4%B9%E4%B9%A0%E6%83%AF%E6%AD%A3%E5%9C%A8%E6%82%84%E6%82%84%E6%94%B9%E5%8F%98%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "杨幂生万物明天开机仪式",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E7%94%9F%E4%B8%87%E7%89%A9%E6%98%8E%E5%A4%A9%E5%BC%80%E6%9C%BA%E4%BB%AA%E5%BC%8F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "很久没见的无毛猫和布偶猫",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BE%88%E4%B9%85%E6%B2%A1%E8%A7%81%E7%9A%84%E6%97%A0%E6%AF%9B%E7%8C%AB%E5%92%8C%E5%B8%83%E5%81%B6%E7%8C%AB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "GTFL – A Graphical Terminal for Common Lisp",
+    "url": "http://www.martin-loetzsch.de/gtfl/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40494097\">Comments</a>",
+    "publish_time": "2024-05-28 04:00:11",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Regular Expression Matching with a Trigram Index (2012)",
+    "url": "https://swtch.com/~rsc/regexp/regexp4.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40494216\">Comments</a>",
+    "publish_time": "2024-05-28 04:13:20",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
