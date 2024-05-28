@@ -64,5 +64,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "618 准备自组一台 nas 主机。配置问题请教。",
+    "url": "https://www.v2ex.com/t/1044643",
+    "summary": "wwd179: <h3>问题</h3>\n<ol>\n<li>下面这套配置组合，结合我的使用场景，是否合理呢？</li>\n<li>有无电源推荐？应该 350w 内就可以吧？但是感觉好一点的 atx 电源都是 600w 以上了。</li>\n<li>欢迎 v 站大佬们提其他想法和意见。</li>\n</ol>\n<h3>物品清单</h3>\n<table>\n<thead>\n<tr>\n<th>组件</th>\n<th>型号</th>\n<th>价格</th>\n<th>备注</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>CPU&amp;主板</td>\n<td>倍控 n100</td>\n<td>660</td>\n<td><a href=\"https://detail.tmall.com/item.htm?spm=a1z0d.6639537/tb3.1997196601.70.72af7484qGlbNR&amp;id=754107638769\" rel=\"nofollow\">https://detail.tmall.com/item.htm?spm=a1z0d.6639537/tb3.1997196601.70.72af7484qGlbNR&amp;id=754107638769</a></td>\n</tr>\n<tr>\n<td>机箱</td>\n<td>见方 L8 盘位</td>\n<td>350</td>\n<td><a href=\"https://item.taobao.com/item.htm?spm=a1z0d/tb3.1997196601.4.47c57484mnQc71&amp;id=765982577450\" rel=\"nofollow\">https://item.taobao.com/item.htm?spm=a1z0d/tb3.1997196601.4.47c57484mnQc71&amp;id=765982577450</a></td>\n</tr>\n<tr>\n<td>内存</td>\n<td>光威天策 ddr5 16GB 笔记本内存条</td>\n<td>230</td>\n<td><a href=\"https://detail.tmall.com/item.htm?spm=a1z0d.6639537/tb3.1997196601.4.72af7484qGlbNR&amp;id=699453587605\" rel=\"nofollow\">https://detail.tmall.com/item.htm?spm=a1z0d.6639537/tb3.1997196601.4.72af7484qGlbNR&amp;id=699453587605</a></td>\n</tr>\n<tr>\n<td>系统盘</td>\n<td>任意 ssd</td>\n<td>200 左右</td>\n<td></td>\n</tr>\n<tr>\n<td>电源</td>\n<td>atx 电源</td>\n<td>500 以内</td>\n<td></td>\n</tr>\n<tr>\n<td>数据盘</td>\n<td>希捷 8t 2 个</td>\n<td>2000 以内</td>\n<td></td>\n</tr>\n<tr>\n<td>风扇、线材等配件</td>\n<td></td>\n<td>200 以内</td>\n<td></td>\n</tr>\n</tbody></table><h3>使用场景</h3>\n<ol>\n<li>提供 NAS 服务。smb 、nfs 协议。因为本身工作就是搞云存储相关的，对存储还算熟悉，所以不打算用 nas 特定的操作系统。直接用 centos7.9 。raid 功能直接用 mdadm 。</li>\n<li>在 NAS 主机里跑 docker 。主要是 cloudreve 网盘、git 服务器、jellyfin 视频播放、syncthing 同步备份、pt 下载、rss 订阅、grafana 和 Prometheus 监控等。</li>\n<li>在 NAS 主机里跑 qemu-kvm 。目前还没什么需求。主要想法是弄旁路由、软路由。可能以后遇到有些软件需要特定的内核啥的，docker 不好处理，想直接跑虚机。</li>\n<li>其他性能要求（不强求）。比如可能想 5 人内的 minecraft 服务器、运行微信机器人。</li>\n<li>通过异地组网工具，实现外网访问。</li>\n</ol>\n<h3>主要考虑</h3>\n<ol>\n<li>考虑性价比。不包括数据盘的预算最好不超过 2000 元。</li>\n<li>功耗问题。24h 运行，目前电费单价是 1.5 ，比较贵。所以选择低功耗 cpu 。</li>\n<li>噪音问题。出租屋是比较小的一房一厅，得考虑下噪音问题。因此没有直接上 10T~16T 的企业盘，最高 8T 吧。本来看重梵隆的 4 盘位 NAS 机箱，但是发现这些机箱都要用 1u 电源。似乎这种电源的风扇噪音挺大的，所以放弃了，改为能装 atx 电源的见方机箱。</li>\n<li>想选好一点的电源。电源对硬盘稳定性的影响。</li>\n<li>这个见方机箱能装 atx 主板，要是以后觉得性能不足了。可以升级性能强一点的 cpu 和主板。</li>\n</ol>",
+    "publish_time": "2024-05-28 12:24:31",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "前段时间面试了个公司，怼了面试官",
+    "url": "https://www.v2ex.com/t/1044690",
+    "summary": "dsgdsfh: <p>如题，有点想换工作了，请假面试了个公司，聊了些工作内容啥的相关话题之后，问工资情况，公司给的工资（纯工资，无补助之类的，无补助是没有，不是没计算进去）比现在工作（包含补助啥的）低了 25%，我感觉也不是想来的公司，然后准备稍微放飞一下，说：我可以接受这个工资，但是我将要砍掉一些自己掌握的软件技能，拒绝使用这些软件用于工作，以此来适应这个低工资。面试官就和我说不用软件会导致技能退化和其他的洗脑内容这些，还问我砍掉什么技能，我就说了要砍掉的软件名字，他说这个我们基本上用不到，我又说，我还会拒绝使用任何提高工作效率的工具例如 ChatGPT 之类的，能批量操作的全转为手动操作，因为工资不到位。然后聊了几句我就直接跑了，出了公司门之后就直接删掉了他们微信，结果几十秒之后又被添加好友了😂。\n补充：我是 mtf ，简历上没写性别，面试时候还被问婚姻情况，我说自己是不婚主义，面试官又用传统观念来试图改变我想法，我直接用意定监护人这些来反驳他。面试过程没被问性别，应该是把我当女生了（身份证还没改）。</p>",
+    "publish_time": "2024-05-28 14:47:58",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "你们身体都有哪些慢性病(缺陷)",
+    "url": "https://www.v2ex.com/t/1044703",
+    "summary": "qwertyzzz: <p>我先来，目前年纪 30 出头点,我自顶向下来说 </p>\n<p><em><strong>脱发(6/10)</strong></em>,严重程度算 6 吧 目前还可以不在乎的不戴帽子的随便走，原因基因占大头，少部分习惯原因；</p>\n<p><em><strong>近视</strong></em>,也算缺陷吧 ，问题不大 300 度的样子；</p>\n<p><em><strong>鼻炎</strong></em>,真的不知道是啥时候莫名其妙就得了，对温度很过敏，喷嚏那叫个多，稳定的时候还行，难受的时候真的是用纸大户，鼻塞的时候很塞，如果嘴巴出点问题，那真的不要呼吸了，还有个后怕，年纪大了会不会几个喷嚏把人都打没了，因为打喷嚏的时候还是挺那啥的；</p>\n<p><em><strong>咽炎</strong></em>,有段时间老是有粘痰,新冠后会有那种一着凉或者到晚上就嗓子疼的感觉，曾经难受了 3 个多月，一到晚上稳定疼吃啥都没用，目前稳定暂无大碍；</p>\n<p><em><strong>颈椎</strong></em>,这个是真难受,我几乎无时无刻不在被这个折磨，除非我在一路走着玩的时候可能不会在意，可能就是长时间打游戏的时候没有支撑头部那边导致的，以至于我现在经常需要摇晃脖子来缓解，而且这个有 10 年了。。曾经有一次非常难受去拍片子看，结果人家说没事，就离谱，现在已经放任不管了,至少还没到影响到头晕的地步。</p>\n<p><em><strong>心脏</strong></em>,有极少的时间会突然有点疼,绝大部分时间没事。</p>\n<p><em><strong>胃</strong></em>,曾经很长一段时间胃难受，大概 1 年多把，反复嗳气，在这之前我都没见过这个词过。。那时候才懂那种感受，具体原因好像是喝了咖啡之类的，但是我觉得也不都是，反正莫名其妙的，后来呢渐渐没啥事了，但是不知道有没有潜在的麻烦，最近一段时间依旧咖啡喝的飞起，但是不会有以前的嗳气了，顶多略微不舒服；</p>\n<p><em><strong>前列腺</strong></em>，也不懂这个是不是这个器官，反正几年前开始一个晚上可以尿 2 次，开始尿的时候经常会卡个 4-5s 的时间，虽然我晚上会喝水但是也不至于这个程度</p>\n<p><em><strong>膝盖</strong></em>，曾经没啥事，最近运动加多已经能感觉出来有点微微疼了，不过还是没啥大碍把。</p>\n<blockquote>\n<p>少部分是基因把  大部分生活习惯  还好这些目前都还能凑合过。。。</p>\n</blockquote>",
+    "publish_time": "2024-05-28 15:06:51",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
