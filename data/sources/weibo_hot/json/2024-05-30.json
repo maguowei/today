@@ -628,5 +628,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "明晚8点京东618开启",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%99%9A8%E7%82%B9%E4%BA%AC%E4%B8%9C618%E5%BC%80%E5%90%AF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "那些抑郁的迹象",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%82%A3%E4%BA%9B%E6%8A%91%E9%83%81%E7%9A%84%E8%BF%B9%E8%B1%A1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "SJ跳sorrysorry直拍",
+    "url": "https://s.weibo.com/weibo?q=%23SJ%E8%B7%B3sorrysorry%E7%9B%B4%E6%8B%8D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
