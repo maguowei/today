@@ -1623,5 +1623,74 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "vivo S19系列",
+    "url": "https://s.weibo.com/weibo?q=%23vivo+S19%E7%B3%BB%E5%88%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "杨幂红色风衣",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E7%BA%A2%E8%89%B2%E9%A3%8E%E8%A1%A3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "宁静说秦岚是小财神",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AE%81%E9%9D%99%E8%AF%B4%E7%A7%A6%E5%B2%9A%E6%98%AF%E5%B0%8F%E8%B4%A2%E7%A5%9E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "请问遗传算法的主要缺陷是什么？",
+    "url": "https://www.zhihu.com/question/533450891",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "The hail in Texas was so big Tuesday that it required a new description",
+    "url": "https://www.washingtonpost.com/weather/2024/05/29/texas-hail-dvd-size-record-nwws/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40517254\">Comments</a>",
+    "publish_time": "2024-05-30 05:30:44",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How Waymo outlasted the competition and made robo-taxis a real business",
+    "url": "https://fortune.com/2024/05/29/waymo-self-driving-robo-taxi-uber-tesla-alphabet/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40516532\">Comments</a>",
+    "publish_time": "2024-05-30 04:19:56",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Gov. Polis Signs Bill Mandating That Consumers Have Options to Fix Electronics",
+    "url": "https://coloradotimesrecorder.com/2024/05/gov-polis-signs-bill-mandating-that-consumers-have-more-options-to-fix-electronics/62156/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40516499\">Comments</a>",
+    "publish_time": "2024-05-30 04:17:29",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
