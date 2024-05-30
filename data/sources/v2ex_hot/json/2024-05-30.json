@@ -86,5 +86,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "有感于互联网（也包含 V2EX ，只是浓度较低）上关于某某品牌的话题，为什么会有人如此狂热地维护品牌呢？",
+    "url": "https://www.v2ex.com/t/1045314",
+    "summary": "chixinzei: <p>现象：在网上有很多品牌狂热爱好者，用各种阴阳怪气和激烈反击任何对该品牌的负面评价（爱情除外），抹黑竞其产品或者品牌的所有竞争对手。</p>\n<p>疑问：使用产品的个人主观想法为什么会转变成一种如此狂热的品牌拥护情绪，或者说，是品牌方宣传方式的问题（水军）？</p>\n<p>个人例子：我本身 nas 用了极空间，这是一个国产新兴 NAS 品牌，网上被骂的很多（个人并不介意，骂的对），但是如果有人需要推荐小白家庭影音中心和手机备份中心，我觉得极空间没太多槽点（对比了群辉，威联通，黑裙）。</p>\n<p>个人推测：某些人因为某些产品的受众人群，而去购买该产品，从而希望获得 其产品主要受众人群的 虚假参与感，并将自己的生活方式与其融合，一旦遇到有人批评产品，下意识认为别人在批评他这个人的生活方式，故开始情绪化上脑各种找黑料反击别人。 是觉得买了这个产品他就是品牌方所宣传的那种类型的人吗？</p>",
+    "publish_time": "2024-05-30 11:25:12",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "[疑问]如何使用 cron 让脚本每 7 分钟执行一次？",
+    "url": "https://www.v2ex.com/t/1045433",
+    "summary": "wuyadaxian: 我的环境是 Ubuntu 22.04LTS 。<br />要求是从现在或者某个时间点开始，每 7 分钟执行一次 <a href=\"http://test.sh/\" rel=\"nofollow noopener\" target=\"_blank\">test.sh</a> 脚本。<br />只能使用 crontab 来编写。<br />只是讨论，真正实现的时候肯定用 bash 或者其他语言脚本更方便实现。",
+    "publish_time": "2024-05-30 16:47:00",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
