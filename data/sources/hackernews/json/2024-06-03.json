@@ -240,5 +240,38 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Udio – AI Music Generator",
+    "url": "https://www.udio.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40557981\">Comments</a>",
+    "publish_time": "2024-06-03 07:33:50",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Intellectual Obesity Crisis",
+    "url": "https://www.gurwinder.blog/p/the-intellectual-obesity-crisis",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40558754\">Comments</a>",
+    "publish_time": "2024-06-03 10:07:18",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Building a dynamic lib plugin system for Rust",
+    "url": "https://www.arroyo.dev/blog/rust-plugin-systems",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40558054\">Comments</a>",
+    "publish_time": "2024-06-03 07:48:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
