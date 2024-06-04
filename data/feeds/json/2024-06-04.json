@@ -6021,5 +6021,429 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "守护好中华文明金种子",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AE%88%E6%8A%A4%E5%A5%BD%E4%B8%AD%E5%8D%8E%E6%96%87%E6%98%8E%E9%87%91%E7%A7%8D%E5%AD%90%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "德塔文认证杨幂懂学出圈",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%A1%94%E6%96%87%E8%AE%A4%E8%AF%81%E6%9D%A8%E5%B9%82%E6%87%82%E5%AD%A6%E5%87%BA%E5%9C%88%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "这些国宝被印上了纪念币",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E5%9B%BD%E5%AE%9D%E8%A2%AB%E5%8D%B0%E4%B8%8A%E4%BA%86%E7%BA%AA%E5%BF%B5%E5%B8%81%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "狐妖一脉全部带蓝牙",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8B%90%E5%A6%96%E4%B8%80%E8%84%89%E5%85%A8%E9%83%A8%E5%B8%A6%E8%93%9D%E7%89%99%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "歌手",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "TheShy发博感谢粉丝",
+    "url": "https://s.weibo.com/weibo?q=%23TheShy%E5%8F%91%E5%8D%9A%E6%84%9F%E8%B0%A2%E7%B2%89%E4%B8%9D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "为什么ChatGPT不火了",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88ChatGPT%E4%B8%8D%E7%81%AB%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "时团战至巅峰总决赛嘉宾",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%97%B6%E5%9B%A2%E6%88%98%E8%87%B3%E5%B7%85%E5%B3%B0%E6%80%BB%E5%86%B3%E8%B5%9B%E5%98%89%E5%AE%BE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "派出所松弛感拉满还帮拍游客照",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B4%BE%E5%87%BA%E6%89%80%E6%9D%BE%E5%BC%9B%E6%84%9F%E6%8B%89%E6%BB%A1%E8%BF%98%E5%B8%AE%E6%8B%8D%E6%B8%B8%E5%AE%A2%E7%85%A7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "杜海涛晒周杰伦演唱会plog",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B5%B7%E6%B6%9B%E6%99%92%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9Aplog%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "美国野火蔓延超过14000英亩",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%87%8E%E7%81%AB%E8%94%93%E5%BB%B6%E8%B6%85%E8%BF%8714000%E8%8B%B1%E4%BA%A9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "BABYMONSTER将出演下周MCD",
+    "url": "https://s.weibo.com/weibo?q=%23BABYMONSTER%E5%B0%86%E5%87%BA%E6%BC%94%E4%B8%8B%E5%91%A8MCD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "重新定义疆浙沪包邮",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%87%8D%E6%96%B0%E5%AE%9A%E4%B9%89%E7%96%86%E6%B5%99%E6%B2%AA%E5%8C%85%E9%82%AE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "想回消息的人怎么都能回",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%83%B3%E5%9B%9E%E6%B6%88%E6%81%AF%E7%9A%84%E4%BA%BA%E6%80%8E%E4%B9%88%E9%83%BD%E8%83%BD%E5%9B%9E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "章昊直拍",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%AB%A0%E6%98%8A%E7%9B%B4%E6%8B%8D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "《庆余年》中的范闲为什么突破不了大宗师？",
+    "url": "https://www.zhihu.com/question/433691442",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "拜登之子因涉枪重罪被审讯，或面临 25 年监禁，如何看待这一历史性审判？对未来美国大选会产生哪些影响？",
+    "url": "https://www.zhihu.com/question/658042016",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "斯坦福 AI 项目作者对抄袭中国大模型致歉，承诺撤下相关模型，有哪些警示意义？大模型发展如何更加规范？",
+    "url": "https://www.zhihu.com/question/658051988",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "你认为「童心」对成年人世界的价值是什么？",
+    "url": "https://www.zhihu.com/question/657787262",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价徐志胜出现在《庆余年 2》大结局里？",
+    "url": "https://www.zhihu.com/question/657738181",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "“世外仙姝寂寞林”里的“寂寞”怎么理解？",
+    "url": "https://www.zhihu.com/question/657971507",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何用一句话证明你经历过高考？",
+    "url": "https://www.zhihu.com/question/655709993",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "恋爱前跟男方明确说明房子小了，男方答应换将房子卖出重新买个大房子。现结婚怀孕，男方出尔反尔，该怎么办？",
+    "url": "https://www.zhihu.com/question/657925618",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "哪些海洋美景因为环境问题可能再也看不到了？",
+    "url": "https://www.zhihu.com/question/657557264",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么我家猫总喜欢让我看它吃饭？",
+    "url": "https://www.zhihu.com/question/306822339",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "大体重更容易增肌吗？体脂多少和增肌快慢有什么联系？",
+    "url": "https://www.zhihu.com/question/656320223",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "你觉得骑自行车爬坡有意思还是平路绕圈有意思？",
+    "url": "https://www.zhihu.com/question/657445715",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "临近高考，孩子焦虑、压力大，作为家长该如何帮忙缓解？",
+    "url": "https://www.zhihu.com/question/657418709",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "外出时，如何确保家中的宠物感到安全和舒适？",
+    "url": "https://www.zhihu.com/question/654579929",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "家里的哪个角落，哪怕只是每天看一眼都会觉得很幸福？",
+    "url": "https://www.zhihu.com/question/653888957",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "求程序员鼠标推荐，希望中键耐用的",
+    "url": "https://www.v2ex.com/t/1046631",
+    "summary": "yuyuf: 各位有无推荐的无线鼠标，公司电脑是 mac mini 。<br /><br />之前看好多人推荐罗技的 G304, 就买了一个，结果几个月，滚轮就坏了，会回滚。京东申请售后，给我换了一个新的，结果到现在刚三个月，滚轮又坏了。<br /><br />不打游戏，就是写代码办公用的，中键使用频率较高，主要就使用中键关网页，切换桌面",
+    "publish_time": "2024-06-04 11:20:01",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "高位买了房、车，现在意难平怎么办？",
+    "url": "https://www.v2ex.com/t/1046636",
+    "summary": "xinchao: 21 年初杭州买了房，去年中交付，和目前二手房对比算下来亏了 30w ，贷款利息亏了也有 10w ，一年存 15w 的话，2 年多白干了。虽然我是刚需自住，但是刚入住就亏这么多，感觉意难平啊，感觉被诈骗了一下。<br /><br />ps: 感觉自己就是大韭菜，21 年买房，22 年买车都被狠狠割韭菜，这几天一想这些事干饭都不香了。唯一庆幸的就是买房的时候把基金的钱拿出来了，要不然我真的会哭...<br /><br />普通人怎么尽可能避免被割韭菜，不用随大流吗？还是通过什么渠道分析未来行情。",
+    "publish_time": "2024-06-04 11:34:13",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "天顺风能：湖北沙洋一期200MW风电场并网",
+    "url": "https://www.36kr.com/newsflashes/2805257520379526",
+    "summary": "36氪获悉，天顺风能公告，近日，公司接到全资子公司沙洋县天尚风力发电有限公司的报告，湖北沙洋一期200MW风电场全部机组已实现并网。沙洋一期项目位于湖北省荆门市，预计年平均上网发电量449.771GWh。",
+    "publish_time": "2024-06-04 17:05:20",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "密尔克卫：子公司中标山东裕龙石化有限公司裕龙岛炼化一体化项目",
+    "url": "https://www.36kr.com/newsflashes/2805259440698760",
+    "summary": "36氪获悉，密尔克卫公告，全资子公司上海密尔克卫化工储存有限公司中标山东裕龙石化有限公司裕龙岛炼化一体化项目（一期）物流仓储项目部固体产品立体库生产业务外包服务，中标金额1.69亿元。",
+    "publish_time": "2024-06-04 17:13:15",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "TikTok电商下半年美区GMV目标120亿美金以上，但上半年完成不容乐观",
+    "url": "https://www.36kr.com/newsflashes/2805281482176131",
+    "summary": "36氪独家获悉，TikTok下半年美区GMV目标120-130亿美金，其中Global Selling业务贡献约五分之一。截至发稿，字节跳动方面未对此数据做出回应。按照过往的的成绩，以及今年上半年TikTok在美国的种种风波来看，下半年的目标定的不可谓不高。同时，接近TikTok人士表示，不排除调整目标的可能。",
+    "publish_time": "2024-06-04 17:19:53",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "蓝丰生化：新增172名投资者以证券虚假陈述责任纠纷为由对公司提起民事诉讼",
+    "url": "https://www.36kr.com/newsflashes/2805264802723456",
+    "summary": "36氪获悉，蓝丰生化公告，公司于近日收到南京中院送达的《民事起诉状》等有关诉讼材料，涉及新增172名自然人投资者以证券虚假陈述责任纠纷为由对公司提起民事诉讼，其中168人参加普通代表人诉讼程序，4人未参加普通代表人诉讼程序，诉讼金额共计人民币7651.01万元。",
+    "publish_time": "2024-06-04 17:21:47",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "华安鑫创：收到某亚洲头部飞行汽车制造商的项目定点通知",
+    "url": "https://www.36kr.com/newsflashes/2805289088873864",
+    "summary": "36氪获悉，华安鑫创公告，收到某亚洲头部飞行汽车制造商的项目定点通知，确定公司取得其低空飞行器的座舱显示系统终端和搭载该飞行器的汽车仪表显示系统终端产品开发及供货资格。",
+    "publish_time": "2024-06-04 17:27:37",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "睿昂基因：浙江大健康拟减持公司不超2%股份",
+    "url": "https://www.36kr.com/newsflashes/2805262930556292",
+    "summary": "36氪获悉，睿昂基因公告，公司持股11.1%的股东浙江大健康产业股权投资基金（有限合伙）拟通过集中竞价及大宗交易的方式，减持公司股份合计不超过111.71万股，占公司总股本的比例不超过2%。",
+    "publish_time": "2024-06-04 17:30:51",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "江西铜业：拟终止分拆控股子公司江铜铜箔至创业板上市",
+    "url": "https://www.36kr.com/newsflashes/2805286221657730",
+    "summary": "36氪获悉，江西铜业公告，基于目前市场环境等因素考虑，为统筹安排公司控股子公司江铜铜箔业务发展，经与相关各方充分沟通及审慎论证后，公司拟终止分拆江铜铜箔至深圳证券交易所创业板上市并撤回相关上市申请文件。",
+    "publish_time": "2024-06-04 17:35:34",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "协和电子：公司内外部经营环境未发生重大变化",
+    "url": "https://www.36kr.com/newsflashes/2805287419836040",
+    "summary": "36氪获悉，协和电子发布异动公告，经公司自查，公司目前生产经营活动一切正常，市场环境行业政策没有发生重大调整、生产成本和销售等情况没有出现大幅波动、内部生产经营秩序正常，公司内外部经营环境未发生重大变化。",
+    "publish_time": "2024-06-04 17:44:47",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "吉利在天津投资成立合伙企业",
+    "url": "https://www.36kr.com/newsflashes/2805309010818694",
+    "summary": "36氪获悉，爱企查App显示，近日，吉利共创玖号投资（天津）合伙企业（有限合伙）成立，执行事务合伙人为吉利投资（三亚）有限公司，出资额6130万元人民币，经营范围包括以自有资金从事投资活动。股东信息显示，该公司由吉利投资（三亚）有限公司、吉利海河共创投资（天津）合伙企业（有限合伙）以及王志方共同出资。",
+    "publish_time": "2024-06-04 17:54:46",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "北向资金今日净买入比亚迪3.71亿元",
+    "url": "https://www.36kr.com/newsflashes/2805317832668551",
+    "summary": "北向资金今日净买入33.78亿元，比亚迪、宁德时代、中国中免分别获净买入3.71亿元、3.26亿元、2.71亿元；中远海控净卖出额居首，为4.56亿元。（证券时报）",
+    "publish_time": "2024-06-04 17:56:52",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "哈药股份：拟对子公司部分车间及产线进行扩产改造",
+    "url": "https://www.36kr.com/newsflashes/2805306237417095",
+    "summary": "36氪获悉，哈药股份公告，公司子公司哈药生物承接公司促红细胞生成素（简称“EPO”）产品的制造，根据公司规划，拟对哈药生物原液真核车间、制剂车间的EPO产线进行扩产、升级改造，项目预计投资总额1265.2万元。公司子公司三精制药承接公司口服液产品的制造，根据公司规划，拟对三精制药三车间口服液（保健食品）生产线进行扩产改造，项目规划建设预计投资总额770万元。",
+    "publish_time": "2024-06-04 17:59:56",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Microsoft blocks Windows 11 workaround that enabled local accounts",
+    "url": "https://www.pcworld.com/article/2354686/microsoft-blocks-windows-11-workaround-local-accounts.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40572289\">Comments</a>",
+    "publish_time": "2024-06-04 17:10:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
