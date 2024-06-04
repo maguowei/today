@@ -1243,5 +1243,94 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "五星红旗在月亮之上",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%98%9F%E7%BA%A2%E6%97%97%E5%9C%A8%E6%9C%88%E4%BA%AE%E4%B9%8B%E4%B8%8A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "爸爸突发心脏病倒地7岁女儿冷静急救",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E7%AA%81%E5%8F%91%E5%BF%83%E8%84%8F%E7%97%85%E5%80%92%E5%9C%B07%E5%B2%81%E5%A5%B3%E5%84%BF%E5%86%B7%E9%9D%99%E6%80%A5%E6%95%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "嫦娥六号月背挖宝瞬间",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AB%A6%E5%A8%A5%E5%85%AD%E5%8F%B7%E6%9C%88%E8%83%8C%E6%8C%96%E5%AE%9D%E7%9E%AC%E9%97%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "杨紫入围白玉兰最佳女主，她最后能获奖吗？",
+    "url": "https://www.zhihu.com/question/657898901",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "面试被问到知识盲区，是直接说不清楚，还是说一些正确的废话？",
+    "url": "https://www.zhihu.com/question/651409290",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Mozilla Builders Accelerator 2024",
+    "url": "https://future.mozilla.org/builders/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40577216\">Comments</a>",
+    "publish_time": "2024-06-05 02:00:44",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Job openings fall to lowest level since February 2021",
+    "url": "https://finance.yahoo.com/news/job-openings-fall-to-lowest-level-since-february-2021-141149453.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40577150\">Comments</a>",
+    "publish_time": "2024-06-05 01:52:27",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "AI's Desperate Hunger for News Training Data Has Publishers Fighting Back",
+    "url": "https://tvnewscheck.com/ai/article/ais-desperate-hunger-for-news-training-data-has-publishers-fighting-back-heres-how/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40577724\">Comments</a>",
+    "publish_time": "2024-06-05 02:51:22",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Charge Robotics (YC S21) is hiring SWEs to build solar construction robots",
+    "url": "https://www.workatastartup.com/jobs/51266",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40577315\">Comments</a>",
+    "publish_time": "2024-06-05 02:10:07",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
