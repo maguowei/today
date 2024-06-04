@@ -1672,5 +1672,98 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "季后赛看我的",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AD%A3%E5%90%8E%E8%B5%9B%E7%9C%8B%E6%88%91%E7%9A%84%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "五哈 搞笑",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%93%88+%E6%90%9E%E7%AC%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "怎样才是真正的内心强大？",
+    "url": "https://www.zhihu.com/question/657893533",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美股三大指数集体收涨，英伟达股价续创历史新高",
+    "url": "https://www.36kr.com/newsflashes/2806075803202953",
+    "summary": "36氪获悉，6月4日收盘，美股三大指数集体上涨，道指涨0.36%，纳指涨0.17%，标普500指数涨0.15％。大型科技股多数上涨，英伟达涨超1％，股价续创历史收盘新高，微软涨0.62％，亚马逊涨0.56％，谷歌涨0.36％，苹果涨0.16％；特斯拉跌0.86％，Netflix跌0.34％，Meta跌0.1％。热门中概股涨跌不一，叮咚买菜涨超7％，B站、斗鱼涨超1％，阿里巴巴涨0.71％；爱奇艺、蔚来跌超2％，理想汽车、名创优品跌超1％，小鹏汽车跌0.25％。",
+    "publish_time": "2024-06-05 07:00:00",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Mexico City's Reservoirs Are at Risk of Running Out of Water",
+    "url": "https://www.smithsonianmag.com/smart-news/mexico-citys-reservoirs-are-at-risk-of-running-out-of-water-180984433/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40575997\">Comments</a>",
+    "publish_time": "2024-06-05 00:05:16",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Influencer cartels manipulate social media",
+    "url": "https://cepr.org/voxeu/columns/how-influencer-cartels-manipulate-social-media-fraudulent-behaviour-hidden-plain",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40577726\">Comments</a>",
+    "publish_time": "2024-06-05 02:51:34",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Continue (YC S23) is hiring a founding engineer in San Francisco",
+    "url": "https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40579508\">Comments</a>",
+    "publish_time": "2024-06-05 06:15:16",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Some notes on influenceering",
+    "url": "https://lcamtuf.substack.com/p/some-notes-on-influenceering",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40578668\">Comments</a>",
+    "publish_time": "2024-06-05 04:34:30",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "An animated introduction to Fourier series",
+    "url": "https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40578705\">Comments</a>",
+    "publish_time": "2024-06-05 04:39:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
