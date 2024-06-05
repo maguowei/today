@@ -1552,5 +1552,96 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "TF三代出道战禁止线下应援",
+    "url": "https://s.weibo.com/weibo?q=%23TF%E4%B8%89%E4%BB%A3%E5%87%BA%E9%81%93%E6%88%98%E7%A6%81%E6%AD%A2%E7%BA%BF%E4%B8%8B%E5%BA%94%E6%8F%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "天气热、蚊虫多，但是风景好；夏季徒步登山，到底是值得推荐还是实名劝退？",
+    "url": "https://www.zhihu.com/question/656703005",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "你会坚持每天都买彩票吗？",
+    "url": "https://www.zhihu.com/question/399153077",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "姆巴佩这时候来皇马有什么意义？",
+    "url": "https://www.zhihu.com/question/658031189",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "A primer on the next generation of antibodies",
+    "url": "https://www.abhishaike.com/p/a-primer-to-the-next-generation-of-antibodies",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40587839\">Comments</a>",
+    "publish_time": "2024-06-06 01:31:41",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: A website that tailors your resume for each job you apply for",
+    "url": "https://resume.ink",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40589011\">Comments</a>",
+    "publish_time": "2024-06-06 03:07:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How big a deal was the Industrial Revolution? (2017)",
+    "url": "https://lukemuehlhauser.com/industrial-revolution/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40588540\">Comments</a>",
+    "publish_time": "2024-06-06 02:28:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Feature flags in Bazel builds",
+    "url": "https://pigweed.dev/docs/blog/02-bazel-feature-flags.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40588508\">Comments</a>",
+    "publish_time": "2024-06-06 02:26:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "We improved the performance of a userspace TCP stack in Go",
+    "url": "https://coder.com/blog/delivering-5x-faster-throughput-in-coder-2-12-0",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40586757\">Comments</a>",
+    "publish_time": "2024-06-06 00:13:39",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
