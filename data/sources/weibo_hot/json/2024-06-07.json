@@ -790,5 +790,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "地球守护者",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%9C%B0%E7%90%83%E5%AE%88%E6%8A%A4%E8%80%85%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "彭冠英新剧演刘亦菲初恋",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BD%AD%E5%86%A0%E8%8B%B1%E6%96%B0%E5%89%A7%E6%BC%94%E5%88%98%E4%BA%A6%E8%8F%B2%E5%88%9D%E6%81%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
