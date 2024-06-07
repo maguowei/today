@@ -1574,5 +1574,101 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "天天翻版张亮",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%A4%A9%E7%BF%BB%E7%89%88%E5%BC%A0%E4%BA%AE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "宋佳真空V领",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BD%B3%E7%9C%9F%E7%A9%BAV%E9%A2%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "爸爸带红衣战袍小狗给女儿送考",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%B8%A6%E7%BA%A2%E8%A1%A3%E6%88%98%E8%A2%8D%E5%B0%8F%E7%8B%97%E7%BB%99%E5%A5%B3%E5%84%BF%E9%80%81%E8%80%83%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "谈论下你对《人物》杂志24年五月刊万字《周深 刀锋柔软》的读后感？",
+    "url": "https://www.zhihu.com/question/658146299",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么直到现在，《原神》的元素反应机制都没有被模仿？",
+    "url": "https://www.zhihu.com/question/655314579",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "两个人特别有默契是怎样的一种体验？",
+    "url": "https://www.zhihu.com/question/30041215",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "在一个公司里面，为什么有些部门的优秀员工最先离职？管理者是什么心态？",
+    "url": "https://www.zhihu.com/question/657333356",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "What Is PID 0?",
+    "url": "https://blog.dave.tf/post/linux-pid0/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40613287\">Comments</a>",
+    "publish_time": "2024-06-08 05:42:58",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Slow-spinning radio neutron star breaks all the rules",
+    "url": "https://www.sydney.edu.au/news-opinion/news/2024/06/05/slow-spinning-radio-neutron-star-breaks-all-the-rules.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40613312\">Comments</a>",
+    "publish_time": "2024-06-08 05:46:30",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Feynman’s Razor",
+    "url": "https://defenderofthebasic.substack.com/p/feynmans-razor",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40612285\">Comments</a>",
+    "publish_time": "2024-06-08 03:53:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
