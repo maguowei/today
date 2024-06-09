@@ -53,5 +53,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "各位老哥，你们是如何稳定访问 ChatGPT 的？",
+    "url": "https://www.v2ex.com/t/1048060",
+    "summary": "liuguangxuan: <p>麻烦给推荐一下你们使用的方法/节点。</p>",
+    "publish_time": "2024-06-09 11:26:40",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "电信企业宽带 IPv6 禁止下发 PD 前缀！",
+    "url": "https://www.v2ex.com/t/1048099",
+    "summary": "sdevp: <p>单位有一条企业专线，有公网 IPv4,IPv6.\n一条光纤进来，经过一个光电转换器，分配了一个::/56 的段，但没有 PD 前缀, 导致经过我们的路由器后没法划分子网给内网的 Lan 侧使用 IPv6, 而这段静态的::/56 地址的网关是 xxx::1/56, 这个网关处于电信那边的设备上，打电话问他们说就是这样的禁止下发前缀，这样的 IPV 六不是残废吗？怎么能分发到 Lan 侧的设备，如果用 ND Proxy 的话会有什么问题吗？ 各位大佬支支招。</p>",
+    "publish_time": "2024-06-09 15:37:27",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
