@@ -31,5 +31,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "北京联通 个人住宅家庭宽带 开始限制终端 mac 数",
+    "url": "https://www.v2ex.com/t/1048045",
+    "summary": "youx: 北京联通 个人住宅家庭宽带 开始限制终端 mac 数<br /><br /><a href=\"https://i.imgur.com/lupYXqi.jpeg\" rel=\"nofollow noopener\" target=\"_blank\"><img class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/lupYXqi.jpeg\" /></a><br /><br /><a href=\"https://i.imgur.com/pOcvh9M.jpeg\" rel=\"nofollow noopener\" target=\"_blank\"><img class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/pOcvh9M.jpeg\" /></a>",
+    "publish_time": "2024-06-09 10:34:38",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "没想到网易邮箱已堕落至此",
+    "url": "https://www.v2ex.com/t/1048053",
+    "summary": "Nasei: <p>想给我爸的 apple id 绑个邮箱，以下操作环境如无说明则为 ipad</p>\n<ol>\n<li>登录我爸的 163 邮箱，因为忘记密码，需要重置，网页端无法操作，提示必须下载网易大师；</li>\n<li>下载网易大师，开屏广告点击跳过失败，跳转的很流畅，回到网易大师后，他会引诱你注册大师号，这玩意不是你的邮箱号，如果不注意就会中招；</li>\n<li>重置密码，过程中需要我多次发送验证码给网易，体验极其糟糕，重置成功后，网页依然无法登录，提示因为长时间未登录，必须使用网易大师；</li>\n<li>使用网易大师接收苹果的邮件，网易竟然自作主张，把我的邮件给加密了，要输入邮箱密码才能看；</li>\n<li>准备卸载网易大师，使用系统邮件，发现无法添加账号，因为 smtp 之类的功能没有打开；</li>\n<li>在网易大师的设置里找到开启 smtp 等协议的地方，提示生成一个授权码，只显示一次，但是我根本看不见授权码，重复删除生成几次都看不见，在网页端尝试，依然无法登录；</li>\n<li>切换为电脑，在电脑登录网页端，登录成功，重新生成授权码，这次能看到了；</li>\n<li>再次通过系统邮箱绑定 163 ，成功，拉下来之前的邮件，发现第四步那个被网易加密的邮件，在客户端根本不让看，点开就是让你去网易大师看；</li>\n<li>在电脑端网页找到设置「安全验证场景管理」，里面有一项叫做「敏感邮件」，默认打开，且按钮处于不可用的状态，我怀疑需要什么会员，关闭失败；</li>\n<li>卸载网易大师。</li>\n</ol>\n<p>从步骤 2 往后，几乎每次打开网易大师都会点到开屏广告，网易强推它的应用，同时这玩意还做的稀烂，不如改名「网易大屎」算了</p>\n<p>我自己主要使用 hotmail gmail ，但 163 是我第一个注册的邮箱，已经使用了二十多年了，虽然不用它来发邮件了，但注册国内的账号还是习惯用 163 ，平时也都在电脑端登录，这一次在 ipad 端操作一下，着实被恶心了一次。</p>",
+    "publish_time": "2024-06-09 11:06:52",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
