@@ -1339,5 +1339,76 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "殷罡逝世",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%AE%B7%E7%BD%A1%E9%80%9D%E4%B8%96%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何评价《乱马1/2》？",
+    "url": "https://www.zhihu.com/question/640876321",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "心理学：为什么智商高的人不喜欢与人交往？",
+    "url": "https://www.zhihu.com/question/657181384",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "No one should use the AT&T syntax (2021)",
+    "url": "https://outerproduct.net/2021-02-13_att-asm.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40626058\">Comments</a>",
+    "publish_time": "2024-06-10 01:36:13",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ask HN: Is KDB a sane choice for a datalake in 2024?",
+    "url": "https://news.ycombinator.com/item?id=40625800",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40625800\">Comments</a>",
+    "publish_time": "2024-06-10 01:00:22",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A look at search engines with their own indexes (2021)",
+    "url": "https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40626011\">Comments</a>",
+    "publish_time": "2024-06-10 01:28:50",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Designing a Lego Orrery",
+    "url": "https://marian42.de/article/orrery/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40626807\">Comments</a>",
+    "publish_time": "2024-06-10 03:23:08",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
