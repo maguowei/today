@@ -3005,5 +3005,313 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "微博旅行家",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E6%97%85%E8%A1%8C%E5%AE%B6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "肖战工作室端午放饭啦",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%AB%AF%E5%8D%88%E6%94%BE%E9%A5%AD%E5%95%A6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "花式出考场名场面",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%BC%8F%E5%87%BA%E8%80%83%E5%9C%BA%E5%90%8D%E5%9C%BA%E9%9D%A2%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "手机爹",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E7%88%B9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "长期睡眠不好的人后来怎么样了",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E7%9D%A1%E7%9C%A0%E4%B8%8D%E5%A5%BD%E7%9A%84%E4%BA%BA%E5%90%8E%E6%9D%A5%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "白鹿敖瑞鹏白月梵星端午海报",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%95%96%E7%91%9E%E9%B9%8F%E7%99%BD%E6%9C%88%E6%A2%B5%E6%98%9F%E7%AB%AF%E5%8D%88%E6%B5%B7%E6%8A%A5%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "回顾2024高考难忘瞬间",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%9B%9E%E9%A1%BE2024%E9%AB%98%E8%80%83%E9%9A%BE%E5%BF%98%E7%9E%AC%E9%97%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "张栋梁正式回归演员",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A0%8B%E6%A2%81%E6%AD%A3%E5%BC%8F%E5%9B%9E%E5%BD%92%E6%BC%94%E5%91%98%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "山东生物",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E7%94%9F%E7%89%A9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "2024KPL夏季赛",
+    "url": "https://s.weibo.com/weibo?q=%232024KPL%E5%A4%8F%E5%AD%A3%E8%B5%9B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "玫瑰的故事 这门亲事你同意吗",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8E%AB%E7%91%B0%E7%9A%84%E6%95%85%E4%BA%8B+%E8%BF%99%E9%97%A8%E4%BA%B2%E4%BA%8B%E4%BD%A0%E5%90%8C%E6%84%8F%E5%90%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "冰岛火山熔岩慢慢流向城镇",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%B2%9B%E7%81%AB%E5%B1%B1%E7%86%94%E5%B2%A9%E6%85%A2%E6%85%A2%E6%B5%81%E5%90%91%E5%9F%8E%E9%95%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "王星越眼线是被冲掉的",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E8%B6%8A%E7%9C%BC%E7%BA%BF%E6%98%AF%E8%A2%AB%E5%86%B2%E6%8E%89%E7%9A%84%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "阅卷老师停下了阅卷的手",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%98%85%E5%8D%B7%E8%80%81%E5%B8%88%E5%81%9C%E4%B8%8B%E4%BA%86%E9%98%85%E5%8D%B7%E7%9A%84%E6%89%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "上海地铁",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "请铠把无袖背心焊身上",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%AF%B7%E9%93%A0%E6%8A%8A%E6%97%A0%E8%A2%96%E8%83%8C%E5%BF%83%E7%84%8A%E8%BA%AB%E4%B8%8A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "成毅端午营业照",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E7%AB%AF%E5%8D%88%E8%90%A5%E4%B8%9A%E7%85%A7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "原来今天还有高考",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%BB%8A%E5%A4%A9%E8%BF%98%E6%9C%89%E9%AB%98%E8%80%83%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "美国偷房族",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%81%B7%E6%88%BF%E6%97%8F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "野孩子 端午和弟弟吃粽子去",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%87%8E%E5%AD%A9%E5%AD%90+%E7%AB%AF%E5%8D%88%E5%92%8C%E5%BC%9F%E5%BC%9F%E5%90%83%E7%B2%BD%E5%AD%90%E5%8E%BB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "法国政坛迎来地震，马克龙决定提前进行法国议会选举，如何解读马克龙此举？将带来哪些影响？",
+    "url": "https://www.zhihu.com/question/658537407",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "高中是什么样的啊？很青春吗？",
+    "url": "https://www.zhihu.com/question/658090236",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "4月中国市场黄金ETF净流入创月度新高",
+    "url": "https://www.36kr.com/newsflashes/2813418255895041",
+    "summary": "近日从世界黄金协会获悉，4月中国市场黄金交易型开放式指数基金（黄金ETF）净流入17吨，创月度新高，截至4月末持仓总规模增加至84吨，刷新历史纪录。黄金ETF是在证券交易所上市的开放式基金，以实物黄金为依托。4月中国市场黄金ETF净流入约90亿元人民币，为连续第5个月实现净流入，推动其资产管理总规模于4月末达到460亿元人民币。（新华社）",
+    "publish_time": "2024-06-10 12:06:56",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "疲软的日本经济尚未出现明显复苏迹象，决策者有理由继续保持谨慎",
+    "url": "https://www.36kr.com/newsflashes/2813419843029504",
+    "summary": "日本经济萎缩幅度小于预估，但复苏迹象尚不明显。在日本央行评估下一次加息时机之际，决策者有充分的理由继续保持谨慎。日本内阁府周一公布的数据显示，第一季度国内生产总值折合年率萎缩1.8%，而此前公布的初值为萎缩2%。经济学家此前预测最新数据会保持不变。数据显示消费者和企业都在削减支出且库存积压持续，因为几十年来最强劲的通胀趋势正继续抑制实际支出。（新浪财经）",
+    "publish_time": "2024-06-10 12:26:32",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "1至4月我国软件业务收入达3.8万亿元",
+    "url": "https://www.36kr.com/newsflashes/2813421166201088",
+    "summary": "工业和信息化部近日发布数据显示，1至4月，我国软件和信息技术服务业运行态势平稳，软件业务收入3.8万亿元，同比增长11.6%。值得一提的是，行业利润总额增速明显。1至4月，软件业利润总额4314亿元，同比增长14.3%。1至4月，软件产品收入9127亿元，同比增长8.7%，占全行业收入的比重为24.1%。（新华社）",
+    "publish_time": "2024-06-10 12:31:54",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "日媒：日本政府对本田总部展开突击调查",
+    "url": "https://www.36kr.com/newsflashes/2813470628661511",
+    "summary": "据日本广播协会（NHK）报道，当地时间10日上午，日本国土交通省对位于东京都港区的本田公司总部开展突击调查。据称，本田在噪音和发动机测试等方面存在虚假记载的问题，国交省计划在此次调查中确认相关试验数据，同时还将对公司负责人和领导层进行询问，以调查详细的事实关系。此前，丰田、马自达、雅马哈发动机、本田、铃木5家企业因在产品性能测试中存在不正当行为被曝光，本田是第4家被突击调查的涉事企业。（中新网）",
+    "publish_time": "2024-06-10 12:40:38",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "2024端午档票房破3亿",
+    "url": "https://www.36kr.com/newsflashes/2813502880155908",
+    "summary": "36氪获悉，据灯塔专业版，截至6月10日时12时27分，2024端午档（6月8日-6月10日）档期内票房突破3亿。《我才不要和你做朋友呢》《扫黑·决不放弃》《加菲猫家族》暂列档期内票房前三位。 ​​​",
+    "publish_time": "2024-06-10 12:43:07",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "存在违规操作，日本国土交通省检查马自达总部",
+    "url": "https://www.36kr.com/newsflashes/2813505556465921",
+    "summary": "当地时间10日，日本国土交通省当天根据《道路运输车辆法》，对马自达汽车公司总部进行检查。至此，日本国土交通省已对此次涉及违规行为的五家汽车公司全部进行检查。日本国土交通省日前发表声明称，丰田、马自达、雅马哈发动机、本田、铃木的38种车型在用于量产的认证申请过程中存在欺诈行为。由于量产认证事关车辆安全，丰田、马自达和雅马哈发动机3家公司的6款在产车型在确认符合安全标准之前，已被叫停出货。（央视新闻）",
+    "publish_time": "2024-06-10 12:45:51",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "高盛看好做多英镑/日元",
+    "url": "https://www.36kr.com/newsflashes/2813422914079234",
+    "summary": "高盛建议投资者买入英镑兑日元，目标位208，止损位195。英镑/日元 周一亚洲时段早盘报199.70左右。高盛称，目前美国利率可能在更长时间内保持较高水平，全球最大经济体的经济增长具有韧性，以及日本央行将逐步加息的预期，这些因素都支持日元持续疲软。（新浪财经）",
+    "publish_time": "2024-06-10 12:47:37",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "马来西亚将按市场价格设定柴油价格，取消大部分补贴",
+    "url": "https://www.36kr.com/newsflashes/2813426560928000",
+    "summary": "马来西亚将从周一开始全面削减柴油补贴，以兑现改善国家财政状况的一项重要承诺。马来西亚第二财政部长阿米尔·哈姆扎·阿齐赞在普特拉贾亚举行的新闻发布会上表示，柴油将以每周在马来西亚半岛设定的市场价格出售。在东马来西亚的沙巴州和沙捞越州，柴油零售价格将继续得到补贴。（财联社）",
+    "publish_time": "2024-06-10 12:59:23",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "My Month Without a Smartphone",
+    "url": "https://collabfund.com/blog/my-month-without-a-smartphone/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40630024\">Comments</a>",
+    "publish_time": "2024-06-10 12:04:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Omakub – Opinionated Ubuntu Setup",
+    "url": "https://github.com/basecamp/omakub",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40630174\">Comments</a>",
+    "publish_time": "2024-06-10 12:31:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
