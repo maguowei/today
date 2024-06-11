@@ -727,5 +727,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "京东618开心夜定档送房又送车",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C618%E5%BC%80%E5%BF%83%E5%A4%9C%E5%AE%9A%E6%A1%A3%E9%80%81%E6%88%BF%E5%8F%88%E9%80%81%E8%BD%A6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "按艺人出道顺序排序",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%8C%89%E8%89%BA%E4%BA%BA%E5%87%BA%E9%81%93%E9%A1%BA%E5%BA%8F%E6%8E%92%E5%BA%8F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "看福宝的最佳时间",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%9C%8B%E7%A6%8F%E5%AE%9D%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E9%97%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]

@@ -1744,5 +1744,65 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "京东618开心夜定档送房又送车",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C618%E5%BC%80%E5%BF%83%E5%A4%9C%E5%AE%9A%E6%A1%A3%E9%80%81%E6%88%BF%E5%8F%88%E9%80%81%E8%BD%A6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "按艺人出道顺序排序",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%8C%89%E8%89%BA%E4%BA%BA%E5%87%BA%E9%81%93%E9%A1%BA%E5%BA%8F%E6%8E%92%E5%BA%8F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "看福宝的最佳时间",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%9C%8B%E7%A6%8F%E5%AE%9D%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E9%97%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "美股三大指数收盘涨跌不一，苹果股价创历史新高",
+    "url": "https://www.36kr.com/newsflashes/2815998118742272",
+    "summary": "36氪获悉，6月11日收盘，美股三大指数涨跌不一，道指跌0.31%，标普500指数涨0.27%，纳指涨0.88%。大型科技股多数上涨，苹果涨超7%，股价创历史新高，微软涨超1%，奈飞、Meta、谷歌、亚马逊等小幅上涨，Arm跌超2%，特斯拉跌超1%，英伟达跌0.72%。热门中概股多数下跌，36氪涨超15%，蔚来、小鹏汽车跌超5%，爱奇艺跌超2%，百度、拼多多、理想汽车、哔哩哔哩跌超1%，微博跌0.83%，京东跌0.61%。",
+    "publish_time": "2024-06-12 07:01:25",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Flameshot – Open-source screenshot software",
+    "url": "https://flameshot.org/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40650844\">Comments</a>",
+    "publish_time": "2024-06-12 04:03:57",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Lynn Conway has died",
+    "url": "https://en.wikipedia.org/wiki/Lynn_Conway",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40648470\">Comments</a>",
+    "publish_time": "2024-06-12 00:44:11",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
