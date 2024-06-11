@@ -1491,5 +1491,176 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "围观百人车内发布会",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%9B%B4%E8%A7%82%E7%99%BE%E4%BA%BA%E8%BD%A6%E5%86%85%E5%8F%91%E5%B8%83%E4%BC%9A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "饥饿小蜂猴勇闯人类火锅店",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%A5%A5%E9%A5%BF%E5%B0%8F%E8%9C%82%E7%8C%B4%E5%8B%87%E9%97%AF%E4%BA%BA%E7%B1%BB%E7%81%AB%E9%94%85%E5%BA%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "贡菜拌毛肚",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B4%A1%E8%8F%9C%E6%8B%8C%E6%AF%9B%E8%82%9A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "原来西瓜头上顶块石头会更甜",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%A5%BF%E7%93%9C%E5%A4%B4%E4%B8%8A%E9%A1%B6%E5%9D%97%E7%9F%B3%E5%A4%B4%E4%BC%9A%E6%9B%B4%E7%94%9C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "镜头下的笑容",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%95%9C%E5%A4%B4%E4%B8%8B%E7%9A%84%E7%AC%91%E5%AE%B9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "佟大为 冻龄",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%9F%E5%A4%A7%E4%B8%BA+%E5%86%BB%E9%BE%84%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "如何评价契诃夫的《贼》？",
+    "url": "https://www.zhihu.com/question/658309405",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价《王者荣耀》「鸡爪流蒙恬」玩法？",
+    "url": "https://www.zhihu.com/question/658547502",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "OpenAI Selects Oracle Cloud Infrastructure to Extend Microsoft Azure AI Platform",
+    "url": "https://www.oracle.com/news/announcement/openai-selects-oracle-cloud-infrastructure-to-extend-microsoft-azure-ai-platform-2024-06-11/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40651215\">Comments</a>",
+    "publish_time": "2024-06-12 04:40:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Elon Musk drops suit against OpenAI and Sam Altman",
+    "url": "https://www.cnbc.com/2024/06/11/elon-musk-drops-suit-against-openai-and-sam-altman.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40651203\">Comments</a>",
+    "publish_time": "2024-06-12 04:38:32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Introduction to VLSI Systems",
+    "url": "https://archive.org/details/introductiontovl00mead",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40651036\">Comments</a>",
+    "publish_time": "2024-06-12 04:22:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "AGI",
+    "url": "https://colab.research.google.com/drive/1XjqcDe9SvUT_wCwfK6pizRF5R_11jpPu?usp=sharing",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40651315\">Comments</a>",
+    "publish_time": "2024-06-12 04:50:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "ARC Prize – a $1M+ competition towards open AGI progress",
+    "url": "https://arcprize.org/blog/launch",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40648960\">Comments</a>",
+    "publish_time": "2024-06-12 01:19:41",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Decade of the Battery",
+    "url": "https://www.noahpinion.blog/p/decade-of-the-battery-334",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40650316\">Comments</a>",
+    "publish_time": "2024-06-12 03:19:24",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Rate of Return on Everything, 1870–2015 (2019)",
+    "url": "https://academic.oup.com/qje/article/134/3/1225/5435538",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40650326\">Comments</a>",
+    "publish_time": "2024-06-12 03:20:12",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Swift Static Linux SDK",
+    "url": "https://www.swift.org/documentation/articles/static-linux-getting-started.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40651054\">Comments</a>",
+    "publish_time": "2024-06-12 04:25:18",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Mistral AI raises $640M at $6B valuation",
+    "url": "https://www.generalcatalyst.com/perspectives/tripling-down-on-mistral-ai",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40651298\">Comments</a>",
+    "publish_time": "2024-06-12 04:48:55",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
