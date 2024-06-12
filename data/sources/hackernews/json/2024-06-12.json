@@ -317,5 +317,27 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "TIL about the \"gollum\" GitHub Action event",
+    "url": "https://docs.github.com/en/webhooks/webhook-events-and-payloads",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40652098\">Comments</a>",
+    "publish_time": "2024-06-12 06:00:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How Much of a Genius-Level Move Was Using Binary Space Partitioning in Doom?",
+    "url": "https://twobithistory.org/2019/11/06/doom-bsp.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40652917\">Comments</a>",
+    "publish_time": "2024-06-12 07:38:12",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
