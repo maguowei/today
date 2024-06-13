@@ -9,5 +9,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "如何评价新一代的国产可信 Docker 镜像中心 Atomhub",
+    "url": "https://www.v2ex.com/t/1049091",
+    "summary": "crabor: 由开放原子开源基金会主导，华为、浪潮、DaoCloud 、谐云、青云、飓风引擎以及 OpenSDV 开源联盟、openEuler 社区、OpenCloudOS 社区等成员单位共同发起建设的 AtomHub 可信镜像中心正式开放公测。<br /><br /><a href=\"http://atomhub.openatom.cn/\" rel=\"nofollow noopener\" target=\"_blank\">atomhub.openatom.cn</a>",
+    "publish_time": "2024-06-13 08:30:17",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "为什么有人说阅读源码没有用？不能有点上进吗？",
+    "url": "https://www.v2ex.com/t/1049110",
+    "summary": "manongsir: <p>面试造航母，入职拧螺丝，写了一篇文章讨论这个话题 aHR0cHM6Ly9tcC53ZWl4aW4ucXEuY29tL3MvTUxQX3AwQmhCZWJjMmRjWnhtZDFXZw== (需 Base64 解码)。\n望大家不喜勿喷，友好讨论。</p>",
+    "publish_time": "2024-06-13 09:36:55",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "女儿出生，快 30 岁的程序员最近很 emo，在 v 站倾述下",
+    "url": "https://www.v2ex.com/t/1049125",
+    "summary": "guch99999: 本人 28 岁，在上海工作 6 年，在当前这家公司做了有 4 年了，从事后台开发工作（ 2 年多吧），经历过转岗，开始进入到这家公司是做自动化测试（主要用 python ，其实也就做了一年），后续随之公司业务变动转行做爬虫，然后到现在的后台开发（用 java ），做的很杂，以上是背景。<br /><br />   前段时间女儿出生，经历过最初的幸福喜悦，随之而来的是养家的压力（赚奶粉钱哈哈）。当前这家公司因为众所周知的经济大环境的影响这两年业绩也在下降，小弟扛过了两次大规模的裁员（现在想想还不如裁了呢，至少有赔偿），工资这两年也是没有涨的。 随着去年结婚，今年宝宝出生，经济压力日渐加大，于是有了跳槽的打算，但是我又挺担心我出去是否能够找到好工作（安逸太久+最近看 v 站老哥反映的市场情况），我现在的技术是否能够支持我找到好工作，太敢跳出舒适圈，陷入了自我怀疑的阶段，越想越 emo 。我自己其实是没有信心的，感觉和外界脱离太久了， 我是想找 java 开发相关工作的，但是微服务这块我是缺失的，一毕业到现在进入的公司都没有用到这块。<br /><br />    现在待着当前公司是没有出路的（公司销售导向），公司不太重视研发特别是软件研发，本质上我们公司还是一个硬件公司的，学习的技术栈也很落后，没有很好的软件管理体系，最重要的是我发现待着这个公司真的快要废了，从进入到我们公司做的工作感觉都很杂，东做做，西做做，感觉学了很多东西但是又都不精通（想起来，<a href=\"http://xn--cyq25ftzr7xdjqbbxo5k2e2daw52d.net/\" rel=\"nofollow noopener\" target=\"_blank\">我有段时间还去做过.net</a>...）。<br /><br />    列下本人工作的一些项目或者工作吧，希望有老哥给我指导下,我有哪些不足吧（随便看看行情），如果跳槽，大概能拿多少。<br />    1. 自主搭建公司的自动化测试体系框架，支持接口测试+ui 自动化测试（ selenium 、appium)+jenkins 生成输出测试报告。<br />    2. 公司爬取平台的开发，主要介绍下爬取的 app： 微博、抖音（包括火山版）、twitter 、telegram 、facebook 、whatsapp 、instagram 、gmail 、yahoo 等，还有许多不太方便透露的 app （涉密项目）<br />3. 公司设备管理系统的开发，管理公司设备对接业务平台、手机端后台管理端采用 springboot+netty+vue+rpc+mybatis 的架构，负责管理设备、发布指令监听状态、获取设备采集信息。<br />    4. 云真机平台主要采用 scrcpy+netty+springboot+vue 架构实现，支持网页查看手机实时屏幕，操作手机屏幕，截图、下载、录屏、抓包相关。。<br /><br />    现在还没有开始投简历，准备系统学习下微服务做点相关项目，刷点八股文再去试试",
+    "publish_time": "2024-06-13 10:01:06",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
