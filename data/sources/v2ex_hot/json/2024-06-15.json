@@ -20,5 +20,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "iOS 17.5/17.5.1 在室内仅使用蜂窝数据网络时，定位服务失效。",
+    "url": "https://www.v2ex.com/t/1049676",
+    "summary": "microka: iPhone 15 Pro Max 国行，iOS 17.5.1 ，最近发现在室内仅使用蜂窝网络时，微信、外卖、地图等 app 都无法获取定位，连模糊位置都出不来，网上搜索一番，发现这应该是 iOS 17.5 （发布时间：2024-05-14 ）带来的 bug ，一周后（ 2024-05-21 ）发布的 iOS 17.5.1 依然没解决该问题，至今（ 2024-06-15 ）该 bug 依然存在。<br /><br />复现步骤及临时解决办法：手机保持在室内环境（即无法搜索到卫星），手机彻底关闭 WiFi ，重启 iPhone ，仅启用蜂窝数据网络状态下打开地图、微信、外卖等 app ，均无法定位。开启手机 WiFi （无需连上具体某个 WiFi 网络），此时马上能获取定位。<br /><br />本站我只在 <a href=\"https://www.v2ex.com/t/1041030\" rel=\"nofollow noopener\" target=\"_blank\">/t/1041030</a>#r_14729404 #10 这里看到一位 V 友有提及该问题，特此发帖供大家交流讨论。<br /><br />以下是我在互联网上检索到此问题的记录：<br /><a href=\"https://www.xiaohongshu.com/explore/6645b6b8000000001e032d74\" rel=\"nofollow noopener\" target=\"_blank\">https://www.xiaohongshu.com/explore/6645b6b8000000001e032d74</a><br /><a href=\"https://www.xiaohongshu.com/explore/665efb0d000000000f00f19b\" rel=\"nofollow noopener\" target=\"_blank\">https://www.xiaohongshu.com/explore/665efb0d000000000f00f19b</a><br /><a href=\"https://www.xiaohongshu.com/explore/665f15e7000000001303dca9\" rel=\"nofollow noopener\" target=\"_blank\">https://www.xiaohongshu.com/explore/665f15e7000000001303dca9</a><br /><a href=\"https://www.xiaohongshu.com/explore/6668134c000000000d00fb67\" rel=\"nofollow noopener\" target=\"_blank\">https://www.xiaohongshu.com/explore/6668134c000000000d00fb67</a><br /><a href=\"https://discussionschinese.apple.com/thread/255614933\" rel=\"nofollow noopener\" target=\"_blank\">https://discussionschinese.apple.com/thread/255614933</a><br /><a href=\"https://discussionschinese.apple.com/thread/255617261\" rel=\"nofollow noopener\" target=\"_blank\">https://discussionschinese.apple.com/thread/255617261</a><br /><a href=\"https://discussionschinese.apple.com/thread/255622129\" rel=\"nofollow noopener\" target=\"_blank\">https://discussionschinese.apple.com/thread/255622129</a><br /><a href=\"https://discussionschinese.apple.com/thread/255633628\" rel=\"nofollow noopener\" target=\"_blank\">https://discussionschinese.apple.com/thread/255633628</a><br /><a href=\"https://discussionschinese.apple.com/thread/255638387\" rel=\"nofollow noopener\" target=\"_blank\">https://discussionschinese.apple.com/thread/255638387</a><br /><a href=\"https://www.reddit.com/r/MHNowGame/comments/1cun1c8/ios_175_breaking_location/\" rel=\"nofollow noopener\" target=\"_blank\">https://www.reddit.com/r/MHNowGame/comments/1cun1c8/ios_175_breaking_location/</a><br /><a href=\"https://www.mobile01.com/topicdetail.php?f=383&amp;t=6972399\" rel=\"nofollow noopener\" target=\"_blank\">https://www.mobile01.com/topicdetail.php?f=383&amp;t=6972399</a><br />（酷安上还有许多关于该问题的讨论，就不放不上来了）<br /><br />我可以大胆推断这就是 iOS 17.5 带来的 bug ！而如果到苹果官方社区发帖咨询或联系苹果官方支持，也只会让你做那些一连串常规的检查、还原操作（有网友跟着操作过根本没用，还得耗时重新设置手机）。<br /><br />写到这里我其实对苹果有很多不满的情绪但不知如何好好表达，又不想本帖最后变成安卓/苹果用户之骂战，回归到本帖谈论的问题，希望有朋友能帮忙将该问题传达到苹果团队内部，争取早日修复吧。",
+    "publish_time": "2024-06-15 02:00:24",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "想开发一个代理内核，有什么建议吗？",
+    "url": "https://www.v2ex.com/t/1049697",
+    "summary": "starxg: 目前市面上有许多代理工具，例如：Clash 、V2Ray 、Serge 等等，但是好像都是基于：V2Ray-Core 或者 Clash-Meta 。<br /><br />想用 Java 从 0 开发一个内核，然后使用 GraalVM 编译到各个平台，或者直接 JVM 运行。在目前的情况看来，运行在 macOS 、Windows 、Linux 、Android 是没有问题的，就是 GUI 层需要考虑。<br /><br />Java 开发的程序占用内存肯定会大，如果用 JDK21 开发虚拟线程+NIO 性能应该不是问题。<br /><br />目前已经用 Apache MINA 实现了 Trojan 协议。<br /><br />大家怎么看？有什么建议吗？",
+    "publish_time": "2024-06-15 09:40:12",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
