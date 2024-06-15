@@ -1384,5 +1384,72 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "外卖小哥回应酷似易烊千玺",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E5%9B%9E%E5%BA%94%E9%85%B7%E4%BC%BC%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "当事人回应在高考后订婚",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94%E5%9C%A8%E9%AB%98%E8%80%83%E5%90%8E%E8%AE%A2%E5%A9%9A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "牛津Kate朱朱谈姜萍",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%89%9B%E6%B4%A5Kate%E6%9C%B1%E6%9C%B1%E8%B0%88%E5%A7%9C%E8%90%8D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "2024 欧洲杯西班牙 3:0 克罗地亚，如何评价这场比赛？",
+    "url": "https://www.zhihu.com/question/659021860",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "西游记的佛祖神仙那么厉害，为什么不亲自下凡处罚妖怪？",
+    "url": "https://www.zhihu.com/question/655098706",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Book: Just Enough Software Architecture",
+    "url": "https://www.georgefairbanks.com/book/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40691929\">Comments</a>",
+    "publish_time": "2024-06-16 03:02:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Impulse Tracker source code now available on GitHub",
+    "url": "https://github.com/jthlim/impulse-tracker",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40691999\">Comments</a>",
+    "publish_time": "2024-06-16 03:13:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
