@@ -1440,5 +1440,56 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "乳胶枕头投诉量直线飙升",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B9%B3%E8%83%B6%E6%9E%95%E5%A4%B4%E6%8A%95%E8%AF%89%E9%87%8F%E7%9B%B4%E7%BA%BF%E9%A3%99%E5%8D%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "姜萍，一个中专生打败一众世界顶级大学高材生，说明什么?",
+    "url": "https://www.zhihu.com/question/658939873",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "NumPy 2.0 Is Released",
+    "url": "https://numpy.org/news/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40700259\">Comments</a>",
+    "publish_time": "2024-06-17 05:29:04",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Japanese Words and Names Sound African. Why? (2022)",
+    "url": "https://www.farooqkperogi.com/2022/10/japanese-words-and-names-sound-african.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40699007\">Comments</a>",
+    "publish_time": "2024-06-17 02:20:38",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: SQLite Database Explorer",
+    "url": "https://github.com/frectonz/sqlite-studio",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=40700343\">Comments</a>",
+    "publish_time": "2024-06-17 05:39:18",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
