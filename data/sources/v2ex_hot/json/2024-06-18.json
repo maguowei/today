@@ -86,5 +86,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "游戏研发行业现在咋这么苦逼了。",
+    "url": "https://www.v2ex.com/t/1050516",
+    "summary": "qcbf111: <ul>\n<li>做了十多年的游戏研发了，最近想做个记账 APP （之前我还提问但还是没有满意的）在学习 flutter 。</li>\n<li>然后我昨天顺手搜了下 flutter BOSS 招聘工资（成都），我的天呐 极少部分 10k 附近的，大部分 20k-40k ，小部分 50k-60k 。</li>\n<li>然后对比游戏研发，大部分还是 10k-25k ，小部分 25-35 ，极少大于 35k 的，看不见大于 40k 的。</li>\n<li>然后我看了几个任职要求，感觉游戏研发现在真的是性价比太低了。</li>\n<li>\n<ul>\n<li>高级游戏任职要求：要了解图形学懂渲染管线要能根据需求修改管线。要懂 Android 、ios 原生接 sdk 。要懂网络 tcp 和 udp 要能封装状态同步帧同步在战斗系统。要懂内存分配、cpu cache miss 优化 simd 优化。要懂常见数据结构战斗系统内用四叉树/八叉树优化敌人查询。</li>\n</ul>\n</li>\n<li>\n<ul>\n<li>这个价位 flutter 搜出来的任职要求 基本在要懂 android 、ios 原生开发，flutter 和原生混合开发，部分后端相关的技术，vue react 这些前端技术。</li>\n</ul>\n</li>\n<li>我加了些前端开发群，感觉难度不是很高，我问他们主要就是在写界面布局和业务逻辑代码的代码，也没有数学公式，游戏经常会用到三角函数几何线性代数这些，很常见的需求就是要变换几个矩阵用于在不同空间下的坐标系，引擎提供的也是基本的 math 和一些数学的封装，有些时候还是要自己实现一些计算。</li>\n<li>V2EX 有多少游戏开发的大佬呢？现在看得我都想转行了去做 app 开发了，不知道 app 开发加班情况怎么样，游戏绝大部分公司都是 996 。</li>\n</ul>",
+    "publish_time": "2024-06-18 13:31:52",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
