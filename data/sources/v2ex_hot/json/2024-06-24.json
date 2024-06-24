@@ -42,5 +42,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "🌼 BalmyTime 一款跨平台的休息提醒 & 屏幕时间工具，欢迎体验",
+    "url": "https://www.v2ex.com/t/1052074",
+    "summary": "TriiHsia: <p>你们好呀。</p>\n<p>今天给大家介绍一下我最近写的一款日常类的工具：BalmyTime 。</p>\n<p>支持 macOS 和 Windows 平台。</p>\n<h3>功能</h3>\n<p>她的主要功能不多，但也不简单。</p>\n<ul>\n<li>尽可能少的、且有一致性的休息提醒</li>\n<li>记录屏幕使用时间，包括应用的使用时长和时段</li>\n<li>日历式回顾最近工作和休息的统计数据</li>\n<li>如果你想的话，还能每天给自己写一句话</li>\n</ul>\n<p><img alt=\"balmytime-screenshot.png\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://s2.loli.net/2024/06/24/2sXdWFkvz1b9y7K.png\" /></p>\n<h3>设计的开始</h3>\n<p>不知道有多少人会跟我一样，有时候坐在电脑面前，不知不觉就过去了好久。可能一连几个小时都不站一下，或喝一口水。这样肯定不太好。</p>\n<p>所以我找了一下现在有的大部分休息工具，发现它们大多都是以“番茄钟”的形式存在的。先要你设置一个专注的时长，然后等倒计时结束后就来提醒你。它们更像是一个让你保持专注的约束，而不是一个希望你自己能规律 Break 的工具。</p>\n<p>所以 BalmyTime 和它们有一个很大的不同，就是会要求你设置一个固定的休息点。可能是每个小时 50 分的时候，或者任何你想要的时间点。这个灵感是来自 Apple Watch 的站立提醒功能，觉得非常好用。它能让你有一种绝对的时间观，只要提醒你了，你就能知道现在已经是 50 分了。</p>\n<p>所以基于这一点，BalmyTime 可以做到<strong>相对的低存在感</strong>。不要你设置多少多少时长，不要你点开始或结束，更不要你非得或只能连续多少分钟。你需要做的，只是专注于自己的事情，然后她就会在<strong>你期望的时间点</strong>告诉你该休息一下了。</p>\n<h3>小插曲</h3>\n<p>对了，BalmyTime 不止支持 macOS ，也支持 Windows 。</p>\n<p>为什么会支持呢？因为我看了一下大部分这类个人工具软件，都只做 Mac 版不做 Windows 版。这用 Windows 的哪能受得住这气！高低得整一个。结果后来才发现，即便是个小工具，多平台做的时候有些地方的工作量也直接翻倍。而且还得保证各个平台窗口、功能行为的一致，掉坑里了。</p>\n<p>好在最后还是做完了。😋</p>\n<hr />\n<h3>链接</h3>\n<ul>\n<li>官网： <a href=\"https://balmytime.app/\" rel=\"nofollow\">https://balmytime.app/</a></li>\n<li>🐶 这次不是开源的啦</li>\n</ul>\n<h3>Pro Ticket</h3>\n<p>程序大部分功能都是可以直接使用的，少部分功能需要一次性买断。正好在这里给大家一些激活码，一共 30 个，可以在程序的“关于页”激活。</p>\n<p>其中的 15 个我会直接放在下方。防止大家一个个试的麻烦，还有 15 就请大家留下邮箱地址，我会直接发到你们邮箱里的。</p>\n<pre><code> 1. 55A5F-AD90E-D978B-0C3B5\n 2. F082C-55DCC-B18ED-B7041\n 3. 0D153-B26E6-5CCD7-42950\n 4. 66440-3751F-5F326-1DB59\n 5. 6D053-EA501-602B9-83AAA\n 6. 00FC3-7E03D-FBC4B-5E697\n 7. D1EE7-83F40-2AF8C-17FD5\n 8. E0349-184BC-0CF43-F8068\n 9. AF0C7-CE27A-EBE8F-6E5C7\n10. CC824-9A991-A6253-D848D\n11. 1741D-D6B0A-79CBF-D6221\n12. 916FF-EF760-AFD29-8330D\n13. F1A27-6E218-F960F-FA366\n14. ED490-0D916-DBB76-3B30B\n15. AE03A-014CC-55C05-868D8\n</code></pre>\n<p>使用愉快。</p>",
+    "publish_time": "2024-06-24 13:15:55",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
