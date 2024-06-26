@@ -1321,5 +1321,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "冠军之品成就冠军范儿",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%86%A0%E5%86%9B%E4%B9%8B%E5%93%81%E6%88%90%E5%B0%B1%E5%86%A0%E5%86%9B%E8%8C%83%E5%84%BF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "谁说站在光里的才算是英雄",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B0%81%E8%AF%B4%E7%AB%99%E5%9C%A8%E5%85%89%E9%87%8C%E7%9A%84%E6%89%8D%E7%AE%97%E6%98%AF%E8%8B%B1%E9%9B%84%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
