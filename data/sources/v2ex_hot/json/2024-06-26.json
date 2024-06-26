@@ -9,5 +9,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "天天说前端卷，结果很多前端连语义化 html 是什么都不知道，除了 div 就不知道其他元素了",
+    "url": "https://www.v2ex.com/t/1052679",
+    "summary": "wyl986: <p>所在的国企招了几个 911 前端，结果几个都只会 div 一把梭，click 事件也直接绑定在 div 上，写的页面在 lighthouse 的 accessibility 得分 20 分</p>\n<p>vue 里面全是 <code>getElementById</code> 这种代码，只会用 element ，认识的原生的 html 元素一只手都数的完；</p>\n<p>commit messages 全都写 “新功能”、“bug 修复”这种毫无具体含义的话，教他用 semantic commit messages 也不学</p>\n<p>看到他写的代码真的很难受，但是也能按时完成工作任务，是我自己太事逼，管太宽了吗？</p>",
+    "publish_time": "2024-06-26 10:36:42",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
