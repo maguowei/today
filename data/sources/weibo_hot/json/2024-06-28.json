@@ -682,5 +682,14 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "出门两三个小时空调要不要关",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%87%BA%E9%97%A8%E4%B8%A4%E4%B8%89%E4%B8%AA%E5%B0%8F%E6%97%B6%E7%A9%BA%E8%B0%83%E8%A6%81%E4%B8%8D%E8%A6%81%E5%85%B3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
