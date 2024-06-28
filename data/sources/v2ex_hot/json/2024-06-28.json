@@ -42,5 +42,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "75 配列键盘写代码方便么",
+    "url": "https://www.v2ex.com/t/1053288",
+    "summary": "NoKey: 当前用的 86 配列的，想换一个键盘<br />看着 75 配列的不错，就是不知道好用不<br />感觉 home end ins del 是刚需，75 配列好像这些键不全<br />有点纠结<br />有正在使用的大佬分享一下使用体验嘛，谢谢",
+    "publish_time": "2024-06-28 10:41:00",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "做了个 AI 海龟汤小游戏，恐怖慎入",
+    "url": "https://www.v2ex.com/t/1053293",
+    "summary": "wseani: <p>我很喜欢玩海龟汤游戏，但很可惜因为出题者要判定答题者的说得是否正确，所以一个人玩不了，去年我用 OpenAI 的 GPTs 搭了一个，但我发现 AI 生成的故事很枯燥，而且那玩意没有 Plus 玩不了。</p>\n<p>这几天闲着没事，就用 Next.js 做了一个网页版，免费随便玩！玩法是：</p>\n<ul>\n<li>海龟汤有「汤面」和「汤底」，汤面通常是故事的结局，比如“我看到女孩冲我笑，我知道我危险了”。</li>\n<li>你需要不断提问来获取更多信息，比如你可以问：“女孩想杀死我对吗？”，记住，海龟汤的规则是，出题者只能回答 是/不是/不相关。</li>\n<li>你需要在 10 次提问中，揭开故事的谜底，也就是「汤底」才算成功。</li>\n</ul>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://private-user-images.githubusercontent.com/6824141/344010312-d168e707-83af-4b3c-af7c-6a48bb50bb5b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk1NDI4NzYsIm5iZiI6MTcxOTU0MjU3NiwicGF0aCI6Ii82ODI0MTQxLzM0NDAxMDMxMi1kMTY4ZTcwNy04M2FmLTRiM2MtYWY3Yy02YTQ4YmI1MGJiNWIucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDYyOCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA2MjhUMDI0MjU2WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NWM0YTBhNDcwODQ3MTZmNGUwNGYyY2RiZTlmN2Q4ODJlMGUxMDQ0MzhjNTQzNjkzYWE4ZDM0YmJiZTI3NmM1ZSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.nhr5gznrX29VhEn0prSmdmxWrABf3EIHqBkrrz-SlRw\" /></p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://private-user-images.githubusercontent.com/6824141/344010208-f95d72fd-5451-4dc6-9262-c7df30fb5af9.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk1NDM0OTMsIm5iZiI6MTcxOTU0MzE5MywicGF0aCI6Ii82ODI0MTQxLzM0NDAxMDIwOC1mOTVkNzJmZC01NDUxLTRkYzYtOTI2Mi1jN2RmMzBmYjVhZjkucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDYyOCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA2MjhUMDI1MzEzWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9YmUxNzk2YThhNGI2NzEzYzFiMDdiY2RiODMxNDZjNWIzNDE2YTYyOWNiMzI5MzY0MWRlOWU4Yjg2MWM5NmE1MiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.Km25_f3PeJVJIdpvUhjyt48i46dbt2whbIqKxldNmFo\" /></p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://private-user-images.githubusercontent.com/6824141/344009954-28e001f0-a721-4120-8cd2-13f4da613a37.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk1NDM0OTMsIm5iZiI6MTcxOTU0MzE5MywicGF0aCI6Ii82ODI0MTQxLzM0NDAwOTk1NC0yOGUwMDFmMC1hNzIxLTQxMjAtOGNkMi0xM2Y0ZGE2MTNhMzcuanBnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDYyOCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA2MjhUMDI1MzEzWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MGVlZmE5ODExMzc0MmJjMjFjY2Y3NmRlZDAwYjE2MGY4Y2ZlOWIyZmIyMjQ1Y2U1ZTExOGYzMzg5OTFiMWZlNCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.liefh0-OfffgEWKcOiQnFupJLJsbGj5nVi927TCmg_I\" /></p>\n<p>最早的时候，我希望海龟汤故事本身也用 AI 生成，后来发现哪怕 GPT-4 也很烂。前天晚上在网上疯狂看了 500 多个海龟汤(一个人凌晨在空荡客厅，看得我毛骨悚然)，最终筛选出 32 个我觉得逻辑还不错、没那么重口的汤，希望你觉得不错！</p>\n<p>哦对！记得开音效玩，会有惊喜😁</p>\n<p>地址： <a href=\"https://www.tanghenre.com/\" rel=\"nofollow\">https://www.tanghenre.com</a></p>",
+    "publish_time": "2024-06-28 10:54:58",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "俄乌冲突，我们的立场是什么？",
+    "url": "https://www.v2ex.com/t/1053382",
+    "summary": "miaeLKK: cctv 感觉都是支持俄罗斯，本来我也这样认为，但也是又怕京子苦，又怕京子进基辅。最近感觉今日头条上总是看到大鹅被乌无人机炸，感觉鹅都快不行了似的，然后评论也是越来越多的支持乌克兰反对俄罗斯，说欧美是高级文明，这是怎么回事？",
+    "publish_time": "2024-06-28 15:46:10",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
