@@ -9,5 +9,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "独立开发上半年总结",
+    "url": "https://www.v2ex.com/t/1053644",
+    "summary": "yrejgnl11222: 我是谁？<br />简单介绍下我的背景，双非一本硕士毕业，在大厂工作两年前端，从去年年底裸辞开始做独立开发。<br /><br />我为什么裸辞做独立开发？<br />其实我觉得现在这种大环境下，内卷打工的性价比极低，就和股市抄底一样，在工价不值钱的时候做一些自己想做的事反而是性价比比较高的方式，在互联网发展繁荣的年代，工价价值高反而不适合辞职做自己想做的事。（有家庭有贷款除外，背了贷款和有了家庭注定你只能为别人而活）。我还没有成家生小孩，没有背房贷车贷，手里有可以支付未来 10 年生活费的存款，未来五年想全力做自己的事业，就像《百万富翁快车道》的作者一样实现自动化的现金收益流。<br /><br />上半年我挣了多少钱？<br />总结下我的上半年独立开发营收情况，看一下纯靠市场，我能赚多少钱，能不能养活自己。<br />我的上半年总收入是 28377.01 元，平均合计每月 4729.5 元，主要收入分为产品订阅 + 产品分销 + 广告收入。<br />我的物欲很低，在一个东北的二线城市，平均在外面租房 + 吃饭 + 生活一个月可能只需要 2000 左右，还能剩个 2000-3000 元每月，这我已经很满足了，毕竟不用每天早晚通勤，忍受职场的压力，自己有对产品的决策权，每天上午可以出门晒晒太阳，下午可以泡杯茶躺在沙发躺平，锻炼下身体，养好心态。<br /><br />未来计划？<br />（ 1 ）短期计划：今年年初给自己定了个今年挣 10 万纯利润的 KPI ，下半年要更加努力了。希望可以完成。<br />（ 2 ）长期计划：大概率不会出去找工作了，现在越来越觉得人一天的时间和精力有限，未来可能想组建 2-4 人的小团队，放大我的能力，成为细分赛道的 top 玩家。<br /><br />很喜欢一句话，“不要拉朋友一起上路，应该在路上寻找朋友”，希望可以在路上找到同行者，共勉。",
+    "publish_time": "2024-06-30 08:34:42",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "心血来潮装了个 ArchLinux，现在不知道用来干嘛",
+    "url": "https://www.v2ex.com/t/1053651",
+    "summary": "poorcai: <p>手头上有一个闲置的 2018 年买的戴尔 xps13 9360 （内存才 8GB ，硬盘换了个 512 的固态），本来想在海鲜市场出了的（已经挂上了，结果一天后有个人都没问直接下单了，被我取消了），</p>\n<p>但是后来不知道怎么的，想装个 Linux 玩玩~</p>\n<p>由于是新手，就在本站搜了一下，看到一些大佬推荐 Arch ，就根据这个教程装好了（挺详细的）： <a href=\"https://arch.icekylin.online/guide/\" rel=\"nofollow\">https://arch.icekylin.online/guide/</a></p>\n<p>现在装好后不知道用来干啥了咋办？</p>\n<p>具体信息如下：</p>\n<pre><code class=\"language-bash\">                   -`                    eric@myarch \n                  .o+`                   -------- \n                 `ooo/                   OS: Arch Linux x86_64 \n                `+oooo:                  Host: XPS 13 9360 \n               `+oooooo:                 Kernel: 6.9.6-arch1-1 \n               -+oooooo+:                Uptime: 1 day, 18 hours, 40 mins \n             `/:-:++oooo+:               Packages: 876 (pacman) \n            `/++++/+++++++:              Shell: zsh 5.9 \n           `/++++++++++++++:             Resolution: 1920x1080 \n          `/+++ooooooooooooo/`           DE: Plasma 6.1.1 \n         ./ooosssso++osssssso+`          WM: kwin \n        .oossssso-````/ossssss+`         Theme: Breeze [GTK2/3] \n       -osssssso.      :ssssssso.        Icons: Tela-pink [GTK2/3] \n      :osssssss/        osssso+++.       Terminal: konsole \n     /ossssssss/        +ssssooo/-       CPU: Intel i5-8250U (8) @ 3.400GHz \n   `/ossssso+/:-        -:/+osssso+-     GPU: Intel UHD Graphics 620 \n  `+sso+:-`                 `.-/+oso:    Memory: 4033MiB / 7665MiB \n `++:.                           `-/+/\n .`                                 `/                           \n                                                                 \n</code></pre>",
+    "publish_time": "2024-06-30 10:19:34",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
