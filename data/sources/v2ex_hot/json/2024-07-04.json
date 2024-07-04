@@ -31,5 +31,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "2024 年了， 现在 REACT 的 CSS 的正确姿势是什么？",
+    "url": "https://www.v2ex.com/t/1054680",
+    "summary": "johnfrank: <p>楼主不是搞前端开发的，偶尔写过一些前端程序。最近要做个自用的小项目。</p>\n<p>3-4 年前写的 vue2 ，还是 class component ，在<code>.vue</code>里面写 sass ，然后手动判断给 div 加不同 class name 。</p>\n<p>最近看一些 react 都在用什么<code>css-in-js</code>，感觉很乱，没太看懂，怎么像 sass 一样 import 公用样式和使用其他 css Framework 的变量。</p>\n<p>所有请教下大家现在 react 下 css 都用什么？</p>\n<p>PS 。个人不是很喜欢<code>Tailwind CSS</code>这种。</p>",
+    "publish_time": "2024-07-04 05:40:19",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "我们市那边, 中考出成绩了,",
+    "url": "https://www.v2ex.com/t/1054734",
+    "summary": "ccOfd: 外甥女中考成绩出来了, 应该是能去县一中上了;<br /><br />现在就是想不起自己当年考了多少分, 回头找找看有渠道能查不;<br /><br />大家当年中考成绩都是多少 ?",
+    "publish_time": "2024-07-04 10:37:35",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "租住公寓的优缺点是什么",
+    "url": "https://www.v2ex.com/t/1054741",
+    "summary": "MRG0: 有没有正在住或者住过的<br /><br />租金低廉应该算是优点之一",
+    "publish_time": "2024-07-04 10:47:58",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
