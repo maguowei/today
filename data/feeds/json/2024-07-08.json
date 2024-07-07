@@ -1330,5 +1330,77 @@
       "desc": "知乎热榜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
     }
+  },
+  {
+    "title": "T1夺冠",
+    "url": "https://s.weibo.com/weibo?q=%23T1%E5%A4%BA%E5%86%A0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Faker亚索",
+    "url": "https://s.weibo.com/weibo?q=%23Faker%E4%BA%9A%E7%B4%A2%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "JackeyLove四杀",
+    "url": "https://s.weibo.com/weibo?q=%23JackeyLove%E5%9B%9B%E6%9D%80%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "经典第四把",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BB%8F%E5%85%B8%E7%AC%AC%E5%9B%9B%E6%8A%8A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "2024 EWC 电竞世界杯决赛 TES vs T1，如何评价这场比赛？",
+    "url": "https://www.zhihu.com/question/661003810",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何看待四年前湖南高考文科第7名的钟芳蓉，北大考古本科毕业后去敦煌研究院上班？",
+    "url": "https://www.zhihu.com/question/660853746",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么整个工业革命时代欧洲没有像明朝陆军那样大量普及线列炮兵？",
+    "url": "https://www.zhihu.com/question/657210796",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么现在人动不动怪罪原生家庭？",
+    "url": "https://www.zhihu.com/question/657416948",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
   }
 ]
