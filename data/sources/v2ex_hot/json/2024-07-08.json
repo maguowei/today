@@ -53,5 +53,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "[抽奖送码🎁]提醒英雄，把重要事项始终放在锁屏界面，彻底解决你的健忘症",
+    "url": "https://www.v2ex.com/t/1055571",
+    "summary": "whitecosm0s: <p><img alt=\"img\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/ZjtmXQ8.png\" /></p>\n<p>你有没有经常忘记一些生活琐事的情况？几周前我苦于经常忘记取快递，把衣服放在洗衣机里忘记拿出来，萌生了开发一个提醒 App 的想法。</p>\n<p>我认为生活琐事(取快递，买东西等等)属于 [重要但不紧急] 的类型，你可以在任何时间去做，但是不能忘记。把这些类事情一直放在锁屏界面，同时可以自由决定什么时候去完成，可能是最好的办法。不需要用 [持续提醒] 去干扰其它更重要的工作，只要每次打开手机就会注意到。</p>\n<p><strong>调研了一圈之后发现，滴答清单有一个把待办通过实时活动固定在屏幕上的功能，需要开通会员后才能使用，实时活动的实现方案有两个缺陷</strong></p>\n<ul>\n<li>实时活动有时间限制，在 8 小时后会被强制终止，系统通知没有时间限制</li>\n<li>实时活动有数量限制，最多可以同时存在 5 个，系统通知没有数量限制</li>\n</ul>\n<p><strong>提醒英雄利用定位权限执行后台任务(并不会实际用到或保存位置数据)，在创建提醒事项后，一直持续刷新到锁屏界面</strong></p>\n<ul>\n<li>即时通知默认会在一小时后被系统收回到通知中心，不再继续显示，提醒英雄通过后台任务把他们重新放回去。</li>\n<li>只有在任务完成后通知才会同步删除(重复或定期任务需要点击\"完成\")，在此之前，左滑删除或清空通知中心都是无效的，原理同上</li>\n<li>通知在被点击后默认会消失，提醒英雄会再次生成一个相同的通知，放回去，避免点击通知后忘记处理的情况。</li>\n</ul>\n<h2>目前支持的功能</h2>\n<p><strong>普通提醒（仅提醒一次，在完成前始终存在于锁屏）</strong></p>\n<ul>\n<li>相对于当前时间的提醒(例如 30 分钟后，1 小时后)</li>\n<li>在指定日期时间的提醒</li>\n</ul>\n<p><img alt=\"img\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/iX8qGVr.png\" /></p>\n<p><strong>重复提醒</strong></p>\n<ul>\n<li>短间隔，例如每隔 2 小时吃一次药</li>\n<li>长间隔，每隔 5 天或 10 天</li>\n<li>短间隔或长间隔都可以设置开始时间</li>\n</ul>\n<p><img alt=\"img\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/n6NNqk7.png\" /></p>\n<p><strong>定期提醒</strong></p>\n<ul>\n<li>设置每天，每周，每月几号触发的定期提醒，</li>\n<li>每周和每月定期都支持同时选择多个日期</li>\n</ul>\n<p><img alt=\"img\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/zyTeqtW.png\" /></p>\n<h2>下载地址</h2>\n<p><a href=\"https://apps.apple.com/cn/app/id6502558762\" rel=\"nofollow\">App Store</a></p>\n<p>或者在 App Store 中搜索 \"提醒英雄\"，外区请搜索 \"Notifyman\"</p>\n<h2>收费计划</h2>\n<p>基础提醒功能免费，持续提醒，检查清单，日历视图，日历同步等功能按年付费</p>\n<ul>\n<li>国区价格 18¥/每年</li>\n<li>外区价格 4.99$/每年</li>\n</ul>\n<h2>抽奖送码</h2>\n<p>评论中留下邮箱的用户（邮箱不会被重复计入），<strong>截止本周五抽取 20 个年度会员和 20 个永久会员</strong>，永久会员不对外销售</p>\n<h2>技术支持</h2>\n<p>提醒英雄是一个快速成长中的 App ，欢迎加群交流产品需求</p>\n<p><img alt=\"img\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/cfeUHLK.jpg\" /></p>",
+    "publish_time": "2024-07-08 10:50:10",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
