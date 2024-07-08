@@ -1,0 +1,13 @@
+[
+  {
+    "title": "在升级到 go1.21 与兼容 Win7 之间，你会如何选择？",
+    "url": "https://www.v2ex.com/t/1055524",
+    "summary": "LonnyWong: <h2>背景</h2>\n<ul>\n<li>\n<p>tssh 新增 --udp 功能 <a href=\"https://github.com/trzsz/tsshd\" rel=\"nofollow\">https://github.com/trzsz/tsshd</a> ，可以像 mosh 那样工作，基于 QUIC 和 KCP 协议，支持 ssh 端口转发、agent 转发和 X11 转发。这两个协议都升级到 go1.21 了，tssh 也被迫跟着升级。</p>\n</li>\n<li>\n<p>go1.21 不再支持 Win7 <a href=\"https://github.com/golang/go/issues/57003\" rel=\"nofollow\">https://github.com/golang/go/issues/57003</a> ，而 Win7 在国内的用户量还高达 22% <a href=\"https://gs.statcounter.com/windows-version-market-share/desktop/china\" rel=\"nofollow\">https://gs.statcounter.com/windows-version-market-share/desktop/china</a> ，也就是每 5 个 Windows 用户中，就有一个 Win7 用户。</p>\n</li>\n</ul>\n<h2>决策</h2>\n<ul>\n<li>\n<p>tssh 升级到 go1.21 是迟早的事，不能因为部分不升级的用户，而影响了其他愿意升级的用户。后来想到，可以在 release 时，通过 github action 将 QUIC 和 KCP 协议降到支持 go1.20 的版本，然后编译出能在 Win7 运行的专用版本，详见 <a href=\"https://github.com/trzsz/trzsz-ssh/blob/main/.github/workflows/publish.yml\" rel=\"nofollow\">https://github.com/trzsz/trzsz-ssh/blob/main/.github/workflows/publish.yml</a></p>\n</li>\n<li>\n<p>Win7 用户可以在 <a href=\"https://github.com/trzsz/trzsz-ssh/releases\" rel=\"nofollow\">https://github.com/trzsz/trzsz-ssh/releases</a> 下载带 win7 关键字的版本，在 Cygwin 、MSYS2 或 Git Bash 内使用。个人建议，别再用 Win7 了，尽早升级吧，新版本 Windows 更香和更安全。</p>\n</li>\n</ul>\n<h2>讨论</h2>\n<ul>\n<li>\n<p>你开发软件时，会紧跟当前最新的编译器版本吗？如 Go 。</p>\n</li>\n<li>\n<p>你开发的软件，会支持市场已放弃的旧系统吗？如 Win7 。</p>\n</li>\n</ul>",
+    "publish_time": "2024-07-08 08:25:30",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  }
+]
