@@ -655,5 +655,32 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "谁教檀健次工作室这么剪的",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%95%99%E6%AA%80%E5%81%A5%E6%AC%A1%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%BF%99%E4%B9%88%E5%89%AA%E7%9A%84%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "BOYNEXTDOOR拍的队友",
+    "url": "https://s.weibo.com/weibo?q=%23BOYNEXTDOOR%E6%8B%8D%E7%9A%84%E9%98%9F%E5%8F%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "汤唯素颜生图",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B1%A4%E5%94%AF%E7%B4%A0%E9%A2%9C%E7%94%9F%E5%9B%BE%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
