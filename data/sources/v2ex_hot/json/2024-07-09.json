@@ -20,5 +20,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "在 V2EX 摸鱼引出的密码学研究，论文终于出版了，感谢一下 @sillydaddy",
+    "url": "https://www.v2ex.com/t/1055809",
+    "summary": "geelaw: <p>起源是我 2022 年 2 月 19 日回顾 @sillydaddy 的帖子 <a href=\"https://www.v2ex.com/t/759538\" rel=\"nofollow\"><strong>gpg 加密文件：一份加密文件，可以被不同的密码解密</strong></a>，彼时刚刚研究过叛徒追踪问题，于是就结合了一下，想法大概是这样的：</p>\n<ul>\n<li>一种公钥加密算法，每个人生成自己的密钥对（去中心化）；</li>\n<li>加密的时候可以给任意一组人加密（使用这些人的公钥）；</li>\n<li>解密的时候那组人里面的任意一个都可以解密（使用任意一个人的私钥）；</li>\n<li><strong>如果某些人制造了程序 D 用来解密针对一组人 L 的密文，则可以找出 D 里蕴涵着 L 里哪个人的私钥（“叛徒追踪”），即使不能查看 D 的代码（比如 D 是一个网络 API ）。</strong></li>\n</ul>\n<p>想要解决的问题有三个：</p>\n<ol>\n<li>怎么定义这个玩意儿？</li>\n<li>怎么造这个玩意儿？</li>\n<li>能有多好的效率？</li>\n</ol>\n<p>这些基础问题在 7 月 15 日完整解决，不过论文出版的问题一直难产（读作：一直被拒稿），直到 2024 年 6 月 3 日才被 IACR 最近新推出的期刊 Communications in Cryptology （密码学通讯）接受，并在 7 月 8 日出版。</p>\n<p>本研究带来了我首篇单作者论文，并且得以实践一些我的新想法：</p>\n<h3>力求“思维透明”，以飨他人，论文的修订过程可以在 <a href=\"https://github.com/GeeLaw/ahbtr\" rel=\"nofollow\">GitHub 仓库 GeeLaw/ahbtr</a> 查看。</h3>\n<hr />\n<p>关于原帖比较有趣的 take-home message 是：</p>\n<h3>最朴素的实现也是最环保的实现。</h3>\n<p>虽然运用密码学技巧，可以让密文比收件人列表还要短，但每个收件人解密都要付出额外的代价，总能耗（在渐近意义下）相比朴素算法会增加——而且这并不是因为人类很笨（不知道怎么做得更好），而是可以（无条件）证明安全的加密算法必然有此性质（不可能做得更好）。</p>\n<hr />\n<p>那么，最后再向 @<a href=\"https://www.v2ex.com/member/sillydaddy\">sillydaddy</a> 说一声谢谢！</p>",
+    "publish_time": "2024-07-09 08:36:40",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "究竟是哪个天才想出来的降本增效就是集体降薪？",
+    "url": "https://www.v2ex.com/t/1055832",
+    "summary": "dejavuwind: 难道公司业务产出停滞通过降低大家的收入就能促进产出提升了？难道逼大家卷工时，卷绩效，就能让公司利润提升？<br /><br />有没有可能只是业务发展到了上限，市场本身的发展规模进入瓶颈，这时候再加更多的人力投入也只是边际效用极低的一种做法？<br /><br />缩编的话我还能稍稍理解，当然如何缩、以及怎么处理释放出来的这部分人力那这是另一个问题了。<br /><br />——有感于各种降本增效政策。",
+    "publish_time": "2024-07-09 09:51:36",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "有没有值得推荐的洗发水",
+    "url": "https://www.v2ex.com/t/1055883",
+    "summary": "laters: <p>有没有值得推荐洗发水，去屑 控油 柔顺</p>",
+    "publish_time": "2024-07-09 11:07:02",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
