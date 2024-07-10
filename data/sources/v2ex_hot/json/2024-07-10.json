@@ -1,0 +1,46 @@
+[
+  {
+    "title": "一个反常识： 在 Chrome 浏览器里如何拿到用户最真实的 CPU 和其他硬件信息（不走 UA",
+    "url": "https://www.v2ex.com/t/1056113",
+    "summary": "RiverRay: <p>前端老鸟都知道一个常识</p>\n<p>谷歌浏览器里面是拿不到真实 CPU 和硬件信息的</p>\n<p>（：UA 那个很容易伪造好吧</p>\n<p>今天再给你一个反常识：</p>\n<p>其实，Chromium 内置了一个系统级插件。</p>\n<p>这个插件允许 *.google.com 网站获取宿主机 CPU 信息</p>\n<p>去 Chromium 源码里找找，发现插件 ID 是：nkeimhogjdpnpccoofpliimaahmaaome 。</p>\n<p>而且，这个插件还能对外通信</p>\n<p>so ，骚操作来了</p>\n<p>我们可以随便打开一个 Google 的网站在 console 里面输入：</p>\n<pre><code>chrome.runtime.sendMessage('nkeimhogjdpnpccoofpliimaahmaaome',\n{method: 'cpu.getInfo'},\nresponse =&gt; console.table(response));\n</code></pre>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/s8z3w0B.png\" />\nCPU 、进程还有负载 一五一十的就有了</p>\n<p>看源代码，这个内置插件里面还暴露了不少其他方法，可以自己探索玩玩</p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/PKMFgY2.png\" /></p>\n<p>说人话：</p>\n<p>如果你做的是浏览器扩展，完全可以获取到宿主机的 CPU 还有其他硬件信息的</p>\n<p>哈哈哈哈哈</p>",
+    "publish_time": "2024-07-10 08:49:32",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "现在能买什么油吃？",
+    "url": "https://www.v2ex.com/t/1056137",
+    "summary": "xlzyxxn: <p>最近罐车混拉的新闻，之前就被曝光过</p>\n<img alt=\"https://imgur.com/a/jja2Qw8\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://imgur.com/a/jja2Qw8\" />\n<p>看了这个视频<a href=\"https://www.bilibili.com/video/BV1nS411w7Bh\" rel=\"nofollow\">https://www.bilibili.com/video/BV1nS411w7Bh</a>感觉应该是全国都流转了。。。</p>\n<p>现在还有啥品牌的油能买？</p>",
+    "publish_time": "2024-07-10 09:59:07",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "中国食用油的食品安全问题和信任危机",
+    "url": "https://www.v2ex.com/t/1056140",
+    "summary": "qsnow6: <p><a href=\"https://www.bjnews.com.cn/detail/1719878490168127.html\" rel=\"nofollow\">罐车运输乱象调查：卸完煤制油直接装运食用大豆油</a></p>\n<p>延伸话题：<a href=\"https://www.v2ex.com/t/946940\" rel=\"nofollow\">中国鳗鱼的食品安全问题和信任危机 - V2EX</a></p>",
+    "publish_time": "2024-07-10 10:06:03",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "发达国家和非发达国家的差距",
+    "url": "https://www.v2ex.com/t/1056172",
+    "summary": "angeni: <p>我感觉是文明程度\n不是科技发展程度</p>",
+    "publish_time": "2024-07-10 11:20:13",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  }
+]
