@@ -1,0 +1,35 @@
+[
+  {
+    "title": "煤油罐车事件后，选择哪家的食用油相对有保障？",
+    "url": "https://www.v2ex.com/t/1056439",
+    "summary": "DanShu: <p>这玩意儿家家户户都在用，怎么敢这么搞的？都是主流品牌，他们自己不吃吗？</p>",
+    "publish_time": "2024-07-11 09:19:45",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "北京的医院真操蛋",
+    "url": "https://www.v2ex.com/t/1056474",
+    "summary": "hanierming: <p>现在很多医院都不主动给病历了，但是保险报销又要病历。</p>\n<p>你要是去补开病历吧，又得找原来的医生，那你怎么知道原来的医生什么时候在呢？又说服务台能打印，结果还只能工作日打印，好嘛，打工人就不配了呗？</p>\n<p>怎么病历的数据就这么保密吗？主动给消费者能怎么着？</p>\n<p>你要是为了省打印的钱，你倒是出个电子病历啊？</p>",
+    "publish_time": "2024-07-11 10:34:08",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "大家都是草台班子😂，我干了这么多年开发，能把跨域问题说清楚的人也没几个😅",
+    "url": "https://www.v2ex.com/t/1056504",
+    "summary": "shadowyue: 跨域只会出现在浏览器环境中！<br />跨域只会出现在浏览器环境中！<br />跨域只会出现在浏览器环境中！<br />重要的事情说三遍。<br />我知道为啥很多后端开发很疑惑为啥有这种问题，因为纯服务端之间应该没有这个概念。<br /><br />首先解释清楚什么情况下，会被认定成跨域：<br />页面地址的域名是 A ，但是接口请求的地址是 B 。这就是跨域，跨越了不同的域(名)想要去请求资源。<br /><br />在浏览器中会发生的现象：<br />浏览器会阻止给和页面地址不同的域名发请求。<br />这跟语言无关，这就是一个在浏览器环境下的安全策略。<br /><br />怎么办:<br />请把你的页面域名加入白名单。使用响应头 Access-Control-Allow-Origin 来处理。<br /><a href=\"https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Access-Control-Allow-Origin\" rel=\"nofollow noopener\" target=\"_blank\">https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Access-Control-Allow-Origin</a><br />或者使用 nginx ，前端请求的接口还是用网页的域名，但是用 ngxin 转发到服务端的地址去。<br /><br />拓展：<br />其实后端的响应头是能帮助前端做不少事情的。<br />比如 Access-Control-Allow-Methods 这个头，能约定接口只能发 post,还是 get<br />比如 Access-Control-Allow-Headers,后端通常会返回很多响应头字段，<br />但是在浏览器环境下，为了安全，浏览器只允许 js 访问固定的几个响应头。<br />如果想让前端访问其它的响应头字段，就可以通过 Allow-Headers 进行配置。<br /><br />比如如果你想让前端做一个下载进度条，正确的返回 Content-Length ，前端就能计算下载进度。<br /><br />比如 Content-Disposition ，只要你声明本次请求是一个附件并正确的有文件名称，<br />就能自动触发浏览器的文件下载，不需要前端在额外做任何事情。<br /><br />疑问 1：为啥开发环境都没事啊？<br />类似这个帖子的疑问： <a href=\"https://www.v2ex.com/t/1056317\" rel=\"nofollow noopener\" target=\"_blank\">https://www.v2ex.com/t/1056317</a><br />开发的时候前端本地页面地址是 localhost ，接口地址肯定是其他的，为啥不跨域？<br />因为现在前端项目，开发用的脚手架通常会在本地用 node.js 启动一个 http 服务，<br />本来发给 B 域名的请求，会被代码改写成请求到 localhost(或者 127.0.0.1)的 http 服务去，<br />然后通过 node.js 的转发进行真正的接口调用。<br />正如我上面说的，跨域只会存在于浏览器环境，node.js 可以给任何域名发 http 请求。<br /><br />我认为这是现在的前端脚手架提供的一个极其糟糕的功能。<br />它把跨域这个完全由后端处理的问题默默的在开发环境处理掉了，并且还附加了接口地址改写的各种功能<br />导致前后端都稀里糊涂的。跨域问题就应该在开发环境处理掉。<br /><br />疑问 2：<br />既然开发环境前端都可以自行处理跨域，那我打包部署的时候部署一样应该可以啊？<br />类似这个帖子的疑问： <a href=\"https://www.v2ex.com/t/1056317\" rel=\"nofollow noopener\" target=\"_blank\">https://www.v2ex.com/t/1056317</a><br />因为普通的前端构建打包后，只有前端的代码。不会包含任何 node.js 的代码。<br />现在的前端项目就是真真正正的一堆静态资源。不像以前的 jsp 需要服务器跑。<br />只需要一个 ngxin 来提供静态文件访问的能力就行。<br /><br />疑问 3：不对啊，我在自己网站可以随便链接好多别的域名的涩图，不也跨域了？<br />对图片这种资源限制没那么严格，其它类型资源也有这个问题。<br />现在是可以通过 CSP 策略来告诉浏览器，我只能从什么域名加载什么样的资源。<br /><a href=\"https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy\" rel=\"nofollow noopener\" target=\"_blank\">https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy</a><br /><br />疑问 4：为啥我见过浏览器发 option 请求？<br />正如上面说的，这是浏览器的安全策略。但是有一个问题，如果浏览器从来就没请求过 B 域名，<br />它怎么知道页面当前域名在不在 B 域名的白名单中呢？<br />所以就有 option 请求，一个不带任何数据的请求，就是问一下 B 域名的服务器，你给我了啥权限。<br /><br /><br />个人结尾来点感想:<br />我不是嘲讽说谁谁菜不懂这个技术点，我干了这么久开发，深知每个人都有自己的局限性。<br />比如我上面的解释就是我当前的理解，如果有错误那就是我的局限性。<br />看了我上面解释的一大堆，猜到我本职是后端开发还是前端开发了吗？<br />如果我上面有任何错误欢迎指正批评。<br />我知道 V2EX 这里经常嘲讽前端是娱乐圈，但是前端开发作为客户端开发的一个分支，<br />在加上由于 electron 这个牛逼项目的普及，大家使用的客户端软件，事实上很多都已经是用前端页面来做了。<br />比如 vscode 就是。包括各种小程序等等，本质都是 web 端的扩展。<br />只要有技术力还是能做出很棒的软件的。（我之前听说马斯克的很多项目 UI 层都是 electron ，上太空都行）",
+    "publish_time": "2024-07-11 11:11:52",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  }
+]
