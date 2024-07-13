@@ -20,5 +20,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "怎么把服务器年包出去",
+    "url": "https://www.v2ex.com/t/1056984",
+    "summary": "sotiery996006: <p>公司有两台闲置服务器，通过什么渠道可以年包出去，挣点外快</p>",
+    "publish_time": "2024-07-13 09:53:24",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "现在极其厌恶弱类型语言，弱类型就不适合中国的职场环境",
+    "url": "https://www.v2ex.com/t/1056990",
+    "summary": "willx12123: <p>别的团队交接过来一个十几万行的 Python 项目，要重构成 Java ，我真的吐了，一点文档也没有。</p>\n<p>Python 里面大量的访问各种 RPC 接口，关键是特别喜欢自己转换 rpc 返回的结构，还非要用字典去自定义结构!</p>\n<p>现在好了，到处都是字典 + 字符串取值，这个字符串 key 还是尼玛自己定义的，和 idl 都对不上，得自己去代码里面到处翻找，看看到底是哪个接口返回的。</p>\n<p>最离谱的是命名还会骗人，弱类型就算了，好歹命名漂亮点吧。<code>\"xxx_list\"</code> 是个字符串我真的服了，甚至就连 <code>\"user\"</code> 也能是个字符串……</p>\n<hr />\n<p>现在国内的现状就是领导疯狂催，程序员疲于奔命，谁天天给你写文档，代码迭代几次连自己都不认得了，还搞弱类型，万一熟悉项目的人走了后面的人根本没办法看，都都读不懂。再加上英语水平有限，命名真的是一塌糊涂，更加重了理解问题。</p>",
+    "publish_time": "2024-07-13 11:05:32",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
