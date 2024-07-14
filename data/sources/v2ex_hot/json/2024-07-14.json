@@ -20,5 +20,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "论添加一行代码需要付出多少努力",
+    "url": "https://www.v2ex.com/t/1057143",
+    "summary": "roundRobin: <p>需求是需要在某一行计算费用总和的代码中除去某一项费用，就是类似加一行</p>\n<p><code>totalfee -= excluded_fee</code></p>\n<p>这个需求是公司的税务部门提出的，说这个费用必须免除。PM ，TPM ，SDM 们经过一周的开会后确定必须免除，于是让我开始写 LLD 和 LoE 。</p>\n<p>然后我花了一天研究这个<code>excluded_fee</code>的是否在任何情况下都等于要求免除的费用，免除的费用是否能够同步到所有的数据库，中间是否存在数据不同步所导致的错误计算的可能。LLD 和 LoE 写好后开始分别找：</p>\n<ol>\n<li>这个 calculator 的 up stream</li>\n<li>这项费用的 down stream</li>\n<li>这个 total fee 的 down stream</li>\n<li>公司会计部门</li>\n<li>公司的会计工程部门（会计相关的 service 开发）</li>\n<li>公司税务部门</li>\n<li>公司的税务工程部门（税务相关的 service 开发）</li>\n<li>组内的 stake holder 们</li>\n</ol>\n<p>在两周的时间里，开了无数会，写了无数个 meeting notes ，deployment plan 也因为 prime day 改了无数次，最终才得到所有的 approval 。</p>\n<p>昨天一边吃止痛药一边花了一个小时的时间完成了代码修改和测试，接下来，这个 CR 需要再让他们 approva 一遍，才能部署。</p>\n<p>这个漫长的过程，到底体现了流程的严谨，还是有太多的冗余步骤呢，过程中自己好像变成了 TPM ，跟各个部门扯皮较劲，心累不已。</p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/kRjyncu.jpeg\" /></p>",
+    "publish_time": "2024-07-14 08:35:08",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "上海移动 6 月开始全面撤回超级密码，不再支持桥接",
+    "url": "https://www.v2ex.com/t/1057150",
+    "summary": "ppiop: <p>本来想把手头的电信宽带换移动一年省两千，结果过来跟我说移动不支持桥接，找谁都没用。这是不是之前跟论坛联通宽带安全事件有关</p>",
+    "publish_time": "2024-07-14 10:15:15",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "有什么办法解决 youtube 不允许使用广告拦截器弹窗的问题？",
+    "url": "https://www.v2ex.com/t/1057159",
+    "summary": "poporange: 这两天打开 youtube 看视频，就会被提示这个弹窗，请问各位大佬有什么好的办法来解决它么？",
+    "publish_time": "2024-07-14 11:02:15",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
