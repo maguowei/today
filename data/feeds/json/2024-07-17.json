@@ -1393,5 +1393,23 @@
       "desc": "知乎热榜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
     }
+  },
+  {
+    "title": "与众不同的发布会",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8E%E4%BC%97%E4%B8%8D%E5%90%8C%E7%9A%84%E5%8F%91%E5%B8%83%E4%BC%9A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "有哪些适合人生大事的现实语录，让人醍醐灌顶的 ？",
+    "url": "https://www.zhihu.com/question/661001675",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
   }
 ]
