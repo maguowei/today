@@ -53,5 +53,49 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "听到微信视频的铃声响起的时候，你会感觉到不适吗？",
+    "url": "https://www.v2ex.com/t/1057890",
+    "summary": "y99c11: <p>现在只要听到微信语音或者视频的提示铃声，我就感到不舒服，很多时候会挂断，然后选择回复消息，文字和语音都可以，甚至宁愿打电话过去，都不想听到微信视频或者语音通话的提示铃声。</p>\n<p>大家有类似的感受吗？</p>",
+    "publish_time": "2024-07-17 09:20:35",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "公积金从 12%调整成了 7%",
+    "url": "https://www.v2ex.com/t/1057928",
+    "summary": "huhailong1121: <p>7 月份了，公司把原先的公积金比例从 12%调整成了 7%，以前还房贷基本不用动到手的工资，现在这样得用部分的工资了，又让我想跑路了……</p>",
+    "publish_time": "2024-07-17 10:30:34",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "被 go 语言的 json.Marshal 恶心到了",
+    "url": "https://www.v2ex.com/t/1057942",
+    "summary": "qW7bo2FbzbC0: <blockquote>\n<p>我的需求是，输入 sql ，返回序列化后的 json 结果。</p>\n</blockquote>\n<p>在 python 中，官方库就可以返回<code>[{'col1': 1, 'col2': '2', 'col3': true}....]</code> 这种带类型的 json 结果。</p>\n<p>在 go 中如果已知 sql 返回的列数和列类型，也可以构造一个 struct 进行数据映射,然后用<code>json.Marshal</code>转为 json 。</p>\n<p>如果 sql 返回的列数和行类型未知，就很难受了，在 go/mysql 的<a href=\"https://github.com/go-sql-driver/mysql/wiki/Examples\" rel=\"nofollow\">官方 wiki 案例</a> 中对于匿名的结果，使用了 interface 或者 sql.RawBytes ，但这两种替代方式在<code>json.Marshal</code>后都变成了 base64 encode 后的 string ，既丢失了类型也变异了结果( <a href=\"https://stackoverflow.com/questions/32501784/the-sqlx-library-gives-weird-base64-encoded-looking-results\" rel=\"nofollow\">https://stackoverflow.com/questions/32501784/the-sqlx-library-gives-weird-base64-encoded-looking-results</a>)</p>\n<p>请问各位在实际业务中遇到这个问题是怎么处理的？</p>\n<ul>\n<li><a href=\"https://stackoverflow.com/questions/14177862/how-to-marshal-a-byte-uint8-array-as-json-array-in-go/78662958#78662958\" rel=\"nofollow\">https://stackoverflow.com/questions/14177862/how-to-marshal-a-byte-uint8-array-as-json-array-in-go/78662958#78662958</a></li>\n<li><a href=\"https://stackoverflow.com/questions/34089750/marshal-byte-to-json-giving-a-strange-string\" rel=\"nofollow\">https://stackoverflow.com/questions/34089750/marshal-byte-to-json-giving-a-strange-string</a></li>\n</ul>\n<p>在其他语言中很自然的 object 序列化为原类型，在 go 的 json.Marshal 中怎么就全变成 string 了</p>",
+    "publish_time": "2024-07-17 10:49:45",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "各位 v 友在用什么手机浏览器，求推荐",
+    "url": "https://www.v2ex.com/t/1057979",
+    "summary": "star505: 我目前在用 via ，这是一个相对比较完美的手机浏览器，我喜欢它的自定义程度高，但我也发现它有两个缺点：<br /><br />一、没有账号登录记忆，很快就需要重新输入账号和密码<br /><br />二、via 浏览器是国产浏览器，可在 设置-关于 里面可以找到它的备案号：泸 ICP 备 2022019616 号-3A ，不知会不会记录我的搜索历史/使用日志，这是关于安全性的担忧<br /><br />各位 v 友在用什么浏览器呢，想参考一下，谢谢！",
+    "publish_time": "2024-07-17 12:06:52",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
