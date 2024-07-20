@@ -1,0 +1,24 @@
+[
+  {
+    "title": "继腾讯之后阿里云也要对公共 DNS 限速了",
+    "url": "https://www.v2ex.com/t/1058732",
+    "summary": "NIIIIIIIIIICE: <p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.imgur.com/SpKb5rf.png\" /> </p>\n<p>涉及产品</p>\n<p>公共 DNS 是面向所有互联网用户的全球公共递归域名解析服务，本次限速仅影响公共 DNS 免费版。</p>\n<p>影响用户</p>\n<p>接入公共 DNS 免费版的用户，包括 DoH 、DoT 和 UDP 、TCP 的接入方式。</p>\n<p>生效时间</p>\n<p>2024 年 9 月 30 日 24 时起</p>\n<p>通知内容</p>\n<p>由于产品升级，从 2024 年 9 月 30 日起，公共 DNS 将对免费的解析请求采取智能流量管控措施。公共 DNS 仍会致力于为广大免费用户提供高质量的基础递归解析服务，但在高并发解析场景，将对公共 DNS 免费流量按请求源 IP 进行请求并发数限制。该请求并发量上限并非固定阈值，具体限速值将根据网络负载状况和公共 DNS 的整体服务质量适时调整，以保证公共 DNS 整体服务的稳定性和使用体验。</p>\n<p>公共 DNS 免费版的适用范围</p>\n<p>免费版服务适用于个人终端低并发使用，如流量过高（即 DoH/DoT：单 IP 访问量超过 20QPS ，UDP/TCP 流量超过 2000bps ）将会触发限速策略。个人用户也可以接入付费版服务，付费版产品每月提供 1000 万次的免费 HTTP 解析流量资源包，可基本满足个人使用场景。</p>",
+    "publish_time": "2024-07-20 01:44:36",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "去香港旅行有什么值得体验/购买的东西吗",
+    "url": "https://www.v2ex.com/t/1058746",
+    "summary": "dufldylan1: <p>明天要去香港一周，大佬们有什么推荐的 美食/数码/服装/......的店推荐吗？</p>\n<p>本人土老帽一个，就五年前去过一次港澳算出过境</p>",
+    "publish_time": "2024-07-20 09:38:53",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  }
+]
