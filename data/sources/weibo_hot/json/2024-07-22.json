@@ -718,5 +718,14 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "张信哲演唱会",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BF%A1%E5%93%B2%E6%BC%94%E5%94%B1%E4%BC%9A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
