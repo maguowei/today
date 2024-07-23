@@ -1141,5 +1141,41 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "这个冰粉摊没有吆喝却生意火爆",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E5%86%B0%E7%B2%89%E6%91%8A%E6%B2%A1%E6%9C%89%E5%90%86%E5%96%9D%E5%8D%B4%E7%94%9F%E6%84%8F%E7%81%AB%E7%88%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "赵丽颖身穿第60套高定",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%BA%AB%E7%A9%BF%E7%AC%AC60%E5%A5%97%E9%AB%98%E5%AE%9A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "热得发烫的车座对身体有危害吗",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%83%AD%E5%BE%97%E5%8F%91%E7%83%AB%E7%9A%84%E8%BD%A6%E5%BA%A7%E5%AF%B9%E8%BA%AB%E4%BD%93%E6%9C%89%E5%8D%B1%E5%AE%B3%E5%90%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "皇马在英超能进前四吗？",
+    "url": "https://www.zhihu.com/question/661739743",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
   }
 ]
