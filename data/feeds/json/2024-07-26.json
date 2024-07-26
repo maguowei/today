@@ -2590,5 +2590,324 @@
       "desc": "知乎热榜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
     }
+  },
+  {
+    "title": "习近平和厦航的故事",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%92%8C%E5%8E%A6%E8%88%AA%E7%9A%84%E6%95%85%E4%BA%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "官方通报古茗奶茶中疑有血痰",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%8F%A4%E8%8C%97%E5%A5%B6%E8%8C%B6%E4%B8%AD%E7%96%91%E6%9C%89%E8%A1%80%E7%97%B0%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "刘宇自曝巡演售罄依旧亏本",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E8%87%AA%E6%9B%9D%E5%B7%A1%E6%BC%94%E5%94%AE%E7%BD%84%E4%BE%9D%E6%97%A7%E4%BA%8F%E6%9C%AC%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "电影解密全员解谜排行赛",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E8%A7%A3%E5%AF%86%E5%85%A8%E5%91%98%E8%A7%A3%E8%B0%9C%E6%8E%92%E8%A1%8C%E8%B5%9B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "汪顺 追我的人排到了法国",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B1%AA%E9%A1%BA+%E8%BF%BD%E6%88%91%E7%9A%84%E4%BA%BA%E6%8E%92%E5%88%B0%E4%BA%86%E6%B3%95%E5%9B%BD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "不办卡不囤课穷鬼健身火了",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%8A%9E%E5%8D%A1%E4%B8%8D%E5%9B%A4%E8%AF%BE%E7%A9%B7%E9%AC%BC%E5%81%A5%E8%BA%AB%E7%81%AB%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "第一次看到这样的央视广告",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%9C%8B%E5%88%B0%E8%BF%99%E6%A0%B7%E7%9A%84%E5%A4%AE%E8%A7%86%E5%B9%BF%E5%91%8A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "广西大爷靠姆巴佩卖红薯走红",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E5%A4%A7%E7%88%B7%E9%9D%A0%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%8D%96%E7%BA%A2%E8%96%AF%E8%B5%B0%E7%BA%A2%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "奶茶袋治好了年轻人的包包焦虑吗",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B6%E8%8C%B6%E8%A2%8B%E6%B2%BB%E5%A5%BD%E4%BA%86%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E5%8C%85%E5%8C%85%E7%84%A6%E8%99%91%E5%90%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "披荆斩棘的哥哥",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9A%84%E5%93%A5%E5%93%A5%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "肖战法国第七章vlog",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%B3%95%E5%9B%BD%E7%AC%AC%E4%B8%83%E7%AB%A0vlog%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "大二女生卧室被父母安装摄像头",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%BA%8C%E5%A5%B3%E7%94%9F%E5%8D%A7%E5%AE%A4%E8%A2%AB%E7%88%B6%E6%AF%8D%E5%AE%89%E8%A3%85%E6%91%84%E5%83%8F%E5%A4%B4%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "汪顺巴黎奥运首支vlog",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B1%AA%E9%A1%BA%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E9%A6%96%E6%94%AFvlog%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "京东校招将提供16000个岗位",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C%E6%A0%A1%E6%8B%9B%E5%B0%86%E6%8F%90%E4%BE%9B16000%E4%B8%AA%E5%B2%97%E4%BD%8D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "唐诡西行中暑剧",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%94%90%E8%AF%A1%E8%A5%BF%E8%A1%8C%E4%B8%AD%E6%9A%91%E5%89%A7%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "出版社回应高校教师出版不雅诗集",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%87%BA%E7%89%88%E7%A4%BE%E5%9B%9E%E5%BA%94%E9%AB%98%E6%A0%A1%E6%95%99%E5%B8%88%E5%87%BA%E7%89%88%E4%B8%8D%E9%9B%85%E8%AF%97%E9%9B%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "汪苏泷第二轮唱流沙",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E7%AC%AC%E4%BA%8C%E8%BD%AE%E5%94%B1%E6%B5%81%E6%B2%99%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "刘诗诗V中文版奥运封",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97V%E4%B8%AD%E6%96%87%E7%89%88%E5%A5%A5%E8%BF%90%E5%B0%81%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "异人之下特效",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%82%E4%BA%BA%E4%B9%8B%E4%B8%8B%E7%89%B9%E6%95%88%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "巴赫说中国AI把奥运带到新高度",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%B5%AB%E8%AF%B4%E4%B8%AD%E5%9B%BDAI%E6%8A%8A%E5%A5%A5%E8%BF%90%E5%B8%A6%E5%88%B0%E6%96%B0%E9%AB%98%E5%BA%A6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "中餐厅全员征集奥运菜菜名",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E9%A4%90%E5%8E%85%E5%85%A8%E5%91%98%E5%BE%81%E9%9B%86%E5%A5%A5%E8%BF%90%E8%8F%9C%E8%8F%9C%E5%90%8D%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "女子穿吊带被老人当街指责没家教",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A9%BF%E5%90%8A%E5%B8%A6%E8%A2%AB%E8%80%81%E4%BA%BA%E5%BD%93%E8%A1%97%E6%8C%87%E8%B4%A3%E6%B2%A1%E5%AE%B6%E6%95%99%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "中国跳水队终于有娘家人撑腰了",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B7%B3%E6%B0%B4%E9%98%9F%E7%BB%88%E4%BA%8E%E6%9C%89%E5%A8%98%E5%AE%B6%E4%BA%BA%E6%92%91%E8%85%B0%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "KPL梦之队全员换头像",
+    "url": "https://s.weibo.com/weibo?q=%23KPL%E6%A2%A6%E4%B9%8B%E9%98%9F%E5%85%A8%E5%91%98%E6%8D%A2%E5%A4%B4%E5%83%8F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "程序员为什么不能一次性写好，需要一直改Bug？",
+    "url": "https://www.zhihu.com/question/629534956",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "近几个月特斯拉 Model Y 销量仍然领先，它的优势在哪？其产品实力表现到底如何？",
+    "url": "https://www.zhihu.com/question/655715532",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何看待deepmind AlphaProof获得2024国际数学奥林匹克竞赛银牌？",
+    "url": "https://www.zhihu.com/question/662586636",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "银行房贷返点抢客再现，办 100 多万元贷款送 5 克金条，业内认为不利于银行长期运营，如何看待此事？",
+    "url": "https://www.zhihu.com/question/662614511",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价《绝区零》1.0下半新角色朱鸢卡池流水表现？",
+    "url": "https://www.zhihu.com/question/662531306",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "你知道古人夏天都穿什么吗，会不会和我们一样开放？",
+    "url": "https://www.zhihu.com/question/661225585",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何看待乌市 101 中学女教练连扇小球员 9 个耳光？体罚小球员将对其产生哪些影响？",
+    "url": "https://www.zhihu.com/question/662590916",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "当中世纪的领主离开他的领地的时候，他的领地由谁来管理？",
+    "url": "https://www.zhihu.com/question/662391141",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "大家有什么真实好看的天空照片吗？",
+    "url": "https://www.zhihu.com/question/662450134",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何和老板谈涨薪",
+    "url": "https://www.v2ex.com/t/1060166",
+    "summary": "xxxteddy: 求各位前辈指点迷津<br /><br />在下 25 岁女生 入职 8 个月了 2 年前端开发 成都一个小公司入职工资 5500 ，有五险不给买公积金…<br /><br />能力的话自我认知中级 因为目前公司就我一个前端 项目都是独立完成的 不过都是 vue 学的 没怎么用原生 js<br /><br />公司情况是忙的时候忙死 闲的时候闲死….<br /><br />目前觉得工资实在太低，想和老板谈涨薪，但是不知能谈什么价比较合理…面试说的三个月一次调薪但是我还没谈过…就一直这样了，目前工作比较轻松如果能谈上去就不是很想跳槽😭<br /><br />直接要求 50%涨薪会不会有点太快了不合理😫",
+    "publish_time": "2024-07-26 01:27:14",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "大学不能用高功率电器 怎么做饭",
+    "url": "https://www.v2ex.com/t/1060192",
+    "summary": "Michae1Jacks0n: <p>集思广益😂</p>",
+    "publish_time": "2024-07-26 09:14:31",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
