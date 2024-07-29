@@ -1537,5 +1537,14 @@
       "desc": "知乎热榜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
     }
+  },
+  {
+    "title": "许昕的神仙队友发金喜",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%98%95%E7%9A%84%E7%A5%9E%E4%BB%99%E9%98%9F%E5%8F%8B%E5%8F%91%E9%87%91%E5%96%9C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
