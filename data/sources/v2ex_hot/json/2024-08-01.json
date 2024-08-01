@@ -42,5 +42,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "过来人，有什么要给《软件工程》专业的大一新生的建议",
+    "url": "https://www.v2ex.com/t/1061621",
+    "summary": "tangtang11: <p>侄女文科二本，本来志愿考虑的是法学，结果调剂到了软件工程，总共有四个方向\n1 、Web 开发方向\n2 、嵌入式开发方向\n3 、AI 工程师方向\n4 、移动互联网方向</p>\n<p>目前还不知道具体是那个方向的软件工程</p>\n<p>请教下大佬们，哪个方向会好点</p>\n<p>在大学需要做什么，有什么要对她说的，正经的建议我会转发她。感谢感谢</p>",
+    "publish_time": "2024-08-01 08:53:06",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "转投 Firefox 浏览器体验不佳，浏览器还有得选吗？",
+    "url": "https://www.v2ex.com/t/1061646",
+    "summary": "laooong: 个人经历：<br />一开始用的是 Chrome ，但考虑到自己不能保证每时每刻所有设备都直通全球；<br />之后就换成 Edge （ chromium ），但恶心人的花活越来越多，不知道魔改了哪里导致我用的拓展有些会功能缺失；<br />这两天换成了 Firefox 。<br />换了之后，可以说很满意，有耳目一新的感觉，但是我很快就发现有个比较膈应人的问题：<br />网页的动画掉帧太严重了，例如这个网页： <a href=\"https://www.asus.com/tw/mobile-handhelds/phones/zenfone/zenfone-10/\" rel=\"nofollow noopener\" target=\"_blank\">https://www.asus.com/tw/mobile-handhelds/phones/zenfone/zenfone-10/</a><br />用 Chrome 、Edge 、Firefox 、Firefox ESR 试过了，Firefox 掉帧太严重了。<br />同样的还有知乎的私信界面，点进某一条私信会弹出聊天窗口，然后页面其他区域会渐渐变黑，这个效果同样的掉帧严重。<br />我的设备是 Windows 11, 10105F ，6600xt ，算不上好但也没差到哪里去吧。<br />这种情况是不是无解了。<br />现在就很纠结，自己有在用不少停更许久的拓展，但基于 chromium 的浏览器应该都会取消对 Manifest v2 的支持，另外自己会改一些开源的拓展自己用，这些浏览器对本地安装的拓展还会反复弹烦人的提示。<br />Firefox 浅浅的体验中，感觉哪里都好，但就是作为一个浏览器，在浏览网页方面有问题。",
+    "publish_time": "2024-08-01 10:00:22",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "等保人员说 80 为高危端口,要求关闭 80 端口,说都是 https 用 443 就好,合理吗",
+    "url": "https://www.v2ex.com/t/1061657",
+    "summary": "logan66: <p>第一次从等保人员口中听说 80 是高危端口;\n我的理解是用户浏览器直接输入 网址浏览器默认是 http://;\n普通用户不会 https://[网址] 这么输入的;</p>",
+    "publish_time": "2024-08-01 10:36:04",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
