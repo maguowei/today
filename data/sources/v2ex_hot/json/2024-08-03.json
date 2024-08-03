@@ -1,0 +1,35 @@
+[
+  {
+    "title": "求一款价格在 500 以内，好用的电动剃须刀",
+    "url": "https://www.v2ex.com/t/1062166",
+    "summary": "AndyJMR: 之前买的飞科电动剃须刀，用了 4 ，5 年了，电量不足，想换一款。<br /><br />我胡须不是很多，不是络腮胡，两天刮一次。<br /><br />v 友们用过哪些好用不贵的电动剃须刀，求推荐！",
+    "publish_time": "2024-08-03 08:20:33",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "写了一个戒断社交媒体（也能戒色）的浏览器插件",
+    "url": "https://www.v2ex.com/t/1062167",
+    "summary": "djyde: <p>在日常电脑工作时，我们常常会不自觉地打开社交媒体网站、娱乐网站等让我们分心的网站，然后忘记了我们手头上真正重要的正事。又或者你正在试图减少使用社交媒体的时间，但又无法抗拒诱惑。</p>\n<p>所以我写了个浏览器插件 —— 「等等标签」，可以设置指定的网址列表，当你访问这些网站时，会首先弹出提示你专注的页面，提醒你也许你应该先完成手头上的工作。</p>\n<p>目前有两种不同的提醒模式</p>\n<p>🕜 <strong>倒计时模式</strong></p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.v2ex.co/7RRm762Rl.png\" /></p>\n<p>访问指定网站时，会弹出一个倒计时页面，倒计时结束后，你才能决定是否继续访问这个网站。倒计时提示文字可以自定义，你可以利用自定义的文字来培养你自己希望养成的小习惯。</p>\n<p>🧘 <strong>冥想模式</strong></p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.v2ex.co/8W3Aa65yl.png\" /></p>\n<p>访问指定网站时，会弹出一个引导你进行冥想专注练习的页面。你可以先进行冥想专注练习，然后再决定是否继续访问这个网站。</p>\n<p>冥想时长会被记录下来，你可以在设置页面查看你累计的冥想时长。这种模式在阻止分心的同时，也可以帮助你养成日常冥想的好习惯。</p>\n<p><img alt=\"\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.v2ex.co/ieAuQbJWl.png\" /></p>\n<p>官网： <a href=\"https://dengtab.com/cn/\" rel=\"nofollow\">https://dengtab.com/cn/</a></p>\n<p>目前只上架了 Chrome store.</p>",
+    "publish_time": "2024-08-03 08:30:03",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "有什么好用的轻量级搜索服务？",
+    "url": "https://www.v2ex.com/t/1062181",
+    "summary": "webeasymail: 目前我在做一个 [ SaaS 软件分销平台]  ，里面大概会有不超过 1W 条数据吧，假设一年后有 10W 条数据，现在我需要找一个非常轻量级别的搜索组件。<br /><br />这是一个单机版的系统，未来访问量也不会很大，我希望够对搜索效果进行提升，请问有什么好的技术可以使用？<br /><br /><br />我不太想使用 es ，主要是 es 很重，我们的数据量很少，而且没有分布式需求，未来数据量稍微多一些，我准备单独拆出来一台机器做 search 服务即可。<br /><br /><br />目前使用的是 mysql 的 like ，没有权重等等，所以效果还是很差的。<br /><br />前端使用的是 next.js 后端现在使用的是 java 。<br /><br /><br /><br />访问这个地址可以预览这个功能：<br /><br /><a href=\"https://www.cpcat.cn/s/wework\" rel=\"nofollow noopener\" target=\"_blank\">https://www.cpcat.cn/s/wework</a>",
+    "publish_time": "2024-08-03 09:34:30",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  }
+]
