@@ -53,5 +53,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "hibernate 和 mybatis 的 session 都不是线程安全的，为什么还要用？",
+    "url": "https://www.v2ex.com/t/1065374",
+    "summary": "iintothewind: 很多集合操作本来可以很方便的 paralStream 然后调用数据库处理，<br />或者从 servlet 主线程拿到数据提交异步操作处理。<br /><br />但由于 hibernate 和 mybatis 的 session 都不是线程安全的，<br />导致在多线程环境下， <br />通过 hibernate 和 mybatis 的数据库改动可能会出现问题，<br /><br />如果从多线程操作数据库的角度考虑，<br />我是真的不喜欢这俩老掉牙的难用的框架，<br />真的不喜欢。<br /><br />大家有什么看法？",
+    "publish_time": "2024-08-16 07:39:26",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
