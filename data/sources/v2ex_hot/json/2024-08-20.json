@@ -97,5 +97,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "🙏🏻🙏🏻🙏🏻我是个小公司桌面运维，老板让我给他开发个 AI 大模型……",
+    "url": "https://www.v2ex.com/t/1066362",
+    "summary": "oColtono: 如题<br />我在一家非 IT 行业的公司干桌面运维，说是运维其实啥都干，简单的服务器运维、直播推流、摄影摄像等等。老板基本上是个技术盲，在他眼里，技术相关的问题我全知道。<br /><br />他想要有一个 AI ，把一位哲学家（比较小众）的文集通读一遍（大概 40 万字）。然后扮演这位哲学家，充当聊天机器人。这个聊天机器人的用户量估计不会太高（小众圈子里面流传一下），最多也就 1000 人左右（并发可能就 30 人以内）。<br /><br />我说我干不来，他表示让我至少给个方案，适当招两个人，或者找人外包都行。<br /><br />从头搞个 AI 模型我猜是不可能的，我大概想法是租个云服务器，给 Llama 3 或类似的开源模型喂点数据，然后套个前端。<br /><br />希望懂行的朋友告诉我一下我的想法是否可行？以及这个事情工作量大不大。如果可行的话，我就去着手研究一下怎样微调 Llama 3 ，然后给老板一个方案。",
+    "publish_time": "2024-08-20 11:04:02",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
