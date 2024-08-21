@@ -718,5 +718,23 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "跟着悟空打卡青城山",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B7%9F%E7%9D%80%E6%82%9F%E7%A9%BA%E6%89%93%E5%8D%A1%E9%9D%92%E5%9F%8E%E5%B1%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "王一博新歌拍摄间隙",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%96%B0%E6%AD%8C%E6%8B%8D%E6%91%84%E9%97%B4%E9%9A%99%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
   }
 ]
