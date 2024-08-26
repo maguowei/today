@@ -24,7 +24,7 @@ sources:
     desc: Hacker News
     icon: https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png
     url: https://news.ycombinator.com/rss
-  - name: GitHub Trending
-    desc: Trending repositories on GitHub today
-    icon: https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/github.png
-    url: https://rsshub.app/github/trending/daily/any
+  # - name: GitHub Trending
+  #   desc: Trending repositories on GitHub today
+  #   icon: https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/github.png
+  #   url: https://rsshub.app/github/trending/daily/any
