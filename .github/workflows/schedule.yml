@@ -14,8 +14,8 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      RSSHUB_CUSTOM_ADDR: http://82.157.186.108:1200
+    # env:
+      # RSSHUB_CUSTOM_ADDR: http://82.157.186.108:1200
     steps:
     - uses: actions/checkout@v3
     - name: Set up Python 3.10
