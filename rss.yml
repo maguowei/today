@@ -6,12 +6,8 @@ sources:
   - name: 36kr
     desc: 36kr快讯
     icon: https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png
-    url: https://rsshub.app/36kr/newsflashes.atom
+    url: https://rsshub.app/36kr/newsflashes
     proxy: true
-  - name: wangyin
-    desc: 王垠的博客
-    icon: https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/wangyin.png
-    url: https://rsshub.app/blogs/wangyin.atom
   - name: ruanyifeng
     desc: 阮一峰的网络日志
     icon: https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png
@@ -19,24 +15,20 @@ sources:
   - name: infoq_recommend
     desc: InfoQ推荐
     icon: https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png
-    url: https://rsshub.app/infoq/recommend.atom
+    url: https://rsshub.app/infoq/recommend
   - name: hackernews_best
     desc: Hacker News Best
     icon: https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png
-    url: https://rsshub.app/hackernews/best.atom
+    url: https://rsshub.app/hackernews/best
   - name: hackernews
     desc: Hacker News
     icon: https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png
     url: https://news.ycombinator.com/rss
-  - name: pmthinking
-    desc: 产品沉思录
-    icon: https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/pmthinking.png
-    url: https://rsshub.app/pmthinking
-  - name: draveness
-    desc: 面向信仰编程
-    icon: https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/draveness.png
-    url: https://draveness.me/feed.xml
   - name: epic_freegames
     desc: Epic Free Games
     icon: https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/epic.png
-    url: https://rsshub.app/epicgames/freegames.atom
+    url: https://rsshub.app/epicgames/freegames
+  - name: GitHub Trending
+    desc: Trending repositories on GitHub today
+    icon: https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/github.png
+    url: https://rsshub.app/github/trending/daily/any
