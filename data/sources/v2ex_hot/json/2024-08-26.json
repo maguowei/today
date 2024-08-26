@@ -1,0 +1,13 @@
+[
+  {
+    "title": "如何安全又方便的访问家里 nas？",
+    "url": "https://www.v2ex.com/t/1067703",
+    "summary": "joenlee: <p>有两个核心诉求：</p>\n<ol>\n<li>回家能够无缝切换网关，比如 infuse 配置好了 emby 服务，从外面回到家中，流量可以自动从公网 IP 访问变成局域网 IP 直连。</li>\n<li>不走服务器转发，希望能跑满带宽。</li>\n</ol>\n<p>我目前的设备：</p>\n<ol>\n<li>x86 软路由（ openwrt ）</li>\n<li>qnap nas</li>\n</ol>\n<p>目前我想了几个方案：</p>\n<ol>\n<li>DDNS 方案 + 端口转发 + 内网 dns 映射（实现无缝切换）：直接 pass ，死的最快</li>\n<li>DDNS + VPN （ openvpn ，wireguard 等）</li>\n<li>DDNS + 加密代理服务（ ssr/v2ray 等） + 内网 dns 映射</li>\n<li>内网穿透（ zerotier ）</li>\n</ol>\n<p>4 由于需要自建服务器提升稳定性，只作为备用方案；</p>\n<p>2 和 4 有一个共同的也是我最纠结的问题：会和魔法软件冲突，访问内网和魔法上网无法同时进行（宽带上行太慢，不考虑用软路由作为魔法网关）。</p>\n<p>所以目前我觉得 3 是最理想的方案，但是还是对安全性有所担忧（主要是合规方面）：</p>\n<ol>\n<li>2 和 3 都使用了 DDNS ，并且暴露了 VPN/ 代理服务 端口，这个行为是否会被认定为开设 web 服务</li>\n<li>加密代理服务是否存在风险</li>\n</ol>",
+    "publish_time": "2024-08-26 01:19:01",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  }
+]
