@@ -24,10 +24,6 @@ sources:
     desc: Hacker News
     icon: https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png
     url: https://news.ycombinator.com/rss
-  - name: epic_freegames
-    desc: Epic Free Games
-    icon: https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/epic.png
-    url: https://rsshub.app/epicgames/freegames
   - name: GitHub Trending
     desc: Trending repositories on GitHub today
     icon: https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/github.png
