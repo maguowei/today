@@ -1204,5 +1204,107 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "你老板来贵州过828了吗",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%80%81%E6%9D%BF%E6%9D%A5%E8%B4%B5%E5%B7%9E%E8%BF%87828%E4%BA%86%E5%90%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "湖北的国潮彩蛋一眼惊艳",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8C%97%E7%9A%84%E5%9B%BD%E6%BD%AE%E5%BD%A9%E8%9B%8B%E4%B8%80%E7%9C%BC%E6%83%8A%E8%89%B3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "男子献血8次不能优先用血多人被处分",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%8C%AE%E8%A1%808%E6%AC%A1%E4%B8%8D%E8%83%BD%E4%BC%98%E5%85%88%E7%94%A8%E8%A1%80%E5%A4%9A%E4%BA%BA%E8%A2%AB%E5%A4%84%E5%88%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "21世纪的哲学是否陷入了低潮？为什么？",
+    "url": "https://www.zhihu.com/question/665363880",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Your Immune System Is Not a Muscle",
+    "url": "https://rachel.fast.ai/posts/2024-08-13-crowds-vs-friends/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41369061\">Comments</a>",
+    "publish_time": "2024-08-28 00:06:57",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "U.S. Ambassador says Canadians are consuming 'unhealthy' amount of American news",
+    "url": "https://thehub.ca/2024/08/27/hub-exclusive-u-s-ambassador-says-canadians-are-consuming-an-unhealthy-amount-of-american-news/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41371117\">Comments</a>",
+    "publish_time": "2024-08-28 02:34:55",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Monospace Web",
+    "url": "https://owickstrom.github.io/the-monospace-web/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41370020\">Comments</a>",
+    "publish_time": "2024-08-28 01:09:56",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Grace Hopper on Future Possibilities: Data, Hardware, Software, and People",
+    "url": "https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3884041/nsa-releases-copy-of-internal-lecture-delivered-by-computing-giant-rear-adm-gra/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41370411\">Comments</a>",
+    "publish_time": "2024-08-28 01:41:20",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "DisTrO – a family of low latency distributed optimizers",
+    "url": "https://github.com/NousResearch/DisTrO",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41371083\">Comments</a>",
+    "publish_time": "2024-08-28 02:32:37",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A Collection of Free Public APIs That Is Tested Daily",
+    "url": "https://www.freepublicapis.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41371170\">Comments</a>",
+    "publish_time": "2024-08-28 02:38:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
