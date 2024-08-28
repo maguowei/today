@@ -42,5 +42,27 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "搜狗输入法使用了 windows 啥漏洞，发通知广告竟然无法关闭",
+    "url": "https://www.v2ex.com/t/1068320",
+    "summary": "garlics: <p>搜了下 windows 社区有人反馈，但是并没有得到重视</p>\n<p><a href=\"https://answers.microsoft.com/zh-hans/windows/forum/all/%E9%80%9A%E7%9F%A5%E6%A0%8F%E5%BC%B9%E7%AA%97/549ca331-fd62-4199-ab04-64932dffad60\" rel=\"nofollow\">https://answers.microsoft.com/zh-hans/windows/forum/all/%E9%80%9A%E7%9F%A5%E6%A0%8F%E5%BC%B9%E7%AA%97/549ca331-fd62-4199-ab04-64932dffad60</a></p>",
+    "publish_time": "2024-08-28 09:02:22",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "最近比较火的国产免费 NAS 系统 fnOS，大家怎么看？",
+    "url": "https://www.v2ex.com/t/1068366",
+    "summary": "Hozoy: <p>官网的 slogan 是：正版免费 硬件兼容 性能超群 存储自由 智能影视</p>\n<p>最近开放公测了，基于 Debian 开发，目前支持 x86 架构。</p>\n<p>基本功能好像我看是比较全的，raid 、备份、影音、docker 、远程访问、配套 APP 已经都上了。</p>\n<p>官方好像现在目标是让用着黑群晖的用户可以选择不用继续“黑”下去</p>\n<p>然后有人质疑这个盈利模式是如何的，毕竟不能用爱发电，官方昨天给出了解释：\n<a href=\"https://help.fnnas.com/articles/fnosV1/contact/profit-statement.md\" rel=\"nofollow\">https://help.fnnas.com/articles/fnosV1/contact/profit-statement.md</a></p>\n<p>大概就是说国内版本现有功能永久免费，内网穿透带宽会收费，然后推出国际版也会收费。今后也会单独推硬件版本。</p>\n<p>v 站好像讨论这个的比较少？ zdm 看到好几篇文章了，今天准备在 pve 里面装一下试试水。目前感觉最大的问题就是国产 NAS 系统的隐私问题的考虑，附带着数据安全的考虑。</p>\n<p>官网： <a href=\"https://www.fnnas.com/\" rel=\"nofollow\">https://www.fnnas.com/</a> 不知道大家怎么看？</p>",
+    "publish_time": "2024-08-28 10:38:08",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
