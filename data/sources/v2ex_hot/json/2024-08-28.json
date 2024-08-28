@@ -75,5 +75,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "Github 账号被盗了",
+    "url": "https://www.v2ex.com/t/1068305",
+    "summary": "mengyanshou: <p>对不起，是我太蠢了</p>\n<p>起初是我在 moonlight-android 下提交了一个 Issue</p>\n<p>然后有个人光速回复了我一条消息，让我下载一个 fix.rar 文件，我仅仅是在 Windows 上解压了下来</p>\n<p>里面大概有 ranlib 相关的文件，我没怎么在意</p>\n<p>随即那人便删除了回复，我都以为是他发错地方了</p>\n<p>然后今天发现 Github 账号无法登录了</p>\n<p>Github 开启了 2FA ，没什么用，现在账号已经看不到数据了，也登录不上，也无法用邮件登录，这个账号对我来说非常重要</p>\n<p>我现在手上唯一还有的是那个 fix.rar 文件</p>\n<p>我提交了 github 的 support ，请问还有什么操作空间吗</p>\n<p>然后，不要下载解压任何 RAR 文件</p>",
+    "publish_time": "2024-08-28 04:00:56",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
