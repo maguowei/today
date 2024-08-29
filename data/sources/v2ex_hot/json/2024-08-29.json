@@ -86,5 +86,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "组了一个丐版 NAS，看看佬们还有没有更丐的",
+    "url": "https://www.v2ex.com/t/1068644",
+    "summary": "ounxnpz: <h2>硬件</h2>\n<ul>\n<li><strong>主机</strong>：闲鱼 4125 工控机 板载 6G 内存 ￥ 320</li>\n<li><strong>系统盘</strong>：闲鱼 Intel 128 固态 ￥ 35</li>\n<li>\n<strong>数据盘</strong>：<ul>\n<li>闲置东芝移动 2.5 寸移动硬盘</li>\n<li>淘宝二手希捷酷狼 PRO ST4000NE001 3.5 寸 4T ￥ 368</li>\n</ul>\n</li>\n<li>\n<strong>电源</strong>：<ul>\n<li>闲鱼 航嘉 12V 5A DC ￥ 20</li>\n<li>拼多多 DC to SATA 转接线 + DC 1 拖 2 ￥ 20</li>\n</ul>\n</li>\n</ul>\n<p>不算闲置移动硬盘 ￥ 763</p>\n<h2>软件：</h2>\n<ul>\n<li><strong>系统</strong>: debian</li>\n<li><strong>下载</strong>：Docker qbittorrent</li>\n<li><strong>文件传输</strong>：Docker Sammba 、dufs</li>\n<li><strong>NVR</strong>：shinobi （带 4 个摄像头，只采集运动画面）</li>\n<li><strong>重要文件备份</strong>：Docker alist + rclone 定时同步百度云盘</li>\n</ul>\n<h2>远程方案</h2>\n<ul>\n<li>ssh IPV6 隧道代理</li>\n<li>路由器的 OpenVPN 服务</li>\n</ul>",
+    "publish_time": "2024-08-29 10:46:30",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
