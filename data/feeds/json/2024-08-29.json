@@ -6547,5 +6547,543 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "要所有居高临下傲慢之徒看仔细",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%A6%81%E6%89%80%E6%9C%89%E5%B1%85%E9%AB%98%E4%B8%B4%E4%B8%8B%E5%82%B2%E6%85%A2%E4%B9%8B%E5%BE%92%E7%9C%8B%E4%BB%94%E7%BB%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "幸会嘻哈延期",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B9%B8%E4%BC%9A%E5%98%BB%E5%93%88%E5%BB%B6%E6%9C%9F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "未定事件簿",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9C%AA%E5%AE%9A%E4%BA%8B%E4%BB%B6%E7%B0%BF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "乙游法务发回旋镖diss派克特",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B9%99%E6%B8%B8%E6%B3%95%E5%8A%A1%E5%8F%91%E5%9B%9E%E6%97%8B%E9%95%96diss%E6%B4%BE%E5%85%8B%E7%89%B9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "百万豪车宝马X7疑似自燃无人赔偿",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%99%BE%E4%B8%87%E8%B1%AA%E8%BD%A6%E5%AE%9D%E9%A9%ACX7%E7%96%91%E4%BC%BC%E8%87%AA%E7%87%83%E6%97%A0%E4%BA%BA%E8%B5%94%E5%81%BF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "汝州多数被清退者称没收到补发工资",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B1%9D%E5%B7%9E%E5%A4%9A%E6%95%B0%E8%A2%AB%E6%B8%85%E9%80%80%E8%80%85%E7%A7%B0%E6%B2%A1%E6%94%B6%E5%88%B0%E8%A1%A5%E5%8F%91%E5%B7%A5%E8%B5%84%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "谁说吗喽不是我们的精神外衣",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B0%81%E8%AF%B4%E5%90%97%E5%96%BD%E4%B8%8D%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%A4%96%E8%A1%A3%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "腾讯视频 幸会嘻哈",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91+%E5%B9%B8%E4%BC%9A%E5%98%BB%E5%93%88%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "乙游",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B9%99%E6%B8%B8%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "脑梗男子贷款60万打赏女主播当榜一",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%84%91%E6%A2%97%E7%94%B7%E5%AD%90%E8%B4%B7%E6%AC%BE60%E4%B8%87%E6%89%93%E8%B5%8F%E5%A5%B3%E4%B8%BB%E6%92%AD%E5%BD%93%E6%A6%9C%E4%B8%80%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "中国队残奥首金",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%AE%8B%E5%A5%A5%E9%A6%96%E9%87%91%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "邢菲换风格了",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%82%A2%E8%8F%B2%E6%8D%A2%E9%A3%8E%E6%A0%BC%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "塔图姆联手东契奇",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A1%94%E5%9B%BE%E5%A7%86%E8%81%94%E6%89%8B%E4%B8%9C%E5%A5%91%E5%A5%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "蒋奇明崔恩尔 势均力敌的爱情",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%92%8B%E5%A5%87%E6%98%8E%E5%B4%94%E6%81%A9%E5%B0%94+%E5%8A%BF%E5%9D%87%E5%8A%9B%E6%95%8C%E7%9A%84%E7%88%B1%E6%83%85%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "以旧换新单件商品最高补2000元",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%E5%8D%95%E4%BB%B6%E5%95%86%E5%93%81%E6%9C%80%E9%AB%98%E8%A1%A52000%E5%85%83%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "我们有自己的rap",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84rap%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "恋与制作人",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E5%88%B6%E4%BD%9C%E4%BA%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "孙颖莎全红婵成香港新打卡点",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%85%A8%E7%BA%A2%E5%A9%B5%E6%88%90%E9%A6%99%E6%B8%AF%E6%96%B0%E6%89%93%E5%8D%A1%E7%82%B9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "樊振东对晚宴每道菜都很期待",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%AF%B9%E6%99%9A%E5%AE%B4%E6%AF%8F%E9%81%93%E8%8F%9C%E9%83%BD%E5%BE%88%E6%9C%9F%E5%BE%85%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "徐嘉余找了好多人合影",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%98%89%E4%BD%99%E6%89%BE%E4%BA%86%E5%A5%BD%E5%A4%9A%E4%BA%BA%E5%90%88%E5%BD%B1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "时代少年团祝福师弟成团快乐",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E7%A5%9D%E7%A6%8F%E5%B8%88%E5%BC%9F%E6%88%90%E5%9B%A2%E5%BF%AB%E4%B9%90%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "包贝尔 素人博主",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8C%85%E8%B4%9D%E5%B0%94+%E7%B4%A0%E4%BA%BA%E5%8D%9A%E4%B8%BB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "双鱼座会周期性的疲倦",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%8C%E9%B1%BC%E5%BA%A7%E4%BC%9A%E5%91%A8%E6%9C%9F%E6%80%A7%E7%9A%84%E7%96%B2%E5%80%A6%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "东北有哪些好吃的饺子馅料呢？",
+    "url": "https://www.zhihu.com/question/664923269",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "现在孩子的暑假和你小时候的暑假有什么不一样？",
+    "url": "https://www.zhihu.com/question/660621004",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么好产品经理极度稀缺？",
+    "url": "https://www.zhihu.com/question/646932087",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "《地下交通站》里黑藤怀疑鼎香楼，为什么不直接下手还要找证据？",
+    "url": "https://www.zhihu.com/question/551114708",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "马超在历史上是怎么样的一个人？为什么他在刘备集团得不到重用？",
+    "url": "https://www.zhihu.com/question/661789355",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "欣旺达：实现归属母公司扣除非经常性损益后净利润8.10亿元，同比增长119.27%",
+    "url": "https://www.36kr.com/newsflashes/2927152906164873",
+    "summary": "36氪获悉，欣旺达发布半年报，上半年公司实现营业总收入239.18亿元，同比增长7.57%；实现归属母公司扣除非经常性损益后净利润8.10亿元，同比增长119.27%。",
+    "publish_time": "2024-08-29 19:33:54",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "12.06亿千瓦，我国风电光伏装机提前六年实现目标",
+    "url": "https://www.36kr.com/newsflashes/2927165351926402",
+    "summary": "今天国新办举行新闻发布会，《中国的能源转型》白皮书发布。国家能源局相关负责人介绍，截至今年7月底，我国风电光伏装机合计达到了12.06亿千瓦，提前六年实现了目标。\n国家能源局新能源和可再生能源司司长李创军介绍，根据规划，到2030年中国风电、太阳能发电总装机容量达到12亿千瓦以上。如今，这一目标已经提前六年实现。中国风电、太阳能发电高质量跃升发展，为应对气候变化、保障能源供应等作出重要贡献。（央视新闻）",
+    "publish_time": "2024-08-29 19:46:34",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "中国中冶：上半年净利润41.5亿元，同比下降42.5%",
+    "url": "https://www.36kr.com/newsflashes/2927166156954240",
+    "summary": "36氪获悉，中国中冶发布半年报，上半年实现营业收入2988.42亿元，同比下降10.65%；归属于上市公司股东的净利润41.5亿元，同比下降42.5%。",
+    "publish_time": "2024-08-29 19:47:23",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "印度IT公司印孚瑟斯扩大与英伟达的合作",
+    "url": "https://www.36kr.com/newsflashes/2927166724332421",
+    "summary": "印度IT公司印孚瑟斯（Infosys）8月29日宣布扩大与英伟达的合作，共同开发人工智能驱动的、以客户为中心的解决方案，双方的合作将有助于电信公司提升客户体验、简化网络运营并加快服务交付。（界面）",
+    "publish_time": "2024-08-29 19:55:53",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "青岛啤酒：上半年净利润36.4亿元，同比增长6.31%",
+    "url": "https://www.36kr.com/newsflashes/2927167447096201",
+    "summary": "36氪获悉，青岛啤酒发布半年报，上半年实现营业收入200.7亿元，同比下降7.06%；实现归属于上市公司股东的净利润36.4亿元，同比增长6.31%。",
+    "publish_time": "2024-08-29 19:59:38",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "欧洲央行首席经济学家：明年薪资增速将显著放缓",
+    "url": "https://www.36kr.com/newsflashes/2927179265350275",
+    "summary": "欧洲央行首席经济学家Philip Lane表示，2025年和2026年欧元区薪资，通胀的关键驱动因素，增幅将显著放缓。“今年下半年，薪资增幅仍然不小，”Lane周四在法兰克福的一个会议上表示，并援引了欧洲央行自身的薪资趋势追踪指标。但现在，这样一种“追赶的态势正在见顶”，未来两年将“发生相当大的变动”，令“名义薪资增长率低得多”。（新浪财经）",
+    "publish_time": "2024-08-29 20:00:43",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "沙利文回应是否介入加拿大政府电动汽车关税决定",
+    "url": "https://www.36kr.com/newsflashes/2927180157131656",
+    "summary": "上周末，美国总统国家安全事务助理沙利文在加拿大会见了加拿大总理特鲁多及其内阁，暗示加拿大加入美国及其盟友，对中国电动汽车加征关税。29日，在北京举行的记者会上，沙利文对此回应称，加拿大是一个主权国家，自己做出其主权决定。他表示，他在那出现是因为此前已经计划好的会议，且的确表达了电动汽车在国家安全方面的忧虑，但加拿大的决定是他们自己做出的。（第一财经）",
+    "publish_time": "2024-08-29 20:01:38",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "三星与工会或于10月初恢复薪资谈判",
+    "url": "https://www.36kr.com/newsflashes/2927175691180932",
+    "summary": "据外媒报道，业内消息人士称，三星电子及其工会最早可能在10月初恢复有关加薪和其他问题的谈判。（界面）",
+    "publish_time": "2024-08-29 20:04:59",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "海通证券：上半年归母净利润9.53亿元，同比下降75.11%",
+    "url": "https://www.36kr.com/newsflashes/2927186788211332",
+    "summary": "36氪获悉，海通证券发布半年报，上半年营业收入88.65亿元，同比下降47.76%；归属于母公司股东的净利润9.53亿元，同比下降75.11%；基本每股收益0.07元。",
+    "publish_time": "2024-08-29 20:08:22",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "中国石油与英特尔合作，联合推出浸没液冷方案及实测结果",
+    "url": "https://www.36kr.com/newsflashes/2927176812747397",
+    "summary": "36氪获悉，据英特尔数据中心官微，中国石油与英特尔合作，联合推出浸没液冷方案及实测结果。本次合作包括采用第四代英特尔®至强®可扩展处理器架构设计提升的性能/能耗比，提出应用到英特尔®至强®6处理器、GaudiAI加速器等在内的产品散热兼容需求，联合打造出本土浸没式液冷方案，满足中国客户对可持续绿色数据中心的国内液冷方案需求。",
+    "publish_time": "2024-08-29 20:10:08",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "长沙银行：上半年归母净利润41.21亿元，同比增长4.01%",
+    "url": "https://www.36kr.com/newsflashes/2927177489980294",
+    "summary": "36氪获悉，长沙银行发布半年报，上半年实现营业收入130.42亿元，同比增长3.32%；归属于母公司股东的净利润41.21亿元，同比增长4.01%；基本每股收益1.02元。",
+    "publish_time": "2024-08-29 20:11:49",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "优步对Wayve进行战略投资",
+    "url": "https://www.36kr.com/newsflashes/2927187598531201",
+    "summary": "英国自动驾驶技术初创公司Wayve宣布与优步（Uber）建立新的战略合作伙伴关系。优步还同意对Wayve进行战略投资，作为该公司此前宣布的C轮融资的延伸。根据双方合作的设想，未来由Wayve提供动力的自动驾驶汽车将在全球多个市场的优步网络上使用。（界面）",
+    "publish_time": "2024-08-29 20:18:08",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "何立峰会见桥水基金创始人达利欧",
+    "url": "https://www.36kr.com/newsflashes/2927203038124675",
+    "summary": "中共中央政治局委员、中央财办主任何立峰29日下午在京会见桥水基金创始人达利欧。何立峰介绍了中国共产党二十届三中全会、中国经济形势和资本市场改革等情况。他表示，中国正在进一步全面深化改革、推进中国式现代化，今年以来经济延续回升向好态势，高质量发展扎实推进。希望达利欧先生继续发挥桥梁作用，推动美国企业把握机遇，深化对华互利合作。达利欧表示，对中国经济和未来发展充满信心，愿为促进美中友好合作作出新的贡献。（新华社）",
+    "publish_time": "2024-08-29 20:24:54",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "中国银河：上半年净利润43.88亿元，同比下降11.16%",
+    "url": "https://www.36kr.com/newsflashes/2927199164750729",
+    "summary": "36氪获悉，中国银河发布半年报，2024年上半年公司实现营业收入170.86亿元，同比下降1.88%。归属于上市公司股东的净利润为43.88亿元，同比下降11.16%。此外，公司拟每10股派发人民币0.84元。",
+    "publish_time": "2024-08-29 20:28:54",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "美国上周首次申领失业救济人数为23.1万人",
+    "url": "https://www.36kr.com/newsflashes/2927209603799939",
+    "summary": "美国上周首次申领失业救济人数为23.1万人，预估为23.2万人，前值为23.2万人。（界面）",
+    "publish_time": "2024-08-29 20:31:35",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "美邦服饰：上半年净利润7678.06万元，同比增长648.07%",
+    "url": "https://www.36kr.com/newsflashes/2927208413748099",
+    "summary": "36氪获悉，美邦服饰发布半年报，上半年公司实现营业收入4.14亿元，同比下降25.8%；净利润7678.06万元，同比增长648.07%；基本每股收益0.03元。",
+    "publish_time": "2024-08-29 20:40:19",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "南方航空：2024年上半年净亏损12.28亿元",
+    "url": "https://www.36kr.com/newsflashes/2927223486880390",
+    "summary": "36氪获悉，南方航空发布半年报，公司2024年上半年实现营业收入847.9亿元，同比增长18.04%；净利润为亏损12.28亿元，上年同期亏损28.75亿元。",
+    "publish_time": "2024-08-29 20:45:42",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "美股大型科技股盘前多数上涨，英伟达跌超3%",
+    "url": "https://www.36kr.com/newsflashes/2927228909083521",
+    "summary": "36氪获悉，美股大型科技股盘前多数上涨，截至发稿，特斯拉、苹果、亚马逊涨超1%，谷歌涨0.74%，Meta涨0.68%，Netflix涨0.56%，微软涨0.53%；英伟达跌超3%。",
+    "publish_time": "2024-08-29 20:51:13",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "热门中概股美股盘前普涨，B站涨超4%",
+    "url": "https://www.36kr.com/newsflashes/2927231121365632",
+    "summary": "36氪获悉，热门中概股美股盘前普涨，截至发稿，B站、蔚来、理想汽车涨超4%，拼多多、爱奇艺、小鹏汽车涨超2%，京东、阿里巴巴、百度、网易、腾讯音乐、微博涨超1%。",
+    "publish_time": "2024-08-29 20:53:28",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "融创中国：上半年公司拥有人应占亏损约149.6亿元，同比减亏",
+    "url": "https://www.36kr.com/newsflashes/2927226096507783",
+    "summary": "36氪获悉，融创中国发布半年报，上半年集团收入约为342.8亿元，较去年同期减少约 41.4%； 公司拥有人应占亏损约为149.6亿元，亏损较去年同期减少约2.7%。",
+    "publish_time": "2024-08-29 20:58:17",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "Can Solar Costs Keep Shrinking?",
+    "url": "https://unchartedterritories.tomaspueyo.com/p/can-solar-costs-keep-shrinking",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41390884\">Comments</a>",
+    "publish_time": "2024-08-29 21:57:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Firefox rolls out Total Cookie Protection by default to more users (2022)",
+    "url": "https://blog.mozilla.org/en/mozilla/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41390261\">Comments</a>",
+    "publish_time": "2024-08-29 20:47:14",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Memos: stick private notes on your email",
+    "url": "https://www.fastmail.com/blog/introducing-memos/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41389714\">Comments</a>",
+    "publish_time": "2024-08-29 19:32:49",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "GNU Screen 5.0 Released",
+    "url": "https://savannah.gnu.org/news/?id=10668",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41390999\">Comments</a>",
+    "publish_time": "2024-08-29 22:09:46",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Floating points between zero and one",
+    "url": "https://chadnauseam.com/coding/random/floating-points-between-zero-and-one",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41390712\">Comments</a>",
+    "publish_time": "2024-08-29 21:42:03",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "An update on Llama adoption",
+    "url": "https://ai.meta.com/blog/llama-usage-doubled-may-through-july-2024/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41391267\">Comments</a>",
+    "publish_time": "2024-08-29 22:38:26",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
