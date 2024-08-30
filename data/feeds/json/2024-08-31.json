@@ -1160,5 +1160,54 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "开学音乐会草坪长满了熟人",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%AD%A6%E9%9F%B3%E4%B9%90%E4%BC%9A%E8%8D%89%E5%9D%AA%E9%95%BF%E6%BB%A1%E4%BA%86%E7%86%9F%E4%BA%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "王雅繁晋级美网16强",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%9B%85%E7%B9%81%E6%99%8B%E7%BA%A7%E7%BE%8E%E7%BD%9116%E5%BC%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "第五人格",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Japan was the future but it's stuck in the past (2023)",
+    "url": "https://www.bbc.com/news/world-asia-63830490",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41403414\">Comments</a>",
+    "publish_time": "2024-08-31 02:42:30",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: I made a site that lets everyone edit the same gradient in real-time",
+    "url": "https://internetgradient.com",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41403466\">Comments</a>",
+    "publish_time": "2024-08-31 02:49:47",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
