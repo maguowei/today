@@ -1,0 +1,24 @@
+[
+  {
+    "title": "亚马逊 MemoryDB 快速向量搜索功能全面可用",
+    "url": "https://www.infoq.cn/article/VhF1RwSFCLE9BPx8d94t",
+    "summary": "<p>亚马逊云科技最近宣布 Amazon MemoryDB 向量搜索功能全面可用，这是一款具备多区域可用性的托管内存数据库。这项新功能提供了超低延迟和在 AWS 所有向量数据库中具有最高召回率的快速向量搜索性能。</p><p></p><p>Amazon MemoryDB 于 2021 年推出，是一款与 Redis 兼容的持久性内存数据库。目前，它已成为 AWS 上向量搜索的首选托管解决方案，尤其适合那些对峰值性能要求极高的应用场景，如生成式 AI 应用程序。亚马逊云科技开发者布道师 Channy Yun写道：</p><p></p><p></p><blockquote>有了 Amazon MemoryDB 的向量搜索，你可以使用现有的 MemoryDB API 来实现包括检索增强生成（RAG）、异常（欺诈）检测、文档检索和实时推荐引擎在内的生成式 AI 应用场景。你还可以使用 Amazon Bedrock 和 Amazon SageMaker 等人工智能和机器学习服务生成向量嵌入，并将它们存储在 MemoryDB 中。</blockquote><p></p><p></p><p>开发人员可以使用 Amazon Bedrock 和 SageMaker 等托管服务生成向量嵌入，并将它们存储在 MemoryDB 中，从而实现 RAG 的实时语义搜索、低延迟持久性语义缓存和实时异常检测。</p><p></p><p>MemoryDB 的向量搜索 支持存储数百万个向量，保证查询响应时间在个位数毫秒级别，并在维持最高吞吐量的同时，提供极低的更新延迟，召回率超过 99%。Yun 补充道：</p><p></p><p></p><blockquote>使用 MemoryDB 的向量搜索功能，你可以将基于批量机器学习模型识别出的欺诈交易，连同正常交易数据一起加载到 MemoryDB 中，通过主成分分析（PCA）等统计分解技术生成它们的向量表示，从而有效地进行欺诈检测。</blockquote><p></p><p></p><p><img src=\"https://static001.geekbang.org/wechat/images/81/816efe0aeefa9b498e667b4ddf237e15.png\" /></p><p></p><p></p><p>这项新功能在 2023 年的 re:Invent 大会上首次以预览版的形式亮相，最近的全面可用带来了一系列新功能和改进，包括 VECTOR_RANGE，使得数据库能够以极低延迟运行，同时保持持久性语义缓存，以及 SCORE，它提供了更精细的相似性过滤能力。向量字段支持使用平面搜索（FLAT）和分层可导航小世界（HNSW）算法对固定大小的向量进行 K 最近邻搜索（KNN）搜索。</p><p></p><p>MemoryDB 并非亚马逊云科技提供的唯一一个支持向量搜索的托管数据库。在过去一年中，为了满足生成式 AI 工作负载的需求，OpenSearch、Aurora PostgreSQL、RDS PostgreSQL、Neptune 和 DocumentDB 纷纷引入了与向量相关的功能。美国银行的软件工程经理 Vinod Goje评论 道：</p><p></p><p></p><blockquote>我一直在关注向量数据库市场的发展，这个市场正在迅速增长，涌现出许多新产品……专家们认为这个市场变得过于拥挤，使得新产品很难在众多现有选项中脱颖而出。</blockquote><p></p><p></p><p>亚马逊云科技数据库专家解决方案架构师 Shayon Sanyal 和 Graham Kutchek 详细说明了 为生成式 AI 应用程序选择数据库时的关键考虑因素。他们建议：</p><p></p><p></p><blockquote>如果你已经在使用 OpenSearch Service、Aurora PostgreSQL、RDS for PostgreSQL、DocumentDB 或 MemoryDB，那么就充分利用它们内置的向量搜索功能来处理现有的数据。对于基于图的 RAG 应用程序，请考虑使用 Amazon Neptune。如果你的数据存储在 DynamoDB 中，OpenSearch 零 ETL 集成的优势将是你进行向量搜索的极好选择。如果仍然不确定，可以将 OpenSearch Service 作为起点。</blockquote><p></p><p></p><p>最近，各大云服务厂商纷纷推出了自己的向量搜索功能，以与 Pinecone 等向量数据库以及无服务器解决方案，入 Momento Cache 展开竞争。例如，InfoQ 先前就报道了 Google BigQuery 和 Microsoft Vector Search。</p><p></p><p>向量搜索功能在 Amazon MemoryDB 7.1 中可用，并支持所有数据库可用区域的单分片配置。</p><p></p><p>原文链接：</p><p><a href=\"https://www.infoq.com/news/2024/08/aws-memorydb-vector-search/\">https://www.infoq.com/news/2024/08/aws-memorydb-vector-search/</a>\"</p>",
+    "publish_time": "2024-08-30 08:00:00",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "4篇论文入选数据库顶会，腾讯云数据库再迎新突破",
+    "url": "https://www.infoq.cn/article/EcwEANhURyiFfaRyk6TJ",
+    "summary": "<p>日前，InfoQ获悉，腾讯云数据库4篇论文入选国际数据库顶级会议VLDB，多项优化创新方案突破了数据库领域的性能瓶颈数等多项难题，技术创新能力再获国际权威认可。</p><p>&nbsp;</p><p>VLDB（International Conference on Very Large Data Bases）是数据库研究领域历史悠久的国际会议，与ICDE和SIGMOD并称数据库三大顶级会议，每年为数据库领域提供大量高质量的研究论文和研究成果，具有重要的学术价值和行业引导意义。</p><p>&nbsp;</p><p>近些年，随着新兴技术迅猛发展,各行各业产生的数据量呈爆炸式增长分布式、云原生等多种场景数据库应运而生。与此同时，分布式场景也迎来如何权衡性能与一致性等一系列新的挑战。</p><p>&nbsp;</p><p>在入选论文——《TDSQL: Tencent Distributed Database System》中，腾讯云分享了设计、开发和优化大规模分布式数据库系统TDSQL的经验。在分布式架构上，TDSQL通过大量的实现和优化，包括内核优化、物理复制的实现与优化、分布式锁的优化等，使得TDSQL能在保持一致性的情况下有效处理大量数据和高并发。在去年3月的TPC-C基准测试中，TDSQL性能达到每分钟8.14亿笔交易（tpmC），打破了世界纪录。</p><p>&nbsp;</p><p>在高性能的键值存储引擎中，高性能索引结构往往需要占用过量内存以换取极高的索引性能。针对这一热门研究课题，腾讯云与华中科技大学合作的最新研究成果《FluidKV: Seamlessly Bridging the Gap between Indexing Performance and Memory-Footprint on Ultra-Fast Storage》中提出了一种兼顾高读写性能和低内存占用的索引机制。</p><p></p><p>这种基于动态多阶段的索引架构FluidKV，可将索引项从内存占用率高的阶段，快速迁移到内存友好的持久存储阶段，利用高性能存储设备的带宽减轻内存压力。在此基础上，通过匹配IO传输粒度，并根据用户负载读写比例优化缓冲等方式，可以让读写性能保持在最高档位。实验结果显示，对比持久索引的相关工作，FluidKV的读写性能均处于最高一档，同时最多可减少90%的内存占用。</p><p>&nbsp;</p><p><img src=\"https://static001.geekbang.org/infoq/73/73490c1d907fcb96758af420f67157a5.png\" /></p><p></p><p>&nbsp;&nbsp;（腾讯云数据库团队现场分享论文）</p><p>&nbsp;</p><p>此外，腾讯云与北京大学、北京交通大学合作的最新研究成果也入选了2024年VLDB长文，文章《Efficient and Accurate SimRank-based Similarity Joins: Experiments, Analysis, and Improvement》提出了高效且准确的SimRank图节点相似度连接算法，实验表明，该算法较已有方法实现了查询效率近一个数量级的提升。</p><p>&nbsp;</p><p>随着CPU、大内存、高速存储设备的发展，让CPU更多的用于实际的计算任务是高效利用这些新硬件的关键之一。但目前，整个数据库系统中，存在大量的等待事件，会导致CPU“卡住”，即让CPU处于无效的等待状态，造成CPU资源的浪费。</p><p>&nbsp;</p><p>在入选论文《The Art of Latency Hiding in Modern Database Engines》中，腾讯云则联合西蒙·弗雷泽大学，针对高性能的OLTP处理难题，提出了基于双队列的流水线事务处理机制，可以进一步减少CPU的无效等待，让CPU充分应用于实际的计算任务中。实验表明，在数据量大于内存、混合负载的场景下，该系统可取得33倍的性能提升。</p><p>&nbsp;</p><p>作为国内数据库行业先行者，腾讯云已经深耕数据库领域十余年，服务超过50万客户，未来，腾讯云将持续深耕实际场景需求，不断探索与攻坚数据库难题，推动数据库领域的学术进步与技术成果转化，助力更多企业实现业务创新与高质量发展。</p>",
+    "publish_time": "2024-08-30 10:04:27",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  }
+]
