@@ -64,5 +64,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "分享一个能给云朵分类的小程序",
+    "url": "https://www.v2ex.com/t/1068899",
+    "summary": "HunterXuan: <p>云的分类有十个主要群体，也称为云属，比如卷云、卷积云、高层云、积云、积雨云等等。</p>\n<p>2020 年的时候，我和朋友一起做了个「每天拍云」微信小程序，它可以在本地加载「小模型」，识别出图片中是什么云。</p>\n<p>但做好之后没怎么管，再后来就一直处于报废状态。最近，因为一些机缘巧合的原因，我又给它抢救了过来：优化了加载速度、提高了识别准确率（<del>有一点但不多</del>）。</p>\n<p><em>PS：对抢救过程感兴趣的大佬们，可以轻戳 <a href=\"https://hunterx.xyz/wechat-miniprogram-classify-cloud-types.html\" rel=\"nofollow\">这里</a>。</em></p>\n<p>欢迎各位轻拍，也欢迎分享给拍云爱好者们。</p>\n<p><img alt=\"每天拍云二维码.jpg\" class=\"embedded_image\" rel=\"noreferrer\" src=\"https://i.endpot.com/image/VT4BK/%E6%AF%8F%E5%A4%A9%E6%8B%8D%E4%BA%91%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg\" /></p>",
+    "publish_time": "2024-08-30 08:12:24",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
