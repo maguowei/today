@@ -1428,5 +1428,74 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "乐道汽车百店开业新车到店",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B9%90%E9%81%93%E6%B1%BD%E8%BD%A6%E7%99%BE%E5%BA%97%E5%BC%80%E4%B8%9A%E6%96%B0%E8%BD%A6%E5%88%B0%E5%BA%97%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "儿童电话手表别成了小坏蛋",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%84%BF%E7%AB%A5%E7%94%B5%E8%AF%9D%E6%89%8B%E8%A1%A8%E5%88%AB%E6%88%90%E4%BA%86%E5%B0%8F%E5%9D%8F%E8%9B%8B%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "樊振东现场教学张雨霏粤语虾饺",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%8E%B0%E5%9C%BA%E6%95%99%E5%AD%A6%E5%BC%A0%E9%9B%A8%E9%9C%8F%E7%B2%A4%E8%AF%AD%E8%99%BE%E9%A5%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "杨戬代替悟能，哪吒代替悟净，取经可以不找外援吗？",
+    "url": "https://www.zhihu.com/question/665404731",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "The Threat to OpenAI",
+    "url": "https://www.wsj.com/tech/ai/ai-chatgpt-nvidia-apple-facebook-383943d1",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41411478\">Comments</a>",
+    "publish_time": "2024-09-01 03:56:03",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "One Million new Bluesky users in 3 days",
+    "url": "https://bsky.app/profile/bsky.app/post/3l3277gkjjc2y",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41412606\">Comments</a>",
+    "publish_time": "2024-09-01 06:44:02",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Building LLMs from the Ground Up: A 3-Hour Coding Workshop",
+    "url": "https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41412256\">Comments</a>",
+    "publish_time": "2024-09-01 05:45:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
