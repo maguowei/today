@@ -1,0 +1,24 @@
+[
+  {
+    "title": "四川移动、成都移动固定 IP 专线上传限速和高 ping 丢包情况通报",
+    "url": "https://www.v2ex.com/t/1069459",
+    "summary": "AS58453: 各位使用成都、四川移动地区专线的 V 友们，请关注自己专线的网络状况：<br />  由于打压 PCDN ，从 2024.9.1 日下午 16：00 以后，成都地区移动出现了只要有上传流量（流速&gt;10mbps ）,会出现到网关的高 ping 、跳包现象。同时上传速度仅仅只有正常速度的 10/1 。<br />  我这里已经有两条专线中招，有一条日均上传很高（作用于网盘备份、同步），而另外一条日均上传不过 5-15G ，一个月下下上行流量不过 137G 。<br />现在的情况就是：下行可以跑满合同限速，ping 不丢包，只要测速开始测试上传，并且速率&gt;10m ，到第一跳网关将出现高 ping 导致整个网络连接质量极差，停止上传后网络会立即恢复正常。<br />tips：1 、这些都是固定 IP 的专线，不是家宽；<br />      2 、最开始我还认为只针对高上传用户，结果低上传用户也被一锅端了。<br />      3 、不跑 PCDN 、PT ，不要拿跑 PCDN 被收拾来幸灾乐祸。这个 QOS 策略纯纯傻逼。<br />      大家对照一下检查一下专线的情况把<br /><br />图片：<br /><a href=\"https://imgur.com/a/xz6kYwV\" rel=\"nofollow noopener\" target=\"_blank\">https://imgur.com/a/xz6kYwV</a>",
+    "publish_time": "2024-09-02 00:59:46",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "大家身边有没有这样的同事，喜欢把你的话重复一遍？",
+    "url": "https://www.v2ex.com/t/1069513",
+    "summary": "itskingname: <p>例如：</p>\n<pre><code>他：你中午在哪里吃的饭？\n我：我在楼下云南米线吃的\n他：你在楼下云南米线吃的是吧？\n\n他：这个 bug 是什么问题导致的？\n我：AWS 那边数据中心网络挂了，已经提工单。\n他：AWS 那边数据中心网络挂了，已经提工单是吧？\n\n他：你周末怎么过的？\n我：我在家打了一天游戏。\n他：你在家打了一天游戏是吧。\n……\n</code></pre>\n<p>基本上任何一个问题，他问了我，我回复以后，他都会重复一遍，再加上『是吧』。好像不这样反问，就不能理解我的回答一样。</p>",
+    "publish_time": "2024-09-02 10:18:07",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  }
+]
