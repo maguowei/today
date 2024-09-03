@@ -1445,5 +1445,54 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "全红婵谁也没放过",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%B0%81%E4%B9%9F%E6%B2%A1%E6%94%BE%E8%BF%87%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "阚清子说恋爱谈太多也不好",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%98%9A%E6%B8%85%E5%AD%90%E8%AF%B4%E6%81%8B%E7%88%B1%E8%B0%88%E5%A4%AA%E5%A4%9A%E4%B9%9F%E4%B8%8D%E5%A5%BD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "郑钦文说对战萨巴伦卡期待已久",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E8%AF%B4%E5%AF%B9%E6%88%98%E8%90%A8%E5%B7%B4%E4%BC%A6%E5%8D%A1%E6%9C%9F%E5%BE%85%E5%B7%B2%E4%B9%85%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Engineering over AI",
+    "url": "https://martinantos.com/engineering-over-ai/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41439777\">Comments</a>",
+    "publish_time": "2024-09-04 06:04:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Mondragon as the new city-state",
+    "url": "https://www.elysian.press/p/mondragon-as-the-new-city-state",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41438060\">Comments</a>",
+    "publish_time": "2024-09-04 03:06:26",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
