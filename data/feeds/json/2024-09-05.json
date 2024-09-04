@@ -1405,5 +1405,102 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "半夜不同时间醒来说明什么",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8A%E5%A4%9C%E4%B8%8D%E5%90%8C%E6%97%B6%E9%97%B4%E9%86%92%E6%9D%A5%E8%AF%B4%E6%98%8E%E4%BB%80%E4%B9%88%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "California companies wrote their own gig worker law. Now no one is enforcing it",
+    "url": "https://apnews.com/us-news/california-labor-lyft-inc-general-news-906ecb4d94b5e946eab703c562a6bdf0",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41449984\">Comments</a>",
+    "publish_time": "2024-09-05 03:54:24",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Layman's Guide to Python Built-in Functions",
+    "url": "https://www.mattlayman.com/blog/2024/layman-guide-python-built-in-functions/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41450660\">Comments</a>",
+    "publish_time": "2024-09-05 04:51:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Internet Archive has lost its appeal in Hachette vs. Internet Archive",
+    "url": "https://storage.courtlistener.com/recap/gov.uscourts.ca2.60988/gov.uscourts.ca2.60988.306.1.pdf",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41447758\">Comments</a>",
+    "publish_time": "2024-09-05 00:41:50",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Oakland's new school buses reduce pollution and double as giant batteries",
+    "url": "https://grist.org/transportation/oakland-electric-school-buses-battery-storage/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41450729\">Comments</a>",
+    "publish_time": "2024-09-05 04:58:28",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Snapshottable Stores",
+    "url": "https://dl.acm.org/doi/10.1145/3674637",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41450948\">Comments</a>",
+    "publish_time": "2024-09-05 05:18:13",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Meticulous (YC S21) is hiring to eliminate E2E UI tests",
+    "url": "https://news.ycombinator.com/item?id=41450775",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41450775\">Comments</a>",
+    "publish_time": "2024-09-05 05:02:36",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Kagi Assistant",
+    "url": "https://blog.kagi.com/announcing-assistant",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41448985\">Comments</a>",
+    "publish_time": "2024-09-05 02:35:53",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "CSS @property and the new style",
+    "url": "https://ryanmulligan.dev/blog/css-property-new-style/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41448740\">Comments</a>",
+    "publish_time": "2024-09-05 02:13:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
