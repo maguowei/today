@@ -1335,5 +1335,87 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "领克Z10正式上市",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%A2%86%E5%85%8BZ10%E6%AD%A3%E5%BC%8F%E4%B8%8A%E5%B8%82%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "男子把反传销做成敲诈勒索的生意",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8A%8A%E5%8F%8D%E4%BC%A0%E9%94%80%E5%81%9A%E6%88%90%E6%95%B2%E8%AF%88%E5%8B%92%E7%B4%A2%E7%9A%84%E7%94%9F%E6%84%8F%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "不给中小学装空调是不是没苦硬吃",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E7%BB%99%E4%B8%AD%E5%B0%8F%E5%AD%A6%E8%A3%85%E7%A9%BA%E8%B0%83%E6%98%AF%E4%B8%8D%E6%98%AF%E6%B2%A1%E8%8B%A6%E7%A1%AC%E5%90%83%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Dark Mode Sucks",
+    "url": "https://keenen.xyz/dark-mode-sucks/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41460591\">Comments</a>",
+    "publish_time": "2024-09-06 05:34:27",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Santander UK iOS app is 613 MB and 35% of it does nothing",
+    "url": "https://twitter.com/emergetools/status/1831772650685018352",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41459629\">Comments</a>",
+    "publish_time": "2024-09-06 03:16:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Early Days of Valve from a Woman Inside",
+    "url": "https://medium.com/@monicah428/the-early-days-of-valve-from-a-woman-inside-bf80c6b47961",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41460276\">Comments</a>",
+    "publish_time": "2024-09-06 04:47:29",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Clojure 1.12.0 is now available",
+    "url": "https://clojure.org/news/2024/09/05/clojure-1-12-0",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41460037\">Comments</a>",
+    "publish_time": "2024-09-06 04:12:52",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Feature Flags Backed by Git",
+    "url": "https://www.flipt.io/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41460061\">Comments</a>",
+    "publish_time": "2024-09-06 04:15:43",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
