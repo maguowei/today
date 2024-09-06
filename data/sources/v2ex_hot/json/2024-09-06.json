@@ -1,0 +1,57 @@
+[
+  {
+    "title": "已婚的朋友，双方老家距离远吗",
+    "url": "https://www.v2ex.com/t/1070590",
+    "summary": "wmui: 做个小调查，现在年轻人都在外工作，认识的男女朋友大概率也是外地的，我想知道结婚的朋友，你们双方老家距离多远？",
+    "publish_time": "2024-09-06 01:04:42",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "昨晚看到国足和日本的比赛，我有个想法。",
+    "url": "https://www.v2ex.com/t/1070613",
+    "summary": "Marszm: <p>不如去找国内各个监狱的人组织内部足球队，选拔出来一队人以后，再去比赛。\n赢了就给减刑，输了换人。\n绝逼比这帮海参人有斗志。</p>",
+    "publish_time": "2024-09-06 08:53:39",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "昨天被刚入职的前端吊了",
+    "url": "https://www.v2ex.com/t/1070614",
+    "summary": "zenfsharp: <p>情况是这样的：<br />\n自有系统的一个订单详情页，里面包含诸多商品条目。已有一个 API 是添加单个条目，返回的是添加的商品条目的信息。我接手后写了一个添加多个商品的 API ，其实就是用添加单个的那套逻辑循环处理了一下，返回结果自然就从单个信息变成了数组。（按理应该重查列表拿最新的全量信息，但我也刚入职，想着先入乡随俗，仿着之前的写）</p>\n<p>前端找我：你把 API 的返回格式改一下，参考查询详情的格式来。<br />\n我：行听你的，后端给你的数据怎么组织都行，按你方便来。</p>\n<p>前端直接就毛了，接下来我说什么人家就再也不看了，闷头对我一顿输出，大体意思是：<br />\n不是怎么方便怎么来，是按照合理的来。不用我告诉你怎么合理，你菜就多练。  </p>\n<p>整得我一头雾水，不知道触动了人家哪根神经了。</p>\n<p>真的是啥人都有。</p>\n<p>另：我俩都是刚入职不满三个月，前端毕业一年，我毕业十五年了。</p>",
+    "publish_time": "2024-09-06 08:54:26",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "我不李姐，群晖系统不香吗？",
+    "url": "https://www.v2ex.com/t/1070616",
+    "summary": "kalthus: <p>群晖的系统，照片、多人协作、笔记、备份、观影等等功能都有现成的 APP 可用（个人感觉笔记用 docker 容器更好）</p>\n<p>那为和还有 UNRAID 、PVE 和 ESXI 的生存空间？\n任何功能都需要自己去找 docker 实现，而且还不是很好用</p>\n<p>不太李姐</p>\n<p>非引战，理性讨论</p>",
+    "publish_time": "2024-09-06 09:00:22",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "32 岁高龄，再战大厂",
+    "url": "https://www.v2ex.com/t/1070623",
+    "summary": "dlmy: <p>接上一篇：<a href=\"https://www.v2ex.com/t/1065085\" rel=\"nofollow\">怎么样做才算是有上进心</a></p>\n<p>经过近一个月的认真思考，很艰难的做出了与女朋友分手的决定，但是因为之前房子上加了她的名字，所以目前还在扯皮中...</p>\n<p>为了跟过去的自己说拜拜，我决定放弃现在轻松的工作和舒适的生活，以 32 岁的高龄，重新出发，再战大厂。</p>\n<ul>\n<li>个人背景：211 硕，7 年开发经验（ Java/Go/大数据），国内 top5 的大厂待过 2 家，擅长用户增长领域</li>\n<li>就业方向：基于 AARRR 模型的用户增长方向（运营、优惠券、广告、短链、消息推送等业务线）</li>\n<li>复习情况：力扣算法 150 题，Java 技术体系复习了 2 遍（ Java 岗位多，其它岗位少）</li>\n<li>面试情况：目前面试 6 家，拿到 2 个 offer （业务方向不匹配，还在继续面试中）</li>\n<li>个人状态：精神层面焦虑紧张，找工作也不如预期，严重失眠</li>\n</ul>\n<p>我很迷茫，不知道自己的选择是对是错，希望过来人能给点建议，人生与工作皆可。</p>",
+    "publish_time": "2024-09-06 09:12:23",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  }
+]
