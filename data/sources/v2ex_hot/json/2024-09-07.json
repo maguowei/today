@@ -9,5 +9,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "后端接口一定要保持单一职责吗",
+    "url": "https://www.v2ex.com/t/1070858",
+    "summary": "chenxiaolani: <p>之前干前端的时候遇到一个需求就是需要用表格展示一些订单或者商品信息，但是跟我对接的后端哥们让我从两个接口拿。但是我想让他再单独出一个接口直接返回我所有的信息，这样我就不用请求两次接口再拼装展示到表格中；\n我的想法就是：\n单独一次的请求肯定比两次性能好，万一有一个请求嘎了或者慢了， 表格数据就加载慢或者不出来了。</p>\n<p>后端那哥们的想法是：接口需要保持单一职责，再单独出一个接口就重复了。</p>\n<p>当时刚到那家公司，也没劲跟这哥们扯犊子，不过他给的理由我也无办法反驳，但是我感觉我的想法也是对的。</p>\n<p>大佬们遇到这种情况，最佳的做法应该是咋样的啊。</p>",
+    "publish_time": "2024-09-07 00:17:33",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "写 RUST 写的好爽",
+    "url": "https://www.v2ex.com/t/1070876",
+    "summary": "DollarKiller: <p>感觉 rust 配合 ai 写代码超级爽 效率超高的：</p>\n<hr />\n<h3>我使用 RUST 搭配 Codeium 和 ChatGPT 写代码的技巧</h3>\n<p>感觉 codeium 搞歧视 rust 提示很全，golang 的提示就相比少了很多</p>\n<h4>开发步骤：</h4>\n<ol>\n<li>\n<p><strong>确定功能和方法：</strong>\n首先，先想好你需要实现的功能。然后，根据功能列出需要的方法以及每个方法的用途。</p>\n</li>\n<li>\n<p><strong>定义输入输出：</strong>\n接着，明确每个方法的输入参数和返回值。如果涉及到结构体等复杂数据类型，直接将这些结构体交给 ChatGPT 来生成代码。</p>\n</li>\n<li>\n<p><strong>无需过多思考细节：</strong>\n在这个过程中，你几乎不需要过多思考代码细节。只要考虑好功能模块、数据来源以及数据加工的逻辑，剩下的就可以交给 Codeium 和 ChatGPT 来完成。</p>\n</li>\n</ol>\n<h4>示例代码：</h4>\n<pre><code class=\"language-rust\">fn example_function() {\n    // 定义好方法名、功能、输入参数、返回值等，如果涉及数据库操作告诉他怎么取数据 orm 是什么 然后直接扔给 chatgpt\n}\n</code></pre>\n<hr />",
+    "publish_time": "2024-09-07 08:32:06",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "被京东官方人员给 [雷到了]",
+    "url": "https://www.v2ex.com/t/1070889",
+    "summary": "BeijingBaby: <p>起因：</p>\n<p>个人在京东经营一家小店，有个黄牛几天前拍了十几单，可能是帮人代买的，收货人地址、电话、名字，每一单都不同。</p>\n<p>确认收货后，每一单都给了差评，一星评价+恶意语言攻击。</p>\n<p>评价完后联系客服说：这下开心了</p>\n<p>反应：</p>\n<p>以为京东这类差评是可以申诉处理掉的，结果大吃一惊。</p>\n<p>过程：</p>\n<p>1 、提交了这个用户每个订单的信息，证明收货人都不是同一个人，非真实买家，评价也不能代表真实买家对货物的态度。</p>\n<p>2 、证明差评后还联系客服嚣张的表示开心了</p>\n<p>京东反馈：</p>\n<p>1 、不支持商家申诉，和客服的聊天中无法证明有纠纷产生报复评价行为。</p>\n<p>2 、需要买家在聊天软件中明确表示，我要差评了/报复，这个语言之后下的订单给的评价才能证明是恶意评价。</p>\n<blockquote>\n<p>商家申诉证据无法证明用户评价不合理，不支持处理。请知悉 商家需按照场景举证要求提供完整的咚咚沟通记录，记录中用户明确表示差评为报复性行为，且纠纷产生时间早于下单时间和评价时间。 恭祝商祺！</p>\n</blockquote>\n<p>来回交锋：</p>\n<p>一看这明显不合理啊，谁要给你差评还要事先通知你呢？</p>\n<p>这个买家的下单全是虚假订单或者代买订单，然后同一时间对所有订单发布差评，这样的行为京东居然认为是合理的。</p>\n<p>结论：</p>\n<p>任何一个人如果要去搞某个商家，比如骗运费险或者其他目的，只要拍个几十单，然后全部给差评，京东是不给处理的，因为事前没有通知卖家：我要报复/给你差评了。</p>\n<p>雷！</p>",
+    "publish_time": "2024-09-07 10:32:39",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
