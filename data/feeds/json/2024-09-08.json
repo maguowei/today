@@ -1174,5 +1174,56 @@
       "desc": "微博热搜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
     }
+  },
+  {
+    "title": "奥运冠军版我和我的祖国",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E7%89%88%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E7%A5%96%E5%9B%BD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "《喜人奇妙夜》收官，这一整季中你最喜欢哪个节目？",
+    "url": "https://www.zhihu.com/question/666358583",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Raspberry Pi Showcases Rust on the RP2350 Microcontroller",
+    "url": "https://www.phoronix.com/news/Raspberry-Pi-RP2350-Rust",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41476505\">Comments</a>",
+    "publish_time": "2024-09-08 05:14:26",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "CitizenDJ – Make music using free audio and video from the Library of Congress",
+    "url": "https://citizen-dj.labs.loc.gov/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41475998\">Comments</a>",
+    "publish_time": "2024-09-08 03:47:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Nonstandard Analysis (1972)",
+    "url": "https://sci-hub.se/https://www.jstor.org/stable/24927363",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41476507\">Comments</a>",
+    "publish_time": "2024-09-08 05:14:43",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
