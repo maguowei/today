@@ -1527,5 +1527,114 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "雪域高原焕新貌",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9B%AA%E5%9F%9F%E9%AB%98%E5%8E%9F%E7%84%95%E6%96%B0%E8%B2%8C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "600大V举杯与你共庆中秋圆满",
+    "url": "https://s.weibo.com/weibo?q=%23600%E5%A4%A7V%E4%B8%BE%E6%9D%AF%E4%B8%8E%E4%BD%A0%E5%85%B1%E5%BA%86%E4%B8%AD%E7%A7%8B%E5%9C%86%E6%BB%A1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "极越07上市",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9E%81%E8%B6%8A07%E4%B8%8A%E5%B8%82%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "雪迷宫",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9B%AA%E8%BF%B7%E5%AE%AB%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "中国历史上有哪些“冷门”政权？",
+    "url": "https://www.zhihu.com/question/650935125",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么现在招聘越来越难，求职者都是什么心态？",
+    "url": "https://www.zhihu.com/question/342659537",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Why GitHub Won",
+    "url": "https://blog.gitbutler.com/why-github-actually-won/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41490161\">Comments on Hacker News</a> | <a href=\"https://blog.gitbutler.com/why-github-actually-won/\">Source</a>",
+    "publish_time": "2024-09-10 00:27:29",
+    "source": {
+      "name": "hackernews_best",
+      "desc": "Hacker News Best",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "James Earl Jones Dies at 93",
+    "url": "https://variety.com/2024/film/news/james-earl-jones-dead-darth-vader-lion-king-1236138656/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41493634\">Comments</a>",
+    "publish_time": "2024-09-10 04:50:16",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Why GitHub won",
+    "url": "https://blog.gitbutler.com/why-github-actually-won/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41490161\">Comments</a>",
+    "publish_time": "2024-09-10 00:27:29",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "James Earl Jones, voice of Darth Vader, dies aged 93",
+    "url": "https://www.bbc.co.uk/news/articles/ce81rkg87w8o",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41493976\">Comments</a>",
+    "publish_time": "2024-09-10 05:14:27",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Transfusion: Predict the next token and diffuse images with one multimodal model",
+    "url": "https://www.arxiv.org/abs/2408.11039",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41492077\">Comments</a>",
+    "publish_time": "2024-09-10 02:51:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
