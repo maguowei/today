@@ -1230,5 +1230,78 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "山西池塘分层收纳鱼虾蟹",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E6%B1%A0%E5%A1%98%E5%88%86%E5%B1%82%E6%94%B6%E7%BA%B3%E9%B1%BC%E8%99%BE%E8%9F%B9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "台风",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Pixhell Attack: Leaking Info from Air-Gap Computers via 'Singing Pixels'",
+    "url": "https://arxiv.org/abs/2409.04930",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41504631\">Comments</a>",
+    "publish_time": "2024-09-11 03:34:11",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The US finally takes aim at truck bloat",
+    "url": "https://www.theverge.com/2024/9/10/24241047/nhtsa-rule-pedestrian-safety-fmvss-suv-truck-design",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41504881\">Comments</a>",
+    "publish_time": "2024-09-11 03:59:09",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Google Illuminate: Books and papers turned into audio",
+    "url": "https://illuminate.google.com/home",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41502510\">Comments</a>",
+    "publish_time": "2024-09-11 00:22:13",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Tutorial on Diffusion Models for Imaging and Vision",
+    "url": "https://arxiv.org/abs/2403.18103",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41504885\">Comments</a>",
+    "publish_time": "2024-09-11 03:59:39",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Another police raid in Germany",
+    "url": "https://forum.torproject.org/t/tor-relays-artikel-5-e-v-another-police-raid-in-germany-general-assembly-on-sep-21st-2024/14533",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41505009\">Comments</a>",
+    "publish_time": "2024-09-11 04:12:49",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
