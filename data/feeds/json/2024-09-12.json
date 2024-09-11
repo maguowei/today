@@ -1332,5 +1332,94 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "刘德华邀你一起见非凡",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E9%82%80%E4%BD%A0%E4%B8%80%E8%B5%B7%E8%A7%81%E9%9D%9E%E5%87%A1%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "文化中国行",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%96%87%E5%8C%96%E4%B8%AD%E5%9B%BD%E8%A1%8C%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "丰收的颜色惊艳了整个秋天",
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%B0%E6%94%B6%E7%9A%84%E9%A2%9C%E8%89%B2%E6%83%8A%E8%89%B3%E4%BA%86%E6%95%B4%E4%B8%AA%E7%A7%8B%E5%A4%A9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "为什么轻小说「败犬女主也太多了」中的男主温水始终没有和其中一位败犬开始恋情？",
+    "url": "https://www.zhihu.com/question/662714430",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何用 AI 做旅行玩乐攻略？",
+    "url": "https://www.zhihu.com/question/666088199",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Algorithmic Wage Discrimination (2023)",
+    "url": "https://columbialawreview.org/content/on-algorithmic-wage-discrimination/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41513417\">Comments</a>",
+    "publish_time": "2024-09-12 01:20:24",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Pathpilot (YC S24) is hiring a founding AI and full-stack engineer",
+    "url": "https://www.ycombinator.com/companies/pathpilot/jobs/GlywVaz-founding-engineer-ai-full-stack",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41515304\">Comments</a>",
+    "publish_time": "2024-09-12 05:00:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Noisy neighbor detection with eBPF",
+    "url": "https://netflixtechblog.com/noisy-neighbor-detection-with-ebpf-64b1f4b3bbdd",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41513860\">Comments</a>",
+    "publish_time": "2024-09-12 02:11:31",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A MiniGolf game for Palm OS",
+    "url": "https://ctrl-c.club/~captain/posts/2024-08-29-holy-smokes-I-Just-released-a-minigolf-game-for-palmos-in-2024.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41514944\">Comments</a>",
+    "publish_time": "2024-09-12 04:10:20",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
