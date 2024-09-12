@@ -1232,5 +1232,101 @@
       "desc": "知乎热榜",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
     }
+  },
+  {
+    "title": "简约风才是哥哥的心头好",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%AE%80%E7%BA%A6%E9%A3%8E%E6%89%8D%E6%98%AF%E5%93%A5%E5%93%A5%E7%9A%84%E5%BF%83%E5%A4%B4%E5%A5%BD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "服美役",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9C%8D%E7%BE%8E%E5%BD%B9%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "济南暑期接待游客超2396万人",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B5%8E%E5%8D%97%E6%9A%91%E6%9C%9F%E6%8E%A5%E5%BE%85%E6%B8%B8%E5%AE%A2%E8%B6%852396%E4%B8%87%E4%BA%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "猫 没找你收费就不错了",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8C%AB+%E6%B2%A1%E6%89%BE%E4%BD%A0%E6%94%B6%E8%B4%B9%E5%B0%B1%E4%B8%8D%E9%94%99%E4%BA%86%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "美国履行WTO规则义务情况报告",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B1%A5%E8%A1%8CWTO%E8%A7%84%E5%88%99%E4%B9%89%E5%8A%A1%E6%83%85%E5%86%B5%E6%8A%A5%E5%91%8A%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "台风贝碧嘉中秋期间或将影响华东地区",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E8%B4%9D%E7%A2%A7%E5%98%89%E4%B8%AD%E7%A7%8B%E6%9C%9F%E9%97%B4%E6%88%96%E5%B0%86%E5%BD%B1%E5%93%8D%E5%8D%8E%E4%B8%9C%E5%9C%B0%E5%8C%BA%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "是否能区分出一个人是“矫情”还是ta感觉的痛苦真的比别人多？",
+    "url": "https://www.zhihu.com/question/272003923",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Create a RAG Pipeline with Pinecone",
+    "url": "https://docs.vectorize.io/tutorials-and-how-to-guides/pinecone-quickstart",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41524498\">Comments</a>",
+    "publish_time": "2024-09-13 03:20:24",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "DiyPresso: DIY Espresso Machine",
+    "url": "https://www.diypresso.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41524298\">Comments</a>",
+    "publish_time": "2024-09-13 03:00:03",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Making Things People Want vs. Making Things That Alter Thinking",
+    "url": "https://rohan.ga/blog/building-stuff/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41524080\">Comments</a>",
+    "publish_time": "2024-09-13 02:38:15",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
