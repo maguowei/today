@@ -1020,5 +1020,56 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "台风贝碧嘉直播",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E8%B4%9D%E7%A2%A7%E5%98%89%E7%9B%B4%E6%92%AD%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "野孩子 事实孤儿",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%87%8E%E5%AD%A9%E5%AD%90+%E4%BA%8B%E5%AE%9E%E5%AD%A4%E5%84%BF%23&Refer=top",
+    "source": {
+      "name": "weibo_hot",
+      "desc": "微博热搜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/weibo.png"
+    }
+  },
+  {
+    "title": "Show HN: Server Uptime",
+    "url": "https://server-uptime.pw/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41548510\">Comments</a>",
+    "publish_time": "2024-09-16 00:38:47",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A bullet hell game written in bash",
+    "url": "https://twitter.com/SomeUnusualGame/status/1834946212610400522",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41548278\">Comments</a>",
+    "publish_time": "2024-09-16 00:04:27",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Terence Tao: creative strategies, this aspect of LLM tools is still weak",
+    "url": "https://mathstodon.xyz/@tao/113142753409304792",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41548997\">Comments</a>",
+    "publish_time": "2024-09-16 01:42:10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
