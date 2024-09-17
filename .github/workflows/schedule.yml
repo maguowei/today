@@ -38,10 +38,10 @@ jobs:
       if: steps.cache-dependencies.outputs.cache-hit != 'true'
       run: |
         poetry install
-    - name: weibo
-      continue-on-error: true
-      run: |
-        poetry run python3 weibo.py
+#    - name: weibo
+#      continue-on-error: true
+#      run: |
+#        poetry run python3 weibo.py
     - name: zhihu
       continue-on-error: true
       run: |
