@@ -31,5 +31,49 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "大佬们，想请教一下数据库设计",
+    "url": "https://www.v2ex.com/t/1075881",
+    "summary": "iamtuzi3333: 小弟目前遇到一个棘手的问题，就是现在咱们的公司用的数据库是 MongoDB ，目前出现吃内存严重现象，同时查询效率不高，数据其实很简单，但是量很多，都是传感器数据，现在每秒都有数据入库，都是一条条的 json ，现在用的 MongoDB ，单个集合就存储一个传感器的数据，但是我发现查询接口太慢了，查询过程只有一个字段去比较，就是大于 and 小于这个值的字段的所有数据，这个都很慢，数据关键一个字段就是 data 数组，200 个浮点数。大佬们有其他数据库推荐吗，不涉及多表联合查询，都是单表操作。",
+    "publish_time": "2024-09-26 09:49:13",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "除了 NAS 和软路由，还有什么适合在家自己 DIY 折腾的程序员玩具？",
+    "url": "https://www.v2ex.com/t/1075886",
+    "summary": "IchinoseChiya: 万能的 V 友有啥想法么",
+    "publish_time": "2024-09-26 09:58:07",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "虚心请教： 10.回家的路上漫长的高铁时间你们都干啥？求推荐游戏，不氪的那种。",
+    "url": "https://www.v2ex.com/t/1075899",
+    "summary": "easyii: 10.1 回去的路上太无聊，有什么好玩的游戏推荐吗？不氪，不肝的那种。",
+    "publish_time": "2024-09-26 10:23:36",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "A 股已经疯了",
+    "url": "https://www.v2ex.com/t/1075993",
+    "summary": "chenduke: <p>虽然只涨三天，但现在已无心工作，每过几秒就想看看行情。</p>",
+    "publish_time": "2024-09-26 14:29:28",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
