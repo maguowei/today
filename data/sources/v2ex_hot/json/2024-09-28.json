@@ -97,5 +97,16 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "代理检测：在线检测您是否在使用 Clash",
+    "url": "https://www.v2ex.com/t/1076579",
+    "summary": "mikewang: <h1>ClashScan</h1>\n<p>（推荐使用最新 Chrome 内核浏览器） <a href=\"https://mikewang000000.github.io/ClashScan/\" rel=\"nofollow\">https://mikewang000000.github.io/ClashScan/</a></p>\n<p>代码开源在 GitHub ，页面部署在 GitHub Pages 上。</p>\n<hr />\n<p>Clash 是一个比较常见的代理软件，有很多衍生版本和 GUI 程序。<br />\n不过我最近才发现它是允许 CORS （跨域）的，这带来了不小的安全隐患。</p>\n<p>再加上很多 GUI 默认不加 Secret 进行身份验证，即使运行在 127.0.0.1 ，也能被外部网站随时调用。</p>\n<p><strong>如果您没有修改默认配置，值得检测一次。</strong></p>\n<hr />\n<ul>\n<li>默认配置下容易检测的：Clash Verge / Clash Verge Rev / ClashX / ClashX Pro / ClashX Meta</li>\n<li>默认配置下相对安全的：最新的 Clash for Windows / Clash Nyanpasu</li>\n</ul>",
+    "publish_time": "2024-09-28 18:55:59",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]

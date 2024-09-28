@@ -1661,5 +1661,114 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "你身边有一直坚持锻炼身体的人吗，是不是真的比别人更健康？",
+    "url": "https://www.zhihu.com/question/635523043",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "怎样才能不把时间花费在没用的事情上？",
+    "url": "https://www.zhihu.com/question/667713348",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "我国出台促进高质量充分就业的 24 条举措，如何解读？会有什么影响？",
+    "url": "https://www.zhihu.com/question/668218708",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "生活中有哪些「看着差一点，其实差很多」的事情？",
+    "url": "https://www.zhihu.com/question/668147237",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么《黑神话:悟空》里面哪吒用的武器不是火尖枪而是斩妖剑？",
+    "url": "https://www.zhihu.com/question/667644150",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "14 岁女孩遭教官体罚去世，父亲盼严惩责任人，责任人将受到怎样惩罚？父母为孩子选择培训机构应注意什么？",
+    "url": "https://www.zhihu.com/question/675745413",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "代理检测：在线检测您是否在使用 Clash",
+    "url": "https://www.v2ex.com/t/1076579",
+    "summary": "mikewang: <h1>ClashScan</h1>\n<p>（推荐使用最新 Chrome 内核浏览器） <a href=\"https://mikewang000000.github.io/ClashScan/\" rel=\"nofollow\">https://mikewang000000.github.io/ClashScan/</a></p>\n<p>代码开源在 GitHub ，页面部署在 GitHub Pages 上。</p>\n<hr />\n<p>Clash 是一个比较常见的代理软件，有很多衍生版本和 GUI 程序。<br />\n不过我最近才发现它是允许 CORS （跨域）的，这带来了不小的安全隐患。</p>\n<p>再加上很多 GUI 默认不加 Secret 进行身份验证，即使运行在 127.0.0.1 ，也能被外部网站随时调用。</p>\n<p><strong>如果您没有修改默认配置，值得检测一次。</strong></p>\n<hr />\n<ul>\n<li>默认配置下容易检测的：Clash Verge / Clash Verge Rev / ClashX / ClashX Pro / ClashX Meta</li>\n<li>默认配置下相对安全的：最新的 Clash for Windows / Clash Nyanpasu</li>\n</ul>",
+    "publish_time": "2024-09-28 18:55:59",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "Incremental Garbage Collection in Ruby 2.2",
+    "url": "https://blog.heroku.com/incremental-gc",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41680207\">Comments</a>",
+    "publish_time": "2024-09-28 21:46:22",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ask HN: Why does current interest in retro computing focus on the early 80s?",
+    "url": "https://news.ycombinator.com/item?id=41680299",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41680299\">Comments</a>",
+    "publish_time": "2024-09-28 22:06:59",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "SunVox: Powerful Modular Synthesizer and DAW",
+    "url": "https://www.warmplace.ru/soft/sunvox/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41679972\">Comments</a>",
+    "publish_time": "2024-09-28 21:00:27",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Role of Deliberate Practice in the Development of Creativity (2014)",
+    "url": "https://repositories.lib.utexas.edu/server/api/core/bitstreams/c8cc4a4f-e641-462b-9a72-654e60f71485/content",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41680156\">Comments</a>",
+    "publish_time": "2024-09-28 21:35:48",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
