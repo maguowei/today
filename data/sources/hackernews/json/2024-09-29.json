@@ -394,5 +394,27 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Show HN: htmgo - build simple and scalable systems with golang + htmx",
+    "url": "https://htmgo.dev",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41683144\">Comments</a>",
+    "publish_time": "2024-09-29 05:34:18",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How Discord stores trillions of messages (2023)",
+    "url": "https://discord.com/blog/how-discord-stores-trillions-of-messages",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41683293\">Comments</a>",
+    "publish_time": "2024-09-29 06:07:43",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
