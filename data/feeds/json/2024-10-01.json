@@ -540,5 +540,45 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "为什么民航飞机降落要半个小时以上？",
+    "url": "https://www.zhihu.com/question/424822116",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "「累丑」是一种什么样的状态？有什么拯救的办法吗？",
+    "url": "https://www.zhihu.com/question/443461198",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "GnuCash 5.9 Released",
+    "url": "https://www.gnucash.org/news.phtml",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41699730\">Comments</a>",
+    "publish_time": "2024-10-01 01:26:03",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Pooltool: General purpose billiards simulator for science and engineering",
+    "url": "https://github.com/ekiefl/pooltool",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41701219\">Comments</a>",
+    "publish_time": "2024-10-01 03:41:50",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
