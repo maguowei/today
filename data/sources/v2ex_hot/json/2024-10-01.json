@@ -31,5 +31,38 @@
       "desc": "v2ex 最热主题",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
     }
+  },
+  {
+    "title": "ChatGPT 的 UI 这几个有什么区别？",
+    "url": "https://www.v2ex.com/t/1077221",
+    "summary": "TigerS: <ul>\n<li>NextChat (ChatGPT-Next-Web)</li>\n<li>LobeChat</li>\n<li>ChatBox</li>\n</ul>\n<p>准备自己搭建一个朋友用，这几个在功能上有什么区别呢？哪个更好些？\n还有没有别的可以推荐的？</p>\n<p>另外求推荐一个靠谱的 API 中转，现在暂时看的是 GPTAPIUS 的</p>",
+    "publish_time": "2024-10-01 00:58:41",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "求推荐个轻薄手机",
+    "url": "https://www.v2ex.com/t/1077228",
+    "summary": "hartlee: 轻薄的 续航长一些的<br /><br />不玩游戏",
+    "publish_time": "2024-10-01 07:15:04",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "想到一个让电车加电🔋像加油⛽️一样方便的 idea",
+    "url": "https://www.v2ex.com/t/1077255",
+    "summary": "tt83: <p>实现方案：\n现在电车里的电池其实也是一节节的小电池拼接成的，先把电池做成球形的像一颗颗小钢珠，加电站跟现在的加油站差不多，加电时先把电池从电箱底部排出，再注入满电的电池球，排出的电池球在加电站再充电，这样可以循环利用，而且使加电像加油一样方便。</p>\n<p>与换电的区别：\n换电需要车辆在生产时就设计好电池规格和结构，一旦设计好就是固定的，很难做到通用。而我这种电箱可以像油箱一样按车辆大小设计不同大小电箱，但是电池球是通用的，而且电箱可以做成异性增加空间利用率。电箱与电池间实现解耦。</p>\n<p>需要解决的问题：\n怎样使电池球按正负极依次连接，可以在电箱内施加一个磁场，或者电池本身是有磁性的，这样电池球就可以按正确的顺序排列了。</p>\n<p>结尾：\n可能你觉得这只是一个无稽之谈，但集装箱船也只是改变了组合方式就大大提高了运输效率深刻改变了当今的世界</p>",
+    "publish_time": "2024-10-01 12:06:45",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
   }
 ]
