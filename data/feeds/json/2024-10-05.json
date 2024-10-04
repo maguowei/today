@@ -408,5 +408,25 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "大家25保研/推免怎么样了？",
+    "url": "https://www.zhihu.com/question/618122145",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Show HN: FFmpeg-over-IP – Connect to remote FFmpeg servers",
+    "url": "https://github.com/steelbrain/ffmpeg-over-ip",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41743780\">Comments</a>",
+    "publish_time": "2024-10-05 01:49:01",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
