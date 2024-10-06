@@ -19,26 +19,9 @@ class Today(ABC):
         fields = [self.name, self.desc, self.icon, self.url]
         if not all(f is not None for f in fields):
             raise TypeError(f"init error: fields has None value")
-        self.latest_source_data = self.get_latest_data('sources')
-        self.add_source_data = []
-        self.latest_feeds_data = self.get_latest_feeds_data()
-
     @abstractmethod
     def crawler(self) -> list[dict]:
         pass
-
-    def get_latest_data(self, module) -> list:
-        filename = self.get_filename(module, 'json')
-        try:
-            with open(filename) as f:
-                data = json.load(f)
-                return data
-        except FileNotFoundError:
-            return []
-
-    def get_latest_feeds_data(self) -> list:
-        data = self.get_latest_data('feeds')
-        return data
 
     def get_filename(self, module, ext):
         today = get_beijing_time().strftime('%Y-%m-%d')
@@ -96,6 +79,8 @@ class Today(ABC):
 
     def export(self):
         data = self.crawler()
+
+
         self.merge_source_data(data)
         if self.add_source_data:
             self.dump_json('sources')
