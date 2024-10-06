@@ -73,7 +73,7 @@ class Today(ABC):
 
     def export(self):
         data = self.crawler()
-        history_data_import()
+        history_data_import(limit=1)
         feeds = self.get_feeds(data)
         insert_feeds(feeds)
 
@@ -84,7 +84,7 @@ class Today(ABC):
         self.dump_md('sources')
         self.dump_json('feeds')
         self.dump_md('feeds')
-        logger.info(f'export data, name: {self.name}, desc: {self.desc}, count: {len(self.latest_source_data)}, new: {len(self.add_source_data)}')
+        logger.info(f'export data, name: {self.name}, desc: {self.desc}, count: {len(self.latest_source_data)}')
 
     def get_feeds(self, data):
         feeds = []

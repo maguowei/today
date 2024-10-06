@@ -10,7 +10,7 @@ JSON_DATA_PATH = 'data/feeds/json'
 
 conn = sqlite3.connect('today.db')
 
-def history_data_import():
+def history_data_import(limit=None):
     c = conn.cursor()
 
     table_create_sql = '''
@@ -35,12 +35,16 @@ def history_data_import():
     c.execute(table_create_sql)
     c.execute(table_index_create_sql)
 
-    for file in sorted(os.listdir(JSON_DATA_PATH)):
+    files = sorted(os.listdir(JSON_DATA_PATH))
+    if limit:
+        files = files[len(files)-limit:]
+
+    for file in files:
         filepath = f'{JSON_DATA_PATH}/{file}'
         date_str = file.rstrip('.json')
         with open(filepath) as f:
             logger.info(f'process file: {filepath}')
-            data = json.load(f)
+            data = json.load(f)[::-1]
             insert_feeds(data, date_str)
 
 def insert_feeds(data, date_str=get_beijing_time().date()):
@@ -48,11 +52,10 @@ def insert_feeds(data, date_str=get_beijing_time().date()):
     insert_sql = 'INSERT INTO feed (title, url, source_name, source_desc, source_icon, archive_date) VALUES (?, ?, ?, ?, ?, ?)'
 
     for feed in data:
-        print(feed)
+        # print(feed)
         try:
             c.execute(insert_sql, (
-            feed['title'], feed['url'], feed['source']['name'], feed['source']['desc'], feed['source']['icon'],
-            date_str))
+            feed['title'], feed['url'], feed['source']['name'], feed['source']['desc'], feed['source']['icon'], date_str))
         except sqlite3.IntegrityError as e:
             pass
     conn.commit()
@@ -79,7 +82,7 @@ def get_today_feed():
 def get_today_feed_by_source(source_name):
     c = conn.cursor()
     today = get_beijing_time().date()
-    select_sql = f'SELECT * FROM feed WHERE source_name = "{source_name}" AND archive_date = "{today}" ORDER BY id DESC'
+    select_sql = f'SELECT * FROM feed WHERE source_name = "{source_name}" AND archive_date = "{today}" ORDER BY id'
     data = c.execute(select_sql).fetchall()
     feeds = [_row_to_feed(row) for row in data]
     return feeds
