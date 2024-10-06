@@ -627,5 +627,25 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "你见过最好看的字是什么样子的？",
+    "url": "https://www.zhihu.com/question/371404904",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "WordPress Plugin Mirror Downloader (Proof of Concept)",
+    "url": "https://github.com/centminmod/wordpress-plugin-mirror-poc",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=41753092\">Comments</a>",
+    "publish_time": "2024-10-06 05:31:51",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
