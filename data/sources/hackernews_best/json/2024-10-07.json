@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "title": "Sq.io: jq for databases and much more",
+    "url": "https://sq.io/",
+    "source": {
+      "name": "hackernews_best",
+      "desc": "Hacker News Best",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Google’s AI thinks I left a Gatorade bottle on the moon",
+    "url": "https://edwardbenson.com/2024/10/google-ai-thinks-i-left-gatorade-on-the-moon",
+    "source": {
+      "name": "hackernews_best",
+      "desc": "Hacker News Best",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  }
+]
