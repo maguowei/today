@@ -1,5 +1,32 @@
 [
   {
+    "title": "Witches Around the World",
+    "url": "https://aeon.co/essays/the-universal-belief-in-witches-reveals-our-deepest-fears",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Nearly all of the Google Images results for \"Baby Peacock\" are AI generated",
+    "url": "https://twitter.com/notengoprisa/status/1842550658102079556",
+    "source": {
+      "name": "hackernews_best",
+      "desc": "Hacker News Best",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "S14 瑞士轮烬已累计七连败，他是版本陷阱吗？他究竟是各战队教练组提前备好的战术还是首战的东施效颦？",
+    "url": "https://www.zhihu.com/question/766753543",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "uBlock Origin supports filtering CNAME cloaking sites on Firefox now",
     "url": "https://github.com/gorhill/uBlock/commit/6acf97bf51",
     "source": {
