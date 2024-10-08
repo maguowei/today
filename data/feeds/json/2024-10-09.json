@@ -1,5 +1,131 @@
 [
   {
+    "title": "Improving Parquet Dedupe on Hugging Face Hub",
+    "url": "https://huggingface.co/blog/improve_parquet_dedupe",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Sieve (YC W22) Is Hiring Engineers to Build AI Infrastructure for Video",
+    "url": "https://www.sievedata.com/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "TikTok sued by 13 states and DC, accused of harming younger users",
+    "url": "https://www.reuters.com/legal/tiktok-sued-by-13-states-dc-accused-harming-younger-users-2024-10-08/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How to get started in Graphics Programming in 2024?",
+    "url": "https://twitter.com/rainbowpikmin/status/1842967087809237119",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "《一人之下》689话，求真会黄宁儿救李慕玄，真的只为倒转八方吗？",
+    "url": "https://www.zhihu.com/question/735672907",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "白衣渡江的吕蒙，杀死蜀汉名将关羽，为什么名气一般呢？",
+    "url": "https://www.zhihu.com/question/594134251",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价《最终幻想7：重生》的销量不达预期？",
+    "url": "https://www.zhihu.com/question/726342495",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "《死神》动画中黑崎一护为什么只会用月牙天冲？",
+    "url": "https://www.zhihu.com/question/660911215",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "多名大妈在机场休息厅开音响跳舞劝不住，机场称「没有执法权，只能劝阻」，该如何有效处理此事？",
+    "url": "https://www.zhihu.com/question/748727234",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "网络小说要想到成功赚钱，文笔笔力占了很大因素吗？",
+    "url": "https://www.zhihu.com/question/758016627",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "睡懒觉的那批人结婚后还睡吗？",
+    "url": "https://www.zhihu.com/question/767486093",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "有没有最近一直在单曲循环的歌曲?",
+    "url": "https://www.zhihu.com/question/666769653",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价《音乐缘计划》第八期？",
+    "url": "https://www.zhihu.com/question/762908484",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "官方通报无锡虹桥医院调查情况「团伙式作案、全链条造假、恶意对抗调查」，涉事人员将承担怎样的责任？",
+    "url": "https://www.zhihu.com/question/782345094",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "为什么人们都说313历史学统考是选拔人才的必然方式，313历史学统考优于自主命题的客观事实颠扑不破？",
     "url": "https://www.zhihu.com/question/668291293",
     "source": {
