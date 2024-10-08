@@ -1,5 +1,68 @@
 [
   {
+    "title": "The Static Site Paradox",
+    "url": "https://kristoff.it/blog/static-site-paradox/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "John Hopfield and Geoff Hinton Win Physics Nobel Prize [pdf]",
+    "url": "https://www.nobelprize.org/uploads/2024/10/press-physicsprize2024.pdf",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Nobel Prize in Physics Awarded for Machine Learning and Neural Networks",
+    "url": "https://www.nobelprize.org/prizes/physics/2024/summary/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "2024 诺贝尔物理学奖授予两位机器学习领域科学家，为什么会颁给这个领域？物理学对机器学习有什么帮助？",
+    "url": "https://www.zhihu.com/question/777943030",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "有没有最近一直在单曲循环的歌曲?",
+    "url": "https://www.zhihu.com/question/666769653",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "兴趣班到底有没有用?",
+    "url": "https://www.zhihu.com/question/760889281",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价 369 在 S14 全球总决赛上的表现？",
+    "url": "https://www.zhihu.com/question/761431715",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "A popular but wrong way to convert a string to uppercase or lowercase",
     "url": "https://devblogs.microsoft.com/oldnewthing/20241007-00/?p=110345",
     "source": {
