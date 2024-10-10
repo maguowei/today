@@ -1,5 +1,59 @@
 [
   {
+    "title": "You Don't Know Jack about Bandwidth",
+    "url": "https://cacm.acm.org/practice/you-dont-know-jack-about-bandwidth/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Why Gov.uk's Exit this Page component doesn't use the Escape key",
+    "url": "https://beeps.website/blog/2024-10-09-why-govuk-exit-this-page-doesnt-use-escape/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Tcl the Misunderstood (Antirez)",
+    "url": "http://antirez.com/articoli/tclmisunderstood.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "如果游戏里角色能带入现实，你希望带谁?",
+    "url": "https://www.zhihu.com/question/665936334",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何看待希诺宁流水？",
+    "url": "https://www.zhihu.com/question/793266839",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何看待乒乓球亚锦赛女团决赛孙颖莎 2-3 输给张本美和？",
+    "url": "https://www.zhihu.com/question/797626771",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "Upgrading Homebrew and avoiding the \"failed to verify attestation\" error",
     "url": "https://til.simonwillison.net/homebrew/no-verify-attestations",
     "source": {
