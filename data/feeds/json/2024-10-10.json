@@ -1,5 +1,59 @@
 [
   {
+    "title": "Tcl the Misunderstood (2006)",
+    "url": "http://antirez.com/articoli/tclmisunderstood.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ask HN: Tech Stack Behind the Claude App?",
+    "url": "https://news.ycombinator.com/item?id=41795712",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Mozilla fixes Firefox zero-day actively exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-zero-day-actively-exploited-in-attacks/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Internet Archive: Security breach alert",
+    "url": "https://www.theverge.com/2024/10/9/24266419/internet-archive-ddos-attack-pop-up-message",
+    "source": {
+      "name": "hackernews_best",
+      "desc": "Hacker News Best",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "成龙为什么拿不到金像奖？",
+    "url": "https://www.zhihu.com/question/23404449",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "从企业招聘视角看，哪些特质是「靠谱」员工所共有的？",
+    "url": "https://www.zhihu.com/question/668869111",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "WASM Is the New CGI",
     "url": "https://roborooter.com/post/wasm-is-the-new-cgi/",
     "source": {
