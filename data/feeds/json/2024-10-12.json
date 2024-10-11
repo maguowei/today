@@ -1,5 +1,59 @@
 [
   {
+    "title": "Lm.rs: Minimal CPU LLM inference in Rust with no dependency",
+    "url": "https://github.com/samuel-vitorino/lm.rs",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Started a guide to writing FUSE filesystems in Python",
+    "url": "https://gwolf.org/2024/10/started-a-guide-to-writing-fuse-filesystems-in-python.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Illusion of Information Adequacy",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0310216",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Regular expression search with suffix arrays (2015)",
+    "url": "https://blog.nelhage.com/2015/02/regular-expression-search-with-suffix-arrays/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "发现孩子很普通怎么办？",
+    "url": "https://www.zhihu.com/question/412620700",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "《黑神话：悟空》中孙悟空的六根器分别是什么，它们的原型都有什么来历？",
+    "url": "https://www.zhihu.com/question/665521790",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "Grokking at the edge of linear separability",
     "url": "https://arxiv.org/abs/2410.04489",
     "source": {
