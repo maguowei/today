@@ -1,5 +1,86 @@
 [
   {
+    "title": "My WordPress Slack Ban",
+    "url": "https://linuxjedi.co.uk/my-wordpress-slack-ban/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "AMD's Turin: 5th Gen EPYC Launched",
+    "url": "https://chipsandcheese.com/p/amds-turin-5th-gen-epyc-launched",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Tesla's Beer-Serving Optimus Robot Was Controlled by a Human the Whole Time",
+    "url": "https://jalopnik.com/teslas-beer-serving-optimus-robot-was-controlled-by-a-h-1851670923",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "天津五大道房子内部为什么不让游人参观？",
+    "url": "https://www.zhihu.com/question/45477538",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何看待足球评论员董路称「中国女乒 1-3 日本相当于国足 0-7 日本」，你认为该说法是否合理？",
+    "url": "https://www.zhihu.com/question/812273172",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价特斯拉「Cyber cab」？",
+    "url": "https://www.zhihu.com/question/816288367",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "男孩骑行被碾压身亡案当事司机已取保候审，并取得小孩家属方的谅解签订赔偿协议，案件后续可能是什么走向？",
+    "url": "https://www.zhihu.com/question/822478022",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "特斯拉跌超 8%，市值蒸发近 670 亿美元，Robotaxi 活动让投资者失望，为何市场不予认可？",
+    "url": "https://www.zhihu.com/question/821523443",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "国新办 10 月 12 日举行新闻发布会，财政部部长蓝佛安出席，哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/791430894",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "Bug, $50K+ in bounties: how Zendesk left a backdoor in companies",
     "url": "https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52",
     "source": {
