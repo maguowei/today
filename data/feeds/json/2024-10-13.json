@@ -1,5 +1,149 @@
 [
   {
+    "title": "Diffusion for World Modeling",
+    "url": "https://diamond-wm.github.io/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Starship Flight 5 [video]",
+    "url": "https://twitter.com/SpaceX/status/1845152255944819015",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: I built a free screen recording app similar to Screen Studio",
+    "url": "https://www.screenvivid.com",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A Novel Channel Contention Mechanism for Improving Wi-Fi's Reliability",
+    "url": "https://arxiv.org/abs/2410.07874",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Secret Documents Show Hamas Tried to Persuade Iran to Join Its Oct. 7 Attack",
+    "url": "https://www.nytimes.com/2024/10/12/world/middleeast/hamas-israel-war.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Functional PHP (2015)",
+    "url": "https://fluffyandflakey.blog/2015/10/22/functional-php/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "哪里可以买到 Windows 11 LTSC？",
+    "url": "https://www.v2ex.com/t/1079824",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "020 广州电信 宽带 限速 公网 IP 掉了",
+    "url": "https://www.v2ex.com/t/1079783",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "我有点迷茫了！关于楼上噪音",
+    "url": "https://www.v2ex.com/t/1079781",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "最近好多蟑螂，有大也有小，求治、驱赶蟑螂的法子",
+    "url": "https://www.v2ex.com/t/1079764",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "原来 007 可以被说成「double O 7」，哈哈才发现",
+    "url": "https://www.v2ex.com/t/1079747",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "新加坡家庭宽带 10G 如何利用起来",
+    "url": "https://www.v2ex.com/t/1079730",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "一辆车，因为智驾就多卖4-5万，你认为值不值？",
+    "url": "https://www.zhihu.com/question/804069512",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "S14瑞士轮DK VS WBG，如何评价这场比赛？",
+    "url": "https://www.zhihu.com/question/858113958",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何看待张本智和3：1夺得亚锦赛冠军？",
+    "url": "https://www.zhihu.com/question/859671829",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "2024 乒乓球亚锦赛，林诗栋 1-3 负于张本智和憾取男单亚军，身兼四项夺得两冠，如何评价他的表现？",
+    "url": "https://www.zhihu.com/question/853959401",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "Large language models reduce public knowledge sharing on online Q&A platforms",
     "url": "https://academic.oup.com/pnasnexus/article/3/9/pgae400/7754871",
     "source": {
