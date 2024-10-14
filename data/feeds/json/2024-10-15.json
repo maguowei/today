@@ -1,5 +1,23 @@
 [
   {
+    "title": "Zamba2-7B",
+    "url": "https://www.zyphra.com/post/zamba2-7b",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "为什么说算力网络能构建真正的 AI 时代？",
+    "url": "https://www.zhihu.com/question/667025196",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "Show HN: Vortex – a high-performance columnar file format",
     "url": "https://github.com/spiraldb/vortex",
     "source": {
