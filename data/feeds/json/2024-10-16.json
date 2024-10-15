@@ -1,5 +1,50 @@
 [
   {
+    "title": "All possible plots by major authors (2020)",
+    "url": "https://www.the-fence.com/plots-major-authors/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Advancing Memory Safety",
+    "url": "https://security.googleblog.com/2024/10/safer-with-google-advancing-memory.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Dbt – Incremental but Incomplete",
+    "url": "https://tobikodata.com/dbt-incremental-but-incomplete.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "有没有「摸鱼」「工作」两不误，既在上班时间摸鱼放松了压力，又能提升工作质量的方式方法？",
+    "url": "https://www.zhihu.com/question/814845384",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "《流浪地球3》如何避免三主线双暗线《流浪地球2》那种信息过载的问题？",
+    "url": "https://www.zhihu.com/question/830765620",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "The C23 edition of Modern C",
     "url": "https://gustedt.wordpress.com/2024/10/15/the-c23-edition-of-modern-c/",
     "source": {
