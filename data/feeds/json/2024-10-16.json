@@ -1,5 +1,50 @@
 [
   {
+    "title": "Sqlite3 WebAssembly",
+    "url": "https://sqlite.org/wasm/doc/trunk/index.md",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The C23 edition of Modern C is now available for free",
+    "url": "https://gustedt.wordpress.com/2024/10/15/the-c23-edition-of-modern-c/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Intel and AMD form advisory group to reshape x86 ISA",
+    "url": "https://www.theregister.com/2024/10/15/intel_amd_x86_future/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "应不应该让孩子上补习班？",
+    "url": "https://www.zhihu.com/question/922061502",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "工作中如何科学午睡？",
+    "url": "https://www.zhihu.com/question/666050433",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "如何评价「县中尖子生流失、清北率和本科率下滑」？身陷极端应试怪圈的县中该如何自救？",
     "url": "https://www.zhihu.com/question/871865470",
     "source": {
