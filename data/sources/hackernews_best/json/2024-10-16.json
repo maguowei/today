@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "title": "Sqlite3 WebAssembly",
+    "url": "https://sqlite.org/wasm/doc/trunk/index.md",
+    "source": {
+      "name": "hackernews_best",
+      "desc": "Hacker News Best",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  }
+]
