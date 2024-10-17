@@ -1,5 +1,50 @@
 [
   {
+    "title": "The Fifth Generation Project in Japan",
+    "url": "https://www.sjsu.edu/faculty/watkins/5thgen.htm",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "C++ proposal: There are 8 bits in a byte",
+    "url": "https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3477r0.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "ESPN Faces Proposed Fine for Improper Use of Emergency Alert Tones",
+    "url": "https://www.fcc.gov/document/espn-faces-proposed-fine-improper-use-emergency-alert-tones",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "《还珠格格》中紫薇为何能原谅冒充格格的小燕子？",
+    "url": "https://www.zhihu.com/question/564017248",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "你最近在读的书是哪一本？",
+    "url": "https://www.zhihu.com/question/800718032",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "Unit tests as documentation",
     "url": "https://www.thecoder.cafe/p/unit-tests-as-documentation",
     "source": {
