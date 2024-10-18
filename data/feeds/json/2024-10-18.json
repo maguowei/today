@@ -1,5 +1,122 @@
 [
   {
+    "title": "Smart pointers for the kernel",
+    "url": "https://lwn.net/Articles/992055/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Grandmaster-level chess without search",
+    "url": "https://github.com/google-deepmind/searchless_chess",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Fifth Generation Project in Japan (1992)",
+    "url": "https://www.sjsu.edu/faculty/watkins/5thgen.htm",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "C++ proposal: There are exactly 8 bits in a byte",
+    "url": "https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3477r0.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Tubeworms live around deep-sea vents",
+    "url": "https://www.economist.com/science-and-technology/2024/10/16/tubeworms-live-beneath-the-planetary-crust-around-deep-sea-vents",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Type 2 diabetes: New treatment eliminates insulin for 86% of patients",
+    "url": "https://scitechdaily.com/diabetes-breakthrough-new-treatment-eliminates-insulin-for-86-of-patients/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Why does everyone run ancient Postgres versions?",
+    "url": "https://neon.tech/blog/why-does-everyone-run-ancient-postgres-versions",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "工作很多年后，有越来越不想上班的吗？",
+    "url": "https://www.zhihu.com/question/494462788",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "陷入迷茫的时候，你会做些什么呢？",
+    "url": "https://www.zhihu.com/question/1193854247",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "上班距离20公里，买油车好，还是电车好？",
+    "url": "https://www.zhihu.com/question/667888995",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价《一人之下》691话?",
+    "url": "https://www.zhihu.com/question/1203309349",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "都说中国缺失峡湾地貌，那么有没有哪些地貌「几乎是中国独有的」？",
+    "url": "https://www.zhihu.com/question/660620434",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "国家统计局数据显示，2024 年前三季度 GDP 同比增长 4.8% ，如何看待这一数据？",
+    "url": "https://www.zhihu.com/question/1240630201",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "Smart Pointers for the Kernel",
     "url": "https://lwn.net/Articles/992055/",
     "source": {
