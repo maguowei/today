@@ -55,7 +55,7 @@ def insert_feeds(data, date_str=get_beijing_time().date()):
         # print(feed)
         try:
             c.execute(insert_sql, (
-            feed['title'], feed['url'], feed['source']['name'], feed['source']['desc'], feed['source']['icon'], date_str))
+            feed['title'].strip(), feed['url'].strip(), feed['source']['name'], feed['source']['desc'], feed['source']['icon'], date_str))
         except sqlite3.IntegrityError as e:
             pass
     conn.commit()
