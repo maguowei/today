@@ -1,5 +1,140 @@
 [
   {
+    "title": "One Square Minesweeper",
+    "url": "https://onesquareminesweeper.com/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Migration of the build system to autosetup",
+    "url": "https://sqlite.org/forum/forumpost/b7e2d83c0bcfae1e",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "小学学奥数，初高中可以降维碾压其他人吗？",
+    "url": "https://www.zhihu.com/question/632757227",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "大学非游戏相关专业，但非常喜欢玩游戏，毕业后可以去应聘「游戏策划」岗位吗，具体会有哪些要求？",
+    "url": "https://www.zhihu.com/question/880556655",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "秋招目前暂未找到工作，如何有效缓解焦虑情绪积极面对？",
+    "url": "https://www.zhihu.com/question/668860913",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为何《绝区零》没有得到与其质量相匹配的热度？",
+    "url": "https://www.zhihu.com/question/1086090906",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "孩子喜欢看手机，戒不掉怎么办？",
+    "url": "https://www.zhihu.com/question/1727862253",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "在你心中，哪种水果最能代表中国？",
+    "url": "https://www.zhihu.com/question/737028931",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "有什么东西是两广地区常吃常见，但外省朋友不怎么吃的？",
+    "url": "https://www.zhihu.com/question/1206351681",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "大一刚入学怎么合理地安排生活费？",
+    "url": "https://www.zhihu.com/question/1734693491",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "24-25赛季NBA常规赛揭幕战，凯尔特人132：109尼克斯，如何评价这场比赛？",
+    "url": "https://www.zhihu.com/question/1776997174",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "周星驰祝贺付航夺冠，是不是惺惺相惜？",
+    "url": "https://www.zhihu.com/question/1607619079",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "可以给刚失业的00后一点人生建议吗?",
+    "url": "https://www.zhihu.com/question/1722031777",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "49 人食用美国麦当劳汉堡感染大肠杆菌，1 名老人死亡，麦当劳盘后股价一度跌超 10%，具体情况如何？",
+    "url": "https://www.zhihu.com/question/1777258951",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "学历贬值，年轻人离开办公室走进技校回炉「本升专」，哪些原因造成了技术断层？大学教育如何解决这一矛盾？",
+    "url": "https://www.zhihu.com/question/1714520405",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "The Dawn of a New Era for Supernova 1987a",
     "url": "https://science.nasa.gov/missions/chandra/the-dawn-of-a-new-era-for-supernova-1987a/",
     "source": {
