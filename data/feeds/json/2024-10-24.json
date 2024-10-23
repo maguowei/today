@@ -1,5 +1,113 @@
 [
   {
+    "title": "Show HN: Agent.exe, a cross-platform app to let 3.5 Sonnet control your machine",
+    "url": "https://github.com/corbt/agent.exe",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A DSL for peephole transformation rules of integer operations in the PyPy JIT",
+    "url": "https://pypy.org/posts/2024/10/jit-peephole-dsl.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Nix at work: FlakeHub Cache and private flakes",
+    "url": "https://determinate.systems/posts/flakehub-cache-and-private-flakes/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "My NumPy year: Creating a DType for the next generation of scientific computing",
+    "url": "https://quansight.com/post/my-numpy-year-creating-a-dtype-for-the-next-generation-of-scientific-computing/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Goldman and Apple 'illegally sidestepped' obligations to credit-card customers",
+    "url": "https://finance.yahoo.com/news/goldman-and-apple-illegally-sidestepped-obligations-to-credit-card-customers-cfpb-161226158.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Lars Tunbjörk documented the rise of alienating office work",
+    "url": "https://www.newyorker.com/culture/photo-booth/the-frightening-familiarity-of-late-nineties-office-photos",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Practical Jokes (2007)",
+    "url": "https://wiki.wireshark.org/PracticalJokes",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Lawsuit challenges Virginia City's use of cameras for warrantless surveillance",
+    "url": "https://ij.org/press-release/federal-lawsuit-challenges-virginia-citys-use-of-over-170-cameras-to-conduct-prolonged-warrantless-surveillance-of-entire-driving-population/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "领导一般会如何看待那些不争不抢、闷声干活且业绩不错的员工？",
+    "url": "https://www.zhihu.com/question/1559953472",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "羽毛球掌握什么原理后让你球技大涨?",
+    "url": "https://www.zhihu.com/question/515459299",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价《一人之下》漫画692（731）话预告？",
+    "url": "https://www.zhihu.com/question/1802622941",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价 Jackeylove 在 S14 全球总决赛上的表现？",
+    "url": "https://www.zhihu.com/question/762123139",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "Federal Suit Challenges City's Use of 170+ Cameras for Warrantless Surveillance",
     "url": "https://ij.org/press-release/federal-lawsuit-challenges-virginia-citys-use-of-over-170-cameras-to-conduct-prolonged-warrantless-surveillance-of-entire-driving-population/",
     "source": {
