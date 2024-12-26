@@ -1,5 +1,176 @@
 [
   {
+    "title": "Blackcandy: Self hosted music streaming server",
+    "url": "https://github.com/blackcandy-org/blackcandy",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Egui – An immediate mode GUI written in Rust",
+    "url": "https://www.egui.rs/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Differential Growth Addon for Blender",
+    "url": "https://boris.okunskiy.name/posts/blender-differential-growth",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: A singing synthesizer for the browser with automatic 3-part harmony",
+    "url": "https://pbat.ch/recurse/demos/trio/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Siyuan: Privacy-first, self-hosted personal knowledge management software",
+    "url": "https://github.com/siyuan-note/siyuan",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Seconds Since the Epoch",
+    "url": "https://aphyr.com/posts/378-seconds-since-the-epoch",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Installing OpenWRT on an Unsupported Router",
+    "url": "https://radiosocial.de/@hennichodernich/113714518196988714",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Is Christmas Efficient? (2013)",
+    "url": "http://marginalrevolution.com/marginalrevolution/2013/12/are-seasonal-business-cycles-inefficient.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Bird flu kills more than half the big cats at a Washington sanctuary",
+    "url": "https://www.cnn.com/2024/12/25/us/bird-flu-washington-cats-cases/index.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "贾家为什么让薛家给小戏子腾地方住？",
+    "url": "https://www.zhihu.com/question/629189380",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何看待国内大厂在做将高版本JDK特性移植到JDK8的事情？",
+    "url": "https://www.zhihu.com/question/6737409639",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "可以给学生党推荐下平价好用的面膜吗？",
+    "url": "https://www.zhihu.com/question/5158994021",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么天冷了就不想健身了？",
+    "url": "https://www.zhihu.com/question/4855638752",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么《绝区零》要一反常态的上线「剧情跳过」功能？",
+    "url": "https://www.zhihu.com/question/7667523287",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "在本来就尔虞我诈的三国纷争中，怎么一记白衣渡江就成了“鼠辈”？",
+    "url": "https://www.zhihu.com/question/7377669315",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么国产动画大多是网文改，而不是漫改？",
+    "url": "https://www.zhihu.com/question/7093252822",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "怎样伪装一艘导弹驱逐舰让二战时期的人不会起疑心？",
+    "url": "https://www.zhihu.com/question/630919279",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "汉语有没有类似于英语中不能直观看出“牛”和“牛肉”关联的情况？",
+    "url": "https://www.zhihu.com/question/7706356012",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "阿塞拜疆客机坠毁前，面临强烈的 GPS 干扰，哪些原因可能导致飞机 GPS 受到干扰？",
+    "url": "https://www.zhihu.com/question/7881222294",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "我连打游戏的自由都没有吗？",
     "url": "https://www.v2ex.com/t/1100399",
     "source": {
