@@ -1,5 +1,158 @@
 [
   {
+    "title": "Plasticlist Report – Data on plastic chemicals in Bay Area foods",
+    "url": "https://www.plasticlist.org/report",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How to Create HTML/ZIP/PNG Polyglot Files",
+    "url": "https://gildas-lormeau.github.io/Polyglot-HTML-ZIP-PNG/SUMMARY.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Minimal, self-hosted exercise tracker",
+    "url": "https://github.com/bmtwl/exerciseminimilism",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: I made a web app to bring children's drawings to life",
+    "url": "https://doodledreams.cc",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Spotify is full of AI music",
+    "url": "https://www.fastcompany.com/91170296/spotify-ai-music",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Breaking the Mirror – A Look at Apple's New iPhone Remote Control Feature [video]",
+    "url": "https://media.ccc.de/v/38c3-breaking-the-mirror-a-look-at-apple-s-new-iphone-remote-control-feature",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Demystifying Common Microcontroller Debug Protocols [video]",
+    "url": "https://media.ccc.de/v/38c3-demystifying-common-microcontroller-debug-protocols",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "SBCL \"user-guided optimization\" notice",
+    "url": "https://github.com/sbcl/sbcl/commit/42fd0ced76e851fe883f8651b832234a7cbd1fa2",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: NeatShift – Organize Windows files with symbolic links",
+    "url": "https://github.com/BytexGrid/NeatShift",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "VW breach exposes location of 800k electric vehicles",
+    "url": "https://cyberinsider.com/vw-suffers-major-breach-exposing-location-of-800000-electric-vehicles/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "They have not been trained for this",
+    "url": "https://www.ccc.de/en/updates/2024/das-ist-vollig-entgleist",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Asak – cross-platform audio recording/playback CLI tool written in Rust",
+    "url": "https://github.com/chaosprint/asak",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "2025 跨年晚会临近，各大平台陆续官宣嘉宾阵容，你最期待哪场晚会？最想看谁的表演？",
+    "url": "https://www.zhihu.com/question/7086740626",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "曹雪芹不喜欢李纨，为什么还把她放在十二钗？",
+    "url": "https://www.zhihu.com/question/20643673",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "有哪些演员在戏中的微表情和细节表演让你感觉演技超神？",
+    "url": "https://www.zhihu.com/question/350346018",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何让大语言模型输出JSON格式？",
+    "url": "https://www.zhihu.com/question/656512469",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "「影子不会说谎」曝光民宿摄像头事件反转，为售卖伪劣检测仪器自导自演，自媒体该怎样正确使用自身影响力？",
+    "url": "https://www.zhihu.com/question/8037146183",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "「影子不会说谎」曝光民宿摄像头事件反转，「英雄」变自导自演小丑。自媒体应该怎样合理使用自身影响力？",
     "url": "https://www.zhihu.com/question/8037146183",
     "source": {
