@@ -1,5 +1,95 @@
 [
   {
+    "title": "Diagnosing an Unusual WiFi Issue (2020)",
+    "url": "https://ryuuta.net/blog/diagnosing-an-unsual-wifi-issue/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ask HN: Who is hiring? (January 2025)",
+    "url": "https://news.ycombinator.com/item?id=42575537",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "UBlockOrigin GPL code being stolen by team behind Honey browser extension",
+    "url": "https://old.reddit.com/r/uBlockOrigin/comments/1hr6xjc/ubo_quick_filters_list_being_stolen_by_team/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: connet – A P2P reverse proxy with NAT traversal",
+    "url": "https://github.com/connet-dev/connet",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ask HN: Share your \"LLM screwed us over\" stories?",
+    "url": "https://news.ycombinator.com/item?id=42576647",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: I built an AI calendar to help you get stuff done – feedback wanted",
+    "url": "https://running4-m.github.io/Ai-Calendar/description.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "上海是否可以被称为世界级旅游城市?",
+    "url": "https://www.zhihu.com/question/609863812",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "历史上有哪些急智故事？",
+    "url": "https://www.zhihu.com/question/558869376",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "金角大王和银角大王为什么认老狐狸精做干娘？",
+    "url": "https://www.zhihu.com/question/25669351",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价《一人之下》漫画700（740）话？",
+    "url": "https://www.zhihu.com/question/8553759375",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "Postgres UUIDv7 and per-back end monotonicity",
     "url": "https://brandur.org/fragments/uuid-v7-monotonicity",
     "source": {
