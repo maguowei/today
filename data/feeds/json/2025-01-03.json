@@ -1,5 +1,149 @@
 [
   {
+    "title": "iTerm2 critical security release",
+    "url": "https://iterm2.com/downloads/stable/iTerm2-3_5_11.changelog",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "I still don't think companies serve you ads based on your microphone",
+    "url": "https://simonwillison.net/2025/Jan/2/they-spy-on-you-but-not-like-that/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Alder Lake SHLX Anomaly",
+    "url": "https://tavianator.com/2025/shlx.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "TinyStories: How Small Can Language Models Be and Still Speak Coherent English? (2023)",
+    "url": "https://arxiv.org/abs/2305.07759",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "I am rich and have no idea what to do",
+    "url": "https://vinay.sh/i-am-rich-and-have-no-idea-what-to-do-with-my-life/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "uBlock Origin GPL code being stolen by team behind honey browser extension",
+    "url": "https://old.reddit.com/r/uBlockOrigin/comments/1hr6xjc/ubo_quick_filters_list_being_stolen_by_team/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Building a Knowledge System That Enhances Rather Than Replaces Thought",
+    "url": "https://nsavage.substack.com/p/beyond-rag-building-a-knowledge-management",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "UpCodes (YC S17) is hiring remote recruiters to help make buildings cheaper",
+    "url": "https://up.codes/careers?utm_source=HN",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "U.S. appeals court strikes down FCC's net neutrality rules",
+    "url": "https://www.tvtechnology.com/news/sixth-circuit-of-appeals-strikes-down-fccs-net-neutrality-rules",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "玉米在你们那里方言叫什么?",
+    "url": "https://www.zhihu.com/question/5404696252",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "看不下去的名著有必要看完吗？",
+    "url": "https://www.zhihu.com/question/7650982148",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "马斯克被曝长住海湖庄园，随时接触特朗普，租金或达每晚 2000 美元，哪些信息值得关注？",
+    "url": "https://www.zhihu.com/question/8431520027",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "怎么成为一个有本事的人？",
+    "url": "https://www.zhihu.com/question/278848486",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "deepseek v3模型为啥要开源？",
+    "url": "https://www.zhihu.com/question/8376491250",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "都说美国去工业化了，那美国人都做什么工作啊?",
+    "url": "https://www.zhihu.com/question/641603330",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "1 月 1 日我国存量房贷利率再度迎来大幅下调，释放了怎样的经济信号？房贷政策未来将会如何变化？",
+    "url": "https://www.zhihu.com/question/8519684913",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "科技爱好者周刊（第 332 期）：西蒙·威利森的年终总结，梁文锋的访谈",
     "url": "http://www.ruanyifeng.com/blog/2025/01/weekly-issue-332.html",
     "source": {
