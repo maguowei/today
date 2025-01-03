@@ -1,5 +1,140 @@
 [
   {
+    "title": "Kuvasz-streamer: open-source CDC for Postgres for low latency replication",
+    "url": "https://streamer.kuvasz.io/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Party Squasher, the first guest occupancy counter for homes",
+    "url": "https://www.partysquasher.com/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "国补之后到底有没有便宜？",
+    "url": "https://www.v2ex.com/t/1102189",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "感冒初期，除了多喝水，如何快速恢复？",
+    "url": "https://www.v2ex.com/t/1102176",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "我副业收入每月只有千八百块， V 友们都是怎么赚外快的？",
+    "url": "https://www.v2ex.com/t/1102168",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "在《倚天屠龙记》中混元霹雳手成昆的武功到底如何？",
+    "url": "https://www.zhihu.com/question/299465837",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价Intel的x86S架构计划？",
+    "url": "https://www.zhihu.com/question/7365023941",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "“我觉得”这个词本身是否就代表唯心主义?",
+    "url": "https://www.zhihu.com/question/7710666483",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "从心理学角度解读，为什么「追星」可以让人快乐？这类单向的「拟社会关系」为什么会让人产生依赖？",
+    "url": "https://www.zhihu.com/question/8001729443",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "孩子放学后，不愿意做家长布置的作业，怎么办?",
+    "url": "https://www.zhihu.com/question/8547135247",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "智能手机搭载大模型后，是否会加剧大数据杀熟？",
+    "url": "https://www.zhihu.com/question/7451160951",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "提离职后老东家同意加薪挽留我，新东家有小道消息说要开始裁员，应该怎么办才好？",
+    "url": "https://www.zhihu.com/question/8496535166",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "国自然基金委表示将要求「优青、杰青结题续期需要在基金委主办期刊发文」，如何评价这一举措？",
+    "url": "https://www.zhihu.com/question/8504043031",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "韩国公调处调查人员尝试逮捕尹锡悦，与尹锡悦人员发生冲突，事态将如何发展？尹锡悦将承担何种罪名？",
+    "url": "https://www.zhihu.com/question/8576369128",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "1 月 1 日我国存量房贷利率再度大幅下调，释放了怎样的经济信号？2025 年房贷政策会如何变化？",
+    "url": "https://www.zhihu.com/question/8519684913",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "可以看看你们的小猫小狗吗，不知道养猫还是狗?",
     "url": "https://www.zhihu.com/question/3999273139",
     "source": {
