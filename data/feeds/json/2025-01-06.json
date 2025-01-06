@@ -1,5 +1,140 @@
 [
   {
+    "title": "Doom, the Gallery Experience",
+    "url": "https://bobatealee.itch.io/doom-the-gallery-experience",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Lord of the Io_uring",
+    "url": "https://unixism.net/loti/index.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Hitting OKRs vs. Doing Your Job",
+    "url": "https://jessitron.com/2025/01/05/hitting-okrs-vs-doing-your-job/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "IPv6-only Network based on Jool",
+    "url": "https://taoshu.in/unix/jool-nat64.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Supabase (YC S20) Is Hiring for Multiple Roles (Remote)",
+    "url": "https://supabase.com/careers",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Magic Links Have Rough Edges, but Passkeys Can Smooth Them Over",
+    "url": "https://rmondello.com/2025/01/02/magic-links-and-passkeys/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "US Mint sheets of uncut currency",
+    "url": "https://www.usmint.gov/paper-currency/uncut-currency/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: I made it easy to create invoices",
+    "url": "https://www.invoicefast.io",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "婚姻生活总是一地鸡毛吗",
+    "url": "https://www.v2ex.com/t/1102903",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "号称不用关机的 Mac mini，内存使用为何如此高？ RAM 经常 70%， window server 1.8g， chrome 一个标签页 200m",
+    "url": "https://www.v2ex.com/t/1102823",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "尽管到处裁员，程序员仍是人类历史上最好的职业",
+    "url": "https://www.v2ex.com/t/1102766",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "你们觉得数字 1 2 3 4 5 6 7 8 9 10 分别是什么颜色的？",
+    "url": "https://www.zhihu.com/question/2270113196",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为啥现在的课本把hyperbola写成双曲线，而不是拨弨？",
+    "url": "https://www.zhihu.com/question/321779010",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "人类的脚趾头为什么是五个？手指头和脚趾头都是五个是必然吗？",
+    "url": "https://www.zhihu.com/question/8392216325",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "贾琏为什么一而再再而三的娶小老婆？",
+    "url": "https://www.zhihu.com/question/1241376677",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "为何曹操感慨生子当如孙仲谋，这个评价背后有什么玄机?",
     "url": "https://www.zhihu.com/question/8386723560",
     "source": {
