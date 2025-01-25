@@ -1,5 +1,158 @@
 [
   {
+    "title": "Trying out Zed after more than a decade of Vim/Neovim",
+    "url": "https://sgoel.dev/posts/trying-out-zed-after-more-than-a-decade-of-vim-neovim/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Onit – open-source ChatGPT Desktop with local mode, Claude, Gemini",
+    "url": "https://github.com/synth-inc/onit",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Lightpanda, an open-source headless browser in Zig",
+    "url": "https://github.com/lightpanda-io/browser",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Wild – A fast linker for Linux",
+    "url": "https://github.com/davidlattimore/wild",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Vic-20 Elite",
+    "url": "https://vic20elite.wordpress.com/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The past, present, and future of UI at GitHub",
+    "url": "https://hawksley.org/2025/01/08/past-present-future-of-UI-at-github.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Subpixel Snake [video]",
+    "url": "https://www.youtube.com/watch?v=iDwganLjpW0",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The hidden complexity of scaling WebSockets",
+    "url": "https://composehq.com/blog/scaling-websockets-1-23-25",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A very Chicago gamble",
+    "url": "https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Nuclear Proliferation and the \"Nth Country Experiment\"",
+    "url": "https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2025-01-23/nuclear-proliferation-and-nth-country-experiment",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Converge (YC S23) is hiring engineer #2 in NYC",
+    "url": "https://jobs.gem.com/converge/am9icG9zdDreA6I3WJ4ZJ1Yx_WHS5zKP",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "'Never seen anything like this' – NIH meetings and travel halted abruptly",
+    "url": "https://www.nature.com/articles/d41586-025-00231-y",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Legalyze.ai: Review Medical Records with AI",
+    "url": "https://www.legalyze.ai/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "如何看待博主陈震泄露 OPPO Find N5 真机？谁会为此担责？",
+    "url": "https://www.zhihu.com/question/10427203407",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "回家过年面对陌生的亲戚该怎么做不尴尬?",
+    "url": "https://www.zhihu.com/question/7579669259",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何看待《刺客信条：影》疑似口碑逆转，一些创作者给出积极评价？",
+    "url": "https://www.zhihu.com/question/9923644056",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何看待高元义担任乒羽中心主任？",
+    "url": "https://www.zhihu.com/question/10461355719",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "如何看待《刺客信条：影》口碑逆转，一些创作者给出积极评价？",
     "url": "https://www.zhihu.com/question/9923644056",
     "source": {
