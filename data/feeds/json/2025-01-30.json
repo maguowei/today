@@ -1,5 +1,59 @@
 [
   {
+    "title": "Blueskyfeedbot: Post RSS Feeds to Bluesky via GitHub Actions",
+    "url": "https://github.com/marketplace/actions/feed-to-bluesky",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Etleap (YC W13) Is Hiring a Senior Software Engineer (SF)",
+    "url": "https://news.ycombinator.com/item?id=42873532",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Mathesar – An intuitive spreadsheet-like interface to Postgres data",
+    "url": "https://github.com/mathesar-foundation/mathesar",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Classic Duck Hunt Game Made in JavaScript and Kaplay",
+    "url": "https://jslegend.itch.io/duck-hunter",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "为什么明明英语跟法语更像，但是却还是把德语和英语归为一个语族？",
+    "url": "https://www.zhihu.com/question/477179463",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "安徽一男子在高层住宅燃放烟花并向气球喷射被刑拘，如果出事后果有多严重？他将承担哪些法律责任？",
+    "url": "https://www.zhihu.com/question/10693767229",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "Exposed DeepSeek database leaking sensitive information, including chat history",
     "url": "https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak",
     "source": {
