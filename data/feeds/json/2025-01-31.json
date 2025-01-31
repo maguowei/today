@@ -1,5 +1,86 @@
 [
   {
+    "title": "sixos: A nix OS without systemd [video]",
+    "url": "https://media.ccc.de/v/38c3-sixos-a-nix-os-without-systemd",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "TopoNets: High performing vision and language models with brain-like topography",
+    "url": "https://arxiv.org/abs/2501.16396",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Mini-R1: Reproduce DeepSeek R1 \"Aha Moment\"",
+    "url": "https://www.philschmid.de/mini-deepseek-r1",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Rubywm: An X11 window manager in pure Ruby",
+    "url": "https://github.com/vidarh/rubywm",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Google Pixel 4a update to \"improve stability\" of the battery cuts life in half",
+    "url": "https://liliputing.com/google-pixel-4a-update-to-improve-stability-of-the-battery-cuts-battery-life-in-half-for-some-users/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Xerox Alto Source Code (2014)",
+    "url": "https://computerhistory.org/blog/xerox-alto-source-code/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "春节拜年，送礼物和送红包，哪个更容易送到心趴上？",
+    "url": "https://www.zhihu.com/question/10193381863",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "24-25赛季NBA常规赛湖人 134:96 奇才，如何评价这场比赛？",
+    "url": "https://www.zhihu.com/question/10943767348",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何看待《哪吒之魔童闹海》里疑似出现美元符号、绿卡（玉牌）、五角大楼（玉虚宫）等元素？",
+    "url": "https://www.zhihu.com/question/10842890348",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "Inducing brain-like structure in GPT's weights makes them parameter efficient",
     "url": "https://arxiv.org/abs/2501.16396",
     "source": {
