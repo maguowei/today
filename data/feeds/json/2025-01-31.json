@@ -1,5 +1,167 @@
 [
   {
+    "title": "Stats – macOS system monitor in your menu bar",
+    "url": "https://github.com/exelban/stats",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How Jane Street accidentally built a better build system for OCaml",
+    "url": "https://blog.janestreet.com/how-we-accidentally-built-a-better-build-system-for-ocaml-index/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Many of the Pokemon playtest cards were likely printed in 2024",
+    "url": "https://www.elitefourum.com/t/many-of-the-pokemon-playtest-cards-were-likely-printed-in-2024/52421",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Launch HN: Karsa (YC W25) – Buy and save stablecoins internationally",
+    "url": "https://news.ycombinator.com/item?id=42879661",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Ahey – A simple pub-sub service built on top of web push",
+    "url": "https://ahey.io",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "California law enforcement misused state databases more than 7k times in 2023",
+    "url": "https://www.eff.org/deeplinks/2025/01/california-police-misused-state-databases-more-7000-times-2023",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Optical Frequency Combs",
+    "url": "https://www.nist.gov/topics/physics/optical-frequency-combs",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Workflow86 - An AI business analyst and automation engineer",
+    "url": "https://www.workflow86.com/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Svix (YC W21) Is Hiring a Developer Marketer (US Remote)",
+    "url": "https://www.svix.com/careers/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Reactive Signals for Python – inspired by Angular's reactivity model",
+    "url": "https://github.com/buiapp/reaktiv",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Signs Of Life In A Desert",
+    "url": "https://www.noemamag.com/signs-of-life-in-a-desert-of-death/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Iterm-Mcp – AI Terminal/REPL Control for iTerm2",
+    "url": "https://github.com/ferrislucas/iterm-mcp",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Quaternions and spherical trigonometry",
+    "url": "https://terrytao.wordpress.com/2024/12/19/quaternions-and-spherical-trigonometry/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "不婚不育者老了之后的孤独感该如何解决？",
+    "url": "https://www.zhihu.com/question/599801310",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价《一人之下》漫画第703（743）话？",
+    "url": "https://www.zhihu.com/question/10921303528",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "《封神第二部》知友推荐度 55%，这一评分是否符合你的预期？你给这部电影点了推荐还是不推荐？",
+    "url": "https://www.zhihu.com/question/10873952742",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "《哪吒之魔童闹海》累计票房率先突破 10 亿，这一成绩符合你的预期吗？它会成为今年春节档票房冠军吗？",
+    "url": "https://www.zhihu.com/question/10921012359",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价1月30日四川内江熊孩子放鞭炮导致沼气池爆炸及多辆豪车受损？",
+    "url": "https://www.zhihu.com/question/10921105358",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "春节走亲戚时，你怎样优雅地拒绝喝酒？",
     "url": "https://www.zhihu.com/question/10543014391",
     "source": {
