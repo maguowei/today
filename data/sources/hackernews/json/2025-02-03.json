@@ -268,5 +268,32 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Ruby \"Thread Contention\" Is Simply GVL Queuing",
+    "url": "https://island94.org/2025/01/ruby-thread-contention-simply-gvl-queuing",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Klarity – Open-source tool to analyze uncertainty/entropy in LLM output",
+    "url": "https://github.com/klara-research/klarity",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "I Wrote a WebAssembly VM in C",
+    "url": "https://irreducible.io/blog/my-wasm-interpreter/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
