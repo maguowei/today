@@ -1,5 +1,86 @@
 [
   {
+    "title": "OWASP Non-Human Identities Top 10",
+    "url": "https://owasp.org/www-project-non-human-identities-top-10/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Video Game History Foundation library opens in early access",
+    "url": "https://gamehistory.org/vghf-library-launch/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Escaping surprise bills and over-engineered messes: Why I left AWS",
+    "url": "https://travisbumgarner.dev/blog/leaving-aws",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "What's Going on at the FBI?",
+    "url": "https://www.lawfaremedia.org/article/the-situation--what-s-going-on-at-the-fbi",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "El Salvador offers to house violent US criminals and deportees of any nation",
+    "url": "https://www.cnn.com/2025/02/03/americas/el-salvador-migrant-deal-marco-rubio-intl-hnk/index.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "人对时间的感知有什么特点？我们是否可以从心理层面最大化地「延长假期」？",
+    "url": "https://www.zhihu.com/question/9650260774",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "有哪些很搞笑的logo或者标志？",
+    "url": "https://www.zhihu.com/question/285745955",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么放炮会成为习俗，古时候火药不珍贵吗？",
+    "url": "https://www.zhihu.com/question/10551590372",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "《哪吒 3》怎么拍才能超越《哪吒之魔童闹海》？",
+    "url": "https://www.zhihu.com/question/11100249286",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "Resistance to Rust abstractions for DMA mapping",
     "url": "https://lwn.net/SubscriberLink/1006805/f75d238e25728afe/",
     "source": {
