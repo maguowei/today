@@ -1,5 +1,68 @@
 [
   {
+    "title": "SQLite Disk Page Explorer",
+    "url": "https://github.com/QuadrupleA/sqlite-page-explorer",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Scala 3 Migration: Report from the Field",
+    "url": "https://blog.pierre-ricadat.com/scala-3-migration-report-from-the-field",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Self-hosted, simple web browser service – send URL, get screenshots",
+    "url": "https://github.com/US-Artificial-Intelligence/scraper",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Roe AI (YC W24) Is Hiring",
+    "url": "https://www.ycombinator.com/companies/roe-ai/jobs/CZrzxk6-founding-engineer",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Microsoft Go 1.24 FIPS changes",
+    "url": "https://devblogs.microsoft.com/go/go-1-24-fips-update/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Who Does That Server Serve?",
+    "url": "https://www.gnu.org/philosophy/who-does-that-server-really-serve.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "deepseek，chatgpt，豆包，kimi这四款AI的侧重点都是什么？哪家AI的综合体验最好？",
+    "url": "https://www.zhihu.com/question/10705519013",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "中疾控数据显示，近期流感病毒 99% 以上为甲流，阳性率持续上升，今年流感有哪些特征？如何加强预防？",
     "url": "https://www.zhihu.com/question/8681184879",
     "source": {

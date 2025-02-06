@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "title": "Who Does That Server Serve?",
+    "url": "https://www.gnu.org/philosophy/who-does-that-server-really-serve.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Microsoft Go 1.24 FIPS changes",
+    "url": "https://devblogs.microsoft.com/go/go-1-24-fips-update/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Roe AI (YC W24) Is Hiring",
+    "url": "https://www.ycombinator.com/companies/roe-ai/jobs/CZrzxk6-founding-engineer",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Self-hosted, simple web browser service – send URL, get screenshots",
+    "url": "https://github.com/US-Artificial-Intelligence/scraper",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Scala 3 Migration: Report from the Field",
+    "url": "https://blog.pierre-ricadat.com/scala-3-migration-report-from-the-field",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "SQLite Disk Page Explorer",
+    "url": "https://github.com/QuadrupleA/sqlite-page-explorer",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  }
+]
