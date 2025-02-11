@@ -1,5 +1,158 @@
 [
   {
+    "title": "Undergraduate shows that searches within hash tables can be much faster",
+    "url": "https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Fun with C++26 reflection: Keyword Arguments",
+    "url": "https://pydong.org/posts/KwArgs/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Scaling up test-time compute with latent reasoning: A recurrent depth approach",
+    "url": "https://arxiv.org/abs/2502.05171",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Patterns for Building Realtime Features",
+    "url": "https://zknill.io/posts/patterns-for-building-realtime/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Hedge Funds Are Pocketing Much of Their Clients' Gains with 'No Limit' Fees",
+    "url": "https://www.bloomberg.com/graphics/2025-hedge-fund-investment-fees/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Fly.io (YC W20) Is Hiring a Customer Support Director",
+    "url": "https://news.ycombinator.com/item?id=43005096",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Musk-led group makes $97B bid for control of OpenAI",
+    "url": "https://www.reuters.com/markets/deals/elon-musk-led-group-makes-974-billion-bid-control-openai-wsj-reports-2025-02-10/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "What happens to SaaS in a world with computer-using agents?",
+    "url": "https://docs.google.com/document/d/1nWZtJlPmBD15rGqNxj7u6HroaNvXT6YD-TXktpIwf6c/edit?usp=sharing",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Large Nuclear-Powered Subsonic Aircraft for Transoceanic Commerce (1971) [pdf]",
+    "url": "https://ntrs.nasa.gov/api/citations/19710028801/downloads/19710028801.pdf",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "TinyX: Small Featured X Server",
+    "url": "https://github.com/tinycorelinux/tinyx",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The return of the buffalo is reviving portions of the ecosystem",
+    "url": "https://www.nativesunnews.today/articles/the-return-of-the-buffalo-is-reviving-portions-of-the-ecosystem/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "2 月 10 日第59届超级碗，费城老鹰 40-22 击败堪萨斯酋长，如何评价两队球员在场上的表现？",
+    "url": "https://www.zhihu.com/question/11788746807",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "《怪物猎人：荒野》能复现崛起和曙光的成功吗？",
+    "url": "https://www.zhihu.com/question/11423344268",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "敏感肌人群或做完医美的人，如何实现防晒自由？",
+    "url": "https://www.zhihu.com/question/11630769569",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "上班以后被同事欺负了该怎么办？",
+    "url": "https://www.zhihu.com/question/552559325",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "特朗普签署行政令，对所有钢、铝进口加征 25% 的关税，原因是什么？会对相关产业带来什么影响？",
+    "url": "https://www.zhihu.com/question/11785781178",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "写小说真的都月入十几万吗?",
+    "url": "https://www.zhihu.com/question/7353981539",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "春节的热闹与此刻独自一人的空虚产生了强烈对比，如何在短时间内调整「心理落差」？",
     "url": "https://www.zhihu.com/question/11325553690",
     "source": {
