@@ -1,5 +1,86 @@
 [
   {
+    "title": "Jellyfin: The Free Software Media System",
+    "url": "https://jellyfin.org/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Blunderchess.net – blunder for your opponent every five moves",
+    "url": "https://blunderchess.net",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Watt The Fox?",
+    "url": "https://h.43z.one/blog/2025-02-12/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Create a QubesOS Gaming HVM with GPU PCI passthrough (2023)",
+    "url": "https://forum.qubes-os.org/t/create-a-gaming-hvm/19000",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Perplexity Deep Research",
+    "url": "https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "NASA has a list of 10 rules for software development",
+    "url": "https://www.cs.otago.ac.nz/cosc345/resources/nasa-10-rules.htm",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Big TDD Misunderstanding (2022)",
+    "url": "https://linkedrecords.com/the-big-tdd-misunderstanding-8e22c2f1fc21",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "OpenAI GPT-5 和 DeepSeek 等 AI 工具均向用户免费，免费后靠什么盈利呢？",
+    "url": "https://www.zhihu.com/question/12125468521",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "中国游戏与动画是否会变得依赖传统文化ip？",
+    "url": "https://www.zhihu.com/question/12169057578",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "第 61 届慕尼黑安全会议将于 14 日至 16 日在德国慕尼黑举行，此次会议讨论了哪些问题？",
     "url": "https://www.zhihu.com/question/12228529115",
     "source": {
