@@ -1,5 +1,167 @@
 [
   {
+    "title": "Valve releases Team Fortress 2 code",
+    "url": "https://github.com/ValveSoftware/source-sdk-2013/commit/0759e2e8e179d5352d81d0d4aaded72c1704b7a9",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Thoughts on Daylight Computer",
+    "url": "https://jon.bo/posts/daylight-computer-1/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Alice Hamilton waged a one-woman campaign to get the lead out of everything",
+    "url": "https://www.smithsonianmag.com/innovation/how-alice-hamilton-waged-one-woman-campaign-get-lead-out-everything-180985960/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Steve Jackson Games Is Bringing the Fighting Fantasy Books to the US",
+    "url": "https://www.sjgames.com/fightingfantasy/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Go-msquic: A new QUIC/HTTP3 library for Go",
+    "url": "https://github.com/noboruma/go-msquic",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Unbrickable Pledge",
+    "url": "https://usetrmnl.com/blog/the-unbrickable-pledge",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Parsing JSON in 500 lines of Rust",
+    "url": "https://www.krish.gg/blog/json-parser-in-rust",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Implementing LLaMA3 in 100 Lines of Pure Jax",
+    "url": "https://saurabhalone.com/blogs/llama3/web",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Are SSDs more reliable than hard drives?",
+    "url": "https://www.backblaze.com/blog/are-ssds-really-more-reliable-than-hard-drives/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Augment.vim: AI Chat and completion in Vim and Neovim",
+    "url": "https://github.com/augmentcode/augment.vim",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The 88x31 GIF Collection",
+    "url": "https://cyber.dabamos.de/88x31/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "我这个条件能买 35 左右的车吗？有啥推荐",
+    "url": "https://www.v2ex.com/t/1112539",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "前后端的大佬们帮忙看看，最近遇到个奇葩问题",
+    "url": "https://www.v2ex.com/t/1112519",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "孕妇动车上被行李箱砸中致孩子早产离世，铁路回应「有乘客将行李放行李架隔断处导致掉落」，谁该为此负责？",
+    "url": "https://www.zhihu.com/question/12688798765",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为何在《西游记》中，东海龙王第一次见孙悟空称其为上仙？",
+    "url": "https://www.zhihu.com/question/6707526939",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如果绩效被打「差」，是默默接受还是找领导问清楚原因？",
+    "url": "https://www.zhihu.com/question/8705064214",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "国家发展改革委表示支持民营企业积极参与「两重两新」，加力推动解决拖欠民营企业账款问题，将产生哪些影响？",
+    "url": "https://www.zhihu.com/question/12577642050",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美团宣布「将为全职及稳定兼职骑手缴纳社保」，对骑手行业影响有多大？后续还有哪些企业会跟进？",
+    "url": "https://www.zhihu.com/question/12724448010",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "从心理学角度看，我们为什么热衷于「教别人做事」？",
     "url": "https://www.zhihu.com/question/12012219757",
     "source": {
