@@ -1,5 +1,302 @@
 [
   {
+    "title": "GPT-4.5",
+    "url": "https://openai.com/index/introducing-gpt-4-5/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "IBM Completes Acquisition of HashiCorp",
+    "url": "https://newsroom.ibm.com/2025-02-27-ibm-completes-acquisition-of-hashicorp,-creates-comprehensive,-end-to-end-hybrid-cloud-platform",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Some Command & Conquer games are now open source",
+    "url": "https://github.com/electronicarts",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Does iOS Have Sideloading Yet? No",
+    "url": "https://doesioshavesideloadingyet.com/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "World-first experimental cancer treatment paves way for clinical trial",
+    "url": "https://www.wehi.edu.au/news/world-first-experimental-cancer-treatment-paves-way-for-clinical-trial/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Outlook classic dropped from Microsoft 365",
+    "url": "https://office-watch.com/2025/outlook-classic-dropped-from-microsoft-365/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Nvidia emulation journey, part 1: RIVA 128/NV3 architecture history and overview",
+    "url": "https://86box.net/2025/02/25/riva128-part-1.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Postgres as a Graph Database: (Ab)Using PgRouting",
+    "url": "https://supabase.com/blog/pgrouting-postgres-graph-database",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Launch HN: Bild AI (YC W25) – Understand Construction Blueprints Using AI",
+    "url": "https://news.ycombinator.com/item?id=43196474",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Kastle (YC S24) Is Hiring – AI for Loan Servicing",
+    "url": "https://www.ycombinator.com/companies/kastle/jobs/ItDVKB7-founding-backend-engineer-at-kastle-s24",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Mozilla owns \"information you input through Firefox\"",
+    "url": "https://www.mozilla.org/en-US/about/legal/terms/firefox/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Wireless video streaming on POV bike display",
+    "url": "https://www.youtube.com/watch?v=o8n-bu2kKnc",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "What can be computed? A practical guide to the theory of computation (2018) [pdf]",
+    "url": "https://www.softouch.on.ca/kb/data/What%20Can%20Be%20Computed.pdf",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Muon's magnetic moment exposes a hole in the Standard Model, unless it doesn't",
+    "url": "https://physicsworld.com/a/the-muons-magnetic-moment-exposes-a-huge-hole-in-the-standard-model-unless-it-doesnt/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Distributed systems programming has stalled",
+    "url": "https://www.shadaj.me/writing/distributed-programming-stalled",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Automattic's \"nuclear war\" over WordPress access sparks potential class action",
+    "url": "https://arstechnica.com/tech-policy/2025/02/automattic-shirked-duty-to-keep-wordpress-free-for-everyone-lawsuit-says/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "科技爱好者周刊（第 339 期）：代币是什么",
+    "url": "http://www.ruanyifeng.com/blog/2025/02/weekly-issue-339.html",
+    "source": {
+      "name": "ruanyifeng",
+      "desc": "阮一峰的网络日志",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
+    }
+  },
+  {
+    "title": "你每天提前到单位上班的原因是什么？",
+    "url": "https://www.zhihu.com/question/696576383",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "古代的将军在战场上挥舞好几百斤重的冷兵器杀敌是真的吗？",
+    "url": "https://www.zhihu.com/question/660372774",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何看待《文明7》取消宗教胜利？在你看来这加深了游戏性还是削减了游戏性？",
+    "url": "https://www.zhihu.com/question/13239045179",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "2025年2月27日的宝可梦直面会是否算得上诚意十足？你对哪些内容比较满意？",
+    "url": "https://www.zhihu.com/question/13572724106",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何看待《宝可梦》直面会「Pokémon Presents」将于北京时间 2 月 27 日播出？",
+    "url": "https://www.zhihu.com/question/12833487542",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价曹林最近发布的文章《越少写作的人，越容易神话崇拜deepseek》？",
+    "url": "https://www.zhihu.com/question/12220198694",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价《一人之下》漫画第706（748）话？",
+    "url": "https://www.zhihu.com/question/13548133018",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "两个 AI 用人类无法听懂加密语言沟通，网友称「这是机器人接管地球时的声音」，具体是怎么回事？",
+    "url": "https://www.zhihu.com/question/13441301172",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "LPL 2025 赛季第一赛段总决赛 TES vs AL，你觉得谁能赢下来去参加全球先锋赛？",
+    "url": "https://www.zhihu.com/question/13573363870",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "法国小伙马库斯捐赠的抗日照片被曝并非其外祖父拍摄，被指用网图骗流量，馆方回复正鉴定，真实情况是什么？",
+    "url": "https://www.zhihu.com/question/13525691822",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "「富二代」王政源拉群荐股，入群费最高15万元，称「买就完事我是庄」，有人称亏了六百万元，具体情况如何？",
+    "url": "https://www.zhihu.com/question/13535706479",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "深圳一在售楼盘现假地铁站牌，市监局称已立案查处，如何看待伪造地铁标识来兜售楼盘的行为？",
+    "url": "https://www.zhihu.com/question/13508749503",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "Riot 宣布《英雄联盟》免费海克斯宝箱回归，所有英雄蓝色精粹售价减半，如何看待这一版本回档操作？",
+    "url": "https://www.zhihu.com/question/13559499849",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价 OpenAI 发布的 GPT4.5，有哪些看点和不足？",
+    "url": "https://www.zhihu.com/question/13599522694",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何看待小米su7 Ultra 2小时大定破1W台？",
+    "url": "https://www.zhihu.com/question/13593711678",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "据媒体报道，美国花了 450 万美元研究给醉酒的老鼠喷山猫尿液，这项研究有什么现实意义吗？",
+    "url": "https://www.zhihu.com/question/13542985391",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "玩游戏更愿意在PC上玩还是PS5上玩？",
     "url": "https://www.zhihu.com/question/995076775",
     "source": {
