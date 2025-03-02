@@ -1,5 +1,122 @@
 [
   {
+    "title": "Show HN: Berlin Swapfest – Electronics flea market",
+    "url": "https://www.swapfest.berlin/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Efabless – Shutdown Notice",
+    "url": "https://efabless.com/notice",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Making o1, o3, and Sonnet 3.7 hallucinate for everyone",
+    "url": "https://bengarcia.dev/making-o1-o3-and-sonnet-3-7-hallucinate-for-everyone",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "GLP-1 drugs: An economic disruptor? (2024)",
+    "url": "https://wildfirelabs.substack.com/p/the-100-trillion-disruption-the-unforeseen",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Seized, settled, let: how Airbnb and Booking.com help Israelis make money from",
+    "url": "https://www.theguardian.com/world/ng-interactive/2025/feb/27/seized-settled-let-how-airbnb-and-bookingcom-help-israelis-make-money-from-stolen-palestinian-land",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Abusing C to implement JSON parsing with struct methods",
+    "url": "https://xnacly.me/posts/2025/json-parser-in-c-with-methods/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Xcode constantly phones home",
+    "url": "https://lapcatsoftware.com/articles/2025/2/5.html?__readwiseLocation=",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Firefly Blue Ghost Mission 1 Lunar Landing",
+    "url": "https://plus.nasa.gov/scheduled-video/firefly-blue-ghost-mission-1-lunar-landing/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Copilot for Everything: Training your AI replacement one keystroke at a time",
+    "url": "https://substack.com/home/post/p-158101095",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Nearly 25 years later, Terminator 2 is getting a new video game",
+    "url": "https://gizmodo.com/nearly-25-years-later-terminator-2-is-getting-a-new-video-game-2000570123",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "如何评价日本颁布《食料供給困難事態対策法》，在非战时状态启动食物配给制？",
+    "url": "https://www.zhihu.com/question/11258113096",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "网传优酷正进行电视剧集数变革，最多只能12集，如何看待这一传闻？若属实，将给影视市场带来哪些影响？",
+    "url": "https://www.zhihu.com/question/13658586246",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "泽连斯基已乘飞机离开美国抵达英国，美乌闹掰谁是最大赢家？此事对欧洲国家意味着什么？",
+    "url": "https://www.zhihu.com/question/13761644461",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "澳大利亚的铁矿石到底是一个什么样的存在？",
     "url": "https://www.zhihu.com/question/435393785",
     "source": {
