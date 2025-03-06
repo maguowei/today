@@ -1,5 +1,212 @@
 [
   {
+    "title": "DeepSeek-R1-671B-Q4_K_M with 1 or 2 Arc A770 on Xeon",
+    "url": "https://github.com/intel/ipex-llm/blob/main/docs/mddocs/Quickstart/llamacpp_portable_zip_gpu_quickstart.md",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Tailscale is pretty useful",
+    "url": "https://blog.6nok.org/tailscale-is-pretty-useful/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Git without a forge",
+    "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/git-no-forge/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "QwQ-32B: Embracing the Power of Reinforcement Learning",
+    "url": "https://qwenlm.github.io/blog/qwq-32b/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Zentool – AMD Zen Microcode Manipulation Utility",
+    "url": "https://github.com/google/security-research/blob/master/pocs/cpus/entrysign/zentool/README.md",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The US stops sharing air quality data from embassies worldwide",
+    "url": "https://apnews.com/article/us-air-quality-monitors-8270927bbd0f166238243ac9d14bce03",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Cognitive Behaviors That Enable Self-Improving Reasoners",
+    "url": "https://arxiv.org/abs/2503.01307",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Exploring the Paramilitary Leaks",
+    "url": "https://micahflee.com/exploring-the-paramilitary-leaks/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "There Was a Texas Lottery Arbitrage",
+    "url": "https://www.bloomberg.com/opinion/articles/2025-03-05/there-was-a-texas-lottery-arbitrage",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ask HN: Best Windows/Linux developer laptop in 2025",
+    "url": "https://news.ycombinator.com/item?id=43275014",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A few words about FiveThirtyEight",
+    "url": "https://www.natesilver.net/p/a-few-words-about-fivethirtyeight",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Volkswagen seeks to counter rivals with budget EV model",
+    "url": "https://www.ttnews.com/articles/vw-introduces-id-every1",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Datafold (YC S20) is hiring Engineer to build AI-powered data migration tools",
+    "url": "https://www.ycombinator.com/companies/datafold/jobs/ieGYiSG-senior-software-engineer-ai-agents",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Leaflet.pub – a web app for creating and sharing rich documents",
+    "url": "https://news.ycombinator.com/item?id=43269928",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Apple takes UK to court over 'backdoor' order",
+    "url": "https://www.theregister.com/2025/03/05/apple_reportedly_ipt_complaint/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "My Beancount books are 95% automatic after 3 years (2024)",
+    "url": "https://fangpenlin.com/posts/2024/12/30/my-beancount-books-are-95-percent-automatic/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Beating Pokemon Red with RL and <10M Parameters",
+    "url": "https://drubinstein.github.io/pokerl/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Tiny Star Explosions Powering Moore's Law",
+    "url": "https://spectrum.ieee.org/euv-light-source",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "NCSC, GCHQ, UK Gov't expunge advice to \"use Apple encryption\"",
+    "url": "https://alecmuffett.com/article/112522",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "小朋友到底应不应该购买SWitch?",
+    "url": "https://www.zhihu.com/question/595138566",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "孩子犯错了，你的第一做法是暴力输出还是耐心讲道理？",
+    "url": "https://www.zhihu.com/question/13807441114",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "大家都是怎么应对楼上噪音的？",
+    "url": "https://www.zhihu.com/question/453300710",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价中国团队发布的通用型 AI Agent 产品 Manus？会成为下一个爆款吗？",
+    "url": "https://www.zhihu.com/question/14173371100",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "初中孩子，周末早上如果没事，你会8点前按时叫他起床吃早餐，还是让他睡到自然醒？",
     "url": "https://www.zhihu.com/question/13640952691",
     "source": {
