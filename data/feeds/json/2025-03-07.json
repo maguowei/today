@@ -1,5 +1,230 @@
 [
   {
+    "title": "Ladder: Self-Improving LLMs Through Recursive Problem Decomposition",
+    "url": "https://arxiv.org/abs/2503.00735",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Mistral OCR",
+    "url": "https://mistral.ai/fr/news/mistral-ocr",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Differentiable Logic Cellular Automata",
+    "url": "https://google-research.github.io/self-organising-systems/difflogic-ca/?hn",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Succinct Data Structures",
+    "url": "https://blog.startifact.com/posts/succinct/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How to distrust a CA without any certificate errors",
+    "url": "https://dadrian.io/blog/posts/sct-not-after/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Anime fans stumbled upon a mathematical proof",
+    "url": "https://www.scientificamerican.com/article/the-surprisingly-difficult-mathematical-proof-that-anime-fans-helped-solve/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Cargo (YC S23) Is Hiring",
+    "url": "https://www.ycombinator.com/companies/cargo/jobs/hLc670b-founding-full-stack-ae-founding-ae",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Why I find diffusion models interesting?",
+    "url": "https://rnikhil.com/2025/03/06/diffusion-models-eval",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Using GRPO to Beat o1, o3-mini and R1 at \"Temporal Clue\"",
+    "url": "https://openpipe.ai/blog/using-grpo-to-beat-o1-o3-mini-and-r1-on-temporal-clue",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Rust Vector and Quaternion Lib",
+    "url": "https://github.com/David-OConnor/lin-alg",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "US deploys AI to revoke visas of foreign nationals supporting Hamas: Report",
+    "url": "https://www.cnbctv18.com/world/us-deploys-ai-to-revoke-visas-of-foreign-nationals-supporting-hamas-report-19570130.htm",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Google begins testing AI-only search results",
+    "url": "https://arstechnica.com/google/2025/03/google-is-expanding-ai-overviews-and-testing-ai-only-search-results/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "50 Years in Filesystems: 1984",
+    "url": "https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Shares of Starlink's European rival Eutelsat have tripled",
+    "url": "https://www.marketwatch.com/story/shares-of-starlinks-european-competitor-have-tripled-ceo-says-it-can-do-the-job-in-ukraine-f5e4e1ac",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Rayhunter – Rust tool to detect cell site simulators on an orbic mobile hotspot",
+    "url": "https://github.com/EFForg/rayhunter",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Warewulf is a stateless and diskless container OS provisioning system",
+    "url": "https://github.com/warewulf/warewulf",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Open-source, native audio turn detection model",
+    "url": "https://github.com/pipecat-ai/smart-turn",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ask HN: How did the internet discover my subdomain?",
+    "url": "https://news.ycombinator.com/item?id=43285725",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "56k modems relied on digital trunk lines",
+    "url": "https://hackaday.com/2025/03/06/why-56k-modems-relied-on-digital-phone-lines-you-didnt-know-we-had/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Shelgon: A Framework for Building Interactive REPL Shells in Rust",
+    "url": "https://github.com/NishantJoshi00/shelgon",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "盒马将关闭 3 家 X 会员店，全国剩余 5 家，造成这种情况的原因有哪些？未来会员制何去何从？",
+    "url": "https://www.zhihu.com/question/13964148685",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何看待东风本田 S7 刷新吉尼斯纪录？",
+    "url": "https://www.zhihu.com/question/14232245536",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么「带薪蹲坑」能缓解打工人焦虑？洗手间代替的是「心理安全舱」的作用吗？",
+    "url": "https://www.zhihu.com/question/13321455464",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价 2025 年福禄寿 DOUDOU 歌曲《嗵嗵》？",
+    "url": "https://www.zhihu.com/question/12432740962",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "韩国法院取消对尹锡悦的逮捕，韩总统办公室称「期待总统尽快复职」，这意味着什么？尹锡悦能重获总统职权吗？",
+    "url": "https://www.zhihu.com/question/14314167640",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "5000 元的低成本电影是不是可以赚翻？",
     "url": "https://www.zhihu.com/question/14021241655",
     "source": {
