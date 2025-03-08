@@ -1,5 +1,113 @@
 [
   {
+    "title": "Discovering Errors in Donald Knuth's Taocp",
+    "url": "https://glthr.com/discovering-errors-in-donald-knuths-taocp",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "You might not need Redis",
+    "url": "https://www.viblo.se/posts/no-need-redis/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Sam Bankman-Fried Thrown into Solitary over Tucker Carlson Interview: Report",
+    "url": "https://gizmodo.com/sam-bankman-fried-thrown-into-solitary-over-tucker-carlson-interview-report-2000573371",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Spice Data (YC S19) Is Hiring a Founding Senior/Staff Software Engineer",
+    "url": "https://www.ycombinator.com/companies/spice-data/jobs/f6BuehM-founding-senior-staff-software-engineer",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Undocumented backdoor found in Bluetooth chip used by a billion devices",
+    "url": "https://www.bleepingcomputer.com/news/security/undocumented-backdoor-found-in-bluetooth-chip-used-by-a-billion-devices/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "大学没课一整天无聊到干什么？",
+    "url": "https://www.zhihu.com/question/8608787262",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "《崩坏：星穹铁道》中的艾丝妲为什么愿意给黑塔打「白工」？",
+    "url": "https://www.zhihu.com/question/607821708",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "《西游记》玉帝为何容忍二郎神听调不听宣，搞得跟人间节度使那样独立自主？",
+    "url": "https://www.zhihu.com/question/13597654356",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "晴雯被赶走时为什么只穿贴身衣服？袭人偷偷送衣服算虚伪还是真善良？",
+    "url": "https://www.zhihu.com/question/14111873598",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "一只霸王龙穿越到现在的非洲大草原会发生什么？",
+    "url": "https://www.zhihu.com/question/266397869",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如果说人生是孤独的，那么「我们和别人建立关系」的意义是什么？",
+    "url": "https://www.zhihu.com/question/11506105974",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "人的肩部为何会演化出一个「座位」？",
+    "url": "https://www.zhihu.com/question/14168642418",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "《双影奇境》游戏时长只有10小时，但定价要198，这是否违背了3A作品“定价之法”？",
     "url": "https://www.zhihu.com/question/14248193503",
     "source": {
