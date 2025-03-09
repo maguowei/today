@@ -1,5 +1,68 @@
 [
   {
+    "title": "Goravel: A Go framework inspired by Laravel",
+    "url": "https://www.goravel.dev",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "H3: For indexing geographies into a hexagonal grid, by Uber",
+    "url": "https://h3geo.org/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "24-25赛季NBA常规赛勇士 121:119 篮网，如何评价这场比赛？",
+    "url": "https://www.zhihu.com/question/14290136700",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "获奥斯卡最佳动画长片奖的电影《猫猫的奇幻漂流》究竟如何？",
+    "url": "https://www.zhihu.com/question/13898805291",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "自律、极简的生活怎么样，人可以自律、极简到什么程度？",
+    "url": "https://www.zhihu.com/question/650908876",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价BLACKPINK Jennie新专辑《Ruby》?",
+    "url": "https://www.zhihu.com/question/14259685287",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "我国科学家首次揭示「细菌抗肿瘤」关键原理，细菌是如何发挥作用的？有哪些重要意义？",
+    "url": "https://www.zhihu.com/question/13998593079",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "My 16-month theanine self-experiment",
     "url": "https://dynomight.net/theanine/",
     "source": {
