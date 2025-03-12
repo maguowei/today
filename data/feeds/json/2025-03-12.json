@@ -1,5 +1,212 @@
 [
   {
+    "title": "Fastplotlib: GPU-accelerated, fast, and interactive plotting library",
+    "url": "https://medium.com/@caitlin9165/fastplotlib-driving-scientific-discovery-through-data-visualization-418f8bff094c",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "New tools for building agents",
+    "url": "https://openai.com/index/new-tools-for-building-agents/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Launch HN: Sift Dev (YC W25) – AI-Powered Datadog Alternative",
+    "url": "https://news.ycombinator.com/item?id=43334589",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "India's Battle to Control the Democracy Narrative",
+    "url": "https://www.theplankmag.com/india-democracy-narrative",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Sorting Algorithm with CUDA",
+    "url": "https://ashwanirathee.com/blog/2025/sort2/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Continue (YC S23) Is Hiring a Software Engineer in San Francisco",
+    "url": "https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Backyard Cyanide",
+    "url": "https://suziepetryk.com/blog/cyanide.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Program Explorer, a container playground",
+    "url": "https://programexplorer.org/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Unix Needs a True Integrated Environment: CASE Closed (1989) [pdf]",
+    "url": "http://www.bitsavers.org/pdf/xerox/parc/techReports/CSL-89-4_UNIX_Needs_A_True_Integrated_Environment.pdf",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Percolation Theory [pdf]",
+    "url": "https://web.mit.edu/ceder/publications/Percolation.pdf",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How do we tell truths that might hurt? (1975)",
+    "url": "https://www.cs.virginia.edu/~evans/cs655/readings/ewd498.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Startup CTO's Handbook",
+    "url": "https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "杭州有哪些深藏不露的餐馆？",
+    "url": "https://www.zhihu.com/question/31102571",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "晚上睡不着白天睡不醒，是什么「偷走」了我们的夜晚？",
+    "url": "https://www.zhihu.com/question/14659177836",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "王兴兴说国内学校里教的还是十几二十年前的东西，大学里的教材真得滞后这么多吗？",
+    "url": "https://www.zhihu.com/question/14377039651",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么越来越多的大学生加入考研考公大军，而不愿意去社会上找工作？",
+    "url": "https://www.zhihu.com/question/13907908436",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如果《崩坏3》常规版本周期从 6 周调整为 8 周，你认为如何?",
+    "url": "https://www.zhihu.com/question/14480408265",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "北京市推进中小学人工智能教育工作方案发布，释放了哪些信息？将对中小学教育带来哪些改变？",
+    "url": "https://www.zhihu.com/question/14358457231",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "又期待又害怕自己的心理出现问题，这是怎么回事？",
+    "url": "https://www.zhihu.com/question/12864788858",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "《三角洲行动》摸金模式两个队友倒地你会不会去救？",
+    "url": "https://www.zhihu.com/question/14211092783",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "特朗普称「对加拿大的钢铝关税提高到 50%」，这意味着什么？会对双方钢铝产业产生哪些影响？",
+    "url": "https://www.zhihu.com/question/14711155356",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "26 岁女子爱生闷气，子宫长出 8 个肌瘤，最大的比拳头还大，为什么会这样？生气真能「气出肌瘤」吗？",
+    "url": "https://www.zhihu.com/question/14671461774",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "媒体称「杜特尔特已登上包机，将被带往荷兰海牙」，在那里他将面临什么？",
+    "url": "https://www.zhihu.com/question/14706702739",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "ai 已经能编出很完美的程序，程序员这个行业以后是不是会消失？",
     "url": "https://www.zhihu.com/question/14461028376",
     "source": {
