@@ -1,5 +1,104 @@
 [
   {
+    "title": "Stelvio: Serverless AWS for Python Devs",
+    "url": "https://github.com/michal-stlv/stelvio",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: I built a MCP server so Claude can play Minesweeper",
+    "url": "https://github.com/tonypan2/minesweeper-mcp-server",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "荒谬的个人外汇政策",
+    "url": "https://www.v2ex.com/t/1119818",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "狗东又能领 1001 豆了",
+    "url": "https://www.v2ex.com/t/1119792",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "安卓的大电池不是供应商的技术吗，为什么苹果不采用呢",
+    "url": "https://www.v2ex.com/t/1119789",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "为什么很多以往活跃的前端开发博主都不怎么说话了？",
+    "url": "https://www.zhihu.com/question/14593370597",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "作为搭载鸿蒙智能的首款双单元半开放耳机，华为FreeBuds 6 有哪些亮点值得关注？",
+    "url": "https://www.zhihu.com/question/15387385126",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么《英雄联盟》项目上仍然活跃在赛场的大龄韩国选手要比中国选手多出这么多？",
+    "url": "https://www.zhihu.com/question/15195283780",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价华为官宣鸿蒙电脑将在5月亮相，对此你有哪些期待？与现有 PC 操作系统会有何区别？",
+    "url": "https://www.zhihu.com/question/15412763391",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "《刺客信条：影》在Steam全球热销榜的排名已经升至第一，如何评价这一成绩？",
+    "url": "https://www.zhihu.com/question/15354436487",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "孩子不敢一个人睡，老说「怕鬼」，这是一种什么心理？",
+    "url": "https://www.zhihu.com/question/14830492813",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "Minding the gaps: A new way to draw separators in CSS",
     "url": "https://blogs.windows.com/msedgedev/2025/03/19/minding-the-gaps-a-new-way-to-draw-separators-in-css/",
     "source": {
