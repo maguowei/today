@@ -1,5 +1,149 @@
 [
   {
+    "title": "Debian bookworm live images now reproducible",
+    "url": "https://lwn.net/Articles/1015402/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A love letter to the CSV format",
+    "url": "https://github.com/medialab/xan/blob/master/docs/LOVE_LETTER.md",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Sharding Pgvector",
+    "url": "https://pgdog.dev/blog/sharding-pgvector",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Firefox Is Finally (Re)Adding Support for Web Apps",
+    "url": "https://www.omgubuntu.co.uk/2025/03/firefox-nightly-supports-web-apps-taskbar-tabs",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Weave (YC W25) is hiring a founding product engineer",
+    "url": "https://www.ycombinator.com/companies/weave-3/jobs/E0LFOgu-founding-product-engineer",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Good-bye core types; Hello Go as we know and love it",
+    "url": "https://go.dev/blog/coretypes",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Kilo Code: Speedrunning open source coding AI",
+    "url": "https://blog.kilocode.ai/p/kilo-code-speedrunning-open-source-coding-ai",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Microsoft Study: AI Makes Human Cognition \"Atrophied and Unprepared\"",
+    "url": "https://www.404media.co/microsoft-study-finds-ai-makes-human-cognition-atrophied-and-unprepared-3/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Supreme Court takes up $8B phone and internet subsidy for rural areas",
+    "url": "https://apnews.com/article/supreme-court-telecommunications-fee-internet-c51526ec5c78ed913064b1c4d3399ba2",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Servo vs. Ladybird",
+    "url": "https://thelibre.news/servo-vs-ladybird/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "游戏中的“重复劳动”为什么会让玩家感到满足，而非厌倦？",
+    "url": "https://www.zhihu.com/question/15366717887",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "希望国产电影投资方尊重编剧，演员别乱改剧本，大家齐心协力多拍好片、拒绝拍烂片，这个愿望能实现吗？",
+    "url": "https://www.zhihu.com/question/10870293214",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "在数学的学习过程中，你见过最妙的数学证明是什么？",
+    "url": "https://www.zhihu.com/question/14821939435",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "香港电影的没落是什么原因?",
+    "url": "https://www.zhihu.com/question/15520051505",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "有什么知识和能力是中国的学校不教，却是大部分人在生活工作中必须的?",
+    "url": "https://www.zhihu.com/question/21402621",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "请问大英雄郑成功率领明郑（后明）舰队能不能全歼两艘西班牙“圣三一”号？",
+    "url": "https://www.zhihu.com/question/13952037530",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "直觉是思考的一部分，还是独立于思考的认知方式？",
     "url": "https://www.zhihu.com/question/15401805485",
     "source": {
