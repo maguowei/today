@@ -1,5 +1,185 @@
 [
   {
+    "title": "Blender releases their Oscar winning version tool",
+    "url": "https://www.blender.org/download/releases/4-4/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "OpenAI adds MCP support to Agents SDK",
+    "url": "https://openai.github.io/openai-agents-python/mcp/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Mysterious Flow of Fluid in the Brain",
+    "url": "https://www.quantamagazine.org/the-mysterious-flow-of-fluid-in-the-brain-20250326/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Building a Linux Container Runtime from Scratch",
+    "url": "https://edera.dev/stories/styrolite",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Botswana Successfully Launches First Satellite, Botsat-1",
+    "url": "https://spaceinafrica.com/2025/03/15/botswana-successfully-launches-first-satellite-botsat-1/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Problems with the heap",
+    "url": "https://rachelbythebay.com/w/2025/03/26/atop/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Building a Firecracker-Powered Course Platform to Learn Docker and Kubernetes",
+    "url": "https://iximiuz.com/en/posts/iximiuz-labs-story/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Oracle customers confirm data stolen in alleged cloud breach is valid",
+    "url": "https://www.bleepingcomputer.com/news/security/oracle-customers-confirm-data-stolen-in-alleged-cloud-breach-is-valid/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Malware found on NPM infecting local package with reverse shell",
+    "url": "https://www.reversinglabs.com/blog/malicious-npm-patch-delivers-reverse-shell",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How to Delete Your 23andMe Data",
+    "url": "https://www.eff.org/deeplinks/2025/03/how-delete-your-23andme-data",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Federal Government Detains International Student at Tufts",
+    "url": "https://www.nytimes.com/2025/03/26/us/ice-tufts-student-detained-rumeysa-ozturk.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Playwright Tools for MCP",
+    "url": "https://github.com/microsoft/playwright-mcp",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "《潜伏》李涯很能干，为什么站长却更喜欢余则成？",
+    "url": "https://www.zhihu.com/question/542076156",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "王传福公布比亚迪2025年销量目标为550万辆，其中海外销量80万辆，完成这一目标有哪些挑战？",
+    "url": "https://www.zhihu.com/question/1888155218300100796",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "是不是发达国家都不建高层住宅楼，为什么呢？",
+    "url": "https://www.zhihu.com/question/337396249",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "宋朝为什么突然就不流行诗了，开始流行词了？",
+    "url": "https://www.zhihu.com/question/15346704152",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "满清时满城里的八旗主要从事什么生产活动？劳动强度大不大？",
+    "url": "https://www.zhihu.com/question/9797131553",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么科学家认为人类都起源于非洲，难道就不能说是各大洲分别诞生人类吗？",
+    "url": "https://www.zhihu.com/question/15552238269",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "特朗普宣布对所有进口汽车征收 25% 关税，且是永久关税，这会带来哪些影响？",
+    "url": "https://www.zhihu.com/question/1888490439486697629",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "中国为什么一直没有优良的马种？",
+    "url": "https://www.zhihu.com/question/20741495",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "历史上有哪些将友军误认为敌军，然后交战的事件？",
     "url": "https://www.zhihu.com/question/15467856077",
     "source": {
