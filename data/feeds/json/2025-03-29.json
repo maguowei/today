@@ -1,5 +1,122 @@
 [
   {
+    "title": "Koto Programming Language",
+    "url": "https://koto.dev/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Physical Pomodoro Timer with ESP32 and e-paper screen",
+    "url": "https://github.com/Rukenshia/pomodoro",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Mathematical Compact Models of Advanced Transistors [pdf]",
+    "url": "https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-24.pdf",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Plain – a web framework for building products with Python",
+    "url": "https://plainframework.com/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Self-Supervised Learning from Images with JEPA (2023)",
+    "url": "https://arxiv.org/abs/2301.08243",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Postgres Language Server: Initial Release",
+    "url": "https://github.com/supabase-community/postgres-language-server",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Windows 11: Removing bypassnro Script to Enhance Security and User Experience",
+    "url": "https://blogs.windows.com/windows-insider/2025/03/28/announcing-windows-11-insider-preview-build-26200-5516-dev-channel/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Where Do the Bytes Go?",
+    "url": "https://flak.tedunangst.com/post/where-do-the-bytes-go",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "人类明明是顶级杂食动物，胃酸接近食腐动物，为什么连生肉都不敢吃？",
+    "url": "https://www.zhihu.com/question/14159370972",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "甄嬛在被皇帝命令毒杀果郡王时，她到底想自己死还是果郡王死？",
+    "url": "https://www.zhihu.com/question/657705541",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "浪姐6是真的「押错宝」吗？李晟的翻红是不是芒果台复制「王心凌效应」的成功尝试？",
+    "url": "https://www.zhihu.com/question/1889019281397745426",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "某平台多位科学博主与 AI 共创「数学日专题科普视频」，这类用 AI 做的科普可能有哪些风险或问题？",
+    "url": "https://www.zhihu.com/question/1888995017693028589",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "去过越南后你最大的感受是什么？",
+    "url": "https://www.zhihu.com/question/332995493",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "小体积低功耗+ECC 内存的 NAS 有没有解",
     "url": "https://www.v2ex.com/t/1121941",
     "source": {
