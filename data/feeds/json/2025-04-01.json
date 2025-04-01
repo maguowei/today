@@ -1,5 +1,167 @@
 [
   {
+    "title": "JEP Draft: Prepare to Make Final Mean Final",
+    "url": "https://openjdk.org/jeps/8349536",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Go Optimization Guide",
+    "url": "https://goperf.dev/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Notes on the Pentium's Microcode Circuitry",
+    "url": "https://www.righto.com/2025/03/pentium-microcde-rom-circuitry.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Everything Is Ghibli",
+    "url": "https://carly.substack.com/p/everything-is-ghibli",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Honey has now lost 4M Chrome users after shady tactics were revealed",
+    "url": "https://9to5google.com/2025/03/31/honey-extension-users-dropped-chrome-march-2025/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Launch HN: Augento (YC W25) – Fine-tune your agents with reinforcement learning",
+    "url": "https://news.ycombinator.com/item?id=43537505",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "LLM Workflows then Agents: Getting Started with Apache Airflow",
+    "url": "https://github.com/astronomer/airflow-ai-sdk",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "KOReader: Open-Source eBook Reader",
+    "url": "https://github.com/koreader/koreader",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Distro (YC S24) Is Hiring a Lead Solutions Engineer",
+    "url": "https://www.ycombinator.com/companies/distro/jobs/hJQCfVH-lead-solutions-engineer",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "France fines Apple €150M for “excessive” pop-ups that let users reject tracking",
+    "url": "https://arstechnica.com/tech-policy/2025/03/france-fines-apple-e150m-for-excessive-pop-ups-that-let-users-reject-tracking/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Kagi for Kids",
+    "url": "https://help.kagi.com/kagi/plans/family-plan.html#kidslogin",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "美联储数据显示「美国最富有的一半家庭把控着全国 97.5% 的财富」，一般有哪些指标衡量一国贫富差距？",
+    "url": "https://www.zhihu.com/question/1888542984687022429",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "从装修的角度如何看待「家如其人」，如何才能打造一个有居住者个人精神的家居空间？",
+    "url": "https://www.zhihu.com/question/14562285697",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "发现孩子很普通怎么办？",
+    "url": "https://www.zhihu.com/question/412620700",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "研究生复试专业课问答是偏基础还是前沿，会不会结合热点进行考察？",
+    "url": "https://www.zhihu.com/question/14566627881",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何评价《英雄立志传：三国志》？",
+    "url": "https://www.zhihu.com/question/1888410178174567235",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "「好房子」新标准发布，层高不低于 3 米、4 层及以上要设置电梯，对当前房地产市场将带来哪些影响？",
+    "url": "https://www.zhihu.com/question/1890125450744915454",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "3 月 30 日汤加附近发生 7.3 级地震，为何近期强震连发？它们有关联吗？未来地震会更频繁吗？",
+    "url": "https://www.zhihu.com/question/1889779548603773881",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "男孩子四岁，非常入迷奥特曼，怎么办？",
     "url": "https://www.zhihu.com/question/15136816015",
     "source": {
