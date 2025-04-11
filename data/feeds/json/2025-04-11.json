@@ -1,5 +1,104 @@
 [
   {
+    "title": "PEP 750 – Template Strings",
+    "url": "https://peps.python.org/pep-0750/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Story Behind “100 Go Mistakes and How to Avoid Them”",
+    "url": "https://www.thecoder.cafe/p/100-go-mistakes",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "日本的家纹有哪些讲究和历史？",
+    "url": "https://www.zhihu.com/question/29587561",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "既然解开bitlocker需要密钥，那Windows正常启动（无用户输入）时是从哪里获取到密钥的？",
+    "url": "https://www.zhihu.com/question/10994180697",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "回农村创业的有前途吗？",
+    "url": "https://www.zhihu.com/question/435625288",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "德左明明在德涅斯特河右岸，为什么叫德左？",
+    "url": "https://www.zhihu.com/question/1893331947855524443",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "多少人想成为作家不是因为想要上百万甚至千万的稿费，单纯只是社恐，想找一份可以养活自己又不用社交的工作？",
+    "url": "https://www.zhihu.com/question/1891794025490661882",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何看待 95 后老板称只招聘35岁以上员工，已有数百人咨询，曾创立「上四休三」制公司？",
+    "url": "https://www.zhihu.com/question/1893577401637785658",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "美股全线跳水，道指重挫逾 1000 点，大型科技股全线下跌，特斯拉跌超 7%，如何解读美股行情？",
+    "url": "https://www.zhihu.com/question/1893792294466990782",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "徐工集团为什么可以免费赞助《流浪地球 2》？",
+    "url": "https://www.zhihu.com/question/581822066",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "特朗普警告各国，「若不能达成协议，将恢复高额『对等关税』」，事情走向会如何？",
+    "url": "https://www.zhihu.com/question/1893948486577251118",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "PEP 750 – Template Strings (t-strings) have been accepted",
     "url": "https://peps.python.org/pep-0750/",
     "source": {
