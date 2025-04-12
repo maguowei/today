@@ -1,5 +1,275 @@
 [
   {
+    "title": "Nice Things with SVG",
+    "url": "https://fuma-nama.vercel.app/blog/svg-art",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: memEx, a personal knowledge base inspired by zettlekasten and org-mode",
+    "url": "https://gitea.bubbletea.dev/shibao/memex",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Anubis Works",
+    "url": "https://xeiaso.net/notes/2025/anubis-works/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Zod v4 Beta",
+    "url": "https://v4.zod.dev/v4",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "ArkType: Ergonomic TS validator 100x faster than Zod",
+    "url": "https://arktype.io/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Shadertoys Ported to Rust GPU",
+    "url": "https://rust-gpu.github.io/blog/2025/04/10/shadertoys/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Why is there a \"small house\" in IBM's Code page 437?",
+    "url": "https://blog.glyphdrawing.club/why-is-there-a-small-house-in-ibm-s-code-page-437/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "'Paraparticles' Would Be a Third Kingdom of Quantum Particle",
+    "url": "https://www.quantamagazine.org/paraparticles-would-be-a-third-kingdom-of-quantum-particle-20250411/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ask HN: How do you monetize personal code if it's not an \"app\"?",
+    "url": "https://news.ycombinator.com/item?id=43667887",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Artie (YC S23) Is Hiring Engineer #3",
+    "url": "https://www.ycombinator.com/companies/artie/jobs/7kGvDVC-founding-product-engineer",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Dual Kickstart ROM Replacement for Amiga",
+    "url": "https://github.com/cdhooper/kicksmash32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Air pollution fell substantially as Paris restricted car traffic",
+    "url": "https://www.washingtonpost.com/climate-solutions/2025/04/12/air-pollution-paris-health-cars/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The 5 levels of configuration languages",
+    "url": "https://beza1e1.tuxen.de/config_levels.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Solid-State Shift: Reinventing the Transformer for Modern Grids",
+    "url": "https://www.powermag.com/the-solid-state-shift-reinventing-the-transformer-for-modern-grids/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "你最近一次送书给别人，送的是什么？为什么选它？",
+    "url": "https://www.zhihu.com/question/1892357542769811722",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "有哪些《崩坏：星穹铁道》翁法罗斯相关的神级 cos 可以分享的？",
+    "url": "https://www.zhihu.com/question/1892538034693591689",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如何看待《绝区零》4 月 11 日更新的式舆防卫战难度?",
+    "url": "https://www.zhihu.com/question/1893916249492267727",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "南宋属于金朝藩属国吗？",
+    "url": "https://www.zhihu.com/question/1892256685093001120",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么现在的喜剧总要走煽情路线？单纯的喜剧难道不好吗？",
+    "url": "https://www.zhihu.com/question/1892903924236796647",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "既然解开bitlocker需要密钥，那Windows正常启动（无用户输入）时是从哪里获取到密钥的？",
+    "url": "https://www.zhihu.com/question/10994180697",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么电视剧黄海冰版《隋唐英雄传》没有像老版《三国演义》那样大火?",
+    "url": "https://www.zhihu.com/question/660024589",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "领导跳槽去了别的公司，上周说觉得我工作很优秀，让我也去他们公司，我该不该去？",
+    "url": "https://www.zhihu.com/question/1893579499100143868",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "如果有可能，你希望哪类药品的价格能降下来？",
+    "url": "https://www.zhihu.com/question/1893723906994598048",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "德左明明在德涅斯特河右岸，为什么叫德左？",
+    "url": "https://www.zhihu.com/question/1893331947855524443",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "读神话时，孩子总是追问神仙在哪，该给科学解释，还是守护好奇幻想？",
+    "url": "https://www.zhihu.com/question/1891631147177472148",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "读书多的人一定比读书少的人更有智慧吗？",
+    "url": "https://www.zhihu.com/question/1894016680142795109",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "从早期的宋丹丹到如今的马丽、张小斐，女性喜剧演员的表演风格发生了怎样的演变？",
+    "url": "https://www.zhihu.com/question/1892903924798816737",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "从技术层面看，阿森纳的两粒任意球破门，库尔图瓦有多少责任？",
+    "url": "https://www.zhihu.com/question/1893276616936887873",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "笔记本电脑长期插着电源使用会对电池有影响吗？",
+    "url": "https://www.zhihu.com/question/13653856946",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "魏延的子午谷奇谋只需要向诸葛亮要几千兵马，他为什么不敢一试？",
+    "url": "https://www.zhihu.com/question/508715218",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "如果你有机会成为《崩坏：星穹铁道》翁法罗斯里的黄金裔，你最希望成为哪一个？",
     "url": "https://www.zhihu.com/question/1892538035305956515",
     "source": {
