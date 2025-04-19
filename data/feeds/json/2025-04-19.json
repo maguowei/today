@@ -1,5 +1,86 @@
 [
   {
+    "title": "JavaScript Views, the Hard Way – A Pattern for Writing UI",
+    "url": "https://github.com/matthewp/views-the-hard-way",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "System Design of a Cellular APL Computer",
+    "url": "https://ieeexplore.ieee.org/document/1671509",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "毕业五年了 我混成了大学舍友里最菜的一个",
+    "url": "https://www.v2ex.com/t/1126609",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "一个 CTO 的深度思考",
+    "url": "https://www.v2ex.com/t/1126590",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "为什么人在一事无成的时候往往不会被人尊重被人瞧得起？",
+    "url": "https://www.zhihu.com/question/644786064",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "现实世界有哪些 Bug？",
+    "url": "https://www.zhihu.com/question/22950346",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "明朝的火器在东亚这边算什么水平?",
+    "url": "https://www.zhihu.com/question/477841750",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "代码写的像诗一样优雅，是什么感觉？",
+    "url": "https://www.zhihu.com/question/12593935758",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "上海男子在地铁拍摄短裙女性被拘，警方认为其行为已构成「寻衅滋事」，案由为何不是「偷拍他人隐私」？",
+    "url": "https://www.zhihu.com/question/1896840966595375704",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "春天有哪些长相相似的花，如何辨别呢？",
     "url": "https://www.zhihu.com/question/1892574411472729951",
     "source": {
