@@ -1,1 +1,101 @@
-[]
+[
+  {
+    "title": "The Really Big One (2015)",
+    "url": "https://www.newyorker.com/magazine/2015/07/20/the-really-big-one",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "They made computers behave like annoying salesmen",
+    "url": "https://rakhim.exotext.com/they-made-computers-behave-like-annoying-salesmen",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Moose – OSS framework to build analytical back ends with ClickHouse",
+    "url": "https://docs.fiveonefour.com/moose",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "'Bright Circle' and 'Margaret Fuller': The Rise of the Transcendental Woman",
+    "url": "https://www.wsj.com/arts-culture/books/bright-circle-and-margaret-fuller-the-rise-of-the-transcendental-woman-1bacdb10",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Future of MCPs",
+    "url": "https://iamcharliegraham.substack.com/publish/post/161906169",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Spring 83: a draft protocol intended to suggest new ways of relating online",
+    "url": "https://github.com/robinsloan/spring-83",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Graphics Livecoding in Common Lisp",
+    "url": "https://kevingal.com/blog/cl-livecoding.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A Computational Proof of the Highest-Scoring Boggle Board",
+    "url": "https://www.danvk.org/2025/04/23/boggle-solved.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Sail-Trim Simulator",
+    "url": "https://simulator.atterwind.info/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Teaching LLMs how to solid model",
+    "url": "https://willpatrick.xyz/technology/2025/04/23/teaching-llms-how-to-solid-model.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "AI Horseless Carriages",
+    "url": "https://koomen.dev/essays/horseless-carriages/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  }
+]
