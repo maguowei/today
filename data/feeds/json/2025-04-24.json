@@ -1,5 +1,275 @@
 [
   {
+    "title": "Vim Language, Motions, and Modes Explained",
+    "url": "https://www.ssp.sh/blog/why-using-neovim-data-engineer-and-writer-2023/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "\"Careless People\" the book that Meta tried to suppress",
+    "url": "https://pluralistic.net/2025/04/23/zuckerstreisand/#zdgaf",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "开源基础设施软件如何实现全球化：从零到一亿美元 ARR 的增长之路｜AICon",
+    "url": "https://www.infoq.cn/article/JE3K0ixBcMOC7ctKKrfA",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "从大模型到智能体，解锁开发者关注的十大隐性赛道 | QCon 北京 2025 优秀出品人 & 明星讲师名单揭晓",
+    "url": "https://www.infoq.cn/article/bRPkwkdiHdcR7hRij3IB",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "百元复刻DS R1、手把手教全流程训大模型，今年百度Create公开课看点十足",
+    "url": "https://www.infoq.cn/article/9iLuCW584NyX9ReeMp2X",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "去哪儿：“反向旅游”带火宝藏小城，县城高星酒店预订增三成",
+    "url": "https://www.36kr.com/newsflashes/3263815971143424",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "华邦健康：美国加征关税对公司的影响相对有限",
+    "url": "https://www.36kr.com/newsflashes/3263813630918405",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "满配全新岚图FREE6月开售",
+    "url": "https://www.36kr.com/newsflashes/3263809391935235",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "日本投资者上周净买入海外债券，为六周来首次",
+    "url": "https://www.36kr.com/newsflashes/3263806629675136",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "广州入境旅客用微信支付消费笔数大涨1.5 倍、金额翻番",
+    "url": "https://www.36kr.com/newsflashes/3263792604135553",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "继加州后，美国又有12州起诉特朗普政府滥用关税政策“违法”",
+    "url": "https://www.36kr.com/newsflashes/3263804504096521",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "浙江极越汽车重新更名为枫盛汽车",
+    "url": "https://www.36kr.com/newsflashes/3263803761704711",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "腾讯云代码助手CodeBuddy正式升级",
+    "url": "https://www.36kr.com/newsflashes/3263801398984837",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "A股三大指数收盘涨跌不一，AI算力概念领跌",
+    "url": "https://www.36kr.com/newsflashes/3263792136994566",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "零售板块有所反弹，步步高拉升涨停",
+    "url": "https://www.36kr.com/newsflashes/3263777796243206",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "沪深两市成交额连续第4个交易日破万亿",
+    "url": "https://www.36kr.com/newsflashes/3263771712553088",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "商务部：中国将继续扩大高水平对外开放，切实维护外资企业合法权益",
+    "url": "https://www.36kr.com/newsflashes/3263768148639490",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "安记食品上演“地天板”",
+    "url": "https://www.36kr.com/newsflashes/3263762800050304",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "中泰证券：电子皮肤是人形机器人感知能力的关键",
+    "url": "https://www.36kr.com/newsflashes/3263762539692169",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "前华金证券宏观首席秦泰加盟华福证券，任研究所副所长",
+    "url": "https://www.36kr.com/newsflashes/3263757410385670",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "花旗预计韩国央行终端利率在1.50%，政府料加码财政刺激",
+    "url": "https://www.36kr.com/newsflashes/3263757015728259",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "赛诺菲第一季度销售额为99亿欧元，同比增长11%",
+    "url": "https://www.36kr.com/newsflashes/3263756149293188",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "深圳一季末银行业总资产13.87万亿元",
+    "url": "https://www.36kr.com/newsflashes/3263753770909447",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "沃尔沃汽车任命弗雷德里克·汉森为首席财务官",
+    "url": "https://www.36kr.com/newsflashes/3263744962363522",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "安生股份参加第二届长三角企业安全生产风险管控技术交流研讨会",
+    "url": "https://www.36kr.com/newsflashes/3263744264666889",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "父亲病危儿子请假照顾被开除，公司被判赔偿 11 万，如何从法律角度解读？类似情况请假要注意什么？",
+    "url": "https://www.zhihu.com/question/1898725803656704896",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "幼儿入园干体力活成「鸡娃」新方向，「辛者库幼儿园」为什么能得到家长的认可？劳动对于孩子的成长有多重要？",
+    "url": "https://www.zhihu.com/question/1898100288579149973",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "神舟二十号载人飞船进入预定轨道，发射取得圆满成功，本次任务有哪些亮点和突破？",
+    "url": "https://www.zhihu.com/question/1895914116641695729",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "武汉猿辅导员工猝死在公司，劳动监察部门介入调查工亡认定，具体情况如何？认定工亡需要哪些条件？",
+    "url": "https://www.zhihu.com/question/1898733032292181278",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "方济各的名字到底是如何音译出来的？",
+    "url": "https://www.zhihu.com/question/1898179573033706294",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "女儿在幼儿园老是被欺负怎么办？",
     "url": "https://www.v2ex.com/t/1127726",
     "source": {
