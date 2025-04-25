@@ -403,5 +403,23 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Show HN: Faasta – A self-hosted Serverless platform for WASM-wasi-HTTP in Rust",
+    "url": "https://github.com/fourlexboehm/faasta",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "What If We Could Rebuild Kafka from Scratch?",
+    "url": "https://www.morling.dev/blog/what-if-we-could-rebuild-kafka-from-scratch/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
