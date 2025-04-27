@@ -1,5 +1,86 @@
 [
   {
+    "title": "Accidentally Turing-Complete",
+    "url": "https://beza1e1.tuxen.de/articles/accidentally_turing_complete.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Shardines: SQLite3 Database-per-Tenant with ActiveRecord",
+    "url": "https://blog.julik.nl/2025/04/a-can-of-shardines",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Bhvr, a Bun and Hono and Vite and React Starter",
+    "url": "https://bhvr.dev",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "America's nuclear arsenal to cost $946B over next decade",
+    "url": "https://breakingdefense.com/2025/04/americas-nuclear-arsenal-to-cost-946b-over-next-decade-government-report-reveals/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Top Patenting Powerhouses of 2024",
+    "url": "https://spectrum.ieee.org/patent-power-2025",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ask HN: Memory-Safe Low Level Languages",
+    "url": "https://news.ycombinator.com/item?id=43811487",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Microsoft Word 5.5 And 6.0 In-depth DOS Review With Pics (2018)",
+    "url": "https://shot97retro.blogspot.com/2018/07/microsoft-word-55-and-60-in-depth-dos.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Windows \"inetpub\" security fix can be abused to block future updates",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/windows-inetpub-security-fix-can-be-abused-to-block-future-updates/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "为什么中学物理教材没讲能量是力对空间的积累，动量是力对时间的积累这个最根本的概念？",
+    "url": "https://www.zhihu.com/question/1896984171076888335",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "CSS Zen Garden (2003–)",
     "url": "https://csszengarden.com/",
     "source": {
