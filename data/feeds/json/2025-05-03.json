@@ -1,5 +1,77 @@
 [
   {
+    "title": "Show HN: Blast – Fast, multi-threaded serving engine for web browsing AI agents",
+    "url": "https://github.com/stanford-mast/blast",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Building Burstables: CPU slicing with cgroups",
+    "url": "https://www.ubicloud.com/blog/building-burstables-cpu-slicing-with-cgroups",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Toma (YC W24) Is Hiring Engs #3-4 (AI for Automotive)",
+    "url": "https://www.ycombinator.com/companies/toma/jobs",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Exhibit and Site on Mechanisms for Students",
+    "url": "https://mechanical-library.org/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The History of Album Art",
+    "url": "https://matthewstrom.com/writing/album-art/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "「网约摩托车」在部分县城上线，这种模式可能存在哪些问题？适合推广吗？",
+    "url": "https://www.zhihu.com/question/1901286895167698476",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "古代人到底有多残忍？",
+    "url": "https://www.zhihu.com/question/65105151",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "1MB其实是一个很大的存储单位，那么它的存储容量究竟有多大？",
+    "url": "https://www.zhihu.com/question/1898646932458563454",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "小米SU7ultra最新OTA对1548匹马力进行限制，官方赛道刷圈速可解锁，该不该对性能车做限制？",
     "url": "https://www.zhihu.com/question/1901250394950201671",
     "source": {
