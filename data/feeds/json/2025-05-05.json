@@ -1,5 +1,104 @@
 [
   {
+    "title": "Dummy's Guide to Modern LLM Sampling",
+    "url": "https://rentry.co/samplers",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Design for 3D-Printing",
+    "url": "https://blog.rahix.de/design-for-3d-printing/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: EZ-TRAK Satellite Hand Tracking Suite",
+    "url": "https://github.com/benb0jangles/EzTrak",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Hightouch (YC S19) Is Hiring",
+    "url": "https://www.ycombinator.com/companies/hightouch/jobs/kIoY0yH-machine-learning-engineer-ai-decisioning",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Load-Store Conflicts",
+    "url": "https://zeux.io/2025/05/03/load-store-conflicts/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Feather: Feather: A web framework that skips Rust's async boilerplate and jus",
+    "url": "https://github.com/BersisSe/feather",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Minimal Linux Bootloader",
+    "url": "https://raw.githubusercontent.com/Stefan20162016/linux-insides-code/master/bootloader.asm",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "死生不复相见？有哪些被博物馆强行分开的 CP 文物？",
+    "url": "https://www.zhihu.com/question/1900176455696097313",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "动画《火影忍者》中有哪些 99% 的人都不知道的终极细节？",
+    "url": "https://www.zhihu.com/question/455433585",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "程序员是怎么学会那么多技术的？",
+    "url": "https://www.zhihu.com/question/658581470",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "常年独居的人，靠什么抵抗孤独？",
+    "url": "https://www.zhihu.com/question/667903304",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "电影《水饺皇后》中，臧健和为什么要一直待在香港不回老家？",
     "url": "https://www.zhihu.com/question/1900902930783139290",
     "source": {
