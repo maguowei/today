@@ -1,5 +1,149 @@
 [
   {
+    "title": "Helmdar: 3D Scanning Brooklyn on Rollerblades",
+    "url": "https://owentrueblood.com/blog/2025/05/04/helmdar/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Graceful Shutdown in Go: Practical Patterns",
+    "url": "https://victoriametrics.com/blog/go-graceful-shutdown/index.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "An appeal to companies doing AI",
+    "url": "https://soatok.blog/2025/05/04/tech-companies-apparently-do-not-understand-why-we-dislike-ai/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ask HN: Hackathons feel fake now – anyone else noticing this?",
+    "url": "https://news.ycombinator.com/item?id=43889502",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "KaiPod Learning (YC S21) Is Hiring VP of Engineering",
+    "url": "https://www.ycombinator.com/companies/kaipod-learning/jobs/Bs3H9uB-vp-of-engineering",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Typed Lisp, a Primer",
+    "url": "https://alhassy.com/TypedLisp.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Minimal Linux Bootloader (2018)",
+    "url": "https://raw.githubusercontent.com/Stefan20162016/linux-insides-code/master/bootloader.asm",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Driverless print server for legacy printers, profit goes to open-source",
+    "url": "https://printserver.ink/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "AI code is legacy code?",
+    "url": "https://text-incubation.com/AI+code+is+legacy+code+from+day+one",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "2025 年五一档电影如果必须选一个，推荐选哪个？为什么？",
+    "url": "https://www.zhihu.com/question/1900825910581629232",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "年轻人开始流行旅游摆摊，既能分摊旅行成本，又能体验当地文化，你会考虑吗？有哪些注意事项？",
+    "url": "https://www.zhihu.com/question/1901579261678151517",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "视障人士携带导盲犬入住全季酒店被拒，酒店的行为违法吗？暴露出哪些问题？",
+    "url": "https://www.zhihu.com/question/1902424982971183724",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "明明好好休息也很快乐，为什么放假待在家不出去玩就会产生出一种「假期被荒废」的负面心理？",
+    "url": "https://www.zhihu.com/question/1899937390069507612",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "上班时间，同事跟我打了招呼出去接送孩子，单位纪检人员来查岗，问我同事的去向，我该怎么回答？",
+    "url": "https://www.zhihu.com/question/1893604900925076922",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "网传某汽车风阻系数造假，阿维塔回应「完全失实」「将公开测试」，事情真相如何？风阻系数对汽车意味着什么？",
+    "url": "https://www.zhihu.com/question/1902117958920169074",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "贵州黔西载人游船倾覆事故已致 9 人死亡，70 人正在救治，目前救援情况如何？事故原因可能有哪些？",
+    "url": "https://www.zhihu.com/question/1902447602831685065",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "为什么当时世界第二工业国德国的武器产量，会不如苏联？",
     "url": "https://www.zhihu.com/question/1898465044737561207",
     "source": {
