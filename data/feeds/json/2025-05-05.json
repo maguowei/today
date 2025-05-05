@@ -1,5 +1,104 @@
 [
   {
+    "title": "Modern Latex",
+    "url": "https://github.com/mrkline/modern-latex",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "AI Meets WinDBG",
+    "url": "https://svnscha.de/posts/ai-meets-windbg/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Apple Shortcuts is falling into \"the automation gap\"",
+    "url": "https://sixcolors.com/link/2025/03/shortcuts-is-falling-into-the-automation-gap/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Unparalleled Misalignments",
+    "url": "https://rickiheicklen.com/unparalleled-misalignments.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "聊了两个多月的女生还没想确认关系是什么心理？",
+    "url": "https://www.v2ex.com/t/1129681",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "你们的域名都是在哪里买的，想整点续费便宜的域名🥲",
+    "url": "https://www.v2ex.com/t/1129672",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "Switch 2 游戏",
+    "url": "https://www.v2ex.com/t/1129671",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "你的导师都问过你哪些深刻的问题？",
+    "url": "https://www.zhihu.com/question/526285550",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "在 AI 便利时代，我们如何保持个体独立思考的能力？",
+    "url": "https://www.zhihu.com/question/1899868096996570467",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "概率（Probability）的本质是什么？",
+    "url": "https://www.zhihu.com/question/26895086",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
+    "title": "为什么开了这么多会，却依然提升不了员工的激情？",
+    "url": "https://www.zhihu.com/question/653951784",
+    "source": {
+      "name": "zhihu_hot",
+      "desc": "知乎热榜",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/zhihu.png"
+    }
+  },
+  {
     "title": "贵州黔西游船侧翻事故现场游客发声，突遇暴雨加冰雹，一些人没穿救生衣，涉事景区应承担哪些法律责任？",
     "url": "https://www.zhihu.com/question/1902489527680989144",
     "source": {
