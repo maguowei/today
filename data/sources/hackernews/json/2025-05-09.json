@@ -1,88 +1,7 @@
 [
   {
-    "title": "Void: Open-source Cursor alternative",
-    "url": "https://github.com/voideditor/void",
-    "source": {
-      "name": "hackernews",
-      "desc": "Hacker News",
-      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
-    }
-  },
-  {
-    "title": "Chicago native Cardinal Prevost elected pope, takes name Leo XIV",
-    "url": "https://catholicreview.org/chicago-native-cardinal-prevost-elected-pope-takes-name-leo-xiv/",
-    "source": {
-      "name": "hackernews",
-      "desc": "Hacker News",
-      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
-    }
-  },
-  {
-    "title": "Reservoir Sampling",
-    "url": "https://samwho.dev/reservoir-sampling/",
-    "source": {
-      "name": "hackernews",
-      "desc": "Hacker News",
-      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
-    }
-  },
-  {
-    "title": "Show HN: Using eBPF to see through encryption without a proxy",
-    "url": "https://github.com/qpoint-io/qtap",
-    "source": {
-      "name": "hackernews",
-      "desc": "Hacker News",
-      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
-    }
-  },
-  {
-    "title": "Notes on rolling out Cursor and Claude Code",
-    "url": "https://ghiculescu.substack.com/p/nobody-codes-here-anymore",
-    "source": {
-      "name": "hackernews",
-      "desc": "Hacker News",
-      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
-    }
-  },
-  {
-    "title": "Ciro (YC S22) is hiring a software engineer to build AI agents for sales",
-    "url": "https://www.ycombinator.com/companies/ciro/jobs",
-    "source": {
-      "name": "hackernews",
-      "desc": "Hacker News",
-      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
-    }
-  },
-  {
-    "title": "First American pope elected and will be known as Pope Leo XIV",
-    "url": "https://www.cnn.com/world/live-news/new-pope-conclave-day-two-05-08-25",
-    "source": {
-      "name": "hackernews",
-      "desc": "Hacker News",
-      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
-    }
-  },
-  {
-    "title": "Show HN: Checking Pope's election results with smoke test script for chimney",
-    "url": "https://github.com/donobu-inc/donobu-papal-election-tests/blob/main/tests/papal_election_smoke.test.ts",
-    "source": {
-      "name": "hackernews",
-      "desc": "Hacker News",
-      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
-    }
-  },
-  {
-    "title": "More people are getting tattoos removed",
-    "url": "https://www.gq.com/story/why-is-everyone-getting-their-tattoos-removed",
-    "source": {
-      "name": "hackernews",
-      "desc": "Hacker News",
-      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
-    }
-  },
-  {
-    "title": "Hypermode Model Router Preview – OpenRouter Alternative",
-    "url": "https://hypermode.com/blog/introducing-model-router",
+    "title": "Brokk: AI for Large Codebases",
+    "url": "https://brokk.ai",
     "source": {
       "name": "hackernews",
       "desc": "Hacker News",
@@ -99,8 +18,89 @@
     }
   },
   {
-    "title": "Brokk: AI for Large Codebases",
-    "url": "https://brokk.ai",
+    "title": "Hypermode Model Router Preview – OpenRouter Alternative",
+    "url": "https://hypermode.com/blog/introducing-model-router",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "More people are getting tattoos removed",
+    "url": "https://www.gq.com/story/why-is-everyone-getting-their-tattoos-removed",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Checking Pope's election results with smoke test script for chimney",
+    "url": "https://github.com/donobu-inc/donobu-papal-election-tests/blob/main/tests/papal_election_smoke.test.ts",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "First American pope elected and will be known as Pope Leo XIV",
+    "url": "https://www.cnn.com/world/live-news/new-pope-conclave-day-two-05-08-25",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ciro (YC S22) is hiring a software engineer to build AI agents for sales",
+    "url": "https://www.ycombinator.com/companies/ciro/jobs",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Notes on rolling out Cursor and Claude Code",
+    "url": "https://ghiculescu.substack.com/p/nobody-codes-here-anymore",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Using eBPF to see through encryption without a proxy",
+    "url": "https://github.com/qpoint-io/qtap",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Reservoir Sampling",
+    "url": "https://samwho.dev/reservoir-sampling/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Chicago native Cardinal Prevost elected pope, takes name Leo XIV",
+    "url": "https://catholicreview.org/chicago-native-cardinal-prevost-elected-pope-takes-name-leo-xiv/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Void: Open-source Cursor alternative",
+    "url": "https://github.com/voideditor/void",
     "source": {
       "name": "hackernews",
       "desc": "Hacker News",
