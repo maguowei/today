@@ -1,5 +1,32 @@
 [
   {
+    "title": "Firefox Moves to GitHub",
+    "url": "https://github.com/mozilla-firefox/firefox",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "TransMLA: Multi-head latent attention is all you need",
+    "url": "https://arxiv.org/abs/2502.07864",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Why the 737 MAX has been such a headache for Boeing",
+    "url": "https://www.jalopnik.com/1853477/boeing-737-max-incidents-aircraft-problems/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "Fastvlm: Efficient vision encoding for vision language models",
     "url": "https://github.com/apple/ml-fastvlm",
     "source": {
