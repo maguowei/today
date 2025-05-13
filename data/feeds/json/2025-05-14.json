@@ -1,5 +1,77 @@
 [
   {
+    "title": "Starcloud",
+    "url": "https://www.ycombinator.com/companies/starcloud",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Build real-time knowledge graph for documents with LLM",
+    "url": "https://cocoindex.io/blogs/knowledge-graph-for-docs/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: HelixDB – Open-source vector-graph database for AI applications (Rust)",
+    "url": "https://github.com/HelixDB/helix-db/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "OpenTelemetry protocol with Apache Arrow",
+    "url": "https://opentelemetry.io/blog/2025/otel-arrow-phase-2/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Why are banks still getting authentication so wrong?",
+    "url": "https://jamal.haba.sh/its-2025-why-are-banks-still-getting-authentication-so-wrong/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Don't unwrap options: There are better ways (2024)",
+    "url": "https://corrode.dev/blog/rust-option-handling-best-practices/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "PyPI Organizations (2023)",
+    "url": "https://blog.pypi.org/posts/2023-04-23-introducing-pypi-organizations/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Using Obscure Graph Theory to Solve Programming Languages Problems",
+    "url": "https://reasonablypolymorphic.com/blog/solving-lcsa/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "Branch Privilege Injection: Exploiting branch predictor race conditions",
     "url": "https://comsec.ethz.ch/research/microarch/branch-privilege-injection/",
     "source": {
