@@ -1,5 +1,59 @@
 [
   {
+    "title": "Branch Privilege Injection: Exploiting branch predictor race conditions",
+    "url": "https://comsec.ethz.ch/research/microarch/branch-privilege-injection/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Don't Unwrap Options: There Are Better Ways",
+    "url": "https://corrode.dev/blog/rust-option-handling-best-practices/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Helixdb – Open-source vector-graph database for AI applications (Rust)",
+    "url": "https://github.com/HelixDB/helix-db/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "It's 2025–Why Are Banks Still Getting Authentication So Wrong?",
+    "url": "https://jamal.haba.sh/its-2025-why-are-banks-still-getting-authentication-so-wrong/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "OpenTelemetry Protocol with Apache Arrow",
+    "url": "https://opentelemetry.io/blog/2025/otel-arrow-phase-2/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "PyPI Organizations",
+    "url": "https://blog.pypi.org/posts/2023-04-23-introducing-pypi-organizations/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "ETH Zurich researchers discover new security vulnerability in Intel processors",
     "url": "https://ethz.ch/en/news-and-events/eth-news/news/2025/05/eth-zurich-researchers-discover-new-security-vulnerability-in-intel-processors.html",
     "source": {
