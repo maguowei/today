@@ -1,5 +1,23 @@
 [
   {
+    "title": "Building an agentic image generator that improves itself",
+    "url": "https://simulate.trybezel.com/research/image_agent",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Coinbase says its data breach affects at least 69k customers",
+    "url": "https://techcrunch.com/2025/05/21/coinbase-says-its-data-breach-affects-at-least-69000-customers/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "Roto: A Compiled Scripting Language for Rust",
     "url": "https://blog.nlnetlabs.nl/introducing-roto-a-compiled-scripting-language-for-rust/",
     "source": {
