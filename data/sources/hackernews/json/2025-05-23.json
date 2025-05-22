@@ -1,25 +1,7 @@
 [
   {
-    "title": "Claude 4",
-    "url": "https://www.anthropic.com/news/claude-4",
-    "source": {
-      "name": "hackernews",
-      "desc": "Hacker News",
-      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
-    }
-  },
-  {
-    "title": "Mozilla to shut down Pocket on July 8",
-    "url": "https://support.mozilla.org/en-US/kb/future-of-pocket",
-    "source": {
-      "name": "hackernews",
-      "desc": "Hacker News",
-      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
-    }
-  },
-  {
-    "title": "The \"AI 2027\" Scenario: How realistic is it?",
-    "url": "https://garymarcus.substack.com/p/the-ai-2027-scenario-how-realistic",
+    "title": "Ice Theft in Antarctica",
+    "url": "https://nautil.us/ice-theft-in-antarctica-1210083/",
     "source": {
       "name": "hackernews",
       "desc": "Hacker News",
@@ -36,8 +18,26 @@
     }
   },
   {
-    "title": "Ice Theft in Antarctica",
-    "url": "https://nautil.us/ice-theft-in-antarctica-1210083/",
+    "title": "The \"AI 2027\" Scenario: How realistic is it?",
+    "url": "https://garymarcus.substack.com/p/the-ai-2027-scenario-how-realistic",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Mozilla to shut down Pocket on July 8",
+    "url": "https://support.mozilla.org/en-US/kb/future-of-pocket",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Claude 4",
+    "url": "https://www.anthropic.com/news/claude-4",
     "source": {
       "name": "hackernews",
       "desc": "Hacker News",
