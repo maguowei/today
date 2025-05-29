@@ -1,16 +1,7 @@
 [
   {
-    "title": "FLUX.1 Kontext",
-    "url": "https://bfl.ai/models/flux-kontext",
-    "source": {
-      "name": "hackernews",
-      "desc": "Hacker News",
-      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
-    }
-  },
-  {
-    "title": "Infisical (YC W23) Is Hiring Full Stack Engineers (TypeScript) in US and Canada",
-    "url": "https://www.ycombinator.com/companies/infisical/jobs/vGwCQVk-full-stack-engineer-us-canada",
+    "title": "Human coders are still better than LLMs",
+    "url": "https://antirez.com/news/153",
     "source": {
       "name": "hackernews",
       "desc": "Hacker News",
@@ -27,8 +18,17 @@
     }
   },
   {
-    "title": "Human coders are still better than LLMs",
-    "url": "https://antirez.com/news/153",
+    "title": "Infisical (YC W23) Is Hiring Full Stack Engineers (TypeScript) in US and Canada",
+    "url": "https://www.ycombinator.com/companies/infisical/jobs/vGwCQVk-full-stack-engineer-us-canada",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "FLUX.1 Kontext",
+    "url": "https://bfl.ai/models/flux-kontext",
     "source": {
       "name": "hackernews",
       "desc": "Hacker News",
