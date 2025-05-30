@@ -1,5 +1,23 @@
 [
   {
+    "title": "Cap: Lightweight, modern open-source CAPTCHA alternative using proof-of-work",
+    "url": "https://capjs.js.org/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Weave (YC W25) is hiring a founding engineer",
+    "url": "https://www.ycombinator.com/companies/weave-3/jobs",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "Beating Google's kernelCTF PoW using AVX512",
     "url": "https://anemato.de/blog/kctf-vdf",
     "source": {
