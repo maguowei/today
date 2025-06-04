@@ -1,97 +1,7 @@
 [
   {
-    "title": "The iPhone 15 Pro's Depth Maps",
-    "url": "https://tech.marksblogg.com/apple-iphone-15-pro-depth-map-heic.html",
-    "source": {
-      "name": "hackernews",
-      "desc": "Hacker News",
-      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
-    }
-  },
-  {
-    "title": "Mistral Code",
-    "url": "https://mistral.ai/products/mistral-code",
-    "source": {
-      "name": "hackernews",
-      "desc": "Hacker News",
-      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
-    }
-  },
-  {
-    "title": "A proposal to restrict sites from accessing a users' local network",
-    "url": "https://github.com/explainers-by-googlers/local-network-access",
-    "source": {
-      "name": "hackernews",
-      "desc": "Hacker News",
-      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
-    }
-  },
-  {
-    "title": "Curtis Yarvin's Plot Against America",
-    "url": "https://www.newyorker.com/magazine/2025/06/09/curtis-yarvin-profile",
-    "source": {
-      "name": "hackernews",
-      "desc": "Hacker News",
-      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
-    }
-  },
-  {
-    "title": "IRS Direct File on GitHub",
-    "url": "https://chrisgiven.com/2025/05/direct-file-on-github/",
-    "source": {
-      "name": "hackernews",
-      "desc": "Hacker News",
-      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
-    }
-  },
-  {
-    "title": "Show HN: GPT image editing, but for 3D models",
-    "url": "https://www.adamcad.com/",
-    "source": {
-      "name": "hackernews",
-      "desc": "Hacker News",
-      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
-    }
-  },
-  {
-    "title": "When memory was measured in kilobytes: The art of efficient vision",
-    "url": "https://www.softwareheritage.org/2025/06/04/history_computer_vision/",
-    "source": {
-      "name": "hackernews",
-      "desc": "Hacker News",
-      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
-    }
-  },
-  {
-    "title": "VC money is fueling a global boom in worker surveillance tech",
-    "url": "https://restofworld.org/2025/employee-surveillance-software-vc-funding/",
-    "source": {
-      "name": "hackernews",
-      "desc": "Hacker News",
-      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
-    }
-  },
-  {
-    "title": "Show HN: Cloudflare Workers Compatible MCP Boilerplate with OAuth & PostgreSQL",
-    "url": "https://github.com/f/mcp-cloudflare-boilerplate",
-    "source": {
-      "name": "hackernews",
-      "desc": "Hacker News",
-      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
-    }
-  },
-  {
-    "title": "Preventing Flash of Incomplete Markdown when streaming AI responses",
-    "url": "https://engineering.streak.com/p/preventing-unstyled-markdown-streaming-ai",
-    "source": {
-      "name": "hackernews",
-      "desc": "Hacker News",
-      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
-    }
-  },
-  {
-    "title": "The Echo in the Machine",
-    "url": "https://radiolab.org/podcast/the-echo-in-the-machine",
+    "title": "Connecticut legislature overhauls towing laws to reduce 'predatory towing'",
+    "url": "https://www.propublica.org/article/connecticut-passes-towing-law-reform",
     "source": {
       "name": "hackernews",
       "desc": "Hacker News",
@@ -108,8 +18,98 @@
     }
   },
   {
-    "title": "Connecticut legislature overhauls towing laws to reduce 'predatory towing'",
-    "url": "https://www.propublica.org/article/connecticut-passes-towing-law-reform",
+    "title": "The Echo in the Machine",
+    "url": "https://radiolab.org/podcast/the-echo-in-the-machine",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Preventing Flash of Incomplete Markdown when streaming AI responses",
+    "url": "https://engineering.streak.com/p/preventing-unstyled-markdown-streaming-ai",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Cloudflare Workers Compatible MCP Boilerplate with OAuth & PostgreSQL",
+    "url": "https://github.com/f/mcp-cloudflare-boilerplate",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "VC money is fueling a global boom in worker surveillance tech",
+    "url": "https://restofworld.org/2025/employee-surveillance-software-vc-funding/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "When memory was measured in kilobytes: The art of efficient vision",
+    "url": "https://www.softwareheritage.org/2025/06/04/history_computer_vision/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: GPT image editing, but for 3D models",
+    "url": "https://www.adamcad.com/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "IRS Direct File on GitHub",
+    "url": "https://chrisgiven.com/2025/05/direct-file-on-github/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Curtis Yarvin's Plot Against America",
+    "url": "https://www.newyorker.com/magazine/2025/06/09/curtis-yarvin-profile",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A proposal to restrict sites from accessing a users' local network",
+    "url": "https://github.com/explainers-by-googlers/local-network-access",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Mistral Code",
+    "url": "https://mistral.ai/products/mistral-code",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The iPhone 15 Pro's Depth Maps",
+    "url": "https://tech.marksblogg.com/apple-iphone-15-pro-depth-map-heic.html",
     "source": {
       "name": "hackernews",
       "desc": "Hacker News",
