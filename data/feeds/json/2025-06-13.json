@@ -1,5 +1,32 @@
 [
   {
+    "title": "Rendering Crispy Text on the GPU",
+    "url": "https://osor.io/text",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Three Algorithms for YSH Syntax Highlighting",
+    "url": "https://github.com/oils-for-unix/oils.vim/blob/main/doc/algorithms.md",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Urban Design and Adaptive Reuse in North Korea, Japan, and Singapore",
+    "url": "https://www.governance.fyi/p/adaptive-reuse-across-asia-singapores",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "Jemalloc Postmortem",
     "url": "https://jasone.github.io/2025/06/12/jemalloc-postmortem/",
     "source": {
