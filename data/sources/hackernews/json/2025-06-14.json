@@ -1,70 +1,7 @@
 [
   {
-    "title": "I convinced HP's board to buy Palm and watched them kill it",
-    "url": "https://philmckinney.substack.com/p/i-convinced-hps-board-to-buy-palm",
-    "source": {
-      "name": "hackernews",
-      "desc": "Hacker News",
-      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
-    }
-  },
-  {
-    "title": "Self-Adapting Language Models",
-    "url": "https://arxiv.org/abs/2506.10943",
-    "source": {
-      "name": "hackernews",
-      "desc": "Hacker News",
-      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
-    }
-  },
-  {
-    "title": "Apple's Liquid Glass is prep work for AR interfaces, not just a design refresh",
-    "url": "https://omc345.substack.com/p/from-skeuomorphic-to-liquid-glass",
-    "source": {
-      "name": "hackernews",
-      "desc": "Hacker News",
-      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
-    }
-  },
-  {
-    "title": "MUMPS",
-    "url": "https://en.wikipedia.org/wiki/MUMPS",
-    "source": {
-      "name": "hackernews",
-      "desc": "Hacker News",
-      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
-    }
-  },
-  {
-    "title": "Using computers more freely and safely (2023)",
-    "url": "https://akkartik.name/freewheeling/",
-    "source": {
-      "name": "hackernews",
-      "desc": "Hacker News",
-      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
-    }
-  },
-  {
-    "title": "When random people give money to random other people (2017)",
-    "url": "https://quomodocumque.wordpress.com/2017/06/27/when-random-people-give-money-to-random-other-people/",
-    "source": {
-      "name": "hackernews",
-      "desc": "Hacker News",
-      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
-    }
-  },
-  {
-    "title": "Simulink (Matlab) Copilot",
-    "url": "https://github.com/Kaamuli/Bloxi",
-    "source": {
-      "name": "hackernews",
-      "desc": "Hacker News",
-      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
-    }
-  },
-  {
-    "title": "Anne Wojcicki Wins Bidding for 23andMe",
-    "url": "https://www.wsj.com/tech/biotech/anne-wojcicki-wins-bidding-for-23andme-92dcfd5b",
+    "title": "The Claude Bliss Attractor",
+    "url": "https://www.astralcodexten.com/p/the-claude-bliss-attractor",
     "source": {
       "name": "hackernews",
       "desc": "Hacker News",
@@ -81,8 +18,71 @@
     }
   },
   {
-    "title": "The Claude Bliss Attractor",
-    "url": "https://www.astralcodexten.com/p/the-claude-bliss-attractor",
+    "title": "Anne Wojcicki Wins Bidding for 23andMe",
+    "url": "https://www.wsj.com/tech/biotech/anne-wojcicki-wins-bidding-for-23andme-92dcfd5b",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Simulink (Matlab) Copilot",
+    "url": "https://github.com/Kaamuli/Bloxi",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "When random people give money to random other people (2017)",
+    "url": "https://quomodocumque.wordpress.com/2017/06/27/when-random-people-give-money-to-random-other-people/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Using computers more freely and safely (2023)",
+    "url": "https://akkartik.name/freewheeling/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "MUMPS",
+    "url": "https://en.wikipedia.org/wiki/MUMPS",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Apple's Liquid Glass is prep work for AR interfaces, not just a design refresh",
+    "url": "https://omc345.substack.com/p/from-skeuomorphic-to-liquid-glass",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Self-Adapting Language Models",
+    "url": "https://arxiv.org/abs/2506.10943",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "I convinced HP's board to buy Palm and watched them kill it",
+    "url": "https://philmckinney.substack.com/p/i-convinced-hps-board-to-buy-palm",
     "source": {
       "name": "hackernews",
       "desc": "Hacker News",
