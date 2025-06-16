@@ -1,5 +1,347 @@
 [
   {
+    "title": "Start your own Internet Resiliency Club",
+    "url": "https://bowshock.nl/irc/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "NesDev.org – A community of homebrew game devs for NES and other retro consoles",
+    "url": "https://www.nesdev.org/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "苹果Containerization提供了面向macOS的原生Linux容器支持",
+    "url": "https://www.infoq.cn/article/2Aw4AHWTwbXbXqb8oI6K",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "Gödel Rescheduler：适用于云原生系统的全局最优重调度框架",
+    "url": "https://www.infoq.cn/article/57vDMNwWYiHPj4zdydM3",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "腾讯位置服务导航SDK鸿蒙版再升级！",
+    "url": "https://www.infoq.cn/article/5R91UGCsXzZfYrBq5e6y",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "大规模网络浏览：Orca 探索由人类引导的 AI 代理未来",
+    "url": "https://www.infoq.cn/article/LfF5Wp6PhO8QJ8PBJ5EP",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "SGLang 推理引擎——高效的开源部署方案｜AICon北京",
+    "url": "https://www.infoq.cn/article/isttVqMwoARmO4DTovYB",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "Visual Studio 2022 v17.14引入了Agent模型和高级Copilot助手功能",
+    "url": "https://www.infoq.cn/article/My2PmEZmiy4BTWChIWWx",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "强化学习 AI 系统的设计实现及未来发展｜AICon北京",
+    "url": "https://www.infoq.cn/article/Bmus2NR0vEVxJir9xvAd",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "HTAP：统一数据库系统的兴衰？",
+    "url": "https://www.infoq.cn/article/GiOeUWMAmK1KTz4bx1Zu",
+    "source": {
+      "name": "infoq_recommend",
+      "desc": "InfoQ推荐",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/infoq.png"
+    }
+  },
+  {
+    "title": "IDC：联想服务器跃居全球第三，增速超74%",
+    "url": "https://www.36kr.com/newsflashes/3338874453782789",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "泰国国际航空公司将退出债券重组计划",
+    "url": "https://www.36kr.com/newsflashes/3338869258105089",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "海纳AI：与美的集团合作的AI面试项目使用场景已扩展至蓝领“新匠星”校招品牌",
+    "url": "https://www.36kr.com/newsflashes/3338844286431495",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "杨铭宇黄焖鸡创始人杨晓路卸任法定代表人",
+    "url": "https://www.36kr.com/newsflashes/3338843902914821",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "蚂蚁国际ESG报告：科技服务覆盖全球1亿商户",
+    "url": "https://www.36kr.com/newsflashes/3338830610248201",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "珠港和珠澳口岸年内出入境客流量突破1亿人次",
+    "url": "https://www.36kr.com/newsflashes/3338825963450631",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "越南成为金砖伙伴国，外交部：相信越方将为金砖机制作出积极贡献",
+    "url": "https://www.36kr.com/newsflashes/3338842615050755",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "建霖智家携系统卫生间X5系列亮相2025AID上海老博会",
+    "url": "https://www.36kr.com/newsflashes/3338824875110665",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "特朗普财务披露显示：早期加密货币布局获利5700万美元",
+    "url": "https://www.36kr.com/newsflashes/3338823674196224",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "去哪儿旅行举办客服节：客服一周可4天居家办公，每年享1200元旅游基金",
+    "url": "https://www.36kr.com/newsflashes/3338821355008258",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "北京智家互联时代科技有限公司完成300万天使轮融资",
+    "url": "https://www.36kr.com/newsflashes/3338803221246209",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "国家统计局：前五月宏观政策效应持续显现，投资延续平稳增长态势",
+    "url": "https://www.36kr.com/newsflashes/3338828061356288",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "国家统计局：5月以旧换新政策持续显效，消费市场增长加快",
+    "url": "https://www.36kr.com/newsflashes/3338827905085698",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "韩国政府成立新的美国关税谈判工作组",
+    "url": "https://www.36kr.com/newsflashes/3338800435392772",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "成品油价或现今年最大涨幅，明晚过后加一箱油将至少多花11元",
+    "url": "https://www.36kr.com/newsflashes/3338819818910217",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "A股三大指数收盘集体上涨，稳定币概念爆发",
+    "url": "https://www.36kr.com/newsflashes/3338817909829894",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "印度一波音787客机疑因技术问题返航",
+    "url": "https://www.36kr.com/newsflashes/3338798371910153",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "摩根士丹利将第三季布伦特原油价格预测上调至每桶67.50美元",
+    "url": "https://www.36kr.com/newsflashes/3338805508616450",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "泰国商务部长：有信心通过谈判将美国关税降至10%",
+    "url": "https://www.36kr.com/newsflashes/3338796280721673",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "杭州宇树科技增资至288.9万",
+    "url": "https://www.36kr.com/newsflashes/3338781774524929",
+    "source": {
+      "name": "36kr",
+      "desc": "36kr快讯",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/36kr.png"
+    }
+  },
+  {
+    "title": "住院有感，这正常吗？",
+    "url": "https://www.v2ex.com/t/1138840",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "三年前想离开北京，如今已到上海一年",
+    "url": "https://www.v2ex.com/t/1138803",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "观国补帖有感，发钱还是补贴？",
+    "url": "https://www.v2ex.com/t/1138796",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "失业了，想躺一段时间，是回老家躺还是出租屋？",
+    "url": "https://www.v2ex.com/t/1138770",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "假如失业了，你能靠什么工作/技能生活？",
+    "url": "https://www.v2ex.com/t/1138766",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "没有人觉得日语的学习难度很大吗？",
+    "url": "https://www.v2ex.com/t/1138764",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "今天上班, 等红绿灯时候, 一个电动车直接从 1 和 2 车道中间过, 把后视镜给我刮了, 人直接就跑了, 糟心啊",
+    "url": "https://www.v2ex.com/t/1138749",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "求 QQ 音乐平替。",
+    "url": "https://www.v2ex.com/t/1138748",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
     "title": "Nesdev.org",
     "url": "https://www.nesdev.org/",
     "source": {
