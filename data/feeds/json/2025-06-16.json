@@ -1,5 +1,23 @@
 [
   {
+    "title": "Nesdev.org",
+    "url": "https://www.nesdev.org/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Nanonets-OCR-s – OCR model transforms documents into structured markdown",
+    "url": "https://huggingface.co/nanonets/Nanonets-OCR-s",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "Accumulation of cognitive debt when using an AI assistant for essay writing task",
     "url": "https://arxiv.org/abs/2506.08872",
     "source": {
