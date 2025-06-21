@@ -1,5 +1,41 @@
 [
   {
+    "title": "Delta Chat is a decentralized and secure messenger app",
+    "url": "https://delta.chat/en/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: We moved from AWS to Hetzner, saved 90%, kept ISO 27001 with Ansible",
+    "url": "https://medium.com/@accounts_73078/goodbye-aws-how-we-kept-iso-27001-slashed-costs-by-90-914ccb4b89fc",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "每次看到 v 站的梗我都想笑，哈哈，应该还有很多",
+    "url": "https://www.v2ex.com/t/1140105",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "我完不成的大概率 AI 也做不出来",
+    "url": "https://www.v2ex.com/t/1140068",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
     "title": "Agentic Misalignment: How LLMs could be insider threats",
     "url": "https://www.anthropic.com/research/agentic-misalignment",
     "source": {
