@@ -385,5 +385,23 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "PBKDF2 JS Lib: Improper Input Validation Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-6545",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Oasis – an open-source, 3D-printed smart terrarium",
+    "url": "https://github.com/justbuchanan/oasis",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
