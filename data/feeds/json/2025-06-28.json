@@ -1,5 +1,23 @@
 [
   {
+    "title": "Multi-Stage Programming with Splice Variables",
+    "url": "https://tsung-ju.org/icfp25/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Facebook is starting to feed its AI with private, unpublished photos",
+    "url": "https://www.theverge.com/meta/694685/meta-ai-camera-roll",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "Theoretical Analysis of Positional Encodings in Transformer Models",
     "url": "https://arxiv.org/abs/2506.06398",
     "source": {
