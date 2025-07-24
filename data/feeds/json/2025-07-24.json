@@ -1,5 +1,32 @@
 [
   {
+    "title": "Detekt – A static code analyzer for Kotlin",
+    "url": "https://detekt.dev/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "What does connecting with someone mean?",
+    "url": "https://talk.bradwoods.io/blog/connect/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Thunder Compute (YC S24) Is Hiring a C++ Systems Engineer",
+    "url": "https://www.ycombinator.com/companies/thunder-compute/jobs/DhML6Uf-c-systems-engineer",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "VectorDB bench now support S3Vector",
     "url": "https://github.com/zilliztech/VectorDBBench/pull/570",
     "source": {
