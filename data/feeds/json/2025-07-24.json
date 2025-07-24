@@ -1,5 +1,23 @@
 [
   {
+    "title": "Shattering the Rotation Illusion: The Attacker View & AWSKeyLockdown",
+    "url": "https://www.clutch.security/blog/shattering-the-rotation-illusion-part-6-the-attackers-perspective-and-introducing-awskeylockdown",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "扣子空间网页设计，是在挑战 V0 吗？",
+    "url": "http://www.ruanyifeng.com/blog/2025/07/coze-space-web-design.html",
+    "source": {
+      "name": "ruanyifeng",
+      "desc": "阮一峰的网络日志",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
+    }
+  },
+  {
     "title": "CVE-2025-54090: Apache HTTP Server: 'RewriteCond expr' always evaluates to true",
     "url": "https://github.com/apache/httpd/commit/8abb3d06b23975705ebcf4bf4476464fd0b9bd0b",
     "source": {
