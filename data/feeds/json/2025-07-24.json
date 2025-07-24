@@ -1,5 +1,14 @@
 [
   {
+    "title": "Apache HTTP Server: 'RewriteCond expr' always evaluates to true",
+    "url": "https://github.com/apache/httpd/commit/8abb3d06b23975705ebcf4bf4476464fd0b9bd0b",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "Itch.io: Update on NSFW Content",
     "url": "https://itch.io/updates/update-on-nsfw-content",
     "source": {
