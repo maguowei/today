@@ -340,5 +340,23 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Qwen3-235B-A22B-Thinking-2507",
+    "url": "https://huggingface.co/Qwen/Qwen3-235B-A22B-Thinking-2507",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "What Even Is 'Adult' Content? [NSFW]",
+    "url": "https://worldofmatthew.com/blog/notporn/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
