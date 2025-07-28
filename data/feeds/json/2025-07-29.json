@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "title": "I saved a PNG image to a bird",
+    "url": "https://www.youtube.com/watch?v=hCQCP-5g5bo",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "NASA faces brain drain as thousands exit under voluntary resignation scheme",
+    "url": "https://www.theregister.com/2025/07/28/nasa_voluntary_exits/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  }
+]
