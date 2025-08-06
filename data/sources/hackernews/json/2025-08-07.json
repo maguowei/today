@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "title": "The Internet Wants to Check Your ID",
+    "url": "https://www.newyorker.com/culture/infinite-scroll/the-internet-wants-to-check-your-id",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Sinkzone DNS forwarder that blocks everything except your allowlist",
+    "url": "https://github.com/berbyte/sinkzone",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Writing a Rust GPU kernel driver: a brief introduction on how GPU drivers work",
+    "url": "https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  }
+]
