@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "title": "GPT-5",
+    "url": "http://openai.com/gpt-5",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Live: GPT-5",
+    "url": "https://www.youtube.com/watch?v=0Uu_VJeVVfo",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Foundry (YC F24) Is Hiring Staff Level Product Engineers",
+    "url": "https://www.ycombinator.com/companies/foundry/jobs/jwdYx6v-founding-product-engineer",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ditching GitHub",
+    "url": "https://tomscii.sig7.se/2024/01/Ditching-GitHub",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "PyPI: Preventing ZIP parser confusion attacks on Python package installers",
+    "url": "https://blog.pypi.org/posts/2025-08-07-wheel-archive-confusion-attacks/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Sunlight Budget of Earth",
+    "url": "https://www.asimov.press/p/sunlight-budget",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  }
+]
