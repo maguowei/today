@@ -1,5 +1,23 @@
 [
   {
+    "title": "Cursed Knowledge",
+    "url": "https://immich.app/cursed-knowledge/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Achieving 10,000x training data reduction with high-fidelity labels",
+    "url": "https://research.google/blog/achieving-10000x-training-data-reduction-with-high-fidelity-labels/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "Cursor CLI",
     "url": "https://cursor.com/cli",
     "source": {
