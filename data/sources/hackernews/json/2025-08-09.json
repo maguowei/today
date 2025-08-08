@@ -97,5 +97,95 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "My ancestors fought in WWII. Hiroshima is plagued by shallow reading",
+    "url": "https://www.washingtonpost.com/opinions/2025/08/08/world-war-ii-hiroshima-history-memories/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "M5 MacBook Pro No Longer Coming in 2025",
+    "url": "https://www.macrumors.com/2025/07/10/no-m5-macbook-pro-2025/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Someone keeps stealing, flying, fixing and returning this man's 1958 Cessna",
+    "url": "https://www.latimes.com/california/story/2025-08-08/mystery-plane-thief",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Open SWE: An open-source asynchronous coding agent",
+    "url": "https://blog.langchain.com/introducing-open-swe-an-open-source-asynchronous-coding-agent/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Apollo 13 Commander Jim Lovell has passed away",
+    "url": "https://www.nasa.gov/news-release/acting-nasa-administrator-reflects-on-legacy-of-astronaut-jim-lovell/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "GPU-Rich Labs Have Won: What's Left for the Rest of Us Is Distillation",
+    "url": "https://inference.net/blog/what-s-left-is-distillation",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "HRT's Python fork: Leveraging PEP 690 for faster imports",
+    "url": "https://www.hudsonrivertrading.com/hrtbeat/inside-hrts-python-fork/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ask HN: How can ChatGPT serve 700M users when I can't run one GPT-4 locally?",
+    "url": "https://news.ycombinator.com/item?id=44840728",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Json2dir: a JSON-to-directory converter, a fast alternative to home-manager",
+    "url": "https://github.com/alurm/json2dir",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Build durable workflows with Postgres",
+    "url": "https://www.dbos.dev/blog/why-postgres-durable-execution",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
