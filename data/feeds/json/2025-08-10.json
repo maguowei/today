@@ -1,5 +1,23 @@
 [
   {
+    "title": "Abusing Entra OAuth for fun and access to internal Microsoft applications",
+    "url": "https://research.eye.security/consent-and-compromise/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How I code with AI on a budget/free",
+    "url": "https://wuu73.org/blog/aiguide1.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "Ch.at – a lightweight LLM chat service accessible through HTTP, SSH, DNS and API",
     "url": "https://ch.at/",
     "source": {
