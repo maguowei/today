@@ -1,5 +1,14 @@
 [
   {
+    "title": "Lessons learned from building a sync-engine and reactivity system with SQLite",
+    "url": "https://www.finkelstein.fr/sqlite-sync-engine-with-reactivity",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "Node.js can now execute TypeScript files",
     "url": "https://nodejs.org/en/blog/release/v22.18.0",
     "source": {
