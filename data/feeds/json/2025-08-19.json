@@ -1,5 +1,32 @@
 [
   {
+    "title": "Obsidian Bases",
+    "url": "https://help.obsidian.md/bases",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Spice Data (YC S19) Is Hiring a Product Associate (New Grad)",
+    "url": "https://www.ycombinator.com/companies/spice-data/jobs/RJz1peY-product-associate-new-grad",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Fractional jobs – part-time roles for engineers",
+    "url": "https://www.fractionaljobs.io",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "A minimal tensor processing unit (TPU), inspired by Google's TPU",
     "url": "https://github.com/tiny-tpu-v2/tiny-tpu",
     "source": {
