@@ -124,5 +124,32 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Show HN: I built a toy TPU that can do inference and training on the XOR problem",
+    "url": "https://www.tinytpu.com",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "GenAI FOMO has spurred businesses to light nearly $40B on fire",
+    "url": "https://www.theregister.com/2025/08/18/generative_ai_zero_return_95_percent/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A minimal tensor processing unit (TPU), inspired by Google's TPU",
+    "url": "https://github.com/tiny-tpu-v2/tiny-tpu",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
