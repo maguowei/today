@@ -1,5 +1,41 @@
 [
   {
+    "title": "Clojure Async Flow Guide",
+    "url": "https://clojure.github.io/core.async/flow-guide.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "AI vs. Professional Authors Results",
+    "url": "http://mark---lawrence.blogspot.com/2025/08/the-ai-vs-authors-results-part-2.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "I Prefer RST to Markdown (2024)",
+    "url": "https://buttondown.com/hillelwayne/archive/why-i-prefer-rst-to-markdown/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The decline of high-tech manufacturing in the United States",
+    "url": "https://blog.waldrn.com/p/the-decline-of-high-tech-manufacturing",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "Llama-Scan: Convert PDFs to Text W Local LLMs",
     "url": "https://github.com/ngafar/llama-scan",
     "source": {
