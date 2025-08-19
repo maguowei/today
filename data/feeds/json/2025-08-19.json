@@ -1,5 +1,14 @@
 [
   {
+    "title": "Tiny-tpu: A minimal tensor processing unit (TPU), inspired by Google's TPU",
+    "url": "https://github.com/tiny-tpu-v2/tiny-tpu",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "OpenMower – An open source lawn mower",
     "url": "https://github.com/ClemensElflein/OpenMower",
     "source": {
