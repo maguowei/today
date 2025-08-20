@@ -1,5 +1,32 @@
 [
   {
+    "title": "Zed fork focused on privacy and being local-first",
+    "url": "https://github.com/zedless-editor/zed",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Say farewell to the AI bubble, and get ready for the crash",
+    "url": "https://www.latimes.com/business/story/2025-08-20/say-farewell-to-the-ai-bubble-and-get-ready-for-the-crash",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Zed for Windows: What's Taking So Long?",
+    "url": "https://zed.dev/blog/windows-progress-report",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "An Update on Pytype",
     "url": "https://github.com/google/pytype",
     "source": {
