@@ -1,79 +1,7 @@
 [
   {
-    "title": "Crimes with Python's Pattern Matching (2022)",
-    "url": "https://www.hillelwayne.com/post/python-abc/",
-    "source": {
-      "name": "hackernews",
-      "desc": "Hacker News",
-      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
-    }
-  },
-  {
-    "title": "AI tooling must be disclosed for contributions",
-    "url": "https://github.com/ghostty-org/ghostty/pull/8289",
-    "source": {
-      "name": "hackernews",
-      "desc": "Hacker News",
-      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
-    }
-  },
-  {
-    "title": "Building AI products in the probabilistic era",
-    "url": "https://giansegato.com/essays/probabilistic-era",
-    "source": {
-      "name": "hackernews",
-      "desc": "Hacker News",
-      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
-    }
-  },
-  {
-    "title": "DeepSeek-v3.1 Release",
-    "url": "https://api-docs.deepseek.com/news/news250821",
-    "source": {
-      "name": "hackernews",
-      "desc": "Hacker News",
-      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
-    }
-  },
-  {
-    "title": "A Decoder Ring for AI Job Titles",
-    "url": "https://www.dbreunig.com/2025/08/21/a-guide-to-ai-titles.html",
-    "source": {
-      "name": "hackernews",
-      "desc": "Hacker News",
-      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
-    }
-  },
-  {
-    "title": "Text.ai (YC X25) Is Hiring Founding Full-Stack Engineer",
-    "url": "https://www.ycombinator.com/companies/text-ai/jobs/OJBr0v2-founding-full-stack-engineer",
-    "source": {
-      "name": "hackernews",
-      "desc": "Hacker News",
-      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
-    }
-  },
-  {
-    "title": "Uv format: Code Formatting Comes to uv (experimentally)",
-    "url": "https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/",
-    "source": {
-      "name": "hackernews",
-      "desc": "Hacker News",
-      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
-    }
-  },
-  {
-    "title": "The contrarian physics podcast subculture",
-    "url": "https://timothynguyen.org/2025/08/21/physics-grifters-eric-weinstein-sabine-hossenfelder-and-a-crisis-of-credibility/",
-    "source": {
-      "name": "hackernews",
-      "desc": "Hacker News",
-      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
-    }
-  },
-  {
-    "title": "The Core of Rust",
-    "url": "https://jyn.dev/the-core-of-rust/",
+    "title": "The unbearable slowness of AI coding",
+    "url": "https://joshuavaldez.com/the-unbearable-slowness-of-ai-coding/",
     "source": {
       "name": "hackernews",
       "desc": "Hacker News",
@@ -90,8 +18,80 @@
     }
   },
   {
-    "title": "The unbearable slowness of AI coding",
-    "url": "https://joshuavaldez.com/the-unbearable-slowness-of-ai-coding/",
+    "title": "The Core of Rust",
+    "url": "https://jyn.dev/the-core-of-rust/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The contrarian physics podcast subculture",
+    "url": "https://timothynguyen.org/2025/08/21/physics-grifters-eric-weinstein-sabine-hossenfelder-and-a-crisis-of-credibility/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Uv format: Code Formatting Comes to uv (experimentally)",
+    "url": "https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Text.ai (YC X25) Is Hiring Founding Full-Stack Engineer",
+    "url": "https://www.ycombinator.com/companies/text-ai/jobs/OJBr0v2-founding-full-stack-engineer",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A Decoder Ring for AI Job Titles",
+    "url": "https://www.dbreunig.com/2025/08/21/a-guide-to-ai-titles.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "DeepSeek-v3.1 Release",
+    "url": "https://api-docs.deepseek.com/news/news250821",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Building AI products in the probabilistic era",
+    "url": "https://giansegato.com/essays/probabilistic-era",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "AI tooling must be disclosed for contributions",
+    "url": "https://github.com/ghostty-org/ghostty/pull/8289",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Crimes with Python's Pattern Matching (2022)",
+    "url": "https://www.hillelwayne.com/post/python-abc/",
     "source": {
       "name": "hackernews",
       "desc": "Hacker News",
