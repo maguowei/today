@@ -1,5 +1,32 @@
 [
   {
+    "title": "Everything Is Correlated",
+    "url": "https://gwern.net/everything",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "我有小猫啦",
+    "url": "https://www.v2ex.com/t/1154168",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "[杭州为新婚夫妇发放 1000 元消费券] 🤡",
+    "url": "https://www.v2ex.com/t/1154122",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
     "title": "DeepSeek-v3.1",
     "url": "https://api-docs.deepseek.com/news/news250821",
     "source": {
