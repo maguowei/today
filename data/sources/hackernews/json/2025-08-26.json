@@ -331,5 +331,14 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Show HN: I integrated my from-scratch TCP/IP stack into the xv6-riscv OS",
+    "url": "https://github.com/pandax381/xv6-riscv-net",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
