@@ -1,5 +1,32 @@
 [
   {
+    "title": "Energy Dashboard (UK)",
+    "url": "https://www.energydashboard.co.uk/map",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Tencent Open Sourced a 3D World Model",
+    "url": "https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Microsoft VibeVoice: A Frontier Open-Source Text-to-Speech Model",
+    "url": "https://microsoft.github.io/VibeVoice/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "The 16-year odyssey it took to emulate the Pioneer LaserActive",
     "url": "https://www.readonlymemo.com/this-is-the-first-the-16-year-odyssey-of-time-money-wrong-turns-and-frustration-it-took-to-finally-emulate-the-pioneer-laseractive/",
     "source": {
