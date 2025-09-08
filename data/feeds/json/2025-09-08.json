@@ -1,5 +1,23 @@
 [
   {
+    "title": "GitHub Community Discussions: Past year's top 2 requests are to disable Copilot",
+    "url": "https://github.com/orgs/community/discussions",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "'Make invalid states unrepresentable' considered harmful",
+    "url": "https://www.seangoedecke.com/invalid-states/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "Using Claude Code to modernize a 25-year-old kernel driver",
     "url": "https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver",
     "source": {
