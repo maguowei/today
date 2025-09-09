@@ -322,5 +322,23 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "DuckDB NPM packages 1.3.3 and 1.29.2 compromised with malware",
+    "url": "https://github.com/duckdb/duckdb-node/security/advisories/GHSA-w62p-hx95-gf2c",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "You too can run malware from NPM (I mean without consequences)",
+    "url": "https://github.com/naugtur/running-qix-malware",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
