@@ -1,5 +1,50 @@
 [
   {
+    "title": "Claude's Memory Architecture Is the Polar Opposite of ChatGPT's",
+    "url": "https://www.shloked.com/writing/claude-memory",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Launch HN: Ghostship (YC S25) – AI agents that find bugs in your web app",
+    "url": "https://news.ycombinator.com/item?id=45215032",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Randomly selecting points inside a triangle",
+    "url": "https://www.johndcook.com/blog/2025/09/11/random-inside-triangle/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Making io_uring pervasive in QEMU [pdf]",
+    "url": "https://vmsplice.net/~stefan/stefanha-kvm-forum-2025.pdf",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Rails on SQLite: new ways to cause outages",
+    "url": "https://andre.arko.net/2025/09/11/rails-on-sqlite-exciting-new-ways-to-cause-outages/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "Top model scores may be skewed by Git history leaks in SWE-bench",
     "url": "https://github.com/SWE-bench/SWE-bench/issues/465",
     "source": {
