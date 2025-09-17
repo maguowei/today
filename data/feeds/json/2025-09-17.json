@@ -1,5 +1,14 @@
 [
   {
+    "title": "Irssi: IRC Client in a Docker Image",
+    "url": "https://hub.docker.com/_/irssi",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "Apple releases iOS 15.8.5 security update for 10-year old iPhone 6s",
     "url": "https://support.apple.com/en-us/125142",
     "source": {
