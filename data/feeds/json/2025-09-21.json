@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "title": "Seattle Ultrasonics: Ultrasonic Chef's Knife",
+    "url": "https://seattleultrasonics.com/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Why is your open source project still hosted on GitHub?",
+    "url": "https://unixdigest.com/articles/why-is-your-open-source-project-still-hosted-on-github.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  }
+]
