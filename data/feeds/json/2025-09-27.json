@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "title": "Process Tracing Projects",
+    "url": "https://github.com/oils-for-unix/oils/wiki/Process-Tracing-Projects",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Open Social",
+    "url": "https://overreacted.io/open-social/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ubuntu 25.10's Rust Coreutils Is Causing Major Breakage for Some Executables",
+    "url": "https://www.phoronix.com/news/Ubuntu-25.10-Coreutils-Makeself",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  }
+]
