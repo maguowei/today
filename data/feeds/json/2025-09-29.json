@@ -1,5 +1,23 @@
 [
   {
+    "title": "Primer on FedEx's Distribution Network (2024)",
+    "url": "https://ontheseams.substack.com/p/a-brief-primer-on-fedexs-distribution",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Use the Accept Header to Serve Markdown Instead of HTML to LLMs",
+    "url": "https://www.skeptrune.com/posts/use-the-accept-header-to-serve-markdown-instead-of-html-to-llms/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "Just nuked 120 unused NPM deps from a Nx monorepo",
     "url": "https://johnjames.blog/posts/cleaning-house-in-nx-monorepo-how-i-removed-120-unused-deps-safely",
     "source": {
