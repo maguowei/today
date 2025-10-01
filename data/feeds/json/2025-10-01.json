@@ -1,5 +1,14 @@
 [
   {
+    "title": "CDC File Transfer",
+    "url": "https://github.com/google/cdc-file-transfer",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "Introduction to Multi-Armed Bandits (2019)",
     "url": "https://arxiv.org/abs/1904.07272",
     "source": {
