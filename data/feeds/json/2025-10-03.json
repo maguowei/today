@@ -1,5 +1,77 @@
 [
   {
+    "title": "Fp8 runs ~100 tflops faster when the kernel name has \"cutlass\" in it",
+    "url": "https://github.com/triton-lang/triton/pull/7298",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "In Praise of RSS and Controlled Feeds of Information",
+    "url": "https://blog.burkert.me/posts/in_praise_of_syndication/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Stripe to take 30% cut of disputed revenue you recover",
+    "url": "https://news.ycombinator.com/item?id=45459254",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "'Western Qwen': IBM Wows with Granite 4 LLM Launch and Hybrid Mamba/Transformer",
+    "url": "https://venturebeat.com/ai/western-qwen-ibm-wows-with-granite-4-llm-launch-and-hybrid-mamba-transformer",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "记女朋友分手后续（她爸死活不同意）",
+    "url": "https://www.v2ex.com/t/1163215",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "黄仁勋：蓝领工作是年轻人的未来",
+    "url": "https://www.v2ex.com/t/1163211",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "可以自己更换光猫吗",
+    "url": "https://www.v2ex.com/t/1163205",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "靓仔们， DataGrip 非商用免费了",
+    "url": "https://www.v2ex.com/t/1163202",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
     "title": "FyneDesk: A full desktop environment for Linux written in Go",
     "url": "https://github.com/FyshOS/fynedesk",
     "source": {
