@@ -1,5 +1,41 @@
 [
   {
+    "title": "Show HN: FLE v0.3 – Claude Code Plays Factorio",
+    "url": "https://jackhopkins.github.io/factorio-learning-environment/versions/0.3.0.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Powerful Visual Programming Language (Book)",
+    "url": "https://www.pipelang.com",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Procedural generation with Wave Function Collapse (2019)",
+    "url": "https://www.gridbugs.org/wave-function-collapse/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Tesla Cybertruck Isn't Allowed in Germany, Not Even the US Army Can Change That",
+    "url": "https://www.roadandtrack.com/news/a68133176/us-armed-forces-service-members-no-tesla-cybertruck/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "Offline card payments should be possible no later than 1 July 2026",
     "url": "https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/offline-card-payments-should-be-possible-no-later-than-1-july-2026/",
     "source": {
