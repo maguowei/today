@@ -1,5 +1,86 @@
 [
   {
+    "title": "86 GB/s bitpacking with ARM SIMD (single thread)",
+    "url": "https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The deadline isn't when AI outsmarts us – it's when we stop using our own minds",
+    "url": "https://www.theargumentmag.com/p/you-have-18-months",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Self hosting 10TB in S3 on a framework laptop and disks",
+    "url": "https://jamesoclaire.com/2025/10/05/self-hosting-10tb-in-s3-on-a-framework-laptop-disks/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Hobby Hilbert Simplex",
+    "url": "https://nedbatchelder.com/blog/202509/hobby_hilbert_simplex.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "只有我一个人觉得有的男的也会让我怦然心动吗？",
+    "url": "https://www.v2ex.com/t/1163443",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "有开领克的 v 友么，看中了新发布的 08 车型。。。领克的车靠谱不。。。",
+    "url": "https://www.v2ex.com/t/1163436",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "今天梯子好慢",
+    "url": "https://www.v2ex.com/t/1163422",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "各位大佬 这是 25 年专科毕业生的简历 我认为在专科里面还是很有优势 甚至吊打部分末流二本",
+    "url": "https://www.v2ex.com/t/1163410",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "14900K 水冷服务器 安装 Linux 系统装不上 Debian ubuntu 都是 但是 win 就没问题什么情况",
+    "url": "https://www.v2ex.com/t/1163395",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
     "title": "Laptops create systems. Phones feed algorithms. The asymmetry determines power",
     "url": "https://zakelfassi.com/command-interface-device-power",
     "source": {
