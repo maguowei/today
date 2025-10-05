@@ -1,5 +1,23 @@
 [
   {
+    "title": "Parrot – type-safe SQL in Gleam, supports SQlite, PostgreSQL and MySQL",
+    "url": "https://github.com/daniellionel01/parrot",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "AI-powered open-source code laundering",
+    "url": "https://github.com/SudoMaker/rEFui/blob/main/HALL_OF_SHAME.md",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "You can't parse XML with regex. Let's do it anyways",
     "url": "https://sdomi.pl/weblog/26-nobody-here-is-free-of-sin/",
     "source": {
