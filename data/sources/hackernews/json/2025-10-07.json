@@ -187,5 +187,32 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "RediShell: Critical remote code execution vulnerability in Redis",
+    "url": "https://www.wiz.io/blog/wiz-research-redis-rce-cve-2025-49844",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Microsoft is plugging more holes that let you use Windows 11 without MS account",
+    "url": "https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "CodeMender: an AI agent for code security",
+    "url": "https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
