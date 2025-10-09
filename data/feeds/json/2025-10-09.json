@@ -1,5 +1,41 @@
 [
   {
+    "title": "Radio Garten",
+    "url": "https://radio.garden/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Designing a Low Latency 10G Ethernet Core",
+    "url": "https://ttchisholm.github.io/ethernet/2023/05/01/designing-10g-eth-1.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "A competitor crippled a $23.5M bootcamp by becoming a Reddit moderator",
+    "url": "https://larslofgren.com/codesmith-reddit-reputation-attack/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "OpenAI, Nvidia fuel $1T AI market with web of circular deals",
+    "url": "https://www.bloomberg.com/news/features/2025-10-07/openai-s-nvidia-amd-deals-boost-1-trillion-ai-boom-with-circular-deals",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "PWA Browser Scorecards",
     "url": "https://pwascore.com/",
     "source": {
