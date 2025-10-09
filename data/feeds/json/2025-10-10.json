@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "title": "A small number of samples can poison LLMs of any size",
+    "url": "https://www.anthropic.com/research/small-samples-poison",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Launch HN: Extend (YC W23) – Turn your messiest documents into data",
+    "url": "https://www.extend.ai/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Fireman Sam (Commodore 64)",
+    "url": "http://retrovania-vgjunk.blogspot.com/2016/11/fireman-sam-commodore-64.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Python 3.14 Is Here. How Fast Is It? – Miguelgrinberg.com",
+    "url": "https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  }
+]
