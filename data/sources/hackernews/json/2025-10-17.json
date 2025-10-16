@@ -1,16 +1,7 @@
 [
   {
-    "title": "Claude Skills",
-    "url": "https://www.anthropic.com/news/skills",
-    "source": {
-      "name": "hackernews",
-      "desc": "Hacker News",
-      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
-    }
-  },
-  {
-    "title": "Gemini 3.0 spotted in the wild through A/B testing",
-    "url": "https://ricklamers.io/posts/gemini-3-spotted-in-the-wild/",
+    "title": "SWE-Grep and SWE-Grep-Mini: RL for Fast Multi-Turn Context Retrieval",
+    "url": "https://cognition.ai/blog/swe-grep",
     "source": {
       "name": "hackernews",
       "desc": "Hacker News",
@@ -27,8 +18,17 @@
     }
   },
   {
-    "title": "SWE-Grep and SWE-Grep-Mini: RL for Fast Multi-Turn Context Retrieval",
-    "url": "https://cognition.ai/blog/swe-grep",
+    "title": "Gemini 3.0 spotted in the wild through A/B testing",
+    "url": "https://ricklamers.io/posts/gemini-3-spotted-in-the-wild/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Claude Skills",
+    "url": "https://www.anthropic.com/news/skills",
     "source": {
       "name": "hackernews",
       "desc": "Hacker News",
