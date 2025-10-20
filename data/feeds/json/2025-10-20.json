@@ -1,5 +1,14 @@
 [
   {
+    "title": "AWS Multiple Services Down in us-east-1",
+    "url": "https://health.aws.amazon.com/health/status?ts=20251020",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "Docker Systems Status: Full Service Disruption",
     "url": "https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/68f5e1c741c825463df7486c",
     "source": {
