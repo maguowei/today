@@ -1,5 +1,50 @@
 [
   {
+    "title": "Docker Systems Status: Full Service Disruption",
+    "url": "https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/68f5e1c741c825463df7486c",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Major AWS Outage Happening",
+    "url": "https://old.reddit.com/r/aws/comments/1obd3lx/dynamodb_down_useast1/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "关于计算机在读的小舅子的就业问题",
+    "url": "https://www.v2ex.com/t/1166930",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "大家还记得自己本科毕业时的毕业论文题目吗？",
+    "url": "https://www.v2ex.com/t/1166904",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "[纯吐槽] 500 块接了个 AI 小项目，周末 vibecoding 连搞 2 天， cursor 额度烧没了也没搞出来",
+    "url": "https://www.v2ex.com/t/1166887",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
     "title": "DeepSeek OCR",
     "url": "https://github.com/deepseek-ai/DeepSeek-OCR",
     "source": {
