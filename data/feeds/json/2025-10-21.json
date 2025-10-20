@@ -1,5 +1,32 @@
 [
   {
+    "title": "Claude Code on the Web",
+    "url": "https://www.anthropic.com/news/claude-code-on-the-web",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "x86-64 Playground – An online assembly editor and GDB-like debugger",
+    "url": "https://x64.halb.it/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Peanut Allergies Have Plummeted in Children",
+    "url": "https://www.nytimes.com/2025/10/20/well/peanut-allergy-drop.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "TernFS – an exabyte scale, multi-region distributed filesystem",
     "url": "https://www.xtxmarkets.com/tech/2025-ternfs/#posix-shaped",
     "source": {
