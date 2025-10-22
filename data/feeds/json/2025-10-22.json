@@ -1,5 +1,14 @@
 [
   {
+    "title": "Knocker, a knock based access control system for your homelab",
+    "url": "https://github.com/FarisZR/knocker",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "MinIO (apparently) becomes source-only",
     "url": "https://github.com/minio/minio/issues/21647",
     "source": {
