@@ -1,5 +1,41 @@
 [
   {
+    "title": "React Flow, open source libraries for node-based UIs with React or Svelte",
+    "url": "https://github.com/xyflow/xyflow",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Populism Fast and Slow",
+    "url": "https://josephheath.substack.com/p/populism-fast-and-slow",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Counter-Strike's player economy is in a multi-billion dollar freefall",
+    "url": "https://www.polygon.com/counter-strike-cs-player-economy-multi-billion-dollar-freefall/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "科技爱好者周刊（第 370 期）：正确的代码高亮",
+    "url": "http://www.ruanyifeng.com/blog/2025/10/weekly-issue-370.html",
+    "source": {
+      "name": "ruanyifeng",
+      "desc": "阮一峰的网络日志",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/rss.png"
+    }
+  },
+  {
     "title": "How memory maps (mmap) deliver faster file access in Go",
     "url": "https://info.varnish-software.com/blog/how-memory-maps-mmap-deliver-25x-faster-file-access-in-go",
     "source": {
