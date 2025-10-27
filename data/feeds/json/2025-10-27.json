@@ -1,5 +1,32 @@
 [
   {
+    "title": "Recall for Linux",
+    "url": "https://github.com/rolflobker/recall-for-linux",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "If Your Adversary Is the Mossad (2014) [pdf]",
+    "url": "https://www.usenix.org/system/files/1401_08-12_mickens.pdf",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Structure and Interpretation of Classical Mechanics",
+    "url": "https://tgvaughan.github.io/sicm/toc.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "Show HN: Write Go code in JavaScript files",
     "url": "https://www.npmjs.com/package/vite-plugin-use-golang",
     "source": {
