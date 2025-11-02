@@ -1,5 +1,32 @@
 [
   {
+    "title": "Pomelli",
+    "url": "https://labs.google.com/pomelli/about/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "OpenDesk by the Centre for Digital Sovereignty",
+    "url": "https://www.opendesk.eu/en/product",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: KeyLeak Detector – Scan websites for exposed API keys and secrets",
+    "url": "https://github.com/Amal-David/keyleak-detector",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "SailfishOS: A Linux-based European alternative to dominant mobile OSes",
     "url": "https://sailfishos.org/info/",
     "source": {
