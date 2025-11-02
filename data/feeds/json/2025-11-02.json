@@ -1,5 +1,59 @@
 [
   {
+    "title": "Visopsys: OS maintained by a single developer since 1997",
+    "url": "https://visopsys.org/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Anonymous credentials: rate-limit bots and agents without compromising privacy",
+    "url": "https://blog.cloudflare.com/private-rate-limiting/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Pomelli",
+    "url": "https://blog.google/technology/google-labs/pomelli/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How I use every Claude Code feature",
+    "url": "https://blog.sshh.io/p/how-i-use-every-claude-code-feature",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Claude Code can debug low-level cryptography",
+    "url": "https://words.filippo.io/claude-debugging/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Crossfire: High-performance lockless spsc/mpsc/mpmc channels for Rust",
+    "url": "https://github.com/frostyplanet/crossfire-rs",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "Policy, privacy and post-quantum: anonymous credentials for everyone",
     "url": "https://blog.cloudflare.com/private-rate-limiting/",
     "source": {
