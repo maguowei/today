@@ -1,5 +1,59 @@
 [
   {
+    "title": "Reverse engineering Codex CLI to get GPT-5-Codex-Mini to draw me a pelican",
+    "url": "https://simonwillison.net/2025/Nov/9/gpt-5-codex-mini/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Boring Company fined nearly $500K after it dumped drilling fluids into manholes",
+    "url": "https://www.yahoo.com/news/articles/elon-musk-boring-company-fined-150000426.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How Airbus Took Off",
+    "url": "https://worksinprogress.co/issue/how-airbus-took-off/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Geofenced chat communities anyone can create",
+    "url": "https://vicinity.social/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "IRIX Introduction",
+    "url": "http://www.sgistuff.net/software/irixintro/index.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "这个事真让我最国内商家信任降到最低",
+    "url": "https://www.v2ex.com/t/1171469",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
     "title": "Judge denies request to exempt Flock footage from Public Records Act",
     "url": "https://www.goskagit.com/news/local_news/court-denies-request-that-it-find-flock-safety-camera-data-is-exempt-from-public-records/article_f1edd028-d242-479c-ada8-f2dfca73a1b1.html",
     "source": {
