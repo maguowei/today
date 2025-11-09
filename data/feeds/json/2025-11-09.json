@@ -1,5 +1,77 @@
 [
   {
+    "title": "Forth – is it still relevant?",
+    "url": "https://github.com/chochain/eforth",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Runc breaks pods when CPU requests aren't multiples of 10",
+    "url": "https://github.com/opencontainers/runc/issues/4982",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Study finds memory decline surge in young people",
+    "url": "https://onepercentrule.substack.com/p/under-40s-declining-memory",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Grok 4 Fast now has 2M context window",
+    "url": "https://docs.x.ai/docs/models",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Visa and Mastercard near deal with merchants that would change rewards landscape",
+    "url": "https://www.wsj.com/finance/banking/visa-and-mastercard-near-deal-with-merchants-that-would-change-rewards-landscape-fc6a0c78",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "What Hallucinogens Will Make You See (2023)",
+    "url": "https://nautil.us/what-hallucinogens-will-make-you-see-308247/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "国内提电商是真的难搞,PDD 真是跪舔客户",
+    "url": "https://www.v2ex.com/t/1171478",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
+    "title": "我恋爱经验不多，也没咋上过班。有个情感问题想问下各位",
+    "url": "https://www.v2ex.com/t/1171477",
+    "source": {
+      "name": "v2ex_hot",
+      "desc": "v2ex 最热主题",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/v2ex.png"
+    }
+  },
+  {
     "title": "Reverse engineering Codex CLI to get GPT-5-Codex-Mini to draw me a pelican",
     "url": "https://simonwillison.net/2025/Nov/9/gpt-5-codex-mini/",
     "source": {
