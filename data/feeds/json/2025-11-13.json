@@ -1,5 +1,23 @@
 [
   {
+    "title": "Helm 4.0",
+    "url": "https://github.com/helm/helm/releases/tag/v4.0.0",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Digital ID, a new way to create and present an ID in Apple Wallet",
+    "url": "https://www.apple.com/newsroom/2025/11/apple-introduces-digital-id-a-new-way-to-create-and-present-an-id-in-apple-wallet/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "Android 16 QPR1 is being pushed to the Android Open Source Project",
     "url": "https://grapheneos.social/@GrapheneOS/115533432439509433",
     "source": {
