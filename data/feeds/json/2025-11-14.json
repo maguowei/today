@@ -1,5 +1,14 @@
 [
   {
+    "title": "Needy Programs",
+    "url": "https://tonsky.me/blog/needy-programs/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "V8 Garbage Collector",
     "url": "https://wingolog.org/archives/2025/11/13/the-last-couple-years-in-v8s-garbage-collector",
     "source": {
