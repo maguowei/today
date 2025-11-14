@@ -304,5 +304,23 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Multi-User Dungeon (MUD)",
+    "url": "https://en.wikipedia.org/wiki/Multi-user_dungeon",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Pegma, the free and open-source version of the classic Peg solitaire",
+    "url": "https://pegma.vercel.app",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
