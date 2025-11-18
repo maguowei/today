@@ -1,5 +1,32 @@
 [
   {
+    "title": "Blender 5.0",
+    "url": "https://www.blender.org/download/releases/5-0/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Bild AI (YC W25) is hiring – Make housing affordable",
+    "url": "https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Oracle is underwater on its $300B OpenAI deal",
+    "url": "https://www.ft.com/content/064bbca0-1cb2-45ab-85f4-25fdfc318d89",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "I am stepping down as the CEO of Mastodon",
     "url": "https://blog.joinmastodon.org/2025/11/my-next-chapter-with-mastodon/",
     "source": {
