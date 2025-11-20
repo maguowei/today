@@ -1,5 +1,23 @@
 [
   {
+    "title": "CornHub",
+    "url": "https://cornhub.website/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Measuring political bias in Claude",
+    "url": "https://www.anthropic.com/news/political-even-handedness",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "AI is a front for consolidation of resources and power",
     "url": "https://www.chrbutler.com/what-ai-is-really-for",
     "source": {
