@@ -1,5 +1,14 @@
 [
   {
+    "title": "Effective harnesses for long-running agents",
+    "url": "https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "28M Hacker News comments as vector embedding search dataset",
     "url": "https://clickhouse.com/docs/getting-started/example-datasets/hackernews-vector-search-dataset",
     "source": {
