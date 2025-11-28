@@ -1,5 +1,41 @@
 [
   {
+    "title": "TigerStyle: Coding philosophy focused on safety, performance, dev experience",
+    "url": "https://tigerstyle.dev/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Migrating to Positron, a next-generation data science IDE for Python and R",
+    "url": "https://posit.co/blog/positron-migration-guides",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Overlord: AI accountability that watches over you",
+    "url": "https://overlord.app/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "GitLab scan finds 17,000 secrets in public repos, leading to $9000+ in bounties",
+    "url": "https://trufflesecurity.com/blog/scanning-5-6-million-public-gitlab-repositories-for-secrets",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "Pocketbase – open-source realtime back end in 1 file",
     "url": "https://pocketbase.io/",
     "source": {
