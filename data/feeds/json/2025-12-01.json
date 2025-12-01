@@ -1,5 +1,14 @@
 [
   {
+    "title": "Xlibre is a fork of the Xorg Xserver with lots of code cleanups",
+    "url": "https://x11libre.net/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "DeepSeek releases open-weights math model with IMO gold medal performance",
     "url": "https://huggingface.co/deepseek-ai/DeepSeek-Math-V2",
     "source": {
