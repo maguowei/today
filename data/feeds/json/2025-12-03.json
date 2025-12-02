@@ -1,5 +1,32 @@
 [
   {
+    "title": "Paged Out",
+    "url": "https://pagedout.institute",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Delty (YC X25) Is Hiring",
+    "url": "https://www.ycombinator.com/companies/delty/jobs/aPWMaiq-full-stack-software-engineer",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Free static site generator for small restaurants and cafes",
+    "url": "https://lite.localcafe.org/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "Claude 4.5 Opus' Soul Document",
     "url": "https://simonwillison.net/2025/Dec/2/claude-soul-document/",
     "source": {
