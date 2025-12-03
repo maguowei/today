@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "title": "MinIO is now in maintenance-mode",
+    "url": "https://github.com/minio/minio/commit/27742d469462e1561c776f88ca7a1f26816d69e2",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Critical RCE Vulnerabilities in React and Next.js",
+    "url": "https://www.wiz.io/blog/critical-vulnerability-in-react-cve-2025-55182",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Rocketable (YC W25) is hiring a founding engineer to automate software companies",
+    "url": "https://www.ycombinator.com/companies/rocketable/jobs/CArgzmX-founding-engineer-automation-platform",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "RCE Vulnerability in React and Next.js",
+    "url": "https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  }
+]
