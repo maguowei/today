@@ -1,5 +1,14 @@
 [
   {
+    "title": "Apple Services Experiencing Outage",
+    "url": "https://www.apple.com/support/systemstatus/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "The future of Terraform CDK",
     "url": "https://github.com/hashicorp/terraform-cdk",
     "source": {
