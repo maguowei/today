@@ -1,5 +1,14 @@
 [
   {
+    "title": "Days since last GitHub incident",
+    "url": "https://github-incidents.pages.dev/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "Things I want to say to my boss",
     "url": "https://www.ithoughtaboutthatalot.com/2025/the-things-i-want-to-say-to-my-boss",
     "source": {
