@@ -1,5 +1,14 @@
 [
   {
+    "title": "Patterns.dev",
+    "url": "https://www.patterns.dev/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "Why no one talks about React2Shell?",
     "url": "https://elenacross7.medium.com/react2shell-my-droplet-joined-a-botnet-c4850b079515",
     "source": {
