@@ -241,5 +241,23 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Wine 11.0 RC2 – Run Windows Applications on Linux, BSD, Solaris and macOS",
+    "url": "https://gitlab.winehq.org/wine/wine/-/releases/wine-11.0-rc2",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig",
+    "url": "https://github.com/ringtailsoftware/uvm32",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
