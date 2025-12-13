@@ -1,5 +1,50 @@
 [
   {
+    "title": "Rats Play DOOM",
+    "url": "https://ratsplaydoom.com/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI",
+    "url": "https://simonwillison.net/2025/Dec/12/openai-skills/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Capsudo: Rethinking Sudo with Object Capabilities",
+    "url": "https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Can I use HTTPS RRs?",
+    "url": "https://www.netmeister.org/blog/https-caniuse.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "50 years of proof assistants",
+    "url": "https://lawrencecpaulson.github.io//2025/12/05/History_of_Proof_Assistants.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig",
     "url": "https://github.com/ringtailsoftware/uvm32",
     "source": {
