@@ -1,5 +1,50 @@
 [
   {
+    "title": "Fix HDMI-CEC weirdness with a Raspberry Pi and a $7 cable",
+    "url": "https://johnlian.net/posts/hdmi-cec/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Economics of Orbital vs. Terrestrial Data Centers",
+    "url": "https://andrewmccalip.com/space-datacenters",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "1/4 of US-Trained Scientists Eventually Leave. Is the US Giving Away Its Edge?",
+    "url": "https://arxiv.org/abs/2512.11146",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "I used Claude Code to write a piano web app",
+    "url": "https://jcurcioconsulting.com/posts/how-i-used-claude-code-to-write-a-piano-web-app",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Secret Documents Show Pepsi and Walmart Colluded to Raise Food Prices",
+    "url": "https://www.thebignewsletter.com/p/secret-documents-show-pepsi-and-walmart",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "A kernel bug froze my machine: Debugging an async-profiler deadlock",
     "url": "https://questdb.com/blog/async-profiler-kernel-bug/",
     "source": {
