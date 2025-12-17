@@ -1,5 +1,77 @@
 [
   {
+    "title": "How SQLite is tested",
+    "url": "https://sqlite.org/testing.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Tell HN: HN was down",
+    "url": "https://news.ycombinator.com/item?id=46301921",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Why outcome-billing makes sense for AI Agents",
+    "url": "https://www.valmi.io/blog/an-imperative-for-ai-agents-outcome-billing-with-valmi/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: High-Performance Wavelet Matrix for Python, Implemented in Rust",
+    "url": "https://pypi.org/project/wavelet-matrix/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "AI capability isn't humanness",
+    "url": "https://research.roundtable.ai/capabilities-humanness/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "FCC chair suggests agency isn't independent, word cut from mission statement",
+    "url": "https://www.axios.com/2025/12/17/brendan-carr-fcc-independent-senate-testimony-website",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Doublespeed hacked, revealing what its AI-generated accounts are promoting",
+    "url": "https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Put SSH keys in .git to make repos USB-portable",
+    "url": "https://dansjots.github.io/posts/per-repo-ssh-key/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "AWS CEO says replacing junior devs with AI is 'one of the dumbest ideas'",
     "url": "https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers",
     "source": {
