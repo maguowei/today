@@ -1,5 +1,23 @@
 [
   {
+    "title": "Getting bitten by Intel's poor naming schemes",
+    "url": "https://lorendb.dev/posts/getting-bitten-by-poor-naming-schemes/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Orbit a systems level programming language that compiles .sh to LLVM",
+    "url": "https://github.com/SIE-Libraries/orbit",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "Property-Based Testing Caught a Security Bug I Never Would Have Found",
     "url": "https://kiro.dev/blog/property-based-testing-fixed-security-bug/",
     "source": {
