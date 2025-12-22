@@ -1,5 +1,23 @@
 [
   {
+    "title": "Build Android apps using Rust and Iced",
+    "url": "https://github.com/ibaryshnikov/android-iced-example",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Rust/WASM lighting data toolkit – parses legacy formats, generates SVGs",
+    "url": "https://eulumdat.icu",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "Build Android apps using Rust and iced",
     "url": "https://github.com/ibaryshnikov/android-iced-example",
     "source": {
