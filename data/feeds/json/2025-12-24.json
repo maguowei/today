@@ -1,5 +1,32 @@
 [
   {
+    "title": "We replaced H.264 streaming with JPEG screenshots (and it worked better)",
+    "url": "https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Meta is using the Linux scheduler designed for Valve's Steam Deck on its servers",
+    "url": "https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Towards a secure peer-to-peer app platform for Clan",
+    "url": "https://clan.lol/blog/towards-app-platform-vmtech/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "Fabrice Bellard Releases MicroQuickJS",
     "url": "https://github.com/bellard/mquickjs/blob/main/README.md",
     "source": {
