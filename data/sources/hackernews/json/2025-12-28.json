@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "title": "VSCode rebrands as \"The open source AI code editor\"",
+    "url": "https://code.visualstudio.com",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "This PNG shows a different version when opened in Chrome than in an image viewer",
+    "url": "https://lr0.org/blog/p/pngchanges/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  }
+]
