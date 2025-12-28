@@ -1,5 +1,32 @@
 [
   {
+    "title": "Calendar",
+    "url": "https://neatnik.net/calendar/?year=2026",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Dialtone – AOL 3.0 Server",
+    "url": "https://dialtone.live/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Public Domain Day 2026",
+    "url": "https://web.law.duke.edu/cspd/publicdomainday/2026/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "Nvidia deal a big win for Groq employees and investors",
     "url": "https://www.axios.com/2025/12/28/nvidia-groq-shareholders",
     "source": {
