@@ -277,5 +277,23 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "S&P500 Priced in Gold",
+    "url": "https://pricedingold.com/sp-500/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "We don't need more contributors who aren't programmers to contribute code",
+    "url": "https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
