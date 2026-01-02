@@ -1,5 +1,14 @@
 [
   {
+    "title": "Why Prefer Textfiles? (2010)",
+    "url": "http://textfiles.com/uploads/textfiles.txt",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "WebAssembly as a Python Extension Platform",
     "url": "https://nullprogram.com/blog/2026/01/01/",
     "source": {
