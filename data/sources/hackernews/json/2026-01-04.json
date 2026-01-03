@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "title": "The Most Popular Blogs of Hacker News in 2025",
+    "url": "https://refactoringenglish.com/blog/2025-hn-top-5/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The C3 Programming Language",
+    "url": "https://c3-lang.org",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  }
+]
