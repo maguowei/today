@@ -1,5 +1,14 @@
 [
   {
+    "title": "Anatomy of BoltzGen",
+    "url": "https://huggingface.co/spaces/ludocomito/anatomy-of-boltzgen",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "Can I start using Wayland in 2026?",
     "url": "https://michael.stapelberg.ch/posts/2026-01-04-wayland-sway-in-2026/",
     "source": {
