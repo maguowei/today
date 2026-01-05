@@ -1,5 +1,14 @@
 [
   {
+    "title": "A spider web unlike any seen before (2025)",
+    "url": "https://www.nytimes.com/2025/11/08/science/biggest-spiderweb-sulfur-cave.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "Building a Rust-style static analyzer for C++ with AI",
     "url": "http://mpaxos.com/blog/rusty-cpp.html",
     "source": {
