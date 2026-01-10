@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "title": "Open Chaos: A self-evolving open-source project",
+    "url": "https://www.openchaos.dev/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Microsoft May Have Created the Slowest Windows in 25 Years with Windows 11",
+    "url": "https://www.eteknix.com/microsoft-may-have-created-the-slowest-windows-in-25-years-with-windows-11/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  }
+]
