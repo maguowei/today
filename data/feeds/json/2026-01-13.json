@@ -1,5 +1,32 @@
 [
   {
+    "title": "Show HN: AI in SolidWorks",
+    "url": "https://www.trylad.com",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Message Queues: A Simple Guide with Analogies",
+    "url": "https://www.cloudamqp.com/blog/message-queues-exaplined-with-analogies.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Building a 25 Gbit/s workstation for the SCION Association",
+    "url": "https://github.com/scionassociation/blog-25gbit-workstation",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "TimeCapsuleLLM: LLM trained only on data from 1800-1875",
     "url": "https://github.com/haykgrigo3/TimeCapsuleLLM",
     "source": {
