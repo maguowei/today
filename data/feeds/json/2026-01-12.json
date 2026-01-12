@@ -1,5 +1,14 @@
 [
   {
+    "title": "Fossil versus Git",
+    "url": "https://fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "Lightpanda migrate DOM implementation to Zig",
     "url": "https://lightpanda.io/blog/posts/migrating-our-dom-to-zig",
     "source": {
