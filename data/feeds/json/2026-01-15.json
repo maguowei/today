@@ -1,5 +1,32 @@
 [
   {
+    "title": "Claude Cowork exfiltrates files",
+    "url": "https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Tech Writers Are About to Become Obsolete",
+    "url": "https://kibbler.dev/blog/turn-your-codebase-into-a-knowledge-base",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Project SkyWatch (a.k.a. Wescam at Home)",
+    "url": "https://ianservin.com/2026/01/13/project-skywatch-aka-wescam-at-home/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "Show HN: Sparrow-1 – Audio-native model for human-level turn-taking without ASR",
     "url": "https://www.tavus.io/post/sparrow-1-human-level-conversational-timing-in-real-time-voice",
     "source": {
