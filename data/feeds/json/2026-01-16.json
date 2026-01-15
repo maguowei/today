@@ -1,5 +1,32 @@
 [
   {
+    "title": "JuiceFS is a distributed POSIX file system built on top of Redis and S3",
+    "url": "https://github.com/juicedata/juicefs",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "UK offshore wind prices come in 40% cheaper than gas in record auction",
+    "url": "https://electrek.co/2026/01/14/uk-offshore-wind-record-auction/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "‘ELITE’: The Palantir app ICE uses to find neighborhoods to raid",
+    "url": "https://werd.io/elite-the-palantir-app-ice-uses-to-find-neighborhoods-to-raid/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "Ask HN: How can we solve the loneliness epidemic?",
     "url": "https://news.ycombinator.com/item?id=46635345",
     "source": {
