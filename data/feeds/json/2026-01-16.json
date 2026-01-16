@@ -1,5 +1,32 @@
 [
   {
+    "title": "Just the Browser",
+    "url": "https://justthebrowser.com/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: Hc: an agentless, multi-tenant shell history sink",
+    "url": "https://github.com/alessandrocarminati/hc",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Signal creator Moxie Marlinspike wants to do for AI what he did for messaging",
+    "url": "https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "On Being a Human Being in the Time of Collapse (2022) [pdf]",
     "url": "https://web.cs.ucdavis.edu/~rogaway/papers/crisis/crisis.pdf",
     "source": {
