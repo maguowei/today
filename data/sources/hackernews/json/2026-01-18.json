@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "title": "The Resonant Computing Manifesto",
+    "url": "https://resonantcomputing.org/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Apples, Trees, and Quasimodes",
+    "url": "https://systemstack.dev/2025/09/humane-computing/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Escaping the trap of US tech dependence",
+    "url": "https://disconnect.blog/escaping-the-trap-of-us-tech-dependence/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  }
+]
