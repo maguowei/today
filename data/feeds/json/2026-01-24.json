@@ -1,5 +1,23 @@
 [
   {
+    "title": "Certificate Transparency Log Explorer",
+    "url": "https://certs.swerdlow.dev",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "TikTok Is Now Collecting More Data About Its Users",
+    "url": "https://www.wired.com/story/tiktok-new-privacy-policy/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "Unrolling the Codex agent loop",
     "url": "https://openai.com/index/unrolling-the-codex-agent-loop/",
     "source": {
