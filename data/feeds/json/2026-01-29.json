@@ -1,5 +1,23 @@
 [
   {
+    "title": "Microsoft's Azure Linux",
+    "url": "https://github.com/microsoft/azurelinux",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "DECwindows Motif",
+    "url": "https://products.vmssoftware.com/decwindowsmotif",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "We can't send mail farther than 500 miles (2002)",
     "url": "https://web.mit.edu/jemorris/humor/500-miles",
     "source": {
