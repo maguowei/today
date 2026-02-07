@@ -1,5 +1,14 @@
 [
   {
+    "title": "Zlob.h 100% POSIX and glibc compatible globbing lib that is faste and better",
+    "url": "https://github.com/dmtrKovalenko/zlob",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "WebView performance significantly slower than PWA",
     "url": "https://issues.chromium.org/issues/40817676",
     "source": {
