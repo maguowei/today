@@ -1,5 +1,14 @@
 [
   {
+    "title": "WebView performance significantly slower than PWA",
+    "url": "https://issues.chromium.org/issues/40817676",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "Make Trust Irrelevant: A Gamer's Take on Agentic AI Safety",
     "url": "https://github.com/Deso-PK/make-trust-irrelevant",
     "source": {
