@@ -1,5 +1,50 @@
 [
   {
+    "title": "Vouch",
+    "url": "https://github.com/mitchellh/vouch",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "I put a real-time 3D shader on the Game Boy Color",
+    "url": "https://blog.otterstack.com/posts/202512-gbshader/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Let's compile Quake like it's 1997",
+    "url": "https://fabiensanglard.net/compile_like_1997/index.html",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The First Sodium-Ion Battery EV Is a Winter Range Monster",
+    "url": "https://insideevs.com/news/786509/catl-changan-worlds-first-sodium-ion-battery-ev/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Bun v1.3.9",
+    "url": "https://bun.com/blog/bun-v1.3.9",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "Billing can be bypassed using a combo of subagents with an agent definition",
     "url": "https://github.com/microsoft/vscode/issues/292452",
     "source": {
