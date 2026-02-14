@@ -1,5 +1,23 @@
 [
   {
+    "title": "Ooh.directory: a place to find good blogs that interest you",
+    "url": "https://ooh.directory/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "How many registers does an x86-64 CPU have? (2020)",
+    "url": "https://blog.yossarian.net/2020/11/30/How-many-registers-does-an-x86-64-cpu-have",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "Show HN: Prompt to Planet, generate procedural 3D planets from text",
     "url": "https://prompttoplanet.n4ze3m.com/",
     "source": {
