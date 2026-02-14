@@ -196,5 +196,23 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Show HN: Data Engineering Book – An open source, community-driven guide",
+    "url": "https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The evolution of OpenAI's mission statement",
+    "url": "https://simonwillison.net/2026/Feb/13/openai-mission-statement/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
