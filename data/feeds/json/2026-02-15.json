@@ -1,5 +1,23 @@
 [
   {
+    "title": "Kimi Claw",
+    "url": "https://www.kimi.com/bot",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "The Dark Side of the Enlightenment",
+    "url": "https://www.newstatesman.com/culture/books/2026/02/the-dark-side-of-the-enlightenment",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "Show HN: Perlin Noise Terminal Animation in Rust (60 FPS, Truecolor)",
     "url": "https://github.com/denisepattenson/perlin-terminal",
     "source": {
