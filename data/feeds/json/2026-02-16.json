@@ -1,5 +1,14 @@
 [
   {
+    "title": "MessageFormat: Unicode standard for localizable message strings",
+    "url": "https://github.com/unicode-org/message-format-wg",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "picol: A Tcl interpreter in 500 lines of code",
     "url": "https://github.com/antirez/picol",
     "source": {
