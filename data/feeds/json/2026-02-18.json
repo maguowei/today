@@ -1,5 +1,14 @@
 [
   {
+    "title": "TinyIce: Single-binary Icecast2-compatible server (auto-HTTPS, multi-tenant)",
+    "url": "https://github.com/DatanoiseTV/tinyice",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "15 years later, Microsoft morged my diagram",
     "url": "https://nvie.com/posts/15-years-later/",
     "source": {
