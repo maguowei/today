@@ -1,5 +1,23 @@
 [
   {
+    "title": "European Tech Alternatives",
+    "url": "https://eutechmap.com/map",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: A Lisp where each function call runs a Docker container",
+    "url": "https://github.com/a11ce/docker-lisp",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "Ukranian controls Home Assistant over LoRa radio when their power grid goes down",
     "url": "https://old.reddit.com/r/homeassistant/comments/1r8ftc0/i_control_my_home_assistant_over_lora_radio_when/",
     "source": {
