@@ -1,5 +1,95 @@
 [
   {
+    "title": "Show HN: An encrypted, local, cross-platform journaling app",
+    "url": "https://github.com/fjrevoredo/mini-diarium",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Bridging Elixir and Python with Oban",
+    "url": "https://oban.pro/articles/bridging-with-oban",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Coding Tricks Used in the C64 Game Seawolves",
+    "url": "https://kodiak64.co.uk/blog/seawolves-technical-tricks",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Pebble Production: February Update",
+    "url": "https://repebble.com/blog/february-pebble-production-and-software-updates",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: A physically-based GPU ray tracer written in Julia",
+    "url": "https://makie.org/website/blogposts/raytracing/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Paged Out Issue #8 [pdf]",
+    "url": "https://pagedout.institute/download/PagedOut_008.pdf",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: LatentScore – Type a mood, get procedural/ambient music (open source)",
+    "url": "https://latentscore.com/demo",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "ShannonMax: A Library to Optimize Emacs Keybindings with Information Theory",
+    "url": "https://github.com/sstraust/shannonmax",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "DOGE Track",
+    "url": "https://dogetrack.info/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "UK to force social media to remove abusive pics in 48 hours",
+    "url": "https://www.theregister.com/2026/02/19/uk_intimate_images_online/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "What years of production-grade concurrency teaches us about building AI agents",
     "url": "https://georgeguimaraes.com/your-agent-orchestrator-is-just-a-bad-clone-of-elixir/",
     "source": {
