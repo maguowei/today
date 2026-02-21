@@ -1,5 +1,14 @@
 [
   {
+    "title": "Show HN: Script Snap – Extract code from videos",
+    "url": "https://script-snap.com/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "Excessive token usage in Claude Code",
     "url": "https://github.com/anthropics/claude-code/issues/16856",
     "source": {
