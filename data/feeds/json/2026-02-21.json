@@ -1,5 +1,32 @@
 [
   {
+    "title": "Turn Dependabot off",
+    "url": "https://words.filippo.io/dependabot/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Acme Weather",
+    "url": "https://acmeweather.com/blog/introducing-acme-weather",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Trunk Based Development",
+    "url": "https://trunkbaseddevelopment.com/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "Meta Deployed AI and It Is Killing Our Agency",
     "url": "https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/",
     "source": {
