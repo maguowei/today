@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "title": "Packaging a Gleam app into a single executable",
+    "url": "https://www.dhzdhd.dev/blog/gleam-executable",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: I turned Claude Code into a personal assistant",
+    "url": "https://github.com/daxaur/openpaw",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Notes on Lagrange Interpolating Polynomials",
+    "url": "https://eli.thegreenplace.net/2026/notes-on-lagrange-interpolating-polynomials/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Launch HN: OctaPulse (YC W26) – Robotics and computer vision for fish farming",
+    "url": "https://news.ycombinator.com/item?id=47220320",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Reflex (YC W23) Is Hiring Software Engineers – Python",
+    "url": "https://www.ycombinator.com/companies/reflex/jobs",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Ask HN: Who is hiring? (March 2026)",
+    "url": "https://news.ycombinator.com/item?id=47219668",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  }
+]
