@@ -1,5 +1,23 @@
 [
   {
+    "title": "Agentic Engineering Patterns",
+    "url": "https://simonwillison.net/guides/agentic-engineering-patterns/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Better JIT for Postgres",
+    "url": "https://github.com/vladich/pg_jitter",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "A CPU that runs entirely on GPU",
     "url": "https://github.com/robertcprice/nCPU",
     "source": {
