@@ -196,5 +196,32 @@
       "desc": "Hacker News",
       "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
     }
+  },
+  {
+    "title": "Plasma Bigscreen – 10-foot interface for KDE plasma",
+    "url": "https://plasma-bigscreen.org",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Show HN: The Roman Industrial Revolution that could have been (Vol 2)",
+    "url": "https://thelydianstone.com/volume-2",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "C# strings silently kill your SQL Server indexes in Dapper",
+    "url": "https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
   }
 ]
