@@ -1,5 +1,23 @@
 [
   {
+    "title": "AI and the Illegal War",
+    "url": "https://buttondown.com/creativegood/archive/ai-and-the-illegal-war/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Game about Data of America",
+    "url": "https://americaindata.com/",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "UUID package coming to Go standard library",
     "url": "https://github.com/golang/go/issues/62026",
     "source": {
