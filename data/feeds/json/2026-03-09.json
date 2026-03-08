@@ -1,5 +1,32 @@
 [
   {
+    "title": "Blacksky AppView",
+    "url": "https://github.com/blacksky-algorithms/atproto",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Lil Finder Guy",
+    "url": "https://basicappleguy.com/basicappleblog/lil-finder-guy",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
+    "title": "Artificial-life: A simple (300 lines of code) reproduction of Computational Life",
+    "url": "https://github.com/Rabrg/artificial-life",
+    "source": {
+      "name": "hackernews",
+      "desc": "Hacker News",
+      "icon": "https://raw.githubusercontent.com/maguowei/today/master/imgs/icon/hackernews.png"
+    }
+  },
+  {
     "title": "Neural Boids",
     "url": "https://campedersen.com/noid",
     "source": {
